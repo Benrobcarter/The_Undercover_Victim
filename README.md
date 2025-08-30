@@ -1,69 +1,41 @@
+# The Undercover Victim – Consolidated Shard Merge (v1.0)
 
-# 🕵️‍♂️ The Undercover Victim: Universal Evidence Project
+This repository holds the most recent consolidated evidence, contradiction, and timeline files from the `consolidate_shards.py` merge utility.
 
-**Documenting systemic failure, safeguarding breaches, and institutional contradictions.**  
-This is a living archive — combining legal evidence, emotional narrative, and forensic metadata — built to expose how justice was denied and rewritten by silence.
+## 🔧 Merge Summary
 
----
+- Script: `consolidate_shards.py`
+- Run from: `~/Documents/The_Undercover_Victim`
+- Output directory: `08_audit/`
+- Run date: 2025-08-30
 
-## 📦 What This Repo Contains
+## ✅ Included Shards
 
-| Folder                        | Purpose                                                                 |
-|------------------------------|-------------------------------------------------------------------------|
-| `01_evidence/`               | Primary evidence files: emails, voicemails, transcripts, screenshots    |
-| `02_contradictions/`         | Auto + manual contradiction files powering the atlas                    |
-| `03_timelines/`              | VEX-tagged events, legal escalation entries, and meta timelines         |
-| `04_book/`                   | Drafts and inserts for *The Undercover Victim* narrative                |
-| `07_meta/`                   | Shards, indexes, and logic files for dashboard + processing             |
-| `08_audit/`                  | Snapshots of project states, hash checks, and working diffs             |
-| `dashboard/`                 | Visual interface powered by `consolidated_master.json`                  |
+| Shard Name                     | Output Key            | Notes                                       |
+|-------------------------------|------------------------|---------------------------------------------|
+| `shard_contradictions_core`   | `contradictions.json`  | Core contradiction entries                  |
+| `shard_contradictions_vex`    | `contradictions_vex.json` | VEX-tagged contradiction fragments      |
+| `shard_timelines_core`        | `timelines.json`       | Timeline structure and events               |
+| `shard_evidence_vex`          | `evidence_vex.json`    | VEX-tagged evidence references              |
+| `shard_manifest_meta`         | `manifest_meta.json`   | File metadata and structure mappings        |
+| `contradictions_holiday_alibi`| `contradictions.json`  | ✅ Merged into main contradiction stream     |
 
----
+## 📦 Output Files (in `08_audit/`)
 
-## 🔧 Run the Shard Merge
+- `consolidated_master.json` → Full merged bundle
+- `contradictions.json` → Merged contradictions
+- `contradictions_vex.json` → VEX-only contradiction fragments
+- `evidence_vex.json` → Tagged evidence
+- `timelines.json` → Timeline stream
+- `manifest_meta.json` → Meta overview
 
-To rebuild the core dashboard JSON from all project shards:
+## 🧩 Working State
 
-```bash
-pip install -r requirements.txt
-python consolidate_shards.py
-```
+The following `working_state.json` was used:
 
-Outputs:
-```
-PROJECT_SHARDED_*/_consolidated/consolidated_master.json
-```
-
-Copy this to `dashboard/` to view the latest state.
-
----
-
-## 🧩 Core Files
-
-| File                                                        | Purpose                                      |
-|-------------------------------------------------------------|----------------------------------------------|
-| `shard_contradictions_core.json`                            | All contradictions loaded into dashboard     |
-| `shard_evidence_vex.json`                                   | VEX-tagged quotes from calls, emails, chat   |
-| `shard_timelines_core.json`                                 | Canonical timeline from all sources          |
-| `MASTER_COMPLAINT_INDEX_v1.json`                            | Formal legal index and cluster logic         |
-| `UNDERCOVER_VICTIM_QUOTE_BANK.json`                         | Source quotes powering overlays + timelines  |
-| `ONE_LINERS_CARDS_v1.md`                                    | Slogans, punchlines, fragments               |
-
----
-
-## 🚀 Live Usage
-
-- Visual dashboard pulls from `consolidated_master.json`
-- GitHub repo serves as audit + collaboration layer
-- Divi / policeplease.com site renders book, contradictions, and media
-
----
-
-## 🛡 License
-
-This repository is shared under an open documentation and personal storytelling license. All quotes, evidence, and timelines are protected under UK data protection, defamation, and survivor safeguarding rights.
-
----
-
-> 📣 “Where they chose silence, I created record.”  
-> — *The Undercover Victim*
+```json
+{
+  "version": "1.0",
+  "filters": {},
+  "notes": "Minimal working state for consolidate_shards.py"
+}

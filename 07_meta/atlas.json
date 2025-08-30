@@ -1,26 +1,16 @@
 {
   "version": "2.0",
   "shards": [
-    {
-      "name": "shard_contradictions_core",
-      "path": "07_meta/shard_contradictions_core.json"
-    },
-    {
-      "name": "shard_evidence_vex",
-      "path": "07_meta/shard_evidence_vex.json"
-    },
-    {
-      "name": "shard_timelines_core",
-      "path": "07_meta/shard_timelines_core.json"
-    },
-    {
-      "name": "shard_manifest_meta",
-      "path": "07_meta/shard_manifest_meta.json"
-    },
-    {
-      "name": "shard_contradictions_vex",
-      "path": "07_meta/contradictions_vex.json"
-    }
+    { "name": "shard_contradictions_core", "path": "07_meta/shard_contradictions_core.json" },
+    { "name": "shard_evidence_vex",       "path": "07_meta/shard_evidence_vex.json" },
+    { "name": "shard_timelines_core",     "path": "07_meta/shard_timelines_core.json" },
+    { "name": "shard_manifest_meta",      "path": "07_meta/shard_manifest_meta.json" },
+    { "name": "shard_contradictions_vex", "path": "07_meta/contradictions_vex.json" },
+
+    { "name": "contradictions_holiday_alibi", "path": "07_meta/CONTRADICTION_PACK_HOLIDAY_ALIBI_FULL_BUNDLE.json" },
+
+    { "name": "contradictions_duncan_patch",  "path": "07_meta/DUNCAN_ATTEMPTED_MURDER_CONTRADICTION_PATCH.json" },
+    { "name": "contradictions_veritas_chat",  "path": "07_meta/EX_VERITAS_CHAT_CONTRADICTION_2025.json" }
   ],
-  "notes": "Paths now fully prefixed with 07_meta/ for consistency regardless of working directory."
+  "notes": "Shards prefixed with 07_meta/. Extra contradiction bundles mapped to 'contradictions_*' names."
 }

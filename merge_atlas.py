@@ -1,12 +1,47 @@
 #!/usr/bin/env python3
+"""
+Merge atlas shards into consolidated JSON files.
+
+- Reads atlas.json with a list of shards (name + path)
+- Loads each shard's JSON and maps it into buckets (contradictions, timelines, etc.)
+- Writes:
+    - consolidated_master.json (everything + working_state)
+    - <bucket>.json files with {"items": [...]}
+- Outputs to both the chosen out_dir and dashboard/data
+- Extras:
+    --dedupe           : remove duplicates by 'id' (stable)
+    --fail-on-missing  : exit non-zero if any shard fails to load
+"""
+
 import argparse
 import json
 import sys
 from dataclasses import dataclass
 from pathlib import Path
-from typing import Any, Dict, Iterable, List, Optional, Tuple
+from typing import Any, Dict, Iterable, List, Optional
 
-# ---------- IO helpers ----------
+# ------------------ Config ------------------
+
+MAPPING: Dict[str, str] = {
+    "shard_contradictions_core": "contradictions",
+    "shard_contradictions_vex": "contradictions_vex",
+    "shard_timelines_core": "timelines",
+    "shard_evidence_vex": "evidence_vex",
+    "shard_manifest_meta": "manifest_meta",
+    "contradictions_holiday_alibi": "contradictions",
+    "contradictions_veritas_chat": "contradictions",
+    "contradictions_duncan_patch": "contradictions",
+}
+
+BUCKET_KEYS = [
+    "contradictions",
+    "contradictions_vex",
+    "timelines",
+    "evidence_vex",
+    "manifest_meta",
+]
+
+# ------------------ IO helpers ------------------
 
 def load_json(p: Path) -> Optional[Any]:
     try:
@@ -32,62 +67,32 @@ def write_json(p: Path, obj: Any) -> bool:
         print(f"[❌ ERROR] Writing JSON failed: {p}\n→ {e}")
         return False
 
-# ---------- Models ----------
+# ------------------ Types ------------------
 
 @dataclass
 class ShardRef:
     name: str
     path: Path
 
-# ---------- Core ----------
-
-MAPPING: Dict[str, str] = {
-    "shard_contradictions_core": "contradictions",
-    "shard_contradictions_vex": "contradictions_vex",
-    "shard_timelines_core": "timelines",
-    "shard_evidence_vex": "evidence_vex",
-    "shard_manifest_meta": "manifest_meta",
-    "contradictions_holiday_alibi": "contradictions",
-    "contradictions_veritas_chat": "contradictions",
-    "contradictions_duncan_patch": "contradictions",
-}
-
-BUCKET_KEYS = [
-    "contradictions",
-    "contradictions_vex",
-    "timelines",
-    "evidence_vex",
-    "manifest_meta",
-]
-
-def validate_atlas(atlas: Any) -> Tuple[bool, Optional[List[ShardRef]], Optional[Path]]:
-    if not isinstance(atlas, dict):
-        print("[❌ ERROR] atlas.json root must be an object")
-        return False, None, None
-
-    shards = atlas.get("shards")
-    if not isinstance(shards, list):
-        print("[❌ ERROR] atlas.json must contain a 'shards' array")
-        return False, None, None
-
-    # Root used to resolve shard paths like original code
-    atlas_file_path = Path(atlas.get("__file__", ""))  # placeholder; we’ll pass externally
-    shard_refs: List[ShardRef] = []
-    return True, shard_refs, atlas_file_path
+# ------------------ Core logic ------------------
 
 def parse_shards(atlas_obj: dict, atlas_path: Path) -> List[ShardRef]:
     shard_refs: List[ShardRef] = []
     shards = atlas_obj.get("shards", [])
+    if not isinstance(shards, list):
+        print("[❌ ERROR] atlas.json must contain a 'shards' array.")
+        return shard_refs
+
     root = atlas_path.resolve().parent
 
     for idx, s in enumerate(shards):
         if not isinstance(s, dict):
-            print(f"[skip] Invalid shard entry at index {idx}: expected object, got {type(s).__name__}")
+            print(f"[skip] Invalid shard entry at index {idx}: expected object.")
             continue
         name = s.get("name")
         rel_path = s.get("path")
-        if not name or not rel_path or not isinstance(name, str) or not isinstance(rel_path, str):
-            print(f"[skip] Shard missing 'name' or 'path' at index {idx}")
+        if not isinstance(name, str) or not isinstance(rel_path, str) or not name or not rel_path:
+            print(f"[skip] Shard missing valid 'name' or 'path' at index {idx}")
             continue
         sp = (root.parent / rel_path).resolve()
         shard_refs.append(ShardRef(name=name, path=sp))
@@ -122,18 +127,20 @@ def merge_items(loaded_shards: Dict[str, Any]) -> Dict[str, List[Any]]:
     return buckets
 
 def dedupe_by_id(items: List[Any]) -> List[Any]:
-    """De-duplicate list of dicts by 'id' if present; otherwise returns items unchanged order-stably."""
+    """
+    De-duplicate list of dicts by 'id' (string or int). Stable: keeps first seen.
+    If an item lacks 'id', it is kept as-is.
+    """
     seen = set()
     out: List[Any] = []
     for it in items:
         if isinstance(it, dict) and "id" in it and isinstance(it["id"], (str, int)):
-            k = ("id", it["id"])
+            k = it["id"]
             if k in seen:
                 continue
             seen.add(k)
             out.append(it)
         else:
-            # If no id, keep as-is (can’t dedupe safely)
             out.append(it)
     return out
 
@@ -143,13 +150,7 @@ def build_output_payload(
     working_state_error: Optional[str],
     perform_dedupe: bool,
 ) -> Dict[str, Any]:
-    merged: Dict[str, Any] = {
-        "contradictions": merged_buckets.get("contradictions", []),
-        "contradictions_vex": merged_buckets.get("contradictions_vex", []),
-        "timelines": merged_buckets.get("timelines", []),
-        "evidence_vex": merged_buckets.get("evidence_vex", []),
-        "manifest_meta": merged_buckets.get("manifest_meta", []),
-    }
+    merged: Dict[str, Any] = {k: merged_buckets.get(k, []) for k in BUCKET_KEYS}
 
     if perform_dedupe:
         for k in BUCKET_KEYS:
@@ -170,7 +171,6 @@ def write_outputs(out_dir: Path, merged: Dict[str, Any]) -> bool:
     ok = True
     targets = [out_dir, Path("dashboard/data")]
     for directory in targets:
-        directory.mkdir(parents=True, exist_ok=True)
         if not write_json(directory / "consolidated_master.json", merged):
             ok = False
         for k in BUCKET_KEYS:
@@ -179,7 +179,7 @@ def write_outputs(out_dir: Path, merged: Dict[str, Any]) -> bool:
     print(f"✅ Wrote consolidated files to: {[str(d) for d in targets]}")
     return ok
 
-# ---------- CLI ----------
+# ------------------ CLI ------------------
 
 def parse_args(argv: List[str]) -> argparse.Namespace:
     p = argparse.ArgumentParser(
@@ -204,31 +204,27 @@ def main(argv: List[str]) -> int:
         print("❌ Cannot continue: atlas.json is invalid or missing")
         return 2
 
-    shard_refs = parse_shards(atlas, atlas_path)
+    shard_refs = parse_shards(atlas if isinstance(atlas, dict) else {}, atlas_path)
     if not shard_refs:
         print("❌ No valid shards found in atlas.json")
         return 3
 
     loaded = load_all_shards(shard_refs)
-    if args.fail_on-missing if False else False:  # placeholder to avoid NameError in linting
-        pass
     if args.fail_on_missing and len(loaded) != len(shard_refs):
         print("❌ One or more shards failed to load (per --fail-on-missing).")
         return 4
 
     merged_buckets = merge_items(loaded)
 
-    working_state_error = None
-    working_state = None
     ws = load_json(working_state_path)
+    working_state_error = None
     if ws is None:
-        # differentiate between not found and broken
         if not working_state_path.exists():
             print(f"[ℹ️ info] working_state.json not found at {working_state_path}; proceeding with empty object")
             working_state = {}
         else:
-            working_state_error = f"Failed to load working_state from {working_state_path}"
             working_state = {}
+            working_state_error = f"Failed to load working_state from {working_state_path}"
     else:
         working_state = ws
 
