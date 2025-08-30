@@ -1,0 +1,111 @@
+{
+  "meta": {
+    "contradiction_id": "CONTRA_2025-06-22_101_Humiliation_Protocol",
+    "title": "The 101 Humiliation Protocol — Rights Denied, Records Distorted",
+    "date_local": "2025-06-22",
+    "parties": [
+      "Ben Carter",
+      "Sussex Police (101 Handler)"
+    ],
+    "clusters": [
+      "SUSSEX_POLICE",
+      "VICTIM_ERASURE_CONTINUED",
+      "GDPR_MISUSE_FOR_SILENCING",
+      "DEATH_BY_SILENCE_ESCALATION"
+    ],
+    "status": "open",
+    "source_evidence": [
+      "VEX_2025-06-22_101_Humiliation_Protocol"
+    ],
+    "version": "1.0.0",
+    "created_at": "2025-08-26T02:00:03.767754+00:00"
+  },
+  "assertions": [
+    {
+      "code": "CASE_STATUS_INCONSISTENT",
+      "desc": "Handler states no officer, later confirms PC Dixon is attached.",
+      "supporting_quotes": [
+        {
+          "t": "18:20",
+          "who": "101",
+          "text": "It doesn't look like there's... an officer attached."
+        },
+        {
+          "t": "20:05",
+          "who": "101",
+          "text": "Well, no, there is PC Dixon... He's the one dealing with that case."
+        }
+      ],
+      "grade": "silver"
+    },
+    {
+      "code": "VICTIMS_CODE_DENIAL",
+      "desc": "Callback/update refused after Victims’ Code citation.",
+      "supporting_quotes": [
+        {
+          "t": "24:06",
+          "who": "101",
+          "text": "You don't get to quote the Victim's Code... and then you get exactly what you want."
+        }
+      ],
+      "grade": "gold"
+    },
+    {
+      "code": "GDPR_MISAPPLICATION_BAIL_INFO",
+      "desc": "Bail status withheld with 'due to GDPR' justification.",
+      "supporting_quotes": [
+        {
+          "t": "22:05",
+          "who": "101",
+          "text": "I can't tell you that over the phone due to data protection."
+        }
+      ],
+      "grade": "silver"
+    },
+    {
+      "code": "EVIDENCE_LOGGING_OBSTRUCTED",
+      "desc": "Refusal to treat fresh harassment as a new crime/update.",
+      "supporting_quotes": [
+        {
+          "t": "21:02",
+          "who": "101",
+          "text": "No, there's not a new crime to be logged."
+        }
+      ],
+      "grade": "silver"
+    },
+    {
+      "code": "HUMILIATION_PROTOCOL_QUOTE",
+      "desc": "Derisive response to disclosed suicide attempt.",
+      "supporting_quotes": [
+        {
+          "t": "01:20",
+          "who": "101",
+          "text": "You're not dead, are you?"
+        }
+      ],
+      "grade": "gold"
+    },
+    {
+      "code": "CONTACT_RECORDS_MISSING",
+      "desc": "Logged calls not visible/acted upon.",
+      "supporting_quotes": [
+        {
+          "t": "23:30",
+          "who": "Ben",
+          "text": "I've called 45 times since April 6th and I have not had a call back."
+        }
+      ],
+      "grade": "silver"
+    }
+  ],
+  "impact": [
+    "Undermines integrity of case chronology and safeguarding response.",
+    "Elevates risk via denial of timely updates; obstructs evidence capture."
+  ],
+  "links": {
+    "evidence_ids": [
+      "VEX_2025-06-22_101_Humiliation_Protocol"
+    ]
+  }
+}

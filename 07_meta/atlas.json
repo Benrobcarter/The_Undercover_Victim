@@ -1,16 +1,26 @@
 {
-  "version": "1.0",
+  "version": "2.0",
   "shards": [
-    { "name": "shard_contradictions_core", "path": "07_meta/shard_contradictions_core.json", "type": "contradictions" },
-    { "name": "shard_evidence_vex", "path": "07_meta/shard_evidence_vex.json", "type": "evidence_vex" },
-    { "name": "shard_manifest_meta", "path": "07_meta/shard_manifest_meta.json", "type": "manifest_meta" },
-    { "name": "shard_contradictions_core_WITH_PROBE_SYNCED_v2", "path": "07_meta/shard_contradictions_core_WITH_PROBE_SYNCED_v2.json", "type": "contradictions" },
-    { "name": "VEX_UNDERCOVER_VICTIM_BUNDLE_v1", "path": "07_meta/VEX_UNDERCOVER_VICTIM_BUNDLE_v1.json", "type": "evidence_vex" },
-    { "name": "VEX_UNDERCOVER_VICTIM_BUNDLE_v1.8", "path": "07_meta/VEX_UNDERCOVER_VICTIM_BUNDLE_v1.8.json", "type": "evidence_vex" },
-    { "name": "VEX_CROWBARRING_MYSELF_JUSTICE_BUNDLE_v1.1", "path": "07_meta/VEX_CROWBARRING_MYSELF_JUSTICE_BUNDLE_v1.1.json", "type": "evidence_vex" },
-    { "name": "CONTRADICTION_PACK_HOLIDAY_ALIBI_FULL_BUNDLE", "path": "07_meta/CONTRADICTION_PACK_HOLIDAY_ALIBI_FULL_BUNDLE.json", "type": "contradictions" },
-    { "name": "shard_contradictions_core_WITH_THEDANCE", "path": "07_meta/shard_contradictions_core_WITH_THEDANCE.json", "type": "contradictions" },
-    { "name": "SECTION_3_WORKING_DRAFT_v1.1", "path": "07_meta/SECTION_3_WORKING_DRAFT_v1.1.md", "type": "notes" },
-    { "name": "ONE_LINERS_CARDS_v1", "path": "07_meta/ONE_LINERS_CARDS_v1.md", "type": "notes" }
-  ]
+    {
+      "name": "shard_contradictions_core",
+      "path": "07_meta/shard_contradictions_core.json"
+    },
+    {
+      "name": "shard_evidence_vex",
+      "path": "07_meta/shard_evidence_vex.json"
+    },
+    {
+      "name": "shard_timelines_core",
+      "path": "07_meta/shard_timelines_core.json"
+    },
+    {
+      "name": "shard_manifest_meta",
+      "path": "07_meta/shard_manifest_meta.json"
+    },
+    {
+      "name": "shard_contradictions_vex",
+      "path": "07_meta/contradictions_vex.json"
+    }
+  ],
+  "notes": "Paths now fully prefixed with 07_meta/ for consistency regardless of working directory."
 }

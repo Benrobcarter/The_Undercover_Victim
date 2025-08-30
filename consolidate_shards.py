@@ -19,7 +19,13 @@ def main(atlas_path: str, working_state_path: str, out_dir: str):
         sp = (root.parent / s["path"]).resolve()
         shards[s["name"]] = load_json(sp)
     # merge
-    merged = {"contradictions": [], "contradictions_vex": [], "timelines": [], "evidence_vex": [], "manifest_meta": []}
+    merged = {
+        "contradictions": [],
+        "contradictions_vex": [],
+        "timelines": [],
+        "evidence_vex": [],
+        "manifest_meta": []
+    }
     mapping = {
         "shard_contradictions_core": "contradictions",
         "shard_contradictions_vex": "contradictions_vex",
@@ -48,7 +54,7 @@ def main(atlas_path: str, working_state_path: str, out_dir: str):
     print(f"Wrote consolidated files to: {out_dir}")
 
 if __name__ == "__main__":
-    atlas_path = sys.argv[1] if len(sys.argv) > 1 else "PROJECT_SHARDED_2025-08-26_v5/atlas.json"
-    working_state_path = sys.argv[2] if len(sys.argv) > 2 else "PROJECT_SHARDED_2025-08-26_v5/working_state.json"
-    out_dir = sys.argv[3] if len(sys.argv) > 3 else "PROJECT_SHARDED_2025-08-26_v5/_consolidated"
+    atlas_path = sys.argv[1] if len(sys.argv) > 1 else "07_meta/atlas.json"
+    working_state_path = sys.argv[2] if len(sys.argv) > 2 else "07_meta/working_state.json"
+    out_dir = sys.argv[3] if len(sys.argv) > 3 else "08_audit"
     main(atlas_path, working_state_path, out_dir)

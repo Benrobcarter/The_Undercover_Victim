@@ -1,0 +1,15 @@
+{
+  "source_file": "2025-07-04_Two_Interactions.json",
+  "evaluated_at": "2025-08-25T20:31:06.924200Z",
+  "detected_types": [
+    "bail_condition_conflict",
+    "crime_number_conflict",
+    "nfa_not_notified"
+  ],
+  "new_vs_master": [
+    "crime_number_conflict",
+    "nfa_not_notified",
+    "bail_condition_conflict"
+  ],
+  "compare_master_loaded": false
+}
