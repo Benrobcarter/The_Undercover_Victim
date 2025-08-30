@@ -1,0 +1,536 @@
+{
+  "meta": {
+    "name": "VEX_UNDERCOVER_VICTIM_BUNDLE",
+    "version": "v1",
+    "generated_utc": "2025-08-26T04:34:18.468422Z",
+    "source_priority": [
+      "Master Complaint.txt",
+      "Section 2_ The Core Complaint & Timeline of Failure.docx.txt",
+      "01_ Complainant\u2019s Foreword.txt"
+    ],
+    "case_references": [
+      "47240141246",
+      "47240214305",
+      "CIT1201684"
+    ],
+    "series_title": "The Undercover Victim",
+    "updated_utc": "2025-08-26T04:35:40.646985Z"
+  },
+  "tag_legend": {
+    "SAFEGUARDING_FAILURE": "Safeguarding steps missed or delayed despite risk disclosures.",
+    "EVIDENCE_SUPPRESSION": "Evidence ignored, sidelined, or mishandled (incl. deletion).",
+    "GDPR_ACCESS_REFUSAL": "Personal data access blocked without specific, lawful basis.",
+    "RECORDING_HANDLING": "Issues around logging, retention, deletion, or audit of audio/records.",
+    "NFA_PREMATURE_COMMUNICATION": "Outcome-style messaging to suspect prior to safeguarding or completion.",
+    "DEATH_BY_SILENCE": "Escalating harm caused by non-response or delay.",
+    "TIMELINE_MANIPULATION": "Conflicting dates, back-dating, or reframing that alters chronology.",
+    "REPUTATIONAL_HARM": "Narrative/brand damage, public standing affected.",
+    "ONUS_PROBANDI_LOGIC": "Burden-of-proof / evidence standards explicitly engaged.",
+    "GOVERNANCE_FAILURE": "Organisational governance or charity-law failure indicators.",
+    "VICTIMS_CODE": "Victims' Code rights and duties implicated.",
+    "DPA_GDPR": "UK GDPR / DPA 2018 duties and limits implicated.",
+    "RECORDS_AUDIT": "Records management & audit trail duties implicated."
+  },
+  "sections": [
+    {
+      "id": "1",
+      "title": "Complainant\u2019s Foreword",
+      "series_key": "sec1_foreword",
+      "parts": [
+        {
+          "part": 1,
+          "entries": [
+            {
+              "text": "This complaint arises from repeated safeguarding failures and institutional silence following my first plea for help ('Police, please.') and the loss of a loved one that compels meticulous documentation.",
+              "vex_tags": [
+                "SAFEGUARDING_FAILURE",
+                "DEATH_BY_SILENCE",
+                "ONUS_PROBANDI_LOGIC",
+                "VICTIMS_CODE"
+              ],
+              "contradictions": [
+                "DEATH_BY_SILENCE"
+              ],
+              "timeline_hooks": [
+                "PersonalEvidence"
+              ],
+              "legal_refs": [
+                "VictimsCode"
+              ],
+              "evidence_refs": [
+                "SUBMISSION_2024-07-21_PolicePlease_Cover.txt"
+              ],
+              "emotional_tone": "resolute",
+              "undated_flag": false,
+              "metrics": {}
+            },
+            {
+              "text": "The purpose of this file is to create a transparent record others can test, not a narrative advantage.",
+              "vex_tags": [
+                "ONUS_PROBANDI_LOGIC",
+                "RECORDS_AUDIT"
+              ],
+              "contradictions": [],
+              "timeline_hooks": [
+                "PersonalEvidence"
+              ],
+              "legal_refs": [
+                "Records_Management"
+              ],
+              "evidence_refs": [],
+              "emotional_tone": "determined",
+              "undated_flag": false,
+              "metrics": {}
+            }
+          ],
+          "delta_findings": []
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "The Core Complaint & Timeline of Failures",
+      "series_key": "sec2_core",
+      "parts": [
+        {
+          "part": 1,
+          "entries": [
+            {
+              "text": "Safeguarding breached; evidence mishandled; suicide risk not consistently logged; institutional minimisation; potential misconduct in public office.",
+              "vex_tags": [
+                "SAFEGUARDING_FAILURE",
+                "EVIDENCE_SUPPRESSION",
+                "TIMELINE_MANIPULATION",
+                "VICTIMS_CODE"
+              ],
+              "contradictions": [],
+              "timeline_hooks": [
+                "SussexPolice"
+              ],
+              "legal_refs": [
+                "VictimsCode"
+              ],
+              "evidence_refs": [],
+              "emotional_tone": "determined",
+              "undated_flag": false,
+              "metrics": {}
+            },
+            {
+              "text": "24 Jul\u2013Nov 2024: Early report dismissed; 7 Nov 2024 note states key audio was 'listened to & deleted'.",
+              "vex_tags": [
+                "EVIDENCE_SUPPRESSION",
+                "RECORDING_HANDLING",
+                "RECORDS_AUDIT"
+              ],
+              "contradictions": [
+                "LOST_EVIDENCE_SUSSEX_POLICE"
+              ],
+              "timeline_hooks": [
+                "SussexPolice"
+              ],
+              "legal_refs": [],
+              "evidence_refs": [
+                "EVID_2024-07-XX_July_Call.mp3",
+                "LOG_2024-11-07_Dixon_listened_deleted.txt"
+              ],
+              "emotional_tone": "determined",
+              "undated_flag": false,
+              "metrics": {}
+            },
+            {
+              "text": "12 Feb\u2013Mar 2025: Bail-confirmation period includes an unredacted internal forward and a flat visit without BWV.",
+              "vex_tags": [
+                "GDPR_ACCESS_REFUSAL",
+                "RECORDS_AUDIT"
+              ],
+              "contradictions": [],
+              "timeline_hooks": [
+                "SussexPolice"
+              ],
+              "legal_refs": [
+                "DPA_GDPR"
+              ],
+              "evidence_refs": [
+                "EMAIL_2025-02-12_Bail_confirm_forward_unredacted.eml"
+              ],
+              "emotional_tone": "determined",
+              "undated_flag": false,
+              "metrics": {}
+            },
+            {
+              "text": "22 Apr 2025: Procedural inversion portrays lawful conduct as suspect; 27 Apr 2025 NFA-style message sent to suspect prior to safeguarding meeting.",
+              "vex_tags": [
+                "TIMELINE_MANIPULATION",
+                "NFA_PREMATURE_COMMUNICATION",
+                "DEATH_BY_SILENCE"
+              ],
+              "contradictions": [
+                "DEATH_BY_SILENCE"
+              ],
+              "timeline_hooks": [
+                "SussexPolice"
+              ],
+              "legal_refs": [],
+              "evidence_refs": [
+                "EMAIL_2025-04-22_Procedural_Inversion.txt",
+                "EMAIL_2025-04-27_NFA_to_Suspect_prior_meeting.eml"
+              ],
+              "emotional_tone": "determined",
+              "undated_flag": false,
+              "metrics": {}
+            },
+            {
+              "text": "Apr\u2013Jun 2025: Suicide attempt not properly logged; post-closure SAR refused on 25 Jun 2025.",
+              "vex_tags": [
+                "SAFEGUARDING_FAILURE",
+                "GDPR_ACCESS_REFUSAL",
+                "VICTIMS_CODE"
+              ],
+              "contradictions": [
+                "CROWBARRING_MYSELF_JUSTICE",
+                "DEATH_BY_SILENCE"
+              ],
+              "timeline_hooks": [
+                "SussexPolice",
+                "PersonalEvidence"
+              ],
+              "legal_refs": [
+                "VictimsCode",
+                "DPA_GDPR"
+              ],
+              "evidence_refs": [
+                "NOTE_2025-04-06_Suicide_Attempt.txt",
+                "SAR_2025-06-25_Refusal_After_Closure.pdf"
+              ],
+              "emotional_tone": "determined",
+              "undated_flag": false,
+              "metrics": {}
+            },
+            {
+              "text": "Brighton Fringe May\u2013Jun 2025: safeguarding disclosures unmet; retaliatory narrative and minutes withheld pending unilateral approval.",
+              "vex_tags": [
+                "SAFEGUARDING_FAILURE",
+                "GOVERNANCE_FAILURE",
+                "REPUTATIONAL_HARM"
+              ],
+              "contradictions": [],
+              "timeline_hooks": [
+                "BrightonFringe"
+              ],
+              "legal_refs": [],
+              "evidence_refs": [
+                "EMAIL_2025-07-20_BF_Minutes_Refusal.eml"
+              ],
+              "emotional_tone": "determined",
+              "undated_flag": false,
+              "metrics": {}
+            }
+          ],
+          "delta_findings": []
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Investigation & Findings",
+      "series_key": "sec3_investigation",
+      "parts": [
+        {
+          "part": 1,
+          "subsections": [
+            {
+              "id": "3.1",
+              "title": "From Victim to Investigator: A Case Study in Forced Self\u2011Advocacy",
+              "entries": [
+                {
+                  "text": "After repeated safeguarding and disclosure failures, I assumed investigative functions to preserve and present evidence others should have logged and acted upon.",
+                  "vex_tags": [
+                    "SAFEGUARDING_FAILURE",
+                    "ONUS_PROBANDI_LOGIC",
+                    "RECORDS_AUDIT"
+                  ],
+                  "contradictions": [],
+                  "timeline_hooks": [
+                    "PersonalEvidence"
+                  ],
+                  "legal_refs": [],
+                  "evidence_refs": [
+                    "EVID_2024-07-XX_July_Call.mp3",
+                    "TRANSCRIPT_2025-04-11_101_Crowbarring_Myself_Justice_(1..3).txt"
+                  ],
+                  "emotional_tone": "determined",
+                  "undated_flag": false,
+                  "metrics": {}
+                },
+                {
+                  "text": "Structured three interlinked chronologies to locate contradictions and test institutional narratives against dated artefacts.",
+                  "vex_tags": [
+                    "TIMELINE_MANIPULATION",
+                    "RECORDS_AUDIT"
+                  ],
+                  "contradictions": [],
+                  "timeline_hooks": [
+                    "SussexPolice",
+                    "BrightonFringe",
+                    "PersonalEvidence"
+                  ],
+                  "legal_refs": [],
+                  "evidence_refs": [],
+                  "emotional_tone": "determined",
+                  "undated_flag": false,
+                  "metrics": {}
+                },
+                {
+                  "text": "Prejudicial information asymmetry documented: suspect informed of outcomes while safeguarding meetings were pending or incomplete.",
+                  "vex_tags": [
+                    "NFA_PREMATURE_COMMUNICATION",
+                    "DEATH_BY_SILENCE"
+                  ],
+                  "contradictions": [],
+                  "timeline_hooks": [
+                    "SussexPolice"
+                  ],
+                  "legal_refs": [],
+                  "evidence_refs": [
+                    "EMAIL_2025-04-27_NFA_to_Suspect_prior_meeting.eml"
+                  ],
+                  "emotional_tone": "determined",
+                  "undated_flag": false,
+                  "metrics": {}
+                },
+                {
+                  "text": "Post-closure SAR refusal demonstrates data-rights obstruction after the reason for initial exemptions had expired.",
+                  "vex_tags": [
+                    "GDPR_ACCESS_REFUSAL",
+                    "DPA_GDPR"
+                  ],
+                  "contradictions": [],
+                  "timeline_hooks": [
+                    "SussexPolice"
+                  ],
+                  "legal_refs": [
+                    "DPA_GDPR"
+                  ],
+                  "evidence_refs": [
+                    "SAR_2025-06-25_Refusal_After_Closure.pdf"
+                  ],
+                  "emotional_tone": "determined",
+                  "undated_flag": false,
+                  "metrics": {}
+                }
+              ],
+              "delta_findings": []
+            },
+            {
+              "id": "3.2",
+              "title": "Chain\u2011of\u2011Custody & the July Call: What the Logs Must Show",
+              "entries": [
+                {
+                  "text": "Audit trail must reveal ingest, access, and any deletion authorisation for the July call(s).",
+                  "vex_tags": [
+                    "RECORDING_HANDLING",
+                    "EVIDENCE_SUPPRESSION",
+                    "RECORDS_AUDIT"
+                  ],
+                  "contradictions": [
+                    "LOST_EVIDENCE_SUSSEX_POLICE"
+                  ],
+                  "timeline_hooks": [],
+                  "legal_refs": [],
+                  "evidence_refs": [
+                    "EVID_2024-07-XX_July_Call.mp3",
+                    "LOG_2024-11-07_Dixon_listened_deleted.txt"
+                  ],
+                  "emotional_tone": "determined",
+                  "undated_flag": false,
+                  "metrics": {}
+                }
+              ],
+              "delta_findings": []
+            },
+            {
+              "id": "3.3",
+              "title": "The Silence Ladder: Each Non\u2011Reply Increases Harm",
+              "entries": [
+                {
+                  "text": "Each unanswered safeguarding contact adds harm and legal exposure; quantify elapsed days, missed opportunities, and escalation points.",
+                  "vex_tags": [
+                    "DEATH_BY_SILENCE",
+                    "SAFEGUARDING_FAILURE"
+                  ],
+                  "contradictions": [],
+                  "timeline_hooks": [
+                    "SussexPolice"
+                  ],
+                  "legal_refs": [],
+                  "evidence_refs": [],
+                  "emotional_tone": "determined",
+                  "undated_flag": false,
+                  "metrics": {
+                    "elapsed_days": null,
+                    "unanswered_contacts": null
+                  }
+                }
+              ],
+              "delta_findings": []
+            },
+            {
+              "id": "3.4",
+              "title": "Case Start Date Contortions: A Timeline Integrity Test",
+              "entries": [
+                {
+                  "text": "Resolve conflicting 'case start' narratives by comparing first-record creation, first action, and external confirmations (e.g., Veritas liaison).",
+                  "vex_tags": [
+                    "TIMELINE_MANIPULATION",
+                    "RECORDS_AUDIT"
+                  ],
+                  "contradictions": [],
+                  "timeline_hooks": [
+                    "SussexPolice"
+                  ],
+                  "legal_refs": [],
+                  "evidence_refs": [
+                    "WhatsApp_A09_PC_Dixon_export.txt",
+                    "Veritas_A10_EmmaJones_export.txt"
+                  ],
+                  "emotional_tone": "determined",
+                  "undated_flag": false,
+                  "metrics": {}
+                }
+              ],
+              "delta_findings": []
+            },
+            {
+              "id": "3.5",
+              "title": "NFA Before Safeguarding: Decision Path Audit",
+              "entries": [
+                {
+                  "text": "Assess whether 27 Apr 2025 communication to the suspect pre\u2011empted safeguarding and due process; identify decision\u2011makers and rationale.",
+                  "vex_tags": [
+                    "NFA_PREMATURE_COMMUNICATION",
+                    "SAFEGUARDING_FAILURE"
+                  ],
+                  "contradictions": [],
+                  "timeline_hooks": [
+                    "SussexPolice"
+                  ],
+                  "legal_refs": [],
+                  "evidence_refs": [
+                    "EMAIL_2025-04-27_NFA_to_Suspect_prior_meeting.eml"
+                  ],
+                  "emotional_tone": "determined",
+                  "undated_flag": false,
+                  "metrics": {}
+                }
+              ],
+              "delta_findings": []
+            },
+            {
+              "id": "3.6",
+              "title": "Data Rights Blocked and Bent: SAR Handling After Closure",
+              "entries": [
+                {
+                  "text": "Re\u2011evaluate SAR refusals post\u2011closure and require specific lawful bases for any ongoing withholding.",
+                  "vex_tags": [
+                    "GDPR_ACCESS_REFUSAL",
+                    "DPA_GDPR"
+                  ],
+                  "contradictions": [],
+                  "timeline_hooks": [
+                    "SussexPolice"
+                  ],
+                  "legal_refs": [
+                    "DPA_GDPR"
+                  ],
+                  "evidence_refs": [
+                    "SAR_2025-06-25_Refusal_After_Closure.pdf"
+                  ],
+                  "emotional_tone": "determined",
+                  "undated_flag": false,
+                  "metrics": {}
+                }
+              ],
+              "delta_findings": []
+            },
+            {
+              "id": "3.7",
+              "title": "External Confirmations: Third\u2011Party Anchors",
+              "entries": [
+                {
+                  "text": "Corroborate internal narratives with third\u2011party logs and notes, including ambulance call and support\u2011service liaison.",
+                  "vex_tags": [
+                    "RECORDS_AUDIT"
+                  ],
+                  "contradictions": [],
+                  "timeline_hooks": [
+                    "PersonalEvidence",
+                    "SussexPolice"
+                  ],
+                  "legal_refs": [],
+                  "evidence_refs": [
+                    "AMBULANCE_2025-05-27_1758_Call_Transcript.txt",
+                    "Veritas_A10_EmmaJones_export.txt"
+                  ],
+                  "emotional_tone": "determined",
+                  "undated_flag": false,
+                  "metrics": {}
+                }
+              ],
+              "delta_findings": []
+            },
+            {
+              "id": "3.8",
+              "title": "Brighton Fringe: Safeguarding Evasion & Retaliatory Narrative",
+              "entries": [
+                {
+                  "text": "Track selective minutes and safeguarding non\u2011response; map decision points to governance duties.",
+                  "vex_tags": [
+                    "GOVERNANCE_FAILURE",
+                    "SAFEGUARDING_FAILURE",
+                    "REPUTATIONAL_HARM"
+                  ],
+                  "contradictions": [],
+                  "timeline_hooks": [
+                    "BrightonFringe"
+                  ],
+                  "legal_refs": [],
+                  "evidence_refs": [
+                    "EMAIL_2025-07-20_BF_Minutes_Refusal.eml"
+                  ],
+                  "emotional_tone": "determined",
+                  "undated_flag": false,
+                  "metrics": {}
+                }
+              ],
+              "delta_findings": []
+            },
+            {
+              "id": "3.9",
+              "title": "What Independent Review Should Do Now",
+              "entries": [
+                {
+                  "text": "Produce audit logs, correct records, re\u2011review outcomes with complete evidence, and implement safeguarding remediation.",
+                  "vex_tags": [
+                    "RECORDS_AUDIT",
+                    "VICTIMS_CODE"
+                  ],
+                  "contradictions": [],
+                  "timeline_hooks": [
+                    "SussexPolice",
+                    "PersonalEvidence"
+                  ],
+                  "legal_refs": [],
+                  "evidence_refs": [],
+                  "emotional_tone": "determined",
+                  "undated_flag": false,
+                  "metrics": {}
+                }
+              ],
+              "delta_findings": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

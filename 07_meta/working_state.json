@@ -1,1 +1,5 @@
-{}
+{
+  "version": "1.0",
+  "filters": {},
+  "notes": "Minimal working state for consolidate_shards.py"
+}
