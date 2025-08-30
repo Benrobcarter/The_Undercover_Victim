@@ -1,0 +1,395 @@
+{
+  "meta": {
+    "generated": "2025-08-26T23:25:19.242320Z",
+    "source_files": {
+      "manuscript_path": "/mnt/data/MASTER_BOOK_MANUSCRIPT.json",
+      "complaint_index_path": "/mnt/data/MASTER_COMPLAINT_INDEX_v1 (3).json"
+    },
+    "hashes": {
+      "manuscript_sha256": "db53dcf5321e56cc2a3efd5e30c17023a11a7e89cdafdf0287fcfa38c2376666",
+      "complaint_index_sha256": "24677a4be49999bff474e66eac0ebb4984f77b5ce0db74e2a9383c2928846f17"
+    },
+    "linked_index": {
+      "name": "MASTER_COMPLAINT_INDEX",
+      "version": "v1",
+      "created_utc": "2025-08-26T04:11:18.549514Z",
+      "case_references": [
+        "47240141246",
+        "47240214305",
+        "CIT1201684"
+      ]
+    }
+  },
+  "allegations_catalog": [
+    "Catastrophic safeguarding breaches by Sussex Police",
+    "Evidence tampering and data suppression",
+    "Gross mishandling of suicide risk",
+    "Institutional minimisation across multiple parties",
+    "Potential misconduct in public office",
+    "Retaliation and governance failures by Brighton Fringe Ltd."
+  ],
+  "contradiction_threads_catalog": [
+    "LOST_EVIDENCE_SUSSEX_POLICE",
+    "CROWBARRING_MYSELF_JUSTICE",
+    "DEATH_BY_SILENCE",
+    "DUNCAN_ASSISTED_ERASURE"
+  ],
+  "timeline_catalog": [
+    "t1_sussex_police_chronology",
+    "t2_brighton_fringe_consequences",
+    "t3_personal_evidence_construction"
+  ],
+  "chapters": [
+    {
+      "id": "sec2_july",
+      "title": "2.1 \u2014 July Call and the Deletion Log",
+      "order": 21,
+      "paragraphs": [
+        {
+          "text": "\u201cWhere they chose silence, I created record.\u201d \u2014 Ben Carter",
+          "allegations": [
+            "Evidence tampering and data suppression",
+            "Catastrophic safeguarding breaches by Sussex Police"
+          ],
+          "contradictions": [
+            "LOST_EVIDENCE_SUSSEX_POLICE",
+            "DEATH_BY_SILENCE"
+          ],
+          "timeline_refs": [
+            "t1_sussex_police_chronology#1"
+          ],
+          "vex_tags": [
+            "EVIDENCE_SUPPRESSION",
+            "RECORDING_HANDLING",
+            "DEATH_BY_SILENCE",
+            "SAFEGUARDING_FAILURE",
+            "RECORDS_AUDIT"
+          ]
+        },
+        {
+          "text": "July 2024 \u2014 my first submission. By November, a log note recorded that the key audio had been 'listened to & deleted.'",
+          "allegations": [
+            "Evidence tampering and data suppression",
+            "Catastrophic safeguarding breaches by Sussex Police"
+          ],
+          "contradictions": [
+            "LOST_EVIDENCE_SUSSEX_POLICE",
+            "DEATH_BY_SILENCE"
+          ],
+          "timeline_refs": [
+            "t1_sussex_police_chronology#1"
+          ],
+          "vex_tags": [
+            "EVIDENCE_SUPPRESSION",
+            "RECORDING_HANDLING",
+            "DEATH_BY_SILENCE",
+            "SAFEGUARDING_FAILURE",
+            "RECORDS_AUDIT"
+          ]
+        },
+        {
+          "text": "A record of risk was treated as disposable. Audit trails evaporated. Safeguarding turned into silence.",
+          "allegations": [
+            "Evidence tampering and data suppression",
+            "Catastrophic safeguarding breaches by Sussex Police"
+          ],
+          "contradictions": [
+            "LOST_EVIDENCE_SUSSEX_POLICE",
+            "DEATH_BY_SILENCE"
+          ],
+          "timeline_refs": [
+            "t1_sussex_police_chronology#1"
+          ],
+          "vex_tags": [
+            "EVIDENCE_SUPPRESSION",
+            "RECORDING_HANDLING",
+            "DEATH_BY_SILENCE",
+            "SAFEGUARDING_FAILURE",
+            "RECORDS_AUDIT"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sec2_bail",
+      "title": "2.2 \u2014 Bail Confirmation Mishandled",
+      "order": 22,
+      "paragraphs": [
+        {
+          "text": "\u201cFeeling I had \u2018taken on the fucking police and won,\u2019 I escalated my case to the IOPC.\u201d \u2014 Ben Carter",
+          "allegations": [
+            "Catastrophic safeguarding breaches by Sussex Police"
+          ],
+          "contradictions": [
+            "DEATH_BY_SILENCE"
+          ],
+          "timeline_refs": [
+            "t1_sussex_police_chronology#2"
+          ],
+          "vex_tags": [
+            "GDPR_ACCESS_REFUSAL",
+            "RECORDS_AUDIT",
+            "SAFEGUARDING_FAILURE"
+          ]
+        },
+        {
+          "text": "February\u2013March 2025 \u2014 during the bail confirmation period, my abuser was forwarded unredacted material. Sussex Police turned safeguarding into exposure, GDPR into refusal. ",
+          "allegations": [
+            "Catastrophic safeguarding breaches by Sussex Police"
+          ],
+          "contradictions": [
+            "DEATH_BY_SILENCE"
+          ],
+          "timeline_refs": [
+            "t1_sussex_police_chronology#2"
+          ],
+          "vex_tags": [
+            "GDPR_ACCESS_REFUSAL",
+            "RECORDS_AUDIT",
+            "SAFEGUARDING_FAILURE"
+          ]
+        },
+        {
+          "text": "At the same time, they visited my flat without BWV. My safety was paper-thin, their records incomplete.",
+          "allegations": [
+            "Catastrophic safeguarding breaches by Sussex Police"
+          ],
+          "contradictions": [
+            "DEATH_BY_SILENCE"
+          ],
+          "timeline_refs": [
+            "t1_sussex_police_chronology#2"
+          ],
+          "vex_tags": [
+            "GDPR_ACCESS_REFUSAL",
+            "RECORDS_AUDIT",
+            "SAFEGUARDING_FAILURE"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sec2_inversion",
+      "title": "2.3 \u2014 Procedural Inversion & NFA to Suspect",
+      "order": 23,
+      "paragraphs": [
+        {
+          "text": "\u201cPOLICE PLEASE \u2014 not a plea, a prophecy.\u201d \u2014 Ben Carter",
+          "allegations": [
+            "Catastrophic safeguarding breaches by Sussex Police"
+          ],
+          "contradictions": [
+            "DEATH_BY_SILENCE"
+          ],
+          "timeline_refs": [
+            "t1_sussex_police_chronology#3"
+          ],
+          "vex_tags": [
+            "TIMELINE_MANIPULATION",
+            "NFA_PREMATURE_COMMUNICATION",
+            "DEATH_BY_SILENCE"
+          ]
+        },
+        {
+          "text": "22 April 2025: lawful conduct reframed as suspect. Five days later, on 27 April, an NFA-style message was sent to the suspect before any safeguarding meeting.",
+          "allegations": [
+            "Catastrophic safeguarding breaches by Sussex Police"
+          ],
+          "contradictions": [
+            "DEATH_BY_SILENCE"
+          ],
+          "timeline_refs": [
+            "t1_sussex_police_chronology#3"
+          ],
+          "vex_tags": [
+            "TIMELINE_MANIPULATION",
+            "NFA_PREMATURE_COMMUNICATION",
+            "DEATH_BY_SILENCE"
+          ]
+        },
+        {
+          "text": "The victim was still waiting for protection; the suspect received closure. This inversion stands as proof of bias and premature communication.",
+          "allegations": [
+            "Catastrophic safeguarding breaches by Sussex Police"
+          ],
+          "contradictions": [
+            "DEATH_BY_SILENCE"
+          ],
+          "timeline_refs": [
+            "t1_sussex_police_chronology#3"
+          ],
+          "vex_tags": [
+            "TIMELINE_MANIPULATION",
+            "NFA_PREMATURE_COMMUNICATION",
+            "DEATH_BY_SILENCE"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sec2_suicide_sar",
+      "title": "2.4 \u2014 Suicide Attempt and SAR Refusal",
+      "order": 24,
+      "paragraphs": [
+        {
+          "text": "\u201cThe system did not just fail to protect me; it created the conditions that required this extraordinary level of self\u2011advocacy to simply survive.\u201d \u2014 Ben Carter",
+          "allegations": [
+            "Gross mishandling of suicide risk"
+          ],
+          "contradictions": [
+            "CROWBARRING_MYSELF_JUSTICE",
+            "DEATH_BY_SILENCE"
+          ],
+          "timeline_refs": [
+            "t1_sussex_police_chronology#4",
+            "t3_personal_evidence_construction#1"
+          ],
+          "vex_tags": [
+            "SAFEGUARDING_FAILURE",
+            "GDPR_ACCESS_REFUSAL",
+            "VICTIMS_CODE"
+          ]
+        },
+        {
+          "text": "April 2025 \u2014 my suicide attempt was not logged. By June, when I filed a Subject Access Request to test the system, it was refused after case closure.",
+          "allegations": [
+            "Gross mishandling of suicide risk"
+          ],
+          "contradictions": [
+            "CROWBARRING_MYSELF_JUSTICE",
+            "DEATH_BY_SILENCE"
+          ],
+          "timeline_refs": [
+            "t1_sussex_police_chronology#4",
+            "t3_personal_evidence_construction#1"
+          ],
+          "vex_tags": [
+            "SAFEGUARDING_FAILURE",
+            "GDPR_ACCESS_REFUSAL",
+            "VICTIMS_CODE"
+          ]
+        },
+        {
+          "text": "The denial confirmed the pattern: disclosures erased, data blocked, survival weaponised against me.",
+          "allegations": [
+            "Gross mishandling of suicide risk"
+          ],
+          "contradictions": [
+            "CROWBARRING_MYSELF_JUSTICE",
+            "DEATH_BY_SILENCE"
+          ],
+          "timeline_refs": [
+            "t1_sussex_police_chronology#4",
+            "t3_personal_evidence_construction#1"
+          ],
+          "vex_tags": [
+            "SAFEGUARDING_FAILURE",
+            "GDPR_ACCESS_REFUSAL",
+            "VICTIMS_CODE"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sec2_fringe",
+      "title": "2.5 \u2014 Brighton Fringe Retaliation",
+      "order": 25,
+      "paragraphs": [
+        {
+          "text": "\u201cOne big apple rotting from its core.\u201d \u2014 Ben Carter",
+          "allegations": [
+            "Retaliation and governance failures by Brighton Fringe Ltd."
+          ],
+          "contradictions": [
+            "DUNCAN_ASSISTED_ERASURE",
+            "DEATH_BY_SILENCE"
+          ],
+          "timeline_refs": [
+            "t2_brighton_fringe_consequences#1",
+            "t2_brighton_fringe_consequences#2"
+          ],
+          "vex_tags": [
+            "GOVERNANCE_FAILURE",
+            "REPUTATIONAL_HARM",
+            "DPA_GDPR"
+          ]
+        },
+        {
+          "text": "Brighton Fringe received safeguarding disclosures in May\u2013June 2025. They withheld their minutes, erased my name, and rewrote the record.",
+          "allegations": [
+            "Retaliation and governance failures by Brighton Fringe Ltd."
+          ],
+          "contradictions": [
+            "DUNCAN_ASSISTED_ERASURE",
+            "DEATH_BY_SILENCE"
+          ],
+          "timeline_refs": [
+            "t2_brighton_fringe_consequences#1",
+            "t2_brighton_fringe_consequences#2"
+          ],
+          "vex_tags": [
+            "GOVERNANCE_FAILURE",
+            "REPUTATIONAL_HARM",
+            "DPA_GDPR"
+          ]
+        },
+        {
+          "text": "Where law required governance, they chose reputation. Where safety required disclosure, they chose silence.",
+          "allegations": [
+            "Retaliation and governance failures by Brighton Fringe Ltd."
+          ],
+          "contradictions": [
+            "DUNCAN_ASSISTED_ERASURE",
+            "DEATH_BY_SILENCE"
+          ],
+          "timeline_refs": [
+            "t2_brighton_fringe_consequences#1",
+            "t2_brighton_fringe_consequences#2"
+          ],
+          "vex_tags": [
+            "GOVERNANCE_FAILURE",
+            "REPUTATIONAL_HARM",
+            "DPA_GDPR"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ch01",
+      "title": "Chapter 1",
+      "order": 1,
+      "paragraphs": [
+        {
+          "text": "\ufeffSection 3.1: From Victim to Investigator: A Case Study in Forced Self-Advocacy This complaint is built upon a body of evidence whose quality is a direct result of systemic failure. The documentation herein is not the product of a well-managed process, but a testament to the resilience required to survive institutional gaslighting. I, the victim, was forced to become the chief investigator, auditor, and archivist of my own case. This section analyses the strategic approach I was compelled to adopt.\n* Strategic Navigation of Police Misconduct: My interactions with Sussex Police demonstrate a persistent and strategic effort to establish accountability. Feeling I had \"taken on the fucking police and won,\" I escalated my case to the IOPC after identifying a pattern of misconduct. This included documenting bail breaches, the failure to log a suicide attempt, and challenging PC Dixon's ongoing, inappropriate involvement in my case long after I had formally revoked his authority. My persistent follow-ups on a Subject Access Request (SAR), citing UK GDPR and copying in the IOPC, were a deliberate strategy to force transparency from an obstructive system.\n* Managing Institutional Betrayal (Brighton Fringe): I demonstrated a proactive approach to managing the complex and contradictory interactions with Brighton Fringe. I challenged their \"takeover\" vs. \"support\" narrative, documented their alleged safeguarding and data breaches, and formally withdrew my venues to ensure public safety when it became clear they would not. This was a strategic move to regain control of my business and reputation after they had attempted to erase me from their own work.\n* The Meticulous Construction of \"Courtroom-Ready\" Evidence: The documentation in this bundle is of a high standard, achieved out of necessity. I documented every interaction, created logical structures for evidence (such as the Venue Page Template), asserted my legal rights under GDPR with precision, and used comprehensive CC lists on emails to ensure wide regulatory visibility. This was not a hobby; it was a survival tactic.\n* Resilience as an Evidentiary Factor: Despite the profound personal trauma, which included a documented suicide attempt and a subsequent diagnosis of complex PTSD, my focus remained on achieving justice. This resilience, and the ability to translate extreme distress into actionable, forensic evidence, is itself a testament to the scale of the institutional failure. The system did not just fail to protect me; it created the conditions that required this extraordinary level of self-advocacy to simply survive.",
+          "allegations": [
+            "Catastrophic safeguarding breaches by Sussex Police",
+            "Evidence tampering and data suppression",
+            "Retaliation and governance failures by Brighton Fringe Ltd."
+          ],
+          "contradictions": [
+            "LOST_EVIDENCE_SUSSEX_POLICE",
+            "CROWBARRING_MYSELF_JUSTICE",
+            "DEATH_BY_SILENCE",
+            "DUNCAN_ASSISTED_ERASURE"
+          ],
+          "timeline_refs": [
+            "t1_sussex_police_chronology",
+            "t2_brighton_fringe_consequences",
+            "t3_personal_evidence_construction"
+          ],
+          "vex_tags": [
+            "SAFEGUARDING_FAILURE",
+            "EVIDENCE_SUPPRESSION",
+            "GDPR_ACCESS_REFUSAL",
+            "RECORDING_HANDLING",
+            "NFA_PREMATURE_COMMUNICATION",
+            "DEATH_BY_SILENCE",
+            "TIMELINE_MANIPULATION",
+            "REPUTATIONAL_HARM",
+            "ONUS_PROBANDI_LOGIC"
+          ]
+        }
+      ]
+    }
+  ]
+}
