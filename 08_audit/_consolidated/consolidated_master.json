@@ -1,0 +1,12 @@
+{
+  "contradictions": [],
+  "contradictions_vex": [],
+  "timelines": [],
+  "evidence_vex": [],
+  "manifest_meta": [],
+  "working_state": {
+    "version": "1.0",
+    "filters": {},
+    "notes": "Minimal working state for consolidate_shards.py"
+  }
+}
