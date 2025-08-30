@@ -1,0 +1,1585 @@
+{
+  "meta": {
+    "generated_at": "2025-08-30T11:42:52.547235Z",
+    "source_files": [
+      "2025-07-04_Two_Interactions.contradictions.json",
+      "CONTRA_2025-06-22_101_Humiliation_Protocol.json",
+      "CONTRADICTION_MATRIX_PHHC_BATCH_01.json",
+      "DUNCAN_ATTEMPTED_MURDER_CONTRADICTION_PATCH.json",
+      "EX_VERITAS_CHAT_CONTRADICTION_2025.json",
+      "MASTER_CONTRADICTIONS_INJECTED_2025-06-05.json",
+      "MASTER_CONTRADICTIONS_INJECTED_LATEST.json",
+      "MASTER_CONTRADICTIONS_INJECTED_WITH_VERITAS_v4_2025-08-25.json",
+      "MASTER_CONTRADICTIONS_INJECTED_WITH_VERITAS_v4_2025-08-25_v2.json",
+      "VERITAS_CLAsh_REPORT_2025-08-25.json"
+    ],
+    "total_entries": 36,
+    "notes": "Master contradiction bundle auto-generated from all known contradiction files as of 2025-08-30."
+  },
+  "contradictions": [
+    {
+      "meta": {
+        "contradiction_id": "CONTRA_2025-06-22_101_Humiliation_Protocol",
+        "title": "The 101 Humiliation Protocol \u2014 Rights Denied, Records Distorted",
+        "date_local": "2025-06-22",
+        "parties": [
+          "Ben Carter",
+          "Sussex Police (101 Handler)"
+        ],
+        "clusters": [
+          "SUSSEX_POLICE",
+          "VICTIM_ERASURE_CONTINUED",
+          "GDPR_MISUSE_FOR_SILENCING",
+          "DEATH_BY_SILENCE_ESCALATION"
+        ],
+        "status": "open",
+        "source_evidence": [
+          "VEX_2025-06-22_101_Humiliation_Protocol"
+        ],
+        "version": "1.0.0",
+        "created_at": "2025-08-26T02:00:03.767754+00:00"
+      },
+      "assertions": [
+        {
+          "code": "CASE_STATUS_INCONSISTENT",
+          "desc": "Handler states no officer, later confirms PC Dixon is attached.",
+          "supporting_quotes": [
+            {
+              "t": "18:20",
+              "who": "101",
+              "text": "It doesn't look like there's... an officer attached."
+            },
+            {
+              "t": "20:05",
+              "who": "101",
+              "text": "Well, no, there is PC Dixon... He's the one dealing with that case."
+            }
+          ],
+          "grade": "silver"
+        },
+        {
+          "code": "VICTIMS_CODE_DENIAL",
+          "desc": "Callback/update refused after Victims\u2019 Code citation.",
+          "supporting_quotes": [
+            {
+              "t": "24:06",
+              "who": "101",
+              "text": "You don't get to quote the Victim's Code... and then you get exactly what you want."
+            }
+          ],
+          "grade": "gold"
+        },
+        {
+          "code": "GDPR_MISAPPLICATION_BAIL_INFO",
+          "desc": "Bail status withheld with 'due to GDPR' justification.",
+          "supporting_quotes": [
+            {
+              "t": "22:05",
+              "who": "101",
+              "text": "I can't tell you that over the phone due to data protection."
+            }
+          ],
+          "grade": "silver"
+        },
+        {
+          "code": "EVIDENCE_LOGGING_OBSTRUCTED",
+          "desc": "Refusal to treat fresh harassment as a new crime/update.",
+          "supporting_quotes": [
+            {
+              "t": "21:02",
+              "who": "101",
+              "text": "No, there's not a new crime to be logged."
+            }
+          ],
+          "grade": "silver"
+        },
+        {
+          "code": "HUMILIATION_PROTOCOL_QUOTE",
+          "desc": "Derisive response to disclosed suicide attempt.",
+          "supporting_quotes": [
+            {
+              "t": "01:20",
+              "who": "101",
+              "text": "You're not dead, are you?"
+            }
+          ],
+          "grade": "gold"
+        },
+        {
+          "code": "CONTACT_RECORDS_MISSING",
+          "desc": "Logged calls not visible/acted upon.",
+          "supporting_quotes": [
+            {
+              "t": "23:30",
+              "who": "Ben",
+              "text": "I've called 45 times since April 6th and I have not had a call back."
+            }
+          ],
+          "grade": "silver"
+        }
+      ],
+      "impact": [
+        "Undermines integrity of case chronology and safeguarding response.",
+        "Elevates risk via denial of timely updates; obstructs evidence capture."
+      ],
+      "links": {
+        "evidence_ids": [
+          "VEX_2025-06-22_101_Humiliation_Protocol"
+        ]
+      }
+    },
+    {
+      "id": "EX_PHHC_SUICIDE_DISCLOSURE_IGNORED",
+      "date": "2024-03-18",
+      "evidence": "EMAIL_PHHC_2024-03-18_SUICIDE_ESCALATION_IOPC.json",
+      "summary": "Suicide risk disclosure via 101 call was not logged or acted upon. Escalated to IOPC.",
+      "breach_tags": [
+        "suicide_disclosure",
+        "police_inaction",
+        "safeguarding_failure",
+        "iopc_escalation"
+      ],
+      "timeline_refs": [
+        "PHHC_SMART_TIMELINE",
+        "SUICIDE_DISCLOSURE_TRACK",
+        "DEATH_BY_SILENCE"
+      ]
+    },
+    {
+      "id": "EX_PHHC_STALKING_CALL_DELAY_SUICIDE_RISK",
+      "date": "2024-03-20",
+      "evidence": "EMAIL_PHHC_2024-03-20_STALKING_DELAY_DISCLOSURE.json",
+      "summary": "Police took 7 days to return a suicidal stalking complaint despite follow-up calls.",
+      "breach_tags": [
+        "police_inaction",
+        "delay_reporting",
+        "suicide_disclosure",
+        "safeguarding_failure"
+      ],
+      "timeline_refs": [
+        "PHHC_SMART_TIMELINE",
+        "DEATH_BY_SILENCE",
+        "SAFEGUARDING_BREACHES"
+      ]
+    },
+    {
+      "id": "EX_PHHC_EVIDENCE_LOGGING_UNCONFIRMED",
+      "date": "2024-03-23",
+      "evidence": "EMAIL_PHHC_2024-03-23_STATEMENT_SUPPORT_REQUEST.json",
+      "summary": "Medical statement and support evidence submitted without confirmation it was logged.",
+      "breach_tags": [
+        "duty_to_log",
+        "evidence_submission",
+        "case_file_integrity",
+        "emotional_cost"
+      ],
+      "timeline_refs": [
+        "PHHC_SMART_TIMELINE",
+        "EVIDENCE_SUPPRESSION",
+        "INSTITUTIONAL_ALIGNMENT"
+      ]
+    },
+    {
+      "id": "EX_PHHC_CALL_RECORDINGS_SAFEGUARDING_OMISSION",
+      "date": "2024-03-27",
+      "evidence": "EMAIL_PHHC_2024-03-27_CALL_RECORDINGS_SAFEGUARDING.json",
+      "summary": "Call recordings with suicide disclosure sent for safeguarding review; review unconfirmed.",
+      "breach_tags": [
+        "audio_evidence",
+        "safeguarding_failure",
+        "suppression_concern",
+        "accountability_request"
+      ],
+      "timeline_refs": [
+        "PHHC_SMART_TIMELINE",
+        "EVIDENCE_SUPPRESSION",
+        "SUICIDE_DISCLOSURE_TRACK"
+      ]
+    },
+    {
+      "id": "EX_PHHC_EVIDENCE_SENT_MULTIPLE_TIMES_NOT_LOGGED",
+      "date": "2024-03-28",
+      "evidence": "EMAIL_PHHC_2024-03-28_EVIDENCE_RESUBMISSION.json",
+      "summary": "Evidence link submitted three times with no confirmation; case file tracking failure.",
+      "breach_tags": [
+        "duty_to_log",
+        "repeated_neglect",
+        "safeguarding_failure",
+        "burnout"
+      ],
+      "timeline_refs": [
+        "PHHC_SMART_TIMELINE",
+        "EVIDENCE_SUPPRESSION",
+        "DEATH_BY_SILENCE"
+      ]
+    },
+    {
+      "id": "EX_FRINGE_ACTION_PLAN_MEETING_NOTES_2025",
+      "title": "Brighton Fringe 'Action Plan & Meeting Notes' Email Chain \u2013 Safeguarding, Deflection, and Escalation",
+      "date_range": [
+        "2025-04-08",
+        "2025-04-10"
+      ],
+      "source_files": [
+        "Gmail - Typing up what? You could have fit the samitans numver x 40 in this email.pdf",
+        "Automatic reply- Action plan & meeting notes 1 message Amy Keogh <amy.keogh@brightonfringe.org> 10 April 2025 at 20-48.pdf"
+      ],
+      "core_quotes": [
+        "At the beginning of our meeting you said that you tried to take your life last weekend and that you had been in hospital as a result. When people disclose this information to us, we take it very seriously and try to support where we can and with permissions.",
+        "I want to be clear that, despite the summary you've provided, a large part of my distress remains unacknowledged \u2014 and was actively shut down during the meeting itself.",
+        "Throughout the discussion, I attempted to raise the events of last year, which still affect my ability to work and trust this process. ... I was immediately shut down with 'We\u2019re talking about this year.' That was a deliberate deflection.",
+        "If the Brighton Fringe remains unwilling to acknowledge or discuss last year\u2019s failures, then my only request is this: Treat me as you would any other venue manager."
+      ],
+      "participants": [
+        "Ben Carter",
+        "Amy Keogh",
+        "Laura Aiton",
+        "Duncan Lustig-Prean"
+      ],
+      "emotional_tags": [
+        "distress",
+        "abandonment",
+        "clarity",
+        "gaslighting",
+        "retaliation",
+        "exhaustion",
+        "betrayal"
+      ],
+      "vex_tags": [
+        "safeguarding_disclosure",
+        "tone_policing",
+        "institutional_gaslighting",
+        "trauma_unacknowledged",
+        "retaliation_against_discloser",
+        "failure_to_repair",
+        "support_withdrawal_threat"
+      ],
+      "policy_reference": [
+        {
+          "policy": "Brighton Fringe Safeguarding Policy",
+          "review_date": "2025-02-17",
+          "sections": [
+            1,
+            4,
+            5,
+            6,
+            8,
+            9,
+            10,
+            12
+          ]
+        }
+      ],
+      "status": "active",
+      "proof_needed": [
+        "Evidence of any meaningful follow-up or repair",
+        "Documentation of trauma-informed response"
+      ],
+      "notes": "Chain documents disclosure of suicidality, a lack of trauma-informed response, shifting focus to rules and boundaries, and a pattern of support being offered only under narrow, self-protective conditions. Solicitor involvement highlights seriousness and ongoing risk.",
+      "source": "DUNCAN_ATTEMPTED_MURDER_IMPORT"
+    },
+    {
+      "id": "EX_FRINGE_INTERNAL_NARRATIVE_DISCLOSURE_TO_ALICE_2025",
+      "title": "Urgent Safeguarding Breach: Narrative Control, Disclosure, and Loss of Consent",
+      "date": "2025-05-11",
+      "from": "Ben Carter <benrobcarter@gmail.com>",
+      "to": "Alice Wright <alice@sparkampm.co.uk>",
+      "subject": "Urgent Safeguarding Breach \u2013 Internal Narrative and Third-Party Disclosures",
+      "core_quotes": [
+        "I am writing to formally notify you of a serious safeguarding breach, now confirmed through direct communication from an artist.",
+        "Members of the Brighton Fringe team have either directly or indirectly: Shared internal narratives about my mental health and business capacity; Disclosed, reframed, or downplayed private safeguarding information; Justified contact with my ex-partner without informing me, under the guise of 'keeping us apart'.",
+        "I have formally revoked consent for PC Jon Dixon to remain involved in my case. I am now under the protection of a new investigating officer, with support from Veritas Justice.",
+        "I did not consent to any redistribution of control over Half a Camel Productions. I did not step away \u2014 the loss of operational control happened during a safeguarding crisis, without consent.",
+        "Any further misrepresentation \u2014 or failure to clarify what has already been shared \u2014 will be considered formal grounds for legal action and public complaint."
+      ],
+      "demands": [
+        "Clarify any statements/narratives shared about my mental health or capacity.",
+        "Confirm whether Brighton Fringe has contacted Alanna O\u2019Hare since April 2nd, and on what basis.",
+        "Disclose any internal documents/communications about my role, involvement, or state of mind that may have influenced artists\u2019 decisions."
+      ],
+      "linked_parties": [
+        "Brighton Fringe Team",
+        "Veritas Justice",
+        "Sussex Police",
+        "Alanna O\u2019Hare",
+        "PC Jon Dixon"
+      ],
+      "vex_tags": [
+        "narrative_control",
+        "confidentiality_breach",
+        "forced_operational_removal",
+        "failure_to_escalate",
+        "retaliation_against_discloser"
+      ],
+      "policy_reference": [
+        {
+          "policy": "Brighton Fringe Safeguarding Policy",
+          "review_date": "2025-02-17",
+          "sections": [
+            5,
+            6,
+            8,
+            9,
+            10,
+            12
+          ]
+        },
+        {
+          "policy": "GDPR/Data Protection",
+          "sections": [
+            "Confidentiality",
+            "Consent",
+            "Lawful disclosure"
+          ]
+        }
+      ],
+      "status": "active",
+      "proof_needed": [
+        "Written reply from Alice/Brighton Fringe",
+        "Internal documentation of shared statements or contacts",
+        "Records of communications with Alanna O\u2019Hare"
+      ],
+      "notes": "This is a direct safeguarding escalation and formal legal notification, confirming loss of operational control and institutional misrepresentation without consent.",
+      "source": "DUNCAN_ATTEMPTED_MURDER_IMPORT"
+    },
+    {
+      "id": "EX_DUNCAN_BE_VERY_CAREFUL_IMAGES_2025",
+      "title": "Safeguarding Disclosure Ignored by Brighton Fringe Chair",
+      "date_first_breached": "2025-05-08",
+      "contradiction_type": "safeguarding_breach_evidence_submission",
+      "core_quote": "On 8 May 2025, Ben Carter sent Duncan Lustig-Prean (Brighton Fringe Chair) an email warning of safeguarding and legal risks, with attached images from March and April documenting severe distress, venue/insurance risks, and police inaction. No substantive reply was received.",
+      "validating_evidence": [
+        {
+          "type": "email",
+          "filename": "Email_Be_Very_Careful_Duncan_2025-05-08.eml"
+        },
+        {
+          "type": "image",
+          "filename": "be very very careful march.jpg"
+        },
+        {
+          "type": "image",
+          "filename": "be very very careful april.jpg"
+        },
+        {
+          "type": "clinical_note",
+          "filename": "Post Suicide GP Review, Strong When I\u2019m Not Made Out to Be the Victim I\u2019m Not1.PNG"
+        },
+        {
+          "type": "clinical_note",
+          "filename": "Post Suicide GP Review, Strong When I\u2019m Not Made Out to Be the Victim I\u2019m Not2.PNG"
+        },
+        {
+          "type": "csv",
+          "filename": "SAR_EMAIL_ENTITY_DATE_EXTRACT.csv"
+        },
+        {
+          "type": "csv",
+          "filename": "detailed_email_timeline_with_participants.csv"
+        }
+      ],
+      "third_party_validation": [
+        {
+          "source": "Dr. Dharam Dickinson, GP",
+          "date": "2025-04-10",
+          "summary": "GP notes patient is rational, shows insight, is not paranoid, and directly links police/Fringe inaction to suicide risk."
+        }
+      ],
+      "linked_entities": [
+        "Ben Carter",
+        "Duncan Lustig-Prean",
+        "Brighton Fringe",
+        "Amy MacGregor",
+        "Alice Wright"
+      ],
+      "emotional_tags": [
+        "distress",
+        "abandonment",
+        "retaliation",
+        "clarity",
+        "strength"
+      ],
+      "vex_tags": [
+        "safeguarding_disclosure_ignored",
+        "reckless_endangerment",
+        "institutional_gaslighting",
+        "professional_boundaries_breach",
+        "failure_to_report",
+        "trustee_dso_breach",
+        "retaliation_against_discloser",
+        "misuse_of_confidentiality"
+      ],
+      "policy_reference": [
+        {
+          "policy": "Brighton Fringe Safeguarding Policy",
+          "review_date": "2025-02-17",
+          "sections": [
+            1,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            11,
+            12
+          ]
+        }
+      ],
+      "status": "active",
+      "proof_needed": [
+        "Duncan\u2019s written response or explanation for failure to act",
+        "Internal communications regarding this escalation"
+      ],
+      "notes": "This event is critical for legal and audit review; all evidence and claims are mapped to Brighton Fringe\u2019s own safeguarding policy, published and binding at the time of all events. GP's clinical note corroborates the direct impact of institutional inaction.",
+      "source": "DUNCAN_ATTEMPTED_MURDER_IMPORT"
+    },
+    {
+      "id": "EX_FRINGE_VERITAS_LETTER_CONFIRMATION_2025",
+      "title": "Veritas Justice Confirmation of Safeguarding Failures and Ongoing Police Investigation",
+      "date": "2025-05-12",
+      "from": "Ben Carter <benrobcarter@gmail.com>",
+      "to": [
+        "Duncan Lustig-Prean <chair@brightonfringe.org>",
+        "Confidential <confidential@brightonfringe.org>",
+        "Sussex Police contacts",
+        "Civil Claims",
+        "Artist Services"
+      ],
+      "subject": "Follow up on urgent safeguarding breach since April 2nd Brighton Fringe April 6th Sussex Police",
+      "core_quotes": [
+        "You will now have received a formal letter from Veritas Justice CIC, confirming they have been supporting me since November 2024...",
+        "This letter stands as formal, third-party confirmation of everything I have been stating for months \u2014 including the police\u2019s own internal record of Miss O\u2019Hare\u2019s arrest, the seriousness of the allegations, and the ongoing investigation under crime reference 47240141246.",
+        "I expect a written confirmation that the above points have been noted, and that the Fringe will now act with full transparency in response."
+      ],
+      "attachments": [
+        {
+          "filename": "Support letter 12.5.25 1 (1).pdf",
+          "summary": "Veritas Justice CIC confirms ongoing support, outlines case history, MARAC/Stalking Clinic review, and bail status for Alanna O'Hare."
+        }
+      ],
+      "demands": [
+        "Acknowledge receipt of Veritas letter",
+        "Cease all internal/third-party discussion about my mental health/police involvement without fact-checking",
+        "Confirm if any such discussions have already occurred without consent",
+        "Acknowledge PC Dixon is no longer my officer and respect that boundary"
+      ],
+      "linked_parties": [
+        "Brighton Fringe Team",
+        "Veritas Justice",
+        "Sussex Police",
+        "Alanna O\u2019Hare",
+        "PC Jon Dixon"
+      ],
+      "vex_tags": [
+        "safeguarding_third_party_validation",
+        "failure_to_escalate",
+        "boundary_enforcement",
+        "advocacy_confirmation",
+        "formal_policy_breach"
+      ],
+      "policy_reference": [
+        {
+          "policy": "Brighton Fringe Safeguarding Policy",
+          "review_date": "2025-02-17",
+          "sections": [
+            1,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "policy": "Care Act 2014",
+          "sections": [
+            "Section 42"
+          ]
+        },
+        {
+          "policy": "Charity Commission CC9/CC14",
+          "sections": [
+            "Serious Incident Reporting",
+            "Governance"
+          ]
+        },
+        {
+          "policy": "Victims\u2019 Code"
+        }
+      ],
+      "status": "active",
+      "proof_needed": [
+        "Board acknowledgment of Veritas letter",
+        "Internal/DSO logs on handling of safeguarding correspondence",
+        "Written confirmation of all requests"
+      ],
+      "notes": "Event includes formal third-party validation, historical timeline, and explicit demands for safeguarding transparency, all of which are core to the master safeguarding timeline.",
+      "source": "DUNCAN_ATTEMPTED_MURDER_IMPORT"
+    },
+    {
+      "id": "EX_PR_DRAFT_PRESS_RELEASE_NOT_APPROVED_2025",
+      "title": "Draft Press Release Misattributed \u2013 Not Authorised by Ben Carter or Alice Wright",
+      "date": "2025-05-XX",
+      "participants": [
+        "Drafted by Brighton Fringe PR/SparkAMPM (unknown author)",
+        "Alice Wright (recipient for approval)",
+        "Ben Carter (intended subject/approval)"
+      ],
+      "core_quotes": [
+        "Ben Carter, the founder of Half A Camel said \u201cI set up Puck Rock Comedy (pun-intended)...",
+        "Notes in red are either questions from me, or things I don\u2019t know and need to find out before this is sent.",
+        "Please confirm how many [events]...",
+        "You can read more about the venue and Ben Carter at: https://halfacamel.com/"
+      ],
+      "emotional_tags": [
+        "misrepresentation",
+        "frustration",
+        "inauthentic_voice"
+      ],
+      "vex_tags": [
+        "pr_spin",
+        "not_approved_by_subject",
+        "misattributed_authorship"
+      ],
+      "policy_reference": [],
+      "status": "draft",
+      "proof_needed": [
+        "Email chain confirming this draft was not approved or published as written",
+        "Final approved release (if any) to clarify authorship"
+      ],
+      "notes": "This press release draft was produced for review but not approved by Ben Carter or Alice Wright. Style, puns, and tone do not reflect either party\u2019s actual writing or experience. Use with caution as evidence of misattribution or misrepresentation if published.",
+      "source": "DUNCAN_ATTEMPTED_MURDER_IMPORT"
+    },
+    {
+      "id": "EX_FRINGE_CRIME_REF_OBSTRUCTION_2025",
+      "title": "Crime Reference Number Escalation, Obstruction, and Institutional Gaslighting",
+      "date_range": [
+        "2025-05-04",
+        "2025-05-07"
+      ],
+      "source_file": "Gmail - Crime Reference Number.pdf",
+      "core_quotes": [
+        "Please log the following crime reference number: 47240141246 Let me know if you require any further information.",
+        "What do you want me to do with this crime reference?",
+        "I am required to keep a full record of all communications and actions taken. This includes the voicemail I left on 21st March, which specifically referred to a safeguarding incident involving Alexander Voodoo.",
+        "Who within the Fringe organisation is responsible for ensuring these matters are correctly recorded and acted upon?",
+        "No answer phone message has been received and any messages which were received in that period will now have been overwritten.",
+        "Brighton Fringe is unable to investigate a message which has not been received.",
+        "If you\u2019re unsure how to respond, I suggest you seek advice. But silence or vagueness is no longer acceptable. I need clear answers, on record.",
+        "You want me dead. That's it isn't it.",
+        "What do you want me to do with this crime reference? Log it, you're in it.",
+        "She is back, is that in your log?? Put it in your little log Duncan? ... I have now been assigned a police officer today, I now have to go through everything again, tiering the most traumatic times of my life. ... I will not stop until you talk anyway off to bed now."
+      ],
+      "participants": [
+        "Ben Carter",
+        "Duncan Lustig-Prean",
+        "Amy Keogh",
+        "Alice Wright"
+      ],
+      "emotional_tags": [
+        "distress",
+        "abandonment",
+        "exhaustion",
+        "anger",
+        "gaslighting",
+        "betrayal"
+      ],
+      "vex_tags": [
+        "safeguarding_log_avoided",
+        "failure_to_record",
+        "obstruction_of_justice",
+        "accountability_deflection",
+        "procedural_void",
+        "institutional_gaslighting",
+        "trauma_unacknowledged",
+        "retaliation_against_discloser"
+      ],
+      "policy_reference": [
+        {
+          "policy": "Brighton Fringe Safeguarding Policy",
+          "review_date": "2025-02-17",
+          "sections": [
+            4,
+            5,
+            6,
+            8,
+            9,
+            10,
+            12
+          ]
+        },
+        {
+          "policy": "Charity Commission CC28: Governance",
+          "sections": [
+            "Safeguarding Duties",
+            "Serious Incident Reporting"
+          ]
+        },
+        {
+          "policy": "Obstruction of Justice",
+          "sections": [
+            "Deliberately hiding, destroying, or refusing to hand over evidence",
+            "Lying to police or CPS to mislead an investigation",
+            "Penalty: Up to life imprisonment (usually 3-10 years for civilians in serious cases)"
+          ]
+        }
+      ],
+      "status": "active",
+      "proof_needed": [
+        "Log or record of 21 March safeguarding voicemail",
+        "Formal protocol for safeguarding escalation at Brighton Fringe",
+        "Internal documentation or Board communication"
+      ],
+      "notes": "This email chain documents repeated attempts to report a safeguarding crime reference, with continual deflection by the Chair and Board, contradictory statements about evidence handling, and repeated institutional gaslighting. References to legal and criminal implications of obstruction. Critical for legal, regulatory, and IOPC review.",
+      "source": "DUNCAN_ATTEMPTED_MURDER_IMPORT"
+    },
+    {
+      "id": "EX_FRINGE_ALICE_MEDIATION_CHAIN_2025",
+      "title": "Alice Wright as Safeguarding Proxy and Support \u2014 May 2025",
+      "date_range": [
+        "2025-05-06",
+        "2025-05-09"
+      ],
+      "participants": [
+        "Ben Carter",
+        "Alice Wright",
+        "Amy Keogh",
+        "Take Part Team",
+        "Duncan Lustig-Prean"
+      ],
+      "core_quotes": [
+        "I\u2019ve just had a talk with Alice, I never ever wanted to be an enemy of the Brighton Fringe\u2026 Thank you for Alice, she saw it straight away and I just came out with it all.",
+        "We\u2019re sorry we\u2019ve not been able to fully understand what you\u2019ve been asking for from us until Alice explained it to us. We acknowledge this now and that is why Alice has stepped in to provide you with support.",
+        "We have also been logging all of your communications with us, including all of the police reports you\u2019ve only sent to Duncan, in this record. Only the senior team at Brighton Fringe (Duncan and Amy) know any of these things as is appropriate for your privacy as an individual with additional needs.",
+        "What has Alice told you then?",
+        "I can't run my venues now, when I go in I get abuse, \u2026 when Voodoo, another venue manager, is cooperating with my abuser, I don't get a reply or it even logged. Just more abuse from him."
+      ],
+      "source_files": [
+        "Gmail - Press release and more things I can do to help.pdf",
+        "Who the fuck is alice?.pdf"
+      ],
+      "emotional_tags": [
+        "relief",
+        "clarity",
+        "distress",
+        "betrayal",
+        "support",
+        "abandonment"
+      ],
+      "vex_tags": [
+        "safeguarding_proxy",
+        "systemic_failure",
+        "support_outsourced_to_staff",
+        "privacy_statement",
+        "abuse_log_gap",
+        "institutional_gaslighting"
+      ],
+      "policy_reference": [
+        {
+          "policy": "Brighton Fringe Safeguarding Policy",
+          "review_date": "2025-02-17",
+          "sections": [
+            1,
+            5,
+            6,
+            8,
+            10,
+            12
+          ]
+        }
+      ],
+      "status": "active",
+      "proof_needed": [
+        "Record of safeguarding actions delegated to Alice",
+        "Internal documentation showing limits on Alice's authority",
+        "Board/DSO direct log access and escalation protocols"
+      ],
+      "notes": "Alice appears as a key support and confidante but does not have ultimate authority to address or resolve safeguarding failures. All logs and safeguarding decisions remain with Duncan and Amy as senior management. This email chain is evidence of partial support within a systemically failing safeguarding framework.",
+      "source": "DUNCAN_ATTEMPTED_MURDER_IMPORT"
+    },
+    {
+      "id": "EX_FRINGE_CRIME_REFERENCE_ESCALATION_2025",
+      "title": "Crime Reference Number, Safeguarding Log, and Institutional Deflection",
+      "date_range": [
+        "2025-05-04",
+        "2025-05-07"
+      ],
+      "source_file": "Gmail - Crime Reference Number.pdf",
+      "core_quotes": [
+        "Please log the following crime reference number: 47240141246 Let me know if you require any further information.",
+        "What do you want me to do with this crime reference?",
+        "As part of the ongoing investigation connected to crime reference CIT1201684, I am required to keep a full record of all communications and actions taken. This includes the voicemail I left on 21st March, which specifically referred to a safeguarding incident involving Alexander Voodoo.",
+        "What was recorded under the original crime reference in relation to the 21 March voicemail?",
+        "Brighton Fringe is unable to investigate a message which has not been received.",
+        "If you\u2019re unsure how to respond, I suggest you seek advice. But silence or vagueness is no longer acceptable. I need clear answers, on record.",
+        "You want me dead. That's it isn't it."
+      ],
+      "participants": [
+        "Ben Carter",
+        "Duncan Lustig-Prean",
+        "Amy Keogh",
+        "Alice Wright"
+      ],
+      "emotional_tags": [
+        "distress",
+        "abandonment",
+        "clarity",
+        "gaslighting",
+        "retaliation",
+        "exhaustion",
+        "betrayal"
+      ],
+      "vex_tags": [
+        "safeguarding_log_avoided",
+        "failure_to_record",
+        "accountability_deflection",
+        "institutional_gaslighting",
+        "escalation_to_external",
+        "procedural_void",
+        "trauma_unacknowledged"
+      ],
+      "policy_reference": [
+        {
+          "policy": "Brighton Fringe Safeguarding Policy",
+          "review_date": "2025-02-17",
+          "sections": [
+            4,
+            5,
+            6,
+            8,
+            9,
+            10,
+            12
+          ]
+        }
+      ],
+      "status": "active",
+      "proof_needed": [
+        "Log of 21 March safeguarding voicemail and actions taken",
+        "Formal confirmation of responsibility for safeguarding escalation",
+        "Operational process documentation"
+      ],
+      "notes": "Chain documents repeated attempts to log a crime reference and safeguarding concern, and Duncan's repeated deflection or failure to engage. Includes direct language on trauma, legal escalation, and professional boundaries. Critical for legal and policy audit.",
+      "source": "DUNCAN_ATTEMPTED_MURDER_IMPORT"
+    },
+    {
+      "id": "EX_FRINGE_POLICE_VERITAS_BREACH_2025",
+      "title": "Follow-up: Urgent Safeguarding Breach, Veritas Letter, and Sussex Police Failure",
+      "date": "2025-05-12",
+      "source_file": "Gmail - Follow up on urgent safeguarding breach since April 2nd Brighton Fringe April 6th Sussex Police.pdf",
+      "core_quote": "This letter stands as formal, third-party confirmation of everything I have been stating for months \u2014 including the police\u2019s own internal record of Miss O\u2019Hare\u2019s arrest, the seriousness of the allegations, and the ongoing investigation under crime reference 47240141246. ... I expect a written confirmation that the above points have been noted, and that the Fringe will now act with full transparency in response.",
+      "validating_evidence": [
+        {
+          "type": "email",
+          "filename": "Gmail - Follow up on urgent safeguarding breach since April 2nd Brighton Fringe April 6th Sussex Police.pdf"
+        },
+        {
+          "type": "attachment",
+          "filename": "Support letter 12.5.25 1 (1).pdf"
+        }
+      ],
+      "third_party_validation": [
+        {
+          "source": "Veritas Justice CIC",
+          "date": "2025-05-12",
+          "summary": "Letter confirming Veritas advocacy and support since Nov 2024, review by MARAC and Sussex Police Stalking Clinic, and ongoing police investigation with bail conditions against perpetrator."
+        }
+      ],
+      "linked_entities": [
+        "Ben Carter",
+        "Duncan Lustig-Prean",
+        "Brighton Fringe",
+        "Veritas Justice CIC",
+        "Sussex Police",
+        "PC Jon Dixon",
+        "Alanna O\u2019Hare"
+      ],
+      "emotional_tags": [
+        "distress",
+        "abandonment",
+        "clarity",
+        "strength",
+        "betrayal"
+      ],
+      "vex_tags": [
+        "safeguarding_disclosure_ignored",
+        "failure_to_act",
+        "reckless_endangerment",
+        "institutional_gaslighting",
+        "third_party_validation_ignored",
+        "boundary_violation",
+        "narrative_control"
+      ],
+      "policy_reference": [
+        {
+          "policy": "Brighton Fringe Safeguarding Policy",
+          "review_date": "2025-02-17",
+          "sections": [
+            1,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11
+          ]
+        }
+      ],
+      "status": "active",
+      "proof_needed": [
+        "Formal acknowledgment from Brighton Fringe of Veritas letter",
+        "Internal communications on police/safeguarding follow-up",
+        "Board/DSO response to disclosure and third-party validation"
+      ],
+      "notes": "This event includes written confirmation from Veritas Justice, MARAC, and Sussex Police Stalking Clinic. Failure to respond or act is a direct breach of safeguarding policy and Charity Commission rules.",
+      "source": "DUNCAN_ATTEMPTED_MURDER_IMPORT"
+    },
+    {
+      "id": "EX_FRINGE_PRESS_RELEASE_SUPPORT_CHAIN_2025",
+      "title": "Press Release, Marketing Support, and Safeguarding Solicitor Letter \u2013 Half a Camel & Brighton Fringe",
+      "date_range": [
+        "2025-05-06",
+        "2025-05-09"
+      ],
+      "source_files": [
+        "Gmail - Press release and more things I can do to help.pdf",
+        "Gmail - PLI for Half a Camel.pdf",
+        "Gmail - Alice is off sick Re_ Give me my reputation back.pdf",
+        "Who the fuck is alice?.pdf"
+      ],
+      "core_quotes": [
+        "I\u2019ve written a draft of a press release for you about Half a Camel with reference to Puck being the new sober space.",
+        "From what you\u2019ve said, it sounds like you also need support ... because you recently tried to kill yourself and you need more time to recover from that.",
+        "Dear Brighton Fringe Team, I am writing on behalf of my client, Mr. Ben Carter, regarding a continued and serious safeguarding failure in your handling of his case.",
+        "Brighton Fringe Ltd. failed to respond to a direct and emotionally significant message from a declared vulnerable individual.",
+        "This silence has had a material and damaging impact on his mental health.",
+        "I was so pleased to receive your email yesterday afternoon and to know that you don't hate us. We really want you to have a good recovery and a successful Fringe.",
+        "Alice has not told Amy or me anything about your private conversations. She has very kindly been helping us to support you through this difficult time for you.",
+        "I'm currently off work sick (8th May 2025)"
+      ],
+      "participants": [
+        "Ben Carter",
+        "Alice Wright",
+        "Duncan Lustig-Prean",
+        "Brighton Fringe Team",
+        "Amy Keogh",
+        "Solicitor"
+      ],
+      "emotional_tags": [
+        "distress",
+        "exhaustion",
+        "relief",
+        "support",
+        "abandonment",
+        "vulnerability",
+        "betrayal"
+      ],
+      "vex_tags": [
+        "support_outsourced_to_subcontractor",
+        "marketing_support_gap",
+        "safeguarding_lead_absent",
+        "failure_to_respond",
+        "trauma_acknowledged_then_ignored",
+        "solicitor_formal_notice",
+        "risk_of_reputational_harm"
+      ],
+      "policy_reference": [
+        {
+          "policy": "Brighton Fringe Safeguarding Policy",
+          "review_date": "2025-02-17",
+          "sections": [
+            1,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            12
+          ]
+        },
+        {
+          "policy": "Care Act 2014, Section 42",
+          "sections": [
+            "Duties to safeguard vulnerable adults"
+          ]
+        },
+        {
+          "policy": "Health and Social Care Act 2008 (Regulated Activities) Regulations, Regulation 13",
+          "sections": [
+            "Safeguarding service users from abuse and improper treatment"
+          ]
+        }
+      ],
+      "status": "active",
+      "proof_needed": [
+        "Formal Board/DSO assignment of safeguarding lead",
+        "Direct Board reply to solicitor's letter",
+        "Internal logs of support/response"
+      ],
+      "notes": "This chain shows strong branding/support for Half a Camel but also formal legal notice of safeguarding failure, lack of internal reply to distress disclosure, and reliance on an external marketer for support. Board-level response remains absent.",
+      "source": "DUNCAN_ATTEMPTED_MURDER_IMPORT"
+    },
+    {
+      "id": "EX_POLICE_SUICIDE_VOICEMAIL_DELEGATION_2025",
+      "title": "Police Voicemail: Suicide Risk Delegated, Not Escalated",
+      "date": "2025-05-27T18:19:00",
+      "participants": [
+        "Sussex Police (unidentified officer)",
+        "Ben Carter"
+      ],
+      "source": "DUNCAN_ATTEMPTED_MURDER_IMPORT",
+      "core_quotes": [
+        "Hello, this is a message for Ben. It's Sussex police Ben as I was trying to explain to you as the officer is aware to contact you.",
+        "I appreciate that you're overwhelmed with everything.",
+        "The officer will be contacting you. ... You mentioned that you were suicidal. I would strongly advise that you contact him."
+      ],
+      "emotional_tags": [
+        "distress",
+        "abandonment",
+        "risk",
+        "delegation"
+      ],
+      "vex_tags": [
+        "suicidal_disclosure_acknowledged",
+        "no_active_escalation",
+        "safeguarding_duty_failed",
+        "trauma_unaddressed"
+      ],
+      "policy_reference": [
+        {
+          "policy": "Care Act 2014, Section 42"
+        },
+        {
+          "policy": "Police Safeguarding Protocols",
+          "sections": [
+            "Immediate escalation required for suicidal disclosures"
+          ]
+        }
+      ],
+      "status": "active",
+      "proof_needed": [
+        "Police log confirming internal handling/escalation",
+        "Follow-up records or action taken",
+        "Formal communication from assigned officer"
+      ],
+      "notes": "Police voicemail acknowledges direct suicidal disclosure but delegates responsibility to victim, with no evidence of immediate safeguarding or mental health escalation. Pattern consistent with previous failures by Sussex Police and Brighton Fringe."
+    },
+    {
+      "id": "EX_FRINGE_SOLICITOR_PLI_COMPLAINT_2025",
+      "title": "Solicitor Letter \u2013 Safeguarding Complaint and Failure to Respond (PLI for Half a Camel)",
+      "date": "2025-05-07",
+      "participants": [
+        "Ben Carter",
+        "Alice Wright",
+        "Brighton Fringe Team",
+        "Solicitor"
+      ],
+      "source_file": "Gmail - PLI for Half a Camel.pdf",
+      "core_quotes": [
+        "Brighton Fringe Ltd. failed to appoint a safeguarding lead or trained representative when engaging him.",
+        "Brighton Fringe Ltd. failed to respond to a direct and emotionally significant message from a declared vulnerable individual.",
+        "This silence has had a material and damaging impact on his mental health.",
+        "We are preparing formal documentation for review and escalation. Mr. Carter will reserve the right to pursue legal, civil, and regulatory action."
+      ],
+      "emotional_tags": [
+        "distress",
+        "vulnerability",
+        "abandonment",
+        "relief"
+      ],
+      "vex_tags": [
+        "solicitor_formal_notice",
+        "failure_to_escalate",
+        "safeguarding_lead_absent",
+        "support_outsourced_to_subcontractor",
+        "empathy_misused"
+      ],
+      "policy_reference": [
+        {
+          "policy": "Brighton Fringe Safeguarding Policy",
+          "review_date": "2025-02-17",
+          "sections": [
+            1,
+            4,
+            5,
+            6,
+            8,
+            10
+          ]
+        },
+        {
+          "policy": "Care Act 2014, Section 42"
+        },
+        {
+          "policy": "Health and Social Care Act 2008, Reg. 13"
+        }
+      ],
+      "status": "active",
+      "proof_needed": [
+        "Written Board/DSO response",
+        "Assignment of safeguarding lead",
+        "Internal logs of follow-up"
+      ],
+      "notes": "Formal legal complaint, professional advocate support, organizational non-response and subcontracting safeguarding support.",
+      "source": "DUNCAN_ATTEMPTED_MURDER_IMPORT"
+    },
+    {
+      "id": "EX_ALICE_DIRECT_SUPPORT_MAY_2025",
+      "title": "Alice Wright Offers Direct Support and Advocacy for Half A Camel",
+      "date": "2025-05-06",
+      "participants": [
+        "Alice Wright",
+        "Ben Carter",
+        "Brighton Fringe Team"
+      ],
+      "source_file": "Gmail - Press release and more things I can do to help.pdf",
+      "core_quotes": [
+        "Firstly, I\u2019ve written a draft of a press release for you about Half a Camel with reference to Puck being the new soberspace. I\u2019ve used the information you shared with me, as well as what\u2019s on your website.",
+        "From what you\u2019ve said, it sounds like you also need support with liaising with your Half A Camel artists \u2013 and that\u2019s not because you don\u2019t know what you\u2019re doing \u2013 from my understanding it\u2019s because you recently tried to kill yourself and you need more time to recover from that.",
+        "You now advocate for [Kimi] by collecting other people\u2019s experiences with Sussex Police on the website you\u2019ve set up. This is an amazing thing to do for your friend.",
+        "I can put together a schedule of all your shows for [your venues] so they know exactly what you\u2019ve booked in so we try to avoid any diary clashes, such as what happened yesterday with the Aoife Dunne show.",
+        "Let me know what you think \u2013 via email is best for me if possible. All of this can happen today and as soon as I hear from you I can start it."
+      ],
+      "emotional_tags": [
+        "support",
+        "clarity",
+        "relief",
+        "validation",
+        "practical_help"
+      ],
+      "vex_tags": [
+        "authentic_support",
+        "practical_advocacy",
+        "no_pr_spin",
+        "human_care",
+        "support_gap_in_management"
+      ],
+      "policy_reference": [
+        {
+          "policy": "Brighton Fringe Safeguarding Policy",
+          "review_date": "2025-02-17",
+          "sections": [
+            1,
+            5,
+            6,
+            8,
+            9,
+            10
+          ]
+        }
+      ],
+      "status": "active",
+      "proof_needed": [
+        "Confirmation of Alice's support role from Brighton Fringe",
+        "Evidence that management responded to Alice's support offers"
+      ],
+      "notes": "Alice\u2019s email shows direct, practical, and compassionate support for Ben Carter and Half A Camel, without PR spin or manipulation. Contrasts sharply with organizational deflection and lack of formal safeguarding action.",
+      "source": "DUNCAN_ATTEMPTED_MURDER_IMPORT"
+    },
+    {
+      "id": "EX_FRINGE_INTERNAL_NARRATIVE_DISCLOSURE_2025",
+      "title": "Urgent Safeguarding Breach \u2013 Internal Narrative and Third-Party Disclosures",
+      "date": "2025-05-11",
+      "source_file": "Gmail - Urgent Safeguarding Breach \u2013 Internal Narrative and Third-Party Disclosures.pdf",
+      "core_quotes": [
+        "I am writing to formally notify you of a serious safeguarding breach, now confirmed through direct communication from an artist.",
+        "Members of the Brighton Fringe team have either directly or indirectly: Shared internal narratives about my mental health and business capacity; Disclosed, reframed, or downplayed private safeguarding information; Justified contact with my ex-partner without informing me, under the guise of 'keeping us apart'.",
+        "This confirms that Brighton Fringe has misrepresented the reality of my situation to third parties, in a manner that directly undermines my safety, credibility, and the business I built.",
+        "Any further misrepresentation \u2014 or failure to clarify what has already been shared \u2014 will be considered formal grounds for legal action and public complaint."
+      ],
+      "participants": [
+        "Ben Carter",
+        "Alice Wright",
+        "Brighton Fringe Team",
+        "Veritas Justice",
+        "PC Jon Dixon",
+        "Alanna O\u2019Hare"
+      ],
+      "emotional_tags": [
+        "distress",
+        "abandonment",
+        "betrayal",
+        "clarity",
+        "risk",
+        "anger"
+      ],
+      "vex_tags": [
+        "safeguarding_breach",
+        "confidentiality_violation",
+        "internal_narrative_control",
+        "reputational_harm",
+        "misrepresentation",
+        "retaliation_against_discloser",
+        "legal_threat"
+      ],
+      "policy_reference": [
+        {
+          "policy": "Brighton Fringe Safeguarding Policy",
+          "review_date": "2025-02-17",
+          "sections": [
+            5,
+            6,
+            8,
+            9,
+            10,
+            12
+          ]
+        },
+        {
+          "policy": "GDPR/Data Protection",
+          "sections": [
+            "Confidentiality",
+            "Consent",
+            "Lawful disclosure"
+          ]
+        }
+      ],
+      "status": "active",
+      "proof_needed": [
+        "Written confirmation of any internal narrative shared with third parties",
+        "Documentation of contact with Alanna O\u2019Hare after April 2nd",
+        "Internal records describing Ben Carter's role or state of mind"
+      ],
+      "notes": "This event documents a critical safeguarding and data breach, with legal and reputational implications. Involves direct impact on business, safety, and standing of the discloser.",
+      "source": "DUNCAN_ATTEMPTED_MURDER_IMPORT"
+    },
+    {
+      "id": "EX_SAFEGUARDING_CALL_IGNORED",
+      "title": "Suicide Disclosure Ignored by Sussex Police",
+      "date_first_breached": "2024-04-06",
+      "contradiction_type": "safeguarding_failure",
+      "core_quote": "I told them I was suicidal. They didn\u2019t log it.",
+      "validating_evidence": [
+        "angry_dixon_call.mp3",
+        "LIVE_VEX_TIMELINE:2024-04-06",
+        "riggs_0406_whatsapp.json"
+      ],
+      "linked_entities": [
+        "Sussex Police",
+        "PC Dixon"
+      ],
+      "emotional_tags": [
+        "collapse",
+        "abandonment"
+      ],
+      "status": "active",
+      "proof_needed": [
+        "101 call log SAR",
+        "Officer Dixon\u2019s control room transcript"
+      ]
+    },
+    {
+      "id": "EX_WEAPONISED_BAIL_BREACH",
+      "title": "Bail Conditions Weaponised to Suppress Victim",
+      "date_first_breached": "2025-05-12",
+      "contradiction_type": "legal_escalation",
+      "core_quote": "They used my own bail conditions to prevent me from speaking up.",
+      "validating_evidence": [
+        "bail_letter_redacted.pdf",
+        "whatsapp_adrian_bail_response.json"
+      ],
+      "linked_entities": [
+        "Sussex Police",
+        "CPS",
+        "IOPC"
+      ],
+      "emotional_tags": [
+        "fear",
+        "disempowerment"
+      ],
+      "status": "active",
+      "proof_needed": [
+        "CPS internal decision memo",
+        "Email record of bail changes"
+      ]
+    },
+    {
+      "id": "EX_PUBLIC_BUNDLE_SUMMARY_SAR_SUSSEX_POLICE",
+      "title": "SAR Suppression Evidence \u2013 PUBLIC_BUNDLE_SUMMARY_SAR_SUSSEX_POLICE.json",
+      "date_first_breached": "2025-04-08",
+      "contradiction_type": "evidence_suppression",
+      "core_quote": "Evidence was suppressed or withheld by Sussex Police as documented in the SAR files.",
+      "validating_evidence": [
+        "PUBLIC_BUNDLE_SUMMARY_SAR_SUSSEX_POLICE.json"
+      ],
+      "linked_entities": [
+        "Sussex Police"
+      ],
+      "emotional_tags": [],
+      "status": "active",
+      "proof_needed": [
+        "SAR audit trail",
+        "Legal response from Sussex Police"
+      ]
+    },
+    {
+      "id": "EX_COMPENSATION_CLAIM_MATRIX_SUSSEX_POLICE",
+      "title": "SAR Suppression Evidence \u2013 COMPENSATION_CLAIM_MATRIX_SUSSEX_POLICE.json",
+      "date_first_breached": "2025-04-08",
+      "contradiction_type": "evidence_suppression",
+      "core_quote": "Evidence was suppressed or withheld by Sussex Police as documented in the SAR files.",
+      "validating_evidence": [
+        "COMPENSATION_CLAIM_MATRIX_SUSSEX_POLICE.json"
+      ],
+      "linked_entities": [
+        "Sussex Police"
+      ],
+      "emotional_tags": [],
+      "status": "active",
+      "proof_needed": [
+        "SAR audit trail",
+        "Legal response from Sussex Police"
+      ]
+    },
+    {
+      "id": "EX_SUSSEX_POLICE_SAFEGUARDING_BREAKDOWN_MAY_2025",
+      "title": "SAR Suppression Evidence \u2013 SUSSEX_POLICE_SAFEGUARDING_BREAKDOWN_MAY_2025.json",
+      "date_first_breached": "2025-04-08",
+      "contradiction_type": "evidence_suppression",
+      "core_quote": "Evidence was suppressed or withheld by Sussex Police as documented in the SAR files.",
+      "validating_evidence": [
+        "SUSSEX_POLICE_SAFEGUARDING_BREAKDOWN_MAY_2025.json"
+      ],
+      "linked_entities": [
+        "Sussex Police"
+      ],
+      "emotional_tags": [],
+      "status": "active",
+      "proof_needed": [
+        "SAR audit trail",
+        "Legal response from Sussex Police"
+      ]
+    },
+    {
+      "id": "EX_PC_GORE_FAILED_TO_REVIEW_AUDIO_SAFEGUARDING_EVIDENCE",
+      "title": "PC Gore Failed to Review Audio Safeguarding Evidence Sent During Critical Risk Period",
+      "date_first_breached": "2024-07-24",
+      "contradiction_type": "police_evidence_neglect",
+      "core_quote": "Despite receiving screenshots and direct messages pointing to critical audio evidence of threats and collapse triggers, PC Gore failed to listen or follow up on any of the materials.",
+      "validating_evidence": [
+        "PC_GORE_TEXTS/Screenshot1.png",
+        "PC_GORE_TEXTS/Screenshot2.png",
+        "PC_GORE_TEXTS/Screenshot3.png",
+        "PC_GORE_TEXTS/Screenshot4.png",
+        "PC_GORE_TEXTS/Screenshot5.png",
+        "PC_GORE_TEXTS/Screenshot6.png",
+        "PC_GORE_TEXTS/Screenshot7.png",
+        "PC_GORE_TEXTS/Screenshot8.png"
+      ],
+      "linked_entities": [
+        "PC Gore",
+        "Sussex Police"
+      ],
+      "emotional_tags": [
+        "disregarded",
+        "helplessness",
+        "despair"
+      ],
+      "vex_tags": [
+        "police_evidence_neglect",
+        "audio_disregarded",
+        "safeguarding_disengagement",
+        "failure_to_investigate_known_risk"
+      ],
+      "status": "active",
+      "proof_needed": [
+        "Internal log showing receipt of messages by PC Gore",
+        "Confirmation of no follow-up action from Sussex Police systems"
+      ]
+    },
+    {
+      "id": "EX_POLICE_NONRESPONSE_DURING_JULY_2024_COLLAPSE_AFTER_REPEATED_CALLS",
+      "title": "Police Failed to Respond During July 2024 Safeguarding Collapse After Multiple Calls",
+      "date_first_breached": "2024-07-24",
+      "contradiction_type": "critical_safeguarding_abandonment",
+      "core_quote": "Despite repeated calls and direct threats from Alanna, Sussex Police failed to respond, leading to a mental health emergency and ambulance call initiated by the victim.",
+      "validating_evidence": [
+        "JULY_2024_CALLS_AND_SCREENSHOTS/Lost_Call_July2024_Submitted.m4a",
+        "JULY_2024_CALLS_AND_SCREENSHOTS/I picked up as I thought it might be the police.m4a",
+        "JULY_2024_CALLS_AND_SCREENSHOTS/she can email me how she\u2019s going to destroy my life.m4a",
+        "JULY_2024_CALLS_AND_SCREENSHOTS/All screenshots 03:17\u201304:10am (emergency trigger)/Final screenshot - AT THIS POINT I CALLED THE AMBULANCE.png"
+      ],
+      "linked_entities": [
+        "Sussex Police",
+        "PC Gore",
+        "Alanna O\u2019Hare"
+      ],
+      "emotional_tags": [
+        "collapse",
+        "abandonment",
+        "terror",
+        "hopelessness"
+      ],
+      "vex_tags": [
+        "emergency_call_ignored",
+        "emotional_collapse_triggered_by_contact",
+        "safeguarding_abandonment",
+        "deliberate_nonresponse_during_crisis"
+      ],
+      "status": "active",
+      "proof_needed": [
+        "101 and 999 call records for July 24th 2024",
+        "Ambulance dispatch confirmation and timestamp"
+      ]
+    },
+    {
+      "id": "EX_ALANNA_RETRIBUTION_AFTER_NFA_CONFIRMED_VIA_THREATS_AND_IMPERSONATION",
+      "title": "Alanna Retaliated After NFA Confirmation with Threats and Guardian Impersonation",
+      "date_first_breached": "2025-05-08",
+      "contradiction_type": "retaliation_after_police_action",
+      "core_quote": "After being informed of the NFA decision before the victim, Alanna began retaliating with impersonation of The Guardian, direct threats, and exploitative contact. These actions were triggered by information likely leaked from Sussex Police.",
+      "validating_evidence": [
+        "Alanna_Recent_Messaging_&_Retaliation/Call_Guardian_Impersonation_Alanna_08May2025.m4a",
+        "Alanna_Recent_Messaging_&_Retaliation/999_May9_Alanna_BailEnded_Email_Dixon.m4a",
+        "Alanna_Recent_Messaging_&_Retaliation/Exhibit_Alanna_Intimidation_Email_20250510.docx",
+        "Alanna_Recent_Messaging_&_Retaliation/facebook threat screenshot .png",
+        "Alanna_Recent_Messaging_&_Retaliation/999_Confirming_Officer_Still_PC_Dixon.m4a"
+      ],
+      "linked_entities": [
+        "Alanna O\u2019Hare",
+        "PC Dixon",
+        "Sussex Police"
+      ],
+      "emotional_tags": [
+        "fear",
+        "threat",
+        "manipulation",
+        "disempowerment"
+      ],
+      "vex_tags": [
+        "impersonation_of_press",
+        "retaliation_post_nfa",
+        "sussex_police_leak_to_abuser",
+        "safeguarding_retaliation",
+        "bail_status_exploitation"
+      ],
+      "status": "active",
+      "proof_needed": [
+        "Confirmation of NFA notification timing to Alanna vs victim",
+        "Police internal record of who informed Alanna of bail change"
+      ]
+    },
+    {
+      "id": "EX_SUSSEX_POLICE_ONGOING_SAFEGUARDING_NEGLECT_POST_DISCLOSURE",
+      "title": "Sussex Police Failed to Act on Ongoing Safeguarding Disclosures Between April and May 2025",
+      "date_first_breached": "2025-04-06",
+      "contradiction_type": "institutional_neglect",
+      "core_quote": "Despite multiple disclosures and critical calls to 101 and 999, Sussex Police failed to provide safeguarding support and reassigned PC Dixon after objections.",
+      "validating_evidence": [
+        "Audio_Safeguarding_Neglect/101_Ambulance_Deflection.m4a",
+        "Audio_Safeguarding_Neglect/All_Officers_Away_Until_Tuesday.m4a",
+        "Audio_Safeguarding_Neglect/First 999 call 9th May After the Guardian phone call.m4a",
+        "Audio_Safeguarding_Neglect/999 confirming again my officer is still pc Dixon Alanna .m4a"
+      ],
+      "linked_entities": [
+        "Sussex Police",
+        "PC Dixon"
+      ],
+      "emotional_tags": [
+        "abandonment",
+        "gaslighting",
+        "distress"
+      ],
+      "vex_tags": [
+        "safeguarding_failure",
+        "operator_deflection",
+        "duty_of_care_ignored",
+        "officer_reassignment_ignored_disclosure"
+      ],
+      "status": "active",
+      "proof_needed": [
+        "Guardian call metadata",
+        "SAR call logs from April\u2013May 2025 confirming assigned officers"
+      ]
+    },
+    {
+      "id": "EX_TETHIS_USED_TO_PROPAGATE_FALSE_RAPE_NARRATIVE",
+      "title": "Alanna Used Tethis to Propagate a False Rape Narrative While Victim Was on Bail",
+      "date_first_breached": "2024-11-13",
+      "contradiction_type": "coercive_narrative_distribution",
+      "core_quote": "Alanna involved Tethis to reinforce a false rape narrative while the victim was under bail restrictions, with screenshots and voice notes used to escalate the manipulation.",
+      "validating_evidence": [
+        "FALSE_RAPE_STATEMENT_MADE_ON_BAIL/Tethis screenshots 13 Nov .png",
+        "FALSE_RAPE_STATEMENT_MADE_ON_BAIL/voice note 13 Nov sent to tethis.m4a",
+        "FALSE_RAPE_STATEMENT_MADE_ON_BAIL/False Allegation.docx",
+        "FALSE_RAPE_STATEMENT_MADE_ON_BAIL/Targeting a Vulnerable Witness to Obstruct the Truth.docx"
+      ],
+      "linked_entities": [
+        "Alanna O\u2019Hare",
+        "Tethis",
+        "Sussex Police"
+      ],
+      "emotional_tags": [
+        "gaslighting",
+        "manipulation",
+        "collapse"
+      ],
+      "vex_tags": [
+        "false_allegation_distribution",
+        "bail_coercion",
+        "narrative_control_through_third_party",
+        "sussex_police_failure_to_filter_disinformation"
+      ],
+      "status": "active",
+      "proof_needed": [
+        "Confirmation from Tethis regarding how/why he was contacted",
+        "SAR or police file record referencing this external dissemination"
+      ]
+    },
+    {
+      "id": "EX_DIXON_INFORMED_ABUSER_BEFORE_VICTIM_NFA_DECISION",
+      "title": "PC Dixon Informed Alanna of NFA Decision Before Informing Victim",
+      "date_first_breached": "2025-04-27",
+      "contradiction_type": "vcop_violation",
+      "core_quote": "PC Dixon informed Alanna of a No Further Action decision before the victim was notified, leading to new threats from her on May 9th.",
+      "validating_evidence": [
+        "April 27th Pc Dixon Tells Alanna NFA/Pc Dixon NFA to Alanna .png",
+        "April 27th Pc Dixon Tells Alanna NFA/ Friday May 9th, received from alanna. New threats as NFA  PNG.png",
+        "April 27th Pc Dixon Tells Alanna NFA/Alanna Recent Messaging & Retaliation .html"
+      ],
+      "linked_entities": [
+        "PC Dixon",
+        "Alanna O\u2019Hare",
+        "Sussex Police"
+      ],
+      "emotional_tags": [
+        "betrayal",
+        "fear",
+        "disempowerment"
+      ],
+      "vex_tags": [
+        "vcop_breach",
+        "police_enablement_of_abuser",
+        "retaliatory_risk_escalation",
+        "deliberate_endangerment"
+      ],
+      "status": "active",
+      "proof_needed": [
+        "Timeline proof of when victim was officially informed",
+        "Confirmation of NFA delivery order from Sussex Police records"
+      ]
+    },
+    {
+      "id": "EX_VERITAS_ACKNOWLEDGED_RECORD_FAILURES_IN_LIVE_SUPPORT_CHAT",
+      "title": "Veritas Admitted Suicide Disclosure and Safeguarding Failures in Live Chat",
+      "date_first_breached": "2025-04-11",
+      "contradiction_type": "institutional_admission",
+      "core_quote": "I can't believe they never added that April call to your file... it should've triggered safeguarding immediately.",
+      "validating_evidence": [
+        "_chat copy.txt",
+        "Veritas safeguarding record timeline",
+        "SAR_SUPPRESSION_PROJECT_BUNDLE_2025"
+      ],
+      "linked_entities": [
+        "Veritas Justice",
+        "Sussex Police"
+      ],
+      "emotional_tags": [
+        "betrayal",
+        "neglect",
+        "collapse"
+      ],
+      "vex_tags": [
+        "veritas_failure_to_escalate",
+        "support_service_admission_of_breach",
+        "safeguarding_pathway_not_triggered",
+        "rape_claim_missing_from_records"
+      ],
+      "status": "active",
+      "proof_needed": [
+        "Veritas formal confirmation of chat content and timestamp",
+        "Official record from Veritas case file noting safeguarding steps"
+      ]
+    },
+    {
+      "id": "AUTO_DIGPOL_NICE_20241104_0536",
+      "title": "Veritas Agent Claimed NICE Links Were Not Used Despite Evidence Upload on 4 Nov 2024 at 05:36",
+      "date_first_breached": "2024-11-04",
+      "contradiction_type": "evidence_suppression",
+      "core_quote": "They\u2019ve told us the NICE links have not been used.",
+      "linked_entities": [
+        "Veritas Justice",
+        "Sussex Police"
+      ],
+      "vex_tags": [
+        "nice_link_uploaded",
+        "evidence_suppressed",
+        "veritas_conflict"
+      ],
+      "timeline_refs": [
+        "PEARSON_NICE_SUBMISSION",
+        "DIXON_NICE_CHAIN"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "AUTO_DIGPOL_NICE_20241104_1539",
+      "title": "Veritas Contradiction: NICE Link Usage Denied Despite 4 Nov 2024 Upload at 15:39",
+      "date_first_breached": "2024-11-04",
+      "contradiction_type": "evidence_suppression",
+      "core_quote": "They\u2019ve told us the NICE links have not been used.",
+      "linked_entities": [
+        "Veritas Justice",
+        "Sussex Police"
+      ],
+      "vex_tags": [
+        "nice_link_uploaded",
+        "digital_denial",
+        "misrepresentation"
+      ],
+      "timeline_refs": [
+        "NICE_LINK_EXPIRED_CHAIN"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "AUTO_DIGPOL_NICE_20241113_1339",
+      "title": "Veritas Statement Conflicts With 13 Nov 2024 Evidence Submission of NICE Link",
+      "date_first_breached": "2024-11-13",
+      "contradiction_type": "evidence_suppression",
+      "core_quote": "They\u2019ve told us the NICE links have not been used.",
+      "linked_entities": [
+        "Veritas Justice",
+        "Sussex Police"
+      ],
+      "vex_tags": [
+        "nice_link_provided",
+        "evidence_log_gap"
+      ],
+      "timeline_refs": [
+        "DIGITAL_UPLOAD_VERITAS_CHAIN"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "AUTO_SUICIDE_LOGGING_VERITAS_20250428",
+      "title": "Veritas Disputed Suicide Logging Despite System Records Showing NICE & Ambulance Flagging",
+      "date_first_breached": "2025-04-28",
+      "contradiction_type": "suicide_logging_conflict",
+      "core_quote": "My suicide was never logged by Sussex Police \u2014 and Veritas are just taking that at face value.",
+      "linked_entities": [
+        "Veritas Justice",
+        "Sussex Police"
+      ],
+      "vex_tags": [
+        "suicide_risk_not_logged",
+        "institutional_deferral",
+        "veritas_acceptance"
+      ],
+      "timeline_refs": [
+        "CROWBARRING_MYSELF_JUSTICE",
+        "SUICIDE_LOGGING_PATHWAY"
+      ],
+      "status": "active"
+    }
+  ]
+}
