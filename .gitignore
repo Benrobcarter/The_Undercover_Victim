@@ -1,0 +1,6 @@
+*.DS_Store
+__pycache__/
+.env
+*.log
+05_public/media/
+08_audit/*.txt
