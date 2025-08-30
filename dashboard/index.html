@@ -1,19 +1,79 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <title>📊 Consolidated Master Dashboard</title>
-  <script src="../dashboard.js" defer></script>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>📊 Undercover Victim Dashboard</title>
   <style>
-    body { font-family: sans-serif; margin: 2em; }
-    h1 { color: #444; }
-    pre { background: #f0f0f0; padding: 1em; border-radius: 5px; }
+    @import url('https://fonts.googleapis.com/css2?family=Share+Tech+Mono&display=swap');
+
+    body {
+      font-family: 'Share Tech Mono', monospace;
+      background: #000;
+      color: #0ff;
+      padding: 2rem;
+      line-height: 1.6;
+    }
+
+    h1, h2 {
+      color: #fff;
+      text-shadow: 0 0 3px #0ff;
+    }
+
+    .section {
+      margin-bottom: 2rem;
+      border: 1px solid #0ff;
+      padding: 1rem;
+      border-radius: 10px;
+    }
+
+    .section pre {
+      white-space: pre-wrap;
+      word-break: break-word;
+    }
+
+    .glitch {
+      animation: flicker 1.5s infinite alternate;
+    }
+
+    @keyframes flicker {
+      0% { opacity: 1; text-shadow: 0 0 5px #0ff; }
+      100% { opacity: 0.8; text-shadow: 0 0 20px #0ff, 0 0 30px #0ff; }
+    }
   </style>
 </head>
 <body>
-  <h1>📊 Consolidated Master Dashboard</h1>
-  <div id="dashboard">
-    <p>Loading data...</p>
-  </div>
+  <h1 class="glitch">📊 Undercover Victim Dashboard</h1>
+  <p>Live view of your <code>consolidated_master.json</code> dataset.</p>
+
+  <div id="dashboard"></div>
+
+  <script>
+    fetch('consolidated_master.json')
+      .then(response => response.json())
+      .then(data => {
+        const dash = document.getElementById('dashboard');
+
+        const section = (title, content) => {
+          return `<div class="section">
+            <h2>${title} (${Array.isArray(content) ? content.length : '-'})</h2>
+            <pre>${JSON.stringify(content, null, 2)}</pre>
+          </div>`;
+        };
+
+        dash.innerHTML = `
+          ${section('Contradictions', data.contradictions)}
+          ${section('Contradictions VEX', data.contradictions_vex)}
+          ${section('Timelines', data.timelines)}
+          ${section('Evidence VEX', data.evidence_vex)}
+          ${section('Manifest Meta', data.manifest_meta)}
+          ${section('Working State', data.working_state)}
+        `;
+      })
+      .catch(err => {
+        document.getElementById('dashboard').innerHTML = '<p style="color:red">Error loading dashboard data.</p>';
+        console.error(err);
+      });
+  </script>
 </body>
 </html>
