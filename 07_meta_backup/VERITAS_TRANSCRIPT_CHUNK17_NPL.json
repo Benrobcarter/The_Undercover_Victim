@@ -1,0 +1,80 @@
+{
+  "chunk": 17,
+  "time_range": "16:30-17:30",
+  "quotes": [
+    {
+      "speaker": "Ben Carter",
+      "time": "16:30",
+      "quote": "What’s the point of me giving evidence if it just disappears into a black hole?",
+      "tags": [
+        "victim_experience",
+        "evidence_loss",
+        "hopelessness"
+      ]
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "16:36",
+      "quote": "The point is it builds a record, even if they mishandle it, it still shows you’ve done your part.",
+      "tags": [
+        "advocacy",
+        "recordkeeping",
+        "acknowledgement"
+      ]
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "16:42",
+      "quote": "But I’m the one at risk, not them. A record doesn’t protect me.",
+      "tags": [
+        "victim_experience",
+        "safeguarding",
+        "risk"
+      ]
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "16:47",
+      "quote": "I agree, it doesn’t keep you safe in the moment, but it matters for accountability later.",
+      "tags": [
+        "acknowledgement",
+        "delayed_accountability"
+      ]
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "16:52",
+      "quote": "Later doesn’t help me if something happens now.",
+      "tags": [
+        "victim_assertion",
+        "safeguarding_gap"
+      ]
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "16:57",
+      "quote": "I know, and that’s why I’ll keep pressing them on immediate safety as well.",
+      "tags": [
+        "acknowledgement",
+        "advocacy",
+        "safeguarding"
+      ]
+    }
+  ],
+  "contradictions": [
+    {
+      "issue": "Advocate frames evidence as future accountability vs. victim highlights present safety risk",
+      "type": "safeguarding_failure"
+    }
+  ],
+  "timeline_hooks": [
+    {
+      "ref": "evidence builds record but not safety",
+      "link": "Evidence vs. safeguarding contradiction May 2025"
+    },
+    {
+      "ref": "risk now vs. later accountability",
+      "link": "Immediate safeguarding need"
+    }
+  ]
+}

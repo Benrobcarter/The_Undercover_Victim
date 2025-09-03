@@ -1,0 +1,282 @@
+{
+  "meta": {
+    "evidence_id": "VEX_WhatsApp_PC_Dixon_2024-03_to_2025-06_partial",
+    "title": "WhatsApp/SMS — PC Dixon ↔ Ben Carter (Mar 2024–Jun 2025, partial from paste)",
+    "created_at": "2025-08-30T22:38:47",
+    "type": "Messaging (WhatsApp/SMS) — partial export via screenshots/transcripts",
+    "parties": [
+      "Ben Carter",
+      "PC Jon Dixon (Sussex Police, EA817)"
+    ],
+    "status": "partial_extract_from_user_paste",
+    "undated_policy": "flag_unknown",
+    "version": "1.0.0"
+  },
+  "timeline_span_hint": {
+    "start_local": "2024-03-05",
+    "end_local": "2025-06-27"
+  },
+  "entries": [
+    {
+      "id": "VEX_WhatsApp_PC_Dixon_2024-03_to_2025-06_partial_18b54792",
+      "date": "2024-03-05",
+      "time": "21:16",
+      "speaker": "PC Dixon",
+      "quote": "Initial SMS: statement follow‑up, Instagram reference, GP letter requested to evidence anxiety.",
+      "tags": [
+        "INITIAL_CONTACT",
+        "GP_LETTER_REQUEST",
+        "EVIDENCE_DISCUSSION"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "VEX_WhatsApp_PC_Dixon_2024-03_to_2025-06_partial_9bfe8053",
+      "date": "2024-03-08",
+      "time": "14:38",
+      "speaker": "System",
+      "quote": "Voice call — 5 min",
+      "tags": [
+        "CALL_DURATION"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "VEX_WhatsApp_PC_Dixon_2024-03_to_2025-06_partial_c8b80fdf",
+      "date": "2024-03-08",
+      "time": null,
+      "speaker": "System",
+      "quote": "Voice call — No answer",
+      "tags": [
+        "CALL_MISSED"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "VEX_WhatsApp_PC_Dixon_2024-03_to_2025-06_partial_58269f1a",
+      "date": "2024-03-18",
+      "time": "09:52",
+      "speaker": "System",
+      "quote": "Silenced voice call (Focus mode)",
+      "tags": [
+        "CALL_SILENCED"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "VEX_WhatsApp_PC_Dixon_2024-03_to_2025-06_partial_884615a4",
+      "date": "2024-03-18",
+      "time": "10:47",
+      "speaker": "System",
+      "quote": "Voice call — 1 min",
+      "tags": [
+        "CALL_DURATION"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "VEX_WhatsApp_PC_Dixon_2024-03_to_2025-06_partial_9f9ccaae",
+      "date": "2025-04-22",
+      "time": "07:56",
+      "speaker": "Ben",
+      "quote": "No phone calls; you were happy to move my case to July on holiday. Weren’t safeguarding me. 17 days no contact. 'Doesn’t cooperate with NICE links'.",
+      "tags": [
+        "NO_CONTACT_WINDOW",
+        "SAFEGUARDING_FAILURE",
+        "NICE_LINK_DEPENDENCY"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "VEX_WhatsApp_PC_Dixon_2024-03_to_2025-06_partial_6c54170b",
+      "date": "2025-04-22",
+      "time": "07:58",
+      "speaker": "PC Dixon",
+      "quote": "Case file being built; need GP letter + contact evidence; sent NICE links; GP to provide letter.",
+      "tags": [
+        "CASE_BUILDING",
+        "NICE_LINKS",
+        "GP_LETTER_REQUEST"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "VEX_WhatsApp_PC_Dixon_2024-03_to_2025-06_partial_51376cde",
+      "date": "2025-04-22",
+      "time": "07:59",
+      "speaker": "Ben",
+      "quote": "You said it was always from November, yet you still ask for a July call; now it’s from July.",
+      "tags": [
+        "CASE_START_DATE_CONTRADICTION",
+        "JULY_CALL_REF"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "VEX_WhatsApp_PC_Dixon_2024-03_to_2025-06_partial_9e9982de",
+      "date": "2025-04-22",
+      "time": "08:00",
+      "speaker": "PC Dixon",
+      "quote": "If you have the July call, it would help the case.",
+      "tags": [
+        "REQUEST_JULY_CALL"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "VEX_WhatsApp_PC_Dixon_2024-03_to_2025-06_partial_24fd20e1",
+      "date": "2025-04-22",
+      "time": "08:04",
+      "speaker": "Ben",
+      "quote": "You told me my suicide was my fault; when did you tell me that, and why?",
+      "tags": [
+        "SUICIDE_HANDLING_DISPUTE"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "VEX_WhatsApp_PC_Dixon_2024-03_to_2025-06_partial_f7c77e3c",
+      "date": "2025-04-22",
+      "time": "08:06",
+      "speaker": "PC Dixon",
+      "quote": "Will continue to finalise case until reassigned; prefer phone conversation.",
+      "tags": [
+        "OIC_CONTINUITY",
+        "PREFER_CALLS_OVER_TEXT"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "VEX_WhatsApp_PC_Dixon_2024-03_to_2025-06_partial_d0060895",
+      "date": "2025-04-22",
+      "time": "08:10",
+      "speaker": "PC Dixon",
+      "quote": "Instagram will not help your mental health; could evidence stalking by you.",
+      "tags": [
+        "INSTAGRAM_WARNING",
+        "BLAME_SHIFT_RISK"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "VEX_WhatsApp_PC_Dixon_2024-03_to_2025-06_partial_7d2e3e8f",
+      "date": "2025-04-22",
+      "time": "08:12",
+      "speaker": "Ben",
+      "quote": "The pattern now is no reply.",
+      "tags": [
+        "SILENCE_PATTERN"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "VEX_WhatsApp_PC_Dixon_2024-03_to_2025-06_partial_b82d7956",
+      "date": "2025-04-22",
+      "time": "08:19",
+      "speaker": "PC Dixon",
+      "quote": "Provide GP letter to evidence S4A offence; more links sent.",
+      "tags": [
+        "SECTION_4A_REF",
+        "GP_LETTER_REQUEST"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "VEX_WhatsApp_PC_Dixon_2024-03_to_2025-06_partial_082825a6",
+      "date": "2025-04-22",
+      "time": "08:25",
+      "speaker": "PC Dixon",
+      "quote": "Without evidence you provide, case file cannot be finished.",
+      "tags": [
+        "EVIDENCE_CONDITIONING",
+        "CASEFILE_COMPLETION"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "VEX_WhatsApp_PC_Dixon_2024-03_to_2025-06_partial_493430e5",
+      "date": "2025-04-22",
+      "time": "08:25",
+      "speaker": "Ben",
+      "quote": "Have I been safeguarded? This is not the law. I allege corruption; you are my suspect.",
+      "tags": [
+        "SAFEGUARDING_CHALLENGE",
+        "CORRUPTION_ALLEGATION"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "VEX_WhatsApp_PC_Dixon_2024-03_to_2025-06_partial_f33fa76e",
+      "date": "2025-04-22",
+      "time": "08:28",
+      "speaker": "PC Dixon",
+      "quote": "Has 41 cases; prefers calls; texting not fluid.",
+      "tags": [
+        "CASELOAD_EXCUSE",
+        "PREFER_CALLS_OVER_TEXT"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "VEX_WhatsApp_PC_Dixon_2024-03_to_2025-06_partial_f2248d09",
+      "date": "2025-05-27",
+      "time": "18:19",
+      "speaker": "Unknown Police Voicemail",
+      "quote": "…you mentioned you were suicidal… the officer will contact you…",
+      "tags": [
+        "SUICIDE_ACKNOWLEDGED",
+        "NO_SAFEGUARDING_ACTION"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "VEX_WhatsApp_PC_Dixon_2024-03_to_2025-06_partial_edb61ec7",
+      "date": "2025-06-23",
+      "time": "19:05",
+      "speaker": "Ben",
+      "quote": "Shared drive link: 'Alanna 22‑05‑25 00‑35 accuses me of raping her – VEED (1).mp4'; asks for confirmation it’s been logged.",
+      "tags": [
+        "EVIDENCE_LINK",
+        "SERIOUS_ALLEGATION_REF",
+        "LOGGING_REQUEST"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "VEX_WhatsApp_PC_Dixon_2024-03_to_2025-06_partial_c3bf4da2",
+      "date": "2025-06-27",
+      "time": null,
+      "speaker": "PC Dixon",
+      "quote": "No longer dealing with case; filed and NFA’d; further contact may be considered harassment.",
+      "tags": [
+        "NFA_NOTICE",
+        "HARASSMENT_WARNING"
+      ],
+      "notes": ""
+    }
+  ],
+  "contradiction_links": [
+    {
+      "code": "JULY_CALL_REQUEST_VS_CASE_START_NOVEMBER",
+      "description": "Dixon asks for July call while claiming case starts in November."
+    },
+    {
+      "code": "SUICIDE_NOT_LOGGED_VS_VICTIMS_CODE",
+      "description": "User says suicide not logged; police demand GP letter instead of safeguarding."
+    },
+    {
+      "code": "WHATSAPP_BLOCK_THEN_NFA",
+      "description": "Officer blocks/mutes; later replies with NFA and harassment warning."
+    },
+    {
+      "code": "NICE_LINK_DEPENDENCY",
+      "description": "Officer conditions progress on 'NICE links' and GP letter."
+    }
+  ],
+  "legal_mapping": [
+    "Victims’ Code (updates, safeguarding, communication)",
+    "UK GDPR Art. 15 (access to personal data incl. WhatsApp metadata)",
+    "ECHR Art. 2 operational duty (suicide risk context)",
+    "CPS Code for Crown Prosecutors (disclosure & evidence handling)"
+  ]
+}

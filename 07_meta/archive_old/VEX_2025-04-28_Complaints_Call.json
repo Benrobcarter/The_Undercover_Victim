@@ -1,0 +1,1089 @@
+{
+  "meta": {
+    "evidence_id": "VEX_2025-04-28_Complaints_Call",
+    "created_utc": "2025-08-30T02:01:35Z",
+    "date_local": "2025-04-28",
+    "time_local": null,
+    "date_status": "assumed_needs_confirmation",
+    "parties": [
+      "Ben Carter",
+      "Complaints @ Sussex Police"
+    ],
+    "clusters": [
+      "CRIME_REF_47240214305_THREAD",
+      "DEATH_BY_SILENCE",
+      "CROWBARRING_MYSELF_JUSTICE"
+    ],
+    "status": "verbatim_ingested",
+    "files": [
+      "2025-04_Complaints_Call_Transcript.txt",
+      "2025-04_Complaints_Call_Audio.mp3"
+    ],
+    "project_paths": {
+      "evidence_dst": "01_evidence/vex/2025/04/",
+      "contradictions_dst": "02_contradictions/",
+      "timelines_dst": "03_analysis/timelines/"
+    }
+  },
+  "claim_summary": "Complaints department confirms suicide was logged 11 days late (17 Apr vs attempt on 6 Apr), directs to SAR for records, and treats July as live reference after confusion — reinforcing 'holiday alibi' narrative and safeguarding failure.",
+  "key_points": [
+    "Confirms 06-04-2025 attempt; logged 17-04-2025.",
+    "Directed to SAR for access amid safeguarding concerns.",
+    "States July (472401246) is the 'live' reference; November (47240214305) remains separate.",
+    "Acknowledges meeting planned with Veritas and police supervisors; victim requests new investigator and supervisory review."
+  ],
+  "contradictions": [
+    {
+      "code": "SUICIDE_LOG_DELAY",
+      "title": "Suicide attempt 06-04-2025 logged on 17-04-2025",
+      "claim": "Confirms safeguarding-critical event was not recorded for 11 days while OIC/supervisors on leave.",
+      "impact": [
+        "Safeguarding failure",
+        "Victims’ Code breach",
+        "Operational duty risk"
+      ],
+      "priority": "high"
+    },
+    {
+      "code": "JULY_VS_NOVEMBER_STATUS",
+      "title": "Live case status toggled between July and November",
+      "claim": "Handler confirms July is live after prior messaging said November; indicates timeline manipulation risk.",
+      "impact": [
+        "Record integrity",
+        "Continuity confusion"
+      ],
+      "priority": "medium"
+    },
+    {
+      "code": "SAR_AS_ACCESS_BARRIER",
+      "title": "Directed to SAR for access during live safeguarding issues",
+      "claim": "Complaints handler points to SAR route instead of providing safeguarding-relevant updates.",
+      "impact": [
+        "Delay to information",
+        "Burden shifted to victim"
+      ],
+      "priority": "medium"
+    },
+    {
+      "code": "HOLIDAY_ALIBI_CONTINUATION",
+      "title": "Repeated reliance on 'on holiday' to explain safeguarding gaps",
+      "claim": "Complaints call leans on leave status to justify delays.",
+      "impact": [
+        "Continuity gap",
+        "Undermined trust"
+      ],
+      "priority": "low"
+    }
+  ],
+  "timeline_hooks": [
+    {
+      "when": null,
+      "tag": "COMPLAINTS_DEPT_CALL",
+      "note": "Complaints call with discussion of delayed suicide logging and crime reference status."
+    }
+  ],
+  "cue_alignment": {
+    "status": "complete_from_user_text"
+  },
+  "cues": [
+    {
+      "index": 1,
+      "start": null,
+      "end": null,
+      "speaker": "complaints @sussex police",
+      "quote": "From the public conference. Team up at suspense, yeah, okay, I've just got the complaint you've submitted. You split it on the 22nd Yeah.",
+      "tags": [],
+      "contradictions": []
+    },
+    {
+      "index": 2,
+      "start": null,
+      "end": null,
+      "speaker": "Ben Carter",
+      "quote": "Which complaint was it?",
+      "tags": [],
+      "contradictions": []
+    },
+    {
+      "index": 3,
+      "start": null,
+      "end": null,
+      "speaker": "complaints @sussex police",
+      "quote": "He was asking for a crime reference number.",
+      "tags": [],
+      "contradictions": []
+    },
+    {
+      "index": 4,
+      "start": null,
+      "end": null,
+      "speaker": "Ben Carter",
+      "quote": "Yeah, yeah, I was left.\n\nSo I told my investigator I committed suicide,\n\nand he told me, Ben on holiday, and I wasn't safeguard if let's 17 days. So I made them aware that I did like. I did not want this man like due to other failings as well. I did not want John Dixon dealing with my crime. And every time I called up 101 at some points there wasn't a crime reference, and then there was a new one, and then the dates have been changed. And like, I just want a new crime. I want someone new to deal with my crime,",
+      "tags": [],
+      "contradictions": []
+    },
+    {
+      "index": 5,
+      "start": null,
+      "end": null,
+      "speaker": "complaints @sussex police",
+      "quote": "right? Let me just see if I can find is your day of birth? 15 to 457? Yeah. Okay. I'm just trying to find it now, and",
+      "tags": [],
+      "contradictions": []
+    },
+    {
+      "index": 6,
+      "start": null,
+      "end": null,
+      "speaker": "Ben Carter",
+      "quote": "I know so Veritas have told me they're meeting on Wednesday. So again, I can't hear very well, sorry. Veritas have told me they're all meeting at two o'clock on Wednesday. So I'm, yeah, I'm kind of waiting on that is, like, all the investigators about this. So to be honest, like, yeah, the time I probably well at the time I called, no one was telling me anything. So John Dixon, Sergeant Duffy and",
+      "tags": [],
+      "contradictions": []
+    },
+    {
+      "index": 7,
+      "start": null,
+      "end": null,
+      "speaker": "complaints @sussex police",
+      "quote": "sorry, Ben, to interrupt what's, what's the incident relating to, when was",
+      "tags": [],
+      "contradictions": []
+    },
+    {
+      "index": 8,
+      "start": null,
+      "end": null,
+      "speaker": "Ben Carter",
+      "quote": "it? Well, it's so technically, it started in well, not It started in July last year. It wasn't investigated properly, so, and then it all kicked off again in November and so. So what are you a victim or a suspect? I'm a victim to what offense was it? Well, they are going for section four for a harassment. But I'm not happy with that at all, because it and it has been falsified by Sussex police that on bail she made a false rape statement to the police. Like, why is perverting the course of justice not involved in this case? You know, so something's going on, and basically they're meeting on Wednesday to discuss it. But who told you they're meeting Veritas? Veritas, they support stalking victims? Oh, okay, I'm just scrolling through. There's quite a few on here, isn't it? Yeah, basically me desperately. At one point, I'm suicidal again, and I'm getting shouted at, and there's no one I can speak to because my officers my office, is entitled to a holiday. I'm entitled to my life. Yeah,",
+      "tags": [],
+      "contradictions": []
+    },
+    {
+      "index": 9,
+      "start": null,
+      "end": null,
+      "speaker": "complaints @sussex police",
+      "quote": "okay, just, I'm just looking through Now Ben, just hang on a sec, because I said there's quite a",
+      "tags": [],
+      "contradictions": []
+    },
+    {
+      "index": 10,
+      "start": null,
+      "end": null,
+      "speaker": "Ben Carter",
+      "quote": "lot on there. I don't think he's entitled to a holiday if he doesn't love my suicide and goes away like he shouldn't have that job. When did you",
+      "tags": [],
+      "contradictions": []
+    },
+    {
+      "index": 11,
+      "start": null,
+      "end": null,
+      "speaker": "complaints @sussex police",
+      "quote": "first originally report it? Last year? Did you say",
+      "tags": [],
+      "contradictions": []
+    },
+    {
+      "index": 12,
+      "start": null,
+      "end": null,
+      "speaker": "Ben Carter",
+      "quote": "yeah, July, July. Last\n\nyear. PC, Gore. Can you",
+      "tags": [],
+      "contradictions": []
+    },
+    {
+      "index": 13,
+      "start": null,
+      "end": null,
+      "speaker": "complaints @sussex police",
+      "quote": "see who sorry. PC, Gore. He's of he sent a weird, nice, nice link. It wasn't like the usual ones. It was. It says he's Sussex police, Surrey and another one. I'm not sure if that's standards, but yeah, we're part of Sussex and Surrey now, yeah, but there was another Hertfordshire as well. Is that?",
+      "tags": [],
+      "contradictions": []
+    },
+    {
+      "index": 14,
+      "start": null,
+      "end": null,
+      "speaker": "complaints @sussex police",
+      "quote": "Oh, yeah, it does come up on that, I think because we share the same platform.",
+      "tags": [],
+      "contradictions": []
+    },
+    {
+      "index": 15,
+      "start": null,
+      "end": null,
+      "speaker": "Ben Carter",
+      "quote": "Okay? I just thought that was a bit like, have no fun tonight. Let me just have a look. I. Yeah. So I've been told since, since I told PC Dixon, this case is no longer yours, and never was my case. I don't want you to touch it. It's now that case is like, I don't want anything to do with it, because all it is is covering up the fact it wasn't investigated in July. So if you touch that, that is now my evidence. And I know the last thing he said to me, it has always been from November, and I know since I've said that to him, it's now from July there, it might have been moved again, I don't know. But, like, this is all I know from Sussex police. And 101, calls where they like so",
+      "tags": [],
+      "contradictions": []
+    },
+    {
+      "index": 16,
+      "start": null,
+      "end": null,
+      "speaker": "complaints @sussex police",
+      "quote": "you, I mean, obviously this is still ongoing. It's still a live investigation. So what? So you don't, you don't want him to investigate it because he's not investigated correctly, is what you're",
+      "tags": [],
+      "contradictions": []
+    },
+    {
+      "index": 17,
+      "start": null,
+      "end": null,
+      "speaker": "Ben Carter",
+      "quote": "saying. Because he has been moving the goalpost to get me to submit evidence that he says he's lost and he's got in my case file, I'm willing, doesn't cooperate with evidence. He said, I've had to do all this through 101, calls. And he set up this environment where, if I send in the evidence now it looks like I never sent it in in July, meaning that the the fact it was investigate, it wasn't investigated in July, which I have absolute proof of. And he says he's searching for a loss call when there were five. How does he know which call is lost? Is this relation",
+      "tags": [],
+      "contradictions": []
+    },
+    {
+      "index": 18,
+      "start": null,
+      "end": null,
+      "speaker": "complaints @sussex police",
+      "quote": "to your Alana O'Hare, yeah, right. And you",
+      "tags": [],
+      "contradictions": []
+    },
+    {
+      "index": 19,
+      "start": null,
+      "end": null,
+      "speaker": "Speaker 1",
+      "quote": "reported on in July last year, 22nd",
+      "tags": [],
+      "contradictions": []
+    },
+    {
+      "index": 20,
+      "start": null,
+      "end": null,
+      "speaker": "Ben Carter",
+      "quote": "July. Yeah, yeah. Okay, yeah. And then again in November, that's when, like she was arrested a neighbor, I've been told by PC Dixon, for example, to provide medical medical records for four years, because the now the case is now based from when we met like he tells me anything I want, just like he made like he made me feel that my mental health was worse than it was that when I got that in like the thing that triggered me, that was the person that would commit suicide. I don't feel like that anymore. Like PC Dixon put me in that mindset by telling me, like, officially, by the police, I'm the victim. I'm not and,\n\nas you can tell, like all this is like ipoc, like, you know, like, I think that's what the Wednesday meeting is about. But I've stated that although, although I'm taking this to the ipoc like, and you haven't safeguarded me for so long, like, her bail ends on May, and she she was in Belfast. Now she's actually here. More things are happening. She's she's back to her one fret was a type a time based one, which is destroying the Brighton fringe. I run a lot of venues, so she's here to carry out her last fret. And I've got evidence of her starting that, and it's like, I'll just, I've got too much on at the moment, like once, I've got an investigator I can speak to that does, like, literally wants to silence me, like he was angry to hear my voice after suicide. Yeah. Oh yeah, I saw, saw your email about suicide this morning. Yeah,",
+      "tags": [],
+      "contradictions": []
+    },
+    {
+      "index": 21,
+      "start": null,
+      "end": null,
+      "speaker": "complaints @sussex police",
+      "quote": "I think it's difficult one, because obviously we are, we are still trying to investigate. I'm going to do is, I think I'll get the the officer supervisor, to ring you.",
+      "tags": [],
+      "contradictions": []
+    },
+    {
+      "index": 22,
+      "start": null,
+      "end": null,
+      "speaker": "Ben Carter",
+      "quote": "So, um, could I just get uh, so, yeah, something's happening on Wednesday. Like, I'm really busy at the moment. I've got a soccer I've got prepared for the fringe. My sort of timeline was, right, okay, the police are doing it on Wednesday. Like, I'll wait for safeguarding or whatever, till then. Could someone just keep me in the loop? Or could you demand, I think I'm within my rights, to post that meeting, be assigned a new event investigator.",
+      "tags": [],
+      "contradictions": []
+    },
+    {
+      "index": 23,
+      "start": null,
+      "end": null,
+      "speaker": "complaints @sussex police",
+      "quote": "It depends. Are you having a meeting with on Wednesday? Because obviously",
+      "tags": [],
+      "contradictions": []
+    },
+    {
+      "index": 24,
+      "start": null,
+      "end": null,
+      "speaker": "Ben Carter",
+      "quote": "it's not my meeting. It's such. Police's meeting. I It's only fair at US that have told me it's happening because they're attending the meeting. Yeah,",
+      "tags": [],
+      "contradictions": []
+    },
+    {
+      "index": 25,
+      "start": null,
+      "end": null,
+      "speaker": "complaints @sussex police",
+      "quote": "I think, I think we need, I think we need the officer supervisor to be aware of this complaint. He",
+      "tags": [],
+      "contradictions": []
+    },
+    {
+      "index": 26,
+      "start": null,
+      "end": null,
+      "speaker": "Ben Carter",
+      "quote": "is. I've I've told him, I've told him we had a conversation about it, and and I said, I",
+      "tags": [],
+      "contradictions": []
+    },
+    {
+      "index": 27,
+      "start": null,
+      "end": null,
+      "speaker": "complaints @sussex police",
+      "quote": "need to mock the complaint as something So are you saying that I've",
+      "tags": [],
+      "contradictions": []
+    },
+    {
+      "index": 28,
+      "start": null,
+      "end": null,
+      "speaker": "Ben Carter",
+      "quote": "contacted be investigated properly? Yeah, yeah, yeah. And also I've I called him out on it, like I gave him a bit of evidence about what what I think is true. And I said, textbook PC Dixon won't reply after I send this next bit. And I've got loads of me going, told you like there, and then adding loads, and I haven't had a response since, and he's meant to be my investigator. I was just calling out my investigator on police corruption, so I need an investigator.",
+      "tags": [],
+      "contradictions": []
+    },
+    {
+      "index": 29,
+      "start": null,
+      "end": null,
+      "speaker": "complaints @sussex police",
+      "quote": "What it needs, I think we need to get the supervisor on that team to review this job this instant. I",
+      "tags": [],
+      "contradictions": []
+    },
+    {
+      "index": 30,
+      "start": null,
+      "end": null,
+      "speaker": "Ben Carter",
+      "quote": "don't want him reviewing like I want someone to review what he's done. I don't want him tampering with it, because he has been, he himself has deleted files. He's been, I have, I have all evidence. I have all evidence that he has deleted files,",
+      "tags": [],
+      "contradictions": []
+    },
+    {
+      "index": 31,
+      "start": null,
+      "end": null,
+      "speaker": "complaints @sussex police",
+      "quote": "right? His supervisor needs to, oh, his",
+      "tags": [],
+      "contradictions": []
+    },
+    {
+      "index": 32,
+      "start": null,
+      "end": null,
+      "speaker": "Ben Carter",
+      "quote": "supervisor, yeah, yeah, yeah. What inspector PC Duffy? PS, Duffy, yeah, yeah, I prefer inspector Palmer. But yeah, yeah. I think",
+      "tags": [],
+      "contradictions": []
+    },
+    {
+      "index": 33,
+      "start": null,
+      "end": null,
+      "speaker": "complaints @sussex police",
+      "quote": "I think we need to get into ring you and go for it with you, because it sounds all a bit complicated. I think his supervisor, if you believe that PC Dixon had been doing something he shouldn't be done, then it's his supervisor needs to be aware, yeah,",
+      "tags": [],
+      "contradictions": []
+    },
+    {
+      "index": 34,
+      "start": null,
+      "end": null,
+      "speaker": "Ben Carter",
+      "quote": "but this is kind of what meets it this Wednesday, meetings about and also I know that the crime PC Dixon sends it up to his supervisor. He says, Yeah, that's okay, and sends it back. So to be honest, Sergeant Duffy, I don't want to give him any information, because he has basically verified that this is all okay. I know, like whatever PC Dixon sends him if it looks like the truth, like he's going to sign it off. But he is technically involved, and this is police corruption, so I won't be giving out any evidence to Sergeant",
+      "tags": [],
+      "contradictions": []
+    },
+    {
+      "index": 35,
+      "start": null,
+      "end": null,
+      "speaker": "complaints @sussex police",
+      "quote": "Duffy. Okay, so what do you want me to do at this stage? Then,",
+      "tags": [],
+      "contradictions": []
+    },
+    {
+      "index": 36,
+      "start": null,
+      "end": null,
+      "speaker": "Ben Carter",
+      "quote": "yeah, you've rung me and I was waiting on Wednesday.",
+      "tags": [],
+      "contradictions": []
+    },
+    {
+      "index": 37,
+      "start": null,
+      "end": null,
+      "speaker": "complaints @sussex police",
+      "quote": "Are you from 101? Or no, I'm not on the complaints team. I work at such that reason.",
+      "tags": [],
+      "contradictions": []
+    },
+    {
+      "index": 38,
+      "start": null,
+      "end": null,
+      "speaker": "Ben Carter",
+      "quote": "Okay, so could you just ensure that I am safeguarded her bail, because not, yeah, she, I'm still the victim in this crime. You've called me not knowing what the what the crime was about that. And",
+      "tags": [],
+      "contradictions": []
+    },
+    {
+      "index": 39,
+      "start": null,
+      "end": null,
+      "speaker": "complaints @sussex police",
+      "quote": "the reason I've called you is you've obviously called us and you said you want to, you want the crime reference number rating to",
+      "tags": [],
+      "contradictions": []
+    },
+    {
+      "index": 40,
+      "start": null,
+      "end": null,
+      "speaker": "Ben Carter",
+      "quote": "I, I've, I've spent 17 days making so many phone calls trying to get anything I don't, I don't know which phone because I",
+      "tags": [],
+      "contradictions": []
+    },
+    {
+      "index": 41,
+      "start": null,
+      "end": null,
+      "speaker": "complaints @sussex police",
+      "quote": "can, I can provide you with the crime numbers if you wish.",
+      "tags": [],
+      "contradictions": []
+    },
+    {
+      "index": 42,
+      "start": null,
+      "end": null,
+      "speaker": "Ben Carter",
+      "quote": "Yeah, please. It's, well, it's not, but, yeah, if you",
+      "tags": [],
+      "contradictions": []
+    },
+    {
+      "index": 43,
+      "start": null,
+      "end": null,
+      "speaker": "complaints @sussex police",
+      "quote": "could. And if you need access to the files, you can get that through the subject",
+      "tags": [],
+      "contradictions": []
+    },
+    {
+      "index": 44,
+      "start": null,
+      "end": null,
+      "speaker": "Ben Carter",
+      "quote": "access request. I've already requested that. That by law that has to come on March the eighth. Yeah, so maybe the",
+      "tags": [],
+      "contradictions": []
+    },
+    {
+      "index": 45,
+      "start": null,
+      "end": null,
+      "speaker": "complaints @sussex police",
+      "quote": "crime reference is, if you've got a pen there,",
+      "tags": [],
+      "contradictions": []
+    },
+    {
+      "index": 46,
+      "start": null,
+      "end": null,
+      "speaker": "Ben Carter",
+      "quote": "yeah, it's 4724,",
+      "tags": [],
+      "contradictions": []
+    },
+    {
+      "index": 47,
+      "start": null,
+      "end": null,
+      "speaker": "complaints @sussex police",
+      "quote": "yeah. Oh. One, four, yeah. 1246, that's the that's the reference number that was reported back in",
+      "tags": [],
+      "contradictions": []
+    },
+    {
+      "index": 48,
+      "start": null,
+      "end": null,
+      "speaker": "Ben Carter",
+      "quote": "July. Wasn't it July? And what's November's crime reference? Hang",
+      "tags": [],
+      "contradictions": []
+    },
+    {
+      "index": 49,
+      "start": null,
+      "end": null,
+      "speaker": "complaints @sussex police",
+      "quote": "on, 4724, 724, yeah, oh, two, one, yeah, 4305,",
+      "tags": [],
+      "contradictions": []
+    },
+    {
+      "index": 50,
+      "start": null,
+      "end": null,
+      "speaker": "Ben Carter",
+      "quote": "okay, and what's the current crime reference with them both combined? Say, again, sorry. Well, so the crime, so November's crime, which PC Dixon is well was dealing with, is now backdated to July. So what's the what's the crime? Reference that involves July and November as a full, as the full. Picture.",
+      "tags": [],
+      "contradictions": []
+    },
+    {
+      "index": 51,
+      "start": null,
+      "end": null,
+      "speaker": "complaints @sussex police",
+      "quote": "Well, they're using, it looks like they've got to climb the two separate incidents. But the main, the main reference for which is still ongoing, is, hang on.",
+      "tags": [],
+      "contradictions": []
+    },
+    {
+      "index": 52,
+      "start": null,
+      "end": null,
+      "speaker": "Ben Carter",
+      "quote": "I've been told it's July.",
+      "tags": [],
+      "contradictions": []
+    },
+    {
+      "index": 53,
+      "start": null,
+      "end": null,
+      "speaker": "complaints @sussex police",
+      "quote": "Yes, the 41 end in 246,",
+      "tags": [],
+      "contradictions": []
+    },
+    {
+      "index": 54,
+      "start": null,
+      "end": null,
+      "speaker": "Ben Carter",
+      "quote": "which one's that? The one",
+      "tags": [],
+      "contradictions": []
+    },
+    {
+      "index": 55,
+      "start": null,
+      "end": null,
+      "speaker": "complaints @sussex police",
+      "quote": "I've just given you that ends, 246,",
+      "tags": [],
+      "contradictions": []
+    },
+    {
+      "index": 56,
+      "start": null,
+      "end": null,
+      "speaker": "Ben Carter",
+      "quote": "yeah. But what date? What? What date was that I\n\nI just want to know which one is my crime number. Because,",
+      "tags": [],
+      "contradictions": []
+    },
+    {
+      "index": 57,
+      "start": null,
+      "end": null,
+      "speaker": "complaints @sussex police",
+      "quote": "yeah, that's the one that that's, that's the one that I think you reported back in July. I",
+      "tags": [],
+      "contradictions": []
+    },
+    {
+      "index": 58,
+      "start": null,
+      "end": null,
+      "speaker": "Ben Carter",
+      "quote": "was so, that's, so, that is now my crime crime number. Yeah, the one that",
+      "tags": [],
+      "contradictions": []
+    },
+    {
+      "index": 59,
+      "start": null,
+      "end": null,
+      "speaker": "complaints @sussex police",
+      "quote": "was recorded back in July is that that's the live",
+      "tags": [],
+      "contradictions": []
+    },
+    {
+      "index": 60,
+      "start": null,
+      "end": null,
+      "speaker": "Ben Carter",
+      "quote": "one that still That's excellent news, because that's,",
+      "tags": [],
+      "contradictions": []
+    },
+    {
+      "index": 61,
+      "start": null,
+      "end": null,
+      "speaker": "complaints @sussex police",
+      "quote": "well, yeah, stage Ben, you're going to wait on the result of this meeting, yeah, if things are not going your way, and then we're a little bit clearer as to what you want, then ring doing. Do another complaint, and we will.",
+      "tags": [],
+      "contradictions": []
+    },
+    {
+      "index": 62,
+      "start": null,
+      "end": null,
+      "speaker": "Ben Carter",
+      "quote": "I can't, I can't, like, I don't have a police officer to complain to. No, you did what",
+      "tags": [],
+      "contradictions": []
+    },
+    {
+      "index": 63,
+      "start": null,
+      "end": null,
+      "speaker": "complaints @sussex police",
+      "quote": "you just did here. You've obviously called in, haven't you, and asked him",
+      "tags": [],
+      "contradictions": []
+    },
+    {
+      "index": 64,
+      "start": null,
+      "end": null,
+      "speaker": "Ben Carter",
+      "quote": "every time I call 101, like they did that. I've been, I've got, let's say this calls been recorded. For example, I've got, I don't know how many, like, times of calling, 101, asking. I'm not, like, wasting police time, am I? And then then getting angry and angry, passing it on, passing it on. And then I was like, please, is there anyone there that can as she's now here? And then they get someone, and they're like, and they say that I'm threatening them. And I called them. It's like, I just asked for some like, I I'm not safeguarded. He didn't love my suicide. Did",
+      "tags": [],
+      "contradictions": []
+    },
+    {
+      "index": 65,
+      "start": null,
+      "end": null,
+      "speaker": "complaints @sussex police",
+      "quote": "you all feel? Feeling suicidal,",
+      "tags": [],
+      "contradictions": []
+    },
+    {
+      "index": 66,
+      "start": null,
+      "end": null,
+      "speaker": "Ben Carter",
+      "quote": "I'm not now, right,",
+      "tags": [],
+      "contradictions": []
+    },
+    {
+      "index": 67,
+      "start": null,
+      "end": null,
+      "speaker": "complaints @sussex police",
+      "quote": "but Ben, if you do, you know you need to speak to ambulance or hospital.",
+      "tags": [],
+      "contradictions": []
+    },
+    {
+      "index": 68,
+      "start": null,
+      "end": null,
+      "speaker": "Ben Carter",
+      "quote": "Yeah, yeah, but, but I wasn't. I found out from that call, from one of the calls, that he didn't log the suicide",
+      "tags": [],
+      "contradictions": []
+    },
+    {
+      "index": 69,
+      "start": null,
+      "end": null,
+      "speaker": "complaints @sussex police",
+      "quote": "he has logged it on this all on the nice report.",
+      "tags": [],
+      "contradictions": []
+    },
+    {
+      "index": 70,
+      "start": null,
+      "end": null,
+      "speaker": "Ben Carter",
+      "quote": "Yeah, I know he probably has now, but I have absolute confirmation that he never did. Is this PC Dixon? Are you saying he's logged it now? Everything is logged on. When was it logged Hang",
+      "tags": [],
+      "contradictions": []
+    },
+    {
+      "index": 71,
+      "start": null,
+      "end": null,
+      "speaker": "complaints @sussex police",
+      "quote": "on, 17th of 17th this month, the",
+      "tags": [],
+      "contradictions": []
+    },
+    {
+      "index": 72,
+      "start": null,
+      "end": null,
+      "speaker": "Ben Carter",
+      "quote": "suicide attempt was on the sixth of the what? Sorry on the sixth,",
+      "tags": [],
+      "contradictions": []
+    },
+    {
+      "index": 73,
+      "start": null,
+      "end": null,
+      "speaker": "complaints @sussex police",
+      "quote": "sixth of April.",
+      "tags": [],
+      "contradictions": []
+    },
+    {
+      "index": 74,
+      "start": null,
+      "end": null,
+      "speaker": "Ben Carter",
+      "quote": "Yeah, police corruption, mate. So",
+      "tags": [],
+      "contradictions": []
+    },
+    {
+      "index": 75,
+      "start": null,
+      "end": null,
+      "speaker": "complaints @sussex police",
+      "quote": "you called in police on the sixth of",
+      "tags": [],
+      "contradictions": []
+    },
+    {
+      "index": 76,
+      "start": null,
+      "end": null,
+      "speaker": "Ben Carter",
+      "quote": "April. On the seventh I emailed him on emailing",
+      "tags": [],
+      "contradictions": []
+    },
+    {
+      "index": 77,
+      "start": null,
+      "end": null,
+      "speaker": "complaints @sussex police",
+      "quote": "the officer saying you're suicidal when you need no",
+      "tags": [],
+      "contradictions": []
+    },
+    {
+      "index": 78,
+      "start": null,
+      "end": null,
+      "speaker": "Ben Carter",
+      "quote": "I'd committed suicide. I was in hospital. I survived. It wasn't a cry for help. I did it in a way where they couldn't pump my stomach. I tried to call him the next day, and the afternoon after that, and he was like, Yeah, I saw it this morning. I told you not to go into Instagram, where he told me to collect evidence from Instagram.",
+      "tags": [],
+      "contradictions": []
+    },
+    {
+      "index": 79,
+      "start": null,
+      "end": null,
+      "speaker": "complaints @sussex police",
+      "quote": "So you called in on the 11th. It says here, and someone has put on here that you mentioned that you attempted suicide on the Saturday.",
+      "tags": [],
+      "contradictions": []
+    },
+    {
+      "index": 80,
+      "start": null,
+      "end": null,
+      "speaker": "Ben Carter",
+      "quote": "Right, who mentioned that",
+      "tags": [],
+      "contradictions": []
+    },
+    {
+      "index": 81,
+      "start": null,
+      "end": null,
+      "speaker": "complaints @sussex police",
+      "quote": "this was a call taker? Call,",
+      "tags": [],
+      "contradictions": []
+    },
+    {
+      "index": 82,
+      "start": null,
+      "end": null,
+      "speaker": "Ben Carter",
+      "quote": "yeah, yeah, but PC Dixon never logged my suicide until he was forced to, but knowing, like he never intended to, he did it whilst on holiday. I've got my I've got I've got suicide. I've got the NHS things dated timestamps. I've got me emailing him like Ben,",
+      "tags": [],
+      "contradictions": []
+    },
+    {
+      "index": 83,
+      "start": null,
+      "end": null,
+      "speaker": "complaints @sussex police",
+      "quote": "although it wasn't locked it wasn't put on there the same day you, you unfortunately he went",
+      "tags": [],
+      "contradictions": []
+    },
+    {
+      "index": 84,
+      "start": null,
+      "end": null,
+      "speaker": "Ben Carter",
+      "quote": "on holiday after",
+      "tags": [],
+      "contradictions": []
+    },
+    {
+      "index": 85,
+      "start": null,
+      "end": null,
+      "speaker": "Speaker 2",
+      "quote": "and all his superiors, you can't stop officers going on holiday.",
+      "tags": [],
+      "contradictions": []
+    },
+    {
+      "index": 86,
+      "start": null,
+      "end": null,
+      "speaker": "Ben Carter",
+      "quote": "Oh, don't say that one again. I deserve to be fucked. Safeguarded.",
+      "tags": [],
+      "contradictions": []
+    },
+    {
+      "index": 87,
+      "start": null,
+      "end": null,
+      "speaker": "complaints @sussex police",
+      "quote": "You're being safe. No, I'm not. You've been asked to call the police if you get if you have any more issues",
+      "tags": [],
+      "contradictions": []
+    },
+    {
+      "index": 88,
+      "start": null,
+      "end": null,
+      "speaker": "Ben Carter",
+      "quote": "with her. Every time I call the police, I get fucking gaslighted and I get told that my suicides not logged. Are the police before they go on holiday, supposed to log that someone evict him like for safeguarding, has attempted to take his life. Is that a police procedure so",
+      "tags": [],
+      "contradictions": []
+    },
+    {
+      "index": 89,
+      "start": null,
+      "end": null,
+      "speaker": "complaints @sussex police",
+      "quote": "well? Yeah, if you've informed him before, while he was still on duty, I've",
+      "tags": [],
+      "contradictions": []
+    },
+    {
+      "index": 90,
+      "start": null,
+      "end": null,
+      "speaker": "Ben Carter",
+      "quote": "hassled him while serious on duty. I hassled him. I sent him emails. I kept calling. When I finally got through, he was angry,",
+      "tags": [],
+      "contradictions": []
+    },
+    {
+      "index": 91,
+      "start": null,
+      "end": null,
+      "speaker": "complaints @sussex police",
+      "quote": "right? And he has logged it on here that that situation was I the best course of is to go to a hospital, isn't it, if you feel suicide, oh, I logged on here, mate.",
+      "tags": [],
+      "contradictions": []
+    },
+    {
+      "index": 92,
+      "start": null,
+      "end": null,
+      "speaker": "Ben Carter",
+      "quote": "On April the sixth, I attempted to take my life that day in hospital, I emailed PC Dixon. A day later, I spoke to him, then he went on holiday, then he logged it, and then someone else logged it on the 17th my investigator,",
+      "tags": [],
+      "contradictions": []
+    },
+    {
+      "index": 93,
+      "start": null,
+      "end": null,
+      "speaker": "complaints @sussex police",
+      "quote": "right? But yeah, yeah, that's correct, yeah.",
+      "tags": [],
+      "contradictions": []
+    },
+    {
+      "index": 94,
+      "start": null,
+      "end": null,
+      "speaker": "Ben Carter",
+      "quote": "Is that police procedure to love",
+      "tags": [],
+      "contradictions": []
+    },
+    {
+      "index": 95,
+      "start": null,
+      "end": null,
+      "speaker": "complaints @sussex police",
+      "quote": "that he was suicidal? No to log",
+      "tags": [],
+      "contradictions": []
+    },
+    {
+      "index": 96,
+      "start": null,
+      "end": null,
+      "speaker": "Ben Carter",
+      "quote": "that I stopped saying suicidal. To log that I I have, like, an NHS, like released from hospital saying that I attempted suicide because of evidence that he was asking me to provide, which wasn't even needed. I what we",
+      "tags": [],
+      "contradictions": []
+    },
+    {
+      "index": 97,
+      "start": null,
+      "end": null,
+      "speaker": "complaints @sussex police",
+      "quote": "need to do here, Ben in circles here, I need to get, I need to get the supervisor to call, yeah, yeah. We'll do that then. And I'll get, I'll give them, I'll make sure they're aware of you.",
+      "tags": [],
+      "contradictions": []
+    },
+    {
+      "index": 98,
+      "start": null,
+      "end": null,
+      "speaker": "Ben Carter",
+      "quote": "It's literally, it's like, it's like a place catchphrase. He's entitled to a holiday, like it's, I'm not hearing that one again when, when him, his senior, and his senior goes away, and I'm not and not yet, like you can't claim I'm safeguarded when, like, a suicide, and not attempt like, like or not feeling suicidal, I went for it.",
+      "tags": [],
+      "contradictions": []
+    },
+    {
+      "index": 99,
+      "start": null,
+      "end": null,
+      "speaker": "complaints @sussex police",
+      "quote": "And what help you get in relation to that now, the fact that he did try and attempt suicide,",
+      "tags": [],
+      "contradictions": []
+    },
+    {
+      "index": 100,
+      "start": null,
+      "end": null,
+      "speaker": "Ben Carter",
+      "quote": "PC Dixon telling me the victim I wasn't he was telling me to provide",
+      "tags": [],
+      "contradictions": []
+    },
+    {
+      "index": 101,
+      "start": null,
+      "end": null,
+      "speaker": "complaints @sussex police",
+      "quote": "in what help you get in from outside agencies, not from",
+      "tags": [],
+      "contradictions": []
+    },
+    {
+      "index": 102,
+      "start": null,
+      "end": null,
+      "speaker": "Ben Carter",
+      "quote": "suspicion. 101 calls. I asked him, like, what? What is the last I've had to call 101 for the past, like, fucking two weeks, piecing together, like, asking little questions, until they realize, Oh, fuck. Now I can like, yeah, yeah. What",
+      "tags": [],
+      "contradictions": []
+    },
+    {
+      "index": 103,
+      "start": null,
+      "end": null,
+      "speaker": "complaints @sussex police",
+      "quote": "help you get in from NHS in relation to the suicidal issues, if you're getting any help from them?",
+      "tags": [],
+      "contradictions": []
+    },
+    {
+      "index": 104,
+      "start": null,
+      "end": null,
+      "speaker": "Ben Carter",
+      "quote": "Now, I feel struck. Now I'm not suicidal anymore.",
+      "tags": [],
+      "contradictions": []
+    },
+    {
+      "index": 105,
+      "start": null,
+      "end": null,
+      "speaker": "complaints @sussex police",
+      "quote": "Do they put your medication or",
+      "tags": [],
+      "contradictions": []
+    },
+    {
+      "index": 106,
+      "start": null,
+      "end": null,
+      "speaker": "Ben Carter",
+      "quote": "what? Mate once I found out this whole time, I wasn't the victim. I was like, like, PC Dixon doesn't know me, mate, I'm a very clever person. He put, he made me the victim he wanted so he could change your cogs behind the background. I am, I feel fucking alive, and I am making sure he is getting the full fucking like, like, I should I like, I should be dead. I have no i no reason. Like, so I'm spending the rest of my life fucking making sure he's held accountable. I wanted to take my life, and he wanted to as well, and was angry when he heard my voice,",
+      "tags": [],
+      "contradictions": []
+    },
+    {
+      "index": 107,
+      "start": null,
+      "end": null,
+      "speaker": "complaints @sussex police",
+      "quote": "right? I'm going to pass this on to his supervisor, because it's quite important that they, they're aware of all this, the delegations you're making. All right, yeah, and it will be logged, and I'll get him to call you, Sergeant Duffy, to call you. All right,",
+      "tags": [],
+      "contradictions": []
+    },
+    {
+      "index": 108,
+      "start": null,
+      "end": null,
+      "speaker": "Ben Carter",
+      "quote": "yeah, inspect department, please. Okay, you just said the seriousness I'd like inspects partner, all",
+      "tags": [],
+      "contradictions": []
+    },
+    {
+      "index": 109,
+      "start": null,
+      "end": null,
+      "speaker": "complaints @sussex police",
+      "quote": "right, just make sure that you, if you start feeling bad, you need to get the help you need, don't you? Make sure, if you started to feel lower again, that you get that",
+      "tags": [],
+      "contradictions": []
+    },
+    {
+      "index": 110,
+      "start": null,
+      "end": null,
+      "speaker": "Ben Carter",
+      "quote": "I feel, I feel like that 10 minutes when I broke up with Alana and I felt. Strong, and then the and then the stalking began. The only problem I've made is calling 999, and saying, Please, please.",
+      "tags": [],
+      "contradictions": []
+    },
+    {
+      "index": 111,
+      "start": null,
+      "end": null,
+      "speaker": "complaints @sussex police",
+      "quote": "Okay, mate, all right, I'll speak. This wasn't nothing. Now. Okay, right. Bye.",
+      "tags": [],
+      "contradictions": []
+    }
+  ]
+}

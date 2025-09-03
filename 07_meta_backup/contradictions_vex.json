@@ -1,0 +1,596 @@
+{
+  "items": [
+    {
+      "meta": {
+        "path": "/mnt/data/PROJECT_FILE_SYNCED_2025-08-26_v5/02_contradictions/vex/MASTER_COMPLAINT_VEX_2025-08-25.json",
+        "name": "MASTER_COMPLAINT_VEX_2025-08-25.json",
+        "size": 9900,
+        "sha256": "93df70c05ddabd44486a5ac4ccc4110ff975962b5fd2ff3991c0faac42d3df37",
+        "suffix": ".json"
+      },
+      "type": "json",
+      "content": {
+        "meta": {
+          "vex_id": "MASTER_COMPLAINT_VEX",
+          "title": "Master Complaint — Sussex Police & Brighton Fringe",
+          "created_at": "2025-08-25T23:55:51.694727Z",
+          "version": "1.0.0",
+          "source_file": "/mnt/data/Master Complaint.txt",
+          "source_sha256": "a15de9db5f7a952b5c61619788299664cfe7f705681c43c07e7823aadb7420d2",
+          "full_vex": true,
+          "clusters": [
+            "MASTER_COMPLAINT",
+            "SUSSEX_POLICE",
+            "BRIGHTON_FRINGE",
+            "VERITAS_SUPPORT",
+            "VRR_NFA",
+            "DEATH_BY_SILENCE",
+            "TIMELINE_SYNTHESIS"
+          ],
+          "legal_mapping": [
+            "Victims’ Code of Practice (notably Rights 2, 4, 6)",
+            "Data Protection Act 2018 / UK GDPR (Art. 15 access; accuracy; lawfulness)",
+            "Human Rights Act 1998 — ECHR Art. 2 (operational safeguarding duties)",
+            "Protection from Harassment Act 1997 s.4A (stalking causing serious alarm/distress)",
+            "Common law: Misconduct in Public Office; Perverting the Course of Justice (alleged)"
+          ],
+          "case_refs": [
+            "47240141246",
+            "47240214305",
+            "CIT1201684"
+          ],
+          "time_span_utc": {
+            "start": "2024-07-24",
+            "end": "2025-07-11"
+          }
+        },
+        "entries": [
+          {
+            "id": "MC-L0001",
+            "date": "2024-07-24",
+            "party": "Sussex Police",
+            "claim": "Initial stalking report with threatening audio submitted; dismissed by PC Gore.",
+            "anchors": [
+              "Victims’ Code Right 2",
+              "Victims’ Code Right 6"
+            ],
+            "source_hint": "Master Complaint — Timeline 1.1"
+          },
+          {
+            "id": "MC-L0002",
+            "date": "2024-11-07",
+            "party": "Sussex Police (PC Jon Dixon)",
+            "claim": "Logged as having listened to and deleted key audio evidence.",
+            "alleged_breach": [
+              "Evidence handling integrity",
+              "Misconduct in public office (alleged)"
+            ],
+            "source_hint": "Master Complaint — Timeline 1.1"
+          },
+          {
+            "id": "MC-L0003",
+            "date": "2025-02-12",
+            "party": "Sussex Police (PC Jon Dixon)",
+            "claim": "Forwarded unredacted internal email including third‑party personal data (Paul Double).",
+            "alleged_breach": [
+              "DPA 2018 / UK GDPR (lawfulness, data minimisation)"
+            ],
+            "source_hint": "Master Complaint §3.8"
+          },
+          {
+            "id": "MC-L0004",
+            "date": "2025-03-01",
+            "approximate": true,
+            "party": "Sussex Police (PC Jon Dixon)",
+            "claim": "Home visit to take statement with Body‑Worn Video not activated.",
+            "source_hint": "Master Complaint — Timeline 1.2"
+          },
+          {
+            "id": "MC-L0005",
+            "date": "2025-04-06",
+            "party": "Sussex Police",
+            "claim": "Suicide attempt disclosed from hospital but not logged on system.",
+            "rights_engaged": [
+              "ECHR Art. 2"
+            ],
+            "source_hint": "Master Complaint — Table 1; Timeline 1.4"
+          },
+          {
+            "id": "MC-L0006",
+            "date_range": {
+              "start": "2025-04-06",
+              "end": "2025-04-23"
+            },
+            "party": "Sussex Police (Dixon/Duffy/Palmer)",
+            "claim": "Entire operational chain on leave for ~17 days; no handover provided.",
+            "source_hint": "Master Complaint — Table 1; §3.3 leadership vacuum"
+          },
+          {
+            "id": "MC-L0007",
+            "date": "2025-04-11",
+            "party": "Sussex Police",
+            "claim": "Three 101 calls pleading to log risk; no welfare check provided.",
+            "source_hint": "Master Complaint §3.9"
+          },
+          {
+            "id": "MC-L0008",
+            "date": "2025-04-22",
+            "party": "Sussex Police (101 handler 'Jamie 44006')",
+            "claim": "Refused case information citing GDPR; described rights assertion as 'silly/demanding'.",
+            "alleged_breach": [
+              "UK GDPR Art. 15 Right of Access obstruction (contextual)"
+            ],
+            "source_hint": "Master Complaint §3.11"
+          },
+          {
+            "id": "MC-L0009",
+            "date": "2025-04-27",
+            "party": "Sussex Police (PC Jon Dixon)",
+            "claim": "Emailed suspect that case is NFA two days before multi‑agency meeting.",
+            "impact": [
+              "Undermined safeguarding meeting and public‑protection coordination"
+            ],
+            "source_hint": "Master Complaint — Timeline 1.3; §3.6"
+          },
+          {
+            "id": "MC-L0010",
+            "date": "2025-04-29",
+            "party": "Veritas Justice",
+            "claim": "‘Phantom MARAC’: allowed MARAC assumption to persist; meeting not formal MARAC.",
+            "source_hint": "Master Complaint §3.6"
+          },
+          {
+            "id": "MC-L0011",
+            "date": "2025-05-12",
+            "party": "Brighton Fringe",
+            "claim": "Notified of high‑risk status; no protective action recorded.",
+            "source_hint": "Master Complaint — Timeline 2.1"
+          },
+          {
+            "id": "MC-L0012",
+            "date": "2025-05-24",
+            "approximate": true,
+            "party": "Brighton Fringe (Chair Duncan Lustig‑Prean)",
+            "claim": "Retaliatory posture incl. defamation accusations; GP contact without consent; brand erasure.",
+            "source_hint": "Master Complaint — Timeline 2.2–2.4"
+          },
+          {
+            "id": "MC-L0013",
+            "date": "2025-05-15",
+            "approximate": true,
+            "party": "Sussex Police",
+            "claim": "‘PC Russell’ decoy letter: new OIC 47250093423 named; no actual contact followed.",
+            "source_hint": "Master Complaint §3.4"
+          },
+          {
+            "id": "MC-L0014",
+            "date": "2025-06-22",
+            "party": "Sussex Police",
+            "claim": "999 appointment booked then 02:48 email cancels as 'incorrectly booked'; subsequent silencing on 101.",
+            "source_hint": "Master Complaint §3.5"
+          },
+          {
+            "id": "MC-L0015",
+            "date": "2025-06-25",
+            "party": "Sussex Police (SAR Team)",
+            "claim": "SAR refusal persisted despite indication the case was closed.",
+            "source_hint": "Master Complaint — Timeline 1.4"
+          },
+          {
+            "id": "MC-L0016",
+            "date": "2025-06-24",
+            "party": "Brighton Fringe",
+            "claim": "‘Termination Threat’ email alleges serious offences yet states: 'We do not intend to involve the police.'",
+            "alleged_breach": [
+              "Charity Commission serious‑incident expectations; governance duties"
+            ],
+            "source_hint": "Master Complaint §3.7"
+          },
+          {
+            "id": "MC-L0017",
+            "date": "2025-07-06",
+            "party": "Sussex Police (PC Aaron Gasson)",
+            "claim": "Text acknowledges prolonged failure to provide updates; confirms officer swap‑out.",
+            "source_hint": "Master Complaint §3.28"
+          }
+        ],
+        "xrefs": [
+          {
+            "topic": "Timeline manipulation (July vs Nov) & July call linkage",
+            "supporting_files": [
+              "/mnt/data/VEX_2025-03_to_04_PC_Dixon_WhatsApp_A09.json"
+            ],
+            "note": "WhatsApp A09 contains explicit July‑call references useful for continuity."
+          },
+          {
+            "topic": "Bail status anxiety & Veritas liaison",
+            "supporting_files": [
+              "/mnt/data/VEX_2025-03_to_05_Veritas_EmmaJones_WhatsApp_A10.json"
+            ],
+            "note": "Anchors multiple requests for bail confirmation and liaison context."
+          },
+          {
+            "topic": "December Email (701211) context & solicitor admin",
+            "supporting_files": [
+              "/mnt/data/ANALYSIS_3.43_DECEMBER_EMAIL_2024-12-10.json",
+              "/mnt/data/10_12_24 15-19_701211 - Re converstion.pdf"
+            ],
+            "note": "Write‑up + contemporaneous thread provide case‑number confusion context."
+          },
+          {
+            "topic": "101 Holiday Alibi sequence",
+            "supporting_files": [
+              "/mnt/data/VEX_2025-04-17_0432_101_Holiday_Alibi (2).json"
+            ],
+            "note": "Corroborates chain‑on‑leave narrative and absence of safeguarding follow‑through."
+          }
+        ],
+        "sourcing_queue": [
+          {
+            "prio": 1,
+            "need": "Submission proof for initial July report + threatening audio; Gore dismissal text/email",
+            "target": "emails/portal receipts/SMS export"
+          },
+          {
+            "prio": 2,
+            "need": "Record showing 7 Nov 2024 listen/delete log by Dixon",
+            "target": "email/log extract"
+          },
+          {
+            "prio": 3,
+            "need": "12 Feb 2025 forwarded email with third‑party data (Paul Double)",
+            "target": "email chain export (headers included)"
+          },
+          {
+            "prio": 4,
+            "need": "Hospital disclosure (6 Apr) + absence of NICHE/Storm entries",
+            "target": "call audios, CAD, incident logs"
+          },
+          {
+            "prio": 5,
+            "need": "OOO/roster artefacts proving 17‑day command gap",
+            "target": "OOO emails, duty rosters"
+          },
+          {
+            "prio": 6,
+            "need": "22 Apr 101 audio + handler ID 'Jamie 44006'",
+            "target": "call audio + dispatcher roster"
+          },
+          {
+            "prio": 7,
+            "need": "27 Apr NFA email to suspect (headers/body)",
+            "target": "outbound email export"
+          },
+          {
+            "prio": 8,
+            "need": "29 Apr meeting invite/minutes to confirm non‑MARAC",
+            "target": "calendar/invite + notes"
+          },
+          {
+            "prio": 9,
+            "need": "‘PC Russell’ letter naming 47250093423 + comms audit",
+            "target": "letter PDF + CRM log"
+          },
+          {
+            "prio": 10,
+            "need": "02:48 cancellation email + 999 booking ref + follow‑on 101 audios",
+            "target": "email export + call recordings"
+          },
+          {
+            "prio": 11,
+            "need": "SAR refusal + earlier closure notice to juxtapose",
+            "target": "email exports"
+          },
+          {
+            "prio": 12,
+            "need": "Brighton Fringe: 'we do not intend to involve the police' email + governance papers",
+            "target": "email + SORP/IE reports"
+          }
+        ],
+        "links": {
+          "analysis": [
+            "/mnt/data/ANALYSIS_3.43_DECEMBER_EMAIL_2024-12-10.json"
+          ],
+          "evidence": [
+            "/mnt/data/10_12_24 15-19_701211 - Re converstion.pdf",
+            "/mnt/data/VEX_2025-03_to_04_PC_Dixon_WhatsApp_A09.json",
+            "/mnt/data/VEX_2025-03_to_05_Veritas_EmmaJones_WhatsApp_A10.json",
+            "/mnt/data/VEX_2025-04-17_0432_101_Holiday_Alibi (2).json"
+          ]
+        },
+        "enforcement": {
+          "undated_policy": "flag",
+          "flagged": []
+        }
+      }
+    },
+    {
+      "meta": {
+        "path": "/mnt/data/PROJECT_FILE_SYNCED_2025-08-26_v5/02_contradictions/vex/VEX_2025-04-28_Sussex_Police_Complaints_Department_Call.json",
+        "name": "VEX_2025-04-28_Sussex_Police_Complaints_Department_Call.json",
+        "size": 9222,
+        "sha256": "fda0265c5681e7be434506c9d793e644937162999fbcedf7170a7c28d84e6af9",
+        "suffix": ".json"
+      },
+      "type": "json",
+      "content": {
+        "meta": {
+          "evidence_id": "VEX_2025-04-28_Sussex_Police_Complaints_Department_Call",
+          "title": "28-04-2025 — Call with Sussex Police Complaints Department",
+          "created_at": "2025-08-26T00:24:09.487562Z",
+          "source_file_name": "28_04_25_Sussex_Police_Complaints_Department.txt",
+          "source_path": "/mnt/data/28_04_25_Sussex_Police_Complaints_Department.txt",
+          "source_sha256": "5cee557e9ae161430493d9cce6b78ecf4f219fc5b7d146ded333fffb8c36eb66",
+          "type": "Phone call transcript (complaints)",
+          "date_local": "2025-04-28",
+          "time_local": null,
+          "parties": [
+            "Ben Carter",
+            "Sussex Police Complaints Department (call-taker)"
+          ],
+          "clusters": [
+            "MASTER_COMPLAINT",
+            "SUSSEX_POLICE",
+            "DEATH_BY_SILENCE",
+            "HOLIDAY_ALIBI",
+            "CRIME_REF_47240214305_THREAD",
+            "VRR_NFA",
+            "SUICIDE_LOGGING_DELAY"
+          ],
+          "legal_mapping": [
+            "Victims’ Code — Right to be kept informed; to make a complaint; to be treated with respect",
+            "DPA 2018 / UK GDPR — access to personal data (Art. 15); policing Part 3 integrity/accuracy",
+            "ECHR Article 2 operational duties — safeguarding where risk of self-harm is known",
+            "College of Policing — Managing victims of stalking/harassment; accurate recording and continuity"
+          ],
+          "undated_policy": "ok_date_present",
+          "version": "1.0.0"
+        },
+        "summary": "Complaints team discusses Ben’s dissatisfaction with OIC PC Dixon, confirms two crime references (July and November), and states the live reference is the July case (ending 246). The call also records that Ben’s suicide attempt on 6 April was only logged on the 17th, after the OIC went on leave, reinforcing the ‘holiday alibi’ gap and record-integrity issues. Call-taker suggests using SAR for file access and proposes supervisor follow-up.",
+        "police_position": {
+          "investigation_status": "Live case is July reference (47240141246) per call-taker",
+          "crime_refs": {
+            "july": "47240141246",
+            "november": "47240214305",
+            "live": "47240141246"
+          },
+          "oic": "PC Jon Dixon (per context)",
+          "supervisors": [
+            "Sgt Duffy",
+            "Insp Palmer"
+          ],
+          "actions_promised": [
+            "Supervisor to call back",
+            "Provide crime numbers"
+          ],
+          "access_guidance": "Advises Subject Access Request (SAR) for file access"
+        },
+        "identifiers": {
+          "explicit_crime_refs_in_call": [
+            "47240141246",
+            "47240214305"
+          ],
+          "meeting_flagged": {
+            "who": "Veritas + police",
+            "when": "Wednesday 30-04-2025 14:00 (as reported by caller)"
+          }
+        },
+        "contradictions": [
+          {
+            "code": "SUICIDE_LOG_DELAY",
+            "claim": "Suicide attempt on 06-04-2025 was not logged until 17-04-2025 while OIC and supervisors were on leave.",
+            "related_quotes_idx": [
+              16,
+              18
+            ],
+            "impact": [
+              "Safeguarding failure",
+              "Victims’ Code breach (updates/recording)",
+              "ECHR Art. 2 operational duty risk"
+            ]
+          },
+          {
+            "code": "JULY_VS_NOVEMBER_STATUS",
+            "claim": "Confusion over whether July or November is the live case; call confirms July is live while other messaging suggested otherwise.",
+            "related_quotes_idx": [
+              12,
+              13,
+              14
+            ],
+            "impact": [
+              "Record integrity issues",
+              "Continuity confusion",
+              "Undermines confidence in investigation status"
+            ]
+          },
+          {
+            "code": "SAR_AS_ACCESS_BARRIER",
+            "claim": "Complaints call directs victim to SAR to access files during live safeguarding concerns.",
+            "related_quotes_idx": [
+              11
+            ],
+            "impact": [
+              "Delay to information",
+              "Administrative burden shifted to victim"
+            ]
+          },
+          {
+            "code": "HOLIDAY_ALIBI_CONTINUATION",
+            "claim": "Persistent emphasis on OIC/supervisors being on leave amid critical safeguarding updates.",
+            "related_quotes_idx": [
+              2,
+              19
+            ],
+            "impact": [
+              "Continuity gap",
+              "Inability to obtain timely updates"
+            ]
+          },
+          {
+            "code": "DELETION_ALLEGATION",
+            "claim": "Caller alleges OIC deleted files and moved goalposts to make July evidence look newly submitted.",
+            "related_quotes_idx": [
+              7,
+              9,
+              10
+            ],
+            "impact": [
+              "Evidence-handling integrity concerns",
+              "Supports LOST_EVIDENCE_SUSSEX_POLICE thread"
+            ]
+          }
+        ],
+        "key_quotes": [
+          {
+            "idx": 1,
+            "time": "0:31",
+            "speaker": "Ben",
+            "text": "So I told my investigator I committed suicide,"
+          },
+          {
+            "idx": 2,
+            "time": "0:37",
+            "speaker": "Ben",
+            "text": "and he told me, Ben on holiday, and I wasn't safeguard if let's 17 days."
+          },
+          {
+            "idx": 3,
+            "time": "2:15",
+            "speaker": "Complaints",
+            "text": "…what's the incident relating to, when was it?"
+          },
+          {
+            "idx": 4,
+            "time": "2:15–2:59",
+            "speaker": "Ben",
+            "text": "…it started in July last year… then it all kicked off again in November… they are going for section four for a harassment… she made a false rape statement… why is perverting the course of justice not involved…"
+          },
+          {
+            "idx": 5,
+            "time": "3:49",
+            "speaker": "Ben",
+            "text": "I don't think he's entitled to a holiday if he doesn't love my suicide and goes away… he shouldn't have that job."
+          },
+          {
+            "idx": 6,
+            "time": "6:05–6:51",
+            "speaker": "Ben",
+            "text": "…he has been moving the goalpost… to get me to submit evidence that he says he's lost…"
+          },
+          {
+            "idx": 7,
+            "time": "11:14–12:02",
+            "speaker": "Ben/Complaints",
+            "text": "I don't want him reviewing… I want someone to review what he's done… he has deleted files… / …his supervisor needs to be aware…"
+          },
+          {
+            "idx": 8,
+            "time": "12:43–12:50",
+            "speaker": "Ben",
+            "text": "…I won't be giving out any evidence to Sergeant Duffy."
+          },
+          {
+            "idx": 9,
+            "time": "13:32–13:45",
+            "speaker": "Complaints",
+            "text": "…if you need access to the files, you can get that through the subject access request."
+          },
+          {
+            "idx": 10,
+            "time": "14:02–14:13",
+            "speaker": "Complaints/Ben",
+            "text": "…crime reference… 47240141246, that's the reference number that was reported back in July."
+          },
+          {
+            "idx": 11,
+            "time": "14:21–14:30",
+            "speaker": "Complaints",
+            "text": "…47240214305,"
+          },
+          {
+            "idx": 12,
+            "time": "15:20–16:04",
+            "speaker": "Complaints/Ben",
+            "text": "Yes, the 41 end in 246… the one that was recorded back in July is… the live one…"
+          },
+          {
+            "idx": 13,
+            "time": "17:22–17:30",
+            "speaker": "Complaints",
+            "text": "…if you do [feel suicidal], you know you need to speak to ambulance or hospital."
+          },
+          {
+            "idx": 14,
+            "time": "17:41–18:18",
+            "speaker": "Complaints/Ben",
+            "text": "…he has logged it on this all on the nic[e] report… 17th of this month… / the suicide attempt was on the sixth of April."
+          },
+          {
+            "idx": 15,
+            "time": "21:04–21:35",
+            "speaker": "Ben/Complaints",
+            "text": "On April the sixth, I attempted to take my life… then he went on holiday, then he logged it, and then someone else logged it on the 17th… / …yeah, that's correct, yeah."
+          },
+          {
+            "idx": 16,
+            "time": "22:16–22:48",
+            "speaker": "Complaints/Ben",
+            "text": "…I need to get the supervisor to call… / It's literally… he's entitled to a holiday… I'm not hearing that one again…"
+          }
+        ],
+        "timeline_hooks": [
+          {
+            "when": "2025-04-28",
+            "tag": "CALL_COMPLAINTS",
+            "note": "Call with Sussex Police Complaints; confirms live case is July reference; suicide log delay noted."
+          },
+          {
+            "when": "2025-04-06",
+            "tag": "SUICIDE_ATTEMPT",
+            "note": "Referenced in call as occurring on 06-04-2025."
+          },
+          {
+            "when": "2025-04-17",
+            "tag": "SUICIDE_LOGGED",
+            "note": "In-call confirmation that the suicide was logged on 17-04-2025."
+          },
+          {
+            "when": "2025-04-30T14:00:00",
+            "tag": "MEETING_FLAGGED",
+            "note": "Veritas + police meeting referenced as 'Wednesday at 2pm'."
+          }
+        ],
+        "links": {
+          "related_vex": [
+            "/mnt/data/VEX_2025-04-17_0432_101_Holiday_Alibi_REBUILT.json"
+          ],
+          "related_analysis": [
+            "/mnt/data/3.3_ The Leadership Vacuum & The Culture of Complicity.pdf"
+          ]
+        },
+        "sourcing_queue": [
+          {
+            "prio": 1,
+            "need": "Original call audio and metadata (call ID, handler ID, CAD)",
+            "target": "audio + CAD"
+          },
+          {
+            "prio": 2,
+            "need": "NICHE/Storm log showing suicide entry date 17-04-2025",
+            "target": "system extract"
+          },
+          {
+            "prio": 3,
+            "need": "Written confirmation (email/text) of 30-04-2025 meeting invite/attendees/agenda",
+            "target": "calendar/email"
+          },
+          {
+            "prio": 4,
+            "need": "Policy extracts on safeguarding follow-up after suicide disclosure",
+            "target": "force policy/CoP guidance"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "chunk": 15,
+  "time_range": "14:30-15:30",
+  "quotes": [
+    {
+      "speaker": "Ben Carter",
+      "time": "14:30",
+      "quote": "And if they’re already twisting records now, what happens in court later?",
+      "tags": [
+        "risk",
+        "future_harm",
+        "record_tampering"
+      ]
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "14:36",
+      "quote": "That’s why it’s important to keep everything documented, so we can challenge it if needed.",
+      "tags": [
+        "advocacy",
+        "documentation",
+        "challenge"
+      ]
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "14:42",
+      "quote": "But they’re the ones holding the official file, not me.",
+      "tags": [
+        "power_imbalance",
+        "risk",
+        "victim_experience"
+      ]
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "14:47",
+      "quote": "I know, and that’s why I keep a record on my side as well, to compare.",
+      "tags": [
+        "advocacy",
+        "recordkeeping",
+        "checks"
+      ]
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "14:52",
+      "quote": "Still, it feels like the odds are stacked against me.",
+      "tags": [
+        "victim_experience",
+        "systemic_failure",
+        "emotional_impact"
+      ]
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "14:57",
+      "quote": "I understand. It does feel very unfair.",
+      "tags": [
+        "acknowledgement",
+        "empathy"
+      ]
+    }
+  ],
+  "contradictions": [
+    {
+      "issue": "Victim warns twisted records risk court misuse; advocate frames documentation as protection but systemic power imbalance remains",
+      "type": "recordkeeping_gap"
+    }
+  ],
+  "timeline_hooks": [
+    {
+      "ref": "twisted records risk court",
+      "link": "Future court risk May 2025"
+    },
+    {
+      "ref": "advocate record comparison",
+      "link": "Veritas secondary recordkeeping"
+    }
+  ]
+}

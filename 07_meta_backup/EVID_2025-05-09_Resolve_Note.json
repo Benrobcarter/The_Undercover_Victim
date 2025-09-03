@@ -1,0 +1,36 @@
+{
+  "id": "EVID_2025-05-09_RESOLVE_NOTE",
+  "filename_suggested": "EVID_2025-05-09_Resolve_Note.json",
+  "title": "Resolve Note: 'Sat in my pants transcribing my world caving in'",
+  "datetime_local": "2025-05-09T12:00:00+01:00",
+  "timezone": "Europe/London",
+  "participants": [
+    "Ben Carter"
+  ],
+  "source": {
+    "type": "author_note_verbatim",
+    "file": "Note_2025-05-09_Raw.txt",
+    "sha256": "9cfe569d2bdd8f57e9b55a240f7d0d1b5dd000604c1aee2356a7eccd8c0c74d4",
+    "size_bytes": 332,
+    "verbatim": "they forget that they\u2019re fucking with, i\u2019d tried to kill myself a month ago because of them, it wasn\u2019t happenening again, the end goal to prove what i knew all all along, it was harrowing, like nightmare i couldnt have even dreamt of,so much effort put in and it was all for me. Sat in my pants transcribing my world caving in"
+  },
+  "vex_tags": [
+    "SUICIDE_ATTEMPT_RECENT",
+    "RESOLVE_AFTER_ATTEMPT",
+    "SELF_DOCUMENTATION_MODE",
+    "END_GOAL_DECLARATION",
+    "HARROWING_STATE"
+  ],
+  "timeline_hooks": [
+    "PersonalEvidence"
+  ],
+  "metrics": {
+    "days_since_2025_04_06_attempt": 33,
+    "days_to_2025_05_17_welfare": 8,
+    "days_to_2025_05_27_voicemail": 18
+  },
+  "notes": "May 9 entry sets intent to prove systemic failings; raw vernacular preserved.",
+  "datetime_utc": "2025-05-09T11:00:00+00:00",
+  "status": "active",
+  "proof_needed": []
+}

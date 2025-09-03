@@ -1,0 +1,284 @@
+{
+  "meta": {
+    "generated": "2025-08-26T22:49:18.449027Z",
+    "sources": [
+      {
+        "path": "/mnt/data/VERITAS_FULL_WORKS_manifest_v2.json",
+        "err": null,
+        "sha256": "0cdedf1564e41911e69b20158a3e8f91364b292a89a538a077bcc95569bf057c"
+      },
+      {
+        "path": "/mnt/data/CONTRADICTIONS_VERITAS_BUNDLE (1).csv",
+        "sha256": "4ae355772ebe43c5360d6e641296c7aac0c45f779ccf8337c1d13b6c9f407a3b"
+      }
+    ]
+  },
+  "manifest": [
+    {
+      "bucket": "sources",
+      "filename": "25 June 2025 at 11-07 - Your support.pdf",
+      "size_bytes": 103932,
+      "sha256": "1d00b1fe1565c80e28e002a46179491ad2b5ae733161aa0cf137e9a735244e80"
+    },
+    {
+      "bucket": "sources",
+      "filename": "25 June 2025 at 11-21 - Your Safety Plan.pdf",
+      "size_bytes": 97219,
+      "sha256": "a5ed1bea8c5372dbc3c2139d7e2bf34480fca012de745e2cc863bc7dd9f2665d"
+    },
+    {
+      "bucket": "sources",
+      "filename": "Safety Plan BC .pdf",
+      "size_bytes": 117054,
+      "sha256": "df9518fa6535a184fb34baf60f53aa4f05edc61bced84e1728be562fa86995fa"
+    },
+    {
+      "bucket": "sources",
+      "filename": "Emma Jones Veritas Whatsapp.pdf",
+      "size_bytes": 2506534,
+      "sha256": "d8e398e36a0524749218aa0a0d5df9a1550c38b319685dab6aa1f2cbc2f2c129"
+    },
+    {
+      "bucket": "sources",
+      "filename": "Veritas Call Write-up_ 25 June 2025 (10_22am) _ Source_ 25-06-25_10.22_veritas_no_longer_needed.docx.txt",
+      "size_bytes": 12261,
+      "sha256": "a014cde1679ac52b7cf174e9aae55177fbe35daf473b178ede6a9969b759b6c9"
+    },
+    {
+      "bucket": "evidence_json",
+      "filename": "EMAIL_2025-06-25_1107_Veritas_EmmaJones_Your_Support.json",
+      "size_bytes": 6308,
+      "sha256": "5bf97c18fdcf95bac3380a09ca14907e6b5ca74647c95408ecf05af32adb5b85"
+    },
+    {
+      "bucket": "evidence_json",
+      "filename": "EMAIL_2025-06-25_1121_Veritas_EmmaJones_Your_Safety_Plan.json",
+      "size_bytes": 1910,
+      "sha256": "0815368c9f064746c3dc5ec99333904cbbefbc6ba572bc0f3873f30b8e154f91"
+    },
+    {
+      "bucket": "evidence_json",
+      "filename": "EVID_2025-06-25_1121_Safety_Plan_BC.json",
+      "size_bytes": 12568,
+      "sha256": "e1b8def8157d02a8edc6fc2f87530b45ac60eecda7e24b7b9c99a06885837f0d"
+    },
+    {
+      "bucket": "evidence_json",
+      "filename": "EVID_2025-06-25_1121_image_tiff.json",
+      "size_bytes": 712,
+      "sha256": "1039ce4c9d7004d2488bc268fd100f394688c1bfdd71eac2bb9614d3e47161f5"
+    },
+    {
+      "bucket": "evidence_json",
+      "filename": "EVID_2025-06-25_1107_Your_Support.json",
+      "size_bytes": 1579,
+      "sha256": "dbd5de99a2023c64455cfdcd22f77d752202edb4ec039a5d0995eb65f1928c0e"
+    },
+    {
+      "bucket": "evidence_json",
+      "filename": "EVID_2025-06-25_1121_Your_Safety_Plan.json",
+      "size_bytes": 2059,
+      "sha256": "5e2110fea9a549b28a12798044324b51e20134b02d99e18720f1ed135239c77c"
+    },
+    {
+      "bucket": "evidence_json",
+      "filename": "EVID_2025-06-25_1022_Veritas_Call_WriteUp.json",
+      "size_bytes": 69691,
+      "sha256": "4b2e67e46e4ae9e8919c929ae9a3c9b8fc0f294f98e709530b0f61b62082a694"
+    },
+    {
+      "bucket": "evidence_json",
+      "filename": "EVID_2025-03_to_07_Veritas_EmmaJones_WhatsApp_Log.json",
+      "size_bytes": 1333,
+      "sha256": "b6356c4eed6e2fc5b2159b9d90e034b6dee93c3b99ab153735f93d6fdcc01986"
+    },
+    {
+      "bucket": "evidence_json",
+      "filename": "VEX_2025-03_to_07_Veritas_EmmaJones_WhatsApp_A10.json",
+      "size_bytes": 8824,
+      "sha256": "9256afd15a4b60d3f88d1941a4bd42418c2a6a9272a36ac127f9706be547481f"
+    },
+    {
+      "bucket": "evidence_json",
+      "filename": "EVID_UNDATED_Safety_Plan_BC.json",
+      "size_bytes": 1351,
+      "sha256": "cad6915bfc547db3c8ce4ead04490397da8ab16276504bead7657ff03f0def89"
+    },
+    {
+      "bucket": "ocr",
+      "filename": "EMAIL_2025-06-25_1107_Veritas_EmmaJones_Your_Support.txt",
+      "size_bytes": 2058,
+      "sha256": "ae22fa0693e0a08c42a374e421aa67b7c0d14cba1cc3221e590023c22e0a1ddd"
+    },
+    {
+      "bucket": "ocr",
+      "filename": "EMAIL_2025-06-25_1121_Veritas_EmmaJones_Your_Safety_Plan.txt",
+      "size_bytes": 374,
+      "sha256": "bc16b28dda3e4dc62dc934dc5a2b0f5df255714d95a38b50ba64cd6626d34700"
+    },
+    {
+      "bucket": "ocr",
+      "filename": "EVID_2025-06-25_1121_Safety_Plan_BC_OCR.txt",
+      "size_bytes": 2381,
+      "sha256": "eac81fbe72fdd9b8d1b38fa19509dd0fafbbae7d5d810f856db44cc3653893bc"
+    },
+    {
+      "bucket": "ocr",
+      "filename": "EVID_2025-03_to_07_Veritas_EmmaJones_WhatsApp_OCR.txt",
+      "size_bytes": 4638,
+      "sha256": "f0d4de262ea93c254ce0192e0149b7512b0cdfd62c970a3e819036e14848f45e"
+    },
+    {
+      "bucket": "ocr",
+      "filename": "EVID_2025-06-25_1107_Your_Support_OCR.txt",
+      "size_bytes": 2103,
+      "sha256": "248dc2c8e1d53e10493af9b13ef3bfe039207d03149caa2405bfb98af580f9b9"
+    },
+    {
+      "bucket": "ocr",
+      "filename": "EVID_2025-06-25_1121_Your_Safety_Plan_OCR.txt",
+      "size_bytes": 397,
+      "sha256": "9b60a829989d422fcd30cc21dfa5b168f7747b6141445de991b1a14979d1a921"
+    },
+    {
+      "bucket": "redacted",
+      "filename": "EVID_2025-03_to_07_Veritas_EmmaJones_WhatsApp_OCR_REDACTED.txt",
+      "size_bytes": 4619,
+      "sha256": "067d435f6e6343954dda8b090a3fb44fda10b5ab345cd52a35f5800ec1ed00f8"
+    },
+    {
+      "bucket": "redacted",
+      "filename": "EVID_2025-06-25_1107_Your_Support_OCR_REDACTED.txt",
+      "size_bytes": 2057,
+      "sha256": "01b80fa053283a9f190dd93ad89a71bd8f79452bbf8616c1477030b736811014"
+    },
+    {
+      "bucket": "redacted",
+      "filename": "EVID_2025-06-25_1121_Your_Safety_Plan_OCR_REDACTED.txt",
+      "size_bytes": 354,
+      "sha256": "ded314c30925f5d2debf287a8a29c76afe4dc53c3f9a546849ed872fb5f19805"
+    },
+    {
+      "bucket": "redacted",
+      "filename": "EVID_2025-06-25_1121_Safety_Plan_BC_OCR_REDACTED.txt",
+      "size_bytes": 2305,
+      "sha256": "68757e4c20de7d29de31a16bdd6f10ff72a1f0770eec55df8b6b8ad7b7929113"
+    },
+    {
+      "bucket": "csv",
+      "filename": "EVID_2025-06-25_1022_Veritas_Call_Quote_Index.csv",
+      "size_bytes": 4757,
+      "sha256": "d3488816eccf1bd7448f469d21fbfa8dce0c18cb1d9c2b437b70ea022d1a0622"
+    },
+    {
+      "bucket": "csv",
+      "filename": "VEX_2025-03_to_07_Veritas_EmmaJones_WhatsApp_Events.csv",
+      "size_bytes": 2483,
+      "sha256": "c05a0fe47eb3619f2dc695dc6abc81250e5634a31f11f616e50bf1d701c5c5ec"
+    },
+    {
+      "bucket": "csv",
+      "filename": "CONTRADICTIONS_VERITAS_BUNDLE.csv",
+      "size_bytes": 2122,
+      "sha256": "40c585b482377cd8ae5af4bebcc83da7e5fe94e02a1b2220db507876ff0e851b"
+    },
+    {
+      "bucket": "briefs_and_reports",
+      "filename": "BRIEF_2025-06-25_Veritas_Timeline.md",
+      "size_bytes": 1142,
+      "sha256": "7ae1417d824dbc201a5029e5fa399edfa46566cf7e3512d8152661475e003abd"
+    },
+    {
+      "bucket": "briefs_and_reports",
+      "filename": "EVID_2025-06-25_1121_Safety_Plan_BC_reconciliation.txt",
+      "size_bytes": 1470,
+      "sha256": "23f5285a013a595023cac644733cae18828838d78183864bbe09dba761a41a24"
+    }
+  ],
+  "contradictions_csv": [
+    {
+      "contradiction_id": "ATTACHMENT_CLAIM_MISMATCH-001",
+      "tag": "ATTACHMENT_CLAIM_MISMATCH",
+      "summary": "Email at 11:07 claims safety plan attached; actual attachment delivered at 11:21 follow‑up.",
+      "source_a_id": "EMAIL_2025-06-25_1107_Veritas_EmmaJones_Your_Support",
+      "source_a_when": "2025-06-25T11:07:00+01:00",
+      "source_b_id": "EMAIL_2025-06-25_1121_Veritas_EmmaJones_Your_Safety_Plan",
+      "source_b_when": "2025-06-25T11:21:00+01:00",
+      "severity": "high",
+      "status": "open",
+      "notes": "Use for timeline: claim vs delivery delta = 14 minutes."
+    },
+    {
+      "contradiction_id": "CONTINUITY_GAP-002",
+      "tag": "CONTINUITY_GAP",
+      "summary": "Safety plan marked Active (last updated 2024-11-25) while service support withdrawn at 11:07.",
+      "source_a_id": "EVID_2025-06-25_1121_Safety_Plan_BC",
+      "source_a_when": "2025-06-25T11:21:00+01:00",
+      "source_b_id": "EMAIL_2025-06-25_1107_Veritas_EmmaJones_Your_Support",
+      "source_b_when": "2025-06-25T11:07:00+01:00",
+      "severity": "high",
+      "status": "open",
+      "notes": "Continuity of safeguarding obligations should be confirmed post-withdrawal."
+    },
+    {
+      "contradiction_id": "BAIL_STATUS_UNCONFIRMED-003",
+      "tag": "BAIL_STATUS_UNCONFIRMED",
+      "summary": "Repeated requests for bail confirmation in WhatsApp; screenshoted email excerpt claims NFA and bail cancelled.",
+      "source_a_id": "VEX_2025-03_to_07_Veritas_EmmaJones_WhatsApp_A10",
+      "source_a_when": "2025-03-27→2025-07-08",
+      "source_b_id": "",
+      "source_b_when": "",
+      "severity": "medium",
+      "status": "open",
+      "notes": "Treat as a hook pending verification of the screenshot provenance."
+    },
+    {
+      "contradiction_id": "MARAC_ATTENDANCE_AMBIGUITY-004",
+      "tag": "MARAC_ATTENDANCE_AMBIGUITY",
+      "summary": "Ambiguity over who attended MARAC (e.g., 'police representative DS Burtup' vs requests for confirmation).",
+      "source_a_id": "VEX_2025-03_to_07_Veritas_EmmaJones_WhatsApp_A10",
+      "source_a_when": "2025-06-09",
+      "source_b_id": "",
+      "source_b_when": "",
+      "severity": "low",
+      "status": "open",
+      "notes": "Verify spelling/identity of 'DS Burtup' and confirm role."
+    },
+    {
+      "contradiction_id": "POST_SUICIDE_NO_CONTACT-005",
+      "tag": "POST_SUICIDE_NO_CONTACT",
+      "summary": "User reports no police contact since suicide attempt; raised multiple times in WhatsApp.",
+      "source_a_id": "VEX_2025-03_to_07_Veritas_EmmaJones_WhatsApp_A10",
+      "source_a_when": "2025-06-04 and 2025-06-09",
+      "source_b_id": "",
+      "source_b_when": "",
+      "severity": "high",
+      "status": "open",
+      "notes": "Hook for safeguarding and risk escalation tracking."
+    },
+    {
+      "contradiction_id": "SCOPE_DEFLECTION-006",
+      "tag": "SCOPE_DEFLECTION",
+      "summary": "Email frames issues as out-of-scope (police complaint focus) while WhatsApp shows ongoing safeguarding asks (bail/MARAC).",
+      "source_a_id": "EMAIL_2025-06-25_1107_Veritas_EmmaJones_Your_Support",
+      "source_a_when": "2025-06-25T11:07:00+01:00",
+      "source_b_id": "VEX_2025-03_to_07_Veritas_EmmaJones_WhatsApp_A10",
+      "source_b_when": "2025-03-27→2025-07-08",
+      "severity": "medium",
+      "status": "open",
+      "notes": "Use to contextualise service boundaries vs safeguarding expectations."
+    },
+    {
+      "contradiction_id": "APR14-007",
+      "tag": "APR14_CALL_CORROBORATION",
+      "summary": "14 Apr WhatsApp call(s) with Emma corroborate separate 'only being logged on 14 Apr' evidence.",
+      "source_a_id": "VEX_2025-03_to_07_Veritas_EmmaJones_WhatsApp_A10",
+      "source_a_when": "2025-04-14",
+      "source_b_id": "",
+      "source_b_when": "",
+      "severity": "medium",
+      "status": "open",
+      "notes": "Link to external system log/evidence when available (police/agency record)."
+    }
+  ]
+}

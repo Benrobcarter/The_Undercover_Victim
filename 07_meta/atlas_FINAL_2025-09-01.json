@@ -1,0 +1,59 @@
+{
+  "version": "2025-09-01",
+  "shards": [
+    {
+      "name": "shard_contradictions_core",
+      "path": "02_contradictions/shard_contradictions_core_merged_v3.json"
+    },
+    {
+      "name": "shard_timelines_core",
+      "path": "03_timelines/shard_timelines_core_merged_UPDATED_2025-09-01_v3.json"
+    },
+    {
+      "name": "shard_evidence_vex",
+      "path": "01_evidence/vex/shard_evidence_vex_merged_v3.json"
+    },
+    {
+      "name": "shard_manifest_meta",
+      "path": "07_meta/shard_manifest_meta_merged.json"
+    },
+    {
+      "name": "shard_contradictions_vex",
+      "path": "07_meta/shard_contradictions_vex.json"
+    }
+  ],
+  "overlays": [
+    {
+      "name": "quote_cards",
+      "path": "07_meta/quote_cards.json"
+    },
+    {
+      "name": "vex_tag_reference",
+      "path": "07_meta/vex_tag_reference_merged.json"
+    },
+    {
+      "name": "book_crosswalk",
+      "path": "07_meta/CROSSWALK_BOOK_SHARD_TIMELINE_2025-08-31.json"
+    },
+    {
+      "name": "quote_contradiction_links",
+      "path": "07_meta/CONTRA_QUOTE_LINKS_PATCH.json"
+    },
+    {
+      "name": "status_report",
+      "path": "07_meta/STATUS_REPORT_2025-09-01_v2.json"
+    },
+    {
+      "name": "evidence_suppression_audit",
+      "path": "07_meta/evidence_suppression_audit_log_Q3_2025.json"
+    },
+    {
+      "name": "contradiction_labels",
+      "path": "dashboard/data/contradiction_labels_overlay_2025-09-01.json"
+    },
+    {
+      "name": "contradiction_cluster_index",
+      "path": "07_meta/contradiction_cluster_index_2025-09-01.json"
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "meta": {
+    "evidence_id": "SAR_BF_2025-07-20_Board_Minutes",
+    "thread_subject": "Board meeting mins",
+    "organisation": "Brighton Fringe Ltd",
+    "source_type": "email_thread",
+    "timezone": "Europe/London",
+    "created_by": "GPT-5 Thinking",
+    "created_at": "2025-09-01T01:22:49.688055+01:00"
+  },
+  "emails": [
+    {
+      "timestamp_local": "2025-07-20 15:32",
+      "from": "Ben Carter <benrobcarter@gmail.com>",
+      "to": "Duncan Lustig-Prean <chair@brightonfringe.org>",
+      "subject": "Board meeting mins",
+      "body": "Send them over quickly, as there’s some people that would like to see them",
+      "sar_assessment": {
+        "is_sar": false,
+        "reason": "General request for board minutes without explicitly requesting a copy of Ben Carter's personal data. Not clearly framed as a request for his own personal data."
+      }
+    },
+    {
+      "timestamp_local": "2025-07-20 16:38",
+      "from": "Ben Carter <benrobcarter@gmail.com>",
+      "to": "Duncan Lustig-Prean <chair@brightonfringe.org>",
+      "subject": "Board meeting mins",
+      "body": "Dear Duncan,\nThank you for your response.\nYour confirmation that the board minutes regarding my removal have “yet to be written” raises serious concerns about transparency, legality, and safeguarding compliance under charity law.\nI am now formally requesting the following:\n1. Recording or Transcript of the Board Meeting\nPlease confirm:\nWhether the meeting at which my removal was decided was audio or video recorded;\nIf so, I request an unedited copy of the full recording, or a verbatim transcript including all references to:\nMyself\nSafeguarding concerns\nReputational or risk justifications\nAny votes or motions made\nIf the meeting was not recorded, I request written confirmation that:\nThe decision was made without a contemporaneous record;\nThe minutes are being written retroactively, under your exclusive control.\nThis raises the appearance that the board’s actions are being shaped after the fact, rather than governed by policy or accountability standards.\n2. Conflict of Interest Disclosure\nAs the Chair involved in:\nMy original safeguarding concerns,\nDecisions that followed,\nAnd the current drafting of minutes,\n…it is not appropriate for you to act as the sole approver or editor of the record. Please confirm whether any conflict of interest was declared, and who authorised your continued role in finalising the record.\n3. Basis for Removal\nPlease confirm:\nThe date and time of the board meeting where the decision was made;\nThe names of those in attendance;\nThe legal basis and organisational policy used to justify my removal.\nLegal Reference\nAs you are aware, Brighton Fringe is a registered charity. Under the Charities Act 2011 and Charity Commission guidance CC3 and CC9, trustees are legally required to:\nKeep accurate records of decisions;\nHandle safeguarding disclosures transparently;\nAvoid conflicts of interest;\nProtect whistleblowers from retaliation or erasure.\nYour refusal to disclose the full minutes — while admitting they are yet to be written — may constitute a breach of trustee duty, reputational governance, and charity law.\nI am therefore putting you on notice that this correspondence and any response (or non-response) may be submitted to the Charity Commission as part of a formal safeguarding and governance complaint.\nSincerely,\nBen Carter\n1/2 a 🐪",
+      "sar_assessment": {
+        "is_sar": true,
+        "scope": [
+          "All personal data about Ben Carter contained in board minutes and any recording/transcript of the meeting concerning his removal",
+          "References to safeguarding concerns, reputational or risk justifications relating to Ben Carter",
+          "Information on recipients and categories of recipients (e.g., attendees) with whom Ben Carter's personal data was shared",
+          "Information about processing purposes and legal basis related to the decision affecting Ben Carter"
+        ],
+        "deadline_1_month_due": "2025-08-20",
+        "notes": "Valid SAR made in writing. Organisation must respond within one month; can redact third-party data and/or provide Ben's personal data in extract/summary form."
+      }
+    },
+    {
+      "timestamp_local": "2025-07-20 16:42",
+      "from": "Duncan Lustig-Prean <chair@brightonfringe.org>",
+      "to": "Ben Carter <benrobcarter@gmail.com>",
+      "subject": "Board meeting mins",
+      "body": "Dear Ben,\nNone of us will be forwarded to you.\nWe are a small charity it takes time to transcribe the notes.\nYou’re not entitled to anything other than a copy of the minute regarding your future with Brighton fringe.\nNo further correspondence will be ended into on this matter.\nThe board date to consider that your behaviour amounted to stalking. Please be cautioned by their observation.\nDuncan Lustig-Prean",
+      "sar_assessment": {
+        "is_response": true,
+        "compliance": "non_compliant_refusal",
+        "reason": "Refusal on grounds of 'confidentiality' and limiting disclosure to a single minute is not a valid exemption to right of access. Organisation must disclose Ben's personal data in the minutes/records with appropriate redactions."
+      }
+    },
+    {
+      "timestamp_local": "2025-07-20 16:59",
+      "from": "Ben Carter <benrobcarter@gmail.com>",
+      "to": "Duncan Lustig-Prean <chair@brightonfringe.org>",
+      "subject": "Board meeting mins",
+      "body": "Duncan,\nJust so we’re clear — I already have a crime reference number for stalking and harassment against you\nIt was opened months ago, and the only reason it was closed, as I didn’t submit the evidence — not because the events didn’t happen. Because I wanted to document them happening\nYou’ve been used.\nAll this time, while I was trying to survive, the police used your silence and your status to legitimise their own failure. You weren’t protecting the Fringe. You were protecting them.\nAnd now you’re helping rewrite the story I tried to report.\nEmail me what I require, anything not according to UK law or charity law, I will regard as harassment.\nBen",
+      "sar_assessment": {
+        "is_followup": true,
+        "notes": "Confirms ongoing requirement to receive data; maintains SAR context."
+      }
+    }
+  ],
+  "legal": {
+    "ico_guidance": [
+      {
+        "point": "A SAR can be made verbally or in writing; no specific wording is required.",
+        "citation": "ICO: How do we recognise a SAR?"
+      },
+      {
+        "point": "One-month time limit to respond; may extend by up to two months if complex, with reasons.",
+        "citation": "ICO: A guide to subject access — responding to a request"
+      },
+      {
+        "point": "Where third-party information is included, seek consent or redact; still disclose the requester's personal data.",
+        "citation": "ICO: Information about other individuals in SAR responses"
+      }
+    ]
+  },
+  "vex": {
+    "tags": [
+      "DPA_GDPR",
+      "SAR_STRUCTURAL_ABSENCE",
+      "GOVERNANCE_FAILURE",
+      "RECORDS_AUDIT",
+      "DEATH_BY_SILENCE"
+    ],
+    "contradictions": [
+      "BF-CONTRA-SAR-GDPR-BREACH-2025",
+      "DUNCAN_ASSISTED_ERASURE"
+    ]
+  },
+  "timeline": {
+    "sar_received_date": "2025-07-20",
+    "deadline_due": "2025-08-20",
+    "status": "refused_or_partial",
+    "notes": "Refusal citing confidentiality; must still disclose Ben Carter's personal data from the minutes/records with appropriate redactions or in extracted form."
+  }
+}

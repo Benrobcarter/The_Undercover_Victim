@@ -1,0 +1,106 @@
+{
+  "meta": {
+    "filename": "YEAR-MONTH-DAY_[Sender]_to_[Recipient]_Subject_Short.json",
+    "case_reference": "CASE_REFERENCE_NUMBER",
+    "thread_label": "THREAD_LABEL_IF_RELEVANT",
+    "actor_cluster": [
+      "Actor1",
+      "Actor2"
+    ],
+    "date_range": {
+      "start": "YYYY-MM-DDThh:mm:ss",
+      "end": "YYYY-MM-DDThh:mm:ss"
+    },
+    "source_provenance": "Email from X to Y on DATE",
+    "created_at_utc": "YYYY-MM-DDThh:mm:ssZ",
+    "vex_schema_version": "1.1",
+    "human_exhibit_name": "HUMAN-READABLE.PDF"
+  },
+  "emails": [
+    {
+      "id": "unique-email-id",
+      "date": "YYYY-MM-DDThh:mm:ss",
+      "from": {
+        "name": "...",
+        "email": "...",
+        "badge": ""
+      },
+      "to": [
+        {
+          "name": "...",
+          "email": "...",
+          "badge": ""
+        }
+      ],
+      "subject_summary": "Short summary of subject",
+      "body": "Full email text",
+      "attachments": [
+        {
+          "filename": "file.ext",
+          "size_kb": 0,
+          "hash_sha256": "",
+          "source": "NICE|Forwarded|Local"
+        }
+      ],
+      "labels": [
+        "Example: Bail Confirmation",
+        "Evidence Intake"
+      ]
+    }
+  ],
+  "vex": [
+    {
+      "email_id": "unique-email-id",
+      "sentence_tags": [
+        {
+          "text": "Quoted sentence from the email.",
+          "tags": [
+            "EVIDENCE_PROVIDED",
+            "VICTIM_COOPERATION"
+          ],
+          "notes": "Why this matters."
+        }
+      ]
+    }
+  ],
+  "contradiction_links": [
+    {
+      "id": "AUTO-GEN_ID",
+      "claim": "Official claim/expectation.",
+      "reality": "What actually happened.",
+      "laws_breached": [
+        "Victims' Code 2020"
+      ],
+      "damages": [
+        "Emotional",
+        "Strategic"
+      ]
+    }
+  ],
+  "timeline_hooks": [
+    {
+      "phase": "Investigation Stage",
+      "date": "YYYY-MM-DD",
+      "events": [
+        "Key event summary..."
+      ],
+      "related_threads": [
+        "THREAD_LABEL"
+      ]
+    }
+  ],
+  "damages_summary": {
+    "emotional": "Details...",
+    "strategic": "Details...",
+    "reputational": "If applicable..."
+  },
+  "qa": {
+    "checks": [
+      "date_present",
+      "case_ref_present",
+      "exhibit_named",
+      "attachments_indexed"
+    ],
+    "status": "pending"
+  }
+}

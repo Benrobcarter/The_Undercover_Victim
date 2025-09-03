@@ -1,0 +1,37 @@
+[
+  {
+    "Breach Type": "SAR Obstruction (GDPR 12(3))",
+    "Legal Basis": "UK GDPR Article 12(3)",
+    "Description": "Failure to respond within one calendar month. No valid extension.",
+    "Financial Impact": "Moderate emotional distress + administrative loss",
+    "Claim Estimate (\u00a3)": "3,000 \u2013 10,000"
+  },
+  {
+    "Breach Type": "Victims\u2019 Code Violation",
+    "Legal Basis": "Victims' Code of Practice",
+    "Description": "Failure to notify victim of NFA or bail cancellation",
+    "Financial Impact": "Emotional distress; retraumatisation; safeguarding risk",
+    "Claim Estimate (\u00a3)": "5,000 \u2013 15,000"
+  },
+  {
+    "Breach Type": "Safeguarding Negligence",
+    "Legal Basis": "Common law duty of care / Mental Health Act referral obligations",
+    "Description": "Ignored suicide disclosure; no officer contact or referral post-attempt",
+    "Financial Impact": "Severe psychological harm; repeated retraumatisation",
+    "Claim Estimate (\u00a3)": "15,000 \u2013 50,000"
+  },
+  {
+    "Breach Type": "Evidence Suppression / Misconduct",
+    "Legal Basis": "Misconduct in Public Office / ICO precedent",
+    "Description": "Files lost or deliberately ignored; suspect informed before victim",
+    "Financial Impact": "Systemic mistrust, reputational and legal consequence",
+    "Claim Estimate (\u00a3)": "5,000 \u2013 25,000"
+  },
+  {
+    "Breach Type": "Human Rights Violations",
+    "Legal Basis": "HRA 1998 - Articles 3 and 8",
+    "Description": "Inhuman treatment, degradation, and data suppression without recourse",
+    "Financial Impact": "Rights breach + multiplier effect for repeated failures",
+    "Claim Estimate (\u00a3)": "10,000 \u2013 30,000"
+  }
+]

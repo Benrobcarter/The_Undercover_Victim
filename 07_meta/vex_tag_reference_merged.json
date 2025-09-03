@@ -1,0 +1,134 @@
+{
+  "tags": [
+    {
+      "tag": "SUICIDE_DISCLOSURE_USED_FOR_REMOVAL",
+      "description": "Institution used a known suicide disclosure to justify structural removal of the complainant",
+      "origin": "8 May 2025 GP email from Amy Keogh"
+    },
+    {
+      "tag": "UNLAWFUL_THIRD_PARTY_HEALTH_DISCLOSURE",
+      "description": "Health data was shared with the NHS without consent or lawful basis under Article 6/9 GDPR",
+      "origin": "Email to Seven Dials Medical Centre (8 May 2025)"
+    },
+    {
+      "tag": "GOVERNANCE_ERASURE",
+      "description": "Decisions affecting complainant were executed without documented trustee process or approval",
+      "origin": "Removal of Ben Carter confirmed without minutes"
+    },
+    {
+      "tag": "SAR_STRUCTURAL_ABSENCE",
+      "description": "Key actors and event references are anticipated to be missing from SAR response",
+      "origin": "Exhibit A logging admission + Alice Wright comms"
+    },
+    {
+      "tag": "VENUE_OBSERVER_ROLE_MANIPULATION",
+      "description": "Complainant\u2019s Observer role was publicly cited, but never formally documented or protected",
+      "origin": "Exhibit B \u2013 Venue Observer Email Disclosure"
+    },
+    {
+      "tag": "LIBEL_ACTION_DISGUISED_AS_NEUTRAL_UPDATE",
+      "description": "18 July 2025 email used neutral language to execute mass defamation",
+      "origin": "Jessica Otterwell forward"
+    },
+    {
+      "tag": "RECORD_MANIPULATION_POST_DISCLOSURE",
+      "description": "Medical records were rewritten after suicide disclosure to reframe incident as paranoia",
+      "origin": "Contested GP notes from Dr Dharam Dickinson"
+    },
+    {
+      "tag": "SAR_NON_RESPONSE_NHS",
+      "description": "Subject Access Request was not fulfilled within legal timeframe and no extension was provided",
+      "origin": "SAR submitted 14 July 2025, overdue by 16 August"
+    },
+    {
+      "tag": "HEALTH_NOTE_REDACTION_FOR_COVER",
+      "description": "Accurate notes were allegedly removed or overwritten to conceal third-party influence",
+      "origin": "Emails and video statements by Ben Carter"
+    },
+    {
+      "tag": "THIRD_PARTY_SUPPRESSION_CHAIN",
+      "description": "GP notes and communication patterns aligned with narratives issued by Brighton Fringe and Sussex Police",
+      "origin": "Linked to Brighton Fringe mass email and NHS disclosure trail"
+    },
+    {
+      "tag": "RETRACTION_OF_VALIDATION",
+      "description": "Doctor initially validated victim\u2019s concerns, later replaced with gaslighting narrative",
+      "origin": "14\u201315 July 2025 email thread"
+    },
+    {
+      "tag": "SAFEHARMING_LOG",
+      "description": "Logging of suicidal disclosures or risk while taking no action, used to appear compliant.",
+      "origin": "Brighton Fringe Safeharming Log"
+    },
+    {
+      "tag": "GOVERNANCE_FAILURE",
+      "description": "Board or trustees failing to act within their legal duties to protect or disclose risk.",
+      "origin": "Fringe safeguarding failures and erasure decisions"
+    },
+    {
+      "tag": "REPUTATIONAL_HARM",
+      "description": "Deliberate or reckless damage to the victim's public standing, trust, or business.",
+      "origin": "Mass libel email to artists and clients"
+    },
+    {
+      "tag": "INSTITUTIONAL_GASLIGHTING",
+      "description": "Minimising, rewriting, or denying internal knowledge of risk or wrongdoing.",
+      "origin": "Brighton Fringe: 'no record of allegations' contradiction"
+    },
+    {
+      "tag": "SAFEGUARDING_DEFLECTION",
+      "description": "Redirecting safeguarding disclosures into operational or unrelated frames.",
+      "origin": "Emails reframing crisis as logistics"
+    },
+    {
+      "tag": "RECORDS_AUDIT",
+      "description": "Use or absence of logs, audit trails, or metadata as evidence of systemic failure.",
+      "origin": "Mentioned in Fringe meeting writeups"
+    },
+    {
+      "tag": "DEATH_BY_SILENCE",
+      "description": "Prolonged institutional silence contributing to escalation or harm.",
+      "origin": "Core Sussex + Brighton crossover thread"
+    },
+    {
+      "tag": "DPA_GDPR",
+      "description": "Violation of UK GDPR/Data Protection Act through erasure, obstruction, or breach.",
+      "origin": "ICO complaint and email metadata"
+    },
+    {
+      "tag": "NARRATIVE_REPLACEMENT",
+      "description": "Strategic use of communications to replace the complainant's version of events.",
+      "origin": "Mass email promising 'someone new'"
+    },
+    {
+      "tag": "FRAUDULENT_LOGGING",
+      "description": "Logs maintained to shield from liability while taking no safeguarding action.",
+      "origin": "Implied from 'we\u2019ve been logging everything' vs no outcome"
+    },
+    {
+      "tag": "SAFEGUARDING_PERFORMATIVE",
+      "description": "Performative use of safeguarding language with no material protection offered.",
+      "origin": "Brighton Fringe safeguarding meeting minutes and follow-ups"
+    },
+    {
+  "tag": "COBRAND_EXPLOITATION",
+  "description": "Fringe benefited from shared branding, then erased evidence of partnership"
+},
+{
+  "tag": "GOOD_FAITH_USED_AS_TRAP",
+  "description": "User’s legal/financial investment was used to justify post-hoc erasure"
+},
+{
+  "tag": "SYSTEMIC_FAILURE_CONFESSION",
+  "description": "Internal staff admitted to failure that contradicted public blame"
+},
+{
+  "tag": "UNINSURABLE_EVENT",
+  "description": "Structural flaws made venue operations legally and financially untenable"
+},
+{
+  "tag": "IMPOSSIBLE_COMPLIANCE_CONDITION",
+  "description": "User was trapped between legal risk and reputational risk — either outcome used against them"
+}
+  ]
+}

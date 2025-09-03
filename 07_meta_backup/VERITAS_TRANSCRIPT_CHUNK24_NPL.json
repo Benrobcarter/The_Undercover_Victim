@@ -1,0 +1,81 @@
+{
+  "chunk": 24,
+  "time_range": "23:30-24:30",
+  "quotes": [
+    {
+      "speaker": "Ben Carter",
+      "time": "23:30",
+      "quote": "It wears me down having to resend things over and over, like they’re testing how long I’ll last.",
+      "tags": [
+        "victim_experience",
+        "attrition",
+        "emotional_impact"
+      ]
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "23:37",
+      "quote": "I understand, and I’ve told them it’s not acceptable practice.",
+      "tags": [
+        "acknowledgement",
+        "advocacy"
+      ]
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "23:42",
+      "quote": "Not acceptable? It’s abusive. They’re abusing the process to exhaust me.",
+      "tags": [
+        "victim_assertion",
+        "institutional_abuse",
+        "gaslighting"
+      ]
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "23:48",
+      "quote": "I hear you, Ben, but I can’t confirm intent. What I can do is keep raising it.",
+      "tags": [
+        "acknowledgement",
+        "deflection",
+        "advocacy"
+      ]
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "23:53",
+      "quote": "Intent doesn’t matter when the effect is the same—me being broken down.",
+      "tags": [
+        "victim_experience",
+        "emotional_impact",
+        "systemic_failure"
+      ]
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "23:59",
+      "quote": "That’s true, and I’ll keep highlighting the impact on you.",
+      "tags": [
+        "acknowledgement",
+        "advocacy",
+        "impact"
+      ]
+    }
+  ],
+  "contradictions": [
+    {
+      "issue": "Victim frames resubmission cycle as abusive attrition; advocate refuses to confirm intent but concedes harm",
+      "type": "institutional_abuse_pattern"
+    }
+  ],
+  "timeline_hooks": [
+    {
+      "ref": "resend cycle exhausting victim",
+      "link": "Attrition through administrative abuse"
+    },
+    {
+      "ref": "effect vs intent",
+      "link": "Impact-based abuse regardless of motive"
+    }
+  ]
+}

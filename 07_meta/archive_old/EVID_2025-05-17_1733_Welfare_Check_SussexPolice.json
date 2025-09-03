@@ -1,0 +1,47 @@
+{
+  "id": "EVID_2025-05-17_1733_WELFARE_CHECK_EA734_EA820",
+  "filename_suggested": "EVID_2025-05-17_1733_Welfare_Check_SussexPolice.json",
+  "title": "Covert Welfare Check as Damage Control (EA734 & EA820)",
+  "datetime_utc": "2025-05-17T17:33:00+00:00",
+  "participants": [
+    "Amy (EA734)",
+    "Sam (EA820)",
+    "Ben Carter"
+  ],
+  "location": "Ben Carter residence",
+  "source": {
+    "type": "transcript_text",
+    "file": "Covert Welfare Check as Damage Control_ Sussex Police Turn Up Unexpectedly (17 May 2025, 17_33).txt",
+    "sha256": "ba11eb911f7f39b08b0f56191e7333b4268babe02320f862ce69fea1c70f57de",
+    "size_bytes": 33712,
+    "excerpt": "\ufeffEVIDENCE WRITE-UP Title: Covert Welfare Check as Damage Control: Sussex Police Turn Up Unexpectedly (17 May 2025, 17:33) File Reference: SUSSEX_POLICE_TURN_UP_UNEXPECTED_17-05-25_17-33_otter_ai.txt Contradiction Tags: SUSSEX_POLICE_NO_SAFEGUARDING_CONTACT, DAMAGE_CONTROL_VISIT, INSTITUTIONAL_GASLIGHTING, LATE_INTERVENTION_AFTER_SUICIDE, DISPLACEMENT_TACTICS Timeline Threads:\n* Crowbarring Myself Justice\n* They Saw, Paused, Reflected \u2014 and Chose Death\n* Crime Ref 47240214305 Thread\n________________\n\n\nSUMMARY\nOn 17 May 2025, Sussex Police officers Amy (EA734) and Sam (EA820) arrived unannounced at Ben Carter\u2019s residence under the pretext of a welfare check. This came more than six weeks after Ben\u2019s documented suicide attempt on 6 April 2025, for which no physical police follow-up had occurred. The visit took place shortly after the user began raising formal complaints with the IOPC, the CPS, and the public, intensifying exposure of Sussex Police's misconduct.\nThis recording shows officers claiming no knowledge of Ben's case or its context, while simultaneously extracting information about suicidal ideation and confirming that a report will now be filed. The contradiction between thi"
+  },
+  "vex_tags": [
+    "WELFARE_CHECK",
+    "LATE_INTERVENTION_AFTER_SUICIDE",
+    "DAMAGE_CONTROL_VISIT",
+    "INSTITUTIONAL_GASLIGHTING",
+    "FORCED_NARRATIVE_RESET",
+    "DEATH_BY_SILENCE"
+  ],
+  "contradictions": [
+    "They Saw, Paused, Reflected \u2014 and Chose Death",
+    "CROWBARRING_MYSELF_JUSTICE"
+  ],
+  "metrics": {
+    "days_since_suicide_attempt": 41,
+    "days_since_multi_agency_meeting": 20
+  },
+  "policy_reference": [
+    {
+      "policy": "Care Act 2014, Section 42"
+    },
+    {
+      "policy": "Victims' Code of Practice"
+    },
+    {
+      "policy": "College of Policing \u2014 Responding to Suicidal Risk"
+    }
+  ],
+  "notes": "Unannounced visit 41 days after suicide attempt; 20 days after MEAC/MASH discussion. Officers unfamiliar with case; emphasize support over accountability."
+}

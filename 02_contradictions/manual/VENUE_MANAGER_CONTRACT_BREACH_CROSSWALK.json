@@ -1,0 +1,53 @@
+{
+  "Contract Clauses": [
+    {
+      "clause": "Respond within 2 working days / 24h during festival",
+      "sub_contradiction_id": "BF-CONTRA-COMMUNICATION-DUTY-BREACH",
+      "existing_evidence": [
+        "EMAIL_2025-05-07_LOGGING_ADMISSION",
+        "VEX_2025-05-08_Expired_Contract_Used_For_Removal"
+      ]
+    },
+    {
+      "clause": "Chair to email venues after Board meetings with details of discussions and decisions",
+      "sub_contradiction_id": "BF-CONTRA-BOARD-MINUTES-BREACH",
+      "existing_evidence": [
+        "SAR_BF_2025-07-20_Board_Minutes",
+        "Duncan_Email_2025-07-20_Board_Minutes_Refusal"
+      ]
+    },
+    {
+      "clause": "Promote Brighton Fringe online, in print, and provide materials (bunting, posters, Family Guide)",
+      "sub_contradiction_id": "BF-CONTRA-PROMOTIONAL-SUPPORT-BREACH",
+      "existing_evidence": [
+        "VEX_2025-03-27_CoBranded_Station_Poster_Proof",
+        "VEX_2025-07-18_Brochure_Proof_And_Libel_Response"
+      ]
+    },
+    {
+      "clause": "Provide minimum 30% box office allocation, reallocate when sold, prevent multiple booking fees",
+      "sub_contradiction_id": "BF-CONTRA-BOXOFFICE-BREACH",
+      "existing_evidence": [
+        "VEX_2025-05-10_Box_Office_Agreement_Breach",
+        "VEX_2025-05-23_Public_Confusion_Ticketing_Collapse",
+        "VEX_2025-05-26_PLI_Uninsurable_Unticketed_Shows"
+      ]
+    },
+    {
+      "clause": "Hold regular venue managers' meetings, groups, and constructive dialogue",
+      "sub_contradiction_id": "BF-CONTRA-VENUE-SUPPORT-BREACH",
+      "existing_evidence": [
+        "VEX_2025-03-29_Artist_Assumed_I_Was_Fringe",
+        "Emails_Excluding_Venue_Managers_From_Meetings"
+      ]
+    },
+    {
+      "clause": "Support accessibility & sustainability in line with Fringe policy",
+      "sub_contradiction_id": "BF-CONTRA-ACCESSIBILITY-BREACH",
+      "existing_evidence": [
+        "VEX_2025-04-23_Ticketing_Admission_Elin_Eaton",
+        "VEX_2025-05-26_PLI_Uninsurable_Unticketed_Shows"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "meta": {
+    "title": "System Exposure of Crime Number Manipulation",
+    "date_created": "2025-06-22",
+    "vex_id": "VEX_2025-06-22_System_Exposure_Crime_Number_Manipulation",
+    "related_calls": [
+      "TRANSCRIPT_2025-06-22_0430_101_System_Exposure_Crime_Manipulation.txt"
+    ],
+    "linked_bundles": [
+      "VEX_2025-06-22_Cherish_Bundle_v2_LOOP_ADDED"
+    ],
+    "status": "contradiction_node",
+    "bundle_type": "standalone_contradiction",
+    "generated_utc": "2025-08-26T20:31:00Z"
+  },
+  "quotes": [
+    {
+      "quote": "What Sussex Police have done is they've created an extra crime number so that the IOPC can't see their two crime numbers. That PC Dixon is hiding all the corruption.",
+      "source": "22-06-25 04.30 Timeline Event_ System Exposure of Crime Number Manipulation.docx",
+      "type": "transcript_extracted",
+      "tags": [
+        "CRIME_REFERENCE_MANIPULATION",
+        "IOPC_OBSTRUCTION",
+        "SAFEGUARDING_DUTY_FAILED",
+        "REPEATED_ASSIGNMENT_TO_DIXON",
+        "INSTITUTIONAL_GASLIGHTING"
+      ]
+    },
+    {
+      "quote": "Now PC Dixon\u2019s got three crime numbers. Greedy.",
+      "source": "22-06-25 04.30 Timeline Event_ System Exposure of Crime Number Manipulation.docx",
+      "type": "transcript_extracted",
+      "tags": [
+        "CRIME_REFERENCE_MANIPULATION",
+        "SYSTEMIC_CORRUPTION",
+        "VICTIM_MOCKERY_IRONY"
+      ]
+    }
+  ],
+  "evidence_links": [
+    {
+      "type": "transcript",
+      "file": "22-06-25 04.30 Timeline Event_ System Exposure of Crime Number Manipulation.docx",
+      "summary": "Transcript outlines deliberate crime number inflation by Sussex Police, reassignment to PC Dixon post-suicide disclosure, and refusal to honour a legally required video call. Verbal admission of systemic obfuscation to avoid IOPC scrutiny."
+    }
+  ],
+  "contradictions": [
+    "CRIME_REFERENCE_MANIPULATION",
+    "IOPC_OBSTRUCTION",
+    "REPEATED_ASSIGNMENT_TO_DIXON",
+    "SYSTEMIC_CORRUPTION",
+    "VICTIM_MOCKERY_IRONY",
+    "SAFEGUARDING_DUTY_FAILED"
+  ],
+  "timeline_hooks": [
+    "CrowbarringMyselfJustice",
+    "DeathBySilence",
+    "SussexPolice",
+    "IOPC_Escalation"
+  ],
+  "emotional_tone": "controlled_exposure"
+}

@@ -1,0 +1,35 @@
+{
+  "meta": {
+    "evidence_id": "VEX_2024-12-10_Cordell_Email_701211",
+    "title": "10 Dec 2024 — Email re: Legacy Number 701211 (Cordell)",
+    "created_at": "2025-08-26T00:00:00Z",
+    "type": "Email",
+    "date_local": "2024-12-10",
+    "parties": [
+      "Ben Carter",
+      "Cordell"
+    ],
+    "clusters": [
+      "DEATH_BY_SILENCE",
+      "CRIME_REF_47240214305_THREAD"
+    ],
+    "source_files": [
+      "EVID_2024-12-10_Cordell_Email_701211.json"
+    ]
+  },
+  "summary": "Email concerning legacy number 701211. Locks date and links to December thread. Awaiting final quote extraction from original email body.",
+  "police_position": "Pending verification; used as chronology marker supporting 701211 reference.",
+  "contradictions": [
+    "DEATH_BY_SILENCE_ESCALATION",
+    "CASE_CHRONOLOGY_ERASURE"
+  ],
+  "key_quotes": [],
+  "timeline_hooks": [
+    {
+      "date": "2024-12-10",
+      "title": "Cordell email: legacy number 701211 referenced",
+      "link": "EVID_2024-12-10_Cordell_Email_701211.json"
+    }
+  ],
+  "links": []
+}

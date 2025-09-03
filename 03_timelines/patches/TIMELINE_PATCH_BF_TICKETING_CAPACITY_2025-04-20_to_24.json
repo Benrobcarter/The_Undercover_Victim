@@ -1,0 +1,55 @@
+{
+  "timeline_id": "t2_brighton_fringe_consequences",
+  "events": [
+    {
+      "id": "BF-TIX-2025-04-20-JJ-NO-LINK",
+      "when": "2025-04-20T22:06:00",
+      "title": "Artist reports missing ticket link",
+      "summary": "Jo Jarvie cannot see booking path for 8 May show.",
+      "evidence": [
+        "EVID_2025-04-20_to_24_Working_Ticket_Link_Jo_Jarvie"
+      ],
+      "contradictions": [
+        "BF-CONTRA-BOXOFFICE-BREACH"
+      ],
+      "tags": [
+        "ARTIST_SUPPORT",
+        "BOX_OFFICE"
+      ]
+    },
+    {
+      "id": "BF-TIX-2025-04-21-PAID-UPSELL",
+      "when": "2025-04-21T16:10:00",
+      "title": "Box Office introduces £30 upsell to enable ‘Free/Ticketed’",
+      "summary": "Mid-process fee to switch to ticketed reservations.",
+      "evidence": [
+        "EVID_2025-04-20_to_24_Working_Ticket_Link_Jo_Jarvie"
+      ],
+      "contradictions": [
+        "BF-CONTRA-BOXOFFICE-BREACH"
+      ],
+      "tags": [
+        "PROCESS_CHANGE",
+        "RISK_SHIFT"
+      ]
+    },
+    {
+      "id": "BF-TIX-2025-04-23-CAPACITY-UNTRACKABLE",
+      "when": "2025-04-23T10:43:00",
+      "title": "BF admits capacity untrackable for unticketed events",
+      "summary": "‘No way to track capacity… venue to judge when full.’",
+      "evidence": [
+        "EVID_2025-04-20_to_24_Working_Ticket_Link_Jo_Jarvie"
+      ],
+      "contradictions": [
+        "BF-CONTRA-BOXOFFICE-BREACH",
+        "BF-CONTRA-BROCHURE-MISREPRESENTATION-2025"
+      ],
+      "tags": [
+        "CAPACITY",
+        "SAFETY",
+        "PLI"
+      ]
+    }
+  ]
+}

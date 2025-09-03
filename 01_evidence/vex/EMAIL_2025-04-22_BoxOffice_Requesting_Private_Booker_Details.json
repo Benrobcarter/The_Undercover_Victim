@@ -1,0 +1,25 @@
+{
+  "id": "EMAIL_2025-04-22_BoxOffice_Requesting_Private_Booker_Details",
+  "title": "Email: Box Office Requests Private Booker Details",
+  "date": "2025-04-22",
+  "from": "Elin Eaton <boxoffice@brightonfringe.org>",
+  "to": "Half a Camel Productions <halfacamelproductions@gmail.com>",
+  "cc": [],
+  "subject": "External Booking Details",
+  "summary": "Brighton Fringe Box Office requested direct contact information for audience members who booked through Half A Camel's system. The request violated data protection principles and undermined venue control over its own bookings.",
+  "vex_tags": [
+    "BOX_OFFICE_REALLOCATION_FAILURE",
+    "VENUE_CUSTOMER_DATA_REQUESTED",
+    "GDPR_RISK_UNAUTHORISED_CONTACT",
+    "OPERATIONAL_BOUNDARY_CROSSING",
+    "VENUE_AUTONOMY_IGNORED"
+  ],
+  "attachments": [],
+  "related_contradictions": [
+    "BF_CONTRA_VENUE_BOXOFFICE_DATA_BREACH"
+  ],
+  "timeline_link": "t2_brighton_fringe_consequences#2025-04-22",
+  "status": "verified",
+  "source_type": "email",
+  "created_at": "2025-09-01T13:08:31.323335Z"
+}

@@ -1,0 +1,87 @@
+{
+  "chunk": 4,
+  "time_range": "3:30-4:30",
+  "quotes": [
+    {
+      "speaker": "Ben Carter",
+      "time": "3:30",
+      "quote": "Because without someone named, it feels like my case can just fall between the cracks.",
+      "tags": [
+        "victim_experience",
+        "risk",
+        "accountability"
+      ]
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "3:36",
+      "quote": "Yes, that’s exactly why I keep stressing it to them. It’s not acceptable.",
+      "tags": [
+        "advocacy",
+        "agreement"
+      ]
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "3:42",
+      "quote": "And if it falls between the cracks, that’s my safety at risk.",
+      "tags": [
+        "safeguarding",
+        "victim_experience",
+        "risk"
+      ]
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "3:48",
+      "quote": "I completely understand that, and I’ve highlighted it to them, but they haven’t given me a name yet.",
+      "tags": [
+        "advocacy",
+        "systemic_issue"
+      ]
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "3:55",
+      "quote": "Right, so they’re ignoring it.",
+      "tags": [
+        "contradiction",
+        "victim_perception"
+      ]
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "3:58",
+      "quote": "They haven’t responded with the detail, yes.",
+      "tags": [
+        "withholding_information",
+        "systemic_issue"
+      ]
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "4:04",
+      "quote": "That’s ignoring it.",
+      "tags": [
+        "victim_assertion",
+        "accountability"
+      ]
+    }
+  ],
+  "contradictions": [
+    {
+      "issue": "Ben highlights risk to safety if case falls between cracks; Emma concedes systemic failure but no resolution",
+      "type": "safeguarding_failure"
+    }
+  ],
+  "timeline_hooks": [
+    {
+      "ref": "lack of named officer",
+      "link": "Ongoing May 2025 accountability gap"
+    },
+    {
+      "ref": "risk to safety",
+      "link": "Safeguarding escalation required"
+    }
+  ]
+}

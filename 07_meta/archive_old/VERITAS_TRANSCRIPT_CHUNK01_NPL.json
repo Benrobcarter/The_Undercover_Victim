@@ -1,0 +1,106 @@
+{
+  "chunk": 1,
+  "time_range": "0:00-1:15",
+  "quotes": [
+    {
+      "speaker": "Ben Carter",
+      "time": "0:00",
+      "quote": "You said you were going to call back after the letter",
+      "tags": [
+        "follow_up",
+        "accountability"
+      ]
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "0:07",
+      "quote": "Yeah. So I've sent the letter... asked the sergeant for an update... the sergeant that chaired the multi agency meeting...",
+      "tags": [
+        "evidence",
+        "multi_agency",
+        "advocacy"
+      ]
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "0:31",
+      "quote": "What's his name?",
+      "tags": [
+        "accountability",
+        "seeking_information"
+      ]
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "0:35",
+      "quote": "This is a rotational place. Is the stalking unit, so I'll be chasing them again.",
+      "tags": [
+        "stalking_unit",
+        "vague_reference"
+      ]
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "0:43",
+      "quote": "What's the sergeant's name though?",
+      "tags": [
+        "accountability",
+        "police_contact"
+      ]
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "0:45",
+      "quote": "Oh, I don't—I will ask for her consent to share... I don't know if it would be appropriate...",
+      "tags": [
+        "withholding_information",
+        "consent_shielding"
+      ]
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "1:07",
+      "quote": "but?",
+      "tags": [
+        "confusion"
+      ]
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "1:09",
+      "quote": "You know,",
+      "tags": []
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "1:10",
+      "quote": "I",
+      "tags": []
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "1:10",
+      "quote": "in general, I'm waiting...",
+      "tags": [
+        "delay",
+        "advocacy_failure"
+      ]
+    }
+  ],
+  "contradictions": [
+    {
+      "issue": "Letter and sergeant update mentioned but sergeant's name withheld",
+      "type": "accountability_gap"
+    }
+  ],
+  "timeline_hooks": [
+    {
+      "ref": "letter",
+      "link": "Veritas correspondence ~late April/early May 2025"
+    },
+    {
+      "ref": "multi-agency meeting chaired by sergeant",
+      "link": "29 Apr 2025 Stalking Clinic"
+    }
+  ]
+}

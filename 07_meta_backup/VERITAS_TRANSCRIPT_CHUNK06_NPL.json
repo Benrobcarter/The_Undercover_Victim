@@ -1,0 +1,79 @@
+{
+  "chunk": 6,
+  "time_range": "5:30-6:30",
+  "quotes": [
+    {
+      "speaker": "Ben Carter",
+      "time": "5:30",
+      "quote": "It feels like I’m constantly having to fight just to get the basics logged.",
+      "tags": [
+        "victim_experience",
+        "systemic_failure",
+        "safeguarding"
+      ]
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "5:37",
+      "quote": "I know, and I do keep raising that point with them.",
+      "tags": [
+        "acknowledgement",
+        "advocacy"
+      ]
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "5:41",
+      "quote": "But it shouldn’t need me to push like this. That’s what you’re supposed to do as my advocate.",
+      "tags": [
+        "advocacy_expectation",
+        "victim_assertion"
+      ]
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "5:46",
+      "quote": "Yes, and I am, but the system is very slow.",
+      "tags": [
+        "advocacy",
+        "systemic_issue",
+        "delay"
+      ]
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "5:51",
+      "quote": "Slow isn’t an excuse when it’s my safety on the line.",
+      "tags": [
+        "safeguarding",
+        "victim_experience",
+        "risk"
+      ]
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "5:55",
+      "quote": "I understand, and I’ll continue pressing them.",
+      "tags": [
+        "acknowledgement",
+        "advocacy"
+      ]
+    }
+  ],
+  "contradictions": [
+    {
+      "issue": "Victim highlights advocate role vs. advocate deflects responsibility onto 'slow system'",
+      "type": "advocacy_failure"
+    }
+  ],
+  "timeline_hooks": [
+    {
+      "ref": "fight to get basics logged",
+      "link": "Ongoing failure to log case details"
+    },
+    {
+      "ref": "system slow excuse",
+      "link": "Systemic delay acknowledged by advocate"
+    }
+  ]
+}

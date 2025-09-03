@@ -1,0 +1,43 @@
+{
+  "id": "VENUE_MANAGER_CONTRACT_CLAUSE_ANCHORS_2025",
+  "source": "Brighton Fringe Managers Contract.txt",
+  "notes": "Direct contract excerpts mapped to sub-contradictions for provenance.",
+  "anchors": [
+    {
+      "clause_key": "COMMUNICATION_TIMELINESS",
+      "sub_contradiction_id": "BF-CONTRA-COMMUNICATION-DUTY-BREACH",
+      "quote": "Provide a direct email address (takepart@brightonfringe.org) and contact number (01273 764 907) and respond in a timely manner to questions. Brighton Fringe Ltd. and its staff endeavour to respond to phone and email communications within two working days outside of Fringe, and 24 hours during the festival (3 May–2 June 2024).",
+      "contract_section_hint": "Communications / Response time standard"
+    },
+    {
+      "clause_key": "BOARD_MINUTES_AND_UPDATES",
+      "sub_contradiction_id": "BF-CONTRA-BOARD-MINUTES-BREACH",
+      "quote": "Hold regular venue managers' meetings throughout the year both in-person and available online and send minutes of those meetings to all venues. The Chair will email each venue after each Board meeting with details of discussions and decisions and will keep venues informed of the direction Brighton Fringe is taking.",
+      "contract_section_hint": "Governance transparency / Minutes & Chair updates"
+    },
+    {
+      "clause_key": "PROMOTION_AND_MATERIALS",
+      "sub_contradiction_id": "BF-CONTRA-PROMOTIONAL-SUPPORT-BREACH",
+      "quote": "Promote Brighton Fringe in online and physical formats. In 2024 we will print a short run of listings for those who are digitally excluded, and a Family Guide for our print materials. Provide promotional material to help identify venues during the festival. Maintain and develop the Brighton Fringe website.",
+      "contract_section_hint": "Promotion, publicity, website & materials"
+    },
+    {
+      "clause_key": "BOX_OFFICE_DUTIES",
+      "sub_contradiction_id": "BF-CONTRA-BOXOFFICE-BREACH",
+      "quote": "Sell tickets on behalf of registered Brighton Fringe events at all participating venues via the Brighton Fringe Box Office. Reallocate ticket allocations upon request to a venue’s own box office where more than 30% allocation has been sold via the Brighton Fringe box office and the venue’s own box runs out of allocation. This will ensure that artists and venues maximize ticket sales. Pay out box office settlements no later than six weeks after the end of the festival.",
+      "contract_section_hint": "Box office allocations & settlement timeline"
+    },
+    {
+      "clause_key": "VENUE_SUPPORT_DIALOGUE",
+      "sub_contradiction_id": "BF-CONTRA-VENUE-SUPPORT-BREACH",
+      "quote": "Provide and maintain both The Brighton Fringe Networking Group and a venues’ specific Brighton Fringe Facebook group. Hold regular venue managers' meetings throughout the year both in-person and available online and send minutes of those meetings to all venues.",
+      "contract_section_hint": "Networking, groups, meetings & constructive dialogue"
+    },
+    {
+      "clause_key": "ACCESSIBILITY_AND_SUSTAINABILITY",
+      "sub_contradiction_id": "BF-CONTRA-ACCESSIBILITY-BREACH",
+      "quote": "Venues must aim to make their venue as accessible as possible. Venues must aim to reduce the environmental impact of the festival and encourage sustainability, in line with the Brighton Fringe Environmental Policy.",
+      "contract_section_hint": "Accessibility & sustainability commitments (venue-facing but reliant on data & support)"
+    }
+  ]
+}

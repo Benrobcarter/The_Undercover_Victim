@@ -1,0 +1,915 @@
+{
+  "source": "VERITAS_TRANSCRIPTS",
+  "chunks": [
+    {
+      "chunk": 40,
+      "time_range": "39:30-40:30",
+      "quotes": [
+        {
+          "speaker": "Ben Carter",
+          "time": "39:30",
+          "quote": "So if it\u2019s not logged, it\u2019s like it never happened, and I\u2019m left erased.",
+          "tags": [
+            "victim_experience",
+            "suicide_disclosure",
+            "erasure",
+            "safeguarding_failure"
+          ]
+        },
+        {
+          "speaker": "Emma Veritas",
+          "time": "39:36",
+          "quote": "I know, and I\u2019ve made clear that failing to log puts you at more risk.",
+          "tags": [
+            "acknowledgement",
+            "advocacy",
+            "safeguarding"
+          ]
+        },
+        {
+          "speaker": "Ben Carter",
+          "time": "39:41",
+          "quote": "More risk? It already put me at risk, because no one acted on it.",
+          "tags": [
+            "victim_experience",
+            "risk",
+            "safeguarding_gap"
+          ]
+        },
+        {
+          "speaker": "Emma Veritas",
+          "time": "39:46",
+          "quote": "You\u2019re right, it should have triggered immediate safeguarding steps.",
+          "tags": [
+            "acknowledgement",
+            "agreement",
+            "safeguarding"
+          ]
+        },
+        {
+          "speaker": "Ben Carter",
+          "time": "39:51",
+          "quote": "But it didn\u2019t, and I was left alone again.",
+          "tags": [
+            "victim_experience",
+            "isolation",
+            "safeguarding_failure"
+          ]
+        },
+        {
+          "speaker": "Emma Veritas",
+          "time": "39:56",
+          "quote": "I\u2019m sorry, Ben. That wasn\u2019t how it should have been handled.",
+          "tags": [
+            "acknowledgement",
+            "empathy",
+            "safeguarding"
+          ]
+        }
+      ],
+      "contradictions": [
+        {
+          "issue": "Suicide disclosure erased by lack of logging; advocate admits safeguarding should have triggered but didn\u2019t",
+          "type": "safeguarding_erasure"
+        }
+      ],
+      "timeline_hooks": [
+        {
+          "ref": "suicide disclosure erased",
+          "link": "Failure to log suicide risk Apr\u2013May 2025"
+        },
+        {
+          "ref": "left alone after disclosure",
+          "link": "Safeguarding collapse May 2025"
+        }
+      ]
+    },
+    {
+      "chunk": 41,
+      "time_range": "40:30-41:30",
+      "quotes": [
+        {
+          "speaker": "Ben Carter",
+          "time": "40:30",
+          "quote": "And when I\u2019m left alone like that, it makes me feel like they want me gone.",
+          "tags": [
+            "victim_experience",
+            "emotional_impact",
+            "suicide_risk"
+          ]
+        },
+        {
+          "speaker": "Emma Veritas",
+          "time": "40:36",
+          "quote": "I\u2019m so sorry you feel that way, Ben. That\u2019s not what should be happening.",
+          "tags": [
+            "acknowledgement",
+            "empathy",
+            "safeguarding"
+          ]
+        },
+        {
+          "speaker": "Ben Carter",
+          "time": "40:41",
+          "quote": "But it is what\u2019s happening. Their inaction says more than words.",
+          "tags": [
+            "victim_assertion",
+            "safeguarding_failure",
+            "institutional_failure"
+          ]
+        },
+        {
+          "speaker": "Emma Veritas",
+          "time": "40:46",
+          "quote": "I agree, and I\u2019ve told them inaction puts you at serious risk.",
+          "tags": [
+            "acknowledgement",
+            "advocacy",
+            "safeguarding"
+          ]
+        },
+        {
+          "speaker": "Ben Carter",
+          "time": "40:51",
+          "quote": "Yet they keep doing it. So how do I believe they care?",
+          "tags": [
+            "victim_experience",
+            "trust_issue",
+            "contradiction"
+          ]
+        },
+        {
+          "speaker": "Emma Veritas",
+          "time": "40:56",
+          "quote": "I understand, and I know it\u2019s hard to trust when actions don\u2019t match words.",
+          "tags": [
+            "acknowledgement",
+            "empathy",
+            "trust_issue"
+          ]
+        }
+      ],
+      "contradictions": [
+        {
+          "issue": "Victim perceives inaction as abandonment; advocate admits inaction creates risk but offers only sympathy",
+          "type": "safeguarding_abandonment"
+        }
+      ],
+      "timeline_hooks": [
+        {
+          "ref": "left alone interpreted as wanted gone",
+          "link": "Perceived institutional abandonment May 2025"
+        },
+        {
+          "ref": "inaction vs words",
+          "link": "Safeguarding contradiction May 2025"
+        }
+      ]
+    },
+    {
+      "chunk": 42,
+      "time_range": "41:30-42:30",
+      "quotes": [
+        {
+          "speaker": "Ben Carter",
+          "time": "41:30",
+          "quote": "It\u2019s hard not to think their silence is deliberate, like they want me to disappear.",
+          "tags": [
+            "victim_experience",
+            "silence",
+            "gaslighting",
+            "suicide_risk"
+          ]
+        },
+        {
+          "speaker": "Emma Veritas",
+          "time": "41:36",
+          "quote": "I can\u2019t say it\u2019s deliberate, but I understand why you\u2019d feel that way.",
+          "tags": [
+            "deflection",
+            "acknowledgement",
+            "neutral_response"
+          ]
+        },
+        {
+          "speaker": "Ben Carter",
+          "time": "41:41",
+          "quote": "Because silence is an answer. It tells me I don\u2019t matter.",
+          "tags": [
+            "victim_experience",
+            "silence",
+            "erasure"
+          ]
+        },
+        {
+          "speaker": "Emma Veritas",
+          "time": "41:46",
+          "quote": "You do matter, Ben, and I\u2019ve told them their silence isn\u2019t acceptable.",
+          "tags": [
+            "acknowledgement",
+            "advocacy",
+            "empathy"
+          ]
+        },
+        {
+          "speaker": "Ben Carter",
+          "time": "41:51",
+          "quote": "Not acceptable is too weak. Silence kills.",
+          "tags": [
+            "victim_assertion",
+            "safeguarding",
+            "suicide_risk"
+          ]
+        },
+        {
+          "speaker": "Emma Veritas",
+          "time": "41:56",
+          "quote": "You\u2019re right, it can be very dangerous.",
+          "tags": [
+            "acknowledgement",
+            "agreement",
+            "safeguarding"
+          ]
+        }
+      ],
+      "contradictions": [
+        {
+          "issue": "Victim frames silence as deliberate erasure; advocate deflects intent but admits silence is dangerous",
+          "type": "silence_and_safeguarding_failure"
+        }
+      ],
+      "timeline_hooks": [
+        {
+          "ref": "silence is an answer",
+          "link": "Institutional silence pattern May 2025"
+        },
+        {
+          "ref": "silence kills",
+          "link": "Safeguarding escalation through non-response"
+        }
+      ]
+    },
+    {
+      "chunk": 43,
+      "time_range": "42:30-43:30",
+      "quotes": [
+        {
+          "speaker": "Ben Carter",
+          "time": "42:30",
+          "quote": "Dangerous isn\u2019t strong enough. It\u2019s lethal when you ignore suicidality.",
+          "tags": [
+            "victim_experience",
+            "suicide_disclosure",
+            "safeguarding_failure"
+          ]
+        },
+        {
+          "speaker": "Emma Veritas",
+          "time": "42:36",
+          "quote": "You\u2019re right, it is life-threatening, and I\u2019ve made that clear to them.",
+          "tags": [
+            "acknowledgement",
+            "agreement",
+            "safeguarding"
+          ]
+        },
+        {
+          "speaker": "Ben Carter",
+          "time": "42:41",
+          "quote": "But still no action followed, so what good is making it clear?",
+          "tags": [
+            "victim_assertion",
+            "accountability_gap",
+            "risk"
+          ]
+        },
+        {
+          "speaker": "Emma Veritas",
+          "time": "42:46",
+          "quote": "I know, and I wish I could give you the action you need.",
+          "tags": [
+            "acknowledgement",
+            "empathy",
+            "advocacy_gap"
+          ]
+        },
+        {
+          "speaker": "Ben Carter",
+          "time": "42:51",
+          "quote": "Wishing isn\u2019t safeguarding. Acting is.",
+          "tags": [
+            "victim_assertion",
+            "safeguarding_gap",
+            "accountability"
+          ]
+        },
+        {
+          "speaker": "Emma Veritas",
+          "time": "42:56",
+          "quote": "You\u2019re right, Ben. It should have been acted on straight away.",
+          "tags": [
+            "acknowledgement",
+            "agreement",
+            "safeguarding"
+          ]
+        }
+      ],
+      "contradictions": [
+        {
+          "issue": "Victim states ignoring suicidality is lethal; advocate concedes but admits no action was taken",
+          "type": "suicidality_safeguarding_failure"
+        }
+      ],
+      "timeline_hooks": [
+        {
+          "ref": "ignoring suicidality lethal",
+          "link": "Critical safeguarding failure Apr\u2013May 2025"
+        },
+        {
+          "ref": "making it clear vs no action",
+          "link": "Institutional safeguarding gap"
+        }
+      ]
+    },
+    {
+      "chunk": 44,
+      "time_range": "43:30-44:30",
+      "quotes": [
+        {
+          "speaker": "Ben Carter",
+          "time": "43:30",
+          "quote": "So when they didn\u2019t act on my suicide disclosure, that\u2019s neglect of duty.",
+          "tags": [
+            "victim_experience",
+            "suicide_disclosure",
+            "safeguarding_failure",
+            "accountability"
+          ]
+        },
+        {
+          "speaker": "Emma Veritas",
+          "time": "43:36",
+          "quote": "Yes, it should have triggered safeguarding protocol immediately.",
+          "tags": [
+            "acknowledgement",
+            "agreement",
+            "safeguarding"
+          ]
+        },
+        {
+          "speaker": "Ben Carter",
+          "time": "43:41",
+          "quote": "But it didn\u2019t, so I was left at risk again.",
+          "tags": [
+            "victim_experience",
+            "safeguarding_gap",
+            "risk"
+          ]
+        },
+        {
+          "speaker": "Emma Veritas",
+          "time": "43:46",
+          "quote": "I know, Ben, and I\u2019m sorry you were left in that position.",
+          "tags": [
+            "acknowledgement",
+            "empathy",
+            "safeguarding"
+          ]
+        },
+        {
+          "speaker": "Ben Carter",
+          "time": "43:51",
+          "quote": "Sorry doesn\u2019t undo the risk. It proves they don\u2019t follow their own laws.",
+          "tags": [
+            "victim_assertion",
+            "legal_basis",
+            "safeguarding_failure"
+          ]
+        },
+        {
+          "speaker": "Emma Veritas",
+          "time": "43:56",
+          "quote": "You\u2019re right, it shows a serious failing.",
+          "tags": [
+            "acknowledgement",
+            "agreement",
+            "systemic_failure"
+          ]
+        }
+      ],
+      "contradictions": [
+        {
+          "issue": "Suicide disclosure should have triggered safeguarding but did not; advocate concedes serious failing",
+          "type": "safeguarding_protocol_failure"
+        }
+      ],
+      "timeline_hooks": [
+        {
+          "ref": "suicide disclosure neglect of duty",
+          "link": "Failure to follow safeguarding law Apr\u2013May 2025"
+        },
+        {
+          "ref": "proves they don\u2019t follow laws",
+          "link": "Legal safeguarding breach"
+        }
+      ]
+    },
+    {
+      "chunk": 45,
+      "time_range": "44:30-45:30",
+      "quotes": [
+        {
+          "speaker": "Ben Carter",
+          "time": "44:30",
+          "quote": "And if they ignore the law on suicide safeguarding, what else are they ignoring?",
+          "tags": [
+            "victim_experience",
+            "safeguarding_failure",
+            "legal_basis",
+            "trust_issue"
+          ]
+        },
+        {
+          "speaker": "Emma Veritas",
+          "time": "44:36",
+          "quote": "That\u2019s a fair question, and it\u2019s why I\u2019ve raised governance concerns too.",
+          "tags": [
+            "acknowledgement",
+            "advocacy",
+            "governance"
+          ]
+        },
+        {
+          "speaker": "Ben Carter",
+          "time": "44:41",
+          "quote": "Raised isn\u2019t the same as enforcing. Laws are meant to be followed, not optional.",
+          "tags": [
+            "victim_assertion",
+            "accountability",
+            "legal_basis"
+          ]
+        },
+        {
+          "speaker": "Emma Veritas",
+          "time": "44:46",
+          "quote": "I know, and I\u2019ve said to them it\u2019s mandatory, not optional.",
+          "tags": [
+            "acknowledgement",
+            "agreement",
+            "safeguarding"
+          ]
+        },
+        {
+          "speaker": "Ben Carter",
+          "time": "44:51",
+          "quote": "But they still treated it like it was optional, and I was left unprotected.",
+          "tags": [
+            "victim_experience",
+            "safeguarding_gap",
+            "risk"
+          ]
+        },
+        {
+          "speaker": "Emma Veritas",
+          "time": "44:56",
+          "quote": "You\u2019re right, Ben, and I can\u2019t defend that.",
+          "tags": [
+            "acknowledgement",
+            "agreement",
+            "safeguarding_failure"
+          ]
+        }
+      ],
+      "contradictions": [
+        {
+          "issue": "Suicide safeguarding treated as optional law; advocate concedes mandatory but no enforcement",
+          "type": "legal_and_safeguarding_failure"
+        }
+      ],
+      "timeline_hooks": [
+        {
+          "ref": "laws treated as optional",
+          "link": "Safeguarding legal breach Apr\u2013May 2025"
+        },
+        {
+          "ref": "victim left unprotected",
+          "link": "Failure to enforce safeguarding law"
+        }
+      ]
+    },
+    {
+      "chunk": 46,
+      "time_range": "45:30-46:30",
+      "quotes": [
+        {
+          "speaker": "Ben Carter",
+          "time": "45:30",
+          "quote": "So when the law is ignored, and I\u2019m left unsafe, that\u2019s not just failure, that\u2019s abuse.",
+          "tags": [
+            "victim_experience",
+            "safeguarding_failure",
+            "legal_basis",
+            "institutional_abuse"
+          ]
+        },
+        {
+          "speaker": "Emma Veritas",
+          "time": "45:36",
+          "quote": "I understand, and I\u2019ve said the impact on you is unacceptable.",
+          "tags": [
+            "acknowledgement",
+            "advocacy",
+            "impact"
+          ]
+        },
+        {
+          "speaker": "Ben Carter",
+          "time": "45:41",
+          "quote": "Unacceptable doesn\u2019t stop it. Calling it abuse is accurate.",
+          "tags": [
+            "victim_assertion",
+            "institutional_abuse",
+            "accountability"
+          ]
+        },
+        {
+          "speaker": "Emma Veritas",
+          "time": "45:46",
+          "quote": "I can\u2019t label it that, but I see how you experience it that way.",
+          "tags": [
+            "deflection",
+            "acknowledgement",
+            "neutral_response"
+          ]
+        },
+        {
+          "speaker": "Ben Carter",
+          "time": "45:51",
+          "quote": "It\u2019s not just my experience. It\u2019s the reality of being left at risk by those with a duty.",
+          "tags": [
+            "victim_experience",
+            "safeguarding_gap",
+            "legal_basis"
+          ]
+        },
+        {
+          "speaker": "Emma Veritas",
+          "time": "45:56",
+          "quote": "You\u2019re right, Ben. Being left at risk isn\u2019t defensible.",
+          "tags": [
+            "acknowledgement",
+            "agreement",
+            "safeguarding"
+          ]
+        }
+      ],
+      "contradictions": [
+        {
+          "issue": "Victim frames ignored law as abuse; advocate refuses to label it abuse but concedes it\u2019s indefensible",
+          "type": "institutional_abuse_contradiction"
+        }
+      ],
+      "timeline_hooks": [
+        {
+          "ref": "ignored law = abuse",
+          "link": "Safeguarding breach reframed as institutional abuse Apr\u2013May 2025"
+        },
+        {
+          "ref": "left unsafe by duty holders",
+          "link": "Failure of duty of care May 2025"
+        }
+      ]
+    },
+    {
+      "chunk": 47,
+      "time_range": "46:30-47:30",
+      "quotes": [
+        {
+          "speaker": "Ben Carter",
+          "time": "46:30",
+          "quote": "If I did this to someone else, I\u2019d be arrested. But when they do it to me, nothing happens.",
+          "tags": [
+            "victim_experience",
+            "accountability",
+            "double_standard",
+            "institutional_abuse"
+          ]
+        },
+        {
+          "speaker": "Emma Veritas",
+          "time": "46:36",
+          "quote": "You\u2019re right, Ben. There is a clear double standard.",
+          "tags": [
+            "acknowledgement",
+            "agreement",
+            "systemic_failure"
+          ]
+        },
+        {
+          "speaker": "Ben Carter",
+          "time": "46:41",
+          "quote": "So they\u2019re above the law while I\u2019m left suffering.",
+          "tags": [
+            "victim_experience",
+            "accountability_gap",
+            "institutional_failure"
+          ]
+        },
+        {
+          "speaker": "Emma Veritas",
+          "time": "46:46",
+          "quote": "I agree, that\u2019s how it looks, and it\u2019s deeply unfair.",
+          "tags": [
+            "acknowledgement",
+            "agreement",
+            "empathy"
+          ]
+        },
+        {
+          "speaker": "Ben Carter",
+          "time": "46:51",
+          "quote": "It\u2019s not just unfair, it\u2019s unlawful.",
+          "tags": [
+            "victim_assertion",
+            "legal_basis",
+            "institutional_abuse"
+          ]
+        },
+        {
+          "speaker": "Emma Veritas",
+          "time": "46:56",
+          "quote": "Yes, I understand, and I\u2019ll keep raising it in those terms.",
+          "tags": [
+            "acknowledgement",
+            "advocacy",
+            "accountability"
+          ]
+        }
+      ],
+      "contradictions": [
+        {
+          "issue": "Victim highlights double standard (arrest if reversed); advocate concedes unfair/unlawful but only raises it without remedy",
+          "type": "institutional_double_standard"
+        }
+      ],
+      "timeline_hooks": [
+        {
+          "ref": "double standard not arrested if reversed",
+          "link": "Accountability contradiction May 2025"
+        },
+        {
+          "ref": "above the law vs unlawful",
+          "link": "Institutional abuse contradiction"
+        }
+      ]
+    },
+    {
+      "chunk": 48,
+      "time_range": "47:30-48:30",
+      "quotes": [
+        {
+          "speaker": "Ben Carter",
+          "time": "47:30",
+          "quote": "So they commit unlawful acts against me, and instead of safeguarding, I get excuses.",
+          "tags": [
+            "victim_experience",
+            "institutional_abuse",
+            "safeguarding_failure",
+            "accountability"
+          ]
+        },
+        {
+          "speaker": "Emma Veritas",
+          "time": "47:36",
+          "quote": "You\u2019re right, Ben, excuses don\u2019t equal safeguarding.",
+          "tags": [
+            "acknowledgement",
+            "agreement",
+            "safeguarding"
+          ]
+        },
+        {
+          "speaker": "Ben Carter",
+          "time": "47:41",
+          "quote": "Excuses prove they know they\u2019re wrong, otherwise they wouldn\u2019t need them.",
+          "tags": [
+            "victim_assertion",
+            "contradiction",
+            "institutional_failure"
+          ]
+        },
+        {
+          "speaker": "Emma Veritas",
+          "time": "47:46",
+          "quote": "That\u2019s a fair point, and I\u2019ve told them accountability matters here.",
+          "tags": [
+            "acknowledgement",
+            "advocacy",
+            "accountability"
+          ]
+        },
+        {
+          "speaker": "Ben Carter",
+          "time": "47:51",
+          "quote": "But still, nothing changes and I\u2019m left at risk.",
+          "tags": [
+            "victim_experience",
+            "safeguarding_gap",
+            "risk"
+          ]
+        },
+        {
+          "speaker": "Emma Veritas",
+          "time": "47:56",
+          "quote": "I know, and I\u2019ll keep pressing them, but I understand that\u2019s not enough.",
+          "tags": [
+            "acknowledgement",
+            "advocacy_gap",
+            "safeguarding"
+          ]
+        }
+      ],
+      "contradictions": [
+        {
+          "issue": "Victim highlights unlawful acts + excuses instead of safeguarding; advocate concedes but admits pressing isn\u2019t enough",
+          "type": "safeguarding_and_accountability_failure"
+        }
+      ],
+      "timeline_hooks": [
+        {
+          "ref": "excuses vs safeguarding",
+          "link": "Safeguarding contradiction May 2025"
+        },
+        {
+          "ref": "unlawful acts against victim",
+          "link": "Institutional abuse May 2025"
+        }
+      ]
+    },
+    {
+      "chunk": 49,
+      "time_range": "48:30-49:30",
+      "quotes": [
+        {
+          "speaker": "Ben Carter",
+          "time": "48:30",
+          "quote": "So every time I\u2019m left at risk, it proves safeguarding doesn\u2019t exist for me.",
+          "tags": [
+            "victim_experience",
+            "safeguarding_failure",
+            "institutional_abuse"
+          ]
+        },
+        {
+          "speaker": "Emma Veritas",
+          "time": "48:36",
+          "quote": "I understand, Ben, and I\u2019ve told them that safeguarding must apply equally.",
+          "tags": [
+            "acknowledgement",
+            "advocacy",
+            "safeguarding"
+          ]
+        },
+        {
+          "speaker": "Ben Carter",
+          "time": "48:41",
+          "quote": "But it hasn\u2019t, and that makes me an exception to the law.",
+          "tags": [
+            "victim_assertion",
+            "legal_basis",
+            "discrimination"
+          ]
+        },
+        {
+          "speaker": "Emma Veritas",
+          "time": "48:46",
+          "quote": "You\u2019re right, it hasn\u2019t been applied equally in your case.",
+          "tags": [
+            "acknowledgement",
+            "agreement",
+            "safeguarding"
+          ]
+        },
+        {
+          "speaker": "Ben Carter",
+          "time": "48:51",
+          "quote": "So I\u2019m excluded from rights everyone else has.",
+          "tags": [
+            "victim_experience",
+            "rights_violation",
+            "discrimination"
+          ]
+        },
+        {
+          "speaker": "Emma Veritas",
+          "time": "48:56",
+          "quote": "I know, and that\u2019s deeply wrong.",
+          "tags": [
+            "acknowledgement",
+            "agreement",
+            "safeguarding_failure"
+          ]
+        }
+      ],
+      "contradictions": [
+        {
+          "issue": "Victim excluded from safeguarding rights; advocate admits inequality but no correction",
+          "type": "safeguarding_rights_failure"
+        }
+      ],
+      "timeline_hooks": [
+        {
+          "ref": "safeguarding doesn\u2019t exist",
+          "link": "Exclusion from safeguarding system May 2025"
+        },
+        {
+          "ref": "exception to the law",
+          "link": "Discriminatory safeguarding gap"
+        }
+      ]
+    },
+    {
+      "chunk": 50,
+      "time_range": "49:30-50:30",
+      "quotes": [
+        {
+          "speaker": "Ben Carter",
+          "time": "49:30",
+          "quote": "If I\u2019m excluded from rights, then that\u2019s systemic discrimination.",
+          "tags": [
+            "victim_experience",
+            "rights_violation",
+            "discrimination",
+            "institutional_failure"
+          ]
+        },
+        {
+          "speaker": "Emma Veritas",
+          "time": "49:36",
+          "quote": "You\u2019re right, Ben, it is systemic when applied unequally.",
+          "tags": [
+            "acknowledgement",
+            "agreement",
+            "systemic_failure"
+          ]
+        },
+        {
+          "speaker": "Ben Carter",
+          "time": "49:41",
+          "quote": "Systemic means it\u2019s not just mistakes, it\u2019s the whole structure failing me.",
+          "tags": [
+            "victim_assertion",
+            "systemic_failure",
+            "accountability"
+          ]
+        },
+        {
+          "speaker": "Emma Veritas",
+          "time": "49:46",
+          "quote": "I agree, and I\u2019ve raised that as a governance concern too.",
+          "tags": [
+            "acknowledgement",
+            "advocacy",
+            "governance"
+          ]
+        },
+        {
+          "speaker": "Ben Carter",
+          "time": "49:51",
+          "quote": "Governance concern isn\u2019t protection. I need safeguarding, not concern.",
+          "tags": [
+            "victim_experience",
+            "safeguarding_gap",
+            "accountability"
+          ]
+        },
+        {
+          "speaker": "Emma Veritas",
+          "time": "49:56",
+          "quote": "You\u2019re right, Ben. You should have been safeguarded properly from the start.",
+          "tags": [
+            "acknowledgement",
+            "agreement",
+            "safeguarding_failure"
+          ]
+        }
+      ],
+      "contradictions": [
+        {
+          "issue": "Victim excluded from rights = systemic discrimination; advocate admits governance concern but no safeguarding delivered",
+          "type": "systemic_discrimination_failure"
+        }
+      ],
+      "timeline_hooks": [
+        {
+          "ref": "systemic discrimination",
+          "link": "Structural safeguarding failure May 2025"
+        },
+        {
+          "ref": "governance concern vs safeguarding",
+          "link": "Governance vs duty to protect contradiction"
+        }
+      ]
+    }
+  ]
+}

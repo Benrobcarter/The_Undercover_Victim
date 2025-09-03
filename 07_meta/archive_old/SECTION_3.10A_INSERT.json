@@ -1,0 +1,14 @@
+{
+  "id": "3.10A",
+  "title": "Crime Reference Confusion (25 May 2025 – 101)",
+  "summary": "Live attempt to establish which crime reference maps to which stalking allegation; reveals contradictory dates and dual officer assignment.",
+  "vex_tags": [
+    "RECORD_INTEGRITY",
+    "ACCESS_BARRIER",
+    "DEATH_BY_SILENCE"
+  ],
+  "evidence_refs": [
+    "25-05-25_101_CrimeRef_Confusion_Transcript.txt",
+    "25-05-25_101_CrimeRef_Confusion_Audio.mp3"
+  ]
+}

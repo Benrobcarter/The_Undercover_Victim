@@ -1,0 +1,114 @@
+{
+  "meta": {
+    "evidence_id": "SAR_BF_2025-06-24_BoardMeeting_PreDecision",
+    "thread_subject": "Board Meeting to discuss Half a Camel Involvement in Brighton Fringe 2025",
+    "organisation": "Brighton Fringe Ltd",
+    "source_type": "email_thread",
+    "timezone": "Europe/London",
+    "created_by": "GPT-5 Thinking",
+    "created_at": "2025-09-01T01:24:50.356458+01:00"
+  },
+  "emails": [
+    {
+      "timestamp_local": "2025-06-24 10:01",
+      "from": "Confidential <confidential@brightonfringe.org>",
+      "to": [
+        "halfacamelproductions@gmail.com",
+        "Ben Carter <benrobcarter@gmail.com>"
+      ],
+      "subject": "Board Meeting to discuss Half a Camel Involvement in Brighton Fringe 2025",
+      "body_summary": "Brighton Fringe informs Ben that trustees are considering whether Half a Camel should remain a partner; lists alleged failures and invites representations by 13 July 2025.",
+      "sar_assessment": {
+        "is_sar": false,
+        "reason": "Outgoing notice of alleged breaches. Does not request access to Ben Carter's personal data."
+      }
+    },
+    {
+      "timestamp_local": "2025-06-24 14:36",
+      "from": "Ben Carter <benrobcarter@gmail.com>",
+      "to": [
+        "Confidential <confidential@brightonfringe.org>"
+      ],
+      "cc": [
+        "halfacamelproductions@gmail.com"
+      ],
+      "subject": "Re: Board Meeting to discuss Half a Camel Involvement in Brighton Fringe 2025",
+      "body_summary": "Ben asks whether matters were reported to authorities and requests the specific evidence underlying the allegations to allow a meaningful response.",
+      "sar_assessment": {
+        "is_sar": true,
+        "scope": [
+          "All personal data about Ben Carter contained in 'conversations and emails from artists' and internal communications relied upon by the board",
+          "Any records citing Ben Carter personally in relation to alleged GDPR breaches, contractual matters, or conduct",
+          "Processing particulars: purposes, categories, recipients, sources, retention where applicable"
+        ],
+        "deadline_1_month_due": "2025-07-24",
+        "notes": "A SAR can be informal; request for the specific evidence about Ben qualifies as a request for his personal data (opinions and allegations about a person are personal data). Data solely about the company may fall outside scope unless it identifies Ben personally."
+      }
+    },
+    {
+      "timestamp_local": "2025-06-25 15:09",
+      "from": "Confidential <confidential@brightonfringe.org>",
+      "to": [
+        "Ben Carter <benrobcarter@gmail.com>"
+      ],
+      "cc": [
+        "halfacamelproductions@gmail.com"
+      ],
+      "subject": "Re: Board Meeting to discuss Half a Camel Involvement in Brighton Fringe 2025",
+      "body_summary": "Fringe replies in-line: not reporting to regulators; frames issues as contract; lists categories of evidence (artist conversations/emails incl. data sharing consent concerns, Free Ticketed decisions, filming promises, venue hire charges).",
+      "sar_assessment": {
+        "is_response": true,
+        "compliance": "non_compliant_partial",
+        "reason": "Provides descriptions of categories but not copies/access to Ben's personal data. Must provide his personal data with third-party redactions or a meaningful extract within one month."
+      }
+    },
+    {
+      "timestamp_local": "2025-06-25 15:30",
+      "from": "Ben Carter <benrobcarter@gmail.com>",
+      "to": [
+        "Confidential <confidential@brightonfringe.org>"
+      ],
+      "subject": "Re: Board Meeting to discuss Half a Camel Involvement in Brighton Fringe 2025",
+      "body_summary": "Short closing line ('I’m not to read it Duncan, you do what you like x').",
+      "sar_assessment": {
+        "is_followup": true,
+        "notes": "No change to SAR scope."
+      }
+    }
+  ],
+  "legal": {
+    "ico_guidance": [
+      {
+        "point": "A SAR can be made verbally or in writing; no set words needed.",
+        "citation": "ICO — Recognising a SAR"
+      },
+      {
+        "point": "One-month to respond; extension up to two further months if complex, with reasons.",
+        "citation": "ICO — Time limits for responding"
+      },
+      {
+        "point": "Opinions and allegations about a person are that person’s personal data; third-party data may be redacted.",
+        "citation": "ICO — What is personal data / Third-party information"
+      }
+    ]
+  },
+  "vex": {
+    "tags": [
+      "DPA_GDPR",
+      "SAR_STRUCTURAL_ABSENCE",
+      "RECORDS_AUDIT",
+      "INSTITUTIONAL_GASLIGHTING",
+      "DEATH_BY_SILENCE"
+    ],
+    "contradictions": [
+      "BF-CONTRA-SAR-GDPR-BREACH-2025",
+      "BF-CONTRA-NO-RECORD-OF-ALLEGATIONS-2025"
+    ]
+  },
+  "timeline": {
+    "sar_received_date": "2025-06-24",
+    "deadline_due": "2025-07-24",
+    "status": "partial_description_only",
+    "notes": "Fringe listed categories but did not disclose copies/extracts of Ben Carter’s personal data. Follow-up notice and ICO-ready summary required."
+  }
+}

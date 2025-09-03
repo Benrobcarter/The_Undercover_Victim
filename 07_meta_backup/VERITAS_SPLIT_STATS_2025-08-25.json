@@ -1,0 +1,12 @@
+{
+  "created": "2025-08-25T04:12:10.097853Z",
+  "counts": {
+    "uids_total": 545,
+    "clash_expanded_items": 545,
+    "clash_links_items": 3,
+    "clash_report_items": 3,
+    "assertions_items": 545
+  },
+  "assertions_total": 545,
+  "with_clashes": 13
+}

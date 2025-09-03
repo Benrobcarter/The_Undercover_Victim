@@ -1,0 +1,126 @@
+{
+  "meta": {
+    "evidence_id": "VEX_2025-04-06_Suicide_Disclosure_Not_Logged",
+    "title": "06-04-2025 — Suicide Attempt Disclosed from Hospital; Not Logged Until 17-04-2025",
+    "created_at": "2025-08-26T01:24:09.587020Z",
+    "type": "Safeguarding / recording failure (police case management)",
+    "date_local": "2025-04-06",
+    "parties": [
+      "Ben Carter",
+      "Sussex Police (OIC PC Jon Dixon; supervisors Sgt Duffy, Insp Palmer)"
+    ],
+    "clusters": [
+      "MASTER_COMPLAINT",
+      "SUSSEX_POLICE",
+      "SUICIDE_LOGGING_DELAY",
+      "DEATH_BY_SILENCE",
+      "TIMELINE_SYNTHESIS"
+    ],
+    "legal_mapping": [
+      "Victims’ Code — Right to be kept informed; to be treated with respect and sensitivity",
+      "ECHR Article 2 — operational duty to take reasonable steps to safeguard life",
+      "College of Policing (stalking/harassment; vulnerable victims) — accurate recording & follow-up"
+    ],
+    "status": "pending_sourcing",
+    "source_hint": "Master Complaint — Table 1; Timeline 1.4",
+    "undated_policy": "ok_date_present",
+    "version": "1.0.0"
+  },
+  "claim_summary": "On 06-04-2025, from hospital, the victim disclosed a suicide attempt to the officer in charge. The incident was not entered on police systems until 17-04-2025, during a period when the OIC and both supervisors were on leave. No timely safeguarding actions or welfare check are recorded in the interim.",
+  "police_position": {
+    "oic": "PC Jon Dixon",
+    "supervisors": [
+      "Sgt Duffy",
+      "Insp Palmer"
+    ],
+    "recording_date": "2025-04-17 (as later confirmed in call)",
+    "interim_actions_recorded": "None evidenced pending sourcing",
+    "advice_given": "Call 999 for immediate danger (per 101 guidance)"
+  },
+  "contradictions": [
+    {
+      "code": "SUICIDE_LOG_DELAY",
+      "claim": "Suicide attempt disclosed on 06-04-2025 was only logged on 17-04-2025.",
+      "impact": [
+        "Safeguarding delay during acute risk window",
+        "Breach of accurate/timely recording duties",
+        "Grounds for supervisory/PSD review and IOPC referral consideration"
+      ]
+    },
+    {
+      "code": "HOLIDAY_ALIBI_CHAIN_GAP",
+      "claim": "OIC and supervisors were simultaneously on leave during the critical period.",
+      "impact": [
+        "Continuity gap; escalation bottleneck; unmanaged risk"
+      ]
+    },
+    {
+      "code": "NO_WELFARE_CHECK_RECORDED",
+      "claim": "No welfare check or proactive contact recorded between 06–17 April.",
+      "impact": [
+        "Victims’ Code concern; operational safeguarding lapse"
+      ]
+    }
+  ],
+  "key_quotes": [
+    {
+      "ref": "/mnt/data/28_04_25_Sussex_Police_Complaints_Department.txt",
+      "quote_idxs": [
+        14,
+        15
+      ],
+      "note": "Complaints call confirms suicide on 06-04 and log entry on 17-04."
+    },
+    {
+      "ref": "/mnt/data/VEX_2025-04-17_0432_101_Holiday_Alibi_REBUILT.json",
+      "quote_idxs": [
+        5,
+        6,
+        8,
+        10,
+        12
+      ],
+      "note": "101 call shows status confusion and chain-on-leave context."
+    }
+  ],
+  "timeline_hooks": [
+    {
+      "when": "2025-04-06T00:00:00",
+      "tag": "SUICIDE_ATTEMPT",
+      "note": "Suicide attempt disclosed from hospital to police (OIC)."
+    },
+    {
+      "when": "2025-04-17T00:00:00",
+      "tag": "SUICIDE_LOGGED",
+      "note": "Incident first appears as logged on system."
+    }
+  ],
+  "sourcing_queue": [
+    {
+      "prio": 1,
+      "need": "Hospital disclosure evidence (call note/email/SMS) with timestamp",
+      "target": "email/SMS/call record"
+    },
+    {
+      "prio": 2,
+      "need": "NICHE/Storm/CAD extract showing first log date/time & any actions",
+      "target": "system export"
+    },
+    {
+      "prio": 3,
+      "need": "Welfare check records (if any) or explicit absence",
+      "target": "CAD/NICHE entries"
+    },
+    {
+      "prio": 4,
+      "need": "OOO/roster artefacts covering OIC/supervisors leave window",
+      "target": "OOO emails/rostering"
+    }
+  ],
+  "links": {
+    "related_vex": [
+      "/mnt/data/VEX_2025-04-28_Sussex_Police_Complaints_Department_Call.json",
+      "/mnt/data/VEX_2025-04-17_0432_101_Holiday_Alibi_REBUILT.json"
+    ]
+  }
+}

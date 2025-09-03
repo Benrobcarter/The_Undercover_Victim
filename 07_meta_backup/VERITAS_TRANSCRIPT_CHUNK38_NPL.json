@@ -1,0 +1,82 @@
+{
+  "chunk": 38,
+  "time_range": "37:30-38:30",
+  "quotes": [
+    {
+      "speaker": "Ben Carter",
+      "time": "37:30",
+      "quote": "Negligence isn’t just words, it’s a crime when it puts someone’s life at risk.",
+      "tags": [
+        "victim_experience",
+        "safeguarding_failure",
+        "legal_basis"
+      ]
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "37:36",
+      "quote": "I understand, and I’ve made it clear it could have serious consequences if ignored.",
+      "tags": [
+        "acknowledgement",
+        "advocacy",
+        "risk"
+      ]
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "37:41",
+      "quote": "Could? It already has. I’ve already been suicidal over this.",
+      "tags": [
+        "victim_experience",
+        "suicide_disclosure",
+        "safeguarding"
+      ]
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "37:46",
+      "quote": "I know, and I’m so sorry you’ve been through that.",
+      "tags": [
+        "acknowledgement",
+        "empathy",
+        "safeguarding"
+      ]
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "37:51",
+      "quote": "Sorry doesn’t fix it. Action does, and still no action.",
+      "tags": [
+        "victim_assertion",
+        "accountability_gap",
+        "safeguarding_failure"
+      ]
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "37:56",
+      "quote": "I hear you, Ben, and I’ll keep pressing that point.",
+      "tags": [
+        "acknowledgement",
+        "advocacy",
+        "deflection"
+      ]
+    }
+  ],
+  "contradictions": [
+    {
+      "issue": "Victim highlights negligence as crime and discloses suicidality; advocate offers sympathy but no safeguarding action",
+      "type": "safeguarding_failure_and_suicide_disclosure"
+    }
+  ],
+  "timeline_hooks": [
+    {
+      "ref": "negligence crime risk",
+      "link": "Potential criminal negligence safeguarding breach May 2025"
+    },
+    {
+      "ref": "suicidal disclosure",
+      "link": "Critical safeguarding duty breach"
+    }
+  ]
+}

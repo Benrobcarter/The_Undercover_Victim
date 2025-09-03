@@ -1,0 +1,24 @@
+{
+  "manifest_name": "TACTICAL_TANGENT_MANIFEST_2025-06-07",
+  "generated_on": "2025-06-07",
+  "files_included": [
+    {
+      "filename": "TACTICAL_TANGENT_MANIFEST_2025-06-07.txt",
+      "description": "Human-readable description of the tangent archive structure"
+    },
+    {
+      "filename": "manifest.json",
+      "description": "Machine-readable structured manifest"
+    }
+  ],
+  "themes": [
+    "Alice Wright Tangents",
+    "Death By Silence",
+    "Brighton Fringe Safeguarding Failures"
+  ],
+  "linked_jsons": [
+    "COMBINED_TANGENT_PROMPTS.json",
+    "COMBINED_TANGENT_PROMPTS_2_AliceWright_DeathBySilence.json",
+    "DEATH_BY_SILENCE_TANGENT_BRIGHTON_FRINGE.json"
+  ]
+}

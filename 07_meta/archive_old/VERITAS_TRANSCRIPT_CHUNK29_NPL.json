@@ -1,0 +1,81 @@
+{
+  "chunk": 29,
+  "time_range": "28:30-29:30",
+  "quotes": [
+    {
+      "speaker": "Ben Carter",
+      "time": "28:30",
+      "quote": "If they keep repeating the same failures, at some point it stops being a mistake.",
+      "tags": [
+        "victim_experience",
+        "pattern",
+        "institutional_failure"
+      ]
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "28:36",
+      "quote": "I understand, and that’s why I’ve kept stressing it to them as a pattern.",
+      "tags": [
+        "acknowledgement",
+        "advocacy",
+        "systemic_issue"
+      ]
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "28:41",
+      "quote": "Pattern is just another word for intent when it harms me every time.",
+      "tags": [
+        "victim_assertion",
+        "gaslighting",
+        "risk"
+      ]
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "28:47",
+      "quote": "I can’t label intent, but I can highlight that the effect is harmful.",
+      "tags": [
+        "deflection",
+        "acknowledgement",
+        "impact"
+      ]
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "28:52",
+      "quote": "Exactly. Impact matters more than what they claim their intent is.",
+      "tags": [
+        "victim_experience",
+        "impact_over_intent",
+        "safeguarding"
+      ]
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "28:57",
+      "quote": "I agree, and I’ve told them that as well.",
+      "tags": [
+        "acknowledgement",
+        "advocacy"
+      ]
+    }
+  ],
+  "contradictions": [
+    {
+      "issue": "Victim equates repeated failures with intent; advocate avoids intent but concedes harmful impact",
+      "type": "systemic_failure_and_gaslighting"
+    }
+  ],
+  "timeline_hooks": [
+    {
+      "ref": "pattern equals intent",
+      "link": "Evidence of institutional gaslighting May 2025"
+    },
+    {
+      "ref": "impact over intent",
+      "link": "Safeguarding breach through repeated harmful effects"
+    }
+  ]
+}

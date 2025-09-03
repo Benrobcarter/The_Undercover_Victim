@@ -1,0 +1,82 @@
+{
+  "chunk": 49,
+  "time_range": "48:30-49:30",
+  "quotes": [
+    {
+      "speaker": "Ben Carter",
+      "time": "48:30",
+      "quote": "So every time I’m left at risk, it proves safeguarding doesn’t exist for me.",
+      "tags": [
+        "victim_experience",
+        "safeguarding_failure",
+        "institutional_abuse"
+      ]
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "48:36",
+      "quote": "I understand, Ben, and I’ve told them that safeguarding must apply equally.",
+      "tags": [
+        "acknowledgement",
+        "advocacy",
+        "safeguarding"
+      ]
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "48:41",
+      "quote": "But it hasn’t, and that makes me an exception to the law.",
+      "tags": [
+        "victim_assertion",
+        "legal_basis",
+        "discrimination"
+      ]
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "48:46",
+      "quote": "You’re right, it hasn’t been applied equally in your case.",
+      "tags": [
+        "acknowledgement",
+        "agreement",
+        "safeguarding"
+      ]
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "48:51",
+      "quote": "So I’m excluded from rights everyone else has.",
+      "tags": [
+        "victim_experience",
+        "rights_violation",
+        "discrimination"
+      ]
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "48:56",
+      "quote": "I know, and that’s deeply wrong.",
+      "tags": [
+        "acknowledgement",
+        "agreement",
+        "safeguarding_failure"
+      ]
+    }
+  ],
+  "contradictions": [
+    {
+      "issue": "Victim excluded from safeguarding rights; advocate admits inequality but no correction",
+      "type": "safeguarding_rights_failure"
+    }
+  ],
+  "timeline_hooks": [
+    {
+      "ref": "safeguarding doesn’t exist",
+      "link": "Exclusion from safeguarding system May 2025"
+    },
+    {
+      "ref": "exception to the law",
+      "link": "Discriminatory safeguarding gap"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "chunk": 25,
+  "time_range": "24:30-25:30",
+  "quotes": [
+    {
+      "speaker": "Ben Carter",
+      "time": "24:30",
+      "quote": "So when they delete or lose my evidence, who’s accountable for that?",
+      "tags": [
+        "accountability",
+        "evidence_loss",
+        "victim_experience"
+      ]
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "24:36",
+      "quote": "That’s supposed to be the officer in charge, but it hasn’t been clear.",
+      "tags": [
+        "acknowledgement",
+        "police_accountability",
+        "systemic_issue"
+      ]
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "24:42",
+      "quote": "Exactly. If no one’s accountable, then it keeps happening.",
+      "tags": [
+        "victim_assertion",
+        "systemic_failure",
+        "contradiction"
+      ]
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "24:47",
+      "quote": "I know, and I’ve said they need to name who’s responsible for evidence handling.",
+      "tags": [
+        "advocacy",
+        "accountability",
+        "documentation"
+      ]
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "24:53",
+      "quote": "But they won’t, will they?",
+      "tags": [
+        "victim_experience",
+        "distrust"
+      ]
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "24:55",
+      "quote": "Not so far, no.",
+      "tags": [
+        "acknowledgement",
+        "systemic_failure"
+      ]
+    }
+  ],
+  "contradictions": [
+    {
+      "issue": "Officer in charge meant to be accountable for evidence, yet no named responsibility ever provided",
+      "type": "accountability_gap"
+    }
+  ],
+  "timeline_hooks": [
+    {
+      "ref": "officer in charge accountability missing",
+      "link": "Evidence handling chain gap"
+    },
+    {
+      "ref": "no accountability leads to repeat losses",
+      "link": "Systemic failure May 2025"
+    }
+  ]
+}

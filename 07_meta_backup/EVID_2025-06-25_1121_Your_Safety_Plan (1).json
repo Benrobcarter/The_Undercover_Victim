@@ -1,0 +1,65 @@
+{
+  "id": "EVID_2025-06-25_1121_Your_Safety_Plan",
+  "filename_original": "25 June 2025 at 11-21 - Your Safety Plan.pdf",
+  "filename_suggested": "EVID_2025-06-25_1121_Your_Safety_Plan.pdf",
+  "file_path": "/mnt/data/25 June 2025 at 11-21 - Your Safety Plan.pdf",
+  "file_mime_type": "application/pdf",
+  "title": "Your Safety Plan",
+  "date_iso": "2025-06-25T11:21:00+01:00",
+  "timezone": "Europe/London",
+  "undated_flag": false,
+  "evidence_type": "safety_plan",
+  "vex_tags": [
+    "SAFETY_PLAN",
+    "EXTERNAL_ANCHOR",
+    "VICTIMS_CODE"
+  ],
+  "new_tag_definitions": {
+    "SAFETY_PLAN": "Personal safety or support plan created by a support service.",
+    "EXTERNAL_ANCHOR": "Third‑party document that independently confirms state, risk, or actions."
+  },
+  "contradictions": [],
+  "timeline_hooks": [
+    "ExternalConfirmations"
+  ],
+  "legal_refs": [
+    "VictimsCode"
+  ],
+  "related_case_refs": [
+    "47240141246",
+    "47240214305",
+    "CIT1201684"
+  ],
+  "death_by_silence_metrics": {
+    "duty_to_act_date": null,
+    "elapsed_days": null
+  },
+  "ocr_text_path": "/mnt/data/EVID_2025-06-25_1121_Your_Safety_Plan.txt",
+  "status": "new",
+  "notes": "Auto-generated evidence stub; ready for OCR and sentence-level VEX once text is extracted.",
+  "attachments": [
+    {
+      "id": "EVID_2025-06-25_1121_Safety_Plan_BC",
+      "filename_original": "Safety Plan BC .pdf",
+      "filename_suggested": "EVID_2025-06-25_1121_Safety_Plan_BC.pdf",
+      "file_mime_type": "application/pdf",
+      "path": "/mnt/data/Safety Plan BC .pdf",
+      "vex_tags": [
+        "EMAIL_ATTACHMENT",
+        "SAFETY_PLAN"
+      ],
+      "description": "Safety Plan attached to the 11:21 email."
+    },
+    {
+      "id": "EVID_2025-06-25_1121_image_tiff",
+      "filename_original": "image.tiff",
+      "vex_tags": [
+        "EMAIL_ATTACHMENT"
+      ]
+    }
+  ],
+  "child_attachment_ids": [
+    "EVID_2025-06-25_1121_Safety_Plan_BC"
+  ],
+  "parsed_email_id": "EMAIL_2025-06-25_1121_Veritas_EmmaJones_Your_Safety_Plan"
+}

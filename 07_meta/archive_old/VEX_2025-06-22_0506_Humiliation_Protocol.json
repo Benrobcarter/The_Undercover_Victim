@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "title": "The Humiliation Protocol \u2014 101 Call Gaslighting Sequence",
+    "date_created": "2025-06-22",
+    "vex_id": "VEX_2025-06-22_0506_Humiliation_Protocol",
+    "related_calls": [
+      "22-06-25_05:06 \u2013 101 Call: \"It's Just Getting Embarrassing Now\".txt"
+    ],
+    "status": "contradiction_node",
+    "bundle_type": "standalone_contradiction",
+    "linked_bundles": [],
+    "generated_utc": "2025-08-26T20:55:00Z"
+  },
+  "quotes": [
+    {
+      "quote": "You're talking to me now. So you're not dead, are you?",
+      "source": "Section 3.17 - The Humiliation Protocol Call.docx",
+      "type": "transcript_extracted",
+      "tags": [
+        "SUICIDE_DISCLOSURE_DISMISSED",
+        "INSTITUTIONAL_GASLIGHTING",
+        "SAFEGUARDING_DUTY_FAILED"
+      ]
+    },
+    {
+      "quote": "I'm not a ghost. That was insulting.",
+      "source": "Section 3.17 - The Humiliation Protocol Call.docx",
+      "type": "transcript_extracted",
+      "tags": [
+        "VICTIM_ASSERTION",
+        "PSYCHOLOGICAL_ABUSE",
+        "INSTITUTIONAL_GASLIGHTING"
+      ]
+    },
+    {
+      "quote": "You don\u2019t get to quote that and then\u2026 get exactly what you want.",
+      "source": "Section 3.17 - The Humiliation Protocol Call.docx",
+      "type": "transcript_extracted",
+      "tags": [
+        "VICTIMS_CODE_BREACH",
+        "RETALIATORY_SAFEGUARDING_DENIAL",
+        "POWER_DYNAMICS_MANIPULATION"
+      ]
+    },
+    {
+      "quote": "There\u2019s no outstanding case. \u2014 despite crime ref 47240141246 being open, stalking disclosed, and no outcome provided.",
+      "source": "Section 3.17 - The Humiliation Protocol Call.docx",
+      "type": "transcript_extracted",
+      "tags": [
+        "CASE_STATUS_MANIPULATION",
+        "REPORTING_OBSTRUCTED",
+        "IOPC_OBSTRUCTION"
+      ]
+    },
+    {
+      "quote": "I\u2019ve called 45 times since April 6th.",
+      "source": "Section 3.17 - The Humiliation Protocol Call.docx",
+      "type": "transcript_extracted",
+      "tags": [
+        "COMMUNICATION_SUPPRESSION",
+        "RECORDS_MISSING",
+        "DEATH_BY_SILENCE"
+      ]
+    }
+  ],
+  "evidence_links": [
+    {
+      "type": "transcript",
+      "file": "Section 3.17 - The Humiliation Protocol Call.docx",
+      "summary": "Full transcript and breakdown of 05:06 101 call where Sussex Police dismiss a suicide disclosure, deny Victims\u2019 Code rights, and contradict active case status \u2014 confirming a pattern of gaslighting and silencing through 'polite' humiliation."
+    }
+  ],
+  "contradictions": [
+    "SUICIDE_DISCLOSURE_DISMISSED",
+    "INSTITUTIONAL_GASLIGHTING",
+    "SAFEGUARDING_DUTY_FAILED",
+    "VICTIMS_CODE_BREACH",
+    "POWER_DYNAMICS_MANIPULATION",
+    "CASE_STATUS_MANIPULATION",
+    "REPORTING_OBSTRUCTED",
+    "IOPC_OBSTRUCTION",
+    "COMMUNICATION_SUPPRESSION",
+    "RECORDS_MISSING",
+    "DEATH_BY_SILENCE"
+  ],
+  "timeline_hooks": [
+    "CrowbarringMyselfJustice",
+    "DeathBySilence",
+    "IOPC_Escalation",
+    "SussexPolice"
+  ],
+  "emotional_tone": "humiliated_resolve"
+}

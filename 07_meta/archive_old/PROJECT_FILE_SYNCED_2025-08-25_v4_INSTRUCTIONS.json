@@ -1,0 +1,27 @@
+{
+  "project_name": "PROJECT_FILE_SYNCED",
+  "version": "v4",
+  "date": "2025-08-25",
+  "bundle": "PROJECT_FILE_SYNCED_2025-08-25_v4_FULL_SKELETON.zip",
+  "manifest": "04_manifest/PROJECT_FILE_SYNCED_2025-08-25_manifest_clean.json",
+  "audit_report": "unified_audit_report_v4_2025-08-25.json",
+  "structure": {
+    "01_evidence": [
+      "timelines",
+      "crosswalks",
+      "sussex_police"
+    ],
+    "02_contradictions": [],
+    "03_printable_reports": [],
+    "04_manifest": [],
+    "05_scripts": [],
+    "06_meta": [
+      "audits"
+    ],
+    "07_public": [],
+    "08_supporting": [],
+    "09_divi_layouts": []
+  },
+  "sha256": "fe9b58c1a67377453aebc425a1b732f0d5ebbccd6e566bbe59d0fd313149028d",
+  "notes": "Instruction JSON for interpreting the project zip. Use manifest inside for file-level details."
+}

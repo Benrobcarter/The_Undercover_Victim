@@ -1,0 +1,46 @@
+{
+  "meta": {
+    "evidence_id": "EVID_2024-12-10_Cordell_Email_701211",
+    "created_at": "2025-08-25T23:38:00.993456Z",
+    "source_file_name": "3.43_ The December Email_ A Time Capsule of Systemic Chaos (10 December 2024).txt",
+    "source_path": "/mnt/data/3.43_ The December Email_ A Time Capsule of Systemic Chaos (10 December 2024).txt",
+    "assumed_date_flag": false,
+    "date": "2024-12-10",
+    "parties": [
+      "Ben Carter",
+      "Cordell & Co (Carolyn Whiting)"
+    ],
+    "type": "Analysis write-up (non-evidence)",
+    "clusters": [
+      "CRIME_REF_47240214305_THREAD",
+      "DEATH_BY_SILENCE",
+      "LOST_EVIDENCE_SUSSEX_POLICE",
+      "INJURY_CLAIM_IMPACT",
+      "COURSE_OF_CONDUCT_TIMELINE_MISMATCH"
+    ],
+    "legal_mapping": [
+      "Victims’ Code — clear, consistent updates to victims",
+      "DPA 2018 (Part 3) — accuracy & record integrity"
+    ],
+    "is_evidence": false,
+    "deprecated": true,
+    "superseded_by": "ANALYSIS_3.43_DECEMBER_EMAIL_2024-12-10"
+  },
+  "summary": "Email to solicitor uses legacy ref 701211 and explains surgery cancellation due to stalking risk and police-driven confusion.",
+  "key_points": [
+    "Legacy reference 701211 used in good faith to be precise about July events.",
+    "Demonstrates fractured investigation and lack of a single reliable case file.",
+    "Links stalking risk + police mismanagement to tangible harm (surgery cancellation) and civil-claim impact."
+  ],
+  "quotes": [
+    {
+      "quote": "I decided I couldn't have an operation which involved me being bed bound for months.",
+      "speaker": "Ben Carter",
+      "note": "Shows direct health and civil-claim impact from unresolved stalking and lack of safeguarding."
+    }
+  ],
+  "links": {
+    "paired_with": "EVID_2024-12-12_to_19_Cordell_EmailThread_Re_converstion"
+  },
+  "updated_at": "2025-08-25T23:43:15.345613Z"
+}

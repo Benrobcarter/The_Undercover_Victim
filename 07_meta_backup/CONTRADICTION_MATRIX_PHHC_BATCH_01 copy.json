@@ -1,0 +1,91 @@
+{
+  "source": "PHHC_EMAILS_COMBINED_FULL",
+  "generated_on": "2025-06-08T08:14:20.000794Z",
+  "contradictions": [
+    {
+      "id": "EX_PHHC_SUICIDE_DISCLOSURE_IGNORED",
+      "date": "2024-03-18",
+      "evidence": "EMAIL_PHHC_2024-03-18_SUICIDE_ESCALATION_IOPC.json",
+      "summary": "Suicide risk disclosure via 101 call was not logged or acted upon. Escalated to IOPC.",
+      "breach_tags": [
+        "suicide_disclosure",
+        "police_inaction",
+        "safeguarding_failure",
+        "iopc_escalation"
+      ],
+      "timeline_refs": [
+        "PHHC_SMART_TIMELINE",
+        "SUICIDE_DISCLOSURE_TRACK",
+        "DEATH_BY_SILENCE"
+      ]
+    },
+    {
+      "id": "EX_PHHC_STALKING_CALL_DELAY_SUICIDE_RISK",
+      "date": "2024-03-20",
+      "evidence": "EMAIL_PHHC_2024-03-20_STALKING_DELAY_DISCLOSURE.json",
+      "summary": "Police took 7 days to return a suicidal stalking complaint despite follow-up calls.",
+      "breach_tags": [
+        "police_inaction",
+        "delay_reporting",
+        "suicide_disclosure",
+        "safeguarding_failure"
+      ],
+      "timeline_refs": [
+        "PHHC_SMART_TIMELINE",
+        "DEATH_BY_SILENCE",
+        "SAFEGUARDING_BREACHES"
+      ]
+    },
+    {
+      "id": "EX_PHHC_EVIDENCE_LOGGING_UNCONFIRMED",
+      "date": "2024-03-23",
+      "evidence": "EMAIL_PHHC_2024-03-23_STATEMENT_SUPPORT_REQUEST.json",
+      "summary": "Medical statement and support evidence submitted without confirmation it was logged.",
+      "breach_tags": [
+        "duty_to_log",
+        "evidence_submission",
+        "case_file_integrity",
+        "emotional_cost"
+      ],
+      "timeline_refs": [
+        "PHHC_SMART_TIMELINE",
+        "EVIDENCE_SUPPRESSION",
+        "INSTITUTIONAL_ALIGNMENT"
+      ]
+    },
+    {
+      "id": "EX_PHHC_CALL_RECORDINGS_SAFEGUARDING_OMISSION",
+      "date": "2024-03-27",
+      "evidence": "EMAIL_PHHC_2024-03-27_CALL_RECORDINGS_SAFEGUARDING.json",
+      "summary": "Call recordings with suicide disclosure sent for safeguarding review; review unconfirmed.",
+      "breach_tags": [
+        "audio_evidence",
+        "safeguarding_failure",
+        "suppression_concern",
+        "accountability_request"
+      ],
+      "timeline_refs": [
+        "PHHC_SMART_TIMELINE",
+        "EVIDENCE_SUPPRESSION",
+        "SUICIDE_DISCLOSURE_TRACK"
+      ]
+    },
+    {
+      "id": "EX_PHHC_EVIDENCE_SENT_MULTIPLE_TIMES_NOT_LOGGED",
+      "date": "2024-03-28",
+      "evidence": "EMAIL_PHHC_2024-03-28_EVIDENCE_RESUBMISSION.json",
+      "summary": "Evidence link submitted three times with no confirmation; case file tracking failure.",
+      "breach_tags": [
+        "duty_to_log",
+        "repeated_neglect",
+        "safeguarding_failure",
+        "burnout"
+      ],
+      "timeline_refs": [
+        "PHHC_SMART_TIMELINE",
+        "EVIDENCE_SUPPRESSION",
+        "DEATH_BY_SILENCE"
+      ]
+    }
+  ]
+}

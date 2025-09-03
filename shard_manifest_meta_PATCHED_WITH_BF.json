@@ -1,0 +1,883 @@
+{
+  "shard_name": "shard_manifest_meta",
+  "created_at": "2025-08-26T01:39:24.489141Z",
+  "source_stage": "PROJECT_FILE_SYNCED_2025-08-26_v5",
+  "items": [
+    {
+      "meta": {
+        "path": "/mnt/data/PROJECT_FILE_SYNCED_2025-08-26_v5/04_manifest/MASTER_INDEX_2025-08-26.json",
+        "name": "MASTER_INDEX_2025-08-26.json",
+        "size": 18165,
+        "sha256": "827087e07d10cf6bb60d0743c756b9d1c4d5668bfe9cf42db94eda7442c3041d",
+        "suffix": ".json"
+      },
+      "type": "json",
+      "content": {
+        "meta": {
+          "generated_at": "2025-08-26T00:53:24.799404Z",
+          "scope": "Project glue index of VEX/EVID/ANALYSIS/CONTRADICTIONS/TIMELINE files",
+          "count": 22
+        },
+        "items": [
+          {
+            "path": "/mnt/data/VEX_2025-03_to_04_PC_Dixon_WhatsApp_A09.json",
+            "kind": "vex",
+            "id": null,
+            "title": "VEX_2025-03_to_04_PC_Dixon_WhatsApp_A09.json",
+            "date_local": null,
+            "time_local": null,
+            "date_range": null,
+            "clusters": [
+              "WHATSAPP_THREAD",
+              "DEATH_BY_SILENCE",
+              "CRIME_REF_47240214305_THREAD"
+            ],
+            "status": null,
+            "source": {
+              "file": "_chat 39.txt",
+              "path": null
+            },
+            "undated_policy": null,
+            "assumed_date_flag": false,
+            "created_at": null
+          },
+          {
+            "path": "/mnt/data/VEX_2025-07-04_St_Johns_Front_Desk_Liz (3).json",
+            "kind": "vex",
+            "id": null,
+            "title": "VEX_2025-07-04_St_Johns_Front_Desk_Liz (3).json",
+            "date_local": null,
+            "time_local": null,
+            "date_range": null,
+            "clusters": [
+              "CRIME_REF_47240214305_THREAD",
+              "CROWBARRING_MYSELF_JUSTICE",
+              "DEATH_BY_SILENCE",
+              "FRONT_DESK_CORROBORATION",
+              "HOLIDAY_ALIBI",
+              "LOST_EVIDENCE_SUSSEX_POLICE"
+            ],
+            "status": null,
+            "source": {
+              "file": "4 July 2025 (Two Interactions).txt",
+              "path": null
+            },
+            "undated_policy": null,
+            "assumed_date_flag": true,
+            "created_at": "2025-08-25T22:31:20.258500Z"
+          },
+          {
+            "path": "/mnt/data/VEX_2025-03_to_05_Veritas_EmmaJones_WhatsApp_A10.json",
+            "kind": "vex",
+            "id": null,
+            "title": "VEX_2025-03_to_05_Veritas_EmmaJones_WhatsApp_A10.json",
+            "date_local": null,
+            "time_local": null,
+            "date_range": null,
+            "clusters": [
+              "WHATSAPP_THREAD",
+              "DEATH_BY_SILENCE",
+              "VERITAS_SUPPORT"
+            ],
+            "status": null,
+            "source": {
+              "file": "_chat 34.txt",
+              "path": null
+            },
+            "undated_policy": null,
+            "assumed_date_flag": false,
+            "created_at": null
+          },
+          {
+            "path": "/mnt/data/VEX_2025-04-17_0432_101_Holiday_Alibi (2).json",
+            "kind": "vex",
+            "id": null,
+            "title": "VEX_2025-04-17_0432_101_Holiday_Alibi (2).json",
+            "date_local": null,
+            "time_local": null,
+            "date_range": null,
+            "clusters": [
+              "CRIME_REF_47240214305_THREAD",
+              "CROWBARRING_MYSELF_JUSTICE",
+              "DEATH_BY_SILENCE",
+              "HOLIDAY_ALIBI",
+              "LOST_EVIDENCE_SUSSEX_POLICE"
+            ],
+            "status": null,
+            "source": {
+              "file": "17-04-25–04.32_101_Call_Holiday_Alibi (1).txt",
+              "path": null
+            },
+            "undated_policy": null,
+            "assumed_date_flag": false,
+            "created_at": "2025-08-25T22:31:20.222414Z"
+          },
+          {
+            "path": "/mnt/data/EVID_2024-12-10_Cordell_Email_701211.json",
+            "kind": "evidence",
+            "id": "EVID_2024-12-10_Cordell_Email_701211",
+            "title": "EVID_2024-12-10_Cordell_Email_701211.json",
+            "date_local": null,
+            "time_local": null,
+            "date_range": null,
+            "clusters": [
+              "CRIME_REF_47240214305_THREAD",
+              "DEATH_BY_SILENCE",
+              "LOST_EVIDENCE_SUSSEX_POLICE",
+              "INJURY_CLAIM_IMPACT",
+              "COURSE_OF_CONDUCT_TIMELINE_MISMATCH"
+            ],
+            "status": null,
+            "source": {
+              "file": "3.43_ The December Email_ A Time Capsule of Systemic Chaos (10 December 2024).txt",
+              "path": "/mnt/data/3.43_ The December Email_ A Time Capsule of Systemic Chaos (10 December 2024).txt"
+            },
+            "undated_policy": null,
+            "assumed_date_flag": false,
+            "created_at": "2025-08-25T23:38:00.993456Z"
+          },
+          {
+            "path": "/mnt/data/EVID_2024-12-12_to_19_Cordell_EmailThread_Re_converstion.json",
+            "kind": "evidence",
+            "id": "EVID_2024-12-12_to_19_Cordell_EmailThread_Re_converstion",
+            "title": "EVID_2024-12-12_to_19_Cordell_EmailThread_Re_converstion.json",
+            "date_local": null,
+            "time_local": null,
+            "date_range": {
+              "start": "2024-12-12",
+              "end": "2024-12-19"
+            },
+            "clusters": [
+              "CRIME_REF_47240214305_THREAD",
+              "INJURY_CLAIM_IMPACT",
+              "DEATH_BY_SILENCE"
+            ],
+            "status": null,
+            "source": {
+              "file": "10_12_24 15-19_701211 - Re converstion.pdf",
+              "path": "/mnt/data/10_12_24 15-19_701211 - Re converstion.pdf"
+            },
+            "undated_policy": null,
+            "assumed_date_flag": false,
+            "created_at": "2025-08-25T23:38:00.993456Z"
+          },
+          {
+            "path": "/mnt/data/ANALYSIS_3.43_DECEMBER_EMAIL_2024-12-10.json",
+            "kind": "analysis",
+            "id": "ANALYSIS_3.43_DECEMBER_EMAIL_2024-12-10",
+            "title": "3.43: The December Email: A Time Capsule of Systemic Chaos (10 December 2024)",
+            "date_local": null,
+            "time_local": null,
+            "date_range": null,
+            "clusters": [
+              "CRIME_REF_47240214305_THREAD",
+              "DEATH_BY_SILENCE",
+              "LOST_EVIDENCE_SUSSEX_POLICE",
+              "INJURY_CLAIM_IMPACT",
+              "COURSE_OF_CONDUCT_TIMELINE_MISMATCH"
+            ],
+            "status": "draft",
+            "source": {
+              "file": "3.43_ The December Email_ A Time Capsule of Systemic Chaos (10 December 2024).txt",
+              "path": "/mnt/data/3.43_ The December Email_ A Time Capsule of Systemic Chaos (10 December 2024).txt"
+            },
+            "undated_policy": null,
+            "assumed_date_flag": false,
+            "created_at": "2025-08-25T23:43:15.345613Z"
+          },
+          {
+            "path": "/mnt/data/VEX_2025-03_to_05_Veritas_Ortiz_WhatsApp_A10.json",
+            "kind": "vex",
+            "id": null,
+            "title": "VEX_2025-03_to_05_Veritas_Ortiz_WhatsApp_A10.json",
+            "date_local": null,
+            "time_local": null,
+            "date_range": null,
+            "clusters": [
+              "WHATSAPP_THREAD",
+              "DEATH_BY_SILENCE",
+              "VERITAS_SUPPORT"
+            ],
+            "status": null,
+            "source": {
+              "file": "_chat 34.txt",
+              "path": null
+            },
+            "undated_policy": null,
+            "assumed_date_flag": false,
+            "created_at": null
+          },
+          {
+            "path": "/mnt/data/MASTER_COMPLAINT_VEX_2025-08-25.json",
+            "kind": "master_vex",
+            "id": "MASTER_COMPLAINT_VEX",
+            "title": "Master Complaint — Sussex Police & Brighton Fringe",
+            "date_local": null,
+            "time_local": null,
+            "date_range": null,
+            "clusters": [
+              "MASTER_COMPLAINT",
+              "SUSSEX_POLICE",
+              "BRIGHTON_FRINGE",
+              "VERITAS_SUPPORT",
+              "VRR_NFA",
+              "DEATH_BY_SILENCE",
+              "TIMELINE_SYNTHESIS"
+            ],
+            "status": "1.0.0",
+            "source": {
+              "file": null,
+              "path": null
+            },
+            "undated_policy": null,
+            "assumed_date_flag": false,
+            "created_at": "2025-08-25T23:55:51.694727Z"
+          },
+          {
+            "path": "/mnt/data/VEX_2025-04-17_0432_101_Holiday_Alibi_REBUILT.json",
+            "kind": "vex",
+            "id": "VEX_2025-04-17_0432_101_Holiday_Alibi_REBUILT",
+            "title": "17-04-25 04:32 — 101 Call: “Who Do I Speak To If Everyone’s on Holiday?”",
+            "date_local": "2025-04-17",
+            "time_local": "04:32",
+            "date_range": null,
+            "clusters": [
+              "HOLIDAY_ALIBI",
+              "DEATH_BY_SILENCE",
+              "CRIME_REF_47240214305_THREAD",
+              "TIMELINE_SYNTHESIS",
+              "VRR_NFA"
+            ],
+            "status": null,
+            "source": {
+              "file": "17-04-25–04.32_101_Call_“The Holiday Alibi_.docx.txt",
+              "path": "/mnt/data/17-04-25–04.32_101_Call_“The Holiday Alibi_.docx.txt"
+            },
+            "undated_policy": "ok_date_present",
+            "assumed_date_flag": false,
+            "created_at": "2025-08-26T00:07:29.884347Z"
+          },
+          {
+            "path": "/mnt/data/VEX_2024-11-07_Dixon_Deletion_Log.json",
+            "kind": "vex",
+            "id": "VEX_2024-11-07_Dixon_Deletion_Log",
+            "title": "07-11-2024 — PC Jon Dixon ‘Listened/Deleted’ Evidence Log",
+            "date_local": "2024-11-07",
+            "time_local": null,
+            "date_range": null,
+            "clusters": [
+              "MASTER_COMPLAINT",
+              "SUSSEX_POLICE",
+              "LOST_EVIDENCE_SUSSEX_POLICE",
+              "EVIDENCE_HANDLING_BREACH",
+              "TIMELINE_SYNTHESIS"
+            ],
+            "status": "pending_sourcing",
+            "source": {
+              "file": null,
+              "path": null
+            },
+            "undated_policy": "ok_date_present",
+            "assumed_date_flag": false,
+            "created_at": "2025-08-26T00:11:06.587661Z"
+          },
+          {
+            "path": "/mnt/data/VEX_2025-02-12_Dixon_GDPR_Forward_PaulDouble.json",
+            "kind": "vex",
+            "id": "VEX_2025-02-12_Dixon_GDPR_Forward_PaulDouble",
+            "title": "12-02-2025 — Forwarded Unredacted Internal Email incl. Third‑Party Data (Paul Double)",
+            "date_local": "2025-02-12",
+            "time_local": null,
+            "date_range": null,
+            "clusters": [
+              "MASTER_COMPLAINT",
+              "SUSSEX_POLICE",
+              "GDPR_BREACH",
+              "TIMELINE_SYNTHESIS"
+            ],
+            "status": "pending_sourcing",
+            "source": {
+              "file": null,
+              "path": null
+            },
+            "undated_policy": "ok_date_present",
+            "assumed_date_flag": false,
+            "created_at": "2025-08-26T00:14:54.897427Z"
+          },
+          {
+            "path": "/mnt/data/VEX_2025-03_HomeVisit_No_BWV.json",
+            "kind": "vex",
+            "id": "VEX_2025-03_HomeVisit_No_BWV",
+            "title": "March 2025 — Home Visit to Take Statement (Body‑Worn Video not activated)",
+            "date_local": "2025-03-01",
+            "time_local": null,
+            "date_range": null,
+            "clusters": [
+              "MASTER_COMPLAINT",
+              "SUSSEX_POLICE",
+              "BWV_POLICY_BREACH",
+              "TIMELINE_SYNTHESIS"
+            ],
+            "status": "pending_sourcing",
+            "source": {
+              "file": null,
+              "path": null
+            },
+            "undated_policy": "ok_date_present",
+            "assumed_date_flag": false,
+            "created_at": "2025-08-26T00:16:34.586882Z"
+          },
+          {
+            "path": "/mnt/data/VEX_2025-04-28_Sussex_Police_Complaints_Department_Call.json",
+            "kind": "vex",
+            "id": "VEX_2025-04-28_Sussex_Police_Complaints_Department_Call",
+            "title": "28-04-2025 — Call with Sussex Police Complaints Department",
+            "date_local": "2025-04-28",
+            "time_local": null,
+            "date_range": null,
+            "clusters": [
+              "MASTER_COMPLAINT",
+              "SUSSEX_POLICE",
+              "DEATH_BY_SILENCE",
+              "HOLIDAY_ALIBI",
+              "CRIME_REF_47240214305_THREAD",
+              "VRR_NFA",
+              "SUICIDE_LOGGING_DELAY"
+            ],
+            "status": "1.0.0",
+            "source": {
+              "file": "28_04_25_Sussex_Police_Complaints_Department.txt",
+              "path": "/mnt/data/28_04_25_Sussex_Police_Complaints_Department.txt"
+            },
+            "undated_policy": "ok_date_present",
+            "assumed_date_flag": false,
+            "created_at": "2025-08-26T00:24:09.487562Z"
+          },
+          {
+            "path": "/mnt/data/ANALYSIS_101_InfoSec_Vulnerabilities_SussexPolice_2025-08-26.json",
+            "kind": "analysis",
+            "id": "ANALYSIS_101_INFOSEC_VULN_2025-08-26",
+            "title": "An Analysis of Information Security Vulnerabilities in the Sussex Police 101 Non‑Emergency Call Handling System",
+            "date_local": null,
+            "time_local": null,
+            "date_range": null,
+            "clusters": [
+              "SUSSEX_POLICE",
+              "INFOSEC_VULNERABILITIES",
+              "VICTIMS_CODE_LEVERAGE",
+              "DEATH_BY_SILENCE",
+              "VRR_NFA",
+              "CRIME_REF_47240214305_THREAD"
+            ],
+            "status": "draft",
+            "source": {
+              "file": "An Analysis of Information Security Vulnerabilities in the Sussex Police 101 Non-Emergency Call Handling System.pdf",
+              "path": "/mnt/data/An Analysis of Information Security Vulnerabilities in the Sussex Police 101 Non-Emergency Call Handling System.pdf"
+            },
+            "undated_policy": null,
+            "assumed_date_flag": false,
+            "created_at": "2025-08-26T00:41:49.835223Z"
+          },
+          {
+            "path": "/mnt/data/VEX_2025-05-16_101_Social_Engineering_Pending.json",
+            "kind": "vex",
+            "id": "VEX_2025-05-16_101_Social_Engineering",
+            "title": "16-05-2025 — 101 Call (Social‑Engineering Method) — Pending Sourcing",
+            "date_local": "2025-05-16",
+            "time_local": null,
+            "date_range": null,
+            "clusters": [
+              "SUSSEX_POLICE",
+              "INFOSEC_VULNERABILITIES"
+            ],
+            "status": "pending_sourcing",
+            "source": {
+              "file": null,
+              "path": null
+            },
+            "undated_policy": null,
+            "assumed_date_flag": false,
+            "created_at": "2025-08-26T00:41:49.835223Z"
+          },
+          {
+            "path": "/mnt/data/VEX_2025-05-26_101_Strategic_Confusion_Pending.json",
+            "kind": "vex",
+            "id": "VEX_2025-05-26_101_Strategic_Confusion",
+            "title": "26-05-2025 — 101 Call (Strategic‑Confusion Method) — Pending Sourcing",
+            "date_local": "2025-05-26",
+            "time_local": null,
+            "date_range": null,
+            "clusters": [
+              "SUSSEX_POLICE",
+              "INFOSEC_VULNERABILITIES"
+            ],
+            "status": "pending_sourcing",
+            "source": {
+              "file": null,
+              "path": null
+            },
+            "undated_policy": null,
+            "assumed_date_flag": false,
+            "created_at": "2025-08-26T00:41:49.835223Z"
+          },
+          {
+            "path": "/mnt/data/VEX_2025-05-26_101_Strategic_Confusion.json",
+            "kind": "vex",
+            "id": "VEX_2025-05-26_101_Strategic_Confusion",
+            "title": "26-05-2025 — 101 Call: Clarifying Multiple Crime References (OIC disclosure)",
+            "date_local": "2025-05-26",
+            "time_local": "09:10",
+            "date_range": null,
+            "clusters": [
+              "SUSSEX_POLICE",
+              "INFOSEC_VULNERABILITIES",
+              "CRIME_REF_47240214305_THREAD",
+              "VRR_NFA",
+              "TIMELINE_SYNTHESIS"
+            ],
+            "status": "1.0.0",
+            "source": {
+              "file": "26-05-25_09-10_101_CALL_CrimeRefs_1246_0305_3423_.txt",
+              "path": "/mnt/data/26-05-25_09-10_101_CALL_CrimeRefs_1246_0305_3423_.txt"
+            },
+            "undated_policy": "ok_date_present",
+            "assumed_date_flag": false,
+            "created_at": "2025-08-26T00:44:26.941569Z"
+          },
+          {
+            "path": "/mnt/data/VEX_2025-05-16_101_NoCrimeRef.json",
+            "kind": "vex",
+            "id": "VEX_2025-05-16_101_Social_Engineering_NoCrimeRef",
+            "title": "16-05-2025 — 101 Call: Leave-a-Note (No Crime Number Strategy)",
+            "date_local": "2025-05-16",
+            "time_local": "02:31",
+            "date_range": null,
+            "clusters": [
+              "SUSSEX_POLICE",
+              "INFOSEC_VULNERABILITIES",
+              "DEATH_BY_SILENCE"
+            ],
+            "status": "1.0.0",
+            "source": {
+              "file": "16-05-25_02-31_101_CALL_No crime-number-strategy.txt",
+              "path": "/mnt/data/16-05-25_02-31_101_CALL_No crime-number-strategy.txt"
+            },
+            "undated_policy": "flag",
+            "assumed_date_flag": false,
+            "created_at": "2025-08-26T00:44:26.941569Z"
+          },
+          {
+            "path": "/mnt/data/VEX_2025-05-16_101_NoCrimeRef_QUOTES.json",
+            "kind": "vex",
+            "id": null,
+            "title": "VEX_2025-05-16_101_NoCrimeRef_QUOTES.json",
+            "date_local": null,
+            "time_local": null,
+            "date_range": null,
+            "clusters": [],
+            "status": null,
+            "source": {
+              "file": "16-05-25_02-31_101_CALL_No crime-number-strategy.txt",
+              "path": "/mnt/data/16-05-25_02-31_101_CALL_No crime-number-strategy.txt"
+            },
+            "undated_policy": null,
+            "assumed_date_flag": false,
+            "created_at": "2025-08-26T00:49:46.692795Z"
+          },
+          {
+            "path": "/mnt/data/CONTRADICTIONS_2025-05-16_101_NoCrimeRef.json",
+            "kind": "contradictions",
+            "id": "VEX_2025-05-16_101_NoCrimeRef",
+            "title": "CONTRADICTIONS_2025-05-16_101_NoCrimeRef.json",
+            "date_local": null,
+            "time_local": null,
+            "date_range": null,
+            "clusters": [],
+            "status": null,
+            "source": {
+              "file": null,
+              "path": null
+            },
+            "undated_policy": null,
+            "assumed_date_flag": false,
+            "created_at": "2025-08-26T00:49:46.692795Z"
+          },
+          {
+            "path": "/mnt/data/TIMELINE_PATCH_2025-05-16_101_NoCrimeRef.json",
+            "kind": "timeline_patch",
+            "id": null,
+            "title": "TIMELINE_PATCH_2025-05-16_101_NoCrimeRef.json",
+            "date_local": null,
+            "time_local": null,
+            "date_range": null,
+            "clusters": [],
+            "status": null,
+            "source": {
+              "file": null,
+              "path": null
+            },
+            "undated_policy": null,
+            "assumed_date_flag": false,
+            "created_at": null
+          }
+        ],
+        "flags": {
+          "missing_date": [
+            {
+              "id": "VEX_2025-03_to_04_PC_Dixon_WhatsApp_A09.json",
+              "path": "/mnt/data/VEX_2025-03_to_04_PC_Dixon_WhatsApp_A09.json"
+            },
+            {
+              "id": "VEX_2025-07-04_St_Johns_Front_Desk_Liz (3).json",
+              "path": "/mnt/data/VEX_2025-07-04_St_Johns_Front_Desk_Liz (3).json"
+            },
+            {
+              "id": "VEX_2025-03_to_05_Veritas_EmmaJones_WhatsApp_A10.json",
+              "path": "/mnt/data/VEX_2025-03_to_05_Veritas_EmmaJones_WhatsApp_A10.json"
+            },
+            {
+              "id": "VEX_2025-04-17_0432_101_Holiday_Alibi (2).json",
+              "path": "/mnt/data/VEX_2025-04-17_0432_101_Holiday_Alibi (2).json"
+            },
+            {
+              "id": "EVID_2024-12-10_Cordell_Email_701211",
+              "path": "/mnt/data/EVID_2024-12-10_Cordell_Email_701211.json"
+            },
+            {
+              "id": "ANALYSIS_3.43_DECEMBER_EMAIL_2024-12-10",
+              "path": "/mnt/data/ANALYSIS_3.43_DECEMBER_EMAIL_2024-12-10.json"
+            },
+            {
+              "id": "VEX_2025-03_to_05_Veritas_Ortiz_WhatsApp_A10.json",
+              "path": "/mnt/data/VEX_2025-03_to_05_Veritas_Ortiz_WhatsApp_A10.json"
+            },
+            {
+              "id": "MASTER_COMPLAINT_VEX",
+              "path": "/mnt/data/MASTER_COMPLAINT_VEX_2025-08-25.json"
+            },
+            {
+              "id": "ANALYSIS_101_INFOSEC_VULN_2025-08-26",
+              "path": "/mnt/data/ANALYSIS_101_InfoSec_Vulnerabilities_SussexPolice_2025-08-26.json"
+            },
+            {
+              "id": "VEX_2025-05-16_101_NoCrimeRef_QUOTES.json",
+              "path": "/mnt/data/VEX_2025-05-16_101_NoCrimeRef_QUOTES.json"
+            },
+            {
+              "id": "VEX_2025-05-16_101_NoCrimeRef",
+              "path": "/mnt/data/CONTRADICTIONS_2025-05-16_101_NoCrimeRef.json"
+            },
+            {
+              "id": "TIMELINE_PATCH_2025-05-16_101_NoCrimeRef.json",
+              "path": "/mnt/data/TIMELINE_PATCH_2025-05-16_101_NoCrimeRef.json"
+            }
+          ],
+          "parse_errors": []
+        }
+      }
+    },
+    {
+      "meta": {
+        "path": "/mnt/data/PROJECT_FILE_SYNCED_2025-08-26_v5/06_meta/AUDIT_2025-08-26_v5.json",
+        "name": "AUDIT_2025-08-26_v5.json",
+        "size": 3644,
+        "sha256": "9d52f94d8202c2c8cabbbeda7868842750fbf7858531fbbfd9b9c50435ce4bfd",
+        "suffix": ".json"
+      },
+      "type": "json",
+      "content": {
+        "created_at": "2025-08-26T01:27:30.679266Z",
+        "stamp": "2025-08-26_v5",
+        "counts": {
+          "total_seen": 22,
+          "copied": 22,
+          "json_ok": 18,
+          "json_errors": 0,
+          "pdfs": 0,
+          "archives": 1
+        },
+        "json_validation": {
+          "TIMELINE_MASTER_2025-08-26.json": "ok",
+          "CONTRADICTIONS_MASTER_2025-08-26.json": "ok",
+          "MASTER_INDEX_2025-08-26.json": "ok",
+          "VEX_2025-03_to_04_PC_Dixon_WhatsApp_A09.json": "ok",
+          "VEX_2025-03_to_05_Veritas_Ortiz_WhatsApp_A10.json": "ok",
+          "VEX_2025-04-17_0432_101_Holiday_Alibi (2).json": "ok",
+          "VEX_2025-07-04_St_Johns_Front_Desk_Liz (3).json": "ok",
+          "MASTER_COMPLAINT_VEX_2025-08-25.json": "ok",
+          "VEX_2025-04-17_0432_101_Holiday_Alibi_REBUILT.json": "ok",
+          "VEX_2025-04-28_Sussex_Police_Complaints_Department_Call.json": "ok",
+          "VEX_2024-11-07_Dixon_Deletion_Log.json": "ok",
+          "VEX_2025-03_to_05_Veritas_EmmaJones_WhatsApp_A10.json": "ok",
+          "TIMELINE_PATCH_2025-05-16_101_NoCrimeRef.json": "ok",
+          "VEX_2025-05-16_101_NoCrimeRef_QUOTES.json": "ok",
+          "ANALYSIS_101_InfoSec_Vulnerabilities_SussexPolice_2025-08-26.json": "ok",
+          "CONTRADICTIONS_2025-05-16_101_NoCrimeRef.json": "ok",
+          "VEX_2025-04-06_Suicide_Disclosure_Not_Logged.json": "ok",
+          "VEX_2025-05-16_101_NoCrimeRef.json": "ok"
+        },
+        "placements": [
+          {
+            "file": "TIMELINE_MASTER_2025-08-26.json",
+            "to": "03_analysis/timelines"
+          },
+          {
+            "file": "CONTRADICTIONS_MASTER_2025-08-26.json",
+            "to": "02_contradictions"
+          },
+          {
+            "file": "MASTER_INDEX_2025-08-26.json",
+            "to": "04_manifest"
+          },
+          {
+            "file": "VEX_2025-03_to_04_PC_Dixon_WhatsApp_A09.json",
+            "to": "01_evidence/vex"
+          },
+          {
+            "file": "PROJECT_FILE_SYNCED_2025-08-25_v4.3_FULL_with_audit.zip",
+            "to": "08_supporting/archives"
+          },
+          {
+            "file": "VEX_2025-03_to_05_Veritas_Ortiz_WhatsApp_A10.json",
+            "to": "01_evidence/vex"
+          },
+          {
+            "file": "README_STYLE_CONVENTIONS_2025-08-25.md",
+            "to": "06_meta"
+          },
+          {
+            "file": "MASTER_TIMELINE_v2_2025-08-25_v2-4.csv",
+            "to": "03_analysis/timelines"
+          },
+          {
+            "file": "VEX_2025-04-17_0432_101_Holiday_Alibi (2).json",
+            "to": "01_evidence/vex"
+          },
+          {
+            "file": "VEX_2025-07-04_St_Johns_Front_Desk_Liz (3).json",
+            "to": "01_evidence/vex"
+          },
+          {
+            "file": "Master Complaint.txt",
+            "to": "02_contradictions"
+          },
+          {
+            "file": "MASTER_COMPLAINT_VEX_2025-08-25.json",
+            "to": "02_contradictions/vex"
+          },
+          {
+            "file": "VEX_2025-04-17_0432_101_Holiday_Alibi_REBUILT.json",
+            "to": "01_evidence/vex"
+          },
+          {
+            "file": "VEX_2025-04-28_Sussex_Police_Complaints_Department_Call.json",
+            "to": "02_contradictions/vex"
+          },
+          {
+            "file": "VEX_2024-11-07_Dixon_Deletion_Log.json",
+            "to": "01_evidence/vex"
+          },
+          {
+            "file": "VEX_2025-03_to_05_Veritas_EmmaJones_WhatsApp_A10.json",
+            "to": "01_evidence/vex"
+          },
+          {
+            "file": "TIMELINE_PATCH_2025-05-16_101_NoCrimeRef.json",
+            "to": "03_analysis/timelines"
+          },
+          {
+            "file": "VEX_2025-05-16_101_NoCrimeRef_QUOTES.json",
+            "to": "01_evidence/vex"
+          },
+          {
+            "file": "ANALYSIS_101_InfoSec_Vulnerabilities_SussexPolice_2025-08-26.json",
+            "to": "03_analysis"
+          },
+          {
+            "file": "CONTRADICTIONS_2025-05-16_101_NoCrimeRef.json",
+            "to": "02_contradictions"
+          },
+          {
+            "file": "VEX_2025-04-06_Suicide_Disclosure_Not_Logged.json",
+            "to": "01_evidence/vex"
+          },
+          {
+            "file": "VEX_2025-05-16_101_NoCrimeRef.json",
+            "to": "01_evidence/vex"
+          }
+        ],
+        "skipped": []
+      }
+    },
+    {
+      "meta": {
+        "path": "/mnt/data/PROJECT_FILE_SYNCED_2025-08-26_v5/06_meta/AUDIT_2025-08-26_v5_SUMMARY.txt",
+        "name": "AUDIT_2025-08-26_v5_SUMMARY.txt",
+        "size": 2818,
+        "sha256": "6bf56947922b7f34dd22ffe40742e24f3f357bde77c1382600440d62daf34918",
+        "suffix": ".txt"
+      },
+      "type": "text",
+      "content": "Project Zip Build — 2025-08-26_v5\nCreated: 2025-08-26T01:27:30.679266Z\n\nCounts:\n  - total_seen: 22\n  - copied: 22\n  - json_ok: 18\n  - json_errors: 0\n  - pdfs: 0\n  - archives: 1\n\nJSON Validation:\n  - ANALYSIS_101_InfoSec_Vulnerabilities_SussexPolice_2025-08-26.json: ok\n  - CONTRADICTIONS_2025-05-16_101_NoCrimeRef.json: ok\n  - CONTRADICTIONS_MASTER_2025-08-26.json: ok\n  - MASTER_COMPLAINT_VEX_2025-08-25.json: ok\n  - MASTER_INDEX_2025-08-26.json: ok\n  - TIMELINE_MASTER_2025-08-26.json: ok\n  - TIMELINE_PATCH_2025-05-16_101_NoCrimeRef.json: ok\n  - VEX_2024-11-07_Dixon_Deletion_Log.json: ok\n  - VEX_2025-03_to_04_PC_Dixon_WhatsApp_A09.json: ok\n  - VEX_2025-03_to_05_Veritas_EmmaJones_WhatsApp_A10.json: ok\n  - VEX_2025-03_to_05_Veritas_Ortiz_WhatsApp_A10.json: ok\n  - VEX_2025-04-06_Suicide_Disclosure_Not_Logged.json: ok\n  - VEX_2025-04-17_0432_101_Holiday_Alibi (2).json: ok\n  - VEX_2025-04-17_0432_101_Holiday_Alibi_REBUILT.json: ok\n  - VEX_2025-04-28_Sussex_Police_Complaints_Department_Call.json: ok\n  - VEX_2025-05-16_101_NoCrimeRef.json: ok\n  - VEX_2025-05-16_101_NoCrimeRef_QUOTES.json: ok\n  - VEX_2025-07-04_St_Johns_Front_Desk_Liz (3).json: ok\n\nFirst 600 lines of tree:\n├─ 01_evidence/\n│  ├─ audio/\n│  ├─ calls/\n│  ├─ screenshots/\n│  ├─ vex/\n│  │  ├─ VEX_2024-11-07_Dixon_Deletion_Log.json\n│  │  ├─ VEX_2025-03_to_04_PC_Dixon_WhatsApp_A09.json\n│  │  ├─ VEX_2025-03_to_05_Veritas_EmmaJones_WhatsApp_A10.json\n│  │  ├─ VEX_2025-03_to_05_Veritas_Ortiz_WhatsApp_A10.json\n│  │  ├─ VEX_2025-04-06_Suicide_Disclosure_Not_Logged.json\n│  │  ├─ VEX_2025-04-17_0432_101_Holiday_Alibi (2).json\n│  │  ├─ VEX_2025-04-17_0432_101_Holiday_Alibi_REBUILT.json\n│  │  ├─ VEX_2025-05-16_101_NoCrimeRef.json\n│  │  ├─ VEX_2025-05-16_101_NoCrimeRef_QUOTES.json\n│  │  ├─ VEX_2025-07-04_St_Johns_Front_Desk_Liz (3).json\n├─ 02_contradictions/\n│  ├─ CONTRADICTIONS_2025-05-16_101_NoCrimeRef.json\n│  ├─ CONTRADICTIONS_MASTER_2025-08-26.json\n│  ├─ Master Complaint.txt\n│  ├─ vex/\n│  │  ├─ MASTER_COMPLAINT_VEX_2025-08-25.json\n│  │  ├─ VEX_2025-04-28_Sussex_Police_Complaints_Department_Call.json\n├─ 03_analysis/\n│  ├─ ANALYSIS_101_InfoSec_Vulnerabilities_SussexPolice_2025-08-26.json\n│  ├─ timelines/\n│  │  ├─ MASTER_TIMELINE_v2_2025-08-25_v2-4.csv\n│  │  ├─ TIMELINE_MASTER_2025-08-26.json\n│  │  ├─ TIMELINE_PATCH_2025-05-16_101_NoCrimeRef.json\n├─ 04_manifest/\n│  ├─ MASTER_INDEX_2025-08-26.json\n├─ 06_meta/\n│  ├─ AUDIT_2025-08-26_v5.json\n│  ├─ README_STYLE_CONVENTIONS_2025-08-25.md\n├─ 08_supporting/\n│  ├─ archives/\n│  │  ├─ PROJECT_FILE_SYNCED_2025-08-25_v4.3_FULL_with_audit.zip\n│  ├─ refs/"
+    },
+    {
+      "meta": {
+        "path": "/mnt/data/PROJECT_FILE_SYNCED_2025-08-26_v5/06_meta/README_STYLE_CONVENTIONS_2025-08-25.md",
+        "name": "README_STYLE_CONVENTIONS_2025-08-25.md",
+        "size": 1653,
+        "sha256": "a8d448e87dc27ceeb0acabb70d5e7352848d9aeb0e7c4f094b2183d9fa2bfe04",
+        "suffix": ".md"
+      },
+      "type": "text",
+      "content": "# Project Style & VEX Conventions\n_Last updated: 2025-08-25_\n\n## Terminology (hard rule)\n- Do **not** use the term **“actor”** to describe people or organisations anywhere in this project.\n- Use **“party,” “person,”** or **“entity”** instead — and when naming, prefer the exact role/title: **“PC Dixon,” “Sgt Duffy,” “PC Gasson,” “Liz (front desk).”**\n\n## VEX tag conventions\n- Replace legacy `ACTOR::NAME` tags with **`PARTY::NAME`** (e.g., `PARTY::DIXON`, `PARTY::GASSON`).\n- Each VEX entry should also include a **people** array of human-readable names.\n\n**Example VEX entry (excerpt):**\n```json\n{\n  \"vex_id\": \"A06-L0123\",\n  \"speaker\": \"Sussex Police 101 Call Handler\",\n  \"quote\": \"It shows the first note on 24/07/2024 but it's under November.\",\n  \"tags\": [\"PARTY::DIXON\", \"TIMELINE::FIRST_NOTE\", \"TIMELINE::MONTH_NOV\"],\n  \"people\": [\"PC Dixon\"],\n  \"contradictions\": [\"CONTRADICTION::JULY_FIRST_NOTE_DISPLAYS_AS_NOVEMBER\"]\n}\n```\n\n## Linting / CI guardrails\nRun the linter before commits or wire it into CI. This fails on:\n- Any `ACTOR::` tags\n- Any standalone word `actor` / `actors` (case-insensitive)\n\n```bash\nbash ./lint_no_actor.sh\n```\n\nTo make this a git **pre-commit** hook:\n1. Copy `pre-commit.sample` to `.git/hooks/pre-commit`.\n2. `chmod +x .git/hooks/pre-commit`\n3. Commit as normal — the hook will block violations.\n\n## Quick one-off cleanup (shell)\n```bash\n# Convert legacy tags (safe)\ngrep -RIl --exclude-dir=.git --include='*.json' 'ACTOR::' . | xargs -I{} sed -i -E 's/ACTOR::/PARTY::/g' {}\n\n# Audit for stray wording (review before replacing)\ngrep -RIn --exclude-dir=.git -E '\\bactor(s)?\\b' .\n```\n"
+    },
+    {
+      "meta": {
+        "path": "/mnt/data/PROJECT_FILE_SYNCED_2025-08-26_v5/08_supporting/archives/PROJECT_FILE_SYNCED_2025-08-25_v4.3_FULL_with_audit.zip",
+        "name": "PROJECT_FILE_SYNCED_2025-08-25_v4.3_FULL_with_audit.zip",
+        "size": 222633,
+        "sha256": "497749adc6b74301ce28895e1f0900c3ac0ab7bb135b178a9c13c678fcfb87e7",
+        "suffix": ".zip"
+      },
+      "type": "binary",
+      "content": null
+    }
+  ],
+  "brighton_fringe": {
+    "created_at": "2025-08-31T17:20:00Z",
+    "contradictions": [
+      {
+        "id": "BF-CONTRA-LOGGED-WORSE-THAN-NOT-LOGGED-2025",
+        "title": "Logging the Risk, Not Acting: Worse Than Not Logging",
+        "path": "/mnt/data/02_contradictions/manual/BF-CONTRA-LOGGED-WORSE-THAN-NOT-LOGGED-2025.json",
+        "clusters": [
+          "DUNCAN_ASSISTED_ERASURE",
+          "SAFEHARMING_LOG",
+          "DEATH_BY_SILENCE"
+        ],
+        "sha256": "<autofill>",
+        "evidence_refs": [
+          {
+            "type": "transcript",
+            "id": "TRANSCRIPT_2025-04-09_BF_Safeguarding_Meeting_PART1"
+          },
+          {
+            "type": "log",
+            "id": "21_Safeharming_Log_master"
+          }
+        ]
+      },
+      {
+        "id": "BF-CONTRA-HATE-TURNAROUND-2025",
+        "title": "“So Glad You Don’t Hate Us” — The Turnaround Trap",
+        "path": "/mnt/data/02_contradictions/manual/BF-CONTRA-HATE-TURNAROUND-2025.json",
+        "clusters": [
+          "SAFEHARMING_LOG"
+        ],
+        "sha256": "<autofill>",
+        "evidence_refs": [
+          {
+            "type": "log",
+            "id": "01_Life_or_Death_Logged_master"
+          },
+          {
+            "type": "log",
+            "id": "21_Safeharming_Log_master"
+          }
+        ]
+      },
+      {
+        "id": "BF-CONTRA-LIBEL-REPLACEMENT-INTENT-2025",
+        "title": "Libel Broadcast and 'Finding Someone New' — Replacement Intent",
+        "path": "/mnt/data/02_contradictions/manual/BF-CONTRA-LIBEL-REPLACEMENT-INTENT-2025.json",
+        "clusters": [
+          "VENUE_TAKEOVER_THREAT",
+          "DUNCAN_ASSISTED_ERASURE"
+        ],
+        "sha256": "<autofill>",
+        "evidence_refs": [
+          {
+            "type": "email",
+            "id": "EMAIL_2025-07-18_BF_Libel_Email"
+          },
+          {
+            "type": "folder",
+            "id": "09_Post-Takeover_Master"
+          }
+        ]
+      },
+      {
+        "id": "BF-CONTRA-POLICY-VS-PRACTICE-2025-04-09",
+        "title": "Policy Says Safeguard; Meeting Says 'What Do You Expect From Us?'",
+        "path": "/mnt/data/02_contradictions/manual/BF-CONTRA-POLICY-VS-PRACTICE-2025-04-09.json",
+        "clusters": [
+          "POLICY_VS_PRACTICE",
+          "SAFEGUARDING_MEETING_2025-04-09"
+        ],
+        "sha256": "<autofill>",
+        "evidence_refs": [
+          {
+            "type": "policy",
+            "id": "POLICY_2025-02-17_BRIGHTON_FRINGE_SAFEGUARDING"
+          },
+          {
+            "type": "transcript",
+            "id": "TRANSCRIPT_2025-04-09_BF_Safeguarding_Meeting_PART1"
+          }
+        ]
+      }
+    ],
+    "evidence": [
+      {
+        "id": "POLICY_2025-02-17_BRIGHTON_FRINGE_SAFEGUARDING",
+        "title": "Brighton Fringe Safeguarding Policy and Procedures",
+        "path": "/mnt/data/BrightonFringe_safeguarding_policy.txt",
+        "sha256": "<autofill>",
+        "notes": "Policy vs practice mapping; duty to act"
+      },
+      {
+        "id": "TRANSCRIPT_2025-04-09_BF_Safeguarding_Meeting_PART1",
+        "title": "Safeguarding Meeting — 9 Apr 2025 (Part 1)",
+        "path": "/mnt/data/TRANSCRIPT_2025-04-09_BF_Safeguarding_Meeting_PART1.json",
+        "sha256": "<autofill>",
+        "notes": "Opening: 'What are you expecting from us?'; deflection to operations"
+      },
+      {
+        "id": "EMAIL_2025-07-18_BF_Libel_Email",
+        "title": "Mass libel email to artists/clients",
+        "path": "/mnt/data/EMAIL_2025-07-18_BF_Libel_Email.eml",
+        "sha256": "<autofill>",
+        "notes": "Defamatory broadcast; 'finding someone new' line"
+      },
+      {
+        "id": "09_Post-Takeover_Master",
+        "title": "Post-Takeover: Consolidation Master",
+        "path": "/mnt/data/09_Post-Takeover_Master.txt",
+        "sha256": "<autofill>",
+        "notes": "Consolidation of control after July 2025 libel"
+      },
+      {
+        "id": "21_Safeharming_Log_master",
+        "title": "The Safeharming Log — Master",
+        "path": "/mnt/data/21_Safeharming_Log_master.txt",
+        "sha256": "<autofill>",
+        "notes": "BF logged disclosures ('You want me dead') without action"
+      },
+      {
+        "id": "01_Life_or_Death_Logged_master",
+        "title": "01. Life or Death? Logged — Master",
+        "path": "/mnt/data/01_Life_or_Death_Logged_master.txt",
+        "sha256": "<autofill>",
+        "notes": "Accusation logged but ignored; hate turnaround"
+      }
+    ],
+    "timelines": [
+      {
+        "id": "t2_brighton_fringe_consequences",
+        "title": "Brighton Fringe Consequences Timeline",
+        "path": "/mnt/data/03_timelines/t2_brighton_fringe_consequences.json",
+        "sha256": "<autofill>"
+      }
+    ]
+  }
+}

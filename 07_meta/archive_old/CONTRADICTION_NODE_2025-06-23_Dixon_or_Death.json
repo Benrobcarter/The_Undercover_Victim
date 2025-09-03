@@ -1,0 +1,35 @@
+{
+  "title": "Dixon or Death",
+  "date": "2025-06-23",
+  "contradictions": [
+    {
+      "quote": "Still Officer Dixon",
+      "tag": "OFFICER_CONFLICT_UNESCALATED",
+      "description": "No change of officer despite requests and confirmed suicide disclosures."
+    },
+    {
+      "quote": "Case is closed / No updates",
+      "tag": "FAKE_CASE_STATUS",
+      "description": "Contradiction between active case needs and system denial loop."
+    },
+    {
+      "quote": "I said I was suicidal by June 1",
+      "tag": "SUICIDE_DISCLOSURE_IGNORED",
+      "description": "Proof that suicide risk was disclosed but disregarded by Sussex Police."
+    },
+    {
+      "quote": "If you\u2019re not reporting anything I\u2019ll end the call",
+      "tag": "RETALIATORY_HANGUP",
+      "description": "Final silencing maneuver: punished for not reporting new crime in moment of crisis."
+    }
+  ],
+  "linked_files": [
+    "VEX_2025-06-23_101_Dixon_or_Death.json",
+    "VEX_2025-06-23_101_Dixon_or_Death_DETAILED.json"
+  ],
+  "threads": [
+    "CROWBARRING_MYSELF_JUSTICE",
+    "DEATH_BY_SILENCE",
+    "SAFEGUARDING_REFUSED_BY_PROCESS"
+  ]
+}

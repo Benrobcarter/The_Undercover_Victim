@@ -1,0 +1,1013 @@
+{
+  "MASTER_CONTRADICTIONS_v1": {
+    "source": "MASTER_CONTRADICTIONS_INJECTED_LATEST.json + Veritas Transcript Contradictions",
+    "updated_on": "2025-08-25T02:50:28.675601Z",
+    "items": [
+      {
+        "idx": 4,
+        "speaker": "Ben Carter",
+        "timecode": "00:40.8",
+        "text": "Two days? No.",
+        "vex_grade": "context",
+        "vex_tags": [],
+        "source_file": "22-04-25_Veritas_pre_3_hour_meeting_part_one.docx.txt"
+      },
+      {
+        "idx": 8,
+        "speaker": "Ben Carter",
+        "timecode": "00:50.9",
+        "text": "Yeah, yeah, yeah. All. All the text messages were the evidence leading up to that. They didn't look at that evidence. And I've got all that evidence to show that. That July was never looked at. Now if they say two days, they didn't even. So they did. They're looking for a voice call that proves they didn't even look at the text messages.",
+        "vex_grade": "context",
+        "vex_tags": [],
+        "source_file": "22-04-25_Veritas_pre_3_hour_meeting_part_one.docx.txt"
+      },
+      {
+        "idx": 29,
+        "speaker": "Ben Carter",
+        "timecode": "04:26.6",
+        "text": "but, like. Yeah, yeah, yeah. No, I understand. Yeah, but. But, yeah, like, at the time I was. And then I didn't get a call back. But I just want to say I did reiterate to the person I was like, I understand if you can't, and I love what you do.",
+        "vex_grade": "context",
+        "vex_tags": [],
+        "source_file": "22-04-25_Veritas_pre_3_hour_meeting_part_one.docx.txt"
+      },
+      {
+        "idx": 41,
+        "speaker": "Ben Carter",
+        "timecode": "07:12.7",
+        "text": "It's like, no, could someone else look at that file and finalise what you've done? before you cover it up anymore?",
+        "vex_grade": "context",
+        "vex_tags": [],
+        "source_file": "22-04-25_Veritas_pre_3_hour_meeting_part_one.docx.txt"
+      },
+      {
+        "idx": 46,
+        "speaker": "Ben Carter",
+        "timecode": "08:30.1",
+        "text": "So you can ask that. But yeah, if you don't get it, it's no problem.",
+        "vex_grade": "context",
+        "vex_tags": [],
+        "source_file": "22-04-25_Veritas_pre_3_hour_meeting_part_one.docx.txt"
+      },
+      {
+        "idx": 56,
+        "speaker": "Ben Carter",
+        "timecode": "09:59.2",
+        "text": "Oh, no, no, no, no. I don't want to give, like, Like, I know you said, like, it does matter, like, So, yeah, if you could just tell me what it. What is in it, and then I can do my own sort of err (investigation) Okay.",
+        "vex_grade": "context",
+        "vex_tags": [],
+        "source_file": "22-04-25_Veritas_pre_3_hour_meeting_part_one.docx.txt"
+      },
+      {
+        "idx": 64,
+        "speaker": "Ben Carter",
+        "timecode": "11:06.9",
+        "text": "Yeah. Can we just go through the, file? Because, you know, I just want to hear what they've got. Otherwise, I'll, We'll just get bogged down in me saying no. And, like.",
+        "vex_grade": "context",
+        "vex_tags": [],
+        "source_file": "22-04-25_Veritas_pre_3_hour_meeting_part_one.docx.txt"
+      },
+      {
+        "idx": 70,
+        "speaker": "Ben Carter",
+        "timecode": "11:47.8",
+        "text": "It was June. It was June. The text messages went back from our, breakup.",
+        "vex_grade": "context",
+        "vex_tags": [],
+        "source_file": "22-04-25_Veritas_pre_3_hour_meeting_part_one.docx.txt"
+      },
+      {
+        "idx": 94,
+        "speaker": "Ben Carter",
+        "timecode": "13:50.8",
+        "text": "Can I just confirm? Just like screenshots, no audio.",
+        "vex_grade": "context",
+        "vex_tags": [],
+        "source_file": "22-04-25_Veritas_pre_3_hour_meeting_part_one.docx.txt"
+      },
+      {
+        "idx": 102,
+        "speaker": "Ben Carter",
+        "timecode": "14:35.3",
+        "text": "Sorry, voice. Don't. Well, well, yeah, PC Dixon's been asking for these because apparently he lost them. Oh. But, yeah. So there's no mention.",
+        "vex_grade": "gold_bullet",
+        "vex_tags": [
+          "pc dixon"
+        ],
+        "source_file": "22-04-25_Veritas_pre_3_hour_meeting_part_one.docx.txt"
+      },
+      {
+        "idx": 107,
+        "speaker": "Ben Carter",
+        "timecode": "15:15.0",
+        "text": "No, no, no, no. I sent that via a nice link  And I'm not, they're asking for. Because in the statement it says a lost call. I'm not going to tell you how many, but there were quite a few.",
+        "vex_grade": "gold_bullet",
+        "vex_tags": [
+          "nice links"
+        ],
+        "source_file": "22-04-25_Veritas_pre_3_hour_meeting_part_one.docx.txt"
+      },
+      {
+        "idx": 133,
+        "speaker": "Ben Carter",
+        "timecode": "18:04.6",
+        "text": "Oh, yeah, no, no, no, no, no. Sorry, no, I, do know that what that was. Yeah, but, yeah, carry on.",
+        "vex_grade": "context",
+        "vex_tags": [],
+        "source_file": "22-04-25_Veritas_pre_3_hour_meeting_part_one.docx.txt"
+      },
+      {
+        "idx": 137,
+        "speaker": "Ben Carter",
+        "timecode": "18:34.3",
+        "text": "That's the first I've heard of that.",
+        "vex_grade": "context",
+        "vex_tags": [],
+        "source_file": "22-04-25_Veritas_pre_3_hour_meeting_part_one.docx.txt"
+      },
+      {
+        "idx": 153,
+        "speaker": "Ben Carter",
+        "timecode": "20:16.6",
+        "text": "No, but please carry on.",
+        "vex_grade": "context",
+        "vex_tags": [],
+        "source_file": "22-04-25_Veritas_pre_3_hour_meeting_part_one.docx.txt"
+      },
+      {
+        "idx": 155,
+        "speaker": "Ben Carter",
+        "timecode": "20:22.3",
+        "text": "She did. She did. But that wasn't the first. That. That wasn't the first thing that happened in November.",
+        "vex_grade": "context",
+        "vex_tags": [],
+        "source_file": "22-04-25_Veritas_pre_3_hour_meeting_part_one.docx.txt"
+      },
+      {
+        "idx": 183,
+        "speaker": "Ben Carter",
+        "timecode": "23:32.0",
+        "text": "No, no. Anything. When I say good, that. That's me confirming, my IPOC",
+        "vex_grade": "context",
+        "vex_tags": [],
+        "source_file": "22-04-25_Veritas_pre_3_hour_meeting_part_one.docx.txt"
+      },
+      {
+        "idx": 191,
+        "speaker": "Ben Carter",
+        "timecode": "24:54.6",
+        "text": "No, that's what that, that, that's what they're saying.",
+        "vex_grade": "context",
+        "vex_tags": [],
+        "source_file": "22-04-25_Veritas_pre_3_hour_meeting_part_one.docx.txt"
+      },
+      {
+        "idx": 209,
+        "speaker": "Ben Carter",
+        "timecode": "27:10.8",
+        "text": "no of course. Yeah, yeah, yeah. And you don't know what's been explained to me by the police But yeah, many times I've been told that.",
+        "vex_grade": "context",
+        "vex_tags": [],
+        "source_file": "22-04-25_Veritas_pre_3_hour_meeting_part_one.docx.txt"
+      },
+      {
+        "idx": 213,
+        "speaker": "Ben Carter",
+        "timecode": "27:36.0",
+        "text": "Yeah, yeah, no, that's absolutely fine. But my, point is that, none of the evidence was looked at in July, so, like it. That's the ongoing case. Yes. Okay. But, okay, that's not my case.",
+        "vex_grade": "context",
+        "vex_tags": [],
+        "source_file": "22-04-25_Veritas_pre_3_hour_meeting_part_one.docx.txt"
+      },
+      {
+        "idx": 227,
+        "speaker": "Ben Carter",
+        "timecode": "29:18.6",
+        "text": "No.",
+        "vex_grade": "context",
+        "vex_tags": [],
+        "source_file": "22-04-25_Veritas_pre_3_hour_meeting_part_one.docx.txt"
+      },
+      {
+        "idx": 231,
+        "speaker": "Ben Carter",
+        "timecode": "29:34.6",
+        "text": "That timeline's completely wrong.",
+        "vex_grade": "context",
+        "vex_tags": [],
+        "source_file": "22-04-25_Veritas_pre_3_hour_meeting_part_one.docx.txt"
+      },
+      {
+        "idx": 233,
+        "speaker": "Ben Carter",
+        "timecode": "29:43.4",
+        "text": "No (not in November)",
+        "vex_grade": "context",
+        "vex_tags": [],
+        "source_file": "22-04-25_Veritas_pre_3_hour_meeting_part_one.docx.txt"
+      },
+      {
+        "idx": 273,
+        "speaker": "Ben Carter",
+        "timecode": "34:19.5",
+        "text": "No, that was later.",
+        "vex_grade": "context",
+        "vex_tags": [],
+        "source_file": "22-04-25_Veritas_pre_3_hour_meeting_part_one.docx.txt"
+      },
+      {
+        "idx": 327,
+        "speaker": "Ben Carter",
+        "timecode": "43:00.8",
+        "text": "Then a week later, I saw her in Brighton and I, I spoke to the a policewoman on 101, made her aware of this. There was no ambulance sent out. There was no like.",
+        "vex_grade": "context",
+        "vex_tags": [],
+        "source_file": "22-04-25_Veritas_pre_3_hour_meeting_part_one.docx.txt"
+      },
+      {
+        "idx": 332,
+        "speaker": "Ben Carter",
+        "timecode": "43:55.5",
+        "text": "No, because it was in November that that's what the police.",
+        "vex_grade": "context",
+        "vex_tags": [],
+        "source_file": "22-04-25_Veritas_pre_3_hour_meeting_part_one.docx.txt"
+      },
+      {
+        "idx": 345,
+        "speaker": "Ben Carter",
+        "timecode": "45:34.4",
+        "text": "So post suicide. But I wasn't able to tell anyone because there was no one to tell.",
+        "vex_grade": "silver_bullet",
+        "vex_tags": [
+          "suicide"
+        ],
+        "source_file": "22-04-25_Veritas_pre_3_hour_meeting_part_one.docx.txt"
+      },
+      {
+        "idx": 351,
+        "speaker": "Ben Carter",
+        "timecode": "45:51.3",
+        "text": "So I was I was on a bus. We both lived together and I was on the top deck and just saw her in the, In a flat. I wasn't spying on her, I was looking out the window like in no way.",
+        "vex_grade": "context",
+        "vex_tags": [],
+        "source_file": "22-04-25_Veritas_pre_3_hour_meeting_part_one.docx.txt"
+      },
+      {
+        "idx": 352,
+        "speaker": "Ben Carter",
+        "timecode": "46:10.5",
+        "text": "And like the fact she'd been faking she was in Brighton, like. Yeah, I absolutely know I was. So I had no. Yeah, I was like why did you fake you in Brighton if you're going to be in Brighton in the next week? You know, like.",
+        "vex_grade": "context",
+        "vex_tags": [],
+        "source_file": "22-04-25_Veritas_pre_3_hour_meeting_part_one.docx.txt"
+      },
+      {
+        "idx": 354,
+        "speaker": "Ben Carter",
+        "timecode": "46:32.2",
+        "text": "No.",
+        "vex_grade": "context",
+        "vex_tags": [],
+        "source_file": "22-04-25_Veritas_pre_3_hour_meeting_part_one.docx.txt"
+      },
+      {
+        "idx": 356,
+        "speaker": "Ben Carter",
+        "timecode": "46:47.6",
+        "text": "So that. Again, so that I was saying to the police then that there, that I would. And no, ambulance was called. I was basically hung up on and I've got the recording.",
+        "vex_grade": "context",
+        "vex_tags": [],
+        "source_file": "22-04-25_Veritas_pre_3_hour_meeting_part_one.docx.txt"
+      },
+      {
+        "idx": 360,
+        "speaker": "Ben Carter",
+        "timecode": "47:15.4",
+        "text": "No, but I, I only realised because I called them about this evidence and I was told that the last thing logged was my statement, not the suicide. That's when I realised, like I am not safeguarded by the police.",
+        "vex_grade": "silver_bullet",
+        "vex_tags": [
+          "suicide"
+        ],
+        "source_file": "22-04-25_Veritas_pre_3_hour_meeting_part_one.docx.txt"
+      },
+      {
+        "idx": 361,
+        "speaker": "Ben Carter",
+        "timecode": "47:35.8",
+        "text": "She's here, no one cares. My officers away. I was, I was asking for like, for evidence, like for what. What is going on? And I. Obviously very desperate, distressed.",
+        "vex_grade": "context",
+        "vex_tags": [],
+        "source_file": "22-04-25_Veritas_pre_3_hour_meeting_part_one.docx.txt"
+      },
+      {
+        "idx": 370,
+        "speaker": "Ben Carter",
+        "timecode": "48:44.4",
+        "text": "No, they didn't give me one. They wouldn't give me anything. They told me, at first I asked for someone and they said I'd phoned them and I'm threatening them.",
+        "vex_grade": "context",
+        "vex_tags": [],
+        "source_file": "22-04-25_Veritas_pre_3_hour_meeting_part_one.docx.txt"
+      },
+      {
+        "idx": 381,
+        "speaker": "Ben Carter",
+        "timecode": "50:12.4",
+        "text": "Whatever the. No. So it would have been about the 12th.",
+        "vex_grade": "context",
+        "vex_tags": [],
+        "source_file": "22-04-25_Veritas_pre_3_hour_meeting_part_one.docx.txt"
+      }
+    ]
+  },
+  "MASTER_CONTRADICTIONS_v2": {
+    "source": "MASTER_CONTRADICTIONS_INJECTED_LATEST.json + Veritas Transcript Contradictions",
+    "updated_on": "2025-08-25T02:52:54.932456Z",
+    "items": [
+      {
+        "idx": 4,
+        "speaker": "Ben Carter",
+        "timecode": "00:40.8",
+        "text": "Two days? No.",
+        "vex_grade": "context",
+        "vex_tags": [],
+        "source_file": "22-04-25_Veritas_pre_3_hour_meeting_part_one.docx.txt"
+      },
+      {
+        "idx": 8,
+        "speaker": "Ben Carter",
+        "timecode": "00:50.9",
+        "text": "Yeah, yeah, yeah. All. All the text messages were the evidence leading up to that. They didn't look at that evidence. And I've got all that evidence to show that. That July was never looked at. Now if they say two days, they didn't even. So they did. They're looking for a voice call that proves they didn't even look at the text messages.",
+        "vex_grade": "context",
+        "vex_tags": [],
+        "source_file": "22-04-25_Veritas_pre_3_hour_meeting_part_one.docx.txt"
+      },
+      {
+        "idx": 29,
+        "speaker": "Ben Carter",
+        "timecode": "04:26.6",
+        "text": "but, like. Yeah, yeah, yeah. No, I understand. Yeah, but. But, yeah, like, at the time I was. And then I didn't get a call back. But I just want to say I did reiterate to the person I was like, I understand if you can't, and I love what you do.",
+        "vex_grade": "context",
+        "vex_tags": [],
+        "source_file": "22-04-25_Veritas_pre_3_hour_meeting_part_one.docx.txt"
+      },
+      {
+        "idx": 41,
+        "speaker": "Ben Carter",
+        "timecode": "07:12.7",
+        "text": "It's like, no, could someone else look at that file and finalise what you've done? before you cover it up anymore?",
+        "vex_grade": "context",
+        "vex_tags": [],
+        "source_file": "22-04-25_Veritas_pre_3_hour_meeting_part_one.docx.txt"
+      },
+      {
+        "idx": 46,
+        "speaker": "Ben Carter",
+        "timecode": "08:30.1",
+        "text": "So you can ask that. But yeah, if you don't get it, it's no problem.",
+        "vex_grade": "context",
+        "vex_tags": [],
+        "source_file": "22-04-25_Veritas_pre_3_hour_meeting_part_one.docx.txt"
+      },
+      {
+        "idx": 56,
+        "speaker": "Ben Carter",
+        "timecode": "09:59.2",
+        "text": "Oh, no, no, no, no. I don't want to give, like, Like, I know you said, like, it does matter, like, So, yeah, if you could just tell me what it. What is in it, and then I can do my own sort of err (investigation) Okay.",
+        "vex_grade": "context",
+        "vex_tags": [],
+        "source_file": "22-04-25_Veritas_pre_3_hour_meeting_part_one.docx.txt"
+      },
+      {
+        "idx": 64,
+        "speaker": "Ben Carter",
+        "timecode": "11:06.9",
+        "text": "Yeah. Can we just go through the, file? Because, you know, I just want to hear what they've got. Otherwise, I'll, We'll just get bogged down in me saying no. And, like.",
+        "vex_grade": "context",
+        "vex_tags": [],
+        "source_file": "22-04-25_Veritas_pre_3_hour_meeting_part_one.docx.txt"
+      },
+      {
+        "idx": 70,
+        "speaker": "Ben Carter",
+        "timecode": "11:47.8",
+        "text": "It was June. It was June. The text messages went back from our, breakup.",
+        "vex_grade": "context",
+        "vex_tags": [],
+        "source_file": "22-04-25_Veritas_pre_3_hour_meeting_part_one.docx.txt"
+      },
+      {
+        "idx": 94,
+        "speaker": "Ben Carter",
+        "timecode": "13:50.8",
+        "text": "Can I just confirm? Just like screenshots, no audio.",
+        "vex_grade": "context",
+        "vex_tags": [],
+        "source_file": "22-04-25_Veritas_pre_3_hour_meeting_part_one.docx.txt"
+      },
+      {
+        "idx": 102,
+        "speaker": "Ben Carter",
+        "timecode": "14:35.3",
+        "text": "Sorry, voice. Don't. Well, well, yeah, PC Dixon's been asking for these because apparently he lost them. Oh. But, yeah. So there's no mention.",
+        "vex_grade": "gold_bullet",
+        "vex_tags": [
+          "pc dixon"
+        ],
+        "source_file": "22-04-25_Veritas_pre_3_hour_meeting_part_one.docx.txt"
+      },
+      {
+        "idx": 107,
+        "speaker": "Ben Carter",
+        "timecode": "15:15.0",
+        "text": "No, no, no, no. I sent that via a nice link  And I'm not, they're asking for. Because in the statement it says a lost call. I'm not going to tell you how many, but there were quite a few.",
+        "vex_grade": "gold_bullet",
+        "vex_tags": [
+          "nice links"
+        ],
+        "source_file": "22-04-25_Veritas_pre_3_hour_meeting_part_one.docx.txt"
+      },
+      {
+        "idx": 133,
+        "speaker": "Ben Carter",
+        "timecode": "18:04.6",
+        "text": "Oh, yeah, no, no, no, no, no. Sorry, no, I, do know that what that was. Yeah, but, yeah, carry on.",
+        "vex_grade": "context",
+        "vex_tags": [],
+        "source_file": "22-04-25_Veritas_pre_3_hour_meeting_part_one.docx.txt"
+      },
+      {
+        "idx": 137,
+        "speaker": "Ben Carter",
+        "timecode": "18:34.3",
+        "text": "That's the first I've heard of that.",
+        "vex_grade": "context",
+        "vex_tags": [],
+        "source_file": "22-04-25_Veritas_pre_3_hour_meeting_part_one.docx.txt"
+      },
+      {
+        "idx": 153,
+        "speaker": "Ben Carter",
+        "timecode": "20:16.6",
+        "text": "No, but please carry on.",
+        "vex_grade": "context",
+        "vex_tags": [],
+        "source_file": "22-04-25_Veritas_pre_3_hour_meeting_part_one.docx.txt"
+      },
+      {
+        "idx": 155,
+        "speaker": "Ben Carter",
+        "timecode": "20:22.3",
+        "text": "She did. She did. But that wasn't the first. That. That wasn't the first thing that happened in November.",
+        "vex_grade": "context",
+        "vex_tags": [],
+        "source_file": "22-04-25_Veritas_pre_3_hour_meeting_part_one.docx.txt"
+      },
+      {
+        "idx": 183,
+        "speaker": "Ben Carter",
+        "timecode": "23:32.0",
+        "text": "No, no. Anything. When I say good, that. That's me confirming, my IPOC",
+        "vex_grade": "context",
+        "vex_tags": [],
+        "source_file": "22-04-25_Veritas_pre_3_hour_meeting_part_one.docx.txt"
+      },
+      {
+        "idx": 191,
+        "speaker": "Ben Carter",
+        "timecode": "24:54.6",
+        "text": "No, that's what that, that, that's what they're saying.",
+        "vex_grade": "context",
+        "vex_tags": [],
+        "source_file": "22-04-25_Veritas_pre_3_hour_meeting_part_one.docx.txt"
+      },
+      {
+        "idx": 209,
+        "speaker": "Ben Carter",
+        "timecode": "27:10.8",
+        "text": "no of course. Yeah, yeah, yeah. And you don't know what's been explained to me by the police But yeah, many times I've been told that.",
+        "vex_grade": "context",
+        "vex_tags": [],
+        "source_file": "22-04-25_Veritas_pre_3_hour_meeting_part_one.docx.txt"
+      },
+      {
+        "idx": 213,
+        "speaker": "Ben Carter",
+        "timecode": "27:36.0",
+        "text": "Yeah, yeah, no, that's absolutely fine. But my, point is that, none of the evidence was looked at in July, so, like it. That's the ongoing case. Yes. Okay. But, okay, that's not my case.",
+        "vex_grade": "context",
+        "vex_tags": [],
+        "source_file": "22-04-25_Veritas_pre_3_hour_meeting_part_one.docx.txt"
+      },
+      {
+        "idx": 227,
+        "speaker": "Ben Carter",
+        "timecode": "29:18.6",
+        "text": "No.",
+        "vex_grade": "context",
+        "vex_tags": [],
+        "source_file": "22-04-25_Veritas_pre_3_hour_meeting_part_one.docx.txt"
+      },
+      {
+        "idx": 231,
+        "speaker": "Ben Carter",
+        "timecode": "29:34.6",
+        "text": "That timeline's completely wrong.",
+        "vex_grade": "context",
+        "vex_tags": [],
+        "source_file": "22-04-25_Veritas_pre_3_hour_meeting_part_one.docx.txt"
+      },
+      {
+        "idx": 233,
+        "speaker": "Ben Carter",
+        "timecode": "29:43.4",
+        "text": "No (not in November)",
+        "vex_grade": "context",
+        "vex_tags": [],
+        "source_file": "22-04-25_Veritas_pre_3_hour_meeting_part_one.docx.txt"
+      },
+      {
+        "idx": 273,
+        "speaker": "Ben Carter",
+        "timecode": "34:19.5",
+        "text": "No, that was later.",
+        "vex_grade": "context",
+        "vex_tags": [],
+        "source_file": "22-04-25_Veritas_pre_3_hour_meeting_part_one.docx.txt"
+      },
+      {
+        "idx": 327,
+        "speaker": "Ben Carter",
+        "timecode": "43:00.8",
+        "text": "Then a week later, I saw her in Brighton and I, I spoke to the a policewoman on 101, made her aware of this. There was no ambulance sent out. There was no like.",
+        "vex_grade": "context",
+        "vex_tags": [],
+        "source_file": "22-04-25_Veritas_pre_3_hour_meeting_part_one.docx.txt"
+      },
+      {
+        "idx": 332,
+        "speaker": "Ben Carter",
+        "timecode": "43:55.5",
+        "text": "No, because it was in November that that's what the police.",
+        "vex_grade": "context",
+        "vex_tags": [],
+        "source_file": "22-04-25_Veritas_pre_3_hour_meeting_part_one.docx.txt"
+      },
+      {
+        "idx": 345,
+        "speaker": "Ben Carter",
+        "timecode": "45:34.4",
+        "text": "So post suicide. But I wasn't able to tell anyone because there was no one to tell.",
+        "vex_grade": "silver_bullet",
+        "vex_tags": [
+          "suicide"
+        ],
+        "source_file": "22-04-25_Veritas_pre_3_hour_meeting_part_one.docx.txt"
+      },
+      {
+        "idx": 351,
+        "speaker": "Ben Carter",
+        "timecode": "45:51.3",
+        "text": "So I was I was on a bus. We both lived together and I was on the top deck and just saw her in the, In a flat. I wasn't spying on her, I was looking out the window like in no way.",
+        "vex_grade": "context",
+        "vex_tags": [],
+        "source_file": "22-04-25_Veritas_pre_3_hour_meeting_part_one.docx.txt"
+      },
+      {
+        "idx": 352,
+        "speaker": "Ben Carter",
+        "timecode": "46:10.5",
+        "text": "And like the fact she'd been faking she was in Brighton, like. Yeah, I absolutely know I was. So I had no. Yeah, I was like why did you fake you in Brighton if you're going to be in Brighton in the next week? You know, like.",
+        "vex_grade": "context",
+        "vex_tags": [],
+        "source_file": "22-04-25_Veritas_pre_3_hour_meeting_part_one.docx.txt"
+      },
+      {
+        "idx": 354,
+        "speaker": "Ben Carter",
+        "timecode": "46:32.2",
+        "text": "No.",
+        "vex_grade": "context",
+        "vex_tags": [],
+        "source_file": "22-04-25_Veritas_pre_3_hour_meeting_part_one.docx.txt"
+      },
+      {
+        "idx": 356,
+        "speaker": "Ben Carter",
+        "timecode": "46:47.6",
+        "text": "So that. Again, so that I was saying to the police then that there, that I would. And no, ambulance was called. I was basically hung up on and I've got the recording.",
+        "vex_grade": "context",
+        "vex_tags": [],
+        "source_file": "22-04-25_Veritas_pre_3_hour_meeting_part_one.docx.txt"
+      },
+      {
+        "idx": 360,
+        "speaker": "Ben Carter",
+        "timecode": "47:15.4",
+        "text": "No, but I, I only realised because I called them about this evidence and I was told that the last thing logged was my statement, not the suicide. That's when I realised, like I am not safeguarded by the police.",
+        "vex_grade": "silver_bullet",
+        "vex_tags": [
+          "suicide"
+        ],
+        "source_file": "22-04-25_Veritas_pre_3_hour_meeting_part_one.docx.txt"
+      },
+      {
+        "idx": 361,
+        "speaker": "Ben Carter",
+        "timecode": "47:35.8",
+        "text": "She's here, no one cares. My officers away. I was, I was asking for like, for evidence, like for what. What is going on? And I. Obviously very desperate, distressed.",
+        "vex_grade": "context",
+        "vex_tags": [],
+        "source_file": "22-04-25_Veritas_pre_3_hour_meeting_part_one.docx.txt"
+      },
+      {
+        "idx": 370,
+        "speaker": "Ben Carter",
+        "timecode": "48:44.4",
+        "text": "No, they didn't give me one. They wouldn't give me anything. They told me, at first I asked for someone and they said I'd phoned them and I'm threatening them.",
+        "vex_grade": "context",
+        "vex_tags": [],
+        "source_file": "22-04-25_Veritas_pre_3_hour_meeting_part_one.docx.txt"
+      },
+      {
+        "idx": 381,
+        "speaker": "Ben Carter",
+        "timecode": "50:12.4",
+        "text": "Whatever the. No. So it would have been about the 12th.",
+        "vex_grade": "context",
+        "vex_tags": [],
+        "source_file": "22-04-25_Veritas_pre_3_hour_meeting_part_one.docx.txt"
+      },
+      {
+        "idx": 10,
+        "speaker": "Ben Carter",
+        "timecode": "00:42.1",
+        "text": "They've said they've lost it.",
+        "vex_grade": "context",
+        "vex_tags": [],
+        "source_file": "23-04-25_veritas Part two.txt"
+      },
+      {
+        "idx": 11,
+        "speaker": "Ben Carter",
+        "timecode": "00:47.2",
+        "text": "Yeah. And they've said they've lost it. Etc.",
+        "vex_grade": "context",
+        "vex_tags": [],
+        "source_file": "23-04-25_veritas Part two.txt"
+      },
+      {
+        "idx": 23,
+        "speaker": "Ben Carter",
+        "timecode": "02:32.3",
+        "text": "Yeah, no, but, but so, so, but if it's not being used for evidence and they're desperate for it, like, they can hear it.",
+        "vex_grade": "context",
+        "vex_tags": [],
+        "source_file": "23-04-25_veritas Part two.txt"
+      },
+      {
+        "idx": 30,
+        "speaker": "Ben Carter",
+        "timecode": "03:12.9",
+        "text": "Like the allegation. Like, it's just the emotional, like. Yeah. Just that, like the suicide attempt wasn't logged.",
+        "vex_grade": "silver_bullet",
+        "vex_tags": [
+          "suicide"
+        ],
+        "source_file": "23-04-25_veritas Part two.txt"
+      },
+      {
+        "idx": 49,
+        "speaker": "Ben Carter",
+        "timecode": "05:04.1",
+        "text": "No, I called PC Dixon. He told me. No, I was just. I'd emailed him from hospital. I'd called him a few times and he said that he'd seen it this morning.",
+        "vex_grade": "gold_bullet",
+        "vex_tags": [
+          "pc dixon"
+        ],
+        "source_file": "23-04-25_veritas Part two.txt"
+      },
+      {
+        "idx": 52,
+        "speaker": "Ben Carter",
+        "timecode": "05:34.7",
+        "text": "I made some. No, no, not in the morning. In the afternoon. He saw it in the morning and didn't prioritise it at all and was angry to hear my voice.",
+        "vex_grade": "context",
+        "vex_tags": [],
+        "source_file": "23-04-25_veritas Part two.txt"
+      },
+      {
+        "idx": 61,
+        "speaker": "Ben Carter",
+        "timecode": "07:45.0",
+        "text": "No, ask, ask for it to be included? It should be included. A false rape. Like is, is it there? Is it, is it false? Like is there. Is there just the screenshots?",
+        "vex_grade": "context",
+        "vex_tags": [
+          "false rape allegation"
+        ],
+        "source_file": "23-04-25_veritas Part two.txt"
+      },
+      {
+        "idx": 76,
+        "speaker": "Ben Carter",
+        "timecode": "10:19.6",
+        "text": "Yeah, yeah, yeah, yeah, No, I understand.",
+        "vex_grade": "context",
+        "vex_tags": [],
+        "source_file": "23-04-25_veritas Part two.txt"
+      },
+      {
+        "idx": 92,
+        "speaker": "Ben Carter",
+        "timecode": "12:03.8",
+        "text": ", no, no, no. No, I. I just want to know, what is or isn't. Like, you've got summary, so that. That's. That. That's all I need. Like.",
+        "vex_grade": "context",
+        "vex_tags": [],
+        "source_file": "23-04-25_veritas Part two.txt"
+      },
+      {
+        "idx": 100,
+        "speaker": "Ben Carter",
+        "timecode": "13:03.9",
+        "text": "No, I'm just. I'm just asking it, like, From.",
+        "vex_grade": "context",
+        "vex_tags": [],
+        "source_file": "23-04-25_veritas Part two.txt"
+      },
+      {
+        "idx": 102,
+        "speaker": "Ben Carter",
+        "timecode": "13:11.6",
+        "text": "So. No. So, no, like, that's fine.",
+        "vex_grade": "context",
+        "vex_tags": [],
+        "source_file": "23-04-25_veritas Part two.txt"
+      },
+      {
+        "idx": 113,
+        "speaker": "Ben Carter",
+        "timecode": "14:31.5",
+        "text": "So, no? So. No. So. So. So the statement of like, is. Is that in, like. So there's no mention of social media.",
+        "vex_grade": "context",
+        "vex_tags": [],
+        "source_file": "23-04-25_veritas Part two.txt"
+      },
+      {
+        "idx": 115,
+        "speaker": "Ben Carter",
+        "timecode": "15:01.5",
+        "text": "No, no, no. No, in. After bail.",
+        "vex_grade": "silver_bullet",
+        "vex_tags": [
+          "bail"
+        ],
+        "source_file": "23-04-25_veritas Part two.txt"
+      },
+      {
+        "idx": 125,
+        "speaker": "Ben Carter",
+        "timecode": "15:49.8",
+        "text": "Yeah, yeah, no, no, that, that, that's fine. Sorry, so, yeah,",
+        "vex_grade": "context",
+        "vex_tags": [],
+        "source_file": "23-04-25_veritas Part two.txt"
+      },
+      {
+        "idx": 127,
+        "speaker": "Ben Carter",
+        "timecode": "16:06.0",
+        "text": "No no no all it was was, when you said phone. Phone call, I thought there was a phone call in the file. But, it's probably.",
+        "vex_grade": "context",
+        "vex_tags": [],
+        "source_file": "23-04-25_veritas Part two.txt"
+      },
+      {
+        "idx": 135,
+        "speaker": "Ben Carter",
+        "timecode": "17:46.7",
+        "text": "Yeah, no, no, no, but that's fine. If you can't answer anything that I, I respect that because, yeah, like, I respect that you don't have. Have it all, but",
+        "vex_grade": "context",
+        "vex_tags": [],
+        "source_file": "23-04-25_veritas Part two.txt"
+      },
+      {
+        "idx": 142,
+        "speaker": "Ben Carter",
+        "timecode": "19:16.2",
+        "text": "I know. Yeah, yeah, yeah. Could I please just, just yes or no. Just ask, if there's any, any case file or anything regarding the impact of harassment on my life.",
+        "vex_grade": "context",
+        "vex_tags": [],
+        "source_file": "23-04-25_veritas Part two.txt"
+      },
+      {
+        "idx": 158,
+        "speaker": "Ben Carter",
+        "timecode": "21:00.9",
+        "text": "No. Okay.",
+        "vex_grade": "context",
+        "vex_tags": [],
+        "source_file": "23-04-25_veritas Part two.txt"
+      },
+      {
+        "idx": 159,
+        "speaker": "Ben Carter",
+        "timecode": "21:07.6",
+        "text": "Is there, is there any reason why it's now being moved to July where it was November?",
+        "vex_grade": "context",
+        "vex_tags": [],
+        "source_file": "23-04-25_veritas Part two.txt"
+      },
+      {
+        "idx": 161,
+        "speaker": "Ben Carter",
+        "timecode": "21:22.6",
+        "text": "No. No, no, no. So. No. Yeah, Yeah, I'm just. I'm just asking you. I know. I know what you've got. I'm not asking you to justify. I'm just like, if you can't tell me, that's fine.",
+        "vex_grade": "context",
+        "vex_tags": [],
+        "source_file": "23-04-25_veritas Part two.txt"
+      },
+      {
+        "idx": 172,
+        "speaker": "Ben Carter",
+        "timecode": "22:29.9",
+        "text": "Yeah, yeah, no, no, that. That's absolutely fine.",
+        "vex_grade": "context",
+        "vex_tags": [],
+        "source_file": "23-04-25_veritas Part two.txt"
+      },
+      {
+        "idx": 180,
+        "speaker": "Ben Carter",
+        "timecode": "23:30.8",
+        "text": "Is. Are there reports, Considering I, wasn't safeguarded from the Point of suicide for 17 days, was",
+        "vex_grade": "silver_bullet",
+        "vex_tags": [
+          "suicide"
+        ],
+        "source_file": "23-04-25_veritas Part two.txt"
+      },
+      {
+        "idx": 195,
+        "speaker": "Ben Carter",
+        "timecode": "25:09.8",
+        "text": "I don't consent to.",
+        "vex_grade": "context",
+        "vex_tags": [],
+        "source_file": "23-04-25_veritas Part two.txt"
+      },
+      {
+        "idx": 197,
+        "speaker": "Ben Carter",
+        "timecode": "25:16.7",
+        "text": "No, no, not. I don't. I don't want it shining through Sussex Police.",
+        "vex_grade": "gold_bullet",
+        "vex_tags": [
+          "sussex police"
+        ],
+        "source_file": "23-04-25_veritas Part two.txt"
+      },
+      {
+        "idx": 199,
+        "speaker": "Ben Carter",
+        "timecode": "25:25.2",
+        "text": "Because they'll form a defence. I've spoken to multiple officers for the last 17 days, and no one has given me anything.",
+        "vex_grade": "context",
+        "vex_tags": [],
+        "source_file": "23-04-25_veritas Part two.txt"
+      },
+      {
+        "idx": 217,
+        "speaker": "Ben Carter",
+        "timecode": "28:30.7",
+        "text": "that that looks like someone that, still hasn't had contact with the police since. Since the 6th April, not logged suicide and still hasn't had any contact.",
+        "vex_grade": "silver_bullet",
+        "vex_tags": [
+          "suicide"
+        ],
+        "source_file": "23-04-25_veritas Part two.txt"
+      },
+      {
+        "idx": 218,
+        "speaker": "Ben Carter",
+        "timecode": "28:47.3",
+        "text": "That's safeguarding. I am not being safeguarded. Alanna, is now here.",
+        "vex_grade": "context",
+        "vex_tags": [],
+        "source_file": "23-04-25_veritas Part two.txt"
+      },
+      {
+        "idx": 255,
+        "speaker": "Ben Carter",
+        "timecode": "32:56.4",
+        "text": "Yeah. And the investigation carries on, meaning that her bail gets extended.",
+        "vex_grade": "silver_bullet",
+        "vex_tags": [
+          "bail"
+        ],
+        "source_file": "23-04-25_veritas Part two.txt"
+      },
+      {
+        "idx": 263,
+        "speaker": "Ben Carter",
+        "timecode": "33:57.8",
+        "text": "But. But yeah, I'm not sending something that was lost. That is not going to be. It shouldn't be lost. So that's the reason I don't want people.",
+        "vex_grade": "context",
+        "vex_tags": [],
+        "source_file": "23-04-25_veritas Part two.txt"
+      },
+      {
+        "idx": 276,
+        "speaker": "Ben Carter",
+        "timecode": "35:39.1",
+        "text": "No, I'm not i;m not the victim",
+        "vex_grade": "context",
+        "vex_tags": [],
+        "source_file": "23-04-25_veritas Part two.txt"
+      },
+      {
+        "idx": 278,
+        "speaker": "Ben Carter",
+        "timecode": "35:44.8",
+        "text": "I'm sorry, I'm the victim. Like, absolutely no.",
+        "vex_grade": "context",
+        "vex_tags": [],
+        "source_file": "23-04-25_veritas Part two.txt"
+      },
+      {
+        "idx": 288,
+        "speaker": "Ben Carter",
+        "timecode": "36:38.7",
+        "text": "so. No, no, ab. Absolutely not. They had, they had their chance. They told me. I am not providing phone records that they have told me through my phone when they should have done their job in the first place.",
+        "vex_grade": "context",
+        "vex_tags": [],
+        "source_file": "23-04-25_veritas Part two.txt"
+      },
+      {
+        "idx": 303,
+        "speaker": "Ben Carter",
+        "timecode": "38:38.5",
+        "text": "Yeah, yeah, no, if it's. Yeah, yeah, but, but if it is something they ask, would you be able to tell me how many times they asked it?",
+        "vex_grade": "context",
+        "vex_tags": [],
+        "source_file": "23-04-25_veritas Part two.txt"
+      },
+      {
+        "idx": 311,
+        "speaker": "Ben Carter",
+        "timecode": "40:11.6",
+        "text": "So absolutely no. And it, but if they do.",
+        "vex_grade": "context",
+        "vex_tags": [],
+        "source_file": "23-04-25_veritas Part two.txt"
+      },
+      {
+        "idx": 317,
+        "speaker": "Ben Carter",
+        "timecode": "40:47.8",
+        "text": "Yeah, yeah, no, no, no. All I'm saying, it's so you, you're, you're sat there, they say will he you?, you say no. And then they follow that up and you as a professional just absorb all their questions.",
+        "vex_grade": "context",
+        "vex_tags": [],
+        "source_file": "23-04-25_veritas Part two.txt"
+      },
+      {
+        "idx": 320,
+        "speaker": "Ben Carter",
+        "timecode": "41:13.6",
+        "text": "No, no, no. I'm saying that that would be. In that scenario you wouldn't be doing anything wrong. You'd just be answering. If I keep. Aren't asking you questions like your, your role is to sort of.",
+        "vex_grade": "context",
+        "vex_tags": [],
+        "source_file": "23-04-25_veritas Part two.txt"
+      },
+      {
+        "idx": 331,
+        "speaker": "Ben Carter",
+        "timecode": "43:25.4",
+        "text": "So no",
+        "vex_grade": "context",
+        "vex_tags": [],
+        "source_file": "23-04-25_veritas Part two.txt"
+      },
+      {
+        "idx": 337,
+        "speaker": "Ben Carter",
+        "timecode": "43:57.4",
+        "text": "No, I. I never want to see PC Dixon. Like that would retraumatise",
+        "vex_grade": "gold_bullet",
+        "vex_tags": [
+          "pc dixon"
+        ],
+        "source_file": "23-04-25_veritas Part two.txt"
+      },
+      {
+        "idx": 341,
+        "speaker": "Ben Carter",
+        "timecode": "44:09.3",
+        "text": "But. Oh, no, it would have to be Inspector Palmer.",
+        "vex_grade": "context",
+        "vex_tags": [
+          "inspector palmer"
+        ],
+        "source_file": "23-04-25_veritas Part two.txt"
+      }
+    ]
+  }
+}

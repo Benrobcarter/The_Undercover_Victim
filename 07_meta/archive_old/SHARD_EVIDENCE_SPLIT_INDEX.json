@@ -1,0 +1,23 @@
+{
+  "index_id": "SPLIT_2025-08-30T03:24:47.589942Z",
+  "source_file": "shard_evidence_vex.json",
+  "max_chunk_bytes": 501760,
+  "parts": [
+    {
+      "file": "shard_evidence_vex_split_001.json",
+      "count": 9,
+      "date_range": [
+        "2024-11-07",
+        "2025-05-16"
+      ]
+    },
+    {
+      "file": "shard_evidence_vex_split_002.json",
+      "count": 1,
+      "date_range": [
+        null,
+        null
+      ]
+    }
+  ]
+}

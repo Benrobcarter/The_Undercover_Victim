@@ -1,0 +1,35 @@
+{
+  "id": "EVID_2025-03_to_07_Veritas_EmmaJones_WhatsApp_Log",
+  "filename_original": "Emma Jones Veritas Whatsapp.pdf",
+  "filename_suggested": "EVID_2025-03_to_07_Veritas_EmmaJones_WhatsApp_Log.pdf",
+  "file_path": "/mnt/data/Emma Jones Veritas Whatsapp.pdf",
+  "file_mime_type": "application/pdf",
+  "title": "Emma Jones (Veritas) — WhatsApp Log",
+  "date_range_start": "2025-03-27",
+  "date_range_end": "2025-07-08",
+  "timezone": "Europe/London",
+  "evidence_type": "whatsapp_log",
+  "ocr_text_path": "/mnt/data/EVID_2025-03_to_07_Veritas_EmmaJones_WhatsApp_OCR.txt",
+  "status": "ocr_parsed",
+  "vex_tags": [
+    "VERITAS_WHATSAPP",
+    "BAIL_STATUS_REQUESTS",
+    "SERVICE_ESCALATION",
+    "MARAC_REFERENCES",
+    "MENTAL_HEALTH_DISCLOSURE",
+    "NO_UPDATE_FROM_POLICE"
+  ],
+  "timeline_hooks": [
+    "VeritasWhatsApp",
+    "ExternalConfirmations",
+    "DeathBySilence",
+    "BailStatus"
+  ],
+  "related_evidence_ids": [
+    "EVID_2025-06-25_1022_Veritas_Call_WriteUp",
+    "EMAIL_2025-06-25_1107_Veritas_EmmaJones_Your_Support",
+    "EMAIL_2025-06-25_1121_Veritas_EmmaJones_Your_Safety_Plan",
+    "EVID_2025-06-25_1121_Safety_Plan_BC"
+  ],
+  "notes": "OCR paste caused unicode parsing issues in the notebook; the PDF is linked and the structured event timeline is below. We can attach a cleaned OCR text file on request."
+}

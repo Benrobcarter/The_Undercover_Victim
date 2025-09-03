@@ -1,0 +1,13 @@
+{
+  "index_id": "FULL_EVIDENCE_CHUNKS_2025-08-30T03:22:28.942668Z",
+  "source": "All VEX* atomic evidence files present in /mnt/data at build time",
+  "chunk_target_bytes": 491520,
+  "chunks": [
+    {
+      "file": "shard_evidence_full_chunk_001.json",
+      "size_bytes": 195524
+    }
+  ],
+  "errors": [],
+  "total_items": 5
+}

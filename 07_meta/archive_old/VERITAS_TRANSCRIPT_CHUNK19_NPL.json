@@ -1,0 +1,80 @@
+{
+  "chunk": 19,
+  "time_range": "18:30-19:30",
+  "quotes": [
+    {
+      "speaker": "Ben Carter",
+      "time": "18:30",
+      "quote": "I’ve been saying the same thing for months, but nothing changes. How is that acceptable?",
+      "tags": [
+        "victim_experience",
+        "systemic_failure",
+        "accountability"
+      ]
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "18:37",
+      "quote": "It isn’t acceptable, Ben, and I’ve told them that too.",
+      "tags": [
+        "acknowledgement",
+        "advocacy"
+      ]
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "18:42",
+      "quote": "Then why is it still happening?",
+      "tags": [
+        "victim_assertion",
+        "contradiction",
+        "frustration"
+      ]
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "18:45",
+      "quote": "Because the system is slow to respond, but I will continue to press them.",
+      "tags": [
+        "systemic_issue",
+        "delay",
+        "advocacy"
+      ]
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "18:50",
+      "quote": "Slow isn’t good enough when my safety is on the line.",
+      "tags": [
+        "safeguarding",
+        "victim_experience",
+        "risk"
+      ]
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "18:55",
+      "quote": "I agree, it isn’t good enough.",
+      "tags": [
+        "acknowledgement",
+        "agreement"
+      ]
+    }
+  ],
+  "contradictions": [
+    {
+      "issue": "Victim asks why systemic failure persists; advocate blames 'slow system' but concedes not acceptable",
+      "type": "systemic_failure_concession"
+    }
+  ],
+  "timeline_hooks": [
+    {
+      "ref": "months with no change",
+      "link": "Ongoing systemic neglect May 2025"
+    },
+    {
+      "ref": "slow system excuse",
+      "link": "Institutional delay vs. safeguarding risk"
+    }
+  ]
+}

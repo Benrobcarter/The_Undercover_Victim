@@ -1,0 +1,46 @@
+{
+  "meta": {
+    "evidence_id": "VEX_EMAIL_2025-02-12_1409_Bail_confirmation_conditions_15",
+    "thread_id": "EMAIL_THREAD_47240214305_DIXON_Carter",
+    "created_utc": "2025-08-30T02:12:33Z",
+    "date_local": "2025-02-12",
+    "time_local": "14:09",
+    "from": "Dixon, Jon EA817 <Jon.Dixon@sussex.police.uk>",
+    "to": "Ben Carter <benrobcarter@gmail.com>",
+    "cc": [],
+    "subject": "Bail confirmation & conditions",
+    "attachments": [],
+    "clusters": [
+      "CRIME_REF_47240214305_THREAD",
+      "DEATH_BY_SILENCE",
+      "ACCESS_BARRIER",
+      "CROWBARRING_MYSELF_JUSTICE"
+    ],
+    "status": "verbatim_ingested",
+    "project_paths": {
+      "evidence_dst": "01_evidence/vex/email/"
+    }
+  },
+  "claim_summary": "Email preserved verbatim as part of 47240214305 thread.",
+  "key_points": [],
+  "contradictions": [],
+  "timeline_hooks": [
+    {
+      "when": "2025-02-12T14:09:00",
+      "tag": "EMAIL_THREAD_ACTIVITY",
+      "note": "Email: Bail confirmation & conditions"
+    }
+  ],
+  "cue_alignment": {
+    "status": "complete_from_user_text"
+  },
+  "cues": [
+    {
+      "index": 1,
+      "start": null,
+      "end": null,
+      "speaker": "Dixon, Jon EA817 <Jon.Dixon@sussex.police.uk>",
+      "quote": "Hi Ben\nIt’s understandable to have concerns and worries, if you need additional support let me know and I\ncan make referrals.\nAs per our conversation yesterday I can confirm that Alanna is still on bail. This was what is called\nInitial Bail to start with but as of 2nd February 2025 this bail period has been extended till 4th May\n2025. The conditions to not contact you or attend your address remain the same, if she sees you in\nthe street or at a venue for example she must make all reasonable effort to leave as soon as she\nbecomes aware. The bail conditions apply to you as you are the victim and will remain as such while\nthe investigation is ongoing .\nI hope that this answers your query."
+    }
+  ]
+}

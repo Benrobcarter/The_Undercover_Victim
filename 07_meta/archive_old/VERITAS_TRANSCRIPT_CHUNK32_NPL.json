@@ -1,0 +1,82 @@
+{
+  "chunk": 32,
+  "time_range": "31:30-32:30",
+  "quotes": [
+    {
+      "speaker": "Ben Carter",
+      "time": "31:30",
+      "quote": "If I can’t trust them, then how am I supposed to feel safe at all?",
+      "tags": [
+        "victim_experience",
+        "safeguarding",
+        "trust_issue"
+      ]
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "31:36",
+      "quote": "I know, and that’s why I’ve told them they need to rebuild that trust.",
+      "tags": [
+        "acknowledgement",
+        "advocacy",
+        "trust"
+      ]
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "31:41",
+      "quote": "Trust isn’t rebuilt with words, it’s rebuilt with actions.",
+      "tags": [
+        "victim_assertion",
+        "accountability",
+        "safeguarding"
+      ]
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "31:46",
+      "quote": "I agree, and I’ll keep asking for concrete actions from them.",
+      "tags": [
+        "advocacy",
+        "acknowledgement",
+        "action"
+      ]
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "31:51",
+      "quote": "But until then, I’m left exposed.",
+      "tags": [
+        "victim_experience",
+        "risk",
+        "safeguarding_gap"
+      ]
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "31:55",
+      "quote": "I know, and that’s why I keep pressing them on immediate safety as well.",
+      "tags": [
+        "acknowledgement",
+        "advocacy",
+        "safeguarding"
+      ]
+    }
+  ],
+  "contradictions": [
+    {
+      "issue": "Victim highlights absence of safety without trust; advocate concedes but provides no present protection",
+      "type": "safeguarding_failure"
+    }
+  ],
+  "timeline_hooks": [
+    {
+      "ref": "trust not rebuilt with words",
+      "link": "Demand for action-based accountability May 2025"
+    },
+    {
+      "ref": "victim left exposed",
+      "link": "Ongoing safeguarding risk"
+    }
+  ]
+}

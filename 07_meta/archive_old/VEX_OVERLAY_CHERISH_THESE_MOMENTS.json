@@ -1,0 +1,25 @@
+{
+  "overlay_id": "VEX_OVERLAY_CHERISH_THESE_MOMENTS",
+  "title": "Cherish These Moments, Ben",
+  "date": "2025-06-22",
+  "quote": "And when the sun goes\nover the same skyline \u2014\ndown on the victim,\ndown with the 101 callers,\ndown with the police.\n\nA day of going round in circles.\n\nThis is my life.\nThis is purpose.\nWarped. Surreal. Content.\n\nCherish these moments, Ben.",
+  "source": "SECTION_3_WORKING_DRAFT_v1.1.md",
+  "type": "interlude_poem_overlay",
+  "tags": [
+    "DEATH_BY_SILENCE",
+    "LOOPING_RESPONSES",
+    "DISSOCIATION_EFFECT",
+    "RESOLVE_AFTER_ATTEMPT",
+    "INSTITUTIONAL_FAMILIARITY",
+    "SAFEGUARDING_FAILURE"
+  ],
+  "linked_timeline_events": [
+    "101_2025-06-22_0037_MONOLOGUE.wav",
+    "22-06-25_04_56_101_Call_\u201chung up just from seeing who was calling.txt"
+  ],
+  "linked_contradictions": [
+    "VEX_2025-06-22_Cherish_Bundle_v2_LOOP_ADDED",
+    "VEX_2025-06-22_0506_Humiliation_Protocol",
+    "VEX_2025-06-22_System_Exposure_Crime_Number_Manipulation"
+  ]
+}

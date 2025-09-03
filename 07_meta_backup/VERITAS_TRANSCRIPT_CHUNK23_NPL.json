@@ -1,0 +1,81 @@
+{
+  "chunk": 23,
+  "time_range": "22:30-23:30",
+  "quotes": [
+    {
+      "speaker": "Ben Carter",
+      "time": "22:30",
+      "quote": "They act confused when I say evidence is missing, then ask me to send it again like it’s the first time.",
+      "tags": [
+        "victim_experience",
+        "evidence_loss",
+        "contradiction"
+      ]
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "22:37",
+      "quote": "Yes, and that’s why I’ve said they need to keep proper logs to avoid this cycle.",
+      "tags": [
+        "acknowledgement",
+        "advocacy",
+        "recordkeeping"
+      ]
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "22:42",
+      "quote": "But it’s not a cycle, it’s a tactic. They know what they’re doing.",
+      "tags": [
+        "victim_assertion",
+        "evidence_tampering",
+        "gaslighting"
+      ]
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "22:47",
+      "quote": "I can’t say if it’s deliberate, but I know it feels deliberate to you.",
+      "tags": [
+        "deflection",
+        "acknowledgement",
+        "neutral_response"
+      ]
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "22:52",
+      "quote": "Of course it feels deliberate, because no system loses things this many times by accident.",
+      "tags": [
+        "victim_experience",
+        "systemic_failure",
+        "trust_issue"
+      ]
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "22:57",
+      "quote": "I understand, Ben, and I’ll keep pressing them on it.",
+      "tags": [
+        "acknowledgement",
+        "advocacy"
+      ]
+    }
+  ],
+  "contradictions": [
+    {
+      "issue": "Victim asserts deliberate evidence erasure vs. advocate frames as system failure but concedes perception of intent",
+      "type": "evidence_handling_contradiction"
+    }
+  ],
+  "timeline_hooks": [
+    {
+      "ref": "acting confused then asking resubmission",
+      "link": "Pattern of evidence gaslighting"
+    },
+    {
+      "ref": "systematic loss vs deliberate",
+      "link": "Evidence tampering suspicion"
+    }
+  ]
+}

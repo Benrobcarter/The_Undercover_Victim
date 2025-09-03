@@ -1,0 +1,81 @@
+{
+  "chunk": 9,
+  "time_range": "8:30-9:30",
+  "quotes": [
+    {
+      "speaker": "Ben Carter",
+      "time": "8:30",
+      "quote": "They told me before that all my evidence had been passed over, but now it’s like they’ve never seen it.",
+      "tags": [
+        "contradiction",
+        "evidence_loss",
+        "victim_experience"
+      ]
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "8:37",
+      "quote": "Yes, the SASH did record that everything had been given, but later it seems the police couldn’t locate it.",
+      "tags": [
+        "acknowledgement",
+        "contradiction",
+        "systemic_issue"
+      ]
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "8:44",
+      "quote": "So which one is true? Either it was passed or it wasn’t.",
+      "tags": [
+        "accountability",
+        "contradiction",
+        "frustration"
+      ]
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "8:49",
+      "quote": "That’s why I asked them to confirm receipt, but they haven’t responded yet.",
+      "tags": [
+        "advocacy",
+        "delay",
+        "withholding_information"
+      ]
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "8:55",
+      "quote": "It feels like they’re playing games with my safety.",
+      "tags": [
+        "victim_experience",
+        "risk",
+        "safeguarding"
+      ]
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "9:00",
+      "quote": "I understand, Ben. I’ll keep pushing them to clarify.",
+      "tags": [
+        "acknowledgement",
+        "advocacy"
+      ]
+    }
+  ],
+  "contradictions": [
+    {
+      "issue": "SASH record 'all evidence passed to police' vs later police 'cannot locate evidence'",
+      "type": "evidence_handling_contradiction"
+    }
+  ],
+  "timeline_hooks": [
+    {
+      "ref": "SASH all passed to police",
+      "link": "25 Nov 2024 SASH entry"
+    },
+    {
+      "ref": "police cannot locate evidence",
+      "link": "7 May 2025 case note + transcript admission"
+    }
+  ]
+}

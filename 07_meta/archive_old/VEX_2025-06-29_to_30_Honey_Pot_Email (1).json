@@ -1,0 +1,108 @@
+{
+  "meta": {
+    "evidence_id": "VEX_2025-06-29_to_30_Honey_Pot_Email",
+    "title": "29–30 Jun 2025 — The “Honey Pot” Email to Sussex Police (Counter‑intelligence probe)",
+    "date_local": "2025-06-29/2025-06-30",
+    "parties": [
+      "Ben Carter",
+      "Sussex Police (Citizen Portal/Replies)"
+    ],
+    "clusters": [
+      "SUSSEX_POLICE",
+      "HONEY_POT_PROBE",
+      "CRIME_REF_47250093423_THREAD",
+      "PC_RUSSELL_DECOY",
+      "SAR_AS_ACCESS_BARRIER",
+      "EVIDENCE_HANDLING_BREACH"
+    ],
+    "status": "draft_analysis",
+    "source_files": [
+      "Section 3.54 - The _Honey Pot_ Email.pdf",
+      "16 May 2025 at 12-37 - Update on your case. Crime Reference Number_ 47250093423.pdf"
+    ],
+    "version": "1.0.0"
+  },
+  "claim_summary": "A deliberately crafted ‘honey pot’ email was sent around 29–30 June 2025 to test Sussex Police’s record integrity after a SAR refusal. The email intentionally mixed a false timeline statement with attachments (including an audio file and the ‘PC Russell’ letter as ‘proof of address’) to observe whether the system would detect and correct inconsistencies or simply absorb them.",
+  "key_points": [
+    "Email body contained a deliberate falsehood about a prior NICE‑link submission (‘wrong file, sent in November for a different crime’).",
+    "Attachment 1: audio — “Alanna Shows UP At My Door Latet Monzo £100 26-09-24.mp3.”",
+    "Attachment 2: image — letter assigning ‘PC Russell’ (used sarcastically as ‘proof of address’).",
+    "Objective: probe whether Sussex Police systems could reconcile contradictory inputs and flag the inconsistency."
+  ],
+  "contradictions": [
+    {
+      "code": "PC_RUSSELL_DECOY",
+      "claim": "Use of the ‘PC Russell’ letter as ‘proof of address’ highlights prior decoy/officer-misdirection concerns.",
+      "impact": [
+        "Signals systemic narrative/assignment inconsistencies.",
+        "Supports thesis of administrative misdirection or record confusion."
+      ]
+    },
+    {
+      "code": "SAR_AS_ACCESS_BARRIER",
+      "claim": "Honey‑pot was triggered by an unlawful/obstructive SAR pathway; testing became the only route to surface record issues.",
+      "impact": [
+        "Delays, burden shifted to victim; transparency deficit."
+      ]
+    },
+    {
+      "code": "RECORD_INTEGRITY",
+      "claim": "Police system’s ability to detect and correct a deliberate false statement was tested; failure would indicate compromised record integrity.",
+      "impact": [
+        "Undermines confidence in auditability and chain‑of‑custody for evidence."
+      ]
+    }
+  ],
+  "key_quotes": [
+    {
+      "source": "Email text (June 30)",
+      "text": "Sorry wrong one, that was sent in via a nice link in November for a different crime, here's my proof of address",
+      "grade": "gold"
+    },
+    {
+      "source": "Analysis doc",
+      "text": "This email was not an act of harassment; it was an act of counter‑intelligence forced upon a victim.",
+      "grade": "silver"
+    }
+  ],
+  "related_material": [
+    {
+      "label": "Email chain 29–30 Jun 2025",
+      "path_or_ref": "Citizen Portal thread / reply address"
+    },
+    {
+      "label": "Audio attachment",
+      "filename": "Alanna Shows UP At My Door Latet Monzo £100 26-09-24.mp3"
+    },
+    {
+      "label": "Image attachment",
+      "filename": "PC_Russell_letter.png|jpg|pdf (exact ext unknown)"
+    }
+  ],
+  "timeline_hooks": [
+    {
+      "when": "2025-06-29T23:53:00",
+      "tz": "Europe/London",
+      "tag": "HONEY_POT_SENT",
+      "note": "Initial message into Citizen Portal thread."
+    },
+    {
+      "when": "2025-06-30T00:06:00",
+      "tz": "Europe/London",
+      "tag": "HONEY_POT_ATTACHMENT",
+      "note": "‘Proof of address’ message with audio attached."
+    },
+    {
+      "when": "2025-06-30T00:10:00",
+      "tz": "Europe/London",
+      "tag": "HONEY_POT_CORRECTION",
+      "note": "Follow‑up ‘wrong one’ + ‘proof of address’ statement."
+    }
+  ],
+  "links": {
+    "citizen_portal_clicks": [
+      "citizenportal.sussex.police.uk/?qs=…"
+    ]
+  },
+  "hash": "66b057b81769c313d673e0b78567c24a0167703bb0a0d30bcd785de4b87dd921"
+}

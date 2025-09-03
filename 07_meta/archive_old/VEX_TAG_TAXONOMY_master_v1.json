@@ -1,0 +1,398 @@
+{
+  "schema": "VEX_TAG_TAXONOMY_v1",
+  "file_version": "1.0",
+  "generated_utc": "2025-08-28T22:39:17.018693Z",
+  "about": {
+    "purpose": "Single source of truth for tags used across the Master Case File. Each tag has a definition, examples, and when-to-use guidance for NPL transcription and analysis.",
+    "applies_to": [
+      "transcripts",
+      "policies",
+      "emails",
+      "logs",
+      "timelines",
+      "atlas"
+    ],
+    "npl_notes": [
+      "Aim for 3–6 tags per line: actor cluster, legal/safeguarding, emotional tone, and contradiction if present.",
+      "Prefer specific tags over generic ones (e.g., CPS_ESCALATION instead of LEGAL).",
+      "Never paraphrase quotes; VEX tags annotate, not rewrite.",
+      "If unsure, add TODO_REVIEW and proceed; do not stall the workflow."
+    ]
+  },
+  "categories": [
+    {
+      "id": "safeguarding",
+      "label": "Safeguarding & Duty of Care",
+      "tags": {
+        "SAFEGUARDING_CONTEXT": "Conversation or document is framed as safeguarding.",
+        "SAFEGUARDING_TRIGGER": "A disclosure that should trigger safeguarding action.",
+        "SUICIDE_DISCLOSURE": "Explicit disclosure of suicidal intent/attempt.",
+        "SUICIDE_MINIMISATION": "Downplaying or reframing a suicide disclosure.",
+        "DUTY_OF_CARE": "General duty to protect welfare (Care Act 2014 / policy).",
+        "DUTY_OF_CARE_BREACH": "Failure to act in line with safeguarding duty.",
+        "CHARITY_DUTY_OF_CARE_BREACH": "Breach by charity under its own policy/guidance.",
+        "TRAUMA_INFORMED_PRACTICE": "Acknowledges/uses trauma-informed approach.",
+        "SAFEGUARDING_FAILURE": "Outcome indicates safeguarding did not occur as required.",
+        "REPORTING_PROCESS": "Refers to referrals/DSO/MASH/Access Point steps.",
+        "DISCLOSURE_HANDLING": "How a disclosure was received/recorded/escalated.",
+        "POLICY_VS_PRACTICE": "Mismatch between written policy and behaviour.",
+        "ERASURE_AS_SAFEGUARDING": "Invoking ‘safeguarding’ to silence/minimise the reporter."
+      }
+    },
+    {
+      "id": "police_legal",
+      "label": "Police, Legal & Evidence",
+      "tags": {
+        "CPS_ESCALATION": "Matter escalated to Crown Prosecution Service.",
+        "LOST_EVIDENCE": "Key evidence lost/misplaced by authorities.",
+        "JULY_CALL_LOST": "Specific lost call/file from July (thread anchor).",
+        "VICTIM_BLAMING_POLICE": "Police response blames victim for exposure or actions.",
+        "POLICE_FAILINGS": "General failure by police (delay, omission, conduct).",
+        "INVESTIGATIVE_OMISSION": "Failure to ask for or consider context/evidence.",
+        "POLICE_DISCLOSURE_FAILURE": "Not sharing necessary information with victim/partners.",
+        "POST_BAIL_NO_WARNING_EXPOSURE": "Known risk despite no-contact conditions.",
+        "THREAT_VIA_SOCIAL_MEDIA": "Threats/harassment via online platforms.",
+        "VOICE_CALL_EVIDENCE": "Evidence exists as call/voicemail/audio.",
+        "PROOF_OF_SUBMISSION": "Proof evidence was submitted to authorities.",
+        "EVIDENCE_RETRAUMATISATION": "Evidence review caused emotional harm."
+      },
+      "legal_references_examples": [
+        "Care Act 2014 (Adult Safeguarding)",
+        "Protection from Harassment Act 1997",
+        "Fraud Act 2006 (abuse of position)",
+        "Human Rights Act 1998 (Art 2/3)",
+        "Defamation Act 2013",
+        "UK GDPR / DPA 2018"
+      ]
+    },
+    {
+      "id": "contradictions",
+      "label": "Contradictions & Institutional Behaviour",
+      "tags": {
+        "2024_ERASURE": "Attempt to exclude 2024 failures from discussion.",
+        "FRINGE_DEFLECTION_TACTIC": "Redirecting away from accountability topic.",
+        "INSTITUTIONAL_GASLIGHTING": "Reframing valid concerns as unreasonable/abusive.",
+        "VENUE_TAKEOVER_THREAT": "Implicit/explicit pressure to hand operations over.",
+        "VENUE_TAKEOVER_ESCALATION": "Downstream escalation of takeover pressure.",
+        "REFRAMING_ABUSE": "Calling criticism/publication ‘abuse’ of goodwill.",
+        "DUNCAN_ASSISTED_ERASURE": "Chair aligns to shut down lines of inquiry.",
+        "NO_SAFEGUARDING_PROTOCOL_EXISTS": "Practice contradicts having a live protocol.",
+        "FRINGE_VS_POLICE_PASS_THE_BUCKET": "Mutual deflection between Fringe & Police."
+      },
+      "contradiction_id_format": "BF-CONTRA-[SHORT-NAME]-[YYYY-MM-DD]",
+      "example_contradictions": [
+        {
+          "id": "BF-CONTRA-2024_ERASURE-2025-04-09",
+          "claim": "Not the time to discuss 2024.",
+          "reality": "2024 failures directly affect 2025 safety and trust."
+        },
+        {
+          "id": "BF-CONTRA-SUICIDE_MINIMISATION-2025-04-09",
+          "claim": "We take your disclosure seriously.",
+          "reality": "Simultaneous threat to withdraw support if emails shared."
+        }
+      ]
+    },
+    {
+      "id": "emotional",
+      "label": "Emotional & Psychological",
+      "tags": {
+        "EMOTIONAL_COLLAPSE": "Acute distress leading to exit/withdrawal.",
+        "BURNOUT": "Exhaustion impairing function.",
+        "NUMBNESS": "Detachment during evidence review.",
+        "COERCION_TRAUMA": "Trauma responses tied to coercive control.",
+        "STALKING_TERROR": "Fear from stalking/nearby presence.",
+        "VICTIM_RESILIENCE": "Strength/agency despite harm.",
+        "EMOTIONAL_FRAGMENT": "Clipped or incomplete phrases reflecting distress."
+      }
+    },
+    {
+      "id": "ops_fringe",
+      "label": "Fringe Operations & Comms",
+      "tags": {
+        "VENUE_PLAN_PRESENT": "Victim had an ops plan/team.",
+        "EMAIL_RESPONSE_POLICY": "Stated response SLAs (e.g., 24–48h).",
+        "VENUE_EMAIL_RESPONSE_DELAY": "Delay/failure to respond to venue emails.",
+        "MARKETING_SUPPORT_LIMITED": "Only limited marketing support offered.",
+        "NO_FREE_SHOUTOUTS": "Refusal to do bespoke promo for free.",
+        "PROMO_CODE_IDEA": "Use of discount codes to stimulate sales.",
+        "ARTIST_STRESS_RELAY": "Acts emailing in distress relayed to Fringe.",
+        "CC_TEAM_PROPOSAL": "Fringe proposes redirecting emails to team/CCs.",
+        "VENUE_TAKEOVER_PRESSURE_RISK": "Coordination framing that risks takeover."
+      }
+    },
+    {
+      "id": "recovery_positive",
+      "label": "Recovery, Sober Spaces & Positive Actions",
+      "tags": {
+        "SOBER_VENUE_INITIATIVE": "Creating sober comedy/events (e.g., Puck Rock).",
+        "CGL_MENTORSHIP": "Mentoring with Change Grow Live.",
+        "SOBER_SPACE_BENEFITS": "Benefits of alcohol-free spaces.",
+        "COMMUNITY_RESILIENCE": "Mutual aid and community building."
+      }
+    },
+    {
+      "id": "cross_logs",
+      "label": "Cross-Log Patterns",
+      "tags": {
+        "SAFEHARMING_LOG_PARALLEL": "Same pattern appears in Safeharming Log.",
+        "BOX_OFFICE_FORCED_ROLE": "Being forced to act as box office/ops beyond remit.",
+        "HATE_TURNAROUND": "Selective responses to hate vs. direct threats.",
+        "PICKED_AND_CHOSEN": "Institution picks which issues to answer."
+      }
+    }
+  ],
+  "tag_index": {
+    "SAFEGUARDING_CONTEXT": [
+      "safeguarding"
+    ],
+    "SAFEGUARDING_TRIGGER": [
+      "safeguarding"
+    ],
+    "SUICIDE_DISCLOSURE": [
+      "safeguarding"
+    ],
+    "SUICIDE_MINIMISATION": [
+      "safeguarding",
+      "contradictions"
+    ],
+    "DUTY_OF_CARE": [
+      "safeguarding"
+    ],
+    "DUTY_OF_CARE_BREACH": [
+      "safeguarding"
+    ],
+    "CHARITY_DUTY_OF_CARE_BREACH": [
+      "safeguarding",
+      "contradictions"
+    ],
+    "TRAUMA_INFORMED_PRACTICE": [
+      "safeguarding"
+    ],
+    "SAFEGUARDING_FAILURE": [
+      "safeguarding"
+    ],
+    "REPORTING_PROCESS": [
+      "safeguarding",
+      "police_legal"
+    ],
+    "DISCLOSURE_HANDLING": [
+      "safeguarding"
+    ],
+    "POLICY_VS_PRACTICE": [
+      "safeguarding",
+      "contradictions"
+    ],
+    "ERASURE_AS_SAFEGUARDING": [
+      "safeguarding",
+      "contradictions"
+    ],
+    "CPS_ESCALATION": [
+      "police_legal"
+    ],
+    "LOST_EVIDENCE": [
+      "police_legal"
+    ],
+    "JULY_CALL_LOST": [
+      "police_legal"
+    ],
+    "VICTIM_BLAMING_POLICE": [
+      "police_legal"
+    ],
+    "POLICE_FAILINGS": [
+      "police_legal"
+    ],
+    "INVESTIGATIVE_OMISSION": [
+      "police_legal"
+    ],
+    "POLICE_DISCLOSURE_FAILURE": [
+      "police_legal"
+    ],
+    "POST_BAIL_NO_WARNING_EXPOSURE": [
+      "police_legal"
+    ],
+    "THREAT_VIA_SOCIAL_MEDIA": [
+      "police_legal"
+    ],
+    "VOICE_CALL_EVIDENCE": [
+      "police_legal"
+    ],
+    "PROOF_OF_SUBMISSION": [
+      "police_legal"
+    ],
+    "EVIDENCE_RETRAUMATISATION": [
+      "police_legal",
+      "emotional"
+    ],
+    "2024_ERASURE": [
+      "contradictions"
+    ],
+    "FRINGE_DEFLECTION_TACTIC": [
+      "contradictions",
+      "ops_fringe"
+    ],
+    "INSTITUTIONAL_GASLIGHTING": [
+      "contradictions"
+    ],
+    "VENUE_TAKEOVER_THREAT": [
+      "contradictions",
+      "ops_fringe"
+    ],
+    "VENUE_TAKEOVER_ESCALATION": [
+      "contradictions",
+      "ops_fringe"
+    ],
+    "REFRAMING_ABUSE": [
+      "contradictions"
+    ],
+    "DUNCAN_ASSISTED_ERASURE": [
+      "contradictions"
+    ],
+    "NO_SAFEGUARDING_PROTOCOL_EXISTS": [
+      "contradictions",
+      "safeguarding"
+    ],
+    "FRINGE_VS_POLICE_PASS_THE_BUCKET": [
+      "contradictions"
+    ],
+    "EMOTIONAL_COLLAPSE": [
+      "emotional"
+    ],
+    "BURNOUT": [
+      "emotional"
+    ],
+    "NUMBNESS": [
+      "emotional"
+    ],
+    "COERCION_TRAUMA": [
+      "emotional",
+      "police_legal"
+    ],
+    "STALKING_TERROR": [
+      "emotional",
+      "police_legal"
+    ],
+    "VICTIM_RESILIENCE": [
+      "emotional"
+    ],
+    "EMOTIONAL_FRAGMENT": [
+      "emotional"
+    ],
+    "VENUE_PLAN_PRESENT": [
+      "ops_fringe"
+    ],
+    "EMAIL_RESPONSE_POLICY": [
+      "ops_fringe"
+    ],
+    "VENUE_EMAIL_RESPONSE_DELAY": [
+      "ops_fringe"
+    ],
+    "MARKETING_SUPPORT_LIMITED": [
+      "ops_fringe"
+    ],
+    "NO_FREE_SHOUTOUTS": [
+      "ops_fringe"
+    ],
+    "PROMO_CODE_IDEA": [
+      "ops_fringe"
+    ],
+    "ARTIST_STRESS_RELAY": [
+      "ops_fringe",
+      "emotional"
+    ],
+    "CC_TEAM_PROPOSAL": [
+      "ops_fringe"
+    ],
+    "VENUE_TAKEOVER_PRESSURE_RISK": [
+      "ops_fringe",
+      "contradictions"
+    ],
+    "SOBER_VENUE_INITIATIVE": [
+      "recovery_positive"
+    ],
+    "CGL_MENTORSHIP": [
+      "recovery_positive"
+    ],
+    "SOBER_SPACE_BENEFITS": [
+      "recovery_positive"
+    ],
+    "COMMUNITY_RESILIENCE": [
+      "recovery_positive"
+    ],
+    "SAFEHARMING_LOG_PARALLEL": [
+      "cross_logs"
+    ],
+    "BOX_OFFICE_FORCED_ROLE": [
+      "cross_logs",
+      "ops_fringe"
+    ],
+    "HATE_TURNAROUND": [
+      "cross_logs",
+      "contradictions"
+    ],
+    "PICKED_AND_CHOSEN": [
+      "cross_logs",
+      "contradictions"
+    ],
+    "TODO_REVIEW": [
+      "meta"
+    ]
+  },
+  "defaults": {
+    "actor_clusters": [
+      "Brighton Fringe",
+      "Ben Carter",
+      "Sussex Police",
+      "Alanna O'Hare"
+    ],
+    "timeline_hooks": [
+      "SAFEGUARDING_MEETING_2025-04-09"
+    ],
+    "contradiction_id_format": "BF-CONTRA-[SHORT-NAME]-[YYYY-MM-DD]",
+    "legal_references_preferred": [
+      "Care Act 2014",
+      "Charities Act 2011 (CC3/CC9)",
+      "UK GDPR / DPA 2018",
+      "Protection from Harassment Act 1997",
+      "Defamation Act 2013",
+      "Human Rights Act 1998",
+      "Fraud Act 2006"
+    ]
+  },
+  "examples": [
+    {
+      "quote": "I tried to kill myself on Saturday.",
+      "tags": [
+        "SUICIDE_DISCLOSURE",
+        "SAFEGUARDING_TRIGGER",
+        "DUTY_OF_CARE",
+        "LIFE_OR_DEATH_LOGGED"
+      ],
+      "contradiction_links": [
+        "BF-CONTRA-SUICIDE_MINIMISATION-2025-04-09"
+      ]
+    },
+    {
+      "quote": "We're talking about this year, not last year.",
+      "tags": [
+        "2024_ERASURE",
+        "FRINGE_DEFLECTION_TACTIC",
+        "ERASURE_AS_SAFEGUARDING"
+      ],
+      "contradiction_links": [
+        "BF-CONTRA-2024_ERASURE-2025-04-09"
+      ]
+    },
+    {
+      "quote": "Police lost the main bit of evidence from July.",
+      "tags": [
+        "LOST_EVIDENCE",
+        "POLICE_FAILINGS",
+        "INVESTIGATIVE_OMISSION"
+      ],
+      "contradiction_links": [
+        "JULY_CALL_LOST"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "meta": {
+    "filename": "YYYY-MM-DD_[Sender]_to_[Recipient]_Subject_Short.json",
+    "case_reference": "CASE_REFERENCE_NUMBER",
+    "thread_label": "THREAD_LABEL_IF_RELEVANT",
+    "actor_cluster": [
+      "Actor1",
+      "Actor2"
+    ],
+    "date_range": {
+      "start": "YYYY-MM-DDThh:mm:ss",
+      "end": "YYYY-MM-DDThh:mm:ss"
+    },
+    "source_provenance": "Email from X to Y on DATE",
+    "created_at_utc": "YYYY-MM-DDThh:mm:ssZ",
+    "vex_schema_version": "1.2",
+    "human_exhibit_name": "HUMAN-READABLE.PDF",
+    "export_profile": "INTERNAL"
+  },
+  "emails": [
+    {
+      "id": "unique-email-id",
+      "date": "YYYY-MM-DDThh:mm:ss",
+      "from": {
+        "name": "...",
+        "email": "...",
+        "badge": ""
+      },
+      "to": [
+        {
+          "name": "...",
+          "email": "...",
+          "badge": ""
+        }
+      ],
+      "subject_summary": "Short summary of subject",
+      "body_raw": "Full email text (verbatim)",
+      "body": "Display body (for public, may be summarized/sanitized; for internal, duplicate body_raw)",
+      "attachments": [
+        {
+          "filename": "file.ext",
+          "size_kb": 0,
+          "hash_sha256": "",
+          "source": "NICE|Forwarded|Local"
+        }
+      ],
+      "labels": [
+        "Example: Bail Confirmation",
+        "Evidence Intake"
+      ],
+      "allegations": [
+        {
+          "text": "Quoted claim/allegation text",
+          "status": "unverified|verified",
+          "note": "context or source",
+          "sensitivity": "high|medium|low"
+        }
+      ]
+    }
+  ],
+  "vex": [
+    {
+      "email_id": "unique-email-id",
+      "sentence_tags": [
+        {
+          "text": "Quoted sentence",
+          "tags": [
+            "EVIDENCE_PROVIDED"
+          ],
+          "notes": "Why this matters.",
+          "allegation": false
+        }
+      ]
+    }
+  ],
+  "contradiction_links": [
+    {
+      "id": "AUTO-GEN_ID",
+      "claim": "Official claim/expectation.",
+      "reality": "What happened.",
+      "laws_breached": [
+        "Victims' Code 2020"
+      ],
+      "damages": [
+        "Emotional",
+        "Strategic"
+      ]
+    }
+  ],
+  "timeline_hooks": [
+    {
+      "phase": "Investigation Stage",
+      "date": "YYYY-MM-DD",
+      "events": [
+        "Key event summary..."
+      ],
+      "related_threads": [
+        "THREAD_LABEL"
+      ]
+    }
+  ],
+  "damages_summary": {
+    "emotional": "Details...",
+    "strategic": "Details...",
+    "reputational": "If applicable..."
+  },
+  "qa": {
+    "checks": [
+      "date_present",
+      "case_ref_present",
+      "exhibit_named",
+      "attachments_indexed"
+    ],
+    "status": "pending"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "event_id": "EV_2025-04-28_COMPLAINTS_CALL_ASSUMED",
+  "created_utc": "2025-08-30T02:01:35Z",
+  "date": null,
+  "title": "Complaints call: delayed suicide logging confirmed; SAR used as access barrier",
+  "description": "Complaints handler confirms 06-04 attempt logged 17-04; references July as live case; advises SAR for records.",
+  "contradictions": [
+    "SUICIDE_LOG_DELAY",
+    "JULY_VS_NOVEMBER_STATUS",
+    "SAR_AS_ACCESS_BARRIER",
+    "HOLIDAY_ALIBI_CONTINUATION"
+  ],
+  "clusters": [
+    "CRIME_REF_47240214305_THREAD",
+    "DEATH_BY_SILENCE"
+  ],
+  "files": [
+    "2025-04_Complaints_Call_Transcript.txt",
+    "2025-04_Complaints_Call_Audio.mp3"
+  ]
+}

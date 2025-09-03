@@ -1,0 +1,83 @@
+{
+  "chunk": 42,
+  "time_range": "41:30-42:30",
+  "quotes": [
+    {
+      "speaker": "Ben Carter",
+      "time": "41:30",
+      "quote": "It’s hard not to think their silence is deliberate, like they want me to disappear.",
+      "tags": [
+        "victim_experience",
+        "silence",
+        "gaslighting",
+        "suicide_risk"
+      ]
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "41:36",
+      "quote": "I can’t say it’s deliberate, but I understand why you’d feel that way.",
+      "tags": [
+        "deflection",
+        "acknowledgement",
+        "neutral_response"
+      ]
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "41:41",
+      "quote": "Because silence is an answer. It tells me I don’t matter.",
+      "tags": [
+        "victim_experience",
+        "silence",
+        "erasure"
+      ]
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "41:46",
+      "quote": "You do matter, Ben, and I’ve told them their silence isn’t acceptable.",
+      "tags": [
+        "acknowledgement",
+        "advocacy",
+        "empathy"
+      ]
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "41:51",
+      "quote": "Not acceptable is too weak. Silence kills.",
+      "tags": [
+        "victim_assertion",
+        "safeguarding",
+        "suicide_risk"
+      ]
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "41:56",
+      "quote": "You’re right, it can be very dangerous.",
+      "tags": [
+        "acknowledgement",
+        "agreement",
+        "safeguarding"
+      ]
+    }
+  ],
+  "contradictions": [
+    {
+      "issue": "Victim frames silence as deliberate erasure; advocate deflects intent but admits silence is dangerous",
+      "type": "silence_and_safeguarding_failure"
+    }
+  ],
+  "timeline_hooks": [
+    {
+      "ref": "silence is an answer",
+      "link": "Institutional silence pattern May 2025"
+    },
+    {
+      "ref": "silence kills",
+      "link": "Safeguarding escalation through non-response"
+    }
+  ]
+}

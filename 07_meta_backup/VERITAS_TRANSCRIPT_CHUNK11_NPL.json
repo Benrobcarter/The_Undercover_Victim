@@ -1,0 +1,78 @@
+{
+  "chunk": 11,
+  "time_range": "10:30-11:30",
+  "quotes": [
+    {
+      "speaker": "Ben Carter",
+      "time": "10:30",
+      "quote": "It’s like I have to keep proving the same point over and over, and nothing changes.",
+      "tags": [
+        "victim_experience",
+        "frustration",
+        "systemic_failure"
+      ]
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "10:36",
+      "quote": "I know, and that’s not fair on you.",
+      "tags": [
+        "acknowledgement",
+        "empathy"
+      ]
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "10:40",
+      "quote": "That’s not support, that’s me being worn down.",
+      "tags": [
+        "victim_experience",
+        "emotional_impact"
+      ]
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "10:44",
+      "quote": "I understand, and I don’t want you to feel that way.",
+      "tags": [
+        "acknowledgement",
+        "empathy"
+      ]
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "10:48",
+      "quote": "But it’s what’s happening. I feel like they’re just waiting for me to give up.",
+      "tags": [
+        "victim_experience",
+        "institutional_failure",
+        "risk"
+      ]
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "10:54",
+      "quote": "I hear you. I’ll keep pressing so that doesn’t happen.",
+      "tags": [
+        "acknowledgement",
+        "advocacy"
+      ]
+    }
+  ],
+  "contradictions": [
+    {
+      "issue": "Victim reports being worn down by repetition vs. advocate acknowledges but offers no systemic fix",
+      "type": "institutional_abuse_pattern"
+    }
+  ],
+  "timeline_hooks": [
+    {
+      "ref": "worn down by repetition",
+      "link": "Pattern of institutional erosion of victim resilience"
+    },
+    {
+      "ref": "waiting for me to give up",
+      "link": "Perceived institutional strategy of attrition"
+    }
+  ]
+}

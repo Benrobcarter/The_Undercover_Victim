@@ -1,0 +1,81 @@
+{
+  "chunk": 31,
+  "time_range": "30:30-31:30",
+  "quotes": [
+    {
+      "speaker": "Ben Carter",
+      "time": "30:30",
+      "quote": "They delay, deny, and deflect, and somehow I’m still expected to trust them.",
+      "tags": [
+        "victim_experience",
+        "systemic_failure",
+        "trust_issue"
+      ]
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "30:36",
+      "quote": "I know, and I’ve told them that trust breaks down when that happens.",
+      "tags": [
+        "acknowledgement",
+        "advocacy",
+        "trust"
+      ]
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "30:41",
+      "quote": "It’s already broken. I can’t rely on them with my safety.",
+      "tags": [
+        "victim_experience",
+        "safeguarding",
+        "risk"
+      ]
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "30:46",
+      "quote": "I hear you, and I’ll keep reinforcing that point to them.",
+      "tags": [
+        "acknowledgement",
+        "advocacy"
+      ]
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "30:51",
+      "quote": "Reinforcing doesn’t fix it. Action does.",
+      "tags": [
+        "victim_assertion",
+        "advocacy_gap",
+        "accountability"
+      ]
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "30:55",
+      "quote": "I agree, but I can only push from my side.",
+      "tags": [
+        "acknowledgement",
+        "deflection",
+        "advocacy_gap"
+      ]
+    }
+  ],
+  "contradictions": [
+    {
+      "issue": "Victim highlights broken trust and lack of safety; advocate admits breakdown but offers only reinforcement, no action",
+      "type": "trust_and_safeguarding_failure"
+    }
+  ],
+  "timeline_hooks": [
+    {
+      "ref": "delay deny deflect",
+      "link": "Institutional tactic pattern May 2025"
+    },
+    {
+      "ref": "broken trust",
+      "link": "Safeguarding collapse due to trust loss"
+    }
+  ]
+}

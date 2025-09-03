@@ -1,0 +1,48 @@
+{
+  "module": "VERITAS_BIT",
+  "created": "2025-08-25T02:56:28.316553Z",
+  "source_files": [
+    "22-04-25_Veritas_pre_3_hour_meeting_part_one.docx.txt",
+    "23-04-25_veritas Part two.txt"
+  ],
+  "summary": {
+    "themes": [
+      "Evidence handling (NICE Links)",
+      "Safeguarding & suicide logging",
+      "Timeline integrity (July vs Nov)",
+      "OIC change & case management",
+      "Bail conditions as safeguarding",
+      "Device download request (victim)",
+      "CPS summary vs full case",
+      "Comms & phone call records",
+      "Social media harassment after bail"
+    ],
+    "key_requests": [
+      "Change of OIC; removal of PC Dixon from case involvement",
+      "Bail extension as safeguarding measure",
+      "Recognition that suicide was unlogged and safeguarding failed",
+      "Use of pre-Nov evidence (June/July) rather than truncation to November",
+      "Clarity on evidence handling and missing/lost NICE Link submissions"
+    ]
+  },
+  "vex_legend": {
+    "gold_bullet": "Direct police-process link (e.g., PC Dixon, NICE Links, Sussex Police, CPS).",
+    "silver_bullet": "Strong corroboration (e.g., voicemails, CCTV, bail/OIC indicators).",
+    "context": "Relevant background or framing."
+  },
+  "sample_counts": {
+    "Evidence handling (NICE Links)": 1,
+    "Safeguarding & suicide logging": 6,
+    "Timeline integrity (July vs Nov)": 4,
+    "OIC change & case management": 4,
+    "Bail conditions as safeguarding": 2,
+    "Device download request (victim)": 1,
+    "CPS summary vs full case": 1,
+    "Comms & phone call records": 3,
+    "Social media harassment after bail": 1
+  },
+  "links": {
+    "contradictions_combined_json": "VERITAS_TRANSCRIPT_CONTRADICTIONS_TAGGED_COMBINED_2025-08-25.json",
+    "master_contradictions_with_veritas": "MASTER_CONTRADICTIONS_INJECTED_WITH_VERITAS_v4_2025-08-25_v2.json"
+  }
+}

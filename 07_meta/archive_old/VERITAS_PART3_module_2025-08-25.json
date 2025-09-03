@@ -1,0 +1,1160 @@
+{
+  "module": "VERITAS_PART3",
+  "created": "2025-08-25T03:51:14.048285Z",
+  "count": 79,
+  "items": [
+    {
+      "uid": "part3_0000",
+      "part": "part3",
+      "speaker": "Ben Carter",
+      "timecode": "00:27.2",
+      "assertion_text": "Hello?",
+      "vex_grade": "context",
+      "themes": [
+        "general"
+      ],
+      "entities": [],
+      "behaviour_tags": [],
+      "source_file": "27_04_25 Veritas_Confusion.txt"
+    },
+    {
+      "uid": "part3_0001",
+      "part": "part3",
+      "speaker": "Emma Jones",
+      "timecode": "00:28.5",
+      "assertion_text": "Hello.",
+      "vex_grade": "context",
+      "themes": [
+        "general"
+      ],
+      "entities": [],
+      "behaviour_tags": [],
+      "source_file": "27_04_25 Veritas_Confusion.txt"
+    },
+    {
+      "uid": "part3_0002",
+      "part": "part3",
+      "speaker": "Ben Carter",
+      "timecode": "00:29.2",
+      "assertion_text": "Oh, that's much better.",
+      "vex_grade": "context",
+      "themes": [
+        "general"
+      ],
+      "entities": [],
+      "behaviour_tags": [],
+      "source_file": "27_04_25 Veritas_Confusion.txt"
+    },
+    {
+      "uid": "part3_0003",
+      "part": "part3",
+      "speaker": "Emma Jones",
+      "timecode": "00:31.2",
+      "assertion_text": "Okay, great.",
+      "vex_grade": "context",
+      "themes": [
+        "general"
+      ],
+      "entities": [],
+      "behaviour_tags": [],
+      "source_file": "27_04_25 Veritas_Confusion.txt"
+    },
+    {
+      "uid": "part3_0004",
+      "part": "part3",
+      "speaker": "Ben Carter",
+      "timecode": "00:32.4",
+      "assertion_text": "You sound different.",
+      "vex_grade": "context",
+      "themes": [
+        "general"
+      ],
+      "entities": [],
+      "behaviour_tags": [],
+      "source_file": "27_04_25 Veritas_Confusion.txt"
+    },
+    {
+      "uid": "part3_0005",
+      "part": "part3",
+      "speaker": "Emma Jones",
+      "timecode": "00:34.6",
+      "assertion_text": "Oh really? Okay, so I was explaining that the section 4A stalking can be charged on two options. One is fear of violence. So if she had been violent to you in the past or if she—",
+      "vex_grade": "context",
+      "themes": [
+        "legal_process"
+      ],
+      "entities": [],
+      "behaviour_tags": [],
+      "source_file": "27_04_25 Veritas_Confusion.txt"
+    },
+    {
+      "uid": "part3_0006",
+      "part": "part3",
+      "speaker": "Ben Carter",
+      "timecode": "00:48.2",
+      "assertion_text": "Threaten you, they're going for the prolonged like mental—",
+      "vex_grade": "context",
+      "themes": [
+        "general"
+      ],
+      "entities": [],
+      "behaviour_tags": [],
+      "source_file": "27_04_25 Veritas_Confusion.txt"
+    },
+    {
+      "uid": "part3_0007",
+      "part": "part3",
+      "speaker": "Emma Jones",
+      "timecode": "00:54.1",
+      "assertion_text": "Exactly. Serious alarm and distress.",
+      "vex_grade": "context",
+      "themes": [
+        "general"
+      ],
+      "entities": [],
+      "behaviour_tags": [],
+      "source_file": "27_04_25 Veritas_Confusion.txt"
+    },
+    {
+      "uid": "part3_0008",
+      "part": "part3",
+      "speaker": "Ben Carter",
+      "timecode": "00:55.7",
+      "assertion_text": "Yeah, yeah, yeah, that's what they're going on.",
+      "vex_grade": "context",
+      "themes": [
+        "general"
+      ],
+      "entities": [],
+      "behaviour_tags": [],
+      "source_file": "27_04_25 Veritas_Confusion.txt"
+    },
+    {
+      "uid": "part3_0009",
+      "part": "part3",
+      "speaker": "Emma Jones",
+      "timecode": "00:58.4",
+      "assertion_text": "Yeah. So it is likely that they will be adding that counter allegation which are not uncommon in terms of stalking offences.",
+      "vex_grade": "context",
+      "themes": [
+        "general"
+      ],
+      "entities": [],
+      "behaviour_tags": [],
+      "source_file": "27_04_25 Veritas_Confusion.txt"
+    },
+    {
+      "uid": "part3_0010",
+      "part": "part3",
+      "speaker": "Ben Carter",
+      "timecode": "01:08.4",
+      "assertion_text": "Yeah.",
+      "vex_grade": "context",
+      "themes": [
+        "general"
+      ],
+      "entities": [],
+      "behaviour_tags": [],
+      "source_file": "27_04_25 Veritas_Confusion.txt"
+    },
+    {
+      "uid": "part3_0011",
+      "part": "part3",
+      "speaker": "Emma Jones",
+      "timecode": "01:09.0",
+      "assertion_text": "As another incident. But they can make it a sexual offence. They have to make it as a counter allegation. If they remove that all together, it would kind of remove one important piece of showing how she caused you so much alarm and distress.",
+      "vex_grade": "context",
+      "themes": [
+        "general"
+      ],
+      "entities": [],
+      "behaviour_tags": [],
+      "source_file": "27_04_25 Veritas_Confusion.txt"
+    },
+    {
+      "uid": "part3_0012",
+      "part": "part3",
+      "speaker": "Emma Jones",
+      "timecode": "01:25.6",
+      "assertion_text": "If you see what I mean.",
+      "vex_grade": "context",
+      "themes": [
+        "general"
+      ],
+      "entities": [],
+      "behaviour_tags": [],
+      "source_file": "27_04_25 Veritas_Confusion.txt"
+    },
+    {
+      "uid": "part3_0013",
+      "part": "part3",
+      "speaker": "Ben Carter",
+      "timecode": "01:26.3",
+      "assertion_text": "Oh, okay. Like so if you're saying I made—",
+      "vex_grade": "context",
+      "themes": [
+        "general"
+      ],
+      "entities": [],
+      "behaviour_tags": [],
+      "source_file": "27_04_25 Veritas_Confusion.txt"
+    },
+    {
+      "uid": "part3_0014",
+      "part": "part3",
+      "speaker": "Emma Jones",
+      "timecode": "01:31.2",
+      "assertion_text": "My statement saying that this allegation has or has the potential of ruining my reputation, I don't want to go out because people, yeah, I'm a rapist. Which is all completely understandable. If you remove that out of your stalking case, it will be really difficult to show that it has had a really detrimental impact on you.",
+      "vex_grade": "context",
+      "themes": [
+        "statement_integrity"
+      ],
+      "entities": [
+        "statement"
+      ],
+      "behaviour_tags": [],
+      "source_file": "27_04_25 Veritas_Confusion.txt"
+    },
+    {
+      "uid": "part3_0015",
+      "part": "part3",
+      "speaker": "Ben Carter",
+      "timecode": "01:52.1",
+      "assertion_text": "Yeah.",
+      "vex_grade": "context",
+      "themes": [
+        "general"
+      ],
+      "entities": [],
+      "behaviour_tags": [],
+      "source_file": "27_04_25 Veritas_Confusion.txt"
+    },
+    {
+      "uid": "part3_0016",
+      "part": "part3",
+      "speaker": "Emma Jones",
+      "timecode": "01:52.5",
+      "assertion_text": "So all of those little bits that can show that their behaviour as a whole rather than one allegation or one text message or one post is really toxic and has caused you to become distressed and alarm and change in ways that you wouldn't have.",
+      "vex_grade": "context",
+      "themes": [
+        "statement_integrity"
+      ],
+      "entities": [],
+      "behaviour_tags": [],
+      "source_file": "27_04_25 Veritas_Confusion.txt"
+    },
+    {
+      "uid": "part3_0017",
+      "part": "part3",
+      "speaker": "Ben Carter",
+      "timecode": "02:08.3",
+      "assertion_text": "So the fact it's in my statement, will sort of… that that's enough. Yeah, yeah. Okay. Yeah, got you.",
+      "vex_grade": "context",
+      "themes": [
+        "statement_integrity"
+      ],
+      "entities": [
+        "statement"
+      ],
+      "behaviour_tags": [],
+      "source_file": "27_04_25 Veritas_Confusion.txt"
+    },
+    {
+      "uid": "part3_0018",
+      "part": "part3",
+      "speaker": "Emma Jones",
+      "timecode": "02:17.3",
+      "assertion_text": "What we will do, isn’t it, once this is charged and nearer to trial—if it gets that far—if the CPS agrees to charge it, then what we will do is a victim impact statement where you will get another opportunity to say the things that she has done, like reporting—making a false report for a sexual allegation has had such a significant impact. And it’s not an isolated incident, it's part of her case.",
+      "vex_grade": "gold_bullet",
+      "themes": [
+        "legal_process",
+        "impact",
+        "statement_integrity"
+      ],
+      "entities": [
+        "cps",
+        "statement"
+      ],
+      "behaviour_tags": [],
+      "source_file": "27_04_25 Veritas_Confusion.txt"
+    },
+    {
+      "uid": "part3_0019",
+      "part": "part3",
+      "speaker": "Ben Carter",
+      "timecode": "02:44.6",
+      "assertion_text": "That's what I thought when the police came round. I was like, if this isn't going to be in like a separate crime, I'm gonna base like my whole statement on that. Like because—",
+      "vex_grade": "context",
+      "themes": [
+        "statement_integrity"
+      ],
+      "entities": [
+        "statement"
+      ],
+      "behaviour_tags": [],
+      "source_file": "27_04_25 Veritas_Confusion.txt"
+    },
+    {
+      "uid": "part3_0020",
+      "part": "part3",
+      "speaker": "Emma Jones",
+      "timecode": "02:57.0",
+      "assertion_text": "Yeah.",
+      "vex_grade": "context",
+      "themes": [
+        "general"
+      ],
+      "entities": [],
+      "behaviour_tags": [],
+      "source_file": "27_04_25 Veritas_Confusion.txt"
+    },
+    {
+      "uid": "part3_0021",
+      "part": "part3",
+      "speaker": "Ben Carter",
+      "timecode": "02:57.5",
+      "assertion_text": "Like—not my whole statement, because they've got a lot of my statement. But yeah, like the updated one was how much that they wanted an updated statement. That was the update.",
+      "vex_grade": "context",
+      "themes": [
+        "statement_integrity"
+      ],
+      "entities": [
+        "statement"
+      ],
+      "behaviour_tags": [],
+      "source_file": "27_04_25 Veritas_Confusion.txt"
+    },
+    {
+      "uid": "part3_0022",
+      "part": "part3",
+      "speaker": "Emma Jones",
+      "timecode": "03:10.8",
+      "assertion_text": "Yeah, okay. Yeah, it's absolutely fine for you to include that in your statement. And as I said, nearer the time, when your victim impact statement is drafted, we can work with you in drafting it to ensure that that is included and that we can explain what negative impact those kind of allegations can have on someone.",
+      "vex_grade": "context",
+      "themes": [
+        "statement_integrity"
+      ],
+      "entities": [
+        "statement"
+      ],
+      "behaviour_tags": [],
+      "source_file": "27_04_25 Veritas_Confusion.txt"
+    },
+    {
+      "uid": "part3_0023",
+      "part": "part3",
+      "speaker": "Ben Carter",
+      "timecode": "03:31.4",
+      "assertion_text": "Yeah, yeah, yeah.",
+      "vex_grade": "context",
+      "themes": [
+        "general"
+      ],
+      "entities": [],
+      "behaviour_tags": [],
+      "source_file": "27_04_25 Veritas_Confusion.txt"
+    },
+    {
+      "uid": "part3_0024",
+      "part": "part3",
+      "speaker": "Emma Jones",
+      "timecode": "03:32.3",
+      "assertion_text": "So don't think that you're not going to get an opportunity to highlight that this part of her wider pattern of behaviour—",
+      "vex_grade": "context",
+      "themes": [
+        "general"
+      ],
+      "entities": [],
+      "behaviour_tags": [],
+      "source_file": "27_04_25 Veritas_Confusion.txt"
+    },
+    {
+      "uid": "part3_0025",
+      "part": "part3",
+      "speaker": "Ben Carter",
+      "timecode": "03:40.9",
+      "assertion_text": "And it will add to her like, you know, like—",
+      "vex_grade": "context",
+      "themes": [
+        "general"
+      ],
+      "entities": [],
+      "behaviour_tags": [],
+      "source_file": "27_04_25 Veritas_Confusion.txt"
+    },
+    {
+      "uid": "part3_0026",
+      "part": "part3",
+      "speaker": "Emma Jones",
+      "timecode": "03:43.2",
+      "assertion_text": "Yeah.",
+      "vex_grade": "context",
+      "themes": [
+        "general"
+      ],
+      "entities": [],
+      "behaviour_tags": [],
+      "source_file": "27_04_25 Veritas_Confusion.txt"
+    },
+    {
+      "uid": "part3_0027",
+      "part": "part3",
+      "speaker": "Ben Carter",
+      "timecode": "03:43.6",
+      "assertion_text": "Punishment.",
+      "vex_grade": "context",
+      "themes": [
+        "general"
+      ],
+      "entities": [],
+      "behaviour_tags": [],
+      "source_file": "27_04_25 Veritas_Confusion.txt"
+    },
+    {
+      "uid": "part3_0028",
+      "part": "part3",
+      "speaker": "Emma Jones",
+      "timecode": "03:44.2",
+      "assertion_text": "Yeah.",
+      "vex_grade": "context",
+      "themes": [
+        "general"
+      ],
+      "entities": [],
+      "behaviour_tags": [],
+      "source_file": "27_04_25 Veritas_Confusion.txt"
+    },
+    {
+      "uid": "part3_0029",
+      "part": "part3",
+      "speaker": "Ben Carter",
+      "timecode": "03:46.0",
+      "assertion_text": "Yeah cool. That's all I wanted.",
+      "vex_grade": "context",
+      "themes": [
+        "general"
+      ],
+      "entities": [],
+      "behaviour_tags": [],
+      "source_file": "27_04_25 Veritas_Confusion.txt"
+    },
+    {
+      "uid": "part3_0030",
+      "part": "part3",
+      "speaker": "Emma Jones",
+      "timecode": "03:47.1",
+      "assertion_text": "Yeah.",
+      "vex_grade": "context",
+      "themes": [
+        "general"
+      ],
+      "entities": [],
+      "behaviour_tags": [],
+      "source_file": "27_04_25 Veritas_Confusion.txt"
+    },
+    {
+      "uid": "part3_0031",
+      "part": "part3",
+      "speaker": "Ben Carter",
+      "timecode": "03:48.7",
+      "assertion_text": "I wasn't sure. Like, yeah. So they're going for section 4A.",
+      "vex_grade": "context",
+      "themes": [
+        "general"
+      ],
+      "entities": [],
+      "behaviour_tags": [],
+      "source_file": "27_04_25 Veritas_Confusion.txt"
+    },
+    {
+      "uid": "part3_0032",
+      "part": "part3",
+      "speaker": "Emma Jones",
+      "timecode": "03:54.5",
+      "assertion_text": "Yeah.",
+      "vex_grade": "context",
+      "themes": [
+        "general"
+      ],
+      "entities": [],
+      "behaviour_tags": [],
+      "source_file": "27_04_25 Veritas_Confusion.txt"
+    },
+    {
+      "uid": "part3_0033",
+      "part": "part3",
+      "speaker": "Ben Carter",
+      "timecode": "03:56.3",
+      "assertion_text": "And that includes harassment and like, and—and like how the effect it's had on me.",
+      "vex_grade": "context",
+      "themes": [
+        "general"
+      ],
+      "entities": [],
+      "behaviour_tags": [],
+      "source_file": "27_04_25 Veritas_Confusion.txt"
+    },
+    {
+      "uid": "part3_0034",
+      "part": "part3",
+      "speaker": "Emma Jones",
+      "timecode": "04:03.0",
+      "assertion_text": "Yes.",
+      "vex_grade": "context",
+      "themes": [
+        "general"
+      ],
+      "entities": [],
+      "behaviour_tags": [],
+      "source_file": "27_04_25 Veritas_Confusion.txt"
+    },
+    {
+      "uid": "part3_0035",
+      "part": "part3",
+      "speaker": "Ben Carter",
+      "timecode": "04:03.5",
+      "assertion_text": "So—so that is a big part of it.",
+      "vex_grade": "context",
+      "themes": [
+        "general"
+      ],
+      "entities": [],
+      "behaviour_tags": [],
+      "source_file": "27_04_25 Veritas_Confusion.txt"
+    },
+    {
+      "uid": "part3_0036",
+      "part": "part3",
+      "speaker": "Emma Jones",
+      "timecode": "04:08.0",
+      "assertion_text": "Absolutely.",
+      "vex_grade": "context",
+      "themes": [
+        "general"
+      ],
+      "entities": [],
+      "behaviour_tags": [],
+      "source_file": "27_04_25 Veritas_Confusion.txt"
+    },
+    {
+      "uid": "part3_0037",
+      "part": "part3",
+      "speaker": "Ben Carter",
+      "timecode": "04:08.6",
+      "assertion_text": "Yeah. Okay—",
+      "vex_grade": "context",
+      "themes": [
+        "general"
+      ],
+      "entities": [],
+      "behaviour_tags": [],
+      "source_file": "27_04_25 Veritas_Confusion.txt"
+    },
+    {
+      "uid": "part3_0038",
+      "part": "part3",
+      "speaker": "Emma Jones",
+      "timecode": "04:09.6",
+      "assertion_text": "Absolutely.",
+      "vex_grade": "context",
+      "themes": [
+        "general"
+      ],
+      "entities": [],
+      "behaviour_tags": [],
+      "source_file": "27_04_25 Veritas_Confusion.txt"
+    },
+    {
+      "uid": "part3_0039",
+      "part": "part3",
+      "speaker": "Ben Carter",
+      "timecode": "04:09.6",
+      "assertion_text": "Got it.",
+      "vex_grade": "context",
+      "themes": [
+        "general"
+      ],
+      "entities": [],
+      "behaviour_tags": [],
+      "source_file": "27_04_25 Veritas_Confusion.txt"
+    },
+    {
+      "uid": "part3_0040",
+      "part": "part3",
+      "speaker": "Emma Jones",
+      "timecode": "04:10.4",
+      "assertion_text": "Okay. Leave it with me. I'm gonna—I'm gonna reach out to the OIC supervisor so I can get a proper understanding whether the statement that you have provided recently has included everything, including that aspect.",
+      "vex_grade": "gold_bullet",
+      "themes": [
+        "legal_process",
+        "statement_integrity"
+      ],
+      "entities": [
+        "oic/ioc",
+        "statement"
+      ],
+      "behaviour_tags": [],
+      "source_file": "27_04_25 Veritas_Confusion.txt"
+    },
+    {
+      "uid": "part3_0041",
+      "part": "part3",
+      "speaker": "Ben Carter",
+      "timecode": "04:31.7",
+      "assertion_text": "Do you get—do you get access to the statements and that?",
+      "vex_grade": "context",
+      "themes": [
+        "general"
+      ],
+      "entities": [],
+      "behaviour_tags": [],
+      "source_file": "27_04_25 Veritas_Confusion.txt"
+    },
+    {
+      "uid": "part3_0042",
+      "part": "part3",
+      "speaker": "Emma Jones",
+      "timecode": "04:36.6",
+      "assertion_text": "I don't necessarily. I could ask for the statement if you're happy for me to ask for it.",
+      "vex_grade": "context",
+      "themes": [
+        "statement_integrity"
+      ],
+      "entities": [
+        "statement"
+      ],
+      "behaviour_tags": [],
+      "source_file": "27_04_25 Veritas_Confusion.txt"
+    },
+    {
+      "uid": "part3_0043",
+      "part": "part3",
+      "speaker": "Ben Carter",
+      "timecode": "04:41.1",
+      "assertion_text": "Yeah, yeah. I actually recorded the whole police call if you want it. Sorry—when the policeman was round.",
+      "vex_grade": "context",
+      "themes": [
+        "comms_social"
+      ],
+      "entities": [],
+      "behaviour_tags": [],
+      "source_file": "27_04_25 Veritas_Confusion.txt"
+    },
+    {
+      "uid": "part3_0044",
+      "part": "part3",
+      "speaker": "Emma Jones",
+      "timecode": "04:49.1",
+      "assertion_text": "Okay. What I will probably do is reach out for the statement itself because I want to see what information ended up in the document—the CPS.",
+      "vex_grade": "gold_bullet",
+      "themes": [
+        "legal_process",
+        "statement_integrity"
+      ],
+      "entities": [
+        "cps",
+        "statement"
+      ],
+      "behaviour_tags": [],
+      "source_file": "27_04_25 Veritas_Confusion.txt"
+    },
+    {
+      "uid": "part3_0045",
+      "part": "part3",
+      "speaker": "Ben Carter",
+      "timecode": "04:59.9",
+      "assertion_text": "There were a few—technically speaking—there were a few bits where I was like \"and this, and this.\" And I swear it was like—like he sort of wasn't typing on. Yeah, I would like—",
+      "vex_grade": "context",
+      "themes": [
+        "general"
+      ],
+      "entities": [],
+      "behaviour_tags": [],
+      "source_file": "27_04_25 Veritas_Confusion.txt"
+    },
+    {
+      "uid": "part3_0046",
+      "part": "part3",
+      "speaker": "Emma Jones",
+      "timecode": "05:13.5",
+      "assertion_text": "This is what I'm saying. The things that you say are not necessarily the ones they type up.",
+      "vex_grade": "context",
+      "themes": [
+        "general"
+      ],
+      "entities": [],
+      "behaviour_tags": [],
+      "source_file": "27_04_25 Veritas_Confusion.txt"
+    },
+    {
+      "uid": "part3_0047",
+      "part": "part3",
+      "speaker": "Ben Carter",
+      "timecode": "05:18.0",
+      "assertion_text": "He was read—he, he read it back to me and I was like, \"and—and—and—yeah, okay.\" You know, like—",
+      "vex_grade": "context",
+      "themes": [
+        "general"
+      ],
+      "entities": [],
+      "behaviour_tags": [],
+      "source_file": "27_04_25 Veritas_Confusion.txt"
+    },
+    {
+      "uid": "part3_0048",
+      "part": "part3",
+      "speaker": "Emma Jones",
+      "timecode": "05:24.9",
+      "assertion_text": "Yeah.",
+      "vex_grade": "context",
+      "themes": [
+        "general"
+      ],
+      "entities": [],
+      "behaviour_tags": [],
+      "source_file": "27_04_25 Veritas_Confusion.txt"
+    },
+    {
+      "uid": "part3_0049",
+      "part": "part3",
+      "speaker": "Ben Carter",
+      "timecode": "05:25.5",
+      "assertion_text": "Yeah. I wasn't happy with the final statement.",
+      "vex_grade": "context",
+      "themes": [
+        "statement_integrity"
+      ],
+      "entities": [
+        "statement"
+      ],
+      "behaviour_tags": [],
+      "source_file": "27_04_25 Veritas_Confusion.txt"
+    },
+    {
+      "uid": "part3_0050",
+      "part": "part3",
+      "speaker": "Emma Jones",
+      "timecode": "05:28.2",
+      "assertion_text": "I'm more than happy to request the statement and we can have a look at it together.",
+      "vex_grade": "context",
+      "themes": [
+        "statement_integrity"
+      ],
+      "entities": [
+        "statement"
+      ],
+      "behaviour_tags": [],
+      "source_file": "27_04_25 Veritas_Confusion.txt"
+    },
+    {
+      "uid": "part3_0051",
+      "part": "part3",
+      "speaker": "Ben Carter",
+      "timecode": "05:32.6",
+      "assertion_text": "Yeah, brilliant. Email—",
+      "vex_grade": "context",
+      "themes": [
+        "general"
+      ],
+      "entities": [],
+      "behaviour_tags": [],
+      "source_file": "27_04_25 Veritas_Confusion.txt"
+    },
+    {
+      "uid": "part3_0052",
+      "part": "part3",
+      "speaker": "Emma Jones",
+      "timecode": "05:34.1",
+      "assertion_text": "I can send it to you. You can review it. Yeah, it needs to sound like you. It's yours.",
+      "vex_grade": "context",
+      "themes": [
+        "general"
+      ],
+      "entities": [],
+      "behaviour_tags": [],
+      "source_file": "27_04_25 Veritas_Confusion.txt"
+    },
+    {
+      "uid": "part3_0053",
+      "part": "part3",
+      "speaker": "Ben Carter",
+      "timecode": "05:40.1",
+      "assertion_text": "'Cos—I, like yeah—I didn't feel like he, he was like, \"yeah, that kind of goes under that—that kind of…\" I was like, \"No, like fucking—like, yeah, it might go under that, but we don't want a short snappy statement.\" Like, you know, I want it all.",
+      "vex_grade": "context",
+      "themes": [
+        "statement_integrity"
+      ],
+      "entities": [
+        "statement"
+      ],
+      "behaviour_tags": [
+        "ben_forced_argument"
+      ],
+      "source_file": "27_04_25 Veritas_Confusion.txt"
+    },
+    {
+      "uid": "part3_0054",
+      "part": "part3",
+      "speaker": "Emma Jones",
+      "timecode": "05:57.8",
+      "assertion_text": "The statement needs to be correct. Okay, well let me try and fetch that statement and as soon as I get it, I will give you a ring back and we can review it.",
+      "vex_grade": "context",
+      "themes": [
+        "statement_integrity"
+      ],
+      "entities": [
+        "statement"
+      ],
+      "behaviour_tags": [],
+      "source_file": "27_04_25 Veritas_Confusion.txt"
+    },
+    {
+      "uid": "part3_0055",
+      "part": "part3",
+      "speaker": "Ben Carter",
+      "timecode": "06:09.0",
+      "assertion_text": "Brilliant. Thank you.",
+      "vex_grade": "context",
+      "themes": [
+        "general"
+      ],
+      "entities": [],
+      "behaviour_tags": [],
+      "source_file": "27_04_25 Veritas_Confusion.txt"
+    },
+    {
+      "uid": "part3_0056",
+      "part": "part3",
+      "speaker": "Emma Jones",
+      "timecode": "06:10.8",
+      "assertion_text": "Okay, no problem.",
+      "vex_grade": "context",
+      "themes": [
+        "general"
+      ],
+      "entities": [],
+      "behaviour_tags": [],
+      "source_file": "27_04_25 Veritas_Confusion.txt"
+    },
+    {
+      "uid": "part3_0057",
+      "part": "part3",
+      "speaker": "Ben Carter",
+      "timecode": "06:12.1",
+      "assertion_text": "Thank you so much. Cheers.",
+      "vex_grade": "context",
+      "themes": [
+        "general"
+      ],
+      "entities": [],
+      "behaviour_tags": [],
+      "source_file": "27_04_25 Veritas_Confusion.txt"
+    },
+    {
+      "uid": "part3_0058",
+      "part": "part3",
+      "speaker": "Emma Jones",
+      "timecode": "06:13.2",
+      "assertion_text": "Have you had any new incidents? Has she posted any?",
+      "vex_grade": "context",
+      "themes": [
+        "general"
+      ],
+      "entities": [],
+      "behaviour_tags": [],
+      "source_file": "27_04_25 Veritas_Confusion.txt"
+    },
+    {
+      "uid": "part3_0059",
+      "part": "part3",
+      "speaker": "Ben Carter",
+      "timecode": "06:15.9",
+      "assertion_text": "No, no, no, no. So I—I've—so there was a point which prop—like, I had a proper breakdown. Where—so it was the point where her three month bail was extended.",
+      "vex_grade": "silver_bullet",
+      "themes": [
+        "legal_process"
+      ],
+      "entities": [
+        "bail"
+      ],
+      "behaviour_tags": [
+        "ben_forced_argument"
+      ],
+      "source_file": "27_04_25 Veritas_Confusion.txt"
+    },
+    {
+      "uid": "part3_0060",
+      "part": "part3",
+      "speaker": "Emma Jones",
+      "timecode": "06:32.2",
+      "assertion_text": "Yeah.",
+      "vex_grade": "context",
+      "themes": [
+        "general"
+      ],
+      "entities": [],
+      "behaviour_tags": [],
+      "source_file": "27_04_25 Veritas_Confusion.txt"
+    },
+    {
+      "uid": "part3_0061",
+      "part": "part3",
+      "speaker": "Ben Carter",
+      "timecode": "06:33.3",
+      "assertion_text": "So that was the point that she knew that, like, the first time she knew that she was in the shit—and not me. And she posted on WhatsApp… on Instagram—like, \"bring it on.\"",
+      "vex_grade": "silver_bullet",
+      "themes": [
+        "timeline",
+        "comms_social",
+        "harassment"
+      ],
+      "entities": [
+        "instagram"
+      ],
+      "behaviour_tags": [],
+      "source_file": "27_04_25 Veritas_Confusion.txt"
+    },
+    {
+      "uid": "part3_0062",
+      "part": "part3",
+      "speaker": "Emma Jones",
+      "timecode": "06:49.0",
+      "assertion_text": "Yeah, yeah, yeah.",
+      "vex_grade": "context",
+      "themes": [
+        "general"
+      ],
+      "entities": [],
+      "behaviour_tags": [],
+      "source_file": "27_04_25 Veritas_Confusion.txt"
+    },
+    {
+      "uid": "part3_0063",
+      "part": "part3",
+      "speaker": "Ben Carter",
+      "timecode": "06:49.7",
+      "assertion_text": "And I was like—she's going—",
+      "vex_grade": "context",
+      "themes": [
+        "general"
+      ],
+      "entities": [],
+      "behaviour_tags": [],
+      "source_file": "27_04_25 Veritas_Confusion.txt"
+    },
+    {
+      "uid": "part3_0064",
+      "part": "part3",
+      "speaker": "Emma Jones",
+      "timecode": "06:52.9",
+      "assertion_text": "You mentioned—",
+      "vex_grade": "context",
+      "themes": [
+        "general"
+      ],
+      "entities": [],
+      "behaviour_tags": [],
+      "source_file": "27_04_25 Veritas_Confusion.txt"
+    },
+    {
+      "uid": "part3_0065",
+      "part": "part3",
+      "speaker": "Ben Carter",
+      "timecode": "06:53.5",
+      "assertion_text": "Down—and she's taking me with it. But—but—but she's gone absolutely quiet. Which is nice.",
+      "vex_grade": "context",
+      "themes": [
+        "general"
+      ],
+      "entities": [],
+      "behaviour_tags": [],
+      "source_file": "27_04_25 Veritas_Confusion.txt"
+    },
+    {
+      "uid": "part3_0066",
+      "part": "part3",
+      "speaker": "Emma Jones",
+      "timecode": "07:02.4",
+      "assertion_text": "Okay. But, yeah, it's a bit of a break for you, isn't it?",
+      "vex_grade": "context",
+      "themes": [
+        "general"
+      ],
+      "entities": [],
+      "behaviour_tags": [],
+      "source_file": "27_04_25 Veritas_Confusion.txt"
+    },
+    {
+      "uid": "part3_0067",
+      "part": "part3",
+      "speaker": "Ben Carter",
+      "timecode": "07:05.9",
+      "assertion_text": "Yeah, I think she's in Ireland as well.",
+      "vex_grade": "context",
+      "themes": [
+        "general"
+      ],
+      "entities": [],
+      "behaviour_tags": [],
+      "source_file": "27_04_25 Veritas_Confusion.txt"
+    },
+    {
+      "uid": "part3_0068",
+      "part": "part3",
+      "speaker": "Emma Jones",
+      "timecode": "07:10.3",
+      "assertion_text": "Okay. All right.",
+      "vex_grade": "context",
+      "themes": [
+        "general"
+      ],
+      "entities": [],
+      "behaviour_tags": [],
+      "source_file": "27_04_25 Veritas_Confusion.txt"
+    },
+    {
+      "uid": "part3_0069",
+      "part": "part3",
+      "speaker": "Ben Carter",
+      "timecode": "07:11.5",
+      "assertion_text": "Which is good—though it makes me laugh because on bail she has to go into the police station all the way from Northern Ireland on the plane.",
+      "vex_grade": "silver_bullet",
+      "themes": [
+        "legal_process"
+      ],
+      "entities": [
+        "bail"
+      ],
+      "behaviour_tags": [],
+      "source_file": "27_04_25 Veritas_Confusion.txt"
+    },
+    {
+      "uid": "part3_0070",
+      "part": "part3",
+      "speaker": "Emma Jones",
+      "timecode": "07:22.2",
+      "assertion_text": "To sign in. Yeah.",
+      "vex_grade": "context",
+      "themes": [
+        "general"
+      ],
+      "entities": [],
+      "behaviour_tags": [],
+      "source_file": "27_04_25 Veritas_Confusion.txt"
+    },
+    {
+      "uid": "part3_0071",
+      "part": "part3",
+      "speaker": "Ben Carter",
+      "timecode": "07:23.3",
+      "assertion_text": "Imagine that.",
+      "vex_grade": "context",
+      "themes": [
+        "general"
+      ],
+      "entities": [],
+      "behaviour_tags": [],
+      "source_file": "27_04_25 Veritas_Confusion.txt"
+    },
+    {
+      "uid": "part3_0072",
+      "part": "part3",
+      "speaker": "Emma Jones",
+      "timecode": "07:24.1",
+      "assertion_text": "Okay. Yeah. Okay. Ben, well, thank you so much for your time. I'm glad to hear that there isn't anything new and I will fetch your statement, and we can have another chat.",
+      "vex_grade": "context",
+      "themes": [
+        "statement_integrity"
+      ],
+      "entities": [
+        "statement"
+      ],
+      "behaviour_tags": [],
+      "source_file": "27_04_25 Veritas_Confusion.txt"
+    },
+    {
+      "uid": "part3_0073",
+      "part": "part3",
+      "speaker": "Ben Carter",
+      "timecode": "07:37.7",
+      "assertion_text": "Okay, brilliant. Thank you.",
+      "vex_grade": "context",
+      "themes": [
+        "general"
+      ],
+      "entities": [],
+      "behaviour_tags": [],
+      "source_file": "27_04_25 Veritas_Confusion.txt"
+    },
+    {
+      "uid": "part3_0074",
+      "part": "part3",
+      "speaker": "Emma Jones",
+      "timecode": "07:39.5",
+      "assertion_text": "All right, no problem.",
+      "vex_grade": "context",
+      "themes": [
+        "general"
+      ],
+      "entities": [],
+      "behaviour_tags": [],
+      "source_file": "27_04_25 Veritas_Confusion.txt"
+    },
+    {
+      "uid": "part3_0075",
+      "part": "part3",
+      "speaker": "Ben Carter",
+      "timecode": "07:40.7",
+      "assertion_text": "Cheers.",
+      "vex_grade": "context",
+      "themes": [
+        "general"
+      ],
+      "entities": [],
+      "behaviour_tags": [],
+      "source_file": "27_04_25 Veritas_Confusion.txt"
+    },
+    {
+      "uid": "part3_0076",
+      "part": "part3",
+      "speaker": "Emma Jones",
+      "timecode": "07:41.2",
+      "assertion_text": "Take care, Ben.",
+      "vex_grade": "context",
+      "themes": [
+        "general"
+      ],
+      "entities": [],
+      "behaviour_tags": [],
+      "source_file": "27_04_25 Veritas_Confusion.txt"
+    },
+    {
+      "uid": "part3_0077",
+      "part": "part3",
+      "speaker": "Ben Carter",
+      "timecode": "07:42.1",
+      "assertion_text": "You too.",
+      "vex_grade": "context",
+      "themes": [
+        "general"
+      ],
+      "entities": [],
+      "behaviour_tags": [],
+      "source_file": "27_04_25 Veritas_Confusion.txt"
+    },
+    {
+      "uid": "part3_0078",
+      "part": "part3",
+      "speaker": "Emma Jones",
+      "timecode": "07:42.5",
+      "assertion_text": "Bye.",
+      "vex_grade": "context",
+      "themes": [
+        "general"
+      ],
+      "entities": [],
+      "behaviour_tags": [],
+      "source_file": "27_04_25 Veritas_Confusion.txt"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "report_id": "STATUS_REPORT_PATCH_2025-09-01_VENUE_CONTRACT_INJECTION",
+  "generated_at": "2025-09-01 11:57:56 BST",
+  "purpose": "Inject Venue Managers’ Agreement breach spearhead into contradictions/timelines/meta; establish clause-level provenance.",
+  "cluster": {
+    "id": "BF-CONTRA-VENUE-MANAGER-CONTRACT-BREACHES-2025",
+    "file": "02_contradictions/BF-CONTRA-VENUE-MANAGER-CONTRACT-BREACHES-2025.json",
+    "sub_contradictions": [
+      "BF-CONTRA-COMMUNICATION-DUTY-BREACH",
+      "BF-CONTRA-BOARD-MINUTES-BREACH",
+      "BF-CONTRA-PROMOTIONAL-SUPPORT-BREACH",
+      "BF-CONTRA-BOXOFFICE-BREACH",
+      "BF-CONTRA-VENUE-SUPPORT-BREACH",
+      "BF-CONTRA-ACCESSIBILITY-BREACH"
+    ]
+  },
+  "meta_overlays": [
+    "07_meta/VENUE_MANAGER_CONTRACT_BREACH_CROSSWALK.json",
+    "07_meta/VENUE_MANAGER_CONTRACT_CLAUSE_ANCHORS_2025.json"
+  ],
+  "timeline_patches": [
+    "03_timelines/patches/TIMELINE_PATCH_BF_VENUE_MANAGER_CONTRACT_BREACHES_2025.json"
+  ],
+  "integration_notes": [
+    "Ensure consolidate_shards.py merges the new contradiction cluster and applies the timeline patch.",
+    "Crosswalk aligns contract clauses to sub-contradictions for evidence re-parse workflow.",
+    "Clause anchors carry direct Agreement quotes for provenance."
+  ],
+  "next_actions": [
+    "Re-parse Brighton Fringe–related emails; attach each to the correct sub-contradiction via evidence_refs.",
+    "Add corresponding timeline_hooks to t2_brighton_fringe_consequences entries where applicable.",
+    "Run dashboard build to surface counts of breaches per clause."
+  ]
+}

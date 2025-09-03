@@ -1,0 +1,81 @@
+{
+  "chunk": 30,
+  "time_range": "29:30-30:30",
+  "quotes": [
+    {
+      "speaker": "Ben Carter",
+      "time": "29:30",
+      "quote": "So when they tell you it’s just delays, that’s not true—it’s repeated harm.",
+      "tags": [
+        "victim_experience",
+        "contradiction",
+        "harm"
+      ]
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "29:36",
+      "quote": "I know, and I’ve said delays are not an excuse when it affects your safety.",
+      "tags": [
+        "acknowledgement",
+        "advocacy",
+        "safeguarding"
+      ]
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "29:42",
+      "quote": "Yet they still use it as an excuse.",
+      "tags": [
+        "victim_experience",
+        "contradiction",
+        "systemic_failure"
+      ]
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "29:46",
+      "quote": "Yes, they fall back on it too often.",
+      "tags": [
+        "acknowledgement",
+        "systemic_issue"
+      ]
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "29:50",
+      "quote": "So excuses are accepted instead of accountability.",
+      "tags": [
+        "victim_assertion",
+        "accountability_gap",
+        "risk"
+      ]
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "29:55",
+      "quote": "I agree, and I’ve challenged them on that point.",
+      "tags": [
+        "acknowledgement",
+        "advocacy",
+        "accountability"
+      ]
+    }
+  ],
+  "contradictions": [
+    {
+      "issue": "Delays framed as excuse vs. reality of repeated harm; advocate concedes but system unchanged",
+      "type": "safeguarding_failure"
+    }
+  ],
+  "timeline_hooks": [
+    {
+      "ref": "delays as excuse",
+      "link": "Institutional excuse pattern May 2025"
+    },
+    {
+      "ref": "harm not delay",
+      "link": "Evidence of repeated safeguarding failure"
+    }
+  ]
+}

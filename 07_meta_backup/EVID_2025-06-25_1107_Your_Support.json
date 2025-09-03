@@ -1,0 +1,46 @@
+{
+  "id": "EVID_2025-06-25_1107_Your_Support",
+  "filename_original": "25 June 2025 at 11-07 - Your support.pdf",
+  "filename_suggested": "EVID_2025-06-25_1107_Your_Support.pdf",
+  "file_path": "/mnt/data/25 June 2025 at 11-07 - Your support.pdf",
+  "file_mime_type": "application/pdf",
+  "title": "Your support",
+  "date_iso": "2025-06-25T11:07:00+01:00",
+  "timezone": "Europe/London",
+  "undated_flag": false,
+  "evidence_type": "support_document",
+  "vex_tags": [
+    "SAFETY_PLAN",
+    "EXTERNAL_ANCHOR",
+    "VICTIMS_CODE",
+    "ATTACHMENT_CLAIM",
+    "ATTACHMENT_CLAIM_MISMATCH",
+    "WITHDRAWAL_OF_SUPPORT",
+    "SCOPE_DEFLECTION"
+  ],
+  "new_tag_definitions": {
+    "SAFETY_PLAN": "Personal safety or support plan created by a support service.",
+    "EXTERNAL_ANCHOR": "Third‑party document that independently confirms state, risk, or actions."
+  },
+  "contradictions": [],
+  "timeline_hooks": [
+    "ExternalConfirmations"
+  ],
+  "legal_refs": [
+    "VictimsCode"
+  ],
+  "related_case_refs": [
+    "47240141246",
+    "47240214305",
+    "CIT1201684"
+  ],
+  "death_by_silence_metrics": {
+    "duty_to_act_date": null,
+    "elapsed_days": null
+  },
+  "ocr_text_path": "/mnt/data/EVID_2025-06-25_1107_Your_Support.txt",
+  "status": "new",
+  "notes": "Auto-generated evidence stub; ready for OCR and sentence-level VEX once text is extracted. | Claimed safety-plan attachment in body; actual delivery in 11:21 follow-up email.",
+  "parsed_email_id": "EMAIL_2025-06-25_1107_Veritas_EmmaJones_Your_Support",
+  "attachments": []
+}

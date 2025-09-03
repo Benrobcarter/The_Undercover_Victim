@@ -1,0 +1,46 @@
+{
+  "meta": {
+    "evidence_id": "VEX_EMAIL_2024-12-16_1301_Re_NICE_link_new_online_posts_10",
+    "thread_id": "EMAIL_THREAD_47240214305_DIXON_Carter",
+    "created_utc": "2025-08-30T02:12:33Z",
+    "date_local": "2024-12-16",
+    "time_local": "13:01",
+    "from": "Dixon, Jon EA817 <Jon.Dixon@sussex.police.uk>",
+    "to": "Ben Carter <benrobcarter@gmail.com>",
+    "cc": [],
+    "subject": "Re: NICE link + new online posts",
+    "attachments": [],
+    "clusters": [
+      "CRIME_REF_47240214305_THREAD",
+      "DEATH_BY_SILENCE",
+      "ACCESS_BARRIER",
+      "CROWBARRING_MYSELF_JUSTICE"
+    ],
+    "status": "verbatim_ingested",
+    "project_paths": {
+      "evidence_dst": "01_evidence/vex/email/"
+    }
+  },
+  "claim_summary": "Email preserved verbatim as part of 47240214305 thread.",
+  "key_points": [],
+  "contradictions": [],
+  "timeline_hooks": [
+    {
+      "when": "2024-12-16T13:01:00",
+      "tag": "EMAIL_THREAD_ACTIVITY",
+      "note": "Email: Re: NICE link + new online posts"
+    }
+  ],
+  "cue_alignment": {
+    "status": "complete_from_user_text"
+  },
+  "cues": [
+    {
+      "index": 1,
+      "start": null,
+      "end": null,
+      "speaker": "Dixon, Jon EA817 <Jon.Dixon@sussex.police.uk>",
+      "quote": "Hi Ben\nThere may be other offences there but that sounds more like civil law to me, unless she is sending these directly\nto you.\nHow have you become aware of this?\nRegards\nJon"
+    }
+  ]
+}

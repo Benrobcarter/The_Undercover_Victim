@@ -1,0 +1,58 @@
+{
+  "vex_evidence_entry": {
+    "id": "VOICEMAIL_2025-03-21_PROOF_OF_RECEIPT",
+    "meta": {
+      "date": "2025-03-21",
+      "source": "Voicemail left by Ben Carter to Duncan Lustig-Prean",
+      "tags": [
+        "CROWBARRING_MYSELF_JUSTICE",
+        "DUNCAN_ASSISTED_ERASURE",
+        "DEATH_BY_SILENCE",
+        "SAFEGUARDING_DEFLECTION",
+        "LOST_EVIDENCE_SUSSEX_POLICE"
+      ],
+      "linked_contradictions": [
+        "BF-CONTRA-DUNCAN-LIE-VOICEMAIL-2025"
+      ],
+      "quote_refs": [
+        "BC-Q-0321-VOICEMAIL-ESCALATED"
+      ]
+    },
+    "summary": "Voicemail audio confirms Ben Carter left a message for Duncan Lustig-Prean on March 21, 2025, clearly referencing suicide escalation, Alexander Voodoo, and the IOPC. Duncan later denied receiving this message in writing on May 4. This directly disproves his written claim, proving obstruction of safeguarding escalation and communication breakdown during a live investigation."
+  },
+  "quote_cards": [
+    {
+      "id": "BC-Q-0321-VOICEMAIL-ESCALATED",
+      "meta": {
+        "title": "Things have obviously escalated since the suicide.",
+        "author": "Ben Carter (voicemail)",
+        "tags": [
+          "QUOTE",
+          "SUICIDE_DISCLOSURE_USED_FOR_REMOVAL",
+          "DEATH_BY_SILENCE",
+          "VOICEMAIL_EVIDENCE"
+        ],
+        "source_file": "VOICEMAIL_2025-03-21_PROOF_OF_RECEIPT.json",
+        "source_section": "audio_transcript",
+        "added_at": "2025-08-31T23:06:22.234196"
+      },
+      "text": "Things have obviously escalated since the suicide."
+    }
+  ],
+  "timeline_entry": {
+    "date": "2025-03-21",
+    "summary": "Ben Carter leaves voicemail referencing suicide, IOPC, and Alexander Voodoo. Later denied by Duncan in written correspondence.",
+    "tags": [
+      "DEATH_BY_SILENCE",
+      "SAFEGUARDING_DEFLECTION",
+      "CROWBARRING_MYSELF_JUSTICE",
+      "DUNCAN_ASSISTED_ERASURE"
+    ],
+    "linked_documents": [
+      "VOICEMAIL_2025-03-21_PROOF_OF_RECEIPT.json"
+    ],
+    "quote_refs": [
+      "BC-Q-0321-VOICEMAIL-ESCALATED"
+    ]
+  }
+}

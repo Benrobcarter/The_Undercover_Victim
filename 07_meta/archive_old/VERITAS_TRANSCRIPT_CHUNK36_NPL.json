@@ -1,0 +1,82 @@
+{
+  "chunk": 36,
+  "time_range": "35:30-36:30",
+  "quotes": [
+    {
+      "speaker": "Ben Carter",
+      "time": "35:30",
+      "quote": "It feels like everyone’s waiting for something bad to happen before they take me seriously.",
+      "tags": [
+        "victim_experience",
+        "safeguarding_gap",
+        "institutional_failure"
+      ]
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "35:36",
+      "quote": "I know, and I’ve said prevention is better than reaction, but they still delay.",
+      "tags": [
+        "acknowledgement",
+        "advocacy",
+        "systemic_issue"
+      ]
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "35:42",
+      "quote": "Prevention should be the bare minimum, not something you have to argue for.",
+      "tags": [
+        "victim_assertion",
+        "safeguarding",
+        "accountability"
+      ]
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "35:47",
+      "quote": "You’re absolutely right, Ben. It should be automatic.",
+      "tags": [
+        "acknowledgement",
+        "agreement",
+        "safeguarding"
+      ]
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "35:52",
+      "quote": "But instead, they’re gambling with my safety.",
+      "tags": [
+        "victim_experience",
+        "risk",
+        "systemic_failure"
+      ]
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "35:57",
+      "quote": "I agree, it’s unacceptable, and I’ll keep pressing them.",
+      "tags": [
+        "acknowledgement",
+        "advocacy",
+        "safeguarding"
+      ]
+    }
+  ],
+  "contradictions": [
+    {
+      "issue": "Victim highlights prevention ignored; advocate admits it should be automatic but delays persist",
+      "type": "safeguarding_systemic_failure"
+    }
+  ],
+  "timeline_hooks": [
+    {
+      "ref": "waiting for harm",
+      "link": "Safeguarding omission pattern May 2025"
+    },
+    {
+      "ref": "prevention vs reaction",
+      "link": "Institutional safeguarding failure"
+    }
+  ]
+}

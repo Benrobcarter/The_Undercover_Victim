@@ -1,0 +1,135 @@
+{
+  "contradictions": [
+    {
+      "id": "BF-CONTRA-ALICE-BACKCHANNEL-DISCLOSURE-2025",
+      "meta": {
+        "title": "Fringe Used Alice Wright as a Backchannel for Information Gathering",
+        "tags": [
+          "TRUST_EXPLOITATION",
+          "SAFEGUARDING_DEFLECTION",
+          "GDPR_SPECIAL_CATEGORY_DATA_BREACH",
+          "DUNCAN_ASSISTED_ERASURE",
+          "NARRATIVE_CONTROL",
+          "CROWBARRING_MYSELF_JUSTICE"
+        ],
+        "created_at": "2025-08-31T23:48:38.245475",
+        "source_file": "Email_Amy_Keogh_2025-05-07.txt",
+        "source_description": "Email from Amy Keogh admitting Alice Wright relayed Ben's needs to Fringe leadership"
+      },
+      "summary": "On 7 May 2025, Brighton Fringe Managing Director Amy Keogh admitted in writing that Alice Wright was acting as an intermediary, stating: 'We're sorry we've not been able to fully understand what you've been asking for from us -- until Alice explained it to us.' This confirms Fringe was not engaging directly with Ben Carter but was using Alice as a proxy to interpret, filter, and relay information. It destroys the claim that Alice was neutral and shows she was embedded in a coordinated strategy to control communication and mitigate liability. Amy’s use of the phrase 'we're so relieved to know that you don't hate us,' which Alice had already seeded in advance, proves that Alice was involved in crafting both internal and external messaging about Ben's state of mind."
+    }
+  ],
+  "timeline_entries": [
+    {
+      "date": "2025-05-07",
+      "summary": "Amy Keogh admits Fringe was relying on Alice Wright to interpret and communicate Ben's needs.",
+      "tags": [
+        "BF-CONTRA-ALICE-BACKCHANNEL-DISCLOSURE-2025",
+        "GDPR_SPECIAL_CATEGORY_DATA_BREACH"
+      ],
+      "linked_documents": [
+        "Email_Amy_Keogh_2025-05-07.txt"
+      ]
+    },
+    {
+      "date": "2025-05-06",
+      "summary": "Ben discloses suicidal planning, loss of venue control, and trust in Alice before realising coercion.",
+      "tags": [
+        "CROWBARRING_MYSELF_JUSTICE",
+        "SCRIPTED_COMMUNICATION",
+        "TRUST_EXPLOITATION"
+      ],
+      "linked_documents": [
+        "Email_Chain_Alice_Ben_2025-05-06.txt"
+      ]
+    },
+    {
+      "date": "2025-05-07",
+      "summary": "Brighton Fringe confirms logging of police reports and uses Alice as justification for controlled communication.",
+      "tags": [
+        "GDPR_SPECIAL_CATEGORY_DATA_BREACH",
+        "NARRATIVE_CONTROL",
+        "BF-CONTRA-ALICE-BACKCHANNEL-DISCLOSURE-2025"
+      ],
+      "linked_documents": [
+        "Email_Chain_Alice_Ben_2025-05-06.txt"
+      ]
+    }
+  ],
+  "quote_cards": [
+    {
+      "id": "AK-Q-0507-ALICE-EXPLAINED",
+      "meta": {
+        "title": "We're sorry we've not been able to fully understand what you've been asking for from us — until Alice explained it to us.",
+        "author": "Amy Keogh (Brighton Fringe)",
+        "tags": [
+          "BF-CONTRA-ALICE-BACKCHANNEL-DISCLOSURE-2025",
+          "NARRATIVE_CONTROL"
+        ],
+        "source_file": "Email_Amy_Keogh_2025-05-07.txt",
+        "added_at": "2025-08-31T23:48:38.245490"
+      },
+      "text": "We're sorry we've not been able to fully understand what you've been asking for from us — until Alice explained it to us."
+    },
+    {
+      "id": "AK-Q-0507-DONT-HATE-US",
+      "meta": {
+        "title": "We're so relieved to know that you don't hate us.",
+        "author": "Amy Keogh (Brighton Fringe)",
+        "tags": [
+          "TRUST_EXPLOITATION",
+          "SCRIPTED_COMMUNICATION"
+        ],
+        "source_file": "Email_Amy_Keogh_2025-05-07.txt",
+        "added_at": "2025-08-31T23:48:38.245493"
+      },
+      "text": "We're so relieved to know that you don't hate us."
+    },
+    {
+      "id": "BF-Q-0506-IMSORRY-ADMIN-PASSWORDS",
+      "meta": {
+        "title": "I wrote down all my email passwords everything as 'imsorry'.",
+        "author": "Ben Carter",
+        "tags": [
+          "CROWBARRING_MYSELF_JUSTICE",
+          "ADMIN_OVERLOAD_CRISIS"
+        ],
+        "source_file": "Email_Chain_Alice_Ben_2025-05-06.txt",
+        "added_at": "2025-08-31T23:50:04.600595"
+      },
+      "text": "I wrote down all my email passwords everything as 'imsorry'."
+    },
+    {
+      "id": "BF-Q-0507-FRINGE-LOGGING-POLICE",
+      "meta": {
+        "title": "We have also been logging all of your communications with us, including all of the police reports you’ve only sent to Duncan.",
+        "author": "Amy Keogh (Brighton Fringe)",
+        "tags": [
+          "GDPR_SPECIAL_CATEGORY_DATA_BREACH",
+          "NARRATIVE_CONTROL"
+        ],
+        "source_file": "Email_Chain_Alice_Ben_2025-05-06.txt",
+        "added_at": "2025-08-31T23:50:04.600619"
+      },
+      "text": "We have also been logging all of your communications with us, including all of the police reports you’ve only sent to Duncan."
+    }
+  ],
+  "book_crosswalk": {
+    "chapter_id": "sec3_4_admin_breach",
+    "chapter_title": "3.4 — The Admin That Almost Killed Me",
+    "timeline_refs": [
+      "2025-05-07"
+    ],
+    "vex_tags": [
+      "BF-CONTRA-ALICE-BACKCHANNEL-DISCLOSURE-2025",
+      "TRUST_EXPLOITATION",
+      "NARRATIVE_CONTROL",
+      "SAFEGUARDING_DEFLECTION"
+    ],
+    "contradictions": [
+      {
+        "code": "BF-CONTRA-ALICE-BACKCHANNEL-DISCLOSURE-2025"
+      }
+    ]
+  }
+}

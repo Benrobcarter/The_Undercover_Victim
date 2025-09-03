@@ -1,0 +1,97 @@
+{
+  "meta": {
+    "filename": "2024-11-04_Digital-Policing_to_Ben_Evidence-Portal-Request.json",
+    "case_reference": "47240214305",
+    "thread_label": "EVIDENCE_PORTAL_REQUESTS/Joseph_Pearson",
+    "actor_cluster": [
+      "Digital Policing (portal)",
+      "Joseph Pearson",
+      "Ben Carter"
+    ],
+    "date_range": {
+      "start": "2024-11-04T05:36:00",
+      "end": "2024-11-04T05:36:00"
+    },
+    "source_provenance": "Email from noreply-public@digital-policing.co.uk to Ben Carter on 4 Nov 2024 05:36, sent on behalf of Joseph Pearson",
+    "created_at_utc": "2025-08-24T22:10:44Z",
+    "vex_schema_version": "1.2",
+    "human_exhibit_name": "CRN-47240214305_Digital-Policing_to_Ben_04-Nov-2024_Email-NL1.pdf",
+    "export_profile": "INTERNAL"
+  },
+  "emails": [
+    {
+      "id": "email-2024-11-04-0536-digitalpolicing-ben",
+      "date": "2024-11-04T05:36:00",
+      "from": {
+        "name": "Digital Policing (on behalf of Joseph Pearson)",
+        "email": "noreply-public@digital-policing.co.uk",
+        "badge": ""
+      },
+      "to": [
+        {
+          "name": "Ben Carter",
+          "email": "benrobcarter@gmail.com",
+          "badge": ""
+        }
+      ],
+      "subject_summary": "Evidence portal link request (expires 18 Nov 2024)",
+      "body_raw": "You have been requested by Joseph Pearson a Police Officer or member of Police Staff*, to provide data to assist with a police investigation/enquiry.\n\nPlease click here to respond to this request\n\nThe link to the request will expire on 18/11/2024\n\n*This email has been issued by a member of one of the following police forces: Hampshire Constabulary; Thames Valley Police, Surrey Police or Sussex Police\n\nConfidentiality: This communication and any attachments are intended for the above-named persons only and may be confidential and/or legally privileged. If this communication has come to you in error you must take no action based on it, nor must you copy or show it to anyone; please delete/destroy and inform the sender by e-mail immediately.\n\nFor details of force Privacy Notices, please visit the relevant website",
+      "body": "You have been requested by Joseph Pearson a Police Officer or member of Police Staff*, to provide data to assist with a police investigation/enquiry.\n\nPlease click here to respond to this request\n\nThe link to the request will expire on 18/11/2024\n\n*This email has been issued by a member of one of the following police forces: Hampshire Constabulary; Thames Valley Police, Surrey Police or Sussex Police\n\nConfidentiality: This communication and any attachments are intended for the above-named persons only and may be confidential and/or legally privileged. If this communication has come to you in error you must take no action based on it, nor must you copy or show it to anyone; please delete/destroy and inform the sender by e-mail immediately.\n\nFor details of force Privacy Notices, please visit the relevant website",
+      "attachments": [],
+      "labels": [
+        "EVIDENCE_PORTAL_REQUEST",
+        "LINK_WITH_EXPIRY_2024-11-18",
+        "JOSEPH_PEARSON_REQUEST"
+      ],
+      "allegations": []
+    }
+  ],
+  "vex": [
+    {
+      "email_id": "email-2024-11-04-0536-digitalpolicing-ben",
+      "sentence_tags": [
+        {
+          "text": "You have been requested by Joseph Pearson ... to provide data to assist with a police investigation/enquiry.",
+          "tags": [
+            "EVIDENCE_REQUEST",
+            "PORTAL_LINK_SENT"
+          ],
+          "notes": "Initial request issued via Digital Policing portal."
+        },
+        {
+          "text": "The link to the request will expire on 18/11/2024",
+          "tags": [
+            "LINK_WITH_EXPIRY"
+          ],
+          "notes": "Time-limited upload window declared."
+        }
+      ]
+    }
+  ],
+  "contradiction_links": [],
+  "timeline_hooks": [
+    {
+      "phase": "Investigation Stage",
+      "date": "2024-11-04",
+      "events": [
+        "Digital Policing portal invitation sent on behalf of Joseph Pearson; expiry 2024-11-18"
+      ],
+      "related_threads": [
+        "EVIDENCE_PORTAL_REQUESTS"
+      ]
+    }
+  ],
+  "damages_summary": {
+    "emotional": "",
+    "strategic": "Time-limited upload condition; track compliance and any access issues.",
+    "reputational": ""
+  },
+  "qa": {
+    "checks": [
+      "date_present",
+      "case_ref_present",
+      "exhibit_named"
+    ],
+    "status": "pending"
+  }
+}

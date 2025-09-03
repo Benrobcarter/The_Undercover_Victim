@@ -1,0 +1,23 @@
+[
+  {
+    "id": "invisible_probe",
+    "date": "2025-06-18",
+    "title": "Invisible Probe \u2014 triage call confirms \u2018PC Russell\u2019 decoy (\u202693423)",
+    "tag": "INVISIBLE_PROBE_CALL",
+    "links": {
+      "evidence_id": "VEX_2025-06-18_101_Invisible_Probe",
+      "vex_file": "VEX_2025-06-18_101_Invisible_Probe.json"
+    },
+    "notes": "Decoy confirmed at triage; reversed on 2025-06-22 with consolidation to Dixon.",
+    "linked_book_section": "sec3_33",
+    "linked_contradictions": [
+      "C_PC_RUSSELL_DIVERSION_PROBE"
+    ],
+    "linked_evidence": [
+      "VEX_2025-06-18_101_Invisible_Probe.json"
+    ],
+    "category": "Institutional Manipulation \u2192 Sussex Police \u2192 Record falsification / Decoy deployment",
+    "slug": "invisible-probe-russell-split",
+    "public_summary": "A covert 101 call used to probe the fabricated case split between PC Russell and PC Dixon. The resulting reversal four days later confirmed that Sussex Police had engineered a decoy narrative to deflect oversight. The call exposes systemic record manipulation and a deliberate attempt to mislead the IOPC."
+  }
+]

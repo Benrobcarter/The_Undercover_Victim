@@ -1,0 +1,82 @@
+{
+  "chunk": 39,
+  "time_range": "38:30-39:30",
+  "quotes": [
+    {
+      "speaker": "Ben Carter",
+      "time": "38:30",
+      "quote": "When I told them I was suicidal, they didn’t even log it properly.",
+      "tags": [
+        "victim_experience",
+        "suicide_disclosure",
+        "safeguarding_failure"
+      ]
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "38:36",
+      "quote": "Yes, I remember you told me that, and I raised it with them.",
+      "tags": [
+        "acknowledgement",
+        "advocacy",
+        "safeguarding"
+      ]
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "38:41",
+      "quote": "Raised it isn’t the same as making sure it’s recorded.",
+      "tags": [
+        "victim_assertion",
+        "accountability_gap",
+        "safeguarding"
+      ]
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "38:46",
+      "quote": "You’re right, it should have been logged straight away.",
+      "tags": [
+        "acknowledgement",
+        "agreement",
+        "safeguarding"
+      ]
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "38:50",
+      "quote": "But because it wasn’t, they can deny it later.",
+      "tags": [
+        "victim_experience",
+        "risk",
+        "institutional_failure"
+      ]
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "38:55",
+      "quote": "I know, and that’s why I’ve pushed again for proper logging going forward.",
+      "tags": [
+        "advocacy",
+        "acknowledgement",
+        "safeguarding"
+      ]
+    }
+  ],
+  "contradictions": [
+    {
+      "issue": "Suicidal disclosure not logged properly; advocate concedes failure but only promises 'pushing again'",
+      "type": "suicide_logging_failure"
+    }
+  ],
+  "timeline_hooks": [
+    {
+      "ref": "suicidal disclosure unlogged",
+      "link": "Critical safeguarding omission Apr–May 2025"
+    },
+    {
+      "ref": "denial risk",
+      "link": "Future contradiction in case record"
+    }
+  ]
+}

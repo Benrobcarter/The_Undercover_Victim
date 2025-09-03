@@ -1,0 +1,46 @@
+{
+  "meta": {
+    "evidence_id": "VEX_EMAIL_2025-02-11_1232_Re_Bail_timeline_13",
+    "thread_id": "EMAIL_THREAD_47240214305_DIXON_Carter",
+    "created_utc": "2025-08-30T02:12:33Z",
+    "date_local": "2025-02-11",
+    "time_local": "12:32",
+    "from": "Ben Carter <benrobcarter@gmail.com>",
+    "to": "Dixon, Jon EA817 <Jon.Dixon@sussex.police.uk>",
+    "cc": [],
+    "subject": "Re: Bail & timeline",
+    "attachments": [],
+    "clusters": [
+      "CRIME_REF_47240214305_THREAD",
+      "DEATH_BY_SILENCE",
+      "ACCESS_BARRIER",
+      "CROWBARRING_MYSELF_JUSTICE"
+    ],
+    "status": "verbatim_ingested",
+    "project_paths": {
+      "evidence_dst": "01_evidence/vex/email/"
+    }
+  },
+  "claim_summary": "Email preserved verbatim as part of 47240214305 thread.",
+  "key_points": [],
+  "contradictions": [],
+  "timeline_hooks": [
+    {
+      "when": "2025-02-11T12:32:00",
+      "tag": "EMAIL_THREAD_ACTIVITY",
+      "note": "Email: Re: Bail & timeline"
+    }
+  ],
+  "cue_alignment": {
+    "status": "complete_from_user_text"
+  },
+  "cues": [
+    {
+      "index": 1,
+      "start": null,
+      "end": null,
+      "speaker": "Ben Carter <benrobcarter@gmail.com>",
+      "quote": "Just following up on this, what is going on? Is there a time line anything i’m scrared to leave the house"
+    }
+  ]
+}

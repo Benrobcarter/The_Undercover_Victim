@@ -1,0 +1,357 @@
+{
+  "evidence": [
+    {
+      "id": "EMAIL_2025-05-07_LOGGING_ADMISSION",
+      "quote": "We have also been logging all of your communications with us, including all of the police reports you’ve only sent to Duncan.",
+      "source": "Email from Amy Keogh to Ben Carter (7 May 2025)",
+      "tags": [
+        "SUICIDE_DISCLOSURE_USED_FOR_REMOVAL",
+        "SAFEHARMING_LOG",
+        "SAR_STRUCTURAL_ABSENCE"
+      ],
+      "date": "2025-05-07",
+      "linked_to": [
+        "BF-CONTRA-SAR-GDPR-BREACH-2025"
+      ]
+    },
+    {
+      "id": "EMAIL_2025-05-08_GP_DISCLOSURE",
+      "quote": "We have made the decision to take over the management of his venues... to alleviate the stress on him.",
+      "source": "Email from Amy Keogh to NHS GP surgery (8 May 2025)",
+      "tags": [
+        "UNLAWFUL_THIRD_PARTY_HEALTH_DISCLOSURE",
+        "SUICIDE_DISCLOSURE_USED_FOR_REMOVAL"
+      ],
+      "date": "2025-05-08",
+      "linked_to": [
+        "BF-CONTRA-SAR-GDPR-BREACH-2025",
+        "BF-CONTRA-ERASURE-BY-DESIGN-LEGAL-2025"
+      ]
+    },
+    {
+      "id": "EMAIL_2025-07-18_LIBEL_EMAIL",
+      "quote": "The board has removed Ben Carter and Half a Camel from their list of approved venues.",
+      "source": "Mass email signed by Duncan Lustig-Prean (18 July 2025)",
+      "tags": [
+        "LIBEL_ACTION_DISGUISED_AS_NEUTRAL_UPDATE",
+        "REPUTATIONAL_HARM"
+      ],
+      "date": "2025-07-18",
+      "linked_to": [
+        "BF-CONTRA-LIBEL-REPLACEMENT-INTENT-2025"
+      ]
+    },
+    {
+      "id": "VEX_2025-04-09_Suicide_Disclosure_Threat",
+      "date": "2025-04-09",
+      "source_path": "06a. The Safeguarding Policy_ Critically Unfit for Purpose/EMAIL_2025-04-09_Amy_Keogh_Action_Plan.pdf",
+      "summary": "Email from Amy Keogh following Ben Carter’s disclosure of a suicide attempt. Instead of implementing a safeguarding plan, the email issues a threat that publicising communications would lead to withdrawal of support.",
+      "tags": [
+        "SAFEGUARDING_PERFORMATIVE",
+        "RETRAUMATISATION_VIA_NON_RESPONSE",
+        "DEATH_BY_SILENCE",
+        "COERCIVE_COMMS_USED_INSTEAD_OF_SUPPORT"
+      ],
+      "linked_contradictions": [
+        "CONTRA_2025-04-09_Threat_After_Suicide_Disclosure"
+      ],
+      "linked_timelines": [
+        "t2_brighton_fringe_consequences#2025-04-09"
+      ],
+      "quoted_text": [
+        "So Saturday night I tried to kill myself.",
+        "Publication of emails between you and the Fringe... will be considered an abuse of our good will... and will result in withdrawal of that additional support.",
+        "This is not trauma-informed safeguarding… this is retraumatising."
+      ]
+    },
+    {
+      "id": "VEX_2025-05-08_Expired_Contract_Used_For_Removal",
+      "date": "2025-05-08",
+      "source_path": "06b. Breaches of the 2024 Venue Managers’ Agreement/BF_2025-05-08_Expired_Contract_Used_For_Removal.pdf",
+      "summary": "Brighton Fringe used the outdated 2024 Venue Managers’ Agreement to justify actions taken in 2025, including the removal of Ben Carter as a venue manager. Safeguarding disclosures during this period were ignored.",
+      "tags": [
+        "CONTRACTUAL_SELECTIVE_ENFORCEMENT",
+        "SAFEGUARDING_FAILURE",
+        "GOVERNANCE_ERASURE",
+        "RECORD_MANIPULATION",
+        "DEATH_BY_SILENCE"
+      ],
+      "linked_contradictions": [
+        "CONTRA_2025-05-08_Expired_Contract_Used_For_Removal"
+      ],
+      "linked_timelines": [
+        "t2_brighton_fringe_consequences#2025-05-08"
+      ],
+      "quoted_text": [
+        "Brighton Fringe failed to produce or circulate a 2025 version of the agreement.",
+        "They breached this by ignoring my safeguarding and operational emails in April and May 2025.",
+        "No minutes or details were sent following the decision to remove me."
+      ]
+    },
+    {
+      "id": "VEX_2025-05-23_Public_Confusion_Ticketing_Collapse",
+      "date": "2025-05-23",
+      "source_path": "06c. The Root Cause - Operational Failures/01. Public Confusion & Assumed Responsibility/TRANSCRIPT_Call_With_Public.mp3",
+      "summary": "Members of the public began calling Ben Carter directly due to Brighton Fringe’s ticketing system failure, believing his personal number was the official Fringe contact line.",
+      "tags": [
+        "OPERATIONAL_BREAKDOWN",
+        "UNLAWFUL_BURDEN_SHIFT",
+        "SAFEGUARDING_DEFLECTION",
+        "INSTITUTIONAL_ABANDONMENT"
+      ],
+      "linked_contradictions": [
+        "BF-CONTRA-NO-RECORD-OF-ALLEGATIONS-2025"
+      ],
+      "linked_timelines": [
+        "t2_brighton_fringe_consequences#2025-05-23"
+      ],
+      "quoted_text": [
+        "Hi is this Brighton Fringe? We don’t know where the show is, there’s nothing online — you’re listed as the venue contact…"
+      ]
+    },
+    {
+      "id": "VEX_2025-05-26_PLI_Uninsurable_Unticketed_Shows",
+      "date": "2025-05-26",
+      "source_path": "06c. The Root Cause - Operational Failures/02. Proactive Risk Management/TRANSCRIPT_Meeting_With_Puck_Owner.mp3",
+      "summary": "Ben Carter met with the Puck venue owner to find a solution for Public Liability Insurance. Fringe's failure to track audience numbers made proper risk assessment impossible, undermining insurance procurement.",
+      "tags": [
+        "RISK_MANAGEMENT_BLOCKED",
+        "PLI_INACCESSIBLE",
+        "UNINSURABLE_EVENT",
+        "VENUE_SUPPORT_FAILURE"
+      ],
+      "linked_contradictions": [
+        "BF-CONTRA-LOGGED-WORSE-THAN-NOT-LOGGED-2025"
+      ],
+      "linked_timelines": [
+        "t2_brighton_fringe_consequences#2025-05-26"
+      ],
+      "quoted_text": [
+        "Zoe: I don’t know how we’re supposed to get insurance if we can’t say how many people are coming. Fringe have no numbers?"
+      ]
+    },
+    {
+      "id": "VEX_2025-05-10_Box_Office_Agreement_Breach",
+      "date": "2025-05-10",
+      "source_path": "06c. The Root Cause - Operational Failures/03. System-Level Negligence/SCREENSHOT_Fringe_Box_Office_Confirmation.png",
+      "summary": "Screenshot from the Brighton Fringe registration portal shows Ben Carter selected 'No' to operating his own box office. The system confirmed 'No further information is required,' binding Brighton Fringe to this responsibility.",
+      "tags": [
+        "CONTRACTUAL_CONFIRMATION",
+        "SYSTEMIC_BREACH_OF_DUTY",
+        "FRAUDULENT_BLAME_SHIFT",
+        "TRUST_COLLAPSE"
+      ],
+      "linked_contradictions": [
+        "BF-CONTRA-SAR-GDPR-BREACH-2025",
+        "BF-CONTRA-NO-RECORD-OF-ALLEGATIONS-2025"
+      ],
+      "linked_timelines": [
+        "t2_brighton_fringe_consequences#2025-05-10"
+      ],
+      "quoted_text": [
+        "No further information is required."
+      ]
+    },
+    {
+      "id": "VEX_2025-03-27_CoBranded_Station_Poster_Proof",
+      "date": "2025-03-27",
+      "source_path": "06d. Proof of Good Faith and Financial Investment/EMAIL_2025-03-27_Artwork_Sent_To_Printers.pdf",
+      "summary": "Ben Carter sent final artwork for a Brighton Station co-branded poster campaign, promoting Half a Camel venues and 157 shows under the Brighton Fringe logo. This marketing investment was later erased from Fringe communications.",
+      "tags": [
+        "COBRAND_EXPLOITATION",
+        "GOOD_FAITH_USED_AS_TRAP",
+        "REPUTATIONAL_HARM",
+        "NARRATIVE_REPLACEMENT"
+      ],
+      "linked_contradictions": [
+        "CONTRA_2025-03-27_CoBrand_Erasure"
+      ],
+      "linked_timelines": [
+        "t2_brighton_fringe_consequences#2025-03-27"
+      ],
+      "quoted_text": [
+        "Please find attached the final poster artwork. It includes both Brighton Fringe and Half a Camel branding.",
+        "The station slot is booked. It will be live from May 1."
+      ]
+    },
+    {
+      "id": "VEX_2025-04-23_Ticketing_Admission_Elin_Eaton",
+      "date": "2025-04-23",
+      "source_path": "06d. Proof of Good Faith and Financial Investment/EMAIL_2025-04-23_Elin_Eaton_Ticketing_Admission.pdf",
+      "summary": "Elin Eaton, the Fringe Box Office Manager, admitted in writing that the ticketing system could not track capacity for unticketed events. This made it impossible for Ben Carter to secure Public Liability Insurance.",
+      "tags": [
+        "SYSTEMIC_FAILURE_CONFESSION",
+        "RISK_MANAGEMENT_BLOCKED",
+        "SAFEGUARDING_DEFLECTION",
+        "UNINSURABLE_EVENT"
+      ],
+      "linked_contradictions": [
+        "CONTRA_2025-04-23_Admitted_Ticketing_Collapse"
+      ],
+      "linked_timelines": [
+        "t2_brighton_fringe_consequences#2025-04-23"
+      ],
+      "quoted_text": [
+        "There is no way to track capacity from our end for an unticketed event. This will be down to the venue to judge when an event is full."
+      ]
+    },
+    {
+      "id": "VEX_2025-07-18_Brochure_Proof_And_Libel_Response",
+      "date": "2025-07-18",
+      "source_path": "06d. Proof of Good Faith and Financial Investment/BROCHURE_PROOF_INTERNAL_PAGES.pdf",
+      "summary": "Despite being accused of not producing a brochure in the July 18 libel email, Ben Carter had a complete, professionally designed brochure ready to print. He was caught in a legal bind caused by the Fringe's unsafe branding environment.",
+      "tags": [
+        "DEFAMATION_THROUGH_OMISSION",
+        "IMPOSSIBLE_COMPLIANCE_CONDITION",
+        "TRUST_COLLAPSE",
+        "LIBEL_ACTION_DISGUISED_AS_NEUTRAL_UPDATE"
+      ],
+      "linked_contradictions": [
+        "CONTRA_2025-07-18_Brochure_Libel_Twist"
+      ],
+      "linked_timelines": [
+        "t2_brighton_fringe_consequences#2025-07-18"
+      ],
+      "quoted_text": [
+        "Brochure was ready for print.",
+        "Including the Fringe logo risked trademark breach; removing it risked being framed as defection."
+      ]
+    },
+    {
+      "id": "VEX_2025-05-05_Eventotron_Payment_For_Mirror_System",
+      "date": "2025-05-05",
+      "source_path": "06e. Proof of Full Payment During Crisis (2025)/RECEIPT_2025-05-05_Eventotron_Payment.pdf",
+      "summary": "Ben Carter paid £250 to Eventotron to enable a mirrored ticketing setup for Half a Camel venues, under the guidance and approval of Alice Wright. This was done to preserve show continuity and meet insurance requirements. The partnership framing was later used to delay brochure production and create a false narrative of separation.",
+      "tags": [
+        "COLLABORATION_AS_DEFLECTION",
+        "STALLED_IN_GOOD_FAITH",
+        "SAFEGUARDING_DEFLECTION",
+        "GOOD_FAITH_USED_AS_TRAP"
+      ],
+      "linked_contradictions": [
+        "CONTRA_2025-05-05_Eventotron_Payment_Based_On_Manipulated_Partnership_Promise"
+      ],
+      "linked_timelines": [
+        "t2_brighton_fringe_consequences#2025-05-05"
+      ],
+      "quoted_text": [
+        "£250 payment confirmed to Eventotron on May 5, 2025.",
+        "We’ll work as partners — just make sure the system mirrors ours."
+      ]
+    },
+    {
+      "id": "VEX_2025-05-06_Ongoing_Registration_Under_Suppression",
+      "date": "2025-05-06",
+      "source_path": "06e. Proof of Full Payment During Crisis (2025)/EVENTOTRON_2025-05-06_Maris_And_Alec.pdf",
+      "summary": "Despite being told operational continuity was in jeopardy, Half a Camel was onboarding new venues (Maris & Otter) and shows (Alec Crane). These registrations show clear ongoing delivery while Carter was being subtly deflected from publishing.",
+      "tags": [
+        "ONGOING_ACTIVITY_PROVEN_ERASURE",
+        "SAFEGUARDING_DEFLECTION",
+        "STALLED_IN_GOOD_FAITH",
+        "NARRATIVE_REPLACEMENT"
+      ],
+      "linked_contradictions": [
+        "CONTRA_2025-05-06_Shows_Were_Still_Growing_But_I_Was_Being_Blocked"
+      ],
+      "linked_timelines": [
+        "t2_brighton_fringe_consequences#2025-05-06"
+      ],
+      "quoted_text": [
+        "Alec Crane: An Hour of Controlling The Dead — Registered 6 May 2025",
+        "Maris & Otter venue approved on Half a Camel platform"
+      ]
+    },
+    {
+      "id": "VEX_2025-07-18_Brochure_Proof_Used_Against_Me",
+      "date": "2025-07-18",
+      "source_path": "06e. Proof of Full Payment During Crisis (2025)/BROCHURE_PROOF_2025.pdf",
+      "summary": "The Half a Camel 2025 brochure was fully designed and ready to print. Fringe delays and contradictory guidance created legal uncertainty about logo use and branding. This suppressed publication — then was weaponised in the July 18 libel email.",
+      "tags": [
+        "BROCHURE_ERASURE_VIA_DELAY_STRATEGY",
+        "DEFAMATION_THROUGH_OMISSION",
+        "GOOD_FAITH_USED_AS_TRAP",
+        "LIBEL_ACTION_DISGUISED_AS_NEUTRAL_UPDATE"
+      ],
+      "linked_contradictions": [
+        "CONTRA_2025-07-18_Brochure_Erased_After_Strategic_Delay"
+      ],
+      "linked_timelines": [
+        "t2_brighton_fringe_consequences#2025-07-18"
+      ],
+      "quoted_text": [
+        "Brochure file delivered and archived prior to erasure.",
+        "Alice confirmed mirror system would be fine — then used lack of printed material as accusation."
+      ]
+    },
+    {
+      "id": "VEX_2025-05-07_Public_Call_Reveals_Box_Office_Collapse",
+      "date": "2025-05-07",
+      "source_path": "06f. Operational Collapse_ A Public-Facing Failure (May 7th)/07-05-25 Brighton Fringe Not collecting phone numbers of acts and audience outside phoning me_Transcript .txt",
+      "summary": "A public caller mistakenly phoned Ben Carter believing his number was the Brighton Fringe support line. The call reveals that the Fringe failed to track performer contact details and left Carter absorbing box office collapse while still trying to speak on their behalf.",
+      "tags": [
+        "OPERATIONAL_BREAKDOWN",
+        "UNLAWFUL_BURDEN_SHIFT",
+        "SAFEGUARDING_DEFLECTION",
+        "INSTITUTIONAL_ABANDONMENT"
+      ],
+      "linked_contradictions": [
+        "CONTRA_2025-05-07_Public_Calls_Prove_Operational_Collapse"
+      ],
+      "linked_timelines": [
+        "t2_brighton_fringe_consequences#2025-05-07"
+      ],
+      "quoted_text": [
+        "Oh, sorry, it's just performers not showing up...",
+        "Check our Instagram… it's a disaster.",
+        "I have stated on behalf of the Fringe and they've agreed.",
+        "We might go rogue… but they've agreed…",
+        "Otherwise we just do it alone."
+      ]
+    },
+    {
+      "id": "VEX_2025-03-29_Artist_Assumed_I_Was_Fringe",
+      "date": "2025-03-29",
+      "source_path": "06g. Exceeding Contractual Obligations Amidst Fringe’s Chaos/Gmail - Re_ Flyering Licences.pdf",
+      "summary": "An artist contacted Brighton Fringe confused about flyering licences, assuming Ben Carter had already managed it. This proves that for months, Ben had been acting as the sole coordinator while the Fringe was silent. Artists perceived him as the institutional point of contact.",
+      "tags": [
+        "CONSTRUCTIVE_EXPULSION",
+        "VENUE_MANAGER_ROLE_EXPANSION",
+        "ORGANISATIONAL_ABANDONMENT",
+        "OPERATIONAL_BREAKDOWN"
+      ],
+      "linked_contradictions": [
+        "CONTRA_2025-03-29_Fringe_Was_Silent_I_Was_The_System"
+      ],
+      "linked_timelines": [
+        "t2_brighton_fringe_consequences#2025-03-29"
+      ],
+      "quoted_text": [
+        "I assumed this kind of thing was handled by Ben?",
+        "We haven’t heard anything yet from the Fringe."
+      ]
+    },
+    {
+      "id": "VEX_2025-05-01_CoBranded_Station_Poster",
+      "date": "2025-05-01",
+      "source_path": "06h. Misleading Public Advertising & Breach of Trust/POSTER_ARTWORK_2025-05-01_CoBranded_Station.pdf",
+      "summary": "Brighton Fringe approved and co-branded a Brighton Station poster campaign featuring both the Fringe and Half a Camel logos. The campaign created a false sense of operational safety, even though the advertised venues were uninsurable.",
+      "tags": [
+        "COBRAND_EXPLOITATION",
+        "FRAUDULENT_PUBLIC_REPRESENTATION",
+        "STRUCTURAL_ERASURE",
+        "BREACH_OF_PUBLIC_TRUST"
+      ],
+      "linked_contradictions": [
+        "CONTRA_2025-05-01_CoBranded_Poster_Misled_Public"
+      ],
+      "linked_timelines": [
+        "t2_brighton_fringe_consequences#2025-05-01"
+      ],
+      "quoted_text": [
+        "Official poster artwork submitted and approved by Brighton Fringe.",
+        "Half a Camel and Brighton Fringe logos featured side by side.",
+        "Directing ticket sales to official Brighton Fringe system."
+      ]
+    }
+  ]
+}

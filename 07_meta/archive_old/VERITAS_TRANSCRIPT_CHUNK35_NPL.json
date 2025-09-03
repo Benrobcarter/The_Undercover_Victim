@@ -1,0 +1,81 @@
+{
+  "chunk": 35,
+  "time_range": "34:30-35:30",
+  "quotes": [
+    {
+      "speaker": "Ben Carter",
+      "time": "34:30",
+      "quote": "If I end up hurt, a record won’t matter. It’ll just prove they failed after the fact.",
+      "tags": [
+        "victim_experience",
+        "safeguarding",
+        "risk"
+      ]
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "34:36",
+      "quote": "I know, and that’s why I’m emphasising immediate safety to them as well.",
+      "tags": [
+        "acknowledgement",
+        "advocacy",
+        "safeguarding"
+      ]
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "34:41",
+      "quote": "But they’re not acting, and you’re still just telling them.",
+      "tags": [
+        "victim_assertion",
+        "accountability_gap",
+        "risk"
+      ]
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "34:46",
+      "quote": "I hear you, Ben, and I know it feels like nothing’s happening.",
+      "tags": [
+        "acknowledgement",
+        "empathy",
+        "deflection"
+      ]
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "34:51",
+      "quote": "Feels like? It is nothing. That’s the problem.",
+      "tags": [
+        "victim_experience",
+        "contradiction",
+        "institutional_failure"
+      ]
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "34:55",
+      "quote": "You’re right, and I share that concern.",
+      "tags": [
+        "acknowledgement",
+        "agreement"
+      ]
+    }
+  ],
+  "contradictions": [
+    {
+      "issue": "Victim points out record useless if harmed; advocate concedes but continues cycle of 'telling them' without result",
+      "type": "safeguarding_failure"
+    }
+  ],
+  "timeline_hooks": [
+    {
+      "ref": "record proves failure after harm",
+      "link": "Documentation-only safeguard failure May 2025"
+    },
+    {
+      "ref": "telling them not acting",
+      "link": "Advocacy ineffectiveness"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "source_id": "VEX_2025-04-27_Veritas_Advocates_Gambit",
+  "source_path": "/mnt/data/VEX_2025-04-27_Veritas_Advocates_Gambit.json",
+  "code": "FALSE_ALLEGATION_USED_AS_COERCION",
+  "title": "Veritas call confirms false rape allegation embedded in stalking case strategy",
+  "claim": "Victim required to legitimise false allegation within stalking case to evidence alarm/distress.",
+  "impact": [
+    "Psychological coercion by system",
+    "Safeguarding breach undermining truth",
+    "Misrepresentation to CPS"
+  ],
+  "legal_risks": [
+    "Victims’ Code of Practice",
+    "PACE 1984 (consent to statement contents)",
+    "CPS Safeguarding Strategy"
+  ],
+  "priority": "high"
+}

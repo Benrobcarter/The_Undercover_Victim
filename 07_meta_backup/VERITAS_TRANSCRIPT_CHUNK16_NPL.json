@@ -1,0 +1,82 @@
+{
+  "chunk": 16,
+  "time_range": "15:30-16:30",
+  "quotes": [
+    {
+      "speaker": "Ben Carter",
+      "time": "15:30",
+      "quote": "It’s like they already decided I’m the problem before even looking at the evidence.",
+      "tags": [
+        "victim_experience",
+        "bias",
+        "gaslighting"
+      ]
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "15:36",
+      "quote": "I know, and that’s why I’ve said to them the evidence has to be central, not assumptions.",
+      "tags": [
+        "acknowledgement",
+        "advocacy",
+        "evidence_priority"
+      ]
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "15:42",
+      "quote": "But when evidence disappears, assumptions win.",
+      "tags": [
+        "evidence_loss",
+        "risk",
+        "systemic_failure"
+      ]
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "15:47",
+      "quote": "That’s true, and I keep challenging them on that point.",
+      "tags": [
+        "advocacy",
+        "acknowledgement",
+        "challenge"
+      ]
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "15:52",
+      "quote": "Feels like no matter what I give them, it’ll vanish or be ignored.",
+      "tags": [
+        "victim_experience",
+        "evidence_erasure",
+        "hopelessness"
+      ]
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "15:57",
+      "quote": "I understand, Ben. That’s why I’ll keep checking and re-checking what they log.",
+      "tags": [
+        "acknowledgement",
+        "advocacy",
+        "evidence_audit"
+      ]
+    }
+  ],
+  "contradictions": [
+    {
+      "issue": "Victim states bias against him; evidence disappears vs. advocate insists she challenges but acknowledges risk",
+      "type": "bias_and_evidence_loss"
+    }
+  ],
+  "timeline_hooks": [
+    {
+      "ref": "assumptions over evidence",
+      "link": "Institutional bias May 2025"
+    },
+    {
+      "ref": "evidence disappears",
+      "link": "Evidence erasure contradiction"
+    }
+  ]
+}

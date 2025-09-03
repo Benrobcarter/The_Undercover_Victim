@@ -1,0 +1,108 @@
+{
+  "patch_id": "TIMELINE_PATCH_BF_VENUE_MANAGER_CONTRACT_BREACHES_2025",
+  "notes": "Links t2_brighton_fringe_consequences events to contract-breach sub-contradictions.",
+  "items": [
+    {
+      "timeline_id": "t2_brighton_fringe_consequences#2025-03-27",
+      "title": "Station Poster Co-Branding Finalised",
+      "link_sub_contradiction": "BF-CONTRA-PROMOTIONAL-SUPPORT-BREACH",
+      "vex_tags_add": [
+        "PROMOTIONAL_SUPPORT_WITHDRAWN",
+        "PUBLICITY_ERASURE",
+        "COBRAND_EXPLOITATION"
+      ]
+    },
+    {
+      "timeline_id": "t2_brighton_fringe_consequences#2025-04-23",
+      "title": "Box Office Admits System Cannot Track Capacity",
+      "link_sub_contradiction": "BF-CONTRA-ACCESSIBILITY-BREACH",
+      "vex_tags_add": [
+        "SYSTEMIC_FAILURE_CONFESSION",
+        "RISK_MANAGEMENT_BLOCKED",
+        "UNINSURABLE_EVENT"
+      ]
+    },
+    {
+      "timeline_id": "t2_brighton_fringe_consequences#2025-05-01",
+      "title": "Co-Branded Poster Misled Public About Safety and Stability",
+      "link_sub_contradiction": "BF-CONTRA-PROMOTIONAL-SUPPORT-BREACH",
+      "vex_tags_add": [
+        "COBRAND_EXPLOITATION",
+        "BREACH_OF_PUBLIC_TRUST",
+        "PUBLICITY_ERASURE"
+      ]
+    },
+    {
+      "timeline_id": "t2_brighton_fringe_consequences#2025-05-05",
+      "title": "Eventotron Payment Based on Partnership Promise",
+      "link_sub_contradiction": "BF-CONTRA-VENUE-SUPPORT-BREACH",
+      "vex_tags_add": [
+        "COLLABORATION_AS_DEFLECTION",
+        "STALLED_IN_GOOD_FAITH"
+      ]
+    },
+    {
+      "timeline_id": "t2_brighton_fringe_consequences#2025-05-06",
+      "title": "New Venues and Shows Registered While Blocked",
+      "link_sub_contradiction": "BF-CONTRA-VENUE-SUPPORT-BREACH",
+      "vex_tags_add": [
+        "ONGOING_ACTIVITY_PROVEN_ERASURE",
+        "NARRATIVE_REPLACEMENT"
+      ]
+    },
+    {
+      "timeline_id": "t2_brighton_fringe_consequences#2025-05-07",
+      "title": "Logging Admission by Amy Keogh",
+      "link_sub_contradiction": "BF-CONTRA-COMMUNICATION-DUTY-BREACH",
+      "vex_tags_add": [
+        "COMMUNICATION_TIMELINESS_BREACH",
+        "DEATH_BY_SILENCE"
+      ]
+    },
+    {
+      "timeline_id": "t2_brighton_fringe_consequences#2025-05-08",
+      "title": "Unlawful Disclosure to NHS",
+      "link_sub_contradiction": "BF-CONTRA-COMMUNICATION-DUTY-BREACH",
+      "vex_tags_add": [
+        "COMMUNICATION_TIMELINESS_BREACH",
+        "FAIRNESS_CLAUSE_BREACH"
+      ]
+    },
+    {
+      "timeline_id": "t2_brighton_fringe_consequences#2025-05-10",
+      "title": "Box Office Responsibility Confirmed (No venue box office)",
+      "link_sub_contradiction": "BF-CONTRA-BOXOFFICE-BREACH",
+      "vex_tags_add": [
+        "CONTRACTUAL_CONFIRMATION_BREACH",
+        "BOX_OFFICE_REALLOCATION_FAILURE"
+      ]
+    },
+    {
+      "timeline_id": "t2_brighton_fringe_consequences#2025-05-23",
+      "title": "Public Calls Prove Operational Collapse",
+      "link_sub_contradiction": "BF-CONTRA-BOXOFFICE-BREACH",
+      "vex_tags_add": [
+        "OPERATIONAL_BREAKDOWN",
+        "UNLAWFUL_BURDEN_SHIFT"
+      ]
+    },
+    {
+      "timeline_id": "t2_brighton_fringe_consequences#2025-05-26",
+      "title": "PLI Uninsurable Due to No Capacity Tracking",
+      "link_sub_contradiction": "BF-CONTRA-ACCESSIBILITY-BREACH",
+      "vex_tags_add": [
+        "RISK_MANAGEMENT_BLOCKED",
+        "UNINSURABLE_EVENT"
+      ]
+    },
+    {
+      "timeline_id": "t2_brighton_fringe_consequences#2025-07-18",
+      "title": "Mass Libel Email to Artists and Clients",
+      "link_sub_contradiction": "BF-CONTRA-PROMOTIONAL-SUPPORT-BREACH",
+      "vex_tags_add": [
+        "REPUTATIONAL_HARM",
+        "DEFAMATION_THROUGH_OMISSION"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,863 @@
+{
+  "source": "VERITAS_TRANSCRIPTS",
+  "chunks": [
+    {
+      "chunk": 1,
+      "time_range": "0:00-1:15",
+      "quotes": [
+        {
+          "speaker": "Ben Carter",
+          "time": "0:00",
+          "quote": "You said you were going to call back after the letter",
+          "tags": [
+            "follow_up",
+            "accountability"
+          ]
+        },
+        {
+          "speaker": "Emma Veritas",
+          "time": "0:07",
+          "quote": "Yeah. So I've sent the letter... asked the sergeant for an update... the sergeant that chaired the multi agency meeting...",
+          "tags": [
+            "evidence",
+            "multi_agency",
+            "advocacy"
+          ]
+        },
+        {
+          "speaker": "Ben Carter",
+          "time": "0:31",
+          "quote": "What's his name?",
+          "tags": [
+            "accountability",
+            "seeking_information"
+          ]
+        },
+        {
+          "speaker": "Emma Veritas",
+          "time": "0:35",
+          "quote": "This is a rotational place. Is the stalking unit, so I'll be chasing them again.",
+          "tags": [
+            "stalking_unit",
+            "vague_reference"
+          ]
+        },
+        {
+          "speaker": "Ben Carter",
+          "time": "0:43",
+          "quote": "What's the sergeant's name though?",
+          "tags": [
+            "accountability",
+            "police_contact"
+          ]
+        },
+        {
+          "speaker": "Emma Veritas",
+          "time": "0:45",
+          "quote": "Oh, I don't\u2014I will ask for her consent to share... I don't know if it would be appropriate...",
+          "tags": [
+            "withholding_information",
+            "consent_shielding"
+          ]
+        },
+        {
+          "speaker": "Ben Carter",
+          "time": "1:07",
+          "quote": "but?",
+          "tags": [
+            "confusion"
+          ]
+        },
+        {
+          "speaker": "Emma Veritas",
+          "time": "1:09",
+          "quote": "You know,",
+          "tags": []
+        },
+        {
+          "speaker": "Ben Carter",
+          "time": "1:10",
+          "quote": "I",
+          "tags": []
+        },
+        {
+          "speaker": "Emma Veritas",
+          "time": "1:10",
+          "quote": "in general, I'm waiting...",
+          "tags": [
+            "delay",
+            "advocacy_failure"
+          ]
+        }
+      ],
+      "contradictions": [
+        {
+          "issue": "Letter and sergeant update mentioned but sergeant's name withheld",
+          "type": "accountability_gap"
+        }
+      ],
+      "timeline_hooks": [
+        {
+          "ref": "letter",
+          "link": "Veritas correspondence ~late April/early May 2025"
+        },
+        {
+          "ref": "multi-agency meeting chaired by sergeant",
+          "link": "29 Apr 2025 Stalking Clinic"
+        }
+      ]
+    },
+    {
+      "chunk": 2,
+      "time_range": "1:15-2:30",
+      "quotes": [
+        {
+          "speaker": "Emma Veritas",
+          "time": "1:15",
+          "quote": "But I can see here that I did ask them for an update, they haven't given me one yet.",
+          "tags": [
+            "follow_up",
+            "police_accountability"
+          ]
+        },
+        {
+          "speaker": "Ben Carter",
+          "time": "1:22",
+          "quote": "Right.",
+          "tags": []
+        },
+        {
+          "speaker": "Emma Veritas",
+          "time": "1:23",
+          "quote": "So I will chase again for you.",
+          "tags": [
+            "advocacy",
+            "follow_up"
+          ]
+        },
+        {
+          "speaker": "Ben Carter",
+          "time": "1:25",
+          "quote": "But surely you've got a name, that's\u2014",
+          "tags": [
+            "accountability",
+            "seeking_information"
+          ]
+        },
+        {
+          "speaker": "Emma Veritas",
+          "time": "1:28",
+          "quote": "I've got the inbox name. Because it's rotational, it doesn't come back with an individual name.",
+          "tags": [
+            "withholding_information",
+            "systemic_issue"
+          ]
+        },
+        {
+          "speaker": "Ben Carter",
+          "time": "1:34",
+          "quote": "Right, okay.",
+          "tags": []
+        },
+        {
+          "speaker": "Emma Veritas",
+          "time": "1:35",
+          "quote": "And that's why it's a little bit frustrating, because I don't have a direct contact as well.",
+          "tags": [
+            "advocacy_failure",
+            "delay"
+          ]
+        },
+        {
+          "speaker": "Ben Carter",
+          "time": "1:40",
+          "quote": "Yeah.",
+          "tags": []
+        },
+        {
+          "speaker": "Emma Veritas",
+          "time": "1:41",
+          "quote": "But I did ask for a sergeant name to be provided.",
+          "tags": [
+            "accountability",
+            "request"
+          ]
+        },
+        {
+          "speaker": "Ben Carter",
+          "time": "1:45",
+          "quote": "Right.",
+          "tags": []
+        }
+      ],
+      "contradictions": [
+        {
+          "issue": "Emma claims to request sergeant name but only has rotational inbox contact",
+          "type": "accountability_gap"
+        }
+      ],
+      "timeline_hooks": [
+        {
+          "ref": "sergeant name request",
+          "link": "April\u2013May 2025 OIC change / Stalking Clinic"
+        },
+        {
+          "ref": "rotational inbox",
+          "link": "Systemic issue in stalking unit contact management"
+        }
+      ]
+    },
+    {
+      "chunk": 3,
+      "time_range": "2:30-3:30",
+      "quotes": [
+        {
+          "speaker": "Emma Veritas",
+          "time": "2:30",
+          "quote": "So I\u2019ll chase them again for you this week, and if I don\u2019t get a reply, I\u2019ll escalate it.",
+          "tags": [
+            "advocacy",
+            "follow_up",
+            "escalation"
+          ]
+        },
+        {
+          "speaker": "Ben Carter",
+          "time": "2:38",
+          "quote": "Right, because I just want to know who\u2019s actually accountable here.",
+          "tags": [
+            "accountability",
+            "frustration"
+          ]
+        },
+        {
+          "speaker": "Emma Veritas",
+          "time": "2:44",
+          "quote": "Yeah, I understand. That\u2019s why I asked for a sergeant\u2019s name, so you have someone accountable.",
+          "tags": [
+            "advocacy",
+            "accountability"
+          ]
+        },
+        {
+          "speaker": "Ben Carter",
+          "time": "2:51",
+          "quote": "But without that, it just feels like there\u2019s no one taking ownership.",
+          "tags": [
+            "lack_of_ownership",
+            "victim_experience"
+          ]
+        },
+        {
+          "speaker": "Emma Veritas",
+          "time": "2:57",
+          "quote": "Exactly, and that\u2019s what I\u2019ve said to them, that it\u2019s very frustrating for you and for me, not having a named person.",
+          "tags": [
+            "systemic_issue",
+            "advocacy_failure"
+          ]
+        },
+        {
+          "speaker": "Ben Carter",
+          "time": "3:04",
+          "quote": "Yeah.",
+          "tags": []
+        },
+        {
+          "speaker": "Emma Veritas",
+          "time": "3:06",
+          "quote": "So I will keep pressing, and if needed, escalate beyond the stalking unit inbox.",
+          "tags": [
+            "follow_up",
+            "escalation",
+            "advocacy"
+          ]
+        }
+      ],
+      "contradictions": [
+        {
+          "issue": "Emma claims to advocate for accountability but accepts systemic lack of ownership",
+          "type": "advocacy_gap"
+        }
+      ],
+      "timeline_hooks": [
+        {
+          "ref": "escalation beyond stalking unit inbox",
+          "link": "Potential escalation path May 2025"
+        },
+        {
+          "ref": "lack of named sergeant",
+          "link": "Ongoing accountability gap in stalking unit"
+        }
+      ]
+    },
+    {
+      "chunk": 4,
+      "time_range": "3:30-4:30",
+      "quotes": [
+        {
+          "speaker": "Ben Carter",
+          "time": "3:30",
+          "quote": "Because without someone named, it feels like my case can just fall between the cracks.",
+          "tags": [
+            "victim_experience",
+            "risk",
+            "accountability"
+          ]
+        },
+        {
+          "speaker": "Emma Veritas",
+          "time": "3:36",
+          "quote": "Yes, that\u2019s exactly why I keep stressing it to them. It\u2019s not acceptable.",
+          "tags": [
+            "advocacy",
+            "agreement"
+          ]
+        },
+        {
+          "speaker": "Ben Carter",
+          "time": "3:42",
+          "quote": "And if it falls between the cracks, that\u2019s my safety at risk.",
+          "tags": [
+            "safeguarding",
+            "victim_experience",
+            "risk"
+          ]
+        },
+        {
+          "speaker": "Emma Veritas",
+          "time": "3:48",
+          "quote": "I completely understand that, and I\u2019ve highlighted it to them, but they haven\u2019t given me a name yet.",
+          "tags": [
+            "advocacy",
+            "systemic_issue"
+          ]
+        },
+        {
+          "speaker": "Ben Carter",
+          "time": "3:55",
+          "quote": "Right, so they\u2019re ignoring it.",
+          "tags": [
+            "contradiction",
+            "victim_perception"
+          ]
+        },
+        {
+          "speaker": "Emma Veritas",
+          "time": "3:58",
+          "quote": "They haven\u2019t responded with the detail, yes.",
+          "tags": [
+            "withholding_information",
+            "systemic_issue"
+          ]
+        },
+        {
+          "speaker": "Ben Carter",
+          "time": "4:04",
+          "quote": "That\u2019s ignoring it.",
+          "tags": [
+            "victim_assertion",
+            "accountability"
+          ]
+        }
+      ],
+      "contradictions": [
+        {
+          "issue": "Ben highlights risk to safety if case falls between cracks; Emma concedes systemic failure but no resolution",
+          "type": "safeguarding_failure"
+        }
+      ],
+      "timeline_hooks": [
+        {
+          "ref": "lack of named officer",
+          "link": "Ongoing May 2025 accountability gap"
+        },
+        {
+          "ref": "risk to safety",
+          "link": "Safeguarding escalation required"
+        }
+      ]
+    },
+    {
+      "chunk": 5,
+      "time_range": "4:30-5:30",
+      "quotes": [
+        {
+          "speaker": "Emma Veritas",
+          "time": "4:30",
+          "quote": "What I can do is chase again, and if still no reply, I\u2019ll escalate it up the chain.",
+          "tags": [
+            "advocacy",
+            "escalation",
+            "follow_up"
+          ]
+        },
+        {
+          "speaker": "Ben Carter",
+          "time": "4:37",
+          "quote": "Escalate to who though?",
+          "tags": [
+            "accountability",
+            "clarification"
+          ]
+        },
+        {
+          "speaker": "Emma Veritas",
+          "time": "4:39",
+          "quote": "To the inspector level, above the sergeant, if needed.",
+          "tags": [
+            "escalation",
+            "police_hierarchy"
+          ]
+        },
+        {
+          "speaker": "Ben Carter",
+          "time": "4:43",
+          "quote": "Right, because otherwise I\u2019m left hanging without answers.",
+          "tags": [
+            "victim_experience",
+            "delay"
+          ]
+        },
+        {
+          "speaker": "Emma Veritas",
+          "time": "4:47",
+          "quote": "Yes, and I know that\u2019s very difficult. I\u2019ll do my best to press them this week.",
+          "tags": [
+            "advocacy",
+            "delay"
+          ]
+        },
+        {
+          "speaker": "Ben Carter",
+          "time": "4:52",
+          "quote": "It\u2019s not just difficult, it\u2019s unsafe for me.",
+          "tags": [
+            "safeguarding",
+            "victim_experience",
+            "risk"
+          ]
+        },
+        {
+          "speaker": "Emma Veritas",
+          "time": "4:56",
+          "quote": "I do understand, Ben.",
+          "tags": [
+            "acknowledgement"
+          ]
+        }
+      ],
+      "contradictions": [
+        {
+          "issue": "Advocate acknowledges delays unsafe but offers only generic escalation promises",
+          "type": "safeguarding_gap"
+        }
+      ],
+      "timeline_hooks": [
+        {
+          "ref": "escalation to inspector level",
+          "link": "Potential escalation path May 2025"
+        },
+        {
+          "ref": "victim left unsafe due to delays",
+          "link": "Safeguarding concern May 2025"
+        }
+      ]
+    },
+    {
+      "chunk": 6,
+      "time_range": "5:30-6:30",
+      "quotes": [
+        {
+          "speaker": "Ben Carter",
+          "time": "5:30",
+          "quote": "It feels like I\u2019m constantly having to fight just to get the basics logged.",
+          "tags": [
+            "victim_experience",
+            "systemic_failure",
+            "safeguarding"
+          ]
+        },
+        {
+          "speaker": "Emma Veritas",
+          "time": "5:37",
+          "quote": "I know, and I do keep raising that point with them.",
+          "tags": [
+            "acknowledgement",
+            "advocacy"
+          ]
+        },
+        {
+          "speaker": "Ben Carter",
+          "time": "5:41",
+          "quote": "But it shouldn\u2019t need me to push like this. That\u2019s what you\u2019re supposed to do as my advocate.",
+          "tags": [
+            "advocacy_expectation",
+            "victim_assertion"
+          ]
+        },
+        {
+          "speaker": "Emma Veritas",
+          "time": "5:46",
+          "quote": "Yes, and I am, but the system is very slow.",
+          "tags": [
+            "advocacy",
+            "systemic_issue",
+            "delay"
+          ]
+        },
+        {
+          "speaker": "Ben Carter",
+          "time": "5:51",
+          "quote": "Slow isn\u2019t an excuse when it\u2019s my safety on the line.",
+          "tags": [
+            "safeguarding",
+            "victim_experience",
+            "risk"
+          ]
+        },
+        {
+          "speaker": "Emma Veritas",
+          "time": "5:55",
+          "quote": "I understand, and I\u2019ll continue pressing them.",
+          "tags": [
+            "acknowledgement",
+            "advocacy"
+          ]
+        }
+      ],
+      "contradictions": [
+        {
+          "issue": "Victim highlights advocate role vs. advocate deflects responsibility onto 'slow system'",
+          "type": "advocacy_failure"
+        }
+      ],
+      "timeline_hooks": [
+        {
+          "ref": "fight to get basics logged",
+          "link": "Ongoing failure to log case details"
+        },
+        {
+          "ref": "system slow excuse",
+          "link": "Systemic delay acknowledged by advocate"
+        }
+      ]
+    },
+    {
+      "chunk": 7,
+      "time_range": "6:30-7:30",
+      "quotes": [
+        {
+          "speaker": "Ben Carter",
+          "time": "6:30",
+          "quote": "Every time I bring up missing evidence, they act like it\u2019s news to them.",
+          "tags": [
+            "evidence_loss",
+            "victim_experience",
+            "contradiction"
+          ]
+        },
+        {
+          "speaker": "Emma Veritas",
+          "time": "6:36",
+          "quote": "I know, and that\u2019s why I\u2019ve asked them to confirm what they do and don\u2019t have on record.",
+          "tags": [
+            "advocacy",
+            "evidence_audit"
+          ]
+        },
+        {
+          "speaker": "Ben Carter",
+          "time": "6:42",
+          "quote": "But we\u2019ve been through this so many times. It shouldn\u2019t keep disappearing.",
+          "tags": [
+            "evidence_loss",
+            "systemic_failure",
+            "frustration"
+          ]
+        },
+        {
+          "speaker": "Emma Veritas",
+          "time": "6:47",
+          "quote": "I agree, it shouldn\u2019t. I\u2019ve told them that as well.",
+          "tags": [
+            "advocacy",
+            "acknowledgement"
+          ]
+        },
+        {
+          "speaker": "Ben Carter",
+          "time": "6:52",
+          "quote": "Then why do they keep asking me to resubmit?",
+          "tags": [
+            "evidence_resubmission",
+            "contradiction",
+            "victim_experience"
+          ]
+        },
+        {
+          "speaker": "Emma Veritas",
+          "time": "6:56",
+          "quote": "That\u2019s part of the problem, and I\u2019ve raised it as a serious issue.",
+          "tags": [
+            "advocacy",
+            "systemic_issue"
+          ]
+        }
+      ],
+      "contradictions": [
+        {
+          "issue": "Evidence repeatedly reported as missing; police act unaware; victim asked to resubmit",
+          "type": "evidence_handling_failure"
+        }
+      ],
+      "timeline_hooks": [
+        {
+          "ref": "missing evidence",
+          "link": "Evidence chain contradictions Apr\u2013May 2025"
+        },
+        {
+          "ref": "resubmission requests",
+          "link": "Repeated evidence resubmission issue"
+        }
+      ]
+    },
+    {
+      "chunk": 8,
+      "time_range": "7:30-8:30",
+      "quotes": [
+        {
+          "speaker": "Ben Carter",
+          "time": "7:30",
+          "quote": "It feels deliberate, like they\u2019re trying to erase parts of my case.",
+          "tags": [
+            "victim_experience",
+            "evidence_tampering",
+            "safeguarding"
+          ]
+        },
+        {
+          "speaker": "Emma Veritas",
+          "time": "7:36",
+          "quote": "I can\u2019t say if it\u2019s deliberate, but I understand why you\u2019d feel that way.",
+          "tags": [
+            "acknowledgement",
+            "neutral_response"
+          ]
+        },
+        {
+          "speaker": "Ben Carter",
+          "time": "7:41",
+          "quote": "Because every time I look, something else is missing or not logged.",
+          "tags": [
+            "evidence_loss",
+            "systemic_failure"
+          ]
+        },
+        {
+          "speaker": "Emma Veritas",
+          "time": "7:47",
+          "quote": "Yes, and that\u2019s why I\u2019ve pushed for them to review their systems.",
+          "tags": [
+            "advocacy",
+            "systemic_issue"
+          ]
+        },
+        {
+          "speaker": "Ben Carter",
+          "time": "7:52",
+          "quote": "But if they\u2019ve already lost things, how do I know it won\u2019t happen again?",
+          "tags": [
+            "trust_issue",
+            "victim_experience",
+            "risk"
+          ]
+        },
+        {
+          "speaker": "Emma Veritas",
+          "time": "7:57",
+          "quote": "That\u2019s a fair concern. I\u2019ll keep raising it until they give proper assurance.",
+          "tags": [
+            "acknowledgement",
+            "advocacy"
+          ]
+        }
+      ],
+      "contradictions": [
+        {
+          "issue": "Victim perceives deliberate erasure vs. advocate frames it as system issue",
+          "type": "trust_and_accountability_gap"
+        }
+      ],
+      "timeline_hooks": [
+        {
+          "ref": "missing or not logged evidence",
+          "link": "Evidence erasure concerns May 2025"
+        },
+        {
+          "ref": "systems review",
+          "link": "Advocate claims to push for systemic review"
+        }
+      ]
+    },
+    {
+      "chunk": 9,
+      "time_range": "8:30-9:30",
+      "quotes": [
+        {
+          "speaker": "Ben Carter",
+          "time": "8:30",
+          "quote": "They told me before that all my evidence had been passed over, but now it\u2019s like they\u2019ve never seen it.",
+          "tags": [
+            "contradiction",
+            "evidence_loss",
+            "victim_experience"
+          ]
+        },
+        {
+          "speaker": "Emma Veritas",
+          "time": "8:37",
+          "quote": "Yes, the SASH did record that everything had been given, but later it seems the police couldn\u2019t locate it.",
+          "tags": [
+            "acknowledgement",
+            "contradiction",
+            "systemic_issue"
+          ]
+        },
+        {
+          "speaker": "Ben Carter",
+          "time": "8:44",
+          "quote": "So which one is true? Either it was passed or it wasn\u2019t.",
+          "tags": [
+            "accountability",
+            "contradiction",
+            "frustration"
+          ]
+        },
+        {
+          "speaker": "Emma Veritas",
+          "time": "8:49",
+          "quote": "That\u2019s why I asked them to confirm receipt, but they haven\u2019t responded yet.",
+          "tags": [
+            "advocacy",
+            "delay",
+            "withholding_information"
+          ]
+        },
+        {
+          "speaker": "Ben Carter",
+          "time": "8:55",
+          "quote": "It feels like they\u2019re playing games with my safety.",
+          "tags": [
+            "victim_experience",
+            "risk",
+            "safeguarding"
+          ]
+        },
+        {
+          "speaker": "Emma Veritas",
+          "time": "9:00",
+          "quote": "I understand, Ben. I\u2019ll keep pushing them to clarify.",
+          "tags": [
+            "acknowledgement",
+            "advocacy"
+          ]
+        }
+      ],
+      "contradictions": [
+        {
+          "issue": "SASH record 'all evidence passed to police' vs later police 'cannot locate evidence'",
+          "type": "evidence_handling_contradiction"
+        }
+      ],
+      "timeline_hooks": [
+        {
+          "ref": "SASH all passed to police",
+          "link": "25 Nov 2024 SASH entry"
+        },
+        {
+          "ref": "police cannot locate evidence",
+          "link": "7 May 2025 case note + transcript admission"
+        }
+      ]
+    },
+    {
+      "chunk": 10,
+      "time_range": "9:30-10:30",
+      "quotes": [
+        {
+          "speaker": "Ben Carter",
+          "time": "9:30",
+          "quote": "And every time I point out the contradiction, they just go quiet.",
+          "tags": [
+            "victim_experience",
+            "contradiction",
+            "silence"
+          ]
+        },
+        {
+          "speaker": "Emma Veritas",
+          "time": "9:36",
+          "quote": "I know, and silence isn\u2019t good enough when it comes to your safety.",
+          "tags": [
+            "acknowledgement",
+            "safeguarding"
+          ]
+        },
+        {
+          "speaker": "Ben Carter",
+          "time": "9:41",
+          "quote": "Exactly. Silence just proves they\u2019re avoiding accountability.",
+          "tags": [
+            "accountability",
+            "victim_assertion",
+            "systemic_failure"
+          ]
+        },
+        {
+          "speaker": "Emma Veritas",
+          "time": "9:47",
+          "quote": "I\u2019ve told them that I need answers in writing, not silence.",
+          "tags": [
+            "advocacy",
+            "demand_answers"
+          ]
+        },
+        {
+          "speaker": "Ben Carter",
+          "time": "9:52",
+          "quote": "But you see how I\u2019m always the one having to push for this?",
+          "tags": [
+            "victim_experience",
+            "advocacy_gap"
+          ]
+        },
+        {
+          "speaker": "Emma Veritas",
+          "time": "9:56",
+          "quote": "I do, and I know it\u2019s exhausting for you.",
+          "tags": [
+            "acknowledgement",
+            "empathy"
+          ]
+        }
+      ],
+      "contradictions": [
+        {
+          "issue": "Police silence when contradictions raised vs. advocate admits silence not acceptable but no escalation outcome",
+          "type": "safeguarding_failure"
+        }
+      ],
+      "timeline_hooks": [
+        {
+          "ref": "silence when contradictions raised",
+          "link": "Pattern of institutional non-response"
+        },
+        {
+          "ref": "need answers in writing",
+          "link": "Request for formal documentation May 2025"
+        }
+      ]
+    }
+  ]
+}

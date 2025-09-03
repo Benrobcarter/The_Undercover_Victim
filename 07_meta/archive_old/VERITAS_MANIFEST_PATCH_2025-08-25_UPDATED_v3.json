@@ -1,0 +1,213 @@
+{
+  "patch_generated": "2025-08-25T04:24:49.310012Z",
+  "entries": [
+    {
+      "path": "01_evidence/veritas/VERITAS_MERGED_2025-08-25.json",
+      "type": "veritas",
+      "subtype": "dataset",
+      "sha256": "f6a0e505fa4774dac526a3a9ecdbf874f74d19787300e5a83fb5ed7a84eca6d8",
+      "bytes": 543634,
+      "tags": [
+        "VERITAS",
+        "timeline",
+        "contradictions"
+      ]
+    },
+    {
+      "path": "01_evidence/veritas/VERITAS_MERGED_2025-08-25_summary.csv",
+      "type": "veritas",
+      "subtype": "table",
+      "sha256": "7f29917ba3506ded3abef41bf1125fdba38ab8d6a0670b756c987c6dd8392525",
+      "bytes": 82766,
+      "tags": [
+        "VERITAS",
+        "timeline",
+        "contradictions"
+      ]
+    },
+    {
+      "path": "01_evidence/veritas/VERITAS_MERGED_2025-08-25_SCHEMA.md",
+      "type": "veritas",
+      "subtype": "doc",
+      "sha256": "74e771861e27476b8366b44365579f3ecb24a93723ad95a4e299815c97456dc1",
+      "bytes": 1731,
+      "tags": [
+        "VERITAS",
+        "timeline",
+        "contradictions"
+      ]
+    },
+    {
+      "path": "01_evidence/veritas/VERITAS_SPLIT_ASSERTIONS_2025-08-25.json",
+      "type": "veritas",
+      "subtype": "dataset",
+      "sha256": "c41510093fa676d97d0b6ef3d034354643b40900087216421a297a8678f7b9cb",
+      "bytes": 224641,
+      "tags": [
+        "VERITAS",
+        "timeline",
+        "contradictions"
+      ]
+    },
+    {
+      "path": "01_evidence/veritas/VERITAS_SPLIT_CLASHES_2025-08-25.json",
+      "type": "veritas",
+      "subtype": "dataset",
+      "sha256": "baad975e81cb1b9119c3492d0317cac79ad2b47bd7fd0f1d94b45ec2b689a228",
+      "bytes": 227598,
+      "tags": [
+        "VERITAS",
+        "timeline",
+        "contradictions"
+      ]
+    },
+    {
+      "path": "01_evidence/veritas/VERITAS_SPLIT_MODULES_META_2025-08-25.json",
+      "type": "veritas",
+      "subtype": "dataset",
+      "sha256": "d21afd99227127a04c76f26101d3af6f2ba0a684c959c79e13fafa5d358e063e",
+      "bytes": 943,
+      "tags": [
+        "VERITAS",
+        "timeline",
+        "contradictions"
+      ]
+    },
+    {
+      "path": "01_evidence/veritas/VERITAS_SPLIT_MASTERS_2025-08-25.json",
+      "type": "veritas",
+      "subtype": "dataset",
+      "sha256": "44883c22f9482b290b7ad349f9e03471de882eafa81b0526f8355e2c400c8fe9",
+      "bytes": 38900,
+      "tags": [
+        "VERITAS",
+        "timeline",
+        "contradictions"
+      ]
+    },
+    {
+      "path": "01_evidence/veritas/VERITAS_SPLIT_STATS_2025-08-25.json",
+      "type": "veritas",
+      "subtype": "dataset",
+      "sha256": "fc35cb0427bbeb7b03624a229ffe5950918605a6ca0dbb9b7aecad7658367237",
+      "bytes": 255,
+      "tags": [
+        "VERITAS",
+        "timeline",
+        "contradictions"
+      ]
+    },
+    {
+      "path": "01_evidence/veritas/VERITAS_SPLIT_UID_INDEX_2025-08-25.json",
+      "type": "veritas",
+      "subtype": "dataset",
+      "sha256": "5d17ae3ba7732fc63f3f634283de069d24a079c5a9788182cda2ec61a697d028",
+      "bytes": 66704,
+      "tags": [
+        "VERITAS",
+        "timeline",
+        "contradictions"
+      ]
+    },
+    {
+      "path": "01_evidence/veritas/VERITAS_SPLIT_README_2025-08-25.md",
+      "type": "veritas",
+      "subtype": "doc",
+      "sha256": "66ba560d4fffa8a2aa74efd8affec08cafe2167c8fa0b1137c0e94037f5b178d",
+      "bytes": 1140,
+      "tags": [
+        "VERITAS",
+        "timeline",
+        "contradictions"
+      ]
+    },
+    {
+      "path": "01_evidence/veritas/VERITAS_README_2025-08-25.md",
+      "type": "veritas",
+      "subtype": "doc",
+      "sha256": "50a4802411918883b0505c5fbd65cafbb0a09cf22e265331c92ec448c244eadb",
+      "bytes": 1460,
+      "tags": [
+        "VERITAS",
+        "timeline",
+        "contradictions"
+      ]
+    },
+    {
+      "path": "01_evidence/veritas/VERITAS_DASHBOARD_PREVIEW_2025-08-25.html",
+      "type": "veritas",
+      "subtype": "doc",
+      "sha256": "dacbea646d1931bffd018a017b435a3601f55aa7375b8bcfcb22017a0adfeace",
+      "bytes": 189466,
+      "tags": [
+        "VERITAS",
+        "timeline",
+        "contradictions"
+      ]
+    },
+    {
+      "path": "01_evidence/veritas/VERITAS_DASHBOARD_PIVOT_2025-08-25.xlsx",
+      "type": "veritas",
+      "subtype": "doc",
+      "sha256": "08245a369a90223d098e781143897140c9c4524fda1ad50184543150086de5b0",
+      "bytes": 52623,
+      "tags": [
+        "VERITAS",
+        "timeline",
+        "contradictions"
+      ]
+    },
+    {
+      "path": "01_evidence/veritas/VERITAS_TRANSCRIPTS_UNIFIED_FLATTENED_2025-08-25.xlsx",
+      "title": "VERITAS_TRANSCRIPTS_UNIFIED_FLATTENED",
+      "type": "veritas",
+      "subtype": "dataset",
+      "ext": ".xlsx",
+      "sha256": "f6358f26220c931e6fa663d72ae2b4cac97dbcb3f7dccaac860764928a69e38a",
+      "bytes": 33400,
+      "added": "2025-08-25T15:17:34.852207Z",
+      "source": "upload",
+      "date_tag": "2025-08-25",
+      "notes": "Auto-registered; place at proposed path within project root."
+    },
+    {
+      "path": "03_analysis/veritas/VERITAS_TRANSCRIPTS_UNIFIED_FLATTENED_SUMMARY_2025-08-25.xlsx",
+      "title": "VERITAS_TRANSCRIPTS_UNIFIED_FLATTENED_SUMMARY",
+      "type": "veritas",
+      "subtype": "analysis_summary",
+      "ext": ".xlsx",
+      "sha256": "02d9d669d55c22e6c87cefb6ca1f6e6dcada0a65d86108c713eba475c4bdea07",
+      "bytes": 36618,
+      "added": "2025-08-25T15:17:34.852225Z",
+      "source": "upload",
+      "date_tag": "2025-08-25",
+      "notes": "Auto-registered; place at proposed path within project root."
+    },
+    {
+      "path": "03_analysis/veritas/VERITAS_TRANSCRIPTS_UNIFIED_FLATTENED_SUMMARY_CHARTS_2025-08-25.xlsx",
+      "title": "VERITAS_TRANSCRIPTS_UNIFIED_FLATTENED_SUMMARY_CHARTS",
+      "type": "veritas",
+      "subtype": "analysis_charts",
+      "ext": ".xlsx",
+      "sha256": "effef06c12fa4b67be1f8785ffd4c7803b20d446d9a64fcc12fb5069c7cd5360",
+      "bytes": 39947,
+      "added": "2025-08-25T15:17:34.852229Z",
+      "source": "upload",
+      "date_tag": "2025-08-25",
+      "notes": "Auto-registered; place at proposed path within project root."
+    },
+    {
+      "path": "03_analysis/veritas/VERITAS_TRANSCRIPTS_UNIFIED_FLATTENED_SUMMARY_CHARTS_WITH_TIMELINE_2025-08-25.xlsx",
+      "title": "VERITAS_TRANSCRIPTS_UNIFIED_FLATTENED_SUMMARY_CHARTS_WITH_TIMELINE",
+      "type": "veritas",
+      "subtype": "analysis_charts_timeline",
+      "ext": ".xlsx",
+      "sha256": "3331f0a448d492de0e020616ec133e75641a9fd66bd5bb14117cbe20eb051566",
+      "bytes": 136998,
+      "added": "2025-08-25T15:17:34.852234Z",
+      "source": "upload",
+      "date_tag": "2025-08-25",
+      "notes": "Auto-registered; place at proposed path within project root."
+    }
+  ]
+}

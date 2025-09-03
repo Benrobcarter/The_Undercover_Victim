@@ -1,0 +1,69 @@
+{
+  "chapters": [
+    {
+      "id": "sec3_33",
+      "title": "3.33 — The Invisible Probe: Covert Verification of the ‘PC Russell’ Diversion (18 June 2025)",
+      "order": 333,
+      "paragraphs": [
+        {
+          "text": "On 18 June 2025, during a 101 triage call, I deliberately tested Sussex Police’s verification protocols. By withholding a crime reference and providing only my name and date of birth, I was still able to progress the call — exposing a systemic weakness in safeguarding and access control.",
+          "allegations": [
+            "Evidence tampering and data suppression",
+            "Catastrophic safeguarding breaches by Sussex Police"
+          ],
+          "contradictions": [
+            "PC_RUSSELL_DIVERSION",
+            "DECOY_CASE_SPLIT",
+            "FRACTURED_TIMELINE",
+            "REVERSAL_AFTER_PROBE",
+            "MISLEADING_IOPC_NARRATIVE"
+          ],
+          "timeline_refs": [
+            "t1_sussex_police_chronology#invisible_probe"
+          ],
+          "vex_tags": [
+            "SAFEGUARDING_FAILURE",
+            "DEATH_BY_SILENCE",
+            "ACCESS_CONTROL_BREACH",
+            "RECORDS_AUDIT"
+          ]
+        },
+        {
+          "text": "This covert probe — later nicknamed ‘the Invisible Probe’ — showed how easily records could be bypassed, confirming that my identity was already centralised in Sussex Police’s systems even while they denied continuity elsewhere. Four days later, the ‘PC Russell’ case vanished, and Dixon’s control reasserted — proof of a dismantled deception.",
+          "allegations": [
+            "Institutional minimisation across multiple parties"
+          ],
+          "contradictions": [
+            "PC_RUSSELL_DIVERSION",
+            "WEAK_VERIFICATION",
+            "JULY_VS_NOVEMBER"
+          ],
+          "timeline_refs": [
+            "t1_sussex_police_chronology#invisible_probe"
+          ],
+          "vex_tags": [
+            "SAFEGUARDING_FAILURE",
+            "DEATH_BY_SILENCE",
+            "SYSTEM_INTEGRITY",
+            "TIMELINE_MANIPULATION"
+          ]
+        }
+      ]
+    }
+  ],
+  "timelines": {
+    "t1_sussex_police_chronology": [
+      {
+        "id": "invisible_probe",
+        "date": "2025-06-18",
+        "title": "Invisible Probe — triage call confirms ‘PC Russell’ decoy (…93423)",
+        "tag": "INVISIBLE_PROBE_CALL",
+        "links": {
+          "evidence_id": "VEX_2025-06-18_101_Invisible_Probe",
+          "vex_file": "VEX_2025-06-18_101_Invisible_Probe.json"
+        },
+        "notes": "Decoy confirmed at triage; reversed on 2025-06-22 with consolidation to Dixon."
+      }
+    ]
+  }
+}

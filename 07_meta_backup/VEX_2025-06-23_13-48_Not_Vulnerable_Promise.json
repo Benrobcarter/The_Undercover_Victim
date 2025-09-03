@@ -1,0 +1,1720 @@
+{
+  "title": "Not Vulnerable... Not Me, Never... Promise",
+  "date": "2025-06-23T13:48:00+01:00",
+  "sources": [
+    "Hampshire- 23_06_25_13-48.srt",
+    "Metroppolitsn police23-06-25-13-48 .m4a.txt"
+  ],
+  "emotional_summary": "Desperate attempt to escape Sussex Police by reaching out to Hampshire and the Met. Reflects exhaustion, grief, survivor's defiance, and system-induced hopelessness.",
+  "vex_entries": [
+    {
+      "text": "In immediate danger, please",
+      "emotional_tone": "neutral",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "hang up and dial 999 now.",
+      "emotional_tone": "neutral",
+      "vex_tags": [
+        "EMERGENCY_DIVERSION"
+      ],
+      "contradiction_tags": []
+    },
+    {
+      "text": "You can report a non emergency crime",
+      "emotional_tone": "neutral",
+      "vex_tags": [
+        "NON_EMERGENCY_ROUTINE"
+      ],
+      "contradiction_tags": []
+    },
+    {
+      "text": "via our website at www.met.police.uk.",
+      "emotional_tone": "neutral",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "that's met.police.uk.",
+      "emotional_tone": "neutral",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "for custody related inquiries, please press 1.",
+      "emotional_tone": "neutral",
+      "vex_tags": [
+        "PHONE_MENU_OBSTRUCTION"
+      ],
+      "contradiction_tags": []
+    },
+    {
+      "text": "To report a new crime or",
+      "emotional_tone": "neutral",
+      "vex_tags": [
+        "REPORTING_GATEKEEPING"
+      ],
+      "contradiction_tags": []
+    },
+    {
+      "text": "antisocial behaviour, press 2.",
+      "emotional_tone": "neutral",
+      "vex_tags": [
+        "PHONE_MENU_OBSTRUCTION"
+      ],
+      "contradiction_tags": []
+    },
+    {
+      "text": "To provide or receive an update",
+      "emotional_tone": "neutral",
+      "vex_tags": [
+        "ACCESS_LOOP"
+      ],
+      "contradiction_tags": []
+    },
+    {
+      "text": "on an existing crime report, press 3.",
+      "emotional_tone": "neutral",
+      "vex_tags": [
+        "PHONE_MENU_OBSTRUCTION"
+      ],
+      "contradiction_tags": []
+    },
+    {
+      "text": "For road traffic incidents, press 4.",
+      "emotional_tone": "neutral",
+      "vex_tags": [
+        "PHONE_MENU_OBSTRUCTION"
+      ],
+      "contradiction_tags": []
+    },
+    {
+      "text": "To contact an officer or individual, press 5.",
+      "emotional_tone": "neutral",
+      "vex_tags": [
+        "OFFICER_BARRIER"
+      ],
+      "contradiction_tags": []
+    },
+    {
+      "text": "To hear these options again, press 0.",
+      "emotional_tone": "neutral",
+      "vex_tags": [
+        "PHONE_MENU_OBSTRUCTION"
+      ],
+      "contradiction_tags": []
+    },
+    {
+      "text": "Or to speak with an officer.",
+      "emotional_tone": "neutral",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "For custody related inquiries, please press 1.",
+      "emotional_tone": "neutral",
+      "vex_tags": [
+        "PHONE_MENU_OBSTRUCTION"
+      ],
+      "contradiction_tags": []
+    },
+    {
+      "text": "To report a new crime or",
+      "emotional_tone": "neutral",
+      "vex_tags": [
+        "REPORTING_GATEKEEPING"
+      ],
+      "contradiction_tags": []
+    },
+    {
+      "text": "antisocial behaviour, press 2.",
+      "emotional_tone": "neutral",
+      "vex_tags": [
+        "PHONE_MENU_OBSTRUCTION"
+      ],
+      "contradiction_tags": []
+    },
+    {
+      "text": "You can report all non emergency crimes or",
+      "emotional_tone": "neutral",
+      "vex_tags": [
+        "NON_EMERGENCY_ROUTINE"
+      ],
+      "contradiction_tags": []
+    },
+    {
+      "text": "antisocial behaviour incidents via our",
+      "emotional_tone": "neutral",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "website, visit www.met.police.ukreport.",
+      "emotional_tone": "neutral",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "that's met.police.ukreport where you",
+      "emotional_tone": "neutral",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "will find our online reporting system.",
+      "emotional_tone": "neutral",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "If a crime or antisocial behaviour you are",
+      "emotional_tone": "neutral",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "reporting occurred on the London Underground",
+      "emotional_tone": "neutral",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "or on a National rail train or station, please",
+      "emotional_tone": "neutral",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "report this to the British Transport Police.",
+      "emotional_tone": "neutral",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "I got a link.",
+      "emotional_tone": "neutral",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "0800-4050 40 that's 0800-40-5040.",
+      "emotional_tone": "neutral",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "To have this call transferred to the British",
+      "emotional_tone": "neutral",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "Transport police, please press 1.",
+      "emotional_tone": "neutral",
+      "vex_tags": [
+        "PHONE_MENU_OBSTRUCTION"
+      ],
+      "contradiction_tags": []
+    },
+    {
+      "text": "If you wish to speak with",
+      "emotional_tone": "neutral",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "an operator and report now, press 9.",
+      "emotional_tone": "neutral",
+      "vex_tags": [
+        "PHONE_MENU_OBSTRUCTION"
+      ],
+      "contradiction_tags": []
+    },
+    {
+      "text": "To end this, call it all of our operators",
+      "emotional_tone": "neutral",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "are currently busy dealing with emergencies.",
+      "emotional_tone": "neutral",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "If you are calling to report a crime or a",
+      "emotional_tone": "neutral",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "road traffic accident or antisocial",
+      "emotional_tone": "neutral",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "behaviour, you may find it quicker and",
+      "emotional_tone": "neutral",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "more convenient to use our website,",
+      "emotional_tone": "neutral",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "Simply go to www.metal.comm all of our",
+      "emotional_tone": "neutral",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "operators are currently busy dealing",
+      "emotional_tone": "neutral",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "with emergencies.",
+      "emotional_tone": "neutral",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "If you are calling to report a crime or",
+      "emotional_tone": "neutral",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "a road traffic accident or antisocial",
+      "emotional_tone": "neutral",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "behaviour, you may find it quicker",
+      "emotional_tone": "neutral",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "and more convenient to use our website.",
+      "emotional_tone": "neutral",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "Simply go to www.met.police.uk All",
+      "emotional_tone": "neutral",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "of our operators are currently busy.",
+      "emotional_tone": "neutral",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "England with emergency if you are calling to",
+      "emotional_tone": "neutral",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "report a crime or a road traffic accident or",
+      "emotional_tone": "neutral",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "antisocial behaviour, you may find it quicker",
+      "emotional_tone": "neutral",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "and more convenient to use our website.",
+      "emotional_tone": "neutral",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "Simply go to www.met.police.mhm.",
+      "emotional_tone": "neutral",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "all of our operators are currently",
+      "emotional_tone": "neutral",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "busy dealing with emergencies.",
+      "emotional_tone": "neutral",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "If you are calling to report a crime",
+      "emotional_tone": "neutral",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "or a road traffic accident or antisocial",
+      "emotional_tone": "neutral",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "behaviour, you may find it quicker",
+      "emotional_tone": "neutral",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "and more convenient to use our website.",
+      "emotional_tone": "neutral",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "Simply go to www.met.police.",
+      "emotional_tone": "neutral",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "all of our operators are currently",
+      "emotional_tone": "neutral",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "busy dealing with emergencies.",
+      "emotional_tone": "neutral",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "If you are calling to report a crime or",
+      "emotional_tone": "neutral",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "a road traffic accident or antisocial",
+      "emotional_tone": "neutral",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "behaviour, you may find it quicker",
+      "emotional_tone": "neutral",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "and more convenient to use our website.",
+      "emotional_tone": "neutral",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "Simply go to www.let.police.mhm All",
+      "emotional_tone": "neutral",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "of our operators are currently busy.",
+      "emotional_tone": "neutral",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "Is that correct.",
+      "emotional_tone": "neutral",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "Antisocial behaviour.",
+      "emotional_tone": "neutral",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "Okay.",
+      "emotional_tone": "neutral",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "What is it that you need to report",
+      "emotional_tone": "neutral",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "and more convenient to use our website,",
+      "emotional_tone": "neutral",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "Simply go to www.met.police.uk.",
+      "emotional_tone": "neutral",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "You haven't done already.",
+      "emotional_tone": "neutral",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "So my abuser.",
+      "emotional_tone": "neutral",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "All of our operators are currently",
+      "emotional_tone": "neutral",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "busy dealing with emergencies.",
+      "emotional_tone": "neutral",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "If you are calling to report a crime or a road",
+      "emotional_tone": "neutral",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "traffic accident or antisocial behaviour, you",
+      "emotional_tone": "neutral",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "may find it quicker and more convenient to use",
+      "emotional_tone": "neutral",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "our website, Simply go to www.met.police.mhm.",
+      "emotional_tone": "neutral",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "all of our operators are currently",
+      "emotional_tone": "neutral",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "busy dealing with emergencies.",
+      "emotional_tone": "neutral",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "If you are calling to report a crime or a road",
+      "emotional_tone": "neutral",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "traffic accident or antisocial behaviour, you",
+      "emotional_tone": "neutral",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "may find it quicker and more convenient to use",
+      "emotional_tone": "neutral",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "our website than to go to www.met.police.uk.",
+      "emotional_tone": "neutral",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "Hi, I've.",
+      "emotional_tone": "neutral",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "I'm from Sussex, but, I've not had a call",
+      "emotional_tone": "neutral",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "back since my suicide on April 6th.",
+      "emotional_tone": "neutral",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "I commit suicide.",
+      "emotional_tone": "neutral",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "Like, Please say Sussex.",
+      "emotional_tone": "neutral",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "Please say like.",
+      "emotional_tone": "neutral",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "I don't understand because,",
+      "emotional_tone": "neutral",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "I'm talking to you right now.",
+      "emotional_tone": "neutral",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "So you couldn't have.",
+      "emotional_tone": "neutral",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "Like, there's an active IAPC complaint, about",
+      "emotional_tone": "neutral",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "them and I can't log anything since April 6th.",
+      "emotional_tone": "neutral",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "I don't know who to speak to, in Brighton.",
+      "emotional_tone": "neutral",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "But yesterday I tried five times",
+      "emotional_tone": "neutral",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "and they just hung up on me.",
+      "emotional_tone": "neutral",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "Well.",
+      "emotional_tone": "neutral",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "I don't know what anything's about.",
+      "emotional_tone": "neutral",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "I know.",
+      "emotional_tone": "neutral",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "That's what they say.",
+      "emotional_tone": "neutral",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "That's what they say.",
+      "emotional_tone": "neutral",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "I state like, I'm the data subject.",
+      "emotional_tone": "neutral",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "Can you please tell me who my officer is?",
+      "emotional_tone": "neutral",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "They won't.",
+      "emotional_tone": "neutral",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "No, this isn't.",
+      "emotional_tone": "neutral",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "This is.",
+      "emotional_tone": "neutral",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "You're called.",
+      "emotional_tone": "neutral",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "You're through to London.",
+      "emotional_tone": "neutral",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "I.",
+      "emotional_tone": "neutral",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "I know.",
+      "emotional_tone": "neutral",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "I know that.",
+      "emotional_tone": "neutral",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "I'm aware.",
+      "emotional_tone": "neutral",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "Like, this is just a desperate",
+      "emotional_tone": "neutral",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "way of maybe, like.",
+      "emotional_tone": "neutral",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "I know.",
+      "emotional_tone": "neutral",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "Yes.",
+      "emotional_tone": "neutral",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "Yes.",
+      "emotional_tone": "neutral",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "Yeah.",
+      "emotional_tone": "neutral",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "I was just wondering if I could",
+      "emotional_tone": "neutral",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "maybe lodge a complaint or speak",
+      "emotional_tone": "neutral",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "to someone from a different force",
+      "emotional_tone": "neutral",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "because this force is erasing me.",
+      "emotional_tone": "neutral",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "No.",
+      "emotional_tone": "neutral",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "Okay.",
+      "emotional_tone": "neutral",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "Thank you.",
+      "emotional_tone": "neutral",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "Have to do it.",
+      "emotional_tone": "neutral",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "There is an IC report right now and they're",
+      "emotional_tone": "neutral",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "still ignoring me and my abusers.",
+      "emotional_tone": "neutral",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "Like two minutes down the road",
+      "emotional_tone": "neutral",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "and they won't do anything.",
+      "emotional_tone": "neutral",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "Right.",
+      "emotional_tone": "neutral",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "Yeah, but you need.",
+      "emotional_tone": "neutral",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "I know.",
+      "emotional_tone": "neutral",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "Okay.",
+      "emotional_tone": "neutral",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "Don't worry.",
+      "emotional_tone": "neutral",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "You can ring them up and say you want to make.",
+      "emotional_tone": "neutral",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "You're entitled to do this,",
+      "emotional_tone": "neutral",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "to make a complaint.",
+      "emotional_tone": "neutral",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "I have 45 mystical, 45 recordings",
+      "emotional_tone": "neutral",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "of this and nothing's happens.",
+      "emotional_tone": "neutral",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "But, like, I understand.",
+      "emotional_tone": "neutral",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "Thank you.",
+      "emotional_tone": "neutral",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "It.",
+      "emotional_tone": "neutral",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "In immediate danger, please",
+      "emotional_tone": "stressed",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "hang up and dial 999 now.",
+      "emotional_tone": "stressed",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "You can report a non emergency crime",
+      "emotional_tone": "stressed",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "via our website at www.met.police.uk.",
+      "emotional_tone": "stressed",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "that's met.police.uk.",
+      "emotional_tone": "stressed",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "for custody related inquiries, please press 1.",
+      "emotional_tone": "stressed",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "To report a new crime or",
+      "emotional_tone": "stressed",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "antisocial behaviour, press 2.",
+      "emotional_tone": "stressed",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "To provide or receive an update",
+      "emotional_tone": "stressed",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "on an existing crime report, press 3.",
+      "emotional_tone": "stressed",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "For road traffic incidents, press 4.",
+      "emotional_tone": "stressed",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "To contact an officer or individual, press 5.",
+      "emotional_tone": "stressed",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "To hear these options again, press 0.",
+      "emotional_tone": "stressed",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "Or to speak with an officer.",
+      "emotional_tone": "stressed",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "For custody related inquiries, please press 1.",
+      "emotional_tone": "stressed",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "To report a new crime or",
+      "emotional_tone": "stressed",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "antisocial behaviour, press 2.",
+      "emotional_tone": "stressed",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "You can report all non emergency crimes or",
+      "emotional_tone": "stressed",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "antisocial behaviour incidents via our",
+      "emotional_tone": "stressed",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "website, visit www.met.police.ukreport.",
+      "emotional_tone": "stressed",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "that's met.police.ukreport where you",
+      "emotional_tone": "stressed",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "will find our online reporting system.",
+      "emotional_tone": "stressed",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "If a crime or antisocial behaviour you are",
+      "emotional_tone": "stressed",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "reporting occurred on the London Underground",
+      "emotional_tone": "stressed",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "or on a National rail train or station, please",
+      "emotional_tone": "stressed",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "report this to the British Transport Police.",
+      "emotional_tone": "stressed",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "I got a link.",
+      "emotional_tone": "stressed",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "To have this call transferred to the British",
+      "emotional_tone": "stressed",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "Transport police, please press 1.",
+      "emotional_tone": "stressed",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "If you wish to speak with",
+      "emotional_tone": "stressed",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "an operator and report now, press 9.",
+      "emotional_tone": "stressed",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "To end this, call it all of our operators",
+      "emotional_tone": "stressed",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "are currently busy dealing with emergencies.",
+      "emotional_tone": "stressed",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "If you are calling to report a crime or a",
+      "emotional_tone": "stressed",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "road traffic accident or antisocial",
+      "emotional_tone": "stressed",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "behaviour, you may find it quicker and",
+      "emotional_tone": "stressed",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "more convenient to use our website,",
+      "emotional_tone": "stressed",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "Simply go to www.metal.comm all of our",
+      "emotional_tone": "stressed",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "operators are currently busy dealing",
+      "emotional_tone": "stressed",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "with emergencies.",
+      "emotional_tone": "stressed",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "If you are calling to report a crime or",
+      "emotional_tone": "stressed",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "a road traffic accident or antisocial",
+      "emotional_tone": "stressed",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "behaviour, you may find it quicker",
+      "emotional_tone": "stressed",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "and more convenient to use our website.",
+      "emotional_tone": "stressed",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "Simply go to www.met.police.uk All",
+      "emotional_tone": "stressed",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "England with emergency if you are calling to",
+      "emotional_tone": "stressed",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "report a crime or a road traffic accident or",
+      "emotional_tone": "stressed",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "antisocial behaviour, you may find it quicker",
+      "emotional_tone": "stressed",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "and more convenient to use our website.",
+      "emotional_tone": "stressed",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "Simply go to www.met.police.mhm.",
+      "emotional_tone": "stressed",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "busy dealing with emergencies.",
+      "emotional_tone": "stressed",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "If you are calling to report a crime",
+      "emotional_tone": "stressed",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "or a road traffic accident or antisocial",
+      "emotional_tone": "stressed",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "behaviour, you may find it quicker",
+      "emotional_tone": "stressed",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "and more convenient to use our website.",
+      "emotional_tone": "stressed",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "Simply go to www.met.police.",
+      "emotional_tone": "stressed",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "busy dealing with emergencies.",
+      "emotional_tone": "stressed",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "If you are calling to report a crime or",
+      "emotional_tone": "stressed",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "a road traffic accident or antisocial",
+      "emotional_tone": "stressed",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "behaviour, you may find it quicker",
+      "emotional_tone": "stressed",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "and more convenient to use our website.",
+      "emotional_tone": "stressed",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "Simply go to www.let.police.mhm All",
+      "emotional_tone": "stressed",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "Is that correct.",
+      "emotional_tone": "stressed",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "Antisocial behaviour.",
+      "emotional_tone": "stressed",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "What is it that you need to report",
+      "emotional_tone": "stressed",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "and more convenient to use our website,",
+      "emotional_tone": "stressed",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "Simply go to www.met.police.uk.",
+      "emotional_tone": "stressed",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "You haven't done already.",
+      "emotional_tone": "stressed",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "busy dealing with emergencies.",
+      "emotional_tone": "stressed",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "If you are calling to report a crime or a road",
+      "emotional_tone": "stressed",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "traffic accident or antisocial behaviour, you",
+      "emotional_tone": "stressed",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "may find it quicker and more convenient to use",
+      "emotional_tone": "stressed",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "our website, Simply go to www.met.police.mhm.",
+      "emotional_tone": "stressed",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "busy dealing with emergencies.",
+      "emotional_tone": "stressed",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "If you are calling to report a crime or a road",
+      "emotional_tone": "stressed",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "traffic accident or antisocial behaviour, you",
+      "emotional_tone": "stressed",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "may find it quicker and more convenient to use",
+      "emotional_tone": "stressed",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "our website than to go to www.met.police.uk.",
+      "emotional_tone": "stressed",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "Hi, I've.",
+      "emotional_tone": "stressed",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "I'm from Sussex, but, I've not had a call",
+      "emotional_tone": "stressed",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "back since my suicide on April 6th.",
+      "emotional_tone": "stressed",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "I commit suicide.",
+      "emotional_tone": "stressed",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "Like, Please say Sussex.",
+      "emotional_tone": "stressed",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "Please say like.",
+      "emotional_tone": "stressed",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "I don't understand because,",
+      "emotional_tone": "stressed",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "I'm talking to you right now.",
+      "emotional_tone": "stressed",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "So you couldn't have.",
+      "emotional_tone": "stressed",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "Like, there's an active IAPC complaint, about",
+      "emotional_tone": "stressed",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "them and I can't log anything since April 6th.",
+      "emotional_tone": "stressed",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "I don't know who to speak to, in Brighton.",
+      "emotional_tone": "stressed",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "But yesterday I tried five times",
+      "emotional_tone": "stressed",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "and they just hung up on me.",
+      "emotional_tone": "stressed",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "I don't know what anything's about.",
+      "emotional_tone": "stressed",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "I know.",
+      "emotional_tone": "stressed",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "I state like, I'm the data subject.",
+      "emotional_tone": "stressed",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "Can you please tell me who my officer is?",
+      "emotional_tone": "stressed",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "They won't.",
+      "emotional_tone": "stressed",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "No, this isn't.",
+      "emotional_tone": "stressed",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "This is.",
+      "emotional_tone": "stressed",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "You're called.",
+      "emotional_tone": "stressed",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "You're through to London.",
+      "emotional_tone": "stressed",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "I.",
+      "emotional_tone": "stressed",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "I know.",
+      "emotional_tone": "stressed",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "I know that.",
+      "emotional_tone": "stressed",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "I'm aware.",
+      "emotional_tone": "stressed",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "Like, this is just a desperate",
+      "emotional_tone": "stressed",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "way of maybe, like.",
+      "emotional_tone": "stressed",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "I know.",
+      "emotional_tone": "stressed",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "I was just wondering if I could",
+      "emotional_tone": "stressed",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "maybe lodge a complaint or speak",
+      "emotional_tone": "stressed",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "to someone from a different force",
+      "emotional_tone": "stressed",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "because this force is erasing me.",
+      "emotional_tone": "stressed",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "Thank you.",
+      "emotional_tone": "stressed",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "Have to do it.",
+      "emotional_tone": "stressed",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "There is an IC report right now and they're",
+      "emotional_tone": "stressed",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "still ignoring me and my abusers.",
+      "emotional_tone": "distressed",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "Like two minutes down the road",
+      "emotional_tone": "stressed",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "and they won't do anything.",
+      "emotional_tone": "stressed",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "Right.",
+      "emotional_tone": "stressed",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "Yeah, but you need.",
+      "emotional_tone": "stressed",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "I know.",
+      "emotional_tone": "stressed",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "You can ring them up and say you want to make.",
+      "emotional_tone": "stressed",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "You're entitled to do this,",
+      "emotional_tone": "stressed",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "to make a complaint.",
+      "emotional_tone": "stressed",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "I have 45 mystical, 45 recordings",
+      "emotional_tone": "stressed",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "of this and nothing's happens.",
+      "emotional_tone": "stressed",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "But, like, I understand.",
+      "emotional_tone": "stressed",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "Thank you.",
+      "emotional_tone": "stressed",
+      "vex_tags": [],
+      "contradiction_tags": []
+    },
+    {
+      "text": "It.",
+      "emotional_tone": "stressed",
+      "vex_tags": [],
+      "contradiction_tags": []
+    }
+  ],
+  "linked_contradictions": [
+    "CROWBARRING_MYSELF_JUSTICE",
+    "DEATH_BY_SILENCE",
+    "NO_CASE_OWNER_EXISTS",
+    "BLOCKED_OFFICER_ESCALATION"
+  ],
+  "tags": [
+    "EMERGENCY_DIVERSION",
+    "NON_EMERGENCY_ROUTINE",
+    "PHONE_MENU_OBSTRUCTION",
+    "SUICIDE_DISCLOSURE",
+    "OFFICER_CONFLICT",
+    "SERVICE_REQUEST",
+    "DENIED_REPORTING_PATH"
+  ]
+}

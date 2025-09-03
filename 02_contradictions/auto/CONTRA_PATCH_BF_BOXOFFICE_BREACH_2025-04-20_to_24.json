@@ -1,0 +1,28 @@
+{
+  "id": "BF-CONTRA-BOXOFFICE-BREACH",
+  "title": "Box Office duties breached — capacity untrackable & risk shifted to venues",
+  "links": {
+    "evidence_refs": [
+      "EVID_2025-04-20_to_24_Working_Ticket_Link_Jo_Jarvie"
+    ]
+  },
+  "contract_clause_refs": [
+    {
+      "clause_key": "BOX_OFFICE_DUTIES",
+      "anchor_source": "VENUE_MANAGER_CONTRACT_CLAUSE_ANCHORS_2025",
+      "quote": "Sell tickets on behalf of registered Brighton Fringe events... reallocate ticket allocations... ensure artists and venues maximize ticket sales.",
+      "note": "Capacity visibility integral; BF email admits no capacity tracking."
+    }
+  ],
+  "related_contradictions": [
+    "BF-CONTRA-BROCHURE-MISREPRESENTATION-2025"
+  ],
+  "tags": [
+    "UNINSURABLE_EVENT",
+    "IMPOSSIBLE_COMPLIANCE_CONDITION",
+    "SYSTEMIC_FAILURE_CONFESSION",
+    "RECORDS_AUDIT",
+    "REPUTATIONAL_HARM"
+  ],
+  "status": "active"
+}

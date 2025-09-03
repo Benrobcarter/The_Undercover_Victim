@@ -1,0 +1,80 @@
+{
+  "patch_meta": {
+    "created": "2025-08-26T00:00:00Z",
+    "name": "TIMELINE_BATCH_PATCH_2025-08-26_NEW_VEX",
+    "description": "Add Cordell (701211), Dec thread, Honeypot, and 3.43 companion to the master timeline with locked dates."
+  },
+  "targets": [
+    {
+      "file": "MASTER_TIMELINE_v2_2025-08-25_v2-4.csv",
+      "ops": [
+        {
+          "op": "append_event",
+          "event": {
+            "date": "2024-12-10",
+            "time": "",
+            "title": "Cordell email referencing legacy number 701211",
+            "source": "VEX_2024-12-10_Cordell_Email_701211.json",
+            "clusters": "DEATH_BY_SILENCE|CRIME_REF_47240214305_THREAD",
+            "notes": "Quotes pending; evidence entry created."
+          }
+        },
+        {
+          "op": "append_event",
+          "event": {
+            "date": "2024-12-12",
+            "time": "",
+            "title": "December email thread begins (safeguarding & chronology)",
+            "source": "VEX_2024-12-12_to_12-19_Email_Thread.json",
+            "clusters": "DEATH_BY_SILENCE|CRIME_REF_47240214305_THREAD",
+            "notes": "Range 12–19 Dec; quotes pending."
+          }
+        },
+        {
+          "op": "append_event",
+          "event": {
+            "date": "2024-12-19",
+            "time": "",
+            "title": "December email thread ends",
+            "source": "VEX_2024-12-12_to_12-19_Email_Thread.json",
+            "clusters": "DEATH_BY_SILENCE|CRIME_REF_47240214305_THREAD",
+            "notes": "End of December set; quotes pending."
+          }
+        },
+        {
+          "op": "append_event",
+          "event": {
+            "date": "2025-06-29",
+            "time": "",
+            "title": "“Honeypot” email sent",
+            "source": "VEX_2025-06-29_to_06-30_Honeypot_Email.json",
+            "clusters": "DEATH_BY_SILENCE|CRIME_REF_47240214305_THREAD",
+            "notes": "Follow-up next day; quotes pending."
+          }
+        },
+        {
+          "op": "append_event",
+          "event": {
+            "date": "2025-06-30",
+            "time": "",
+            "title": "“Honeypot” follow-up and impact",
+            "source": "VEX_2025-06-29_to_06-30_Honeypot_Email.json",
+            "clusters": "DEATH_BY_SILENCE|CRIME_REF_47240214305_THREAD",
+            "notes": "Quotes pending."
+          }
+        },
+        {
+          "op": "append_event",
+          "event": {
+            "date": "2024-12-10",
+            "time": "",
+            "title": "Section 3.43 companion live (links Dec items)",
+            "source": "VEX_2024-12-10_Section_3.43_Companion.json",
+            "clusters": "DEATH_BY_SILENCE",
+            "notes": "Navigation node; pulls together Dec components."
+          }
+        }
+      ]
+    }
+  ]
+}

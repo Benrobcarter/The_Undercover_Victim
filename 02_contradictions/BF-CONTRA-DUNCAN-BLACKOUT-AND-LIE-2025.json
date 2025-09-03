@@ -1,0 +1,157 @@
+{
+  "contradictions": [
+    {
+      "id": "BF-CONTRA-DUNCAN-LIE-VOICEMAIL-2025",
+      "meta": {
+        "title": "Voicemail Denial — Duncan Lied About Message Reporting Safeguarding Risk",
+        "tags": [
+          "DUNCAN_ASSISTED_ERASURE",
+          "SAFEGUARDING_DEFLECTION",
+          "INSTITUTIONAL_GASLIGHTING",
+          "CROWBARRING_MYSELF_JUSTICE",
+          "CRIME_REF_47240141246_THREAD"
+        ],
+        "created_at": "2025-08-31T23:05:13.135969",
+        "source_file": "08b_Communication_Blackout_Bundle",
+        "source_description": "Email thread confirming denial of voicemail later proven to exist"
+      },
+      "summary": "On 4 May 2025, Duncan Lustig-Prean falsely claimed no voicemail had been received in response to Ben Carter's formal safeguarding report about Alexander Voodoo. Ben's emails prove the call was made, and referenced a live IOPC concern. This denial obstructed safeguarding escalation and was later revealed as untrue."
+    },
+    {
+      "id": "BF-CONTRA-DUNCAN-SHUTDOWN-RESPONSE-2025",
+      "meta": {
+        "title": "Duncan Severs Contact After Safeguarding Inquiry — 'Please Desist'",
+        "tags": [
+          "DUNCAN_ASSISTED_ERASURE",
+          "DEATH_BY_SILENCE",
+          "SAFEGUARDING_FAILURE",
+          "PIDA_WHISTLEBLOWING",
+          "INSTITUTIONAL_GASLIGHTING"
+        ],
+        "created_at": "2025-08-31T23:05:13.135977",
+        "source_file": "08b_Communication_Blackout_Bundle",
+        "source_description": "Duncan ordered Ben to stop emailing him after safeguarding escalation"
+      },
+      "summary": "On 4 May 2025, after a string of deflective responses, Duncan issued a written shutdown: 'Please now desist with your emails to me.' This act severed the most senior line of communication during an ongoing safeguarding crisis. It immediately followed whistleblowing triggers."
+    },
+    {
+      "id": "BF-CONTRA-DUNCAN-TRIGGERED_COLLAPSE-2025",
+      "meta": {
+        "title": "Blackout Escalates Collapse — 'You Want Me Dead'",
+        "tags": [
+          "DUNCAN_ASSISTED_ERASURE",
+          "CROWBARRING_MYSELF_JUSTICE",
+          "DEATH_BY_SILENCE",
+          "SAFEGUARDING_DEFLECTION",
+          "SUICIDE_DISCLOSURE_USED_FOR_REMOVAL"
+        ],
+        "created_at": "2025-08-31T23:05:13.135980",
+        "source_file": "08b_Communication_Blackout_Bundle",
+        "source_description": "Email sent after collapse triggered by institutional shutdown and gaslighting"
+      },
+      "summary": "After being stonewalled by Duncan Lustig-Prean on May 4–6, Ben Carter wrote 'You want me dead. That's it isn't it.' This quote marks the psychological breaking point brought about by repeated safeguarding denial and emotional isolation."
+    }
+  ],
+  "timeline_entries": [
+    {
+      "date": "2025-05-04",
+      "summary": "Safeguarding voicemail denied by Duncan Lustig-Prean. Emails show gaslighting, deflection, and refusal to acknowledge duty.",
+      "tags": [
+        "SAFEGUARDING_DEFLECTION",
+        "INSTITUTIONAL_GASLIGHTING",
+        "DEATH_BY_SILENCE"
+      ],
+      "linked_documents": [
+        "08b_Communication_Blackout_Bundle"
+      ],
+      "quote_refs": []
+    },
+    {
+      "date": "2025-05-06",
+      "summary": "Emotional collapse: 'You want me dead' — triggered by communication blackout from Fringe Chair",
+      "tags": [
+        "CROWBARRING_MYSELF_JUSTICE",
+        "SUICIDE_DISCLOSURE_USED_FOR_REMOVAL",
+        "DEATH_BY_SILENCE"
+      ],
+      "linked_documents": [
+        "08b_Communication_Blackout_Bundle"
+      ],
+      "quote_refs": []
+    }
+  ],
+  "quote_cards": [
+    {
+      "id": "BF-Q-0504-CRIME-REF",
+      "meta": {
+        "title": "What do you want me to do with this crime reference?",
+        "author": "Duncan Lustig-Prean",
+        "tags": [
+          "SAFEGUARDING_DEFLECTION",
+          "INSTITUTIONAL_GASLIGHTING",
+          "BF-CONTRA-DUNCAN-LIE-VOICEMAIL-2025"
+        ],
+        "source_file": "08b_Communication_Blackout_Bundle",
+        "source_section": "email",
+        "added_at": "2025-08-31T23:05:13.135983"
+      },
+      "text": "What do you want me to do with this crime reference?"
+    },
+    {
+      "id": "BF-Q-0504-DESIST",
+      "meta": {
+        "title": "Please now desist with your emails to me.",
+        "author": "Duncan Lustig-Prean",
+        "tags": [
+          "DEATH_BY_SILENCE",
+          "DUNCAN_ASSISTED_ERASURE",
+          "PIDA_WHISTLEBLOWING"
+        ],
+        "source_file": "08b_Communication_Blackout_Bundle",
+        "source_section": "email",
+        "added_at": "2025-08-31T23:05:13.135986"
+      },
+      "text": "Please now desist with your emails to me."
+    },
+    {
+      "id": "BC-Q-0506-DEAD",
+      "meta": {
+        "title": "You want me dead. That’s it isn’t it.",
+        "author": "Ben Carter",
+        "tags": [
+          "CROWBARRING_MYSELF_JUSTICE",
+          "DEATH_BY_SILENCE",
+          "INSTITUTIONAL_GASLIGHTING"
+        ],
+        "source_file": "08b_Communication_Blackout_Bundle",
+        "source_section": "email",
+        "added_at": "2025-08-31T23:05:13.135988"
+      },
+      "text": "You want me dead. That’s it isn’t it."
+    }
+  ],
+  "book_crosswalk": {
+    "chapter_id": "sec2_duncan_blackout",
+    "chapter_title": "2.8 — The Chair Who Cut the Cord",
+    "timeline_refs": [
+      "2025-05-04",
+      "2025-05-06"
+    ],
+    "vex_tags": [
+      "DUNCAN_ASSISTED_ERASURE",
+      "CROWBARRING_MYSELF_JUSTICE",
+      "DEATH_BY_SILENCE"
+    ],
+    "contradictions": [
+      {
+        "code": "BF-CONTRA-DUNCAN-LIE-VOICEMAIL-2025"
+      },
+      {
+        "code": "BF-CONTRA-DUNCAN-SHUTDOWN-RESPONSE-2025"
+      },
+      {
+        "code": "BF-CONTRA-DUNCAN-TRIGGERED_COLLAPSE-2025"
+      }
+    ]
+  }
+}

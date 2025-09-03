@@ -1,0 +1,100 @@
+{
+  "chunk": 2,
+  "time_range": "1:15-2:30",
+  "quotes": [
+    {
+      "speaker": "Emma Veritas",
+      "time": "1:15",
+      "quote": "But I can see here that I did ask them for an update, they haven't given me one yet.",
+      "tags": [
+        "follow_up",
+        "police_accountability"
+      ]
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "1:22",
+      "quote": "Right.",
+      "tags": []
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "1:23",
+      "quote": "So I will chase again for you.",
+      "tags": [
+        "advocacy",
+        "follow_up"
+      ]
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "1:25",
+      "quote": "But surely you've got a name, that's—",
+      "tags": [
+        "accountability",
+        "seeking_information"
+      ]
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "1:28",
+      "quote": "I've got the inbox name. Because it's rotational, it doesn't come back with an individual name.",
+      "tags": [
+        "withholding_information",
+        "systemic_issue"
+      ]
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "1:34",
+      "quote": "Right, okay.",
+      "tags": []
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "1:35",
+      "quote": "And that's why it's a little bit frustrating, because I don't have a direct contact as well.",
+      "tags": [
+        "advocacy_failure",
+        "delay"
+      ]
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "1:40",
+      "quote": "Yeah.",
+      "tags": []
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "1:41",
+      "quote": "But I did ask for a sergeant name to be provided.",
+      "tags": [
+        "accountability",
+        "request"
+      ]
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "1:45",
+      "quote": "Right.",
+      "tags": []
+    }
+  ],
+  "contradictions": [
+    {
+      "issue": "Emma claims to request sergeant name but only has rotational inbox contact",
+      "type": "accountability_gap"
+    }
+  ],
+  "timeline_hooks": [
+    {
+      "ref": "sergeant name request",
+      "link": "April–May 2025 OIC change / Stalking Clinic"
+    },
+    {
+      "ref": "rotational inbox",
+      "link": "Systemic issue in stalking unit contact management"
+    }
+  ]
+}

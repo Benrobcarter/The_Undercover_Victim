@@ -1,0 +1,28 @@
+{
+  "id": "BF_CONTRA_VENUE_COMMUNICATION_NARRATIVE_DISCLOSURE_BREACH",
+  "title": "Breach of Venue Manager Agreement — Communication and Narrative Disclosure",
+  "email_subject": "Urgent Safeguarding Breach – Internal Narrative and Third-Party Disclosures",
+  "clause_breached": "Brighton Fringe Ltd. and its staff endeavour to respond to phone and email communications within two working days outside of Fringe, and 24 hours during the festival (3 May–2 June 2024).",
+  "claim": "Brighton Fringe committed to timely communication and fair handling of safeguarding information with venue managers, including accurate representation of their role and mental health.",
+  "reality": "On 11 May 2025, Ben Carter formally disclosed a safeguarding breach wherein Brighton Fringe shared internal narratives about his mental health, reframed disclosures, and justified contact with a known perpetrator. This occurred during a safeguarding crisis without consent. No timely or transparent response was received.",
+  "vex_tags": [
+    "COMMUNICATION_TIMELINESS_BREACH",
+    "NARRATIVE_REPLACEMENT",
+    "INSTITUTIONAL_GASLIGHTING",
+    "CONFIDENTIALITY_BREACH",
+    "REPUTATIONAL_HARM",
+    "SAFEGUARDING_ESCALATION"
+  ],
+  "linked_evidence": [
+    "EMAIL_2025-05-11_SAFEGUARDING_BREACH_NARRATIVE_DISCLOSURE"
+  ],
+  "linked_timeline_ids": [
+    "t2_brighton_fringe_consequences#2025-05-11"
+  ],
+  "linked_sub_contradictions": [
+    "BF-CONTRA-VENUE-MANAGER-CONTRACT-BREACHES-2025"
+  ],
+  "status": "active",
+  "notes": "Formal safeguarding disclosure confirmed by artist communication. Email clearly outlines loss of operational control and ongoing misrepresentation. Veritas support cited.",
+  "created_at": "2025-09-01T12:08:24.211415Z"
+}

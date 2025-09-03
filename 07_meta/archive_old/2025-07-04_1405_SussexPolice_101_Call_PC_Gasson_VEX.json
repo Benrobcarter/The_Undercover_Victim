@@ -1,0 +1,2692 @@
+{
+  "meta": {
+    "vex_version": "1.0",
+    "created_at": "2025-08-25T18:28:32.939185",
+    "source_file_original": "04-07-25  14.05 PC Gassin.txt",
+    "human_readable_filename": "2025-07-04_1405_PC_Gasson_101_Call.txt",
+    "derived_from": "PROJECT_FILE_SYNCED_2025-08-25_v4_FULL_SKELETON",
+    "vex_source_label": "Police Handling of Harassment Complaint Notebook LM",
+    "sha1": "d864d021fabb93ed5e54097ec6733dcc38034753"
+  },
+  "event": {
+    "title": "101 call – Officer assignment confirmed (PC Gasson) and duplicate CRNs",
+    "datetime_local": "2025-07-04T14:05:00+01:00",
+    "timezone": "Europe/London",
+    "channels": [
+      "phone/101"
+    ],
+    "actors": {
+      "victim": "Ben Carter",
+      "police": [
+        "PC Gasson",
+        "PC Dixon"
+      ]
+    },
+    "crime_references_detected": [
+      "47240141246",
+      "47240214305"
+    ],
+    "officer_assignment_confirmed": true,
+    "location": "Sussex Police 101 (phone)"
+  },
+  "contradictions_linked": [
+    "CRIME_REF_47240214305_THREAD",
+    "RECORDKEEPING_CONTRADICTIONS",
+    "DEATH_BY_SILENCE",
+    "VRR_OBSTRUCTED",
+    "NFA_BEFORE_CPS_REVIEW",
+    "STALKING_CLINIC_CPS_ATTENDANCE_DISPUTE"
+  ],
+  "legal_breaches_hypothesised": [
+    "Victims’ Code: right to be kept informed (no officer contact; updates withheld)",
+    "UK GDPR/DPA 2018: SAR delay/obstruction (contextual)"
+  ],
+  "death_by_silence": {
+    "event_date_local": "2025-07-04T14:05:00+01:00",
+    "days_since_event_to_2025_08_25": 51,
+    "status": "awaiting officer contact",
+    "escalation_note": "Officer assignment revealed by victim chase call; no proactive contact recorded."
+  },
+  "flags": {
+    "date_found": true,
+    "date_parsed_from_filename": true,
+    "name_mismatch": true,
+    "transcript_quality": "unverified"
+  },
+  "quotes_key": [
+    {
+      "quote": "It's PC Gasson.",
+      "type": "assignment-confirmation"
+    },
+    {
+      "quote": "They're just two different incidents.",
+      "type": "recordkeeping"
+    },
+    {
+      "quote": "It's nothing for you to worry about… it's just how we record it.",
+      "type": "minimisation"
+    },
+    {
+      "quote": "We can't give you updates over the phone because of data.",
+      "type": "information-denial"
+    }
+  ],
+  "segments": [
+    {
+      "index": 1,
+      "timestamp": "00:02.8",
+      "speaker": "Ben Carter",
+      "text": "Hi. I was just wondering if I could find out about,which officer. I've got, I've been told that I've got a new one.",
+      "themes": [
+        "contact-routing",
+        "safeguarding"
+      ],
+      "legal": [],
+      "emotions": [
+        "appeasing",
+        "confusion"
+      ],
+      "contradictions": [
+        "OFFICER_ASSIGNMENT_OPACITY"
+      ],
+      "actions_suggested": [
+        "Request written confirmation of officer assignment and contact channel"
+      ],
+      "risk": []
+    },
+    {
+      "index": 2,
+      "timestamp": "00:15.6",
+      "speaker": "Ben Carter",
+      "text": "I've got quite a few.",
+      "themes": [
+        "general"
+      ],
+      "legal": [],
+      "emotions": [],
+      "contradictions": [],
+      "actions_suggested": [],
+      "risk": []
+    },
+    {
+      "index": 3,
+      "timestamp": null,
+      "speaker": "Triage",
+      "text": "Oh, okay,",
+      "themes": [
+        "general"
+      ],
+      "legal": [],
+      "emotions": [],
+      "contradictions": [],
+      "actions_suggested": [],
+      "risk": []
+    },
+    {
+      "index": 4,
+      "timestamp": null,
+      "speaker": "Ben Carter",
+      "text": "So it's 472-401-412-41246.",
+      "themes": [
+        "general"
+      ],
+      "legal": [],
+      "emotions": [],
+      "contradictions": [],
+      "actions_suggested": [],
+      "risk": []
+    },
+    {
+      "index": 5,
+      "timestamp": "00:35.0",
+      "speaker": "Ben Carter",
+      "text": "Oh, sorry, 4 6. Sorry.",
+      "themes": [
+        "general"
+      ],
+      "legal": [],
+      "emotions": [],
+      "contradictions": [],
+      "actions_suggested": [],
+      "risk": []
+    },
+    {
+      "index": 6,
+      "timestamp": "00:39.2",
+      "speaker": "Triage",
+      "text": "426.",
+      "themes": [
+        "general"
+      ],
+      "legal": [],
+      "emotions": [],
+      "contradictions": [],
+      "actions_suggested": [],
+      "risk": []
+    },
+    {
+      "index": 7,
+      "timestamp": "00:40.4",
+      "speaker": "Ben Carter",
+      "text": "Sorry. So 472-401-41246. Sorry about that.",
+      "themes": [
+        "general"
+      ],
+      "legal": [],
+      "emotions": [],
+      "contradictions": [],
+      "actions_suggested": [],
+      "risk": []
+    },
+    {
+      "index": 8,
+      "timestamp": "00:53.7",
+      "speaker": "Triage",
+      "text": "I will say Please.",
+      "themes": [
+        "general"
+      ],
+      "legal": [],
+      "emotions": [],
+      "contradictions": [],
+      "actions_suggested": [],
+      "risk": []
+    },
+    {
+      "index": 9,
+      "timestamp": "00:55.9",
+      "speaker": "Ben Carter",
+      "text": "My name's Benjamin Robert Carter.",
+      "themes": [
+        "general"
+      ],
+      "legal": [],
+      "emotions": [],
+      "contradictions": [],
+      "actions_suggested": [],
+      "risk": []
+    },
+    {
+      "index": 10,
+      "timestamp": "05.3",
+      "speaker": "Triage 01",
+      "text": "All right, let me put you through to the contact centre, see if I can help you. It's less than a Minute away.",
+      "themes": [
+        "general"
+      ],
+      "legal": [],
+      "emotions": [],
+      "contradictions": [],
+      "actions_suggested": [],
+      "risk": []
+    },
+    {
+      "index": 11,
+      "timestamp": "01:10.2",
+      "speaker": "Ben Carter",
+      "text": "Yeah, yeah, yeah, yeah.",
+      "themes": [
+        "general"
+      ],
+      "legal": [],
+      "emotions": [],
+      "contradictions": [],
+      "actions_suggested": [],
+      "risk": []
+    },
+    {
+      "index": 12,
+      "timestamp": "01:11.6",
+      "speaker": "Triage",
+      "text": "Thank you.",
+      "themes": [
+        "general"
+      ],
+      "legal": [],
+      "emotions": [],
+      "contradictions": [],
+      "actions_suggested": [],
+      "risk": []
+    },
+    {
+      "index": 13,
+      "timestamp": "01:13.7",
+      "speaker": "Automated",
+      "text": "Your call will be recorded for training and monitoring purposes. We are connecting you to an advisor who will be with you as soon as they are free.",
+      "themes": [
+        "general"
+      ],
+      "legal": [],
+      "emotions": [],
+      "contradictions": [],
+      "actions_suggested": [],
+      "risk": []
+    },
+    {
+      "index": 14,
+      "timestamp": "01:51.6",
+      "speaker": "Automated",
+      "text": "If you want to skip the wait, you can hold your place in the queue by using our callback service, which will save you time. Please press 1 now to take advantage of this.",
+      "themes": [
+        "general"
+      ],
+      "legal": [],
+      "emotions": [],
+      "contradictions": [],
+      "actions_suggested": [],
+      "risk": []
+    },
+    {
+      "index": 15,
+      "timestamp": "02:11.6",
+      "speaker": "101 call handler",
+      "text": "Celtics. Please. How can I help you?",
+      "themes": [
+        "general"
+      ],
+      "legal": [],
+      "emotions": [],
+      "contradictions": [],
+      "actions_suggested": [],
+      "risk": []
+    },
+    {
+      "index": 16,
+      "timestamp": "02:13.1",
+      "speaker": "Ben Carter",
+      "text": "Hi, I'm just checking. This is 101. I'm not wasting, like, any time, like, for emergencies, am I?",
+      "themes": [
+        "general"
+      ],
+      "legal": [],
+      "emotions": [
+        "appeasing",
+        "confusion"
+      ],
+      "contradictions": [],
+      "actions_suggested": [],
+      "risk": []
+    },
+    {
+      "index": 17,
+      "timestamp": "02:25.2",
+      "speaker": "101 call handler",
+      "text": "No, this is 101.",
+      "themes": [
+        "general"
+      ],
+      "legal": [],
+      "emotions": [],
+      "contradictions": [],
+      "actions_suggested": [],
+      "risk": []
+    },
+    {
+      "index": 18,
+      "timestamp": "02:26.4",
+      "speaker": "Ben Carter",
+      "text": "Oh, brilliant. Could I just ask a couple of questions? Because I've been told I've been assigned a new officer.",
+      "themes": [
+        "contact-routing",
+        "safeguarding"
+      ],
+      "legal": [],
+      "emotions": [],
+      "contradictions": [
+        "OFFICER_ASSIGNMENT_OPACITY"
+      ],
+      "actions_suggested": [
+        "Request written confirmation of officer assignment and contact channel"
+      ],
+      "risk": []
+    },
+    {
+      "index": 19,
+      "timestamp": "02:40.8",
+      "speaker": "Ben Carter",
+      "text": "Would you like my crime reference or did you get it from triage? Okay, so it's 4 7.",
+      "themes": [
+        "case-admin",
+        "recordkeeping"
+      ],
+      "legal": [],
+      "emotions": [],
+      "contradictions": [
+        "CRIME_REF_47240214305_THREAD",
+        "RECORDKEEPING_CONTRADICTIONS"
+      ],
+      "actions_suggested": [],
+      "risk": []
+    },
+    {
+      "index": 20,
+      "timestamp": "02:49.6",
+      "speaker": "101 call handler",
+      "text": "Yeah, just read it out in full.",
+      "themes": [
+        "general"
+      ],
+      "legal": [],
+      "emotions": [],
+      "contradictions": [],
+      "actions_suggested": [],
+      "risk": []
+    },
+    {
+      "index": 21,
+      "timestamp": "02:51.1",
+      "speaker": "Ben Carter",
+      "text": "Okay. 474-021-4305.",
+      "themes": [
+        "general"
+      ],
+      "legal": [],
+      "emotions": [],
+      "contradictions": [],
+      "actions_suggested": [],
+      "risk": []
+    },
+    {
+      "index": 22,
+      "timestamp": "03:02.8",
+      "speaker": "101 call handler",
+      "text": "That's not a Sussex reference. Did you report this somewhere else?",
+      "themes": [
+        "general"
+      ],
+      "legal": [],
+      "emotions": [],
+      "contradictions": [],
+      "actions_suggested": [],
+      "risk": []
+    },
+    {
+      "index": 23,
+      "timestamp": "03:07.6",
+      "speaker": "Ben Carter",
+      "text": "It's not. It's not a Sussex reference?",
+      "themes": [
+        "general"
+      ],
+      "legal": [],
+      "emotions": [],
+      "contradictions": [],
+      "actions_suggested": [],
+      "risk": []
+    },
+    {
+      "index": 24,
+      "timestamp": "03:10.6",
+      "speaker": "101 call handler",
+      "text": "No.",
+      "themes": [
+        "general"
+      ],
+      "legal": [],
+      "emotions": [],
+      "contradictions": [],
+      "actions_suggested": [],
+      "risk": []
+    },
+    {
+      "index": 25,
+      "timestamp": "03:11.9",
+      "speaker": "Ben Carter",
+      "text": "Can I. Can I.",
+      "themes": [
+        "general"
+      ],
+      "legal": [],
+      "emotions": [],
+      "contradictions": [],
+      "actions_suggested": [],
+      "risk": []
+    },
+    {
+      "index": 26,
+      "timestamp": "03:13.1",
+      "speaker": "101 call handler",
+      "text": "Not enough numbers.",
+      "themes": [
+        "general"
+      ],
+      "legal": [],
+      "emotions": [],
+      "contradictions": [],
+      "actions_suggested": [],
+      "risk": []
+    },
+    {
+      "index": 27,
+      "timestamp": "03:14.7",
+      "speaker": "Ben Carter",
+      "text": "Can I read it again? Just make sure.",
+      "themes": [
+        "general"
+      ],
+      "legal": [],
+      "emotions": [],
+      "contradictions": [],
+      "actions_suggested": [],
+      "risk": []
+    },
+    {
+      "index": 28,
+      "timestamp": "03:17.5",
+      "speaker": "101 call handler",
+      "text": "I'll read it back. 47402.",
+      "themes": [
+        "general"
+      ],
+      "legal": [],
+      "emotions": [],
+      "contradictions": [],
+      "actions_suggested": [],
+      "risk": []
+    },
+    {
+      "index": 29,
+      "timestamp": "03:20.1",
+      "speaker": "Ben Carter",
+      "text": "No, no, sorry. 4724.",
+      "themes": [
+        "general"
+      ],
+      "legal": [],
+      "emotions": [],
+      "contradictions": [],
+      "actions_suggested": [],
+      "risk": []
+    },
+    {
+      "index": 30,
+      "timestamp": "03:23.5",
+      "speaker": "101 call handler",
+      "text": "Oh, okay. 4724. So that was last year, was it?",
+      "themes": [
+        "general"
+      ],
+      "legal": [],
+      "emotions": [],
+      "contradictions": [],
+      "actions_suggested": [],
+      "risk": []
+    },
+    {
+      "index": 31,
+      "timestamp": "03:29.8",
+      "speaker": "Ben Carter",
+      "text": "No, it. No, it was, in May.",
+      "themes": [
+        "general"
+      ],
+      "legal": [],
+      "emotions": [],
+      "contradictions": [],
+      "actions_suggested": [],
+      "risk": []
+    },
+    {
+      "index": 32,
+      "timestamp": "03:32.3",
+      "speaker": "101 call handler",
+      "text": "So.",
+      "themes": [
+        "general"
+      ],
+      "legal": [],
+      "emotions": [],
+      "contradictions": [],
+      "actions_suggested": [],
+      "risk": []
+    },
+    {
+      "index": 33,
+      "timestamp": "03:32.6",
+      "speaker": "Ben Carter",
+      "text": "So it's 474-724-021. 4305.",
+      "themes": [
+        "general"
+      ],
+      "legal": [],
+      "emotions": [],
+      "contradictions": [],
+      "actions_suggested": [],
+      "risk": []
+    },
+    {
+      "index": 34,
+      "timestamp": "03:42.7",
+      "speaker": "101 call handler",
+      "text": "What's your name?",
+      "themes": [
+        "general"
+      ],
+      "legal": [],
+      "emotions": [],
+      "contradictions": [],
+      "actions_suggested": [],
+      "risk": []
+    },
+    {
+      "index": 35,
+      "timestamp": "03:43.5",
+      "speaker": "Ben Carter",
+      "text": "My name's Benjamin Robert Carter.",
+      "themes": [
+        "general"
+      ],
+      "legal": [],
+      "emotions": [],
+      "contradictions": [],
+      "actions_suggested": [],
+      "risk": []
+    },
+    {
+      "index": 36,
+      "timestamp": "03:48.4",
+      "speaker": "101 call handler",
+      "text": "Yeah, okay, so, yeah, it was last year. It says that's when it was initially reported.",
+      "themes": [
+        "general"
+      ],
+      "legal": [],
+      "emotions": [],
+      "contradictions": [],
+      "actions_suggested": [],
+      "risk": []
+    },
+    {
+      "index": 37,
+      "timestamp": "03:53.8",
+      "speaker": "Ben Carter",
+      "text": "No, no, this one was in May. Is for Ian Russell.",
+      "themes": [
+        "general"
+      ],
+      "legal": [],
+      "emotions": [],
+      "contradictions": [],
+      "actions_suggested": [],
+      "risk": []
+    },
+    {
+      "index": 38,
+      "timestamp": "04:02.2",
+      "speaker": "101 call handler",
+      "text": "It's what?",
+      "themes": [
+        "general"
+      ],
+      "legal": [],
+      "emotions": [],
+      "contradictions": [],
+      "actions_suggested": [],
+      "risk": []
+    },
+    {
+      "index": 39,
+      "timestamp": "04:02.8",
+      "speaker": "Ben Carter",
+      "text": "Sorry, I reported this one on the 16th of May.",
+      "themes": [
+        "general"
+      ],
+      "legal": [],
+      "emotions": [],
+      "contradictions": [],
+      "actions_suggested": [],
+      "risk": []
+    },
+    {
+      "index": 40,
+      "timestamp": "04:08.5",
+      "speaker": "101 call handler",
+      "text": "So this one is the 2nd of November, 2024.",
+      "themes": [
+        "general"
+      ],
+      "legal": [],
+      "emotions": [],
+      "contradictions": [],
+      "actions_suggested": [],
+      "risk": []
+    },
+    {
+      "index": 41,
+      "timestamp": "04:13.2",
+      "speaker": "Ben Carter",
+      "text": "Oh, no, no, no. That one's, 47240.",
+      "themes": [
+        "general"
+      ],
+      "legal": [],
+      "emotions": [],
+      "contradictions": [],
+      "actions_suggested": [],
+      "risk": []
+    },
+    {
+      "index": 42,
+      "timestamp": "04:21.9",
+      "speaker": "101 call handler",
+      "text": "That reference number you just gave me. That's for an incident that happened second. Well, it was reported to us on the 2nd of November, 2024.",
+      "themes": [
+        "case-admin",
+        "recordkeeping"
+      ],
+      "legal": [],
+      "emotions": [],
+      "contradictions": [
+        "CRIME_REF_47240214305_THREAD",
+        "RECORDKEEPING_CONTRADICTIONS"
+      ],
+      "actions_suggested": [],
+      "risk": []
+    },
+    {
+      "index": 43,
+      "timestamp": "04:29.8",
+      "speaker": "Ben Carter",
+      "text": "Oh, okay.",
+      "themes": [
+        "general"
+      ],
+      "legal": [],
+      "emotions": [],
+      "contradictions": [],
+      "actions_suggested": [],
+      "risk": []
+    },
+    {
+      "index": 44,
+      "timestamp": "04:30.6",
+      "speaker": "101 call handler",
+      "text": "Robert Carter.",
+      "themes": [
+        "general"
+      ],
+      "legal": [],
+      "emotions": [],
+      "contradictions": [],
+      "actions_suggested": [],
+      "risk": []
+    },
+    {
+      "index": 45,
+      "timestamp": "04:31.8",
+      "speaker": "Ben Carter",
+      "text": "Oh, okay, sorry. Maybe I've got the mix up. Could I give you another. Another one, which was for the, Which was for May.",
+      "themes": [
+        "general"
+      ],
+      "legal": [],
+      "emotions": [],
+      "contradictions": [],
+      "actions_suggested": [],
+      "risk": []
+    },
+    {
+      "index": 46,
+      "timestamp": "04:40.3",
+      "speaker": "101 call handler",
+      "text": "Okay, so that one should be 4725.",
+      "themes": [
+        "general"
+      ],
+      "legal": [],
+      "emotions": [],
+      "contradictions": [],
+      "actions_suggested": [],
+      "risk": []
+    },
+    {
+      "index": 47,
+      "timestamp": "04:46.1",
+      "speaker": "Ben Carter",
+      "text": "So it's 4700.",
+      "themes": [
+        "general"
+      ],
+      "legal": [],
+      "emotions": [],
+      "contradictions": [],
+      "actions_suggested": [],
+      "risk": []
+    },
+    {
+      "index": 48,
+      "timestamp": "04:50.8",
+      "speaker": "101 call handler",
+      "text": "So that 4724 is last year. So 4725 is this year.",
+      "themes": [
+        "general"
+      ],
+      "legal": [],
+      "emotions": [],
+      "contradictions": [],
+      "actions_suggested": [],
+      "risk": []
+    },
+    {
+      "index": 49,
+      "timestamp": "04:57.9",
+      "speaker": "Ben Carter",
+      "text": "Oh, I didn't realise that because, like I've got the email saying, like, Yeah, it may be.",
+      "themes": [
+        "general"
+      ],
+      "legal": [],
+      "emotions": [],
+      "contradictions": [],
+      "actions_suggested": [],
+      "risk": []
+    },
+    {
+      "index": 50,
+      "timestamp": "05:07.9",
+      "speaker": "101 call handler",
+      "text": "If it progressed as an investigation, we may have given you the same reference number. But if you've added updates.",
+      "themes": [
+        "case-admin",
+        "case-updates",
+        "logging",
+        "recordkeeping"
+      ],
+      "legal": [],
+      "emotions": [],
+      "contradictions": [
+        "CRIME_REF_47240214305_THREAD",
+        "DEATH_BY_SILENCE",
+        "RECORDKEEPING_CONTRADICTIONS"
+      ],
+      "actions_suggested": [],
+      "risk": []
+    },
+    {
+      "index": 51,
+      "timestamp": "05:14.3",
+      "speaker": "Ben Carter",
+      "text": "Okay. Like, I don't really know, like, how the crime number. Could I just give you this one to find out? Which is the one for me?",
+      "themes": [
+        "case-admin",
+        "recordkeeping"
+      ],
+      "legal": [],
+      "emotions": [],
+      "contradictions": [
+        "CRIME_REF_47240214305_THREAD",
+        "RECORDKEEPING_CONTRADICTIONS"
+      ],
+      "actions_suggested": [],
+      "risk": []
+    },
+    {
+      "index": 52,
+      "timestamp": "05:27.0",
+      "speaker": "101 call handler",
+      "text": "The one you just gave me. That's the most updated one. There's updates on here from like a few days ago, so I'm assuming that that is the right one.",
+      "themes": [
+        "case-updates",
+        "logging"
+      ],
+      "legal": [],
+      "emotions": [],
+      "contradictions": [
+        "DEATH_BY_SILENCE"
+      ],
+      "actions_suggested": [],
+      "risk": []
+    },
+    {
+      "index": 53,
+      "timestamp": "05:35.6",
+      "speaker": "Ben Carter",
+      "text": "Okay. What, What? The updates?",
+      "themes": [
+        "case-updates",
+        "logging"
+      ],
+      "legal": [],
+      "emotions": [],
+      "contradictions": [
+        "DEATH_BY_SILENCE"
+      ],
+      "actions_suggested": [],
+      "risk": []
+    },
+    {
+      "index": 54,
+      "timestamp": "05:38.9",
+      "speaker": "101 call handler",
+      "text": "I won't be able to tell you that, I'm afraid, over the phone. But what is it I can help you with?",
+      "themes": [
+        "general"
+      ],
+      "legal": [],
+      "emotions": [],
+      "contradictions": [],
+      "actions_suggested": [],
+      "risk": []
+    },
+    {
+      "index": 55,
+      "timestamp": "05:44.2",
+      "speaker": "Ben Carter",
+      "text": "So with the other. Because I've got another crime reference. Could I give you that one, please?",
+      "themes": [
+        "case-admin",
+        "recordkeeping"
+      ],
+      "legal": [],
+      "emotions": [],
+      "contradictions": [
+        "CRIME_REF_47240214305_THREAD",
+        "RECORDKEEPING_CONTRADICTIONS"
+      ],
+      "actions_suggested": [],
+      "risk": []
+    },
+    {
+      "index": 56,
+      "timestamp": "05:50.3",
+      "speaker": "101 call handler",
+      "text": "What's that one for?",
+      "themes": [
+        "general"
+      ],
+      "legal": [],
+      "emotions": [],
+      "contradictions": [],
+      "actions_suggested": [],
+      "risk": []
+    },
+    {
+      "index": 57,
+      "timestamp": "05:53.3",
+      "speaker": "Ben Carter",
+      "text": "So it's 47240. Okay. 472-401-41246.",
+      "themes": [
+        "general"
+      ],
+      "legal": [],
+      "emotions": [],
+      "contradictions": [],
+      "actions_suggested": [],
+      "risk": []
+    },
+    {
+      "index": 58,
+      "timestamp": "06:12.4",
+      "speaker": "101 call handler",
+      "text": "Okay, so that's linked. I can see. Yeah. So how can I help you?",
+      "themes": [
+        "general"
+      ],
+      "legal": [],
+      "emotions": [],
+      "contradictions": [],
+      "actions_suggested": [],
+      "risk": []
+    },
+    {
+      "index": 59,
+      "timestamp": "06:23.6",
+      "speaker": "Ben Carter",
+      "text": "What are the two crime. So I've got two crime numbers. What's the difference in them?",
+      "themes": [
+        "case-admin",
+        "recordkeeping"
+      ],
+      "legal": [],
+      "emotions": [],
+      "contradictions": [
+        "CRIME_REF_47240214305_THREAD",
+        "RECORDKEEPING_CONTRADICTIONS"
+      ],
+      "actions_suggested": [],
+      "risk": []
+    },
+    {
+      "index": 60,
+      "timestamp": "06:32.6",
+      "speaker": "101 call handler",
+      "text": "They're just two different incidents.",
+      "themes": [
+        "general"
+      ],
+      "legal": [],
+      "emotions": [],
+      "contradictions": [],
+      "actions_suggested": [],
+      "risk": []
+    },
+    {
+      "index": 61,
+      "timestamp": "06:35.7",
+      "speaker": "Ben Carter",
+      "text": "Two different. No, that should be a cad if it's a, different incident, like two separate crime numbers. Surely, two completely different crimes.",
+      "themes": [
+        "case-admin",
+        "recordkeeping"
+      ],
+      "legal": [],
+      "emotions": [],
+      "contradictions": [
+        "CRIME_REF_47240214305_THREAD",
+        "RECORDKEEPING_CONTRADICTIONS"
+      ],
+      "actions_suggested": [],
+      "risk": []
+    },
+    {
+      "index": 62,
+      "timestamp": "06:51.5",
+      "speaker": "101 call handler",
+      "text": "Yep, yeah, that's correct, yeah.",
+      "themes": [
+        "general"
+      ],
+      "legal": [],
+      "emotions": [],
+      "contradictions": [],
+      "actions_suggested": [],
+      "risk": []
+    },
+    {
+      "index": 63,
+      "timestamp": "06:54.3",
+      "speaker": "Ben Carter",
+      "text": "So could you please tell me the officer for that one?",
+      "themes": [
+        "contact-routing",
+        "safeguarding"
+      ],
+      "legal": [],
+      "emotions": [],
+      "contradictions": [
+        "OFFICER_ASSIGNMENT_OPACITY"
+      ],
+      "actions_suggested": [
+        "Request written confirmation of officer assignment and contact channel"
+      ],
+      "risk": []
+    },
+    {
+      "index": 64,
+      "timestamp": "06:59.2",
+      "speaker": "101 call handler",
+      "text": "For what one? Sorry?",
+      "themes": [
+        "general"
+      ],
+      "legal": [],
+      "emotions": [],
+      "contradictions": [],
+      "actions_suggested": [],
+      "risk": []
+    },
+    {
+      "index": 65,
+      "timestamp": "07:01.4",
+      "speaker": "Ben Carter",
+      "text": "The one I just gave. The one I just gave you the officer. Yeah.",
+      "themes": [
+        "contact-routing",
+        "safeguarding"
+      ],
+      "legal": [],
+      "emotions": [],
+      "contradictions": [
+        "OFFICER_ASSIGNMENT_OPACITY"
+      ],
+      "actions_suggested": [
+        "Request written confirmation of officer assignment and contact channel"
+      ],
+      "risk": []
+    },
+    {
+      "index": 66,
+      "timestamp": "07:13.4",
+      "speaker": "101 call handler",
+      "text": "It's PC Gasson.",
+      "themes": [
+        "contact-routing",
+        "safeguarding"
+      ],
+      "legal": [],
+      "emotions": [],
+      "contradictions": [
+        "OFFICER_ASSIGNMENT_OPACITY"
+      ],
+      "actions_suggested": [
+        "Request written confirmation of officer assignment and contact channel"
+      ],
+      "risk": []
+    },
+    {
+      "index": 67,
+      "timestamp": "07:15.1",
+      "speaker": "Ben Carter",
+      "text": "PC who?",
+      "themes": [
+        "general"
+      ],
+      "legal": [],
+      "emotions": [],
+      "contradictions": [],
+      "actions_suggested": [],
+      "risk": []
+    },
+    {
+      "index": 68,
+      "timestamp": "07:16.9",
+      "speaker": "101 call handler",
+      "text": "Gasson.",
+      "themes": [
+        "general"
+      ],
+      "legal": [],
+      "emotions": [],
+      "contradictions": [],
+      "actions_suggested": [],
+      "risk": []
+    },
+    {
+      "index": 69,
+      "timestamp": "07:18.2",
+      "speaker": "Ben Carter",
+      "text": "Could you spell that, please? G A double S, O, N, G A. Oh, okay. And for the. The other crime. Who's that?",
+      "themes": [
+        "general"
+      ],
+      "legal": [],
+      "emotions": [],
+      "contradictions": [],
+      "actions_suggested": [],
+      "risk": []
+    },
+    {
+      "index": 70,
+      "timestamp": "07:30.7",
+      "speaker": "101 call handler",
+      "text": "Yeah, it's the same officer.",
+      "themes": [
+        "contact-routing",
+        "safeguarding"
+      ],
+      "legal": [],
+      "emotions": [],
+      "contradictions": [
+        "OFFICER_ASSIGNMENT_OPACITY"
+      ],
+      "actions_suggested": [
+        "Request written confirmation of officer assignment and contact channel"
+      ],
+      "risk": []
+    },
+    {
+      "index": 71,
+      "timestamp": "07:32.3",
+      "speaker": "Ben Carter",
+      "text": "Oh, okay. So they're dealing with, both crimes which are the same crime.",
+      "themes": [
+        "general"
+      ],
+      "legal": [],
+      "emotions": [],
+      "contradictions": [],
+      "actions_suggested": [],
+      "risk": []
+    },
+    {
+      "index": 72,
+      "timestamp": "07:41.5",
+      "speaker": "Ben Carter",
+      "text": "Sorry, I'm just a bit confused. Is that.",
+      "themes": [
+        "general"
+      ],
+      "legal": [],
+      "emotions": [
+        "appeasing",
+        "confusion"
+      ],
+      "contradictions": [],
+      "actions_suggested": [],
+      "risk": []
+    },
+    {
+      "index": 73,
+      "timestamp": "07:45.0",
+      "speaker": "101 call handler",
+      "text": "Well, what is it that you've rung to kind of get information for today?",
+      "themes": [
+        "general"
+      ],
+      "legal": [],
+      "emotions": [],
+      "contradictions": [],
+      "actions_suggested": [],
+      "risk": []
+    },
+    {
+      "index": 74,
+      "timestamp": "07:51.4",
+      "speaker": "Ben Carter",
+      "text": "So I asked at the start, just because you can see my confusion, I have two crime numbers and I'm just trying to find out.",
+      "themes": [
+        "case-admin",
+        "recordkeeping"
+      ],
+      "legal": [],
+      "emotions": [
+        "appeasing",
+        "confusion"
+      ],
+      "contradictions": [
+        "CRIME_REF_47240214305_THREAD",
+        "RECORDKEEPING_CONTRADICTIONS"
+      ],
+      "actions_suggested": [],
+      "risk": []
+    },
+    {
+      "index": 75,
+      "timestamp": "08:09.8",
+      "speaker": "Ben Carter",
+      "text": "What's Going on, if that's okay.",
+      "themes": [
+        "general"
+      ],
+      "legal": [],
+      "emotions": [],
+      "contradictions": [],
+      "actions_suggested": [],
+      "risk": []
+    },
+    {
+      "index": 76,
+      "timestamp": "08:13.6",
+      "speaker": "101 call handler",
+      "text": "You want an update on the case or.",
+      "themes": [
+        "general"
+      ],
+      "legal": [],
+      "emotions": [],
+      "contradictions": [],
+      "actions_suggested": [],
+      "risk": []
+    },
+    {
+      "index": 77,
+      "timestamp": "08:17.4",
+      "speaker": "Ben Carter",
+      "text": "I wouldn't know. Why there's two crime numbers for the same crime, and if the same officers, assigned to both, it's nothing for.",
+      "themes": [
+        "case-admin",
+        "contact-routing",
+        "recordkeeping",
+        "safeguarding"
+      ],
+      "legal": [],
+      "emotions": [],
+      "contradictions": [
+        "CRIME_REF_47240214305_THREAD",
+        "OFFICER_ASSIGNMENT_OPACITY",
+        "RECORDKEEPING_CONTRADICTIONS"
+      ],
+      "actions_suggested": [
+        "Request written confirmation of officer assignment and contact channel"
+      ],
+      "risk": []
+    },
+    {
+      "index": 78,
+      "timestamp": "08:27.6",
+      "speaker": "101 call handler",
+      "text": "You to worry about. It's literally just how we record it.",
+      "themes": [
+        "general"
+      ],
+      "legal": [],
+      "emotions": [],
+      "contradictions": [],
+      "actions_suggested": [],
+      "risk": []
+    },
+    {
+      "index": 79,
+      "timestamp": "08:30.4",
+      "speaker": "Ben Carter",
+      "text": "So depending on what happened.",
+      "themes": [
+        "general"
+      ],
+      "legal": [],
+      "emotions": [],
+      "contradictions": [],
+      "actions_suggested": [],
+      "risk": []
+    },
+    {
+      "index": 80,
+      "timestamp": "08:34.1",
+      "speaker": "101 call handler",
+      "text": "Sorry, you've asked me a question and now you're interrupting me.",
+      "themes": [
+        "general"
+      ],
+      "legal": [],
+      "emotions": [],
+      "contradictions": [],
+      "actions_suggested": [],
+      "risk": []
+    },
+    {
+      "index": 81,
+      "timestamp": "08:38.9",
+      "speaker": "Ben Carter",
+      "text": "I apologise. Go on.",
+      "themes": [
+        "general"
+      ],
+      "legal": [],
+      "emotions": [
+        "appeasing",
+        "confusion"
+      ],
+      "contradictions": [],
+      "actions_suggested": [],
+      "risk": []
+    },
+    {
+      "index": 82,
+      "timestamp": "08:42.1",
+      "speaker": "101 call handler",
+      "text": "So, yeah, it's nothing for you to worry about as, like, a victim. It's basically just how we record crime. So if someone reports something, and there's five crimes, for example, or we may need to record more than one crime. So. I don't know anything about your case, but, yeah, they've obviously just needed to record something else.",
+      "themes": [
+        "general"
+      ],
+      "legal": [],
+      "emotions": [
+        "dismissed/minimised"
+      ],
+      "contradictions": [],
+      "actions_suggested": [],
+      "risk": []
+    },
+    {
+      "index": 83,
+      "timestamp": "09:03.7",
+      "speaker": "101 call handler",
+      "text": "That's literally it. That's why there's the same officer dealing with both.",
+      "themes": [
+        "contact-routing",
+        "safeguarding"
+      ],
+      "legal": [],
+      "emotions": [],
+      "contradictions": [
+        "OFFICER_ASSIGNMENT_OPACITY"
+      ],
+      "actions_suggested": [
+        "Request written confirmation of officer assignment and contact channel"
+      ],
+      "risk": []
+    },
+    {
+      "index": 84,
+      "timestamp": "09:08.2",
+      "speaker": "Ben Carter",
+      "text": "Okay. Can I talk?",
+      "themes": [
+        "general"
+      ],
+      "legal": [],
+      "emotions": [],
+      "contradictions": [],
+      "actions_suggested": [],
+      "risk": []
+    },
+    {
+      "index": 85,
+      "timestamp": "09:12.8",
+      "speaker": "101 call handler",
+      "text": "Sorry?",
+      "themes": [
+        "general"
+      ],
+      "legal": [],
+      "emotions": [],
+      "contradictions": [],
+      "actions_suggested": [],
+      "risk": []
+    },
+    {
+      "index": 86,
+      "timestamp": "09:14.0",
+      "speaker": "Ben Carter",
+      "text": "Can I talk now? I don't want to be interrupting you.",
+      "themes": [
+        "general"
+      ],
+      "legal": [],
+      "emotions": [],
+      "contradictions": [],
+      "actions_suggested": [],
+      "risk": []
+    },
+    {
+      "index": 87,
+      "timestamp": "09:17.8",
+      "speaker": "101 call handler",
+      "text": "Oh, no, just. You asked me a question then you were just talking over me. It's a bit confusing.",
+      "themes": [
+        "general"
+      ],
+      "legal": [],
+      "emotions": [],
+      "contradictions": [],
+      "actions_suggested": [],
+      "risk": []
+    },
+    {
+      "index": 88,
+      "timestamp": "09:22.9",
+      "speaker": "Ben Carter",
+      "text": "I apologise.",
+      "themes": [
+        "general"
+      ],
+      "legal": [],
+      "emotions": [
+        "appeasing",
+        "confusion"
+      ],
+      "contradictions": [],
+      "actions_suggested": [],
+      "risk": []
+    },
+    {
+      "index": 89,
+      "timestamp": "09:24.4",
+      "speaker": "101 call handler",
+      "text": "Okay. What is it that you need from police today?",
+      "themes": [
+        "general"
+      ],
+      "legal": [],
+      "emotions": [],
+      "contradictions": [],
+      "actions_suggested": [],
+      "risk": []
+    },
+    {
+      "index": 90,
+      "timestamp": "09:27.4",
+      "speaker": "Ben Carter",
+      "text": "Well, so, I just want to know, if anything's been logged recently. Like, since the 22nd, anything's been logged.",
+      "themes": [
+        "case-updates",
+        "logging"
+      ],
+      "legal": [],
+      "emotions": [],
+      "contradictions": [
+        "DEATH_BY_SILENCE"
+      ],
+      "actions_suggested": [],
+      "risk": []
+    },
+    {
+      "index": 91,
+      "timestamp": "09:39.8",
+      "speaker": "101 call handler",
+      "text": "What do you mean by logged?",
+      "themes": [
+        "case-updates",
+        "logging"
+      ],
+      "legal": [],
+      "emotions": [],
+      "contradictions": [
+        "DEATH_BY_SILENCE"
+      ],
+      "actions_suggested": [],
+      "risk": []
+    },
+    {
+      "index": 92,
+      "timestamp": "09:42.8",
+      "speaker": "Ben Carter",
+      "text": "Any updates to the crime?",
+      "themes": [
+        "case-updates",
+        "logging"
+      ],
+      "legal": [],
+      "emotions": [],
+      "contradictions": [
+        "DEATH_BY_SILENCE"
+      ],
+      "actions_suggested": [],
+      "risk": []
+    },
+    {
+      "index": 93,
+      "timestamp": "09:45.3",
+      "speaker": "101 call handler",
+      "text": "Oh, okay. Since the 22nd of June.",
+      "themes": [
+        "general"
+      ],
+      "legal": [],
+      "emotions": [],
+      "contradictions": [],
+      "actions_suggested": [],
+      "risk": []
+    },
+    {
+      "index": 94,
+      "timestamp": "09:51.4",
+      "speaker": "Ben Carter",
+      "text": "Yeah.",
+      "themes": [
+        "general"
+      ],
+      "legal": [],
+      "emotions": [],
+      "contradictions": [],
+      "actions_suggested": [],
+      "risk": []
+    },
+    {
+      "index": 95,
+      "timestamp": "09:56.5",
+      "speaker": "101 call handler",
+      "text": "Yeah. We can't give you updates over the phone because of data.",
+      "themes": [
+        "case-updates",
+        "information-denial",
+        "logging"
+      ],
+      "legal": [
+        "Victims’ Code: right to be kept informed"
+      ],
+      "emotions": [],
+      "contradictions": [
+        "DEATH_BY_SILENCE",
+        "VICTIMS_CODE_VIOLATION"
+      ],
+      "actions_suggested": [],
+      "risk": []
+    },
+    {
+      "index": 96,
+      "timestamp": "09:59.4",
+      "speaker": "Ben Carter",
+      "text": "No, no, no, no, that's fine. Just, just say anything like, yeah, I.",
+      "themes": [
+        "general"
+      ],
+      "legal": [],
+      "emotions": [],
+      "contradictions": [],
+      "actions_suggested": [],
+      "risk": []
+    },
+    {
+      "index": 97,
+      "timestamp": "10:04.9",
+      "speaker": "101 call handler",
+      "text": "Can ask the officer to get in touch with you if that's what you prefer. I'm not able to kind of disclose anything. I.",
+      "themes": [
+        "contact-routing",
+        "safeguarding"
+      ],
+      "legal": [],
+      "emotions": [],
+      "contradictions": [
+        "OFFICER_ASSIGNMENT_OPACITY"
+      ],
+      "actions_suggested": [
+        "Request written confirmation of officer assignment and contact channel"
+      ],
+      "risk": []
+    },
+    {
+      "index": 98,
+      "timestamp": "10:11.5",
+      "speaker": "Ben Carter",
+      "text": "You're able to disclose? Yes or no? If, because I, I, I'm the data subject, like, I am entitled to know what information I've given you. You, you don't have to go into what. But the calls I made on the 22nd, was that, was that added to my case, file for, For Eve.",
+      "themes": [
+        "case-updates",
+        "logging"
+      ],
+      "legal": [],
+      "emotions": [],
+      "contradictions": [
+        "DEATH_BY_SILENCE"
+      ],
+      "actions_suggested": [],
+      "risk": []
+    },
+    {
+      "index": 99,
+      "timestamp": "10:39.3",
+      "speaker": "Ben Carter",
+      "text": "For both of the crimes that are one crime.",
+      "themes": [
+        "general"
+      ],
+      "legal": [],
+      "emotions": [],
+      "contradictions": [],
+      "actions_suggested": [],
+      "risk": []
+    },
+    {
+      "index": 100,
+      "timestamp": "10:41.8",
+      "speaker": "101 call handler",
+      "text": "What did you call about on the 22nd?",
+      "themes": [
+        "general"
+      ],
+      "legal": [],
+      "emotions": [],
+      "contradictions": [],
+      "actions_suggested": [],
+      "risk": []
+    },
+    {
+      "index": 101,
+      "timestamp": "10:44.8",
+      "speaker": "Ben Carter",
+      "text": "Because my abuser, phoned me up accusing me of rape again.",
+      "themes": [
+        "escalation",
+        "new-incident"
+      ],
+      "legal": [],
+      "emotions": [],
+      "contradictions": [],
+      "actions_suggested": [
+        "Add phone evidence and transcript for 22–23 June allegation to case"
+      ],
+      "risk": [
+        "psychological-harm",
+        "reputational-harm"
+      ]
+    },
+    {
+      "index": 102,
+      "timestamp": "10:51.4",
+      "speaker": "101 call handler",
+      "text": "Oh, okay. And you reported that, did you?",
+      "themes": [
+        "general"
+      ],
+      "legal": [],
+      "emotions": [],
+      "contradictions": [],
+      "actions_suggested": [],
+      "risk": []
+    },
+    {
+      "index": 103,
+      "timestamp": "10:53.5",
+      "speaker": "Ben Carter",
+      "text": "Yeah, and I was told on the 23rd that it was logged.",
+      "themes": [
+        "case-updates",
+        "logging"
+      ],
+      "legal": [],
+      "emotions": [],
+      "contradictions": [
+        "DEATH_BY_SILENCE"
+      ],
+      "actions_suggested": [],
+      "risk": []
+    },
+    {
+      "index": 104,
+      "timestamp": "10:59.9",
+      "speaker": "101 call handler",
+      "text": "Okay. So, yeah, if you've already been told it's been logged, then it would have been logged.",
+      "themes": [
+        "case-updates",
+        "logging"
+      ],
+      "legal": [],
+      "emotions": [],
+      "contradictions": [
+        "DEATH_BY_SILENCE"
+      ],
+      "actions_suggested": [],
+      "risk": []
+    },
+    {
+      "index": 105,
+      "timestamp": "11:06.0",
+      "speaker": "Ben Carter",
+      "text": "Can you confirm it has been logged?",
+      "themes": [
+        "case-updates",
+        "logging"
+      ],
+      "legal": [],
+      "emotions": [],
+      "contradictions": [
+        "DEATH_BY_SILENCE"
+      ],
+      "actions_suggested": [],
+      "risk": []
+    },
+    {
+      "index": 106,
+      "timestamp": "11:20.2",
+      "speaker": "101 call handler",
+      "text": "So what day did you call in to report that?",
+      "themes": [
+        "general"
+      ],
+      "legal": [],
+      "emotions": [],
+      "contradictions": [],
+      "actions_suggested": [],
+      "risk": []
+    },
+    {
+      "index": 107,
+      "timestamp": "11:23.6",
+      "speaker": "Ben Carter",
+      "text": "The 22nd. And I was confirmed it was logged on the 23rd.",
+      "themes": [
+        "case-updates",
+        "logging"
+      ],
+      "legal": [],
+      "emotions": [],
+      "contradictions": [
+        "DEATH_BY_SILENCE"
+      ],
+      "actions_suggested": [],
+      "risk": []
+    },
+    {
+      "index": 108,
+      "timestamp": "11:34.4",
+      "speaker": "101 call handler",
+      "text": "Yes. It has been locked.",
+      "themes": [
+        "general"
+      ],
+      "legal": [],
+      "emotions": [],
+      "contradictions": [],
+      "actions_suggested": [],
+      "risk": []
+    },
+    {
+      "index": 109,
+      "timestamp": "11:35.6",
+      "speaker": "Ben Carter",
+      "text": "I can see it has been logged. And when am I able to send in the evidence?",
+      "themes": [
+        "case-updates",
+        "logging"
+      ],
+      "legal": [],
+      "emotions": [],
+      "contradictions": [
+        "DEATH_BY_SILENCE"
+      ],
+      "actions_suggested": [],
+      "risk": []
+    },
+    {
+      "index": 110,
+      "timestamp": "11:45.0",
+      "speaker": "101 call handler",
+      "text": "I'm not too sure. Yeah, it'll be, My colleague has updated the officer, so, they will be aware that there's this further report made.",
+      "themes": [
+        "contact-routing",
+        "safeguarding"
+      ],
+      "legal": [],
+      "emotions": [],
+      "contradictions": [
+        "OFFICER_ASSIGNMENT_OPACITY"
+      ],
+      "actions_suggested": [
+        "Request written confirmation of officer assignment and contact channel"
+      ],
+      "risk": []
+    },
+    {
+      "index": 111,
+      "timestamp": "11:55.2",
+      "speaker": "Ben Carter",
+      "text": "So, yeah, I'm sure they'll be in.",
+      "themes": [
+        "general"
+      ],
+      "legal": [],
+      "emotions": [],
+      "contradictions": [],
+      "actions_suggested": [],
+      "risk": []
+    },
+    {
+      "index": 112,
+      "timestamp": "11:58.3",
+      "speaker": "101 call handler",
+      "text": "Touch with you shortly to kind of discuss it all.",
+      "themes": [
+        "general"
+      ],
+      "legal": [],
+      "emotions": [],
+      "contradictions": [],
+      "actions_suggested": [],
+      "risk": []
+    },
+    {
+      "index": 113,
+      "timestamp": "12:00.9",
+      "speaker": "Ben Carter",
+      "text": "It's just. It's been. It's been a week and is my Officer, working today by any chance?",
+      "themes": [
+        "contact-routing",
+        "safeguarding"
+      ],
+      "legal": [],
+      "emotions": [],
+      "contradictions": [
+        "OFFICER_ASSIGNMENT_OPACITY"
+      ],
+      "actions_suggested": [
+        "Request written confirmation of officer assignment and contact channel"
+      ],
+      "risk": []
+    },
+    {
+      "index": 114,
+      "timestamp": "12:29.9",
+      "speaker": "101 call handler",
+      "text": "Yes, they're actually working later today, yeah.",
+      "themes": [
+        "general"
+      ],
+      "legal": [],
+      "emotions": [],
+      "contradictions": [],
+      "actions_suggested": [],
+      "risk": []
+    },
+    {
+      "index": 115,
+      "timestamp": "12:32.6",
+      "speaker": "Ben Carter",
+      "text": "Oh, brilliant. If I called up, is there any chance I could, be put through?",
+      "themes": [
+        "general"
+      ],
+      "legal": [],
+      "emotions": [],
+      "contradictions": [],
+      "actions_suggested": [],
+      "risk": []
+    },
+    {
+      "index": 116,
+      "timestamp": "12:42.8",
+      "speaker": "101 call handler",
+      "text": "Yeah, we can try. They work in the investigations team, so.",
+      "themes": [
+        "general"
+      ],
+      "legal": [],
+      "emotions": [],
+      "contradictions": [],
+      "actions_suggested": [],
+      "risk": []
+    },
+    {
+      "index": 117,
+      "timestamp": "12:47.7",
+      "speaker": "Ben Carter",
+      "text": "Yeah, yeah, we could always try, but, it's just, This is the first I've heard that I have a different officer, so, it would just be nice to chat to my ooc, really.",
+      "themes": [
+        "contact-routing",
+        "safeguarding"
+      ],
+      "legal": [],
+      "emotions": [],
+      "contradictions": [
+        "OFFICER_ASSIGNMENT_OPACITY"
+      ],
+      "actions_suggested": [
+        "Request written confirmation of officer assignment and contact channel"
+      ],
+      "risk": []
+    },
+    {
+      "index": 118,
+      "timestamp": "13:06.5",
+      "speaker": "101 call handler",
+      "text": "Okay. Yeah. Yeah, I mean, throughout. Throughout a case, officers change all the time. That's very normal. Two cases, one person, then, you know, go sc.",
+      "themes": [
+        "contact-routing",
+        "safeguarding"
+      ],
+      "legal": [],
+      "emotions": [],
+      "contradictions": [
+        "OFFICER_ASSIGNMENT_OPACITY"
+      ],
+      "actions_suggested": [
+        "Request written confirmation of officer assignment and contact channel"
+      ],
+      "risk": []
+    },
+    {
+      "index": 119,
+      "timestamp": "13:21.5",
+      "speaker": "101 call handler",
+      "text": "Then it might get past someone else for investigations.",
+      "themes": [
+        "general"
+      ],
+      "legal": [],
+      "emotions": [],
+      "contradictions": [],
+      "actions_suggested": [],
+      "risk": []
+    },
+    {
+      "index": 120,
+      "timestamp": "13:24.1",
+      "speaker": "Ben Carter",
+      "text": "It's not going to be the same.",
+      "themes": [
+        "general"
+      ],
+      "legal": [],
+      "emotions": [],
+      "contradictions": [],
+      "actions_suggested": [],
+      "risk": []
+    },
+    {
+      "index": 121,
+      "timestamp": "13:25.1",
+      "speaker": "101 call handler",
+      "text": "Officer all the way through. So that's very normal that you may have had a slightly different officer. Now it's been sent to investigations.",
+      "themes": [
+        "contact-routing",
+        "safeguarding"
+      ],
+      "legal": [],
+      "emotions": [],
+      "contradictions": [
+        "OFFICER_ASSIGNMENT_OPACITY"
+      ],
+      "actions_suggested": [
+        "Request written confirmation of officer assignment and contact channel"
+      ],
+      "risk": []
+    },
+    {
+      "index": 122,
+      "timestamp": "13:31.8",
+      "speaker": "Ben Carter",
+      "text": "Yeah. Yeah. Can I just ask also, like, at what point are the Crown Prosecution Service, like, made aware of the crime? Is it from the start or like, what.",
+      "themes": [
+        "general"
+      ],
+      "legal": [],
+      "emotions": [],
+      "contradictions": [],
+      "actions_suggested": [],
+      "risk": []
+    },
+    {
+      "index": 123,
+      "timestamp": "13:47.4",
+      "speaker": "101 call handler",
+      "text": "Once the. Once the investigate, like a case has been made.",
+      "themes": [
+        "general"
+      ],
+      "legal": [],
+      "emotions": [],
+      "contradictions": [],
+      "actions_suggested": [],
+      "risk": []
+    },
+    {
+      "index": 124,
+      "timestamp": "13:50.5",
+      "speaker": "Ben Carter",
+      "text": "Yeah.",
+      "themes": [
+        "general"
+      ],
+      "legal": [],
+      "emotions": [],
+      "contradictions": [],
+      "actions_suggested": [],
+      "risk": []
+    },
+    {
+      "index": 125,
+      "timestamp": "13:51.5",
+      "speaker": "101 call handler",
+      "text": "Then the investigators go to CPS and say, here is the, Here's the incident. This is the evidence we have that these are the circumstances. And then the CPS review it and they either go yes or no, basically.",
+      "themes": [
+        "cps-oversight"
+      ],
+      "legal": [],
+      "emotions": [],
+      "contradictions": [
+        "NFA_BEFORE_CPS_REVIEW",
+        "STALKING_CLINIC_CPS_ATTENDANCE_DISPUTE"
+      ],
+      "actions_suggested": [
+        "Request CPS attendance log and action notes from 29 Apr 2025 Stalking Clinic"
+      ],
+      "risk": []
+    },
+    {
+      "index": 126,
+      "timestamp": "14:05.9",
+      "speaker": "Ben Carter",
+      "text": "Oh, okay, so that's not done. Like, right. Right away that. That's done. But they have to build a.",
+      "themes": [
+        "general"
+      ],
+      "legal": [],
+      "emotions": [],
+      "contradictions": [],
+      "actions_suggested": [],
+      "risk": []
+    },
+    {
+      "index": 127,
+      "timestamp": "14:14.6",
+      "speaker": "101 call handler",
+      "text": "Case to take to the CPS.",
+      "themes": [
+        "cps-oversight"
+      ],
+      "legal": [],
+      "emotions": [],
+      "contradictions": [
+        "NFA_BEFORE_CPS_REVIEW",
+        "STALKING_CLINIC_CPS_ATTENDANCE_DISPUTE"
+      ],
+      "actions_suggested": [
+        "Request CPS attendance log and action notes from 29 Apr 2025 Stalking Clinic"
+      ],
+      "risk": []
+    },
+    {
+      "index": 128,
+      "timestamp": "14:16.3",
+      "speaker": "Ben Carter",
+      "text": "Okay. It's just on the 29th, there was a meeting, It was like a Sussex Police stalking meeting, about, about my case.",
+      "themes": [
+        "general"
+      ],
+      "legal": [],
+      "emotions": [],
+      "contradictions": [],
+      "actions_suggested": [],
+      "risk": []
+    },
+    {
+      "index": 129,
+      "timestamp": "14:31.5",
+      "speaker": "Ben Carter",
+      "text": "And apparently the, like Veritas Justice. I don't know. Yeah, They said that the CPS were there, so they would know about the crime, wouldn't they, if they were there?",
+      "themes": [
+        "cps-oversight"
+      ],
+      "legal": [],
+      "emotions": [],
+      "contradictions": [
+        "NFA_BEFORE_CPS_REVIEW",
+        "STALKING_CLINIC_CPS_ATTENDANCE_DISPUTE"
+      ],
+      "actions_suggested": [
+        "Request CPS attendance log and action notes from 29 Apr 2025 Stalking Clinic"
+      ],
+      "risk": []
+    },
+    {
+      "index": 130,
+      "timestamp": "14:50.8",
+      "speaker": "101 call handler",
+      "text": "Yeah. I'm not an officer myself, so I don't know, you know, exactly how it works. I just have a very basic understanding.",
+      "themes": [
+        "contact-routing",
+        "safeguarding"
+      ],
+      "legal": [],
+      "emotions": [],
+      "contradictions": [
+        "OFFICER_ASSIGNMENT_OPACITY"
+      ],
+      "actions_suggested": [
+        "Request written confirmation of officer assignment and contact channel"
+      ],
+      "risk": []
+    },
+    {
+      "index": 131,
+      "timestamp": "14:56.4",
+      "speaker": "Ben Carter",
+      "text": "Yeah, no, no, no, I understand.",
+      "themes": [
+        "general"
+      ],
+      "legal": [],
+      "emotions": [],
+      "contradictions": [],
+      "actions_suggested": [],
+      "risk": []
+    },
+    {
+      "index": 132,
+      "timestamp": "14:58.8",
+      "speaker": "101 call handler",
+      "text": "Yeah. I'm not too sure. If they're saying that they were at the meeting, then. Yeah, perhaps there was someone from CPS there.",
+      "themes": [
+        "cps-oversight"
+      ],
+      "legal": [],
+      "emotions": [],
+      "contradictions": [
+        "NFA_BEFORE_CPS_REVIEW",
+        "STALKING_CLINIC_CPS_ATTENDANCE_DISPUTE"
+      ],
+      "actions_suggested": [
+        "Request CPS attendance log and action notes from 29 Apr 2025 Stalking Clinic"
+      ],
+      "risk": []
+    },
+    {
+      "index": 133,
+      "timestamp": "15:05.0",
+      "speaker": "Ben Carter",
+      "text": "Yeah, it's Just I contacted the cps, about it, and they had no idea, like, who I was, which I found a bit strange.",
+      "themes": [
+        "cps-oversight"
+      ],
+      "legal": [],
+      "emotions": [],
+      "contradictions": [
+        "NFA_BEFORE_CPS_REVIEW",
+        "STALKING_CLINIC_CPS_ATTENDANCE_DISPUTE"
+      ],
+      "actions_suggested": [
+        "Request CPS attendance log and action notes from 29 Apr 2025 Stalking Clinic"
+      ],
+      "risk": []
+    },
+    {
+      "index": 134,
+      "timestamp": "15:19.4",
+      "speaker": "101 call handler",
+      "text": "Why did you contact the cps?",
+      "themes": [
+        "cps-oversight"
+      ],
+      "legal": [],
+      "emotions": [],
+      "contradictions": [
+        "NFA_BEFORE_CPS_REVIEW",
+        "STALKING_CLINIC_CPS_ATTENDANCE_DISPUTE"
+      ],
+      "actions_suggested": [
+        "Request CPS attendance log and action notes from 29 Apr 2025 Stalking Clinic"
+      ],
+      "risk": []
+    },
+    {
+      "index": 135,
+      "timestamp": "15:23.6",
+      "speaker": "Ben Carter",
+      "text": "For my victim's right to review. Because, my, PC Dixon, PC Dixon emailed my abuser no further action two days before this meeting.",
+      "themes": [
+        "review-rights"
+      ],
+      "legal": [
+        "VRR Scheme"
+      ],
+      "emotions": [],
+      "contradictions": [
+        "VRR_OBSTRUCTED"
+      ],
+      "actions_suggested": [
+        "Formally request VRR reopening with dates and grounds"
+      ],
+      "risk": []
+    },
+    {
+      "index": 136,
+      "timestamp": "15:39.4",
+      "speaker": "101 call handler",
+      "text": "Right.",
+      "themes": [
+        "general"
+      ],
+      "legal": [],
+      "emotions": [],
+      "contradictions": [],
+      "actions_suggested": [],
+      "risk": []
+    },
+    {
+      "index": 137,
+      "timestamp": "15:40.5",
+      "speaker": "Ben Carter",
+      "text": "So. So I. I just wanted to check that, like, Sussex police were doing everything, you know, like, legally.",
+      "themes": [
+        "general"
+      ],
+      "legal": [],
+      "emotions": [],
+      "contradictions": [],
+      "actions_suggested": [],
+      "risk": []
+    },
+    {
+      "index": 138,
+      "timestamp": "15:53.3",
+      "speaker": "101 call handler",
+      "text": "Yep. I mean, I can, as I said, pass this over to the officer and get them to give you a call. Then they can kind of break it down exactly what's been going on and what actions they've taken, etc.",
+      "themes": [
+        "contact-routing",
+        "safeguarding"
+      ],
+      "legal": [],
+      "emotions": [],
+      "contradictions": [
+        "OFFICER_ASSIGNMENT_OPACITY"
+      ],
+      "actions_suggested": [
+        "Request written confirmation of officer assignment and contact channel"
+      ],
+      "risk": []
+    },
+    {
+      "index": 139,
+      "timestamp": "16:05.0",
+      "speaker": "Ben Carter",
+      "text": "Yeah, yeah, yeah. Okay. Would you like my phone number?",
+      "themes": [
+        "general"
+      ],
+      "legal": [],
+      "emotions": [],
+      "contradictions": [],
+      "actions_suggested": [],
+      "risk": []
+    },
+    {
+      "index": 140,
+      "timestamp": "16:10.0",
+      "speaker": "101 call handler",
+      "text": "Is it the one you're calling from?",
+      "themes": [
+        "general"
+      ],
+      "legal": [],
+      "emotions": [],
+      "contradictions": [],
+      "actions_suggested": [],
+      "risk": []
+    },
+    {
+      "index": 141,
+      "timestamp": "16:11.6",
+      "speaker": "Ben Carter",
+      "text": "Yeah, yeah, I've got it here. Yeah, I've got an updated email as well.",
+      "themes": [
+        "general"
+      ],
+      "legal": [],
+      "emotions": [],
+      "contradictions": [],
+      "actions_suggested": [],
+      "risk": []
+    },
+    {
+      "index": 142,
+      "timestamp": "16:19.5",
+      "speaker": "101 call handler",
+      "text": "Okay. What would you prefer?",
+      "themes": [
+        "general"
+      ],
+      "legal": [],
+      "emotions": [],
+      "contradictions": [],
+      "actions_suggested": [],
+      "risk": []
+    },
+    {
+      "index": 143,
+      "timestamp": "16:22.8",
+      "speaker": "Ben Carter",
+      "text": "So it's. No.",
+      "themes": [
+        "general"
+      ],
+      "legal": [],
+      "emotions": [],
+      "contradictions": [],
+      "actions_suggested": [],
+      "risk": []
+    },
+    {
+      "index": 144,
+      "timestamp": "16:26.4",
+      "speaker": "101 call handler",
+      "text": "Oh, sorry. Do you want us to email you or call you?",
+      "themes": [
+        "general"
+      ],
+      "legal": [],
+      "emotions": [],
+      "contradictions": [],
+      "actions_suggested": [],
+      "risk": []
+    },
+    {
+      "index": 145,
+      "timestamp": "16:31.3",
+      "speaker": "Ben Carter",
+      "text": "Just for your records, really.",
+      "themes": [
+        "general"
+      ],
+      "legal": [],
+      "emotions": [],
+      "contradictions": [],
+      "actions_suggested": [],
+      "risk": []
+    },
+    {
+      "index": 146,
+      "timestamp": "16:34.3",
+      "speaker": "101 call handler",
+      "text": "Okay, go ahead. What is it?",
+      "themes": [
+        "general"
+      ],
+      "legal": [],
+      "emotions": [],
+      "contradictions": [],
+      "actions_suggested": [],
+      "risk": []
+    },
+    {
+      "index": 147,
+      "timestamp": "16:37.7",
+      "speaker": "Ben Carter",
+      "text": "No.",
+      "themes": [
+        "general"
+      ],
+      "legal": [],
+      "emotions": [],
+      "contradictions": [],
+      "actions_suggested": [],
+      "risk": []
+    },
+    {
+      "index": 148,
+      "timestamp": "16:39.3",
+      "speaker": "101 call handler",
+      "text": "So, mother. Oscar.",
+      "themes": [
+        "general"
+      ],
+      "legal": [],
+      "emotions": [],
+      "contradictions": [],
+      "actions_suggested": [],
+      "risk": []
+    },
+    {
+      "index": 149,
+      "timestamp": "16:42.0",
+      "speaker": "Ben Carter",
+      "text": "Sorry. November. Oscar.",
+      "themes": [
+        "general"
+      ],
+      "legal": [],
+      "emotions": [],
+      "contradictions": [],
+      "actions_suggested": [],
+      "risk": []
+    },
+    {
+      "index": 150,
+      "timestamp": "16:44.5",
+      "speaker": "101 call handler",
+      "text": "Yeah.",
+      "themes": [
+        "general"
+      ],
+      "legal": [],
+      "emotions": [],
+      "contradictions": [],
+      "actions_suggested": [],
+      "risk": []
+    },
+    {
+      "index": 151,
+      "timestamp": "16:45.2",
+      "speaker": "Ben Carter",
+      "text": "Dot.",
+      "themes": [
+        "general"
+      ],
+      "legal": [],
+      "emotions": [],
+      "contradictions": [],
+      "actions_suggested": [],
+      "risk": []
+    },
+    {
+      "index": 152,
+      "timestamp": "16:46.7",
+      "speaker": "101 call handler",
+      "text": "Yeah.",
+      "themes": [
+        "general"
+      ],
+      "legal": [],
+      "emotions": [],
+      "contradictions": [],
+      "actions_suggested": [],
+      "risk": []
+    },
+    {
+      "index": 153,
+      "timestamp": "16:47.3",
+      "speaker": "Ben Carter",
+      "text": "Romeo, Echo, Papa, Lima. Yoghurt@policeplease.com.",
+      "themes": [
+        "general"
+      ],
+      "legal": [],
+      "emotions": [],
+      "contradictions": [],
+      "actions_suggested": [],
+      "risk": []
+    },
+    {
+      "index": 154,
+      "timestamp": "17:06.7",
+      "speaker": "Ben Carter",
+      "text": "policeplease.com.",
+      "themes": [
+        "general"
+      ],
+      "legal": [],
+      "emotions": [],
+      "contradictions": [],
+      "actions_suggested": [],
+      "risk": []
+    },
+    {
+      "index": 155,
+      "timestamp": "17:11.5",
+      "speaker": "101 call handler",
+      "text": "Police. Please.",
+      "themes": [
+        "general"
+      ],
+      "legal": [],
+      "emotions": [],
+      "contradictions": [],
+      "actions_suggested": [],
+      "risk": []
+    },
+    {
+      "index": 156,
+      "timestamp": "17:13.3",
+      "speaker": "Ben Carter",
+      "text": "Police. Please.",
+      "themes": [
+        "general"
+      ],
+      "legal": [],
+      "emotions": [],
+      "contradictions": [],
+      "actions_suggested": [],
+      "risk": []
+    },
+    {
+      "index": 157,
+      "timestamp": "17:15.5",
+      "speaker": "101 call handler",
+      "text": "Can you spell it?",
+      "themes": [
+        "general"
+      ],
+      "legal": [],
+      "emotions": [],
+      "contradictions": [],
+      "actions_suggested": [],
+      "risk": []
+    },
+    {
+      "index": 158,
+      "timestamp": "17:17.7",
+      "speaker": "Ben Carter",
+      "text": "P. O. Sorry. Papa, Oscar. Lima. Igloo.",
+      "themes": [
+        "general"
+      ],
+      "legal": [],
+      "emotions": [],
+      "contradictions": [],
+      "actions_suggested": [],
+      "risk": []
+    },
+    {
+      "index": 159,
+      "timestamp": "17:33.1",
+      "speaker": "Ben Carter",
+      "text": "Crayon. Echo, Puppa.",
+      "themes": [
+        "general"
+      ],
+      "legal": [],
+      "emotions": [],
+      "contradictions": [],
+      "actions_suggested": [],
+      "risk": []
+    },
+    {
+      "index": 160,
+      "timestamp": "17:43.1",
+      "speaker": "Ben Carter",
+      "text": "Police. Like. Like, please. Like Sussex please. And then like, please.",
+      "themes": [
+        "general"
+      ],
+      "legal": [],
+      "emotions": [],
+      "contradictions": [],
+      "actions_suggested": [],
+      "risk": []
+    },
+    {
+      "index": 161,
+      "timestamp": "17:51.5",
+      "speaker": "101 call handler",
+      "text": "What was the second word? Please.",
+      "themes": [
+        "general"
+      ],
+      "legal": [],
+      "emotions": [],
+      "contradictions": [],
+      "actions_suggested": [],
+      "risk": []
+    },
+    {
+      "index": 162,
+      "timestamp": "17:55.0",
+      "speaker": "Ben Carter",
+      "text": "Please. Like, please and thank you.",
+      "themes": [
+        "general"
+      ],
+      "legal": [],
+      "emotions": [],
+      "contradictions": [],
+      "actions_suggested": [],
+      "risk": []
+    },
+    {
+      "index": 163,
+      "timestamp": "17:58.3",
+      "speaker": "101 call handler",
+      "text": "Please. Please. That's your email address?",
+      "themes": [
+        "general"
+      ],
+      "legal": [],
+      "emotions": [],
+      "contradictions": [],
+      "actions_suggested": [],
+      "risk": []
+    },
+    {
+      "index": 164,
+      "timestamp": "18:01.9",
+      "speaker": "Ben Carter",
+      "text": "Yeah. Yeah, yeah, yeah.",
+      "themes": [
+        "general"
+      ],
+      "legal": [],
+      "emotions": [],
+      "contradictions": [],
+      "actions_suggested": [],
+      "risk": []
+    },
+    {
+      "index": 165,
+      "timestamp": "18:05.7",
+      "speaker": "101 call handler",
+      "text": "Okay.",
+      "themes": [
+        "general"
+      ],
+      "legal": [],
+      "emotions": [],
+      "contradictions": [],
+      "actions_suggested": [],
+      "risk": []
+    },
+    {
+      "index": 166,
+      "timestamp": "18:06.8",
+      "speaker": "Ben Carter",
+      "text": "Dot. Com.",
+      "themes": [
+        "general"
+      ],
+      "legal": [],
+      "emotions": [],
+      "contradictions": [],
+      "actions_suggested": [],
+      "risk": []
+    },
+    {
+      "index": 167,
+      "timestamp": "18:11.7",
+      "speaker": "Ben Carter",
+      "text": "I've already had an email from Sussex Police saying that I can have a, I can have a virtual meeting, to log my new complaint. This was on the 22nd?",
+      "themes": [
+        "general"
+      ],
+      "legal": [],
+      "emotions": [],
+      "contradictions": [],
+      "actions_suggested": [],
+      "risk": []
+    },
+    {
+      "index": 168,
+      "timestamp": "18:29.6",
+      "speaker": "Ben Carter",
+      "text": "Yeah, this was on the 22nd. And they emailed that from no Reply at Sussex Place. So. So, yeah, the fact it says no reply is kind of just satire, really.",
+      "themes": [
+        "communications",
+        "satire/branding"
+      ],
+      "legal": [],
+      "emotions": [],
+      "contradictions": [
+        "DEATH_BY_SILENCE"
+      ],
+      "actions_suggested": [],
+      "risk": []
+    },
+    {
+      "index": 169,
+      "timestamp": "18:46.0",
+      "speaker": "Ben Carter",
+      "text": "You can reply.",
+      "themes": [
+        "general"
+      ],
+      "legal": [],
+      "emotions": [],
+      "contradictions": [],
+      "actions_suggested": [],
+      "risk": []
+    },
+    {
+      "index": 170,
+      "timestamp": "18:48.6",
+      "speaker": "101 call handler",
+      "text": "Okay. Yeah. I mean, that's up to you if you want to have that email address, but, I. Yeah, I'll contact the officer and let them know that you're, like, keen to speak to them.",
+      "themes": [
+        "contact-routing",
+        "safeguarding"
+      ],
+      "legal": [],
+      "emotions": [],
+      "contradictions": [
+        "OFFICER_ASSIGNMENT_OPACITY"
+      ],
+      "actions_suggested": [
+        "Request written confirmation of officer assignment and contact channel"
+      ],
+      "risk": []
+    }
+  ],
+  "actions_required": [
+    "Write to Investigations to confirm PC Gasson assignment, contact details, and next steps.",
+    "Request CPS confirmation: attendance list and minute trail for 29 Apr 2025 Stalking Clinic.",
+    "Submit 22–23 June rape-allegation call audio + timeline to both CRNs with explicit linkage.",
+    "Issue formal VRR reopening request with chronology of NFA-before-CPS evidence.",
+    "SAR: reiterate and escalate non-disclosure items tied to this call."
+  ]
+}

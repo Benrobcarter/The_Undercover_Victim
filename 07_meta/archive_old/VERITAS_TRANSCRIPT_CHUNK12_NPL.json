@@ -1,0 +1,80 @@
+{
+  "chunk": 12,
+  "time_range": "11:30-12:30",
+  "quotes": [
+    {
+      "speaker": "Ben Carter",
+      "time": "11:30",
+      "quote": "If I didn’t keep on at you, none of this would even be chased.",
+      "tags": [
+        "victim_experience",
+        "advocacy_gap",
+        "accountability"
+      ]
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "11:36",
+      "quote": "I would still be chasing, Ben, but I understand it feels like that.",
+      "tags": [
+        "defensive",
+        "advocacy",
+        "acknowledgement"
+      ]
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "11:41",
+      "quote": "Feels like it? It is that. I’m doing the work you should be doing.",
+      "tags": [
+        "victim_assertion",
+        "advocacy_failure"
+      ]
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "11:47",
+      "quote": "I am doing the work, but I know you don’t see the results yet.",
+      "tags": [
+        "advocacy",
+        "delay",
+        "systemic_issue"
+      ]
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "11:52",
+      "quote": "Results matter when it’s my safety at risk.",
+      "tags": [
+        "safeguarding",
+        "victim_experience",
+        "risk"
+      ]
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "11:56",
+      "quote": "I do understand that, and I’ll keep pressing.",
+      "tags": [
+        "acknowledgement",
+        "advocacy"
+      ]
+    }
+  ],
+  "contradictions": [
+    {
+      "issue": "Victim asserts advocate not doing their role; advocate insists she is but results absent",
+      "type": "advocacy_gap"
+    }
+  ],
+  "timeline_hooks": [
+    {
+      "ref": "victim doing advocate’s work",
+      "link": "Evidence of advocacy role failure"
+    },
+    {
+      "ref": "results absent despite assurances",
+      "link": "Systemic delay May 2025"
+    }
+  ]
+}

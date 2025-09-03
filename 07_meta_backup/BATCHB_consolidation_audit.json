@@ -1,0 +1,16 @@
+{
+  "generated_at": "2025-08-25T21:01:10.308217Z",
+  "sanity": {
+    "expected_items": 5,
+    "json_present_count": 2,
+    "missing_json_files": [
+      "2025-03-18_Digital-Policing_to_Ben_Jonathan-Dixon-Request_Email-8.json",
+      "2025-04-07_Digital-Policing_to_Ben_Jonathan-Dixon-Request_Email-9.json",
+      "2025-04-07_Digital-Policing_to_Ben_Jonathan-Dixon-Request_Email-10.json"
+    ]
+  },
+  "notes": [
+    "Batch B currently contains Email-7 and THREAD in the bundle; Email-8/9/10 JSONs are pending upload.",
+    "PDF targets are excluded by design."
+  ]
+}

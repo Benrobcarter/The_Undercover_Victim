@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "title": "Cherish These Moments, Ben \u2014 101 Call Pairing",
+    "date_created": "2025-06-22",
+    "vex_id": "VEX_2025-06-22_Cherish_Bundle",
+    "related_calls": [
+      "101_2025-06-22_0037_MONOLOGUE.wav"
+    ],
+    "linked_interlude": "Cherish These Moments, Ben",
+    "status": "paired_bundle",
+    "bundle_type": "interlude_call_pairing",
+    "generated_utc": "2025-08-26T19:45:00Z"
+  },
+  "quotes": [
+    {
+      "quote": "And when the sun goes\nover the same skyline \u2014\ndown on the victim,\ndown with the 101 callers,\ndown with the police.\n\nA day of going round in circles.\n\nThis is my life.\nThis is purpose.\nWarped. Surreal. Content.\n\nCherish these moments, Ben.",
+      "source": "SECTION_3_WORKING_DRAFT_v1.1.md",
+      "type": "interlude",
+      "tags": [
+        "DEATH_BY_SILENCE",
+        "LOOPING_RESPONSES",
+        "DISSOCIATION_EFFECT",
+        "RESOLVE_AFTER_ATTEMPT",
+        "INSTITUTIONAL_FAMILIARITY",
+        "SAFEGUARDING_FAILURE"
+      ]
+    }
+  ],
+  "evidence_links": [
+    {
+      "type": "audio",
+      "file": "101_2025-06-22_0037_MONOLOGUE.wav",
+      "summary": "Ben delivers a monologue marking 1 year since his original 101 call ('Police, please'), highlighting the ongoing silence and detachment from Sussex Police."
+    }
+  ],
+  "contradictions": [
+    "DEATH_BY_SILENCE",
+    "NO_CASE_OWNERSHIP",
+    "VOICE_SUPPRESSION",
+    "SAFEGUARDING_DUTY_FAILED"
+  ],
+  "timeline_hooks": [
+    "CrowbarringMyselfJustice",
+    "DeathBySilence",
+    "SussexPolice"
+  ],
+  "emotional_tone": "resigned_clarity"
+}

@@ -1,0 +1,79 @@
+{
+  "chunk": 22,
+  "time_range": "21:30-22:30",
+  "quotes": [
+    {
+      "speaker": "Ben Carter",
+      "time": "21:30",
+      "quote": "It just feels like I’m being set up to fail, no matter what I do.",
+      "tags": [
+        "victim_experience",
+        "hopelessness",
+        "institutional_failure"
+      ]
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "21:36",
+      "quote": "I can see why you’d feel that way, and I don’t want you to feel set up.",
+      "tags": [
+        "acknowledgement",
+        "empathy"
+      ]
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "21:41",
+      "quote": "But it’s the reality. The more I give them, the more they lose or deny.",
+      "tags": [
+        "victim_assertion",
+        "evidence_loss",
+        "contradiction"
+      ]
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "21:46",
+      "quote": "I know, and that’s why I keep challenging them to account for it.",
+      "tags": [
+        "advocacy",
+        "acknowledgement",
+        "accountability"
+      ]
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "21:51",
+      "quote": "Yet nothing changes.",
+      "tags": [
+        "victim_experience",
+        "systemic_failure"
+      ]
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "21:53",
+      "quote": "It’s very frustrating, I agree.",
+      "tags": [
+        "acknowledgement",
+        "agreement"
+      ]
+    }
+  ],
+  "contradictions": [
+    {
+      "issue": "Victim describes systemic setup to fail vs. advocate concedes frustration but offers no resolution",
+      "type": "institutional_failure_pattern"
+    }
+  ],
+  "timeline_hooks": [
+    {
+      "ref": "set up to fail",
+      "link": "Perceived institutional sabotage May 2025"
+    },
+    {
+      "ref": "evidence lost or denied",
+      "link": "Evidence handling contradiction"
+    }
+  ]
+}

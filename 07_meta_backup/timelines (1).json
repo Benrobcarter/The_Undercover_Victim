@@ -1,0 +1,214 @@
+{
+  "items": [
+    {
+      "meta": {
+        "path": "/mnt/data/PROJECT_FILE_SYNCED_2025-08-26_v5/03_analysis/timelines/MASTER_TIMELINE_v2_2025-08-25_v2-4.csv",
+        "name": "MASTER_TIMELINE_v2_2025-08-25_v2-4.csv",
+        "size": 20567,
+        "sha256": "e17028ab3240e11d9d782443443d7e5f1dc373e26e5d65354e686987673eaa20",
+        "suffix": ".csv"
+      },
+      "type": "csv",
+      "content": "Date,Time,Event,Details,Source,Assumed?,Participants,Referenced parties,Crime refs,Date (guessed),Needs date,SHA256(full)\n2024-11-02,04:17,Original report date asserted by caller,Cited elsewhere; establishes earlier start than 18 Nov.,VEX_2025-04-17_0432_101_Holiday_Alibi (2).json @ (see A08 corroboration),Yes,Ben Carter; call handler,,,,,\n2025-03-08,14:38,WhatsApp voice call from PC Dixon (5 min),date_src=chat timestamp - WhatsApp system entry,chat:_chat 39.txt,No,Ben Carter; PC Dixon,PC Dixon,,,,\n2025-03-08,16:15,WhatsApp voice call by Ben (no answer),date_src=chat timestamp - WhatsApp system entry,chat:_chat 39.txt,No,Ben Carter; PC Dixon,PC Dixon,,,,\n2025-03-18,09:52,WhatsApp silenced voice call from PC Dixon (Focus mode),date_src=chat timestamp - WhatsApp system entry,chat:_chat 39.txt,No,Ben Carter; PC Dixon,PC Dixon,,,,\n2025-03-18,10:47,WhatsApp voice call by Ben (1 min),date_src=chat timestamp - WhatsApp system entry,chat:_chat 39.txt,No,Ben Carter; PC Dixon,PC Dixon,,,,\n2025-04-06,07:04,Suicide attempt disclosed; no officer contact afterward (per caller & Liz),Liz acknowledges no officer response since 6 Apr.,\"VEX_2025-07-04_St_Johns_Front_Desk_Liz (3).json @ A08-L0019, L0031\",No,Ben Carter; call handler,,,,,\n2025-04-17,04:17,101 call: 'Holiday Alibi' – records inconsistencies & supervisory leave,Reports July 2024 incident linked into November file; all named officers on leave; difficulties obtaining clarity/VRR.,VEX_2025-04-17_0432_101_Holiday_Alibi (2).json @ A06-L0003..L0017,No,Ben Carter; 101 call handler,\"PARTY::BEN_CARTER, PARTY::DIXON, PARTY::DUFFY, PARTY::PALMER\",,,,\n2025-04-22,07:54,WhatsApp thread with PC Dixon (messages),\"range 07:54–08:36 • topics: NICE links, medical letter (GP), CPS, July call relevance, safeguarding dispute\",chat:_chat 39.txt,No,Ben Carter; PC Dixon,CPS; Inspector Palmer; PC Dixon; Sgt Duffy; Veritas Justice,,,,\n2025-07-04,04:07,101 call about PC Gasson (OIC),Transcript file present; contents not yet VEX-graded in this timeline version.,04-07-25  14.05 PC Gassin (1).txt,No,Ben Carter; 101 call handler,,,,,\n2025-07-04,07:04,In-person visit – St John's Street front desk (Liz),ID verified; Liz confirms 4 active crime numbers; improper filing; start date shown as 18 Nov; VRR blocked at desk; no officer contact since 6 Apr.,\"VEX_2025-07-04_St_Johns_Front_Desk_Liz (3).json @ A08-L0010..L0019, L0031..L0037\",No,Ben Carter; Front desk (Liz),,,,,\n2025-07-04,07:04,101 call: crime number confusion; OIC confirmed as PC Gasson,Two crime numbers; Gasson as OIC; logged entry acknowledged 22 Jun; NFA/CPS contradictions.,VEX_2025-07-04_St_Johns_Front_Desk_Liz (3).json @ A08-L0002..L0009,No,Ben Carter; 101 call handler,\"PARTY::BEN_CARTER, PARTY::DIXON, PARTY::DUFFY, PARTY::FRONT_DESK_LIZ, PARTY::GASSON, PARTY::PALMER\",\"47240141246, 47240214305\",,,\n,,CSV: TRACKER_ROWS_DIGITAL_POLICING_2024-11-04_batchA_CONSOLIDATED.csv,DigitalPolicing_Batch_2024-11-04_A/ - date_src=filename - hash64k=0d8cbc63a05ad42f,/mnt/data/PROJECT_FILE_SYNCED_2025-08-25_v4.3_FULL_with_audit.zip:DigitalPolicing_Batch_2024-11-04_A/TRACKER_ROWS_DIGITAL_POLICING_2024-11-04_batchA_CONSOLIDATED.csv,Yes,,,,2024-11-04,Yes,0d8cbc63a05ad42f1f1a328e762b430b3d4b3ad452965cf0c983dee74e139d54\n,,JSON: 2024-11-13_Digital-Policing_to_Ben_Jonathan-Dixon-Request.json,DigitalPolicing_Batch_2024-11-04_A/ - date_src=filename - hash64k=306b9a792a2545f3,/mnt/data/PROJECT_FILE_SYNCED_2025-08-25_v4.3_FULL_with_audit.zip:DigitalPolicing_Batch_2024-11-04_A/2024-11-13_Digital-Policing_to_Ben_Jonathan-Dixon-Request.json,Yes,,,,2024-11-13,Yes,306b9a792a2545f3330e838a40b0e8e713cb700e13585ce5deae4f5c25c87485\n,,JSON: 2024-11-13_Digital-Policing_to_Ben_Jonathan-Dixon-Request-1340.json,DigitalPolicing_Batch_2024-11-04_A/ - date_src=filename - hash64k=a2e2e188b228ad5a,/mnt/data/PROJECT_FILE_SYNCED_2025-08-25_v4.3_FULL_with_audit.zip:DigitalPolicing_Batch_2024-11-04_A/2024-11-13_Digital-Policing_to_Ben_Jonathan-Dixon-Request-1340.json,Yes,,,,2024-11-13,Yes,a2e2e188b228ad5a2a7fd5c8b31bff435a84c761127a4100f3a472ba06d7e7dd\n,,JSON: 2024-11-14_Digital-Policing_to_Ben_Jonathan-Dixon-Request-1158.json,DigitalPolicing_Batch_2024-11-04_A/ - date_src=filename - hash64k=0bc1e12cc43f1e48,/mnt/data/PROJECT_FILE_SYNCED_2025-08-25_v4.3_FULL_with_audit.zip:DigitalPolicing_Batch_2024-11-04_A/2024-11-14_Digital-Policing_to_Ben_Jonathan-Dixon-Request-1158.json,Yes,,,,2024-11-14,Yes,0bc1e12cc43f1e482cb7fac2914ff0362803d6d77cba748902bda223281c9f0b\n,,JSON: 2024-11-14_Digital-Policing_to_Ben_Jonathan-Dixon-Request-1159.json,DigitalPolicing_Batch_2024-11-04_A/ - date_src=filename - hash64k=bf0343ede733229b,/mnt/data/PROJECT_FILE_SYNCED_2025-08-25_v4.3_FULL_with_audit.zip:DigitalPolicing_Batch_2024-11-04_A/2024-11-14_Digital-Policing_to_Ben_Jonathan-Dixon-Request-1159.json,Yes,,,,2024-11-14,Yes,bf0343ede733229b04072b5aa945e35cf0dfb28e6840a2a784d959089add1603\n,,TXT: PROJECT_FILE_SYNCED_2025-08-25_v4.3_tree_with_delta.txt,(zip root) - - date_src=filename - hash64k=580c0c490a1e8035,/mnt/data/PROJECT_FILE_SYNCED_2025-08-25_v4.3_FULL_with_audit.zip:PROJECT_FILE_SYNCED_2025-08-25_v4.3_tree_with_delta.txt,Yes,,,,2025-08-25,Yes,580c0c490a1e80358d2eb077db5deb585c9a748c1f2b19a5eabf2e904ab46580\n2024-11-18,,Start date shown on police system,System shows 18 Nov as start; excludes earlier report.,VEX_2025-04-17_0432_101_Holiday_Alibi (2).json @ A06-L0008,Yes,,,,,,\n2024-11-18,,Start date on system (contested),\"Liz/system show 18 Nov as start, excluding 2 Nov.\",VEX_2025-07-04_St_Johns_Front_Desk_Liz (3).json @ A08-L0035,No,,,,,,\n,,TXT: README_NICE_LINK_B_2024-12-13.txt,(zip root) - - date_src=filename - hash64k=735b773ce866e909,/mnt/data/PROJECT_FILE_SYNCED_2025-08-25_v4.3_FULL_with_audit.zip:README_NICE_LINK_B_2024-12-13.txt,Yes,,,,2024-12-13,Yes,735b773ce866e9092bc612b7bda9792a217b9f08838382c3783707d8f104da04\n,,JSON: CROSSWALK_DIGPOL_2024-12-13_batchB.json,(zip root) - - date_src=filename - hash64k=e6831c6de28de330,/mnt/data/PROJECT_FILE_SYNCED_2025-08-25_v4.3_FULL_with_audit.zip:CROSSWALK_DIGPOL_2024-12-13_batchB.json,Yes,,,,2024-12-13,Yes,e6831c6de28de3301e6945196b56a7f87b22d2a7ab01f4f1e2444d7e8b9eade4\n,,JSON: 2024-12-13_Digital-Policing_to_Ben_Jonathan-Dixon-Request_Email-7.json,DigitalPolicing_Batch_2024-12-13/ - date_src=filename - hash64k=2c0683dc93b5a876,/mnt/data/PROJECT_FILE_SYNCED_2025-08-25_v4.3_FULL_with_audit.zip:DigitalPolicing_Batch_2024-12-13/2024-12-13_Digital-Policing_to_Ben_Jonathan-Dixon-Request_Email-7.json,Yes,,,,2024-12-13,Yes,2c0683dc93b5a876d1c4a0f97fb806d7e8f6c68daf1845c530bece7c053f1480\n,,JSON: PROJECT_FILE_SYNCED_2025-08-25_v4.3_FULL_audit_bundle.json,(zip root) - - date_src=filename - hash64k=2853937410cb6a95,/mnt/data/PROJECT_FILE_SYNCED_2025-08-25_v4.3_FULL_with_audit.zip:PROJECT_FILE_SYNCED_2025-08-25_v4.3_FULL_audit_bundle.json,Yes,,,,2025-08-25,Yes,2853937410cb6a95a4d572fbe929b56bcb6d99843ade6fe7a28d6dd5494efde9\n,,CSV: PROJECT_FILE_SYNCED_2025-08-25_v4.3_manifest.csv,(zip root) - - date_src=filename - hash64k=bdf8e77cbaa1cd53,/mnt/data/PROJECT_FILE_SYNCED_2025-08-25_v4.3_FULL_with_audit.zip:PROJECT_FILE_SYNCED_2025-08-25_v4.3_manifest.csv,Yes,,,,2025-08-25,Yes,bdf8e77cbaa1cd53ebee5d47fe3c6d89bc23235c2c83bfb98f07b125e84d3ead\n,,TXT: PROJECT_FILE_SYNCED_2025-08-25_v4.3_tree.txt,(zip root) - - date_src=filename - hash64k=a0ca9a33d6d629eb,/mnt/data/PROJECT_FILE_SYNCED_2025-08-25_v4.3_FULL_with_audit.zip:PROJECT_FILE_SYNCED_2025-08-25_v4.3_tree.txt,Yes,,,,2025-08-25,Yes,a0ca9a33d6d629eb086b39a6895eef76e27ddb843c804f6050dd999336e4fcc7\n,,JSON: CRN-47240214305_DigitalPolicing_to_Ben_2025-04-07_THREAD.json,(zip root) - - date_src=filename - hash64k=1b20beb7fbd23542,/mnt/data/PROJECT_FILE_SYNCED_2025-08-25_v4.3_FULL_with_audit.zip:CRN-47240214305_DigitalPolicing_to_Ben_2025-04-07_THREAD.json,Yes,,,,2025-04-07,Yes,1b20beb7fbd235420ce260b076e866ad5fed7e0c29cd33848f30323262100f94\n,,JSON: CROSSWALK_DIGPOL_2024-11-04_batchA.json,DigitalPolicing_Batch_2024-11-04_A/ - date_src=filename - hash64k=fd0f18553221fc04,/mnt/data/PROJECT_FILE_SYNCED_2025-08-25_v4.3_FULL_with_audit.zip:DigitalPolicing_Batch_2024-11-04_A/CROSSWALK_DIGPOL_2024-11-04_batchA.json,Yes,,,,2024-11-04,Yes,fd0f18553221fc048309ec21d0765decbfc837349f395e4516b9829ccb94a823\n2025-04-23,,Next available supervisory contact (per handler),No alternative point of contact before Tue 23 Apr.,VEX_2025-04-17_0432_101_Holiday_Alibi (2).json @ A06-L0011,Yes,,,,,,\n2025-04-29,,\"Multi-agency Stalking Clinic w/ CPS (per Veritas, referenced)\",Raised contradiction vs 'CPS only involved after case built' statement.,VEX_2025-07-04_St_Johns_Front_Desk_Liz (3).json @ A08-L0009,Yes,,,,,,\n,,JSON: MASTER_CONTRADICTIONS_INJECTED_2025-06-05.json,(zip root) - - date_src=filename - hash64k=262f21baff1bda05,/mnt/data/PROJECT_FILE_SYNCED_2025-08-25_v4.3_FULL_with_audit.zip:MASTER_CONTRADICTIONS_INJECTED_2025-06-05.json,Yes,,,,2025-06-05,Yes,262f21baff1bda05828bac2fca234b0fd56fad6dd9d8ac2d27ff61ecd0beb44a\n2025-06-22,,Threat/rape accusation logged (no update provided),Police admit report logged; refused update; breach of information rights alleged.,\"VEX_2025-07-04_St_Johns_Front_Desk_Liz (3).json @ A08-L0008, L0027\",No,,,,,,\n,,JSON: PROJECT_FILE_SYNCED_2025-08-24_manifest.json,(zip root) - - date_src=filename - hash64k=fa92c72b57e5a0a1,/mnt/data/PROJECT_FILE_SYNCED_2025-08-25_v4.3_FULL_with_audit.zip:PROJECT_FILE_SYNCED_2025-08-24_manifest.json,Yes,,,,2025-08-24,Yes,fa92c72b57e5a0a1a4d3cc1531c4d482cb7755a30be07b7dabfb8a2b7abde5da\n,,JSON: PROJECT_FILE_SYNCED_2025-08-25_v4_FULL_audit_bundle.json,(zip root) - - date_src=filename - hash64k=47acbd40c78b9d4c,/mnt/data/PROJECT_FILE_SYNCED_2025-08-25_v4.3_FULL_with_audit.zip:PROJECT_FILE_SYNCED_2025-08-25_v4_FULL_audit_bundle.json,Yes,,,,2025-08-25,Yes,47acbd40c78b9d4c9b9fe0573741d0052ff9af9204a82283e7517d7d1802ec78\n,,CSV: TRACKER_ROW_2024-12-13_Digital-Policing_to_Ben_Jonathan-Dixon-Request_Email-7.csv,DigitalPolicing_Batch_2024-12-13/ - date_src=filename - hash64k=ae0dc7a35d01f8df,/mnt/data/PROJECT_FILE_SYNCED_2025-08-25_v4.3_FULL_with_audit.zip:DigitalPolicing_Batch_2024-12-13/TRACKER_ROW_2024-12-13_Digital-Policing_to_Ben_Jonathan-Dixon-Request_Email-7.csv,Yes,,,,2024-12-13,Yes,ae0dc7a35d01f8df466eceaa3e93d870fcb14bef998b5a30959bb43c61a1ae2f\n,,JSON: CROSSWALK_DIGPOL_2024-12-13_Email-7.json,DigitalPolicing_Batch_2024-12-13/ - date_src=filename - hash64k=8221f72f99466c6f,/mnt/data/PROJECT_FILE_SYNCED_2025-08-25_v4.3_FULL_with_audit.zip:DigitalPolicing_Batch_2024-12-13/CROSSWALK_DIGPOL_2024-12-13_Email-7.json,Yes,,,,2024-12-13,Yes,8221f72f99466c6fa8f2694de262cfdfc8d3bdb6fb3b1406fc55ee519e63beba\n,,JSON: LIVE_VEX_TIMELINE_PATCHED_PEARSON_HANDOFF.json,(zip root) - - date_src=none - hash64k=8025baeb417cb1fb,/mnt/data/PROJECT_FILE_SYNCED_2025-08-25_v4.3_FULL_with_audit.zip:LIVE_VEX_TIMELINE_PATCHED_PEARSON_HANDOFF.json,Yes,,,,,Yes,8025baeb417cb1fb7e0f13bdf04e4d90d798dde8b8931cb0360d8981b7c9b74d\n,,JSON: 2024-11-04_Digital-Policing_to_Ben_Evidence-Portal-Request.json,DigitalPolicing_Batch_2024-11-04_A/ - date_src=filename - hash64k=90871e841cd9071f,/mnt/data/PROJECT_FILE_SYNCED_2025-08-25_v4.3_FULL_with_audit.zip:DigitalPolicing_Batch_2024-11-04_A/2024-11-04_Digital-Policing_to_Ben_Evidence-Portal-Request.json,Yes,,,,2024-11-04,Yes,90871e841cd9071f440d5aabb74831804bb9c99af2b1cdd0a38898fc1c397c98\n,,CSV: NICE_Timeline_PEARSON_HANDOFF_PATCH.csv,(zip root) - - date_src=none - hash64k=4600a3e95017a899,/mnt/data/PROJECT_FILE_SYNCED_2025-08-25_v4.3_FULL_with_audit.zip:NICE_Timeline_PEARSON_HANDOFF_PATCH.csv,Yes,,,,,Yes,4600a3e95017a89986ae33964a1eeadade42a3b44b2d0a87803f8ee64ac830c4\n,,JSON: NICE_Timeline_PEARSON_HANDOFF_PATCH.json,(zip root) - - date_src=none - hash64k=c928242c06d24379,/mnt/data/PROJECT_FILE_SYNCED_2025-08-25_v4.3_FULL_with_audit.zip:NICE_Timeline_PEARSON_HANDOFF_PATCH.json,Yes,,,,,Yes,c928242c06d24379e40ef4303d3ca0e6fed00d6f726af6b8158848e5d0b106a5\n,,JSON: EX_VERITAS_CHAT_CONTRADICTION_2025.json,(zip root) - - date_src=none - hash64k=456311dec4626dac,/mnt/data/PROJECT_FILE_SYNCED_2025-08-25_v4.3_FULL_with_audit.zip:EX_VERITAS_CHAT_CONTRADICTION_2025.json,Yes,,,,,Yes,456311dec4626dac761922fd726197b27f38def330ff62c44e2e5f81a3113f35\n,,JSON: CONTRADICTION_MATRIX_PHHC_BATCH_01.json,(zip root) - - date_src=none - hash64k=9766ea98e27df67a,/mnt/data/PROJECT_FILE_SYNCED_2025-08-25_v4.3_FULL_with_audit.zip:CONTRADICTION_MATRIX_PHHC_BATCH_01.json,Yes,,,,,Yes,9766ea98e27df67a54ed2f6f909bfe43007a6137414baa41068ef2d632880326\n,,JSON: PHHC_EMAILS_COMBINED_FULL.json,(zip root) - - date_src=none - hash64k=de8c96f9747337b7,/mnt/data/PROJECT_FILE_SYNCED_2025-08-25_v4.3_FULL_with_audit.zip:PHHC_EMAILS_COMBINED_FULL.json,Yes,,,,,Yes,de8c96f9747337b7c6cfb95eb26a4cf53e736ae420bc9c036f04a839e4e4a909\n,,JSON: PHHC_VEX_TAGGED_EMAIL_TIMELINE_FULL.json,(zip root) - - date_src=none - hash64k=d6774555d2c26f2d,/mnt/data/PROJECT_FILE_SYNCED_2025-08-25_v4.3_FULL_with_audit.zip:PHHC_VEX_TAGGED_EMAIL_TIMELINE_FULL.json,Yes,,,,,Yes,c8639523b58685599d6f4dfe2347ebbb1e73a05b65a77b9e38cc88bf9dcd75df\n,,JSON: UNIVERSAL_VEX_ENFORCEMENT_DIRECTIVE.json,(zip root) - - date_src=none - hash64k=c8866edab4bd10c8,/mnt/data/PROJECT_FILE_SYNCED_2025-08-25_v4.3_FULL_with_audit.zip:UNIVERSAL_VEX_ENFORCEMENT_DIRECTIVE.json,Yes,,,,,Yes,c8866edab4bd10c8583010abf584f27bb228d457c73b7dae7cfd16cbea24c146\n,,TXT: EXHIBIT_PIPELINE_README.txt,(zip root) - - date_src=none - hash64k=5a9c74df389c15ff,/mnt/data/PROJECT_FILE_SYNCED_2025-08-25_v4.3_FULL_with_audit.zip:EXHIBIT_PIPELINE_README.txt,Yes,,,,,Yes,5a9c74df389c15ffe06cc61230528cdf34ff347505a58b23b544c0f339858385\n,,TXT: EXHIBIT_PIPELINE_README_v1.2.txt,(zip root) - - date_src=none - hash64k=ee5ae4c1cb17b7f2,/mnt/data/PROJECT_FILE_SYNCED_2025-08-25_v4.3_FULL_with_audit.zip:EXHIBIT_PIPELINE_README_v1.2.txt,Yes,,,,,Yes,ee5ae4c1cb17b7f2e85d78991bbbca5ad53c89cef6395413766f85151593d51b\n,,JSON: EMAIL_EXHIBIT_TEMPLATE_v1.2.json,(zip root) - - date_src=none - hash64k=b220ce16326e67c4,/mnt/data/PROJECT_FILE_SYNCED_2025-08-25_v4.3_FULL_with_audit.zip:EMAIL_EXHIBIT_TEMPLATE_v1.2.json,Yes,,,,,Yes,b220ce16326e67c4db206d60929ac923a7afde9a84b10dba0e8bfeede4b3647c\n,,JSON: EMAIL_EXHIBIT_TEMPLATE_v1.1.json,(zip root) - - date_src=none - hash64k=c0e05632210c2b09,/mnt/data/PROJECT_FILE_SYNCED_2025-08-25_v4.3_FULL_with_audit.zip:EMAIL_EXHIBIT_TEMPLATE_v1.1.json,Yes,,,,,Yes,c0e05632210c2b09a71cb2dc67c30a7de56c7fc331b26d0a6f3c797a7cf0a465\n,,JSON: unified_audit_report.json,(zip root) - - date_src=none - hash64k=2bf5ec181b1db979,/mnt/data/PROJECT_FILE_SYNCED_2025-08-25_v4.3_FULL_with_audit.zip:unified_audit_report.json,Yes,,,,,Yes,2bf5ec181b1db9793c2308e88af902878d0aa1b44b2a5ff9f9113ec22f057b5e\n,,JSON: manifest.json,(zip root) - - date_src=none - hash64k=29400b7b6ff34c46,/mnt/data/PROJECT_FILE_SYNCED_2025-08-25_v4.3_FULL_with_audit.zip:manifest.json,Yes,,,,,Yes,29400b7b6ff34c466733cc26f2ca505e295b9c09629126d815254c40c79b848f\n,,JSON: DUNCAN_ATTEMPTED_MURDER_CONTRADICTION_PATCH.json,(zip root) - - date_src=none - hash64k=48deda52bc26dd2c,/mnt/data/PROJECT_FILE_SYNCED_2025-08-25_v4.3_FULL_with_audit.zip:DUNCAN_ATTEMPTED_MURDER_CONTRADICTION_PATCH.json,Yes,,,,,Yes,48deda52bc26dd2c14015f4faa713ec9ec7cc7f83075c9fff0e135e61440cb1b\n,,JSON: 2024-11-04_Digital-Policing_to_Ben_Jonathan-Dixon-Request.json,DigitalPolicing_Batch_2024-11-04_A/ - date_src=filename - hash64k=85eff8d9702cc1bd,/mnt/data/PROJECT_FILE_SYNCED_2025-08-25_v4.3_FULL_with_audit.zip:DigitalPolicing_Batch_2024-11-04_A/2024-11-04_Digital-Policing_to_Ben_Jonathan-Dixon-Request.json,Yes,,,,2024-11-04,Yes,85eff8d9702cc1bd35bca6ebaa3ff9fe18ce33311c3c8cbc17b6775c2fd0efc8\n,,JSON: PUBLIC_BUNDLE_SUMMARY_SAR_SUSSEX_POLICE.json,(zip root) - - date_src=none - hash64k=6800c8eea045fc1e,/mnt/data/PROJECT_FILE_SYNCED_2025-08-25_v4.3_FULL_with_audit.zip:PUBLIC_BUNDLE_SUMMARY_SAR_SUSSEX_POLICE.json,Yes,,,,,Yes,6800c8eea045fc1e78825f8a7e4d1aa2305356e27d259e681ec4384468d16669\n,,TXT: README_DIGPOL_JSON_7-10.txt,(zip root) - - date_src=none - hash64k=49833824a8f283db,/mnt/data/PROJECT_FILE_SYNCED_2025-08-25_v4.3_FULL_with_audit.zip:README_DIGPOL_JSON_7-10.txt,Yes,,,,,Yes,49833824a8f283dbbd0ee364103c2314c2604fb71fcf562304219e5c81287285\n,,JSON: BATCHA_consolidation_audit.json,(zip root) - - date_src=none - hash64k=7d686a882c2c8c1c,/mnt/data/PROJECT_FILE_SYNCED_2025-08-25_v4.3_FULL_with_audit.zip:BATCHA_consolidation_audit.json,Yes,,,,,Yes,7d686a882c2c8c1c2ad94c88a5ea91cd8d18572432df57f96b85637b7c51a224\n,,JSON: SUSSEX_POLICE_SAFEGUARDING_BREAKDOWN_MAY_2025.json,(zip root) - - date_src=none - hash64k=32ce196aac29e377,/mnt/data/PROJECT_FILE_SYNCED_2025-08-25_v4.3_FULL_with_audit.zip:SUSSEX_POLICE_SAFEGUARDING_BREAKDOWN_MAY_2025.json,Yes,,,,,Yes,32ce196aac29e377e37c8adc141451921f524b6e02fc850a0e35d7eb22b26247\n,,JSON: COMPENSATION_CLAIM_MATRIX_SUSSEX_POLICE.json,(zip root) - - date_src=none - hash64k=f5a023ada27f6758,/mnt/data/PROJECT_FILE_SYNCED_2025-08-25_v4.3_FULL_with_audit.zip:COMPENSATION_CLAIM_MATRIX_SUSSEX_POLICE.json,Yes,,,,,Yes,f5a023ada27f675898520c65a5ee5f8895c94227192d4f3df44eb0c52fb741dc\n,,JSON: BATCHB_consolidation_audit.json,(zip root) - - date_src=none - hash64k=04d53d9c76c4ddf6,/mnt/data/PROJECT_FILE_SYNCED_2025-08-25_v4.3_FULL_with_audit.zip:BATCHB_consolidation_audit.json,Yes,,,,,Yes,04d53d9c76c4ddf6a8969c420d680f6a498705d929623944285ecbdf714edaca\n,,CSV: BATCHA_diff_report.csv,DigitalPolicing_Batch_2024-11-04_A/ - date_src=none - hash64k=26f1cb071ca8b282,/mnt/data/PROJECT_FILE_SYNCED_2025-08-25_v4.3_FULL_with_audit.zip:DigitalPolicing_Batch_2024-11-04_A/BATCHA_diff_report.csv,Yes,,,,,Yes,26f1cb071ca8b2824032632c7b404ff44126bb2cabc8aea3f5c1d05bccc2bd23\n,,JSON: BATCHA_consolidation_audit.json,DigitalPolicing_Batch_2024-11-04_A/ - date_src=none - hash64k=7d686a882c2c8c1c,/mnt/data/PROJECT_FILE_SYNCED_2025-08-25_v4.3_FULL_with_audit.zip:DigitalPolicing_Batch_2024-11-04_A/BATCHA_consolidation_audit.json,Yes,,,,,Yes,7d686a882c2c8c1c2ad94c88a5ea91cd8d18572432df57f96b85637b7c51a224\n,,JSON: v4_compat_config.json,08_supporting/scripts_v4/ - date_src=none - hash64k=98708cabb3808d96,/mnt/data/PROJECT_FILE_SYNCED_2025-08-25_v4.3_FULL_with_audit.zip:08_supporting/scripts_v4/v4_compat_config.json,Yes,,,,,Yes,98708cabb3808d96efedf33152e53dc70bdc1a947033e661625c3de175a8aeb2\n,,JSON: project_oversight_summary_v4.json,04_manifest/oversight/ - date_src=none - hash64k=336a70d59228d649,/mnt/data/PROJECT_FILE_SYNCED_2025-08-25_v4.3_FULL_with_audit.zip:04_manifest/oversight/project_oversight_summary_v4.json,Yes,,,,,Yes,336a70d59228d6492a0086b56eaf0f75c30c1705d940f30c412ab5773445845f\n2024-07-??,04:17,\"Initial incident reported (per caller, later merged)\",Operator eventually concedes July report is 'the same' as November file.,VEX_2025-04-17_0432_101_Holiday_Alibi (2).json @ A06-L0007..L0008,Yes,Ben Carter; call handler,,,,,\n2024-11-02,,Original report ('X Won’t Leave Me Alone' – NICE link),\"Caller asserts first report was 2 Nov, not 18 Nov.\",\"VEX_2025-07-04_St_Johns_Front_Desk_Liz (3).json @ A08-L0017, L0035\",No,,,,,,\n,,CSV: NICE_LINKS_INTAKE_ADD_2024-11-04-0536.csv,(zip root) - - date_src=filename - hash64k=6b50348b9c517131,/mnt/data/PROJECT_FILE_SYNCED_2025-08-25_v4.3_FULL_with_audit.zip:NICE_LINKS_INTAKE_ADD_2024-11-04-0536.csv,Yes,,,,2024-11-04,Yes,6b50348b9c5171312ab2f040d3debf3c959290fc103fe8bf09ac155069f67fdf\n,,CSV: TRACKER_ROW_2024-11-04-0536_Digital-Policing_to_Ben.csv,(zip root) - - date_src=filename - hash64k=91f0ab263283056a,/mnt/data/PROJECT_FILE_SYNCED_2025-08-25_v4.3_FULL_with_audit.zip:TRACKER_ROW_2024-11-04-0536_Digital-Policing_to_Ben.csv,Yes,,,,2024-11-04,Yes,91f0ab263283056a8836fe37a5c61fd74b55a990db736b1507605a9de572af1b\n,,JSON: CROSSWALK_DIGPOL_2024-11-04_batchA.json,(zip root) - - date_src=filename - hash64k=fd0f18553221fc04,/mnt/data/PROJECT_FILE_SYNCED_2025-08-25_v4.3_FULL_with_audit.zip:CROSSWALK_DIGPOL_2024-11-04_batchA.json,Yes,,,,2024-11-04,Yes,fd0f18553221fc048309ec21d0765decbfc837349f395e4516b9829ccb94a823\n,,TXT: README_DIGPOL_FULL_1-10.txt,(zip root) - - date_src=none - hash64k=49b0ebaae929bddb,/mnt/data/PROJECT_FILE_SYNCED_2025-08-25_v4.3_FULL_with_audit.zip:README_DIGPOL_FULL_1-10.txt,Yes,,,,,Yes,49b0ebaae929bddb4f001f651e47308b699ba1e01673e97bfa0813047ae4d3cf\n,,CSV: TRACKER_ROWS_DIGITAL_POLICING_2024-11-04_batchA.csv,DigitalPolicing_Batch_2024-11-04_A/ - date_src=filename - hash64k=291f106d61f1029d,/mnt/data/PROJECT_FILE_SYNCED_2025-08-25_v4.3_FULL_with_audit.zip:DigitalPolicing_Batch_2024-11-04_A/TRACKER_ROWS_DIGITAL_POLICING_2024-11-04_batchA.csv,Yes,,,,2024-11-04,Yes,291f106d61f1029d2cf6bacf9747ba09261e7b281d5a2f780cf4c9c486bbccd3\n"
+    },
+    {
+      "meta": {
+        "path": "/mnt/data/PROJECT_FILE_SYNCED_2025-08-26_v5/03_analysis/timelines/TIMELINE_MASTER_2025-08-26.json",
+        "name": "TIMELINE_MASTER_2025-08-26.json",
+        "size": 5984,
+        "sha256": "407b7bb4504540061b1b1ca7ddc526a610cd7f2fca752e3b433d76b919161292",
+        "suffix": ".json"
+      },
+      "type": "json",
+      "content": {
+        "meta": {
+          "generated_at": "2025-08-26T00:53:24.799404Z",
+          "count": 16
+        },
+        "timeline": [
+          {
+            "when": "2024-11-07T12:00:00",
+            "title": "EVIDENCE_HANDLING",
+            "note": "Alleged listen/delete of July Call by OIC (time placeholder; confirm exact time)",
+            "tags": [
+              "EVIDENCE_HANDLING"
+            ],
+            "source_id": "VEX_2024-11-07_Dixon_Deletion_Log",
+            "source_path": "/mnt/data/VEX_2024-11-07_Dixon_Deletion_Log.json"
+          },
+          {
+            "when": "2025-02-12T12:00:00",
+            "title": "DATA_BREACH",
+            "note": "Unredacted internal email forwarded externally (time placeholder — confirm exact time from headers)",
+            "tags": [
+              "DATA_BREACH"
+            ],
+            "source_id": "VEX_2025-02-12_Dixon_GDPR_Forward_PaulDouble",
+            "source_path": "/mnt/data/VEX_2025-02-12_Dixon_GDPR_Forward_PaulDouble.json"
+          },
+          {
+            "when": "2025-03-01T12:00:00",
+            "title": "HOME_VISIT_NO_BWV",
+            "note": "Exact date/time TBD — use email/calendar/sms to pin down.",
+            "tags": [
+              "HOME_VISIT_NO_BWV"
+            ],
+            "source_id": "VEX_2025-03_HomeVisit_No_BWV",
+            "source_path": "/mnt/data/VEX_2025-03_HomeVisit_No_BWV.json"
+          },
+          {
+            "when": "2025-04-06",
+            "title": "SUICIDE_ATTEMPT",
+            "note": "Referenced in call as occurring on 06-04-2025.",
+            "tags": [
+              "SUICIDE_ATTEMPT"
+            ],
+            "source_id": "VEX_2025-04-28_Sussex_Police_Complaints_Department_Call",
+            "source_path": "/mnt/data/VEX_2025-04-28_Sussex_Police_Complaints_Department_Call.json"
+          },
+          {
+            "when": "2025-04-17",
+            "title": "SUICIDE_LOGGED",
+            "note": "In-call confirmation that the suicide was logged on 17-04-2025.",
+            "tags": [
+              "SUICIDE_LOGGED"
+            ],
+            "source_id": "VEX_2025-04-28_Sussex_Police_Complaints_Department_Call",
+            "source_path": "/mnt/data/VEX_2025-04-28_Sussex_Police_Complaints_Department_Call.json"
+          },
+          {
+            "when": "2025-04-17T04:32:00",
+            "title": "CALL_101",
+            "note": "Holiday Alibi call documents chain-of-command leave & July–Nov mismatch",
+            "tags": [
+              "CALL_101"
+            ],
+            "source_id": "VEX_2025-04-17_0432_101_Holiday_Alibi_REBUILT",
+            "source_path": "/mnt/data/VEX_2025-04-17_0432_101_Holiday_Alibi_REBUILT.json"
+          },
+          {
+            "when": "2025-04-17T04:33:00",
+            "title": "OIC_IDENTIFIED",
+            "note": "OIC named as PC Jonathan Dixon",
+            "tags": [
+              "OIC_IDENTIFIED"
+            ],
+            "source_id": "VEX_2025-04-17_0432_101_Holiday_Alibi_REBUILT",
+            "source_path": "/mnt/data/VEX_2025-04-17_0432_101_Holiday_Alibi_REBUILT.json"
+          },
+          {
+            "when": "2025-04-17T04:40:00",
+            "title": "CHAIN_ON_LEAVE",
+            "note": "OIC Dixon + Sgt Duffy + Insp Palmer all on leave until Tuesday",
+            "tags": [
+              "CHAIN_ON_LEAVE"
+            ],
+            "source_id": "VEX_2025-04-17_0432_101_Holiday_Alibi_REBUILT",
+            "source_path": "/mnt/data/VEX_2025-04-17_0432_101_Holiday_Alibi_REBUILT.json"
+          },
+          {
+            "when": "2025-04-17T04:41:00",
+            "title": "STATUS_CONFLICT",
+            "note": "Caller says July case closed; handler says under investigation",
+            "tags": [
+              "STATUS_CONFLICT"
+            ],
+            "source_id": "VEX_2025-04-17_0432_101_Holiday_Alibi_REBUILT",
+            "source_path": "/mnt/data/VEX_2025-04-17_0432_101_Holiday_Alibi_REBUILT.json"
+          },
+          {
+            "when": "2025-04-17T04:42:00",
+            "title": "ACCESS_BARRIER",
+            "note": "Handler declines to provide details; promises email escalation; advises 999 for emergencies",
+            "tags": [
+              "ACCESS_BARRIER"
+            ],
+            "source_id": "VEX_2025-04-17_0432_101_Holiday_Alibi_REBUILT",
+            "source_path": "/mnt/data/VEX_2025-04-17_0432_101_Holiday_Alibi_REBUILT.json"
+          },
+          {
+            "when": "2025-04-28",
+            "title": "CALL_COMPLAINTS",
+            "note": "Call with Sussex Police Complaints; confirms live case is July reference; suicide log delay noted.",
+            "tags": [
+              "CALL_COMPLAINTS"
+            ],
+            "source_id": "VEX_2025-04-28_Sussex_Police_Complaints_Department_Call",
+            "source_path": "/mnt/data/VEX_2025-04-28_Sussex_Police_Complaints_Department_Call.json"
+          },
+          {
+            "when": "2025-04-30T14:00:00",
+            "title": "MEETING_FLAGGED",
+            "note": "Veritas + police meeting referenced as 'Wednesday at 2pm'.",
+            "tags": [
+              "MEETING_FLAGGED"
+            ],
+            "source_id": "VEX_2025-04-28_Sussex_Police_Complaints_Department_Call",
+            "source_path": "/mnt/data/VEX_2025-04-28_Sussex_Police_Complaints_Department_Call.json"
+          },
+          {
+            "when": "2025-05-16T02:31:00",
+            "title": "CALL_101_NOTE_LEFT",
+            "note": "Name + DOB used to leave note without crime number",
+            "tags": [
+              "CALL_101_NOTE_LEFT"
+            ],
+            "source_id": "VEX_2025-05-16_101_Social_Engineering_NoCrimeRef",
+            "source_path": "/mnt/data/VEX_2025-05-16_101_NoCrimeRef.json"
+          },
+          {
+            "when": "2025-05-16T02:31:00",
+            "title": "101 Call — 'No Crime Number' Strategy",
+            "note": "Handler (Ayrton 42755) agrees to leave note for OIC using name + DOB; no crime reference provided.",
+            "tags": [],
+            "source_id": "TIMELINE_PATCH_2025-05-16_101_NoCrimeRef.json",
+            "source_path": "/mnt/data/TIMELINE_PATCH_2025-05-16_101_NoCrimeRef.json"
+          },
+          {
+            "when": "2025-05-26T09:10:00",
+            "title": "CALL_101_OIC_DISCLOSED",
+            "note": "OIC name(s) provided for multiple crime refs",
+            "tags": [
+              "CALL_101_OIC_DISCLOSED"
+            ],
+            "source_id": "VEX_2025-05-26_101_Strategic_Confusion",
+            "source_path": "/mnt/data/VEX_2025-05-26_101_Strategic_Confusion.json"
+          },
+          {
+            "when": "2025-05-26T09:12:00",
+            "title": "THIRD_REF_IDENTIFIED",
+            "note": "47250093423 confirmed with PC Russell",
+            "tags": [
+              "THIRD_REF_IDENTIFIED"
+            ],
+            "source_id": "VEX_2025-05-26_101_Strategic_Confusion",
+            "source_path": "/mnt/data/VEX_2025-05-26_101_Strategic_Confusion.json"
+          }
+        ]
+      }
+    },
+    {
+      "meta": {
+        "path": "/mnt/data/PROJECT_FILE_SYNCED_2025-08-26_v5/03_analysis/timelines/TIMELINE_PATCH_2025-05-16_101_NoCrimeRef.json",
+        "name": "TIMELINE_PATCH_2025-05-16_101_NoCrimeRef.json",
+        "size": 337,
+        "sha256": "7e22052ed8b4d7d0ddeb1b7a04c92fb15a0db30ae7a86cabdfb923269884a3fc",
+        "suffix": ".json"
+      },
+      "type": "json",
+      "content": {
+        "timeline": [
+          {
+            "when": "2025-05-16T02:31:00",
+            "title": "101 Call — 'No Crime Number' Strategy",
+            "summary": "Handler (Ayrton 42755) agrees to leave note for OIC using name + DOB; no crime reference provided.",
+            "tags": [
+              "CALL_101_NOTE_LEFT",
+              "INFOSEC_VULNERABILITIES"
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "meta": {
+    "filename": "2024-11-13_Digital-Policing_to_Ben_Jonathan-Dixon-Request-1340.json",
+    "case_reference": "47240214305",
+    "thread_label": "DigitalPolicing_NICE_Link",
+    "actor_cluster": [
+      "Digital Policing",
+      "PC Jonathan Dixon",
+      "Ben Carter"
+    ],
+    "date_range": {
+      "start": "2024-11-13T13:40:00",
+      "end": "2024-11-27T23:59:59"
+    },
+    "source_provenance": "Email from noreply-public@digital-policing.co.uk to Ben Carter on 2024-11-13 (issued on behalf of PC Jonathan Dixon, Sussex Police)",
+    "created_at_utc": "2025-08-24T22:23:10Z",
+    "vex_schema_version": "1.2",
+    "human_exhibit_name": "CRN-47240214305_DigitalPolicing_to_Ben_2024-11-13_Email-4.pdf",
+    "export_profile": "INTERNAL"
+  },
+  "emails": [
+    {
+      "id": "email-2024-11-13-1340-digitalpolicing-ben",
+      "date": "2024-11-13T13:40:00",
+      "from": {
+        "name": "Digital Policing (noreply)",
+        "email": "noreply-public@digital-policing.co.uk",
+        "badge": ""
+      },
+      "to": [
+        {
+          "name": "Ben Carter",
+          "email": "benrobcarter@gmail.com",
+          "badge": ""
+        }
+      ],
+      "subject_summary": "Jonathan Dixon requires your assistance in a police investigation",
+      "body_raw": "You have been requested by Jonathan Dixon, a Police Officer or member of Police Staff, to provide data to assist with a police investigation/enquiry.\nPlease click here to respond to this request. The link will expire on 27/11/2024.",
+      "body": "Evidence-portal request sent to Ben Carter via Digital Policing, issued on behalf of PC Jonathan Dixon, Sussex Police (second message within one minute).",
+      "attachments": [],
+      "labels": [
+        "Evidence Intake",
+        "Digital Policing Portal Link"
+      ],
+      "allegations": []
+    }
+  ],
+  "vex": [
+    {
+      "email_id": "email-2024-11-13-1340-digitalpolicing-ben",
+      "sentence_tags": [
+        {
+          "text": "The link to the request will expire on 27/11/2024.",
+          "tags": [
+            "EVIDENCE_PROVIDED",
+            "NICE_LINK_EXPIRED"
+          ],
+          "notes": "Duplicate-seeming request sent one minute later with identical expiry; risk of confusion or redundancy.",
+          "allegation": false
+        }
+      ]
+    }
+  ],
+  "contradiction_links": [
+    {
+      "id": "AUTO_DIGPOL_NICE_20241113_1340",
+      "claim": "Police provided a single, clear access point for evidence submission.",
+      "reality": "Two nearly identical Digital Policing requests were issued one minute apart on 13/11/2024, both with the same expiry date (27/11/2024).",
+      "laws_breached": [
+        "Victims' Code 2020",
+        "CPIA 1996 (Disclosure obligations)"
+      ],
+      "damages": [
+        "Emotional",
+        "Strategic"
+      ]
+    }
+  ],
+  "timeline_hooks": [
+    {
+      "phase": "Investigation Stage",
+      "date": "2024-11-13",
+      "events": [
+        "Second Digital Policing portal request issued on behalf of PC Jonathan Dixon (case 47240214305) within one minute of the prior email.",
+        "Deadline for evidence submission remained 27/11/2024."
+      ],
+      "related_threads": [
+        "DigitalPolicing_NICE_Link"
+      ]
+    }
+  ],
+  "damages_summary": {
+    "emotional": "Stress/confusion due to duplicate requests in quick succession.",
+    "strategic": "Raises doubt whether portal coordination was functioning properly.",
+    "reputational": "Could be mischaracterised as victim ignoring multiple requests."
+  },
+  "qa": {
+    "checks": [
+      "date_present",
+      "case_ref_present",
+      "exhibit_named",
+      "attachments_indexed"
+    ],
+    "status": "pass"
+  }
+}

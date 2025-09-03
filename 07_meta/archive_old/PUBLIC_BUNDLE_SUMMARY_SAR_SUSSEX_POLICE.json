@@ -1,0 +1,33 @@
+{
+  "title": "Public Summary \u2013 Sussex Police Data Withholding & Safeguarding Breach",
+  "summary": "This case involves the unlawful obstruction of a Subject Access Request (SAR) submitted by Ben Carter following a suicide attempt and ongoing safeguarding failures. The request, made on 8 April 2025, was ignored beyond the legal deadline, despite involving a known officer (PC Jon Dixon) and an IOPC complaint. The data sought included crucial safeguarding evidence. No response was provided by 3 June 2025.",
+  "key_events": [
+    {
+      "date": "2025-04-08",
+      "event": "SAR submitted to Sussex Police"
+    },
+    {
+      "date": "2025-04-09",
+      "event": "Auto-reply received \u2013 backlog excuse"
+    },
+    {
+      "date": "2025-04-09",
+      "event": "Reminder sent, CC to PC Dixon and IOPC"
+    },
+    {
+      "date": "2025-05-08",
+      "event": "Statutory deadline breached"
+    },
+    {
+      "date": "2025-06-03",
+      "event": "No data provided; public accountability triggered"
+    }
+  ],
+  "safeguarding_note": "This SAR was tied to a suicide risk disclosure and withholding it may constitute a breach of safeguarding duties under UK law.",
+  "downloads": [
+    "SAR timeline summary",
+    "Accountability chart",
+    "Claimant's formal statement"
+  ],
+  "status": "Released for public awareness and advocacy use"
+}

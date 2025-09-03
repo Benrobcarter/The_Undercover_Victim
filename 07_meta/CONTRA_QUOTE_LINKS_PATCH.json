@@ -1,0 +1,25 @@
+{
+  "type": "contradictions",
+  "items": [
+    {
+      "id": "CONTRA_LINK_OL_0001",
+      "meta": {
+        "title": "Quote Tether Link — OL-0001",
+        "tags": [
+          "QUOTE_TETHER_LINK",
+          "LOST_EVIDENCE_SUSSEX_POLICE",
+          "DEATH_BY_SILENCE"
+        ],
+        "added_at": "2025-08-31"
+      },
+      "links": {
+        "quote_id": "OL-0001",
+        "contradiction_clusters": [
+          "LOST_EVIDENCE_SUSSEX_POLICE",
+          "DEATH_BY_SILENCE"
+        ]
+      },
+      "summary": "Cross-links the tether quote to key contradiction clusters for dashboard surfacing."
+    }
+  ]
+}

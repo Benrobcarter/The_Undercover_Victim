@@ -1,0 +1,185 @@
+{
+  "meta": {
+    "generated": "2025-08-26T22:49:18.449027Z",
+    "sources": [
+      {
+        "path": "/mnt/data/BOOK_UNDERCOVER_VICTIM_v2_structured_SECTION3_VERITAS.json",
+        "err": null,
+        "sha256": "45eba407d2b58510e68b1a69c4ccf002beeadab65a31056da7578170231fd664"
+      },
+      {
+        "path": "/mnt/data/BOOK_UNDERCOVER_VICTIM_v2_structured_SECTION3_UPDATED.json",
+        "err": null,
+        "sha256": "45eba407d2b58510e68b1a69c4ccf002beeadab65a31056da7578170231fd664"
+      },
+      {
+        "path": "/mnt/data/BOOK_UNDERCOVER_VICTIM_v2_structured_SECTION3_FULL_EPIGRAPHS.json",
+        "err": null,
+        "sha256": "756d62b658ddf54a1f4a197cc0428fbf0cac8fac1ed9c263edb245c2b4af13db"
+      },
+      {
+        "path": "/mnt/data/BOOK_UNDERCOVER_VICTIM_v2_structured_WITH_SECTION2.json",
+        "err": null,
+        "sha256": "45eba407d2b58510e68b1a69c4ccf002beeadab65a31056da7578170231fd664"
+      },
+      {
+        "path": "/mnt/data/BOOK_UNDERCOVER_VICTIM_v2_structured_WITH_EPIGRAPHS.json",
+        "err": null,
+        "sha256": "e7056889e3a6be6b0d4018f1f7e85fc81635649effa7dd7bd954d0c9a56bfe86"
+      },
+      {
+        "path": "/mnt/data/BOOK_UNDERCOVER_VICTIM_v2_structured_UPDATED.json",
+        "err": null,
+        "sha256": "4afd8641ee7c019b4a609e9df035faf875de12a04f0f5dfdab5d1133da42367c"
+      },
+      {
+        "path": "/mnt/data/BOOK_UNDERCOVER_VICTIM_v2_structured.json",
+        "err": null,
+        "sha256": "44dd9b5c391e0bcfc1f94bc3eb00ddcd146972a90f84846645172c13d19c1982"
+      }
+    ]
+  },
+  "chapters": [
+    {
+      "id": "sec2_intro",
+      "title": "2.0 — The Core Complaint & Timeline of Failures",
+      "order": 20,
+      "paragraphs": [
+        "“This complaint is built upon a body of evidence whose quality is a direct result of systemic failure.” — Ben Carter",
+        "Safeguarding was breached. Evidence was mishandled. Suicide risk went unlogged. Misconduct became minimisation. This section sets out the chronology of those failures, and the contradictions they produced."
+      ]
+    },
+    {
+      "id": "sec2_july",
+      "title": "2.1 — July Call and the Deletion Log",
+      "order": 21,
+      "paragraphs": [
+        "“Where they chose silence, I created record.” — Ben Carter",
+        "July 2024 — my first submission. By November, a log note recorded that the key audio had been 'listened to & deleted.'",
+        "A record of risk was treated as disposable. Audit trails evaporated. Safeguarding turned into silence."
+      ]
+    },
+    {
+      "id": "sec2_bail",
+      "title": "2.2 — Bail Confirmation Mishandled",
+      "order": 22,
+      "paragraphs": [
+        "“Feeling I had ‘taken on the fucking police and won,’ I escalated my case to the IOPC.” — Ben Carter",
+        "February–March 2025 — during the bail confirmation period, my abuser was forwarded unredacted material. Sussex Police turned safeguarding into exposure, GDPR into refusal. ",
+        "At the same time, they visited my flat without BWV. My safety was paper-thin, their records incomplete."
+      ]
+    },
+    {
+      "id": "sec2_inversion",
+      "title": "2.3 — Procedural Inversion & NFA to Suspect",
+      "order": 23,
+      "paragraphs": [
+        "“POLICE PLEASE — not a plea, a prophecy.” — Ben Carter",
+        "22 April 2025: lawful conduct reframed as suspect. Five days later, on 27 April, an NFA-style message was sent to the suspect before any safeguarding meeting.",
+        "The victim was still waiting for protection; the suspect received closure. This inversion stands as proof of bias and premature communication."
+      ]
+    },
+    {
+      "id": "sec2_suicide_sar",
+      "title": "2.4 — Suicide Attempt and SAR Refusal",
+      "order": 24,
+      "paragraphs": [
+        "“The system did not just fail to protect me; it created the conditions that required this extraordinary level of self‑advocacy to simply survive.” — Ben Carter",
+        "April 2025 — my suicide attempt was not logged. By June, when I filed a Subject Access Request to test the system, it was refused after case closure.",
+        "The denial confirmed the pattern: disclosures erased, data blocked, survival weaponised against me."
+      ]
+    },
+    {
+      "id": "sec2_fringe",
+      "title": "2.5 — Brighton Fringe Retaliation",
+      "order": 25,
+      "paragraphs": [
+        "“One big apple rotting from its core.” — Ben Carter",
+        "Brighton Fringe received safeguarding disclosures in May–June 2025. They withheld their minutes, erased my name, and rewrote the record.",
+        "Where law required governance, they chose reputation. Where safety required disclosure, they chose silence."
+      ]
+    },
+    {
+      "id": "ch01",
+      "title": "Chapter 1",
+      "order": 1,
+      "start_paragraph": 1,
+      "end_paragraph": 1,
+      "word_count": 399,
+      "paragraphs": [
+        "﻿Section 3.1: From Victim to Investigator: A Case Study in Forced Self-Advocacy This complaint is built upon a body of evidence whose quality is a direct result of systemic failure. The documentation herein is not the product of a well-managed process, but a testament to the resilience required to survive institutional gaslighting. I, the victim, was forced to become the chief investigator, auditor, and archivist of my own case. This section analyses the strategic approach I was compelled to adopt.\n* Strategic Navigation of Police Misconduct: My interactions with Sussex Police demonstrate a persistent and strategic effort to establish accountability. Feeling I had \"taken on the fucking police and won,\" I escalated my case to the IOPC after identifying a pattern of misconduct. This included documenting bail breaches, the failure to log a suicide attempt, and challenging PC Dixon's ongoing, inappropriate involvement in my case long after I had formally revoked his authority. My persistent follow-ups on a Subject Access Request (SAR), citing UK GDPR and copying in the IOPC, were a deliberate strategy to force transparency from an obstructive system.\n* Managing Institutional Betrayal (Brighton Fringe): I demonstrated a proactive approach to managing the complex and contradictory interactions with Brighton Fringe. I challenged their \"takeover\" vs. \"support\" narrative, documented their alleged safeguarding and data breaches, and formally withdrew my venues to ensure public safety when it became clear they would not. This was a strategic move to regain control of my business and reputation after they had attempted to erase me from their own work.\n* The Meticulous Construction of \"Courtroom-Ready\" Evidence: The documentation in this bundle is of a high standard, achieved out of necessity. I documented every interaction, created logical structures for evidence (such as the Venue Page Template), asserted my legal rights under GDPR with precision, and used comprehensive CC lists on emails to ensure wide regulatory visibility. This was not a hobby; it was a survival tactic.\n* Resilience as an Evidentiary Factor: Despite the profound personal trauma, which included a documented suicide attempt and a subsequent diagnosis of complex PTSD, my focus remained on achieving justice. This resilience, and the ability to translate extreme distress into actionable, forensic evidence, is itself a testament to the scale of the institutional failure. The system did not just fail to protect me; it created the conditions that required this extraordinary level of self-advocacy to simply survive."
+      ]
+    },
+    {
+      "id": "ch37",
+      "title": "3.37 — Cherish These Moments (22 June 2025)",
+      "order": 37,
+      "paragraphs": [
+        "It was the anniversary of 'Police, please.' One year since the call that should have begun protection. Instead, it began silence.",
+        "00:37 – I phoned 101 again. No officer, no safeguarding — only myself narrating into the void. The silence itself had become evidence.",
+        "04:30 – The handler confirmed yet another reference number: 'There’s already three crime numbers under my name, all for the same thing, and now there’s another one… Sussex Police created an extra crime number so that the IOPC can’t see their two crime numbers. That PC Dixon is hiding all the corruption.'",
+        "04:56 – The phone barely clicked before it went dead: '[Beep beep beep] … Fucking hell.' Two hang-ups, back-to-back. Not glitches. Punishments.",
+        "05:00 – I broke the loop: 'Hi, I’m just reporting that I’ve just been hung up on twice, by Sussex Police. Could you please not hang up on me?' … 'Denied me all safeguarding since my suicide on April 6th. Told my abuser no further action on April 27th… Oh, fuck off. Get me my human rights.' [hangs up] 'hahahahahaha'.",
+        "05:06 – The humiliation protocol: 'That was the day of my suicide.' Handler: 'What do you mean? You’re talking to me now. So you’re not dead, are you?' 'I’m not a ghost. That was insulting.'",
+        "Later, when I demanded a Victims’ Code callback: Handler: 'You don’t get to quote that, and then you… get exactly what you want.' 'Yes you do. As a victim, my love, you do.'",
+        "The call ended with: 'I’ve called 45 times since April 6th and I have not had a call back. I’d say I was getting erased.'",
+        "Overlaying it all, a refrain rose — not sarcasm, but survival: 'And when the sun goes over the same skyline — down on the victim, down with the 101 callers, down with the police… Cherish these moments, Ben.'"
+      ]
+    },
+    {
+      "id": "ch38",
+      "title": "3.38 — The Retaliatory Hang-Ups",
+      "order": 38,
+      "paragraphs": [
+        "Two calls, back-to-back. Both terminated the instant my voice was heard.",
+        "[Beep beep beep] '…Fucking hell.'",
+        "They were not accidents. They were recognitions. The system’s acknowledgement of my persistence — answered with erasure."
+      ]
+    },
+    {
+      "id": "ch40",
+      "title": "3.40 — Dixon or Death (23 June 2025, 10:14)",
+      "order": 40,
+      "paragraphs": [
+        "By morning, I tested the system. Had the night’s humiliation forced a correction?",
+        "'I just need to find out who my new police officer is.' Handler: 'It’s still Officer Dixon.'",
+        "Dixon. Still the officer, despite IOPC investigation, blocking me, ignoring suicide disclosure.",
+        "When I protested: Handler: 'Your case is closed. No updates.'",
+        "I reminded them: 'I told Sussex Police I was suicidal. And if an officer didn’t get back to me by June 1st, I’d end my life.' No escalation, only deflection.",
+        "The call ended: Handler: 'If you’re not reporting anything now, I’m going to have to end this call.'",
+        "Entrapment. Two choices: speak to Dixon, or be silenced entirely. Dixon or death."
+      ]
+    },
+    {
+      "id": "ch41",
+      "title": "3.41 — Not Vulnerable… Not Me, Never… Promise (23 June 2025, 13:48)",
+      "order": 41,
+      "paragraphs": [
+        "By afternoon, I turned to other forces — Hampshire, the Met. If Sussex would not protect me, maybe someone else would.",
+        "Menus, diversions, refusals. Even when I disclosed risk, nothing activated.",
+        "I felt the collapse: 'I should have felt good. I felt desperate, alone, flanked. I had proved their Plan A. They had no Plan B. I’d won. But no one to tell. No one understood.'",
+        "And the stark truth: 'I was the victim. And I was being dismantled.'"
+      ]
+    },
+    {
+      "id": "chSynthesis",
+      "title": "Synthesis — The June 22–23 Collapse",
+      "order": 42,
+      "paragraphs": [
+        "Two days, in which everything stood exposed.",
+        "- Fabricated crime numbers.",
+        "- Retaliatory hang-ups.",
+        "- Humiliation by protocol.",
+        "- Entrapment under Dixon.",
+        "- Suicide disclosures ignored.",
+        "- Desperate outreach to other forces — unanswered.",
+        "This was not failure by chance. It was failure by design. Death by silence, delivered by system."
+      ]
+    }
+  ],
+  "stats": {
+    "chapter_count": 12,
+    "total_paragraphs": 1,
+    "total_words": 399
+  }
+}

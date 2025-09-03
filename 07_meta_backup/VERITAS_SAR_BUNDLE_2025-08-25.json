@@ -1,0 +1,220 @@
+{
+  "meta": {
+    "bundle_name": "VERITAS_SAR_BUNDLE_2025-08-25",
+    "generated_at": "2025-08-25T06:16:35.042846Z",
+    "sources": [
+      "BC Saftey Plan.pdf",
+      "BC SASH.pdf",
+      "BC Case Notes.pdf"
+    ],
+    "format_version": "1.0"
+  },
+  "safety_plan": {
+    "source": "BC Saftey Plan.pdf",
+    "summary": "Generic personal safety plan; includes steps (home, online, social), emergency contacts, status marked Active.",
+    "tags": [
+      "safety_plan",
+      "safeguarding"
+    ],
+    "entries": [
+      {
+        "quote": "Plan Status: Active",
+        "tags": [
+          "status",
+          "safeguarding"
+        ]
+      },
+      {
+        "quote": "Contact 999 in emergency; Samaritans; friends/family",
+        "tags": [
+          "emergency_contacts",
+          "safeguarding"
+        ]
+      },
+      {
+        "quote": "Practical measures: change locks, online privacy, support network",
+        "tags": [
+          "practical",
+          "risk_management"
+        ]
+      }
+    ]
+  },
+  "sash": {
+    "source": "BC SASH.pdf",
+    "date": "2024-11-25",
+    "summary": "Stalking & Harassment Screening (SASH). Level of concern: MODERATE. Confidentiality clause included. States 'All evidence passed over to police'. Consent to contact police: YES.",
+    "tags": [
+      "sash",
+      "risk_assessment",
+      "consent",
+      "evidence_handling"
+    ],
+    "entries": [
+      {
+        "quote": "We do not share... except where high risk/safeguarding duty applies.",
+        "tags": [
+          "confidentiality",
+          "safeguarding"
+        ]
+      },
+      {
+        "quote": "Level of concern: MODERATE",
+        "tags": [
+          "risk_level"
+        ]
+      },
+      {
+        "quote": "Evidence... All passed over to police",
+        "tags": [
+          "evidence_handling",
+          "contradiction"
+        ]
+      },
+      {
+        "quote": "Consent to contact police: YES",
+        "tags": [
+          "consent"
+        ]
+      }
+    ]
+  },
+  "case_notes": {
+    "source": "BC Case Notes.pdf",
+    "summary": "51-page narrative log covering Nov 2024–Jul 2025, including MARAC/clinic, consent withdrawals, suicide attempt disclosure, closure, and SAR extension.",
+    "tags": [
+      "case_notes",
+      "timeline",
+      "communications"
+    ],
+    "entries": [
+      {
+        "date": "2024-11-21",
+        "quote": "MARAC meeting held; actions recorded.",
+        "tags": [
+          "marac",
+          "safeguarding"
+        ],
+        "contradiction": false
+      },
+      {
+        "date": "2024-12-11",
+        "quote": "MARAC minutes received (not in SAR disclosure).",
+        "tags": [
+          "marac",
+          "missing_data"
+        ],
+        "contradiction": true
+      },
+      {
+        "date": "2025-04-09",
+        "quote": "Ben withdrew consent for Veritas to liaise with police.",
+        "tags": [
+          "consent"
+        ],
+        "contradiction": false
+      },
+      {
+        "date": "2025-04-14",
+        "quote": "Ben disclosed suicide attempt; notes record no safeguarding referral at this stage.",
+        "tags": [
+          "suicide",
+          "safeguarding"
+        ],
+        "contradiction": true
+      },
+      {
+        "date": "2025-04-23",
+        "quote": "Consent given again to liaise with police.",
+        "tags": [
+          "consent"
+        ],
+        "contradiction": false
+      },
+      {
+        "date": "2025-04-29",
+        "quote": "Stalking Clinic actions: Veritas to receive evidence and forward to police.",
+        "tags": [
+          "clinic",
+          "evidence_handling"
+        ],
+        "contradiction": true
+      },
+      {
+        "date": "2025-05-07",
+        "quote": "Police 'cannot locate' evidence on their system; Veritas to forward again.",
+        "tags": [
+          "evidence_loss",
+          "contradiction"
+        ],
+        "contradiction": true
+      },
+      {
+        "date": "2025-06-25",
+        "quote": "Case closed by Veritas citing conduct.",
+        "tags": [
+          "closure"
+        ],
+        "contradiction": false
+      },
+      {
+        "date": "2025-06-27",
+        "quote": "Email to Sussex Police: 'Ben is closed to the service'.",
+        "tags": [
+          "post_closure",
+          "disclosure"
+        ],
+        "contradiction": true
+      },
+      {
+        "date": "2025-07-23",
+        "quote": "SAR extension invoked under Article 12(3), deadline set 15/08/2025.",
+        "tags": [
+          "sar_timing"
+        ],
+        "contradiction": true
+      }
+    ]
+  },
+  "contradictions_summary": [
+    {
+      "issue": "All passed to police vs cannot locate",
+      "dates": [
+        "2024-11-25",
+        "2025-05-07"
+      ],
+      "status": "unresolved"
+    },
+    {
+      "issue": "Consent withdrawn vs sharing",
+      "dates": [
+        "2025-04-09",
+        "2025-04-23"
+      ],
+      "status": "requires consent log"
+    },
+    {
+      "issue": "Suicide attempt disclosed but no referral",
+      "date": "2025-04-14",
+      "status": "unresolved"
+    },
+    {
+      "issue": "MARAC/Clinic minutes exist but not disclosed",
+      "dates": [
+        "2024-12-11",
+        "2025-04-29"
+      ],
+      "status": "withheld"
+    },
+    {
+      "issue": "Post-closure disclosure to police",
+      "date": "2025-06-27",
+      "status": "unresolved"
+    },
+    {
+      "issue": "SAR delay and only notes provided",
+      "date": "2025-07-23",
+      "status": "below standard"
+    }
+  ]
+}

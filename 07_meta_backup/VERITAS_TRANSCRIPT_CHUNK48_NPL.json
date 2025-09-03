@@ -1,0 +1,83 @@
+{
+  "chunk": 48,
+  "time_range": "47:30-48:30",
+  "quotes": [
+    {
+      "speaker": "Ben Carter",
+      "time": "47:30",
+      "quote": "So they commit unlawful acts against me, and instead of safeguarding, I get excuses.",
+      "tags": [
+        "victim_experience",
+        "institutional_abuse",
+        "safeguarding_failure",
+        "accountability"
+      ]
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "47:36",
+      "quote": "You’re right, Ben, excuses don’t equal safeguarding.",
+      "tags": [
+        "acknowledgement",
+        "agreement",
+        "safeguarding"
+      ]
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "47:41",
+      "quote": "Excuses prove they know they’re wrong, otherwise they wouldn’t need them.",
+      "tags": [
+        "victim_assertion",
+        "contradiction",
+        "institutional_failure"
+      ]
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "47:46",
+      "quote": "That’s a fair point, and I’ve told them accountability matters here.",
+      "tags": [
+        "acknowledgement",
+        "advocacy",
+        "accountability"
+      ]
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "47:51",
+      "quote": "But still, nothing changes and I’m left at risk.",
+      "tags": [
+        "victim_experience",
+        "safeguarding_gap",
+        "risk"
+      ]
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "47:56",
+      "quote": "I know, and I’ll keep pressing them, but I understand that’s not enough.",
+      "tags": [
+        "acknowledgement",
+        "advocacy_gap",
+        "safeguarding"
+      ]
+    }
+  ],
+  "contradictions": [
+    {
+      "issue": "Victim highlights unlawful acts + excuses instead of safeguarding; advocate concedes but admits pressing isn’t enough",
+      "type": "safeguarding_and_accountability_failure"
+    }
+  ],
+  "timeline_hooks": [
+    {
+      "ref": "excuses vs safeguarding",
+      "link": "Safeguarding contradiction May 2025"
+    },
+    {
+      "ref": "unlawful acts against victim",
+      "link": "Institutional abuse May 2025"
+    }
+  ]
+}

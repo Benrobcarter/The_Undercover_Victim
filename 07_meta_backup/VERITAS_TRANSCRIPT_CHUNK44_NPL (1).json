@@ -1,0 +1,83 @@
+{
+  "chunk": 44,
+  "time_range": "43:30-44:30",
+  "quotes": [
+    {
+      "speaker": "Ben Carter",
+      "time": "43:30",
+      "quote": "So when they didn’t act on my suicide disclosure, that’s neglect of duty.",
+      "tags": [
+        "victim_experience",
+        "suicide_disclosure",
+        "safeguarding_failure",
+        "accountability"
+      ]
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "43:36",
+      "quote": "Yes, it should have triggered safeguarding protocol immediately.",
+      "tags": [
+        "acknowledgement",
+        "agreement",
+        "safeguarding"
+      ]
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "43:41",
+      "quote": "But it didn’t, so I was left at risk again.",
+      "tags": [
+        "victim_experience",
+        "safeguarding_gap",
+        "risk"
+      ]
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "43:46",
+      "quote": "I know, Ben, and I’m sorry you were left in that position.",
+      "tags": [
+        "acknowledgement",
+        "empathy",
+        "safeguarding"
+      ]
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "43:51",
+      "quote": "Sorry doesn’t undo the risk. It proves they don’t follow their own laws.",
+      "tags": [
+        "victim_assertion",
+        "legal_basis",
+        "safeguarding_failure"
+      ]
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "43:56",
+      "quote": "You’re right, it shows a serious failing.",
+      "tags": [
+        "acknowledgement",
+        "agreement",
+        "systemic_failure"
+      ]
+    }
+  ],
+  "contradictions": [
+    {
+      "issue": "Suicide disclosure should have triggered safeguarding but did not; advocate concedes serious failing",
+      "type": "safeguarding_protocol_failure"
+    }
+  ],
+  "timeline_hooks": [
+    {
+      "ref": "suicide disclosure neglect of duty",
+      "link": "Failure to follow safeguarding law Apr–May 2025"
+    },
+    {
+      "ref": "proves they don’t follow laws",
+      "link": "Legal safeguarding breach"
+    }
+  ]
+}
