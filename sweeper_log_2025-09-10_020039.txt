@@ -4,3 +4,28 @@
 ➡️ Sorting 04_book files
 ➡️ Sorting 07_meta files
 ➡️ Moving config/editor junk to 99_misc/
+[main cdd3397] 🧹 Repo sweep: normalised evidence, contradictions, timelines, book, meta into correct folders
+ 24 files changed, 849 insertions(+), 599 deletions(-)
+ rename 03_timelines/{ => meta}/Sussex_Police_Timeline_DRAFT_2025-09-09.json (100%)
+ rename 03_timelines/{ => meta}/shard_timelines_core.json (100%)
+ rename 03_timelines/{ => meta}/shard_timelines_core_UPDATED_2025-09-01_v4.json (100%)
+ rename 03_timelines/{ => meta}/shard_timelines_core_merged.json (100%)
+ rename 03_timelines/{ => meta}/shard_timelines_core_merged_UPDATED_2025-09-01_v3.json (100%)
+ rename 03_timelines/{ => meta}/shard_timelines_core_merged_UPDATED_2025-09-05_with_milestone.json (100%)
+ rename 03_timelines/{ => patches}/TIMELINE_2025-04-22_BoxOffice_Data_Request.json (100%)
+ rename 03_timelines/{ => patches}/TIMELINE_INDEX.json (100%)
+ rename 03_timelines/{ => patches}/TIMELINE_TO_CONTRADICTION_CROSSWALK.json (100%)
+ rename 04_book/{ => exports}/BOOK_MASTER.json (100%)
+ rename 04_book/{ => exports}/BOOK_MASTER_MERGED_POC_2025-08-27_v5.2.json (100%)
+ rename 04_book/{ => exports}/BOOK_RELEVANT_FILES_INDEX.json (100%)
+ rename 04_book/{ => exports}/BOOK_RELEVANT_FILES_INDEX_v5.json (100%)
+ rename 04_book/{ => exports}/CROSSWALK_BOOK_SHARD_TIMELINE_2025-08-31.json (100%)
+ rename 04_book/{ => exports}/CROSSWALK_BOOK_SHARD_TIMELINE_2025-09-05_UPDATED.json (100%)
+ rename 04_book/{ => exports}/book_chapters.json (100%)
+ rename 04_book/{ => exports}/file_index_inferred.json (100%)
+ rename 04_book/{ => inserts}/QUOTE_TO_CONTRADICTION_CROSSWALK.json (100%)
+ rename 07_meta/{ => archive}/shard_manifest_meta.json (100%)
+ rename 07_meta/{ => archive}/shard_manifest_meta_UPDATED_2025-09-05_with_milestone.json (100%)
+ rename 07_meta/{ => archive}/shard_manifest_meta_merged.json (100%)
+ delete mode 100644 07_meta/shard_contradictions_vex.json
+ create mode 100644 sweeper_log_2025-09-10_020039.txt
