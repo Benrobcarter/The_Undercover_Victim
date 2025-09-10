@@ -1,3 +1,6 @@
 ➡️ Moving stray VEX_*.json files to 01_evidence/vex/
 ➡️ Moving stray EVID_*.json files to 01_evidence/email/
 ➡️ Moving config/editor files to 99_misc/
+[main 6355b03] 🧹 Repo sweep: moved stray evidence JSONs + configs to correct folders
+ 1 file changed, 3 insertions(+)
+ create mode 100644 sweeper_log_2025-09-10_015555.txt
