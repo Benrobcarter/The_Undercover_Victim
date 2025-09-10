@@ -1,0 +1,101 @@
+.
+├── 01_evidence
+│   ├── _renamed_backups
+│   ├── audio
+│   │   ├── _dupes
+│   │   ├── book
+│   │   ├── brighton_fringe
+│   │   ├── other
+│   │   ├── sar
+│   │   ├── sussex_police
+│   │   └── veritas
+│   ├── calls
+│   ├── contracts
+│   │   ├── 2025-04-10_GP_Mental_Health_Disclosure.mp3
+│   │   ├── Riggs - I’ve roped them in though...mp3
+│   │   ├── Riggs - Sussex Police Pattern.mp3
+│   │   └── Riggs Sussex police will get fired.mp3
+│   ├── docs
+│   ├── email
+│   ├── misc
+│   ├── pdf
+│   ├── pdf_ocrd
+│   ├── pdf_unprocessed
+│   ├── text
+│   ├── text_halfacamel
+│   ├── timelines
+│   ├── vex
+│   │   ├── brighton_fringe
+│   │   ├── halfacamel
+│   │   ├── sussex_police
+│   │   └── veritas
+│   └── whatsapp
+├── 01_evidence 2
+│   ├── _renamed_backups
+│   ├── audio
+│   │   ├── _dupes
+│   │   ├── book
+│   │   ├── brighton_fringe
+│   │   ├── other
+│   │   ├── sar
+│   │   ├── sussex_police
+│   │   └── veritas
+│   ├── calls
+│   ├── contracts
+│   │   ├── 2025-04-10_GP_Mental_Health_Disclosure.mp3
+│   │   ├── Riggs - I’ve roped them in though...mp3
+│   │   ├── Riggs - Sussex Police Pattern.mp3
+│   │   └── Riggs Sussex police will get fired.mp3
+│   ├── docs
+│   ├── email
+│   ├── misc
+│   ├── pdf
+│   ├── pdf_ocrd
+│   ├── pdf_unprocessed
+│   ├── text
+│   ├── text_halfacamel
+│   ├── timelines
+│   ├── vex
+│   │   ├── brighton_fringe
+│   │   ├── halfacamel
+│   │   ├── sussex_police
+│   │   └── veritas
+│   ├── vex_halfacamel
+│   └── whatsapp
+├── 02_contradictions
+│   ├── auto
+│   ├── manual
+│   ├── packs
+│   ├── source_bundles
+│   ├── sussex_police
+│   └── veritas
+├── 03_timelines
+│   ├── exhibits
+│   ├── legal
+│   ├── meta
+│   ├── patches
+│   └── vex
+├── 04_book
+│   ├── exports
+│   ├── exports_20250905-022846
+│   ├── exports_normalized_20250905-030655
+│   ├── exports_normalized_20250905-033009
+│   ├── exports_normalized_20250905-033400
+│   ├── inserts
+│   └── tools
+├── 04_manifest
+├── 05_public
+├── 06_scripts
+├── 06_scripts 2
+├── 07_meta
+│   ├── archive
+│   └── archive_old
+├── 07_meta 2
+│   ├── archive
+│   └── archive_old
+├── 07_meta_backup
+└── 08_audit
+    ├── _consolidated
+    └── audit_logs
+
+99 directories
