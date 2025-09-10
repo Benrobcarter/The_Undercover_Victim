@@ -4,3 +4,7 @@
 ➡️ Sorting 04_book files
 ➡️ Sorting 07_meta files
 ➡️ Moving config/editor junk to 99_misc/
+[main fe4c9e0] 🧹 Repo sweep: normalised evidence, contradictions, timelines, book, meta into correct folders
+ 2 files changed, 14 insertions(+)
+ create mode 100644 sweeper_log_2025-09-10_023204.txt
+ create mode 100644 upload_log_2025-09-10_023155.txt
