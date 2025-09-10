@@ -1,0 +1,3 @@
+➡️ Moving stray VEX_*.json files to 01_evidence/vex/
+➡️ Moving stray EVID_*.json files to 01_evidence/email/
+➡️ Moving config/editor files to 99_misc/
