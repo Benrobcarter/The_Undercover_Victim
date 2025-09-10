@@ -1,0 +1,28 @@
+{
+  "id": "VEX_24 April 2025 - Subject_ Evidence Submission \u2013 Third-Party Digital Interaction (Alexander \u201cVoodoo\u201d) \u2013 CIT1201684_OCR",
+  "type": "evidence",
+  "source": "Smart OCR Ingest",
+  "date": "DATE_NOT_FOUND",
+  "summary": "Auto-ingested from file: 24 April 2025 - Subject_ Evidence Submission \u2013 Third-Party Digital Interaction (Alexander \u201cVoodoo\u201d) \u2013 CIT1201684.pdf",
+  "meta": {
+    "original_filename": "24 April 2025 - Subject_ Evidence Submission \u2013 Third-Party Digital Interaction (Alexander \u201cVoodoo\u201d) \u2013 CIT1201684.pdf",
+    "ocr_pdf_file": "24 April 2025 - Subject_ Evidence Submission \u2013 Third-Party Digital Interaction (Alexander \u201cVoodoo\u201d) \u2013 CIT1201684_ocr.pdf",
+    "ocr_text_file": "24 April 2025 - Subject_ Evidence Submission \u2013 Third-Party Digital Interaction (Alexander \u201cVoodoo\u201d) \u2013 CIT1201684.txt",
+    "sha256": "3a120ac9f29ed1e00fb87691bdfb0c5f53eb401dc573989e13e72b12f2f11bd9",
+    "source_folder": ".",
+    "ingested_on": "2025-09-06T14:46:19.912872",
+    "ingest_method": "ocr_smart"
+  },
+  "links": {
+    "source_file_original": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_unprocessed/24 April 2025 - Subject_ Evidence Submission \u2013 Third-Party Digital Interaction (Alexander \u201cVoodoo\u201d) \u2013 CIT1201684.pdf",
+    "ocr_pdf_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_ocrd/24 April 2025 - Subject_ Evidence Submission \u2013 Third-Party Digital Interaction (Alexander \u201cVoodoo\u201d) \u2013 CIT1201684_ocr.pdf",
+    "ocr_text_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/text/24 April 2025 - Subject_ Evidence Submission \u2013 Third-Party Digital Interaction (Alexander \u201cVoodoo\u201d) \u2013 CIT1201684.txt"
+  },
+  "tags": [
+    "auto_ocr",
+    " subject",
+    "24 april 2025 ",
+    "party digital interaction (alexander \u201cvoodoo\u201d) \u2013 cit1201684",
+    " evidence submission \u2013 third"
+  ]
+}

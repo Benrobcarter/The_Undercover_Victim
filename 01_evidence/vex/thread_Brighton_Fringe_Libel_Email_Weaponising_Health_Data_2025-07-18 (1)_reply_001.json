@@ -1,0 +1,21 @@
+{
+  "id": "thread_Brighton_Fringe_Libel_Email_Weaponising_Health_Data_2025-07-18 (1)_reply_001",
+  "type": "evidence",
+  "source": "Thread Reply Split (Smart OCR)",
+  "date": "DATE_NOT_FOUND",
+  "summary": "[From:] Amy Keogh <amy.keogh@brightonfringe.org>  Sent:  08 May 2025 15:32  To:  SEVENDIALSMEDICALCENTRE (NHS SUSSEX ICB - 09D)  Subject:  Confidential - Concerns about",
+  "meta": {
+    "thread_id": "thread_Brighton_Fringe_Libel_Email_Weaponising_Health_Data_2025-07-18 (1)",
+    "original_filename": "Brighton_Fringe_Libel_Email_Weaponising_Health_Data_2025-07-18 (1).txt",
+    "reply_index": 1,
+    "split_on": "regex: header blocks",
+    "ingested_on": "2025-09-06T14:01:14.921264"
+  },
+  "links": {
+    "source_text_file": "/Users/bencarter/Documents/The_Undercover_Victim/01_evidence/text/Brighton_Fringe_Libel_Email_Weaponising_Health_Data_2025-07-18 (1).txt"
+  },
+  "tags": [
+    "reply_split",
+    "auto_ocr_thread"
+  ]
+}

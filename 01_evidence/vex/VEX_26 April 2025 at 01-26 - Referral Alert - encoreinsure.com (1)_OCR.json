@@ -1,0 +1,28 @@
+{
+  "id": "VEX_26 April 2025 at 01-26 - Referral Alert - encoreinsure.com (1)_OCR",
+  "type": "evidence",
+  "source": "Smart OCR Ingest",
+  "date": "DATE_NOT_FOUND",
+  "summary": "Auto-ingested from file: 26 April 2025 at 01-26 - Referral Alert - encoreinsure.com (1).pdf",
+  "meta": {
+    "original_filename": "26 April 2025 at 01-26 - Referral Alert - encoreinsure.com (1).pdf",
+    "ocr_pdf_file": "26 April 2025 at 01-26 - Referral Alert - encoreinsure.com (1)_ocr.pdf",
+    "ocr_text_file": "26 April 2025 at 01-26 - Referral Alert - encoreinsure.com (1).txt",
+    "sha256": "af9026bb0ce98df9322ace7124ddc6c2268735b901ad0e15e2f6669f472e9b3d",
+    "source_folder": ".",
+    "ingested_on": "2025-09-06T14:33:57.212570",
+    "ingest_method": "ocr_smart"
+  },
+  "links": {
+    "source_file_original": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_unprocessed/26 April 2025 at 01-26 - Referral Alert - encoreinsure.com (1).pdf",
+    "ocr_pdf_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_ocrd/26 April 2025 at 01-26 - Referral Alert - encoreinsure.com (1)_ocr.pdf",
+    "ocr_text_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/text/26 April 2025 at 01-26 - Referral Alert - encoreinsure.com (1).txt"
+  },
+  "tags": [
+    "auto_ocr",
+    " referral alert ",
+    "26 april 2025 at 01",
+    " encoreinsure.com (1)",
+    "26 "
+  ]
+}

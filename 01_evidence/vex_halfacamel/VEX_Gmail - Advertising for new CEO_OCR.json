@@ -1,0 +1,26 @@
+{
+  "id": "VEX_Gmail - Advertising for new CEO_OCR",
+  "type": "evidence",
+  "source": "Smart OCR Ingest",
+  "date": "DATE_NOT_FOUND",
+  "summary": "Auto-ingested from file: Gmail - Advertising for new CEO.pdf",
+  "meta": {
+    "original_filename": "Gmail - Advertising for new CEO.pdf",
+    "ocr_pdf_file": "Gmail - Advertising for new CEO_ocr.pdf",
+    "ocr_text_file": "Gmail - Advertising for new CEO.txt",
+    "sha256": "dd8f8d611a137084eec1b8fab6959eb62e61e1249e8bfb665543eaaf044b8943",
+    "source_folder": ".",
+    "ingested_on": "2025-09-06T14:31:00.773037",
+    "ingest_method": "ocr_smart"
+  },
+  "links": {
+    "source_file_original": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_unprocessed/Gmail - Advertising for new CEO.pdf",
+    "ocr_pdf_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_ocrd/Gmail - Advertising for new CEO_ocr.pdf",
+    "ocr_text_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/text/Gmail - Advertising for new CEO.txt"
+  },
+  "tags": [
+    "auto_ocr",
+    "gmail ",
+    " advertising for new ceo"
+  ]
+}

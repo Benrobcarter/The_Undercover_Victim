@@ -1,0 +1,26 @@
+{
+  "id": "VEX_2025-05-08 Taking over for the month_OCR",
+  "type": "evidence",
+  "source": "Smart OCR Ingest",
+  "date": "2025-05-08",
+  "summary": "Auto-ingested from file: 2025-05-08 Taking over for the month.pdf",
+  "meta": {
+    "original_filename": "2025-05-08 Taking over for the month.pdf",
+    "ocr_pdf_file": "2025-05-08 Taking over for the month_ocr.pdf",
+    "ocr_text_file": "2025-05-08 Taking over for the month.txt",
+    "sha256": "ea31ca81eb3e6e71390c52fe9d61ecf1a1f075764ceb940ea1a22eba94f902f8",
+    "source_folder": ".",
+    "ingested_on": "2025-09-06T23:17:43.250945",
+    "ingest_method": "ocr_smart"
+  },
+  "links": {
+    "source_file_original": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_unprocessed/2025-05-08 Taking over for the month.pdf",
+    "ocr_pdf_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_ocrd/2025-05-08 Taking over for the month_ocr.pdf",
+    "ocr_text_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/text/2025-05-08 Taking over for the month.txt"
+  },
+  "tags": [
+    "auto_ocr",
+    "2025",
+    "08 taking over for the month"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "VEX_CEO and Management Team Reports- March 2023_OCR",
+  "type": "evidence",
+  "source": "Smart OCR Ingest",
+  "date": "DATE_NOT_FOUND",
+  "summary": "Auto-ingested from file: CEO and Management Team Reports- March 2023.pdf",
+  "meta": {
+    "original_filename": "CEO and Management Team Reports- March 2023.pdf",
+    "ocr_pdf_file": "CEO and Management Team Reports- March 2023_ocr.pdf",
+    "ocr_text_file": "CEO and Management Team Reports- March 2023.txt",
+    "sha256": "6298c3d1259f193359225ded0adfcfce193d9060154fce8ee86b550b35b4eaef",
+    "source_folder": ".",
+    "ingested_on": "2025-09-06T14:05:27.080012",
+    "ingest_method": "ocr_smart"
+  },
+  "links": {
+    "source_file_original": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_unprocessed/CEO and Management Team Reports- March 2023.pdf",
+    "ocr_pdf_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_ocrd/CEO and Management Team Reports- March 2023_ocr.pdf",
+    "ocr_text_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/text/CEO and Management Team Reports- March 2023.txt"
+  },
+  "tags": [
+    "auto_ocr",
+    "ceo and management team reports",
+    " march 2023"
+  ]
+}

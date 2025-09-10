@@ -1,0 +1,26 @@
+{
+  "id": "VEX_Alice The fake Brighton Fringe, stooling me, I cried for the first time in a year finally thought i_d found friend, I  Brighton Box Office member  sent to get me excited about awareness for liam murphy R.I.P_OCR",
+  "type": "evidence",
+  "source": "Smart OCR Ingest",
+  "date": "DATE_NOT_FOUND",
+  "summary": "Auto-ingested from file: Alice The fake Brighton Fringe, stooling me, I cried for the first time in a year finally thought i_d found friend, I  Brighton Box Office member  sent to get me excited about awareness for liam murphy R.I.P.pdf",
+  "meta": {
+    "original_filename": "Alice The fake Brighton Fringe, stooling me, I cried for the first time in a year finally thought i_d found friend, I  Brighton Box Office member  sent to get me excited about awareness for liam murphy R.I.P.pdf",
+    "ocr_pdf_file": "Alice The fake Brighton Fringe, stooling me, I cried for the first time in a year finally thought i_d found friend, I  Brighton Box Office member  sent to get me excited about awareness for liam murphy R.I.P_ocr.pdf",
+    "ocr_text_file": "Alice The fake Brighton Fringe, stooling me, I cried for the first time in a year finally thought i_d found friend, I  Brighton Box Office member  sent to get me excited about awareness for liam murphy R.I.P.txt",
+    "sha256": "46fa74a12101ed1d94acd669e64a0049c85e471f1ea02eb8f05a5090474b30a3",
+    "source_folder": ".",
+    "ingested_on": "2025-09-06T14:20:52.343247",
+    "ingest_method": "ocr_smart"
+  },
+  "links": {
+    "source_file_original": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_unprocessed/Alice The fake Brighton Fringe, stooling me, I cried for the first time in a year finally thought i_d found friend, I  Brighton Box Office member  sent to get me excited about awareness for liam murphy R.I.P.pdf",
+    "ocr_pdf_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_ocrd/Alice The fake Brighton Fringe, stooling me, I cried for the first time in a year finally thought i_d found friend, I  Brighton Box Office member  sent to get me excited about awareness for liam murphy R.I.P_ocr.pdf",
+    "ocr_text_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/text/Alice The fake Brighton Fringe, stooling me, I cried for the first time in a year finally thought i_d found friend, I  Brighton Box Office member  sent to get me excited about awareness for liam murphy R.I.P.txt"
+  },
+  "tags": [
+    "auto_ocr",
+    "d found friend, i  brighton box office member  sent to get me excited about awareness for liam murphy r.i.p",
+    "alice the fake brighton fringe, stooling me, i cried for the first time in a year finally thought i"
+  ]
+}

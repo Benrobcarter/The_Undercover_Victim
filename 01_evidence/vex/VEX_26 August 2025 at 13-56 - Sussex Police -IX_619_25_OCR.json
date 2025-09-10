@@ -1,0 +1,28 @@
+{
+  "id": "VEX_26 August 2025 at 13-56 - Sussex Police -IX_619_25_OCR",
+  "type": "evidence",
+  "source": "Smart OCR Ingest",
+  "date": "DATE_NOT_FOUND",
+  "summary": "Auto-ingested from file: 26 August 2025 at 13-56 - Sussex Police -IX_619_25.pdf",
+  "meta": {
+    "original_filename": "26 August 2025 at 13-56 - Sussex Police -IX_619_25.pdf",
+    "ocr_pdf_file": "26 August 2025 at 13-56 - Sussex Police -IX_619_25_ocr.pdf",
+    "ocr_text_file": "26 August 2025 at 13-56 - Sussex Police -IX_619_25.txt",
+    "sha256": "d0aea1d58667b1512eb81c21d390a7749051398be5a7311bf49f3e50d024edef",
+    "source_folder": ".",
+    "ingested_on": "2025-09-06T14:45:16.822425",
+    "ingest_method": "ocr_smart"
+  },
+  "links": {
+    "source_file_original": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_unprocessed/26 August 2025 at 13-56 - Sussex Police -IX_619_25.pdf",
+    "ocr_pdf_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_ocrd/26 August 2025 at 13-56 - Sussex Police -IX_619_25_ocr.pdf",
+    "ocr_text_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/text/26 August 2025 at 13-56 - Sussex Police -IX_619_25.txt"
+  },
+  "tags": [
+    "auto_ocr",
+    "56 ",
+    " sussex police ",
+    "26 august 2025 at 13",
+    "619"
+  ]
+}

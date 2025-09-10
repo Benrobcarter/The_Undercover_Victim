@@ -1,0 +1,27 @@
+{
+  "id": "VEX_2025-05-09 at 01-48 Alice is off sick for the rest of the fringe_OCR",
+  "type": "evidence",
+  "source": "Smart OCR Ingest",
+  "date": "2025-05-09",
+  "summary": "Auto-ingested from file: 2025-05-09 at 01-48 Alice is off sick for the rest of the fringe.pdf",
+  "meta": {
+    "original_filename": "2025-05-09 at 01-48 Alice is off sick for the rest of the fringe.pdf",
+    "ocr_pdf_file": "2025-05-09 at 01-48 Alice is off sick for the rest of the fringe_ocr.pdf",
+    "ocr_text_file": "2025-05-09 at 01-48 Alice is off sick for the rest of the fringe.txt",
+    "sha256": "4fdec365c2a64a5271c7a7f67c80bfd492ed8d74d6523468d9c425bf0126e27b",
+    "source_folder": ".",
+    "ingested_on": "2025-09-06T22:57:04.694692",
+    "ingest_method": "ocr_smart"
+  },
+  "links": {
+    "source_file_original": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_unprocessed/2025-05-09 at 01-48 Alice is off sick for the rest of the fringe.pdf",
+    "ocr_pdf_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_ocrd/2025-05-09 at 01-48 Alice is off sick for the rest of the fringe_ocr.pdf",
+    "ocr_text_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/text/2025-05-09 at 01-48 Alice is off sick for the rest of the fringe.txt"
+  },
+  "tags": [
+    "auto_ocr",
+    "2025",
+    "09 at 01",
+    "48 alice is off sick for the rest of the fringe"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "VEX_BC Case Notes_OCR",
+  "type": "evidence",
+  "source": "Smart OCR Ingest",
+  "date": "DATE_NOT_FOUND",
+  "summary": "Auto-ingested from file: BC Case Notes.pdf",
+  "meta": {
+    "original_filename": "BC Case Notes.pdf",
+    "ocr_pdf_file": "BC Case Notes_ocr.pdf",
+    "ocr_text_file": "BC Case Notes.txt",
+    "sha256": "e2fab8020fac0636e57593e8a5e25562b5fdd318e2f4795629f1c1160a7e4e81",
+    "source_folder": ".",
+    "ingested_on": "2025-09-06T14:23:48.035195",
+    "ingest_method": "ocr_smart"
+  },
+  "links": {
+    "source_file_original": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_unprocessed/BC Case Notes.pdf",
+    "ocr_pdf_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_ocrd/BC Case Notes_ocr.pdf",
+    "ocr_text_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/text/BC Case Notes.txt"
+  },
+  "tags": [
+    "auto_ocr",
+    "bc case notes"
+  ]
+}

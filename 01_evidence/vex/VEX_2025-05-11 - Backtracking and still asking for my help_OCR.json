@@ -1,0 +1,27 @@
+{
+  "id": "VEX_2025-05-11 - Backtracking and still asking for my help_OCR",
+  "type": "evidence",
+  "source": "Smart OCR Ingest",
+  "date": "2025-05-11",
+  "summary": "Auto-ingested from file: 2025-05-11 - Backtracking and still asking for my help.pdf",
+  "meta": {
+    "original_filename": "2025-05-11 - Backtracking and still asking for my help.pdf",
+    "ocr_pdf_file": "2025-05-11 - Backtracking and still asking for my help_ocr.pdf",
+    "ocr_text_file": "2025-05-11 - Backtracking and still asking for my help.txt",
+    "sha256": "3eaa6408242d4399d1a7c7e031a9fef3ee6aebf8faf6a72eee242110a4524bf6",
+    "source_folder": ".",
+    "ingested_on": "2025-09-06T22:59:16.089207",
+    "ingest_method": "ocr_smart"
+  },
+  "links": {
+    "source_file_original": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_unprocessed/2025-05-11 - Backtracking and still asking for my help.pdf",
+    "ocr_pdf_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_ocrd/2025-05-11 - Backtracking and still asking for my help_ocr.pdf",
+    "ocr_text_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/text/2025-05-11 - Backtracking and still asking for my help.txt"
+  },
+  "tags": [
+    "auto_ocr",
+    "2025",
+    "11 ",
+    " backtracking and still asking for my help"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": "VEX_What\u2019s worth watching_ Brighton Fringe 2025 \u2013 Chris Neville-Smith_s blog on theatre_OCR",
+  "type": "evidence",
+  "source": "Smart OCR Ingest",
+  "date": "DATE_NOT_FOUND",
+  "summary": "Auto-ingested from file: What\u2019s worth watching_ Brighton Fringe 2025 \u2013 Chris Neville-Smith_s blog on theatre.pdf",
+  "meta": {
+    "original_filename": "What\u2019s worth watching_ Brighton Fringe 2025 \u2013 Chris Neville-Smith_s blog on theatre.pdf",
+    "ocr_pdf_file": "What\u2019s worth watching_ Brighton Fringe 2025 \u2013 Chris Neville-Smith_s blog on theatre_ocr.pdf",
+    "ocr_text_file": "What\u2019s worth watching_ Brighton Fringe 2025 \u2013 Chris Neville-Smith_s blog on theatre.txt",
+    "sha256": "244f347c1ff656b108d088436cafe70eb8e556134cc06dbd8411170998ab88ec",
+    "source_folder": ".",
+    "ingested_on": "2025-09-06T14:34:23.347020",
+    "ingest_method": "ocr_smart"
+  },
+  "links": {
+    "source_file_original": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_unprocessed/What\u2019s worth watching_ Brighton Fringe 2025 \u2013 Chris Neville-Smith_s blog on theatre.pdf",
+    "ocr_pdf_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_ocrd/What\u2019s worth watching_ Brighton Fringe 2025 \u2013 Chris Neville-Smith_s blog on theatre_ocr.pdf",
+    "ocr_text_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/text/What\u2019s worth watching_ Brighton Fringe 2025 \u2013 Chris Neville-Smith_s blog on theatre.txt"
+  },
+  "tags": [
+    "auto_ocr",
+    "what\u2019s worth watching",
+    " brighton fringe 2025 \u2013 chris neville",
+    "smith",
+    "s blog on theatre"
+  ]
+}

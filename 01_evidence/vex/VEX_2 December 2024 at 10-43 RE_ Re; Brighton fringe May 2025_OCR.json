@@ -1,0 +1,27 @@
+{
+  "id": "VEX_2 December 2024 at 10-43 RE_ Re; Brighton fringe May 2025_OCR",
+  "type": "evidence",
+  "source": "Smart OCR Ingest",
+  "date": "DATE_NOT_FOUND",
+  "summary": "Auto-ingested from file: 2 December 2024 at 10-43 RE_ Re; Brighton fringe May 2025.pdf",
+  "meta": {
+    "original_filename": "2 December 2024 at 10-43 RE_ Re; Brighton fringe May 2025.pdf",
+    "ocr_pdf_file": "2 December 2024 at 10-43 RE_ Re; Brighton fringe May 2025_ocr.pdf",
+    "ocr_text_file": "2 December 2024 at 10-43 RE_ Re; Brighton fringe May 2025.txt",
+    "sha256": "53a9f78d88d5cf8417302ac1e38de7e950a32eff1f27d6c7609e531385f96f62",
+    "source_folder": ".",
+    "ingested_on": "2025-09-06T14:32:55.374613",
+    "ingest_method": "ocr_smart"
+  },
+  "links": {
+    "source_file_original": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_unprocessed/2 December 2024 at 10-43 RE_ Re; Brighton fringe May 2025.pdf",
+    "ocr_pdf_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_ocrd/2 December 2024 at 10-43 RE_ Re; Brighton fringe May 2025_ocr.pdf",
+    "ocr_text_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/text/2 December 2024 at 10-43 RE_ Re; Brighton fringe May 2025.txt"
+  },
+  "tags": [
+    "auto_ocr",
+    "43 re",
+    " re; brighton fringe may 2025",
+    "2 december 2024 at 10"
+  ]
+}

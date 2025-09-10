@@ -1,0 +1,27 @@
+{
+  "id": "VEX_Brighton Fringe 2024 \u2013 as it happens \u2013 Chris Neville-Smith_s blog on theatre_OCR",
+  "type": "evidence",
+  "source": "Smart OCR Ingest",
+  "date": "DATE_NOT_FOUND",
+  "summary": "Auto-ingested from file: Brighton Fringe 2024 \u2013 as it happens \u2013 Chris Neville-Smith_s blog on theatre.pdf",
+  "meta": {
+    "original_filename": "Brighton Fringe 2024 \u2013 as it happens \u2013 Chris Neville-Smith_s blog on theatre.pdf",
+    "ocr_pdf_file": "Brighton Fringe 2024 \u2013 as it happens \u2013 Chris Neville-Smith_s blog on theatre_ocr.pdf",
+    "ocr_text_file": "Brighton Fringe 2024 \u2013 as it happens \u2013 Chris Neville-Smith_s blog on theatre.txt",
+    "sha256": "9adbad8c7d4f11c556af94af4510d274d6c532080613b84a2eed00917798721f",
+    "source_folder": ".",
+    "ingested_on": "2025-09-06T14:28:18.429905",
+    "ingest_method": "ocr_smart"
+  },
+  "links": {
+    "source_file_original": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_unprocessed/Brighton Fringe 2024 \u2013 as it happens \u2013 Chris Neville-Smith_s blog on theatre.pdf",
+    "ocr_pdf_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_ocrd/Brighton Fringe 2024 \u2013 as it happens \u2013 Chris Neville-Smith_s blog on theatre_ocr.pdf",
+    "ocr_text_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/text/Brighton Fringe 2024 \u2013 as it happens \u2013 Chris Neville-Smith_s blog on theatre.txt"
+  },
+  "tags": [
+    "auto_ocr",
+    "smith",
+    "s blog on theatre",
+    "brighton fringe 2024 \u2013 as it happens \u2013 chris neville"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "thread_16 April 2025 giving an act a chance *venue manager responsibilies - Concern raised about a performer_reply_001",
+  "type": "evidence",
+  "source": "Thread Reply Split (Smart OCR)",
+  "date": "DATE_NOT_FOUND",
+  "summary": "[From:] Ben Carter <benrobcarter@gmail.com> Sent: Wednesday, April 16, 2025 2:47 PM To: Laura Aiton <laura.aiton@brightonfringe.org> Subject: Re: Concern raised about a",
+  "meta": {
+    "thread_id": "thread_16 April 2025 giving an act a chance *venue manager responsibilies - Concern raised about a performer",
+    "original_filename": "16 April 2025 giving an act a chance *venue manager responsibilies - Concern raised about a performer.txt",
+    "reply_index": 1,
+    "split_on": "regex: header blocks",
+    "ingested_on": "2025-09-06T14:01:09.139414"
+  },
+  "links": {
+    "source_text_file": "/Users/bencarter/Documents/The_Undercover_Victim/01_evidence/text/16 April 2025 giving an act a chance *venue manager responsibilies - Concern raised about a performer.txt"
+  },
+  "tags": [
+    "reply_split",
+    "auto_ocr_thread"
+  ]
+}

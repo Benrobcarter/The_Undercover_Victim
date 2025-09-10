@@ -1,0 +1,26 @@
+{
+  "id": "VEX_15th May Best day of sales for Brighton Fringe since pandemic _ The Argus_OCR",
+  "type": "evidence",
+  "source": "Smart OCR Ingest",
+  "date": "DATE_NOT_FOUND",
+  "summary": "Auto-ingested from file: 15th May Best day of sales for Brighton Fringe since pandemic _ The Argus.pdf",
+  "meta": {
+    "original_filename": "15th May Best day of sales for Brighton Fringe since pandemic _ The Argus.pdf",
+    "ocr_pdf_file": "15th May Best day of sales for Brighton Fringe since pandemic _ The Argus_ocr.pdf",
+    "ocr_text_file": "15th May Best day of sales for Brighton Fringe since pandemic _ The Argus.txt",
+    "sha256": "7c1324e7ed623e0337bf7c4bc0ec94c060422895b2eceaa73dd06609cfce57b8",
+    "source_folder": ".",
+    "ingested_on": "2025-09-06T14:33:29.854969",
+    "ingest_method": "ocr_smart"
+  },
+  "links": {
+    "source_file_original": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_unprocessed/15th May Best day of sales for Brighton Fringe since pandemic _ The Argus.pdf",
+    "ocr_pdf_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_ocrd/15th May Best day of sales for Brighton Fringe since pandemic _ The Argus_ocr.pdf",
+    "ocr_text_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/text/15th May Best day of sales for Brighton Fringe since pandemic _ The Argus.txt"
+  },
+  "tags": [
+    "auto_ocr",
+    "15th may best day of sales for brighton fringe since pandemic ",
+    " the argus"
+  ]
+}

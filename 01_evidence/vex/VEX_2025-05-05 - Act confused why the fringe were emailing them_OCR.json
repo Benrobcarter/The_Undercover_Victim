@@ -1,0 +1,27 @@
+{
+  "id": "VEX_2025-05-05 - Act confused why the fringe were emailing them_OCR",
+  "type": "evidence",
+  "source": "Smart OCR Ingest",
+  "date": "2025-05-05",
+  "summary": "Auto-ingested from file: 2025-05-05 - Act confused why the fringe were emailing them.pdf",
+  "meta": {
+    "original_filename": "2025-05-05 - Act confused why the fringe were emailing them.pdf",
+    "ocr_pdf_file": "2025-05-05 - Act confused why the fringe were emailing them_ocr.pdf",
+    "ocr_text_file": "2025-05-05 - Act confused why the fringe were emailing them.txt",
+    "sha256": "ce65de074ae45a777eb8fd6c66c2189a55c96beb76789f40175ea2e8f2362632",
+    "source_folder": ".",
+    "ingested_on": "2025-09-06T23:14:17.580944",
+    "ingest_method": "ocr_smart"
+  },
+  "links": {
+    "source_file_original": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_unprocessed/2025-05-05 - Act confused why the fringe were emailing them.pdf",
+    "ocr_pdf_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_ocrd/2025-05-05 - Act confused why the fringe were emailing them_ocr.pdf",
+    "ocr_text_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/text/2025-05-05 - Act confused why the fringe were emailing them.txt"
+  },
+  "tags": [
+    "auto_ocr",
+    "05 ",
+    "2025",
+    " act confused why the fringe were emailing them"
+  ]
+}

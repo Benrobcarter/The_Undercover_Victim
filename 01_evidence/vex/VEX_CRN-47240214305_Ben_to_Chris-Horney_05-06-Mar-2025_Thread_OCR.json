@@ -1,0 +1,31 @@
+{
+  "id": "VEX_CRN-47240214305_Ben_to_Chris-Horney_05-06-Mar-2025_Thread_OCR",
+  "type": "evidence",
+  "source": "Smart OCR Ingest",
+  "date": "DATE_NOT_FOUND",
+  "summary": "Auto-ingested from file: CRN-47240214305_Ben_to_Chris-Horney_05-06-Mar-2025_Thread.pdf",
+  "meta": {
+    "original_filename": "CRN-47240214305_Ben_to_Chris-Horney_05-06-Mar-2025_Thread.pdf",
+    "ocr_pdf_file": "CRN-47240214305_Ben_to_Chris-Horney_05-06-Mar-2025_Thread_ocr.pdf",
+    "ocr_text_file": "CRN-47240214305_Ben_to_Chris-Horney_05-06-Mar-2025_Thread.txt",
+    "sha256": "7fb4f388eb7bcb97e48178b7332088bba6438a27ed36510436cdba75d8ff9ae6",
+    "source_folder": ".",
+    "ingested_on": "2025-09-06T14:26:23.723373",
+    "ingest_method": "ocr_smart"
+  },
+  "links": {
+    "source_file_original": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_unprocessed/CRN-47240214305_Ben_to_Chris-Horney_05-06-Mar-2025_Thread.pdf",
+    "ocr_pdf_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_ocrd/CRN-47240214305_Ben_to_Chris-Horney_05-06-Mar-2025_Thread_ocr.pdf",
+    "ocr_text_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/text/CRN-47240214305_Ben_to_Chris-Horney_05-06-Mar-2025_Thread.txt"
+  },
+  "tags": [
+    "auto_ocr",
+    "crn",
+    "chris",
+    "horney",
+    "mar",
+    "47240214305",
+    "2025",
+    "ben"
+  ]
+}

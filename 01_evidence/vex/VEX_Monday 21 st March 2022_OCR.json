@@ -1,0 +1,25 @@
+{
+  "id": "VEX_Monday 21 st March 2022_OCR",
+  "type": "evidence",
+  "source": "Smart OCR Ingest",
+  "date": "DATE_NOT_FOUND",
+  "summary": "Auto-ingested from file: Monday 21 st March 2022.pdf",
+  "meta": {
+    "original_filename": "Monday 21 st March 2022.pdf",
+    "ocr_pdf_file": "Monday 21 st March 2022_ocr.pdf",
+    "ocr_text_file": "Monday 21 st March 2022.txt",
+    "sha256": "d18a5b4c3193d684746c3eeff39c7cd014a194902dbcfcf017b281497c8d4375",
+    "source_folder": ".",
+    "ingested_on": "2025-09-06T14:32:08.086596",
+    "ingest_method": "ocr_smart"
+  },
+  "links": {
+    "source_file_original": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_unprocessed/Monday 21 st March 2022.pdf",
+    "ocr_pdf_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_ocrd/Monday 21 st March 2022_ocr.pdf",
+    "ocr_text_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/text/Monday 21 st March 2022.txt"
+  },
+  "tags": [
+    "auto_ocr",
+    "monday 21 st march 2022"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "VEX_Alanna_Evidence_Prior_To Arrest_Google_Drive_iJjhdS3LV4gVbSmjOpB3xfkffmbf08vu?usp=drive_link_OCR",
+  "type": "evidence",
+  "source": "Smart OCR Ingest",
+  "date": "DATE_NOT_FOUND",
+  "summary": "Auto-ingested from file: Alanna_Evidence_Prior_To Arrest_Google_Drive_iJjhdS3LV4gVbSmjOpB3xfkffmbf08vu?usp=drive_link.pdf",
+  "meta": {
+    "original_filename": "Alanna_Evidence_Prior_To Arrest_Google_Drive_iJjhdS3LV4gVbSmjOpB3xfkffmbf08vu?usp=drive_link.pdf",
+    "ocr_pdf_file": "Alanna_Evidence_Prior_To Arrest_Google_Drive_iJjhdS3LV4gVbSmjOpB3xfkffmbf08vu?usp=drive_link_ocr.pdf",
+    "ocr_text_file": "Alanna_Evidence_Prior_To Arrest_Google_Drive_iJjhdS3LV4gVbSmjOpB3xfkffmbf08vu?usp=drive_link.txt",
+    "sha256": "3c1a4b3300f4cc70320447b3f19bf77198cc77f48bc4a1cd205d04c11b9388a1",
+    "source_folder": ".",
+    "ingested_on": "2025-09-06T14:34:57.891301",
+    "ingest_method": "ocr_smart"
+  },
+  "links": {
+    "source_file_original": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_unprocessed/Alanna_Evidence_Prior_To Arrest_Google_Drive_iJjhdS3LV4gVbSmjOpB3xfkffmbf08vu?usp=drive_link.pdf",
+    "ocr_pdf_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_ocrd/Alanna_Evidence_Prior_To Arrest_Google_Drive_iJjhdS3LV4gVbSmjOpB3xfkffmbf08vu?usp=drive_link_ocr.pdf",
+    "ocr_text_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/text/Alanna_Evidence_Prior_To Arrest_Google_Drive_iJjhdS3LV4gVbSmjOpB3xfkffmbf08vu?usp=drive_link.txt"
+  },
+  "tags": [
+    "auto_ocr",
+    "prior",
+    "drive",
+    "alanna",
+    "ijjhds3lv4gvbsmjopb3xfkffmbf08vu?usp=drive",
+    "to arrest",
+    "link",
+    "google",
+    "evidence"
+  ]
+}

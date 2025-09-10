@@ -1,0 +1,28 @@
+{
+  "id": "VEX_3.39_ The Charity Shield_ How State-Funded Advocacy Was Weaponised for Narrative Control_OCR",
+  "type": "evidence",
+  "source": "Smart OCR Ingest",
+  "date": "DATE_NOT_FOUND",
+  "summary": "Auto-ingested from file: 3.39_ The Charity Shield_ How State-Funded Advocacy Was Weaponised for Narrative Control.pdf",
+  "meta": {
+    "original_filename": "3.39_ The Charity Shield_ How State-Funded Advocacy Was Weaponised for Narrative Control.pdf",
+    "ocr_pdf_file": "3.39_ The Charity Shield_ How State-Funded Advocacy Was Weaponised for Narrative Control_ocr.pdf",
+    "ocr_text_file": "3.39_ The Charity Shield_ How State-Funded Advocacy Was Weaponised for Narrative Control.txt",
+    "sha256": "ded94e4323b54020b6ec67286122c281ca2c4cef6862617f4e53f0a5ea7b91b5",
+    "source_folder": ".",
+    "ingested_on": "2025-09-06T14:15:49.314025",
+    "ingest_method": "ocr_smart"
+  },
+  "links": {
+    "source_file_original": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_unprocessed/3.39_ The Charity Shield_ How State-Funded Advocacy Was Weaponised for Narrative Control.pdf",
+    "ocr_pdf_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_ocrd/3.39_ The Charity Shield_ How State-Funded Advocacy Was Weaponised for Narrative Control_ocr.pdf",
+    "ocr_text_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/text/3.39_ The Charity Shield_ How State-Funded Advocacy Was Weaponised for Narrative Control.txt"
+  },
+  "tags": [
+    "auto_ocr",
+    " how state",
+    " the charity shield",
+    "funded advocacy was weaponised for narrative control",
+    "3.39"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": "VEX_17 July 2025 at 11-59 - RE; DEADLINE URGENT_ SAR Breach, Safeguarding Silence, and Deadline for Disclosure (17 July, 5pm)_OCR",
+  "type": "evidence",
+  "source": "Smart OCR Ingest",
+  "date": "DATE_NOT_FOUND",
+  "summary": "Auto-ingested from file: 17 July 2025 at 11-59 - RE; DEADLINE URGENT_ SAR Breach, Safeguarding Silence, and Deadline for Disclosure (17 July, 5pm).pdf",
+  "meta": {
+    "original_filename": "17 July 2025 at 11-59 - RE; DEADLINE URGENT_ SAR Breach, Safeguarding Silence, and Deadline for Disclosure (17 July, 5pm).pdf",
+    "ocr_pdf_file": "17 July 2025 at 11-59 - RE; DEADLINE URGENT_ SAR Breach, Safeguarding Silence, and Deadline for Disclosure (17 July, 5pm)_ocr.pdf",
+    "ocr_text_file": "17 July 2025 at 11-59 - RE; DEADLINE URGENT_ SAR Breach, Safeguarding Silence, and Deadline for Disclosure (17 July, 5pm).txt",
+    "sha256": "e18763bfa6d9d94db79bd753e1b878704210c1af85f430e6d20ae60dc73bb854",
+    "source_folder": ".",
+    "ingested_on": "2025-09-06T14:45:12.441990",
+    "ingest_method": "ocr_smart"
+  },
+  "links": {
+    "source_file_original": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_unprocessed/17 July 2025 at 11-59 - RE; DEADLINE URGENT_ SAR Breach, Safeguarding Silence, and Deadline for Disclosure (17 July, 5pm).pdf",
+    "ocr_pdf_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_ocrd/17 July 2025 at 11-59 - RE; DEADLINE URGENT_ SAR Breach, Safeguarding Silence, and Deadline for Disclosure (17 July, 5pm)_ocr.pdf",
+    "ocr_text_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/text/17 July 2025 at 11-59 - RE; DEADLINE URGENT_ SAR Breach, Safeguarding Silence, and Deadline for Disclosure (17 July, 5pm).txt"
+  },
+  "tags": [
+    "auto_ocr",
+    " re; deadline urgent",
+    " sar breach, safeguarding silence, and deadline for disclosure (17 july, 5pm)",
+    "17 july 2025 at 11",
+    "59 "
+  ]
+}

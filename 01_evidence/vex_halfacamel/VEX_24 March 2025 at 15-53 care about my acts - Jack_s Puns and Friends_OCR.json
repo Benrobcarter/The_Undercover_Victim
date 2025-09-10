@@ -1,0 +1,28 @@
+{
+  "id": "VEX_24 March 2025 at 15-53 care about my acts - Jack_s Puns and Friends_OCR",
+  "type": "evidence",
+  "source": "Smart OCR Ingest",
+  "date": "DATE_NOT_FOUND",
+  "summary": "Auto-ingested from file: 24 March 2025 at 15-53 care about my acts - Jack_s Puns and Friends.pdf",
+  "meta": {
+    "original_filename": "24 March 2025 at 15-53 care about my acts - Jack_s Puns and Friends.pdf",
+    "ocr_pdf_file": "24 March 2025 at 15-53 care about my acts - Jack_s Puns and Friends_ocr.pdf",
+    "ocr_text_file": "24 March 2025 at 15-53 care about my acts - Jack_s Puns and Friends.txt",
+    "sha256": "f2edecdcb3df7dea66ccad8660aeca94929462390ecece5d8aa2fd499eb84caa",
+    "source_folder": ".",
+    "ingested_on": "2025-09-06T14:35:52.561798",
+    "ingest_method": "ocr_smart"
+  },
+  "links": {
+    "source_file_original": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_unprocessed/24 March 2025 at 15-53 care about my acts - Jack_s Puns and Friends.pdf",
+    "ocr_pdf_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_ocrd/24 March 2025 at 15-53 care about my acts - Jack_s Puns and Friends_ocr.pdf",
+    "ocr_text_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/text/24 March 2025 at 15-53 care about my acts - Jack_s Puns and Friends.txt"
+  },
+  "tags": [
+    "auto_ocr",
+    "24 march 2025 at 15",
+    "53 care about my acts ",
+    "s puns and friends",
+    " jack"
+  ]
+}

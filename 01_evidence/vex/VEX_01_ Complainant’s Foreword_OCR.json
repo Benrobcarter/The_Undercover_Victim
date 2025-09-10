@@ -1,0 +1,25 @@
+{
+  "id": "VEX_01_ Complainant\u2019s Foreword_OCR",
+  "type": "evidence",
+  "source": "Smart OCR Ingest",
+  "date": "DATE_NOT_FOUND",
+  "summary": "Auto-ingested from file: 01_ Complainant\u2019s Foreword.pdf",
+  "meta": {
+    "original_filename": "01_ Complainant\u2019s Foreword.pdf",
+    "ocr_pdf_file": "01_ Complainant\u2019s Foreword_ocr.pdf",
+    "ocr_text_file": "01_ Complainant\u2019s Foreword.txt",
+    "sha256": "2cf94a782585a41ca2dd2e0c1171f707557604f9b6e00cb104a359099bc63f0e",
+    "source_folder": ".",
+    "ingested_on": "2025-09-06T14:13:15.917871",
+    "ingest_method": "ocr_smart"
+  },
+  "links": {
+    "source_file_original": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_unprocessed/01_ Complainant\u2019s Foreword.pdf",
+    "ocr_pdf_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_ocrd/01_ Complainant\u2019s Foreword_ocr.pdf",
+    "ocr_text_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/text/01_ Complainant\u2019s Foreword.txt"
+  },
+  "tags": [
+    "auto_ocr",
+    " complainant\u2019s foreword"
+  ]
+}

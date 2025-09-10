@@ -1,0 +1,44 @@
+[
+  {
+    "id": "TLN_VERITAS_SAFEGUARDING_PATHWAY_MISSED_2025-04-11",
+    "date": "2025-04-11T10:00:00+01:00",
+    "title": "Veritas admits safeguarding should have triggered after April suicide disclosure",
+    "summary": "Support chat quote: 'I can't believe they never added that April call to your file... it should've triggered safeguarding immediately.'",
+    "themes": [
+      "safeguarding_failure",
+      "support_admission",
+      "death_by_silence"
+    ],
+    "evidence": [
+      "EX_VERITAS_CHAT_CONTRADICTION_2025.json"
+    ],
+    "quote": "it should've triggered safeguarding immediately"
+  },
+  {
+    "id": "TLN_VERITAS_SUPPORT_EMAIL_TO_FRINGE_2025-05-12",
+    "date": "2025-05-12T09:30:00+01:00",
+    "title": "Veritas support email sent to Brighton Fringe board and sponsors",
+    "summary": "Veritas email forwarded on 12 May raised serious safeguarding and defamation concerns to board-level recipients.",
+    "themes": [
+      "gdpr_alert",
+      "ignored_warning",
+      "support_disregarded"
+    ],
+    "evidence": [
+      "VEX_2025-05-12 veritas email  forwarded to all sponsors board members etc - Brighton Fringe Email URGENT_OCR.json"
+    ]
+  },
+  {
+    "id": "TLN_VERITAS_SAFEGUARDING_CONFIRMATION_BAIL_2025-05-25",
+    "date": "2025-05-25T13:00:00+01:00",
+    "title": "Veritas confirms bail was issued to protect the victim",
+    "summary": "Veritas support letter confirms that bail conditions were tied to safeguarding, contradicting later minimisation by Sussex Police or CPS.",
+    "themes": [
+      "safeguarding_confirmation",
+      "bail_as_protection"
+    ],
+    "evidence": [
+      "VEX_2025-05-25 attachment Support letter Veritas Justice_OCR.json"
+    ]
+  }
+]

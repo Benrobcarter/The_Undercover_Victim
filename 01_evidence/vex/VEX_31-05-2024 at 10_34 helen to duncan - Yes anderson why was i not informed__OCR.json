@@ -1,0 +1,27 @@
+{
+  "id": "VEX_31-05-2024 at 10_34 helen to duncan - Yes anderson why was i not informed__OCR",
+  "type": "evidence",
+  "source": "Smart OCR Ingest",
+  "date": "DATE_NOT_FOUND",
+  "summary": "Auto-ingested from file: 31-05-2024 at 10_34 helen to duncan - Yes anderson why was i not informed_.pdf",
+  "meta": {
+    "original_filename": "31-05-2024 at 10_34 helen to duncan - Yes anderson why was i not informed_.pdf",
+    "ocr_pdf_file": "31-05-2024 at 10_34 helen to duncan - Yes anderson why was i not informed__ocr.pdf",
+    "ocr_text_file": "31-05-2024 at 10_34 helen to duncan - Yes anderson why was i not informed_.txt",
+    "sha256": "6b298e3a74a388f399c72c65c071e248a72b15e52c4832d88ec7e5fb77e3fee9",
+    "source_folder": ".",
+    "ingested_on": "2025-09-06T14:15:14.632005",
+    "ingest_method": "ocr_smart"
+  },
+  "links": {
+    "source_file_original": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_unprocessed/31-05-2024 at 10_34 helen to duncan - Yes anderson why was i not informed_.pdf",
+    "ocr_pdf_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_ocrd/31-05-2024 at 10_34 helen to duncan - Yes anderson why was i not informed__ocr.pdf",
+    "ocr_text_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/text/31-05-2024 at 10_34 helen to duncan - Yes anderson why was i not informed_.txt"
+  },
+  "tags": [
+    "auto_ocr",
+    "34 helen to duncan ",
+    " yes anderson why was i not informed",
+    "2024 at 10"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": "VEX_23 August 2025 at 13-00  - Formal Request to Make a Victim Personal Statement \u2013 Crime Reference Numbers_ 47240141246, 47240214305, 47250093423, 47250152583, 701211_OCR",
+  "type": "evidence",
+  "source": "Smart OCR Ingest",
+  "date": "DATE_NOT_FOUND",
+  "summary": "Auto-ingested from file: 23 August 2025 at 13-00  - Formal Request to Make a Victim Personal Statement \u2013 Crime Reference Numbers_ 47240141246, 47240214305, 47250093423, 47250152583, 701211.pdf",
+  "meta": {
+    "original_filename": "23 August 2025 at 13-00  - Formal Request to Make a Victim Personal Statement \u2013 Crime Reference Numbers_ 47240141246, 47240214305, 47250093423, 47250152583, 701211.pdf",
+    "ocr_pdf_file": "23 August 2025 at 13-00  - Formal Request to Make a Victim Personal Statement \u2013 Crime Reference Numbers_ 47240141246, 47240214305, 47250093423, 47250152583, 701211_ocr.pdf",
+    "ocr_text_file": "23 August 2025 at 13-00  - Formal Request to Make a Victim Personal Statement \u2013 Crime Reference Numbers_ 47240141246, 47240214305, 47250093423, 47250152583, 701211.txt",
+    "sha256": "5e0b5a38821f06c036635cd622ae73e20b98c34dbecffba16213591a95cfa551",
+    "source_folder": ".",
+    "ingested_on": "2025-09-06T14:14:06.024349",
+    "ingest_method": "ocr_smart"
+  },
+  "links": {
+    "source_file_original": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_unprocessed/23 August 2025 at 13-00  - Formal Request to Make a Victim Personal Statement \u2013 Crime Reference Numbers_ 47240141246, 47240214305, 47250093423, 47250152583, 701211.pdf",
+    "ocr_pdf_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_ocrd/23 August 2025 at 13-00  - Formal Request to Make a Victim Personal Statement \u2013 Crime Reference Numbers_ 47240141246, 47240214305, 47250093423, 47250152583, 701211_ocr.pdf",
+    "ocr_text_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/text/23 August 2025 at 13-00  - Formal Request to Make a Victim Personal Statement \u2013 Crime Reference Numbers_ 47240141246, 47240214305, 47250093423, 47250152583, 701211.txt"
+  },
+  "tags": [
+    "auto_ocr",
+    "00  ",
+    " formal request to make a victim personal statement \u2013 crime reference numbers",
+    "23 august 2025 at 13",
+    " 47240141246, 47240214305, 47250093423, 47250152583, 701211"
+  ]
+}

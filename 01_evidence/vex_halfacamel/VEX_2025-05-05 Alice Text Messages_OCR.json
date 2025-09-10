@@ -1,0 +1,26 @@
+{
+  "id": "VEX_2025-05-05 Alice Text Messages_OCR",
+  "type": "evidence",
+  "source": "Smart OCR Ingest",
+  "date": "2025-05-05",
+  "summary": "Auto-ingested from file: 2025-05-05 Alice Text Messages.pdf",
+  "meta": {
+    "original_filename": "2025-05-05 Alice Text Messages.pdf",
+    "ocr_pdf_file": "2025-05-05 Alice Text Messages_ocr.pdf",
+    "ocr_text_file": "2025-05-05 Alice Text Messages.txt",
+    "sha256": "6f117ba15c34376324289b8de433b3930ba771326930b5a564952bd47a0df037",
+    "source_folder": ".",
+    "ingested_on": "2025-09-06T23:12:55.574578",
+    "ingest_method": "ocr_smart"
+  },
+  "links": {
+    "source_file_original": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_unprocessed/2025-05-05 Alice Text Messages.pdf",
+    "ocr_pdf_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_ocrd/2025-05-05 Alice Text Messages_ocr.pdf",
+    "ocr_text_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/text/2025-05-05 Alice Text Messages.txt"
+  },
+  "tags": [
+    "auto_ocr",
+    "2025",
+    "05 alice text messages"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "VEX_25 March 2025 at 00-55 fulfilling their box office obligations - venue and date change_OCR",
+  "type": "evidence",
+  "source": "Smart OCR Ingest",
+  "date": "DATE_NOT_FOUND",
+  "summary": "Auto-ingested from file: 25 March 2025 at 00-55 fulfilling their box office obligations - venue and date change.pdf",
+  "meta": {
+    "original_filename": "25 March 2025 at 00-55 fulfilling their box office obligations - venue and date change.pdf",
+    "ocr_pdf_file": "25 March 2025 at 00-55 fulfilling their box office obligations - venue and date change_ocr.pdf",
+    "ocr_text_file": "25 March 2025 at 00-55 fulfilling their box office obligations - venue and date change.txt",
+    "sha256": "19d78222415080b31ce39c060ac4cc1abb8d24df13e351419a5d93147883d7c3",
+    "source_folder": ".",
+    "ingested_on": "2025-09-06T14:32:51.817871",
+    "ingest_method": "ocr_smart"
+  },
+  "links": {
+    "source_file_original": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_unprocessed/25 March 2025 at 00-55 fulfilling their box office obligations - venue and date change.pdf",
+    "ocr_pdf_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_ocrd/25 March 2025 at 00-55 fulfilling their box office obligations - venue and date change_ocr.pdf",
+    "ocr_text_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/text/25 March 2025 at 00-55 fulfilling their box office obligations - venue and date change.txt"
+  },
+  "tags": [
+    "auto_ocr",
+    " venue and date change",
+    "25 march 2025 at 00",
+    "55 fulfilling their box office obligations "
+  ]
+}

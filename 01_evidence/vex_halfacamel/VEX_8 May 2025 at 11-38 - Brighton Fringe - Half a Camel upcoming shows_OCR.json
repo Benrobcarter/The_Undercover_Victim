@@ -1,0 +1,28 @@
+{
+  "id": "VEX_8 May 2025 at 11-38 - Brighton Fringe - Half a Camel upcoming shows_OCR",
+  "type": "evidence",
+  "source": "Smart OCR Ingest",
+  "date": "DATE_NOT_FOUND",
+  "summary": "Auto-ingested from file: 8 May 2025 at 11-38 - Brighton Fringe - Half a Camel upcoming shows.pdf",
+  "meta": {
+    "original_filename": "8 May 2025 at 11-38 - Brighton Fringe - Half a Camel upcoming shows.pdf",
+    "ocr_pdf_file": "8 May 2025 at 11-38 - Brighton Fringe - Half a Camel upcoming shows_ocr.pdf",
+    "ocr_text_file": "8 May 2025 at 11-38 - Brighton Fringe - Half a Camel upcoming shows.txt",
+    "sha256": "db55e89c42b29adf948dbac4a48cb75888c8b08c934bb8fbf019b8272c13884c",
+    "source_folder": ".",
+    "ingested_on": "2025-09-06T14:04:47.387817",
+    "ingest_method": "ocr_smart"
+  },
+  "links": {
+    "source_file_original": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_unprocessed/8 May 2025 at 11-38 - Brighton Fringe - Half a Camel upcoming shows.pdf",
+    "ocr_pdf_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_ocrd/8 May 2025 at 11-38 - Brighton Fringe - Half a Camel upcoming shows_ocr.pdf",
+    "ocr_text_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/text/8 May 2025 at 11-38 - Brighton Fringe - Half a Camel upcoming shows.txt"
+  },
+  "tags": [
+    "auto_ocr",
+    "8 may 2025 at 11",
+    "38 ",
+    " brighton fringe ",
+    " half a camel upcoming shows"
+  ]
+}

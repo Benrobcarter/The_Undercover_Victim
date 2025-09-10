@@ -1,0 +1,29 @@
+{
+  "id": "VEX_EVID_2025-05-08_BrightonFringe_VenueManagement_Takeover_OCR",
+  "type": "evidence",
+  "source": "Smart OCR Ingest",
+  "date": "2025-05-08",
+  "summary": "Auto-ingested from file: EVID_2025-05-08_BrightonFringe_VenueManagement_Takeover.pdf",
+  "meta": {
+    "original_filename": "EVID_2025-05-08_BrightonFringe_VenueManagement_Takeover.pdf",
+    "ocr_pdf_file": "EVID_2025-05-08_BrightonFringe_VenueManagement_Takeover_ocr.pdf",
+    "ocr_text_file": "EVID_2025-05-08_BrightonFringe_VenueManagement_Takeover.txt",
+    "sha256": "c7625e2a20f7df3484e50df187e14aa2115ddd2c00a21e3fd8860fe952ddb8b6",
+    "source_folder": ".",
+    "ingested_on": "2025-09-06T14:07:36.265687",
+    "ingest_method": "ocr_smart"
+  },
+  "links": {
+    "source_file_original": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_unprocessed/EVID_2025-05-08_BrightonFringe_VenueManagement_Takeover.pdf",
+    "ocr_pdf_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_ocrd/EVID_2025-05-08_BrightonFringe_VenueManagement_Takeover_ocr.pdf",
+    "ocr_text_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/text/EVID_2025-05-08_BrightonFringe_VenueManagement_Takeover.txt"
+  },
+  "tags": [
+    "auto_ocr",
+    "takeover",
+    "evid",
+    "brightonfringe",
+    "2025",
+    "venuemanagement"
+  ]
+}

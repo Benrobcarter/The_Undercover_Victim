@@ -1,0 +1,27 @@
+{
+  "id": "VEX_2025-05-06 at 14-08 Press release and more things I can do to help_OCR",
+  "type": "evidence",
+  "source": "Smart OCR Ingest",
+  "date": "2025-05-06",
+  "summary": "Auto-ingested from file: 2025-05-06 at 14-08 Press release and more things I can do to help.pdf",
+  "meta": {
+    "original_filename": "2025-05-06 at 14-08 Press release and more things I can do to help.pdf",
+    "ocr_pdf_file": "2025-05-06 at 14-08 Press release and more things I can do to help_ocr.pdf",
+    "ocr_text_file": "2025-05-06 at 14-08 Press release and more things I can do to help.txt",
+    "sha256": "dc8714ee905d5da41efc006982f202946f836d1f0a027145bcb706de9da25527",
+    "source_folder": ".",
+    "ingested_on": "2025-09-06T23:12:15.652281",
+    "ingest_method": "ocr_smart"
+  },
+  "links": {
+    "source_file_original": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_unprocessed/2025-05-06 at 14-08 Press release and more things I can do to help.pdf",
+    "ocr_pdf_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_ocrd/2025-05-06 at 14-08 Press release and more things I can do to help_ocr.pdf",
+    "ocr_text_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/text/2025-05-06 at 14-08 Press release and more things I can do to help.txt"
+  },
+  "tags": [
+    "auto_ocr",
+    "2025",
+    "08 press release and more things i can do to help",
+    "06 at 14"
+  ]
+}

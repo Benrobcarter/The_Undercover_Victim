@@ -1,0 +1,7 @@
+This is a test document for the Undercover Victim OCR pipeline. Date of Evidence: July 15, 2025
+Subject: Police mishandling of safeguarding concern Summary: Ben Carter submitted this PDF as
+part of the auto-ingest trial for scanned documents. This should appear in the VEX shard, text
+folder, and manifest once processed. Keywords: Sussex Police, safeguarding, victim handling, PDF
+OCR, test evidence
+
+

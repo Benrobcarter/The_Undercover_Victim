@@ -1,0 +1,26 @@
+{
+  "id": "VEX_1st May Brighton Fringe returns on Friday with eclectic programme _ The Argus_OCR",
+  "type": "evidence",
+  "source": "Smart OCR Ingest",
+  "date": "DATE_NOT_FOUND",
+  "summary": "Auto-ingested from file: 1st May Brighton Fringe returns on Friday with eclectic programme _ The Argus.pdf",
+  "meta": {
+    "original_filename": "1st May Brighton Fringe returns on Friday with eclectic programme _ The Argus.pdf",
+    "ocr_pdf_file": "1st May Brighton Fringe returns on Friday with eclectic programme _ The Argus_ocr.pdf",
+    "ocr_text_file": "1st May Brighton Fringe returns on Friday with eclectic programme _ The Argus.txt",
+    "sha256": "e4b4527a75db39297c284456dad811102a968c9a1a828a0e34ca41b786764134",
+    "source_folder": ".",
+    "ingested_on": "2025-09-06T14:21:46.268802",
+    "ingest_method": "ocr_smart"
+  },
+  "links": {
+    "source_file_original": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_unprocessed/1st May Brighton Fringe returns on Friday with eclectic programme _ The Argus.pdf",
+    "ocr_pdf_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_ocrd/1st May Brighton Fringe returns on Friday with eclectic programme _ The Argus_ocr.pdf",
+    "ocr_text_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/text/1st May Brighton Fringe returns on Friday with eclectic programme _ The Argus.txt"
+  },
+  "tags": [
+    "auto_ocr",
+    "1st may brighton fringe returns on friday with eclectic programme ",
+    " the argus"
+  ]
+}

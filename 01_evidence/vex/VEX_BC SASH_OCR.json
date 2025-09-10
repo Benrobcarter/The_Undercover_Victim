@@ -1,0 +1,25 @@
+{
+  "id": "VEX_BC SASH_OCR",
+  "type": "evidence",
+  "source": "Smart OCR Ingest",
+  "date": "DATE_NOT_FOUND",
+  "summary": "Auto-ingested from file: BC SASH.pdf",
+  "meta": {
+    "original_filename": "BC SASH.pdf",
+    "ocr_pdf_file": "BC SASH_ocr.pdf",
+    "ocr_text_file": "BC SASH.txt",
+    "sha256": "0ab91551bec517caecc9e9c2650b3b4b0d3f619724131847fdf22009ead28317",
+    "source_folder": ".",
+    "ingested_on": "2025-09-06T14:33:41.737081",
+    "ingest_method": "ocr_smart"
+  },
+  "links": {
+    "source_file_original": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_unprocessed/BC SASH.pdf",
+    "ocr_pdf_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_ocrd/BC SASH_ocr.pdf",
+    "ocr_text_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/text/BC SASH.txt"
+  },
+  "tags": [
+    "auto_ocr",
+    "bc sash"
+  ]
+}

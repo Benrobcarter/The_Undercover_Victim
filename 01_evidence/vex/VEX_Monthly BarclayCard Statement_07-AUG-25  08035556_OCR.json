@@ -1,0 +1,27 @@
+{
+  "id": "VEX_Monthly BarclayCard Statement_07-AUG-25  08035556_OCR",
+  "type": "evidence",
+  "source": "Smart OCR Ingest",
+  "date": "DATE_NOT_FOUND",
+  "summary": "Auto-ingested from file: Monthly BarclayCard Statement_07-AUG-25  08035556.pdf",
+  "meta": {
+    "original_filename": "Monthly BarclayCard Statement_07-AUG-25  08035556.pdf",
+    "ocr_pdf_file": "Monthly BarclayCard Statement_07-AUG-25  08035556_ocr.pdf",
+    "ocr_text_file": "Monthly BarclayCard Statement_07-AUG-25  08035556.txt",
+    "sha256": "fc7546f29e3f9fd9e0caaffebb51d214c762ac66348e8cd71bb40a7a9e3f0c5a",
+    "source_folder": ".",
+    "ingested_on": "2025-09-06T14:21:01.524027",
+    "ingest_method": "ocr_smart"
+  },
+  "links": {
+    "source_file_original": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_unprocessed/Monthly BarclayCard Statement_07-AUG-25  08035556.pdf",
+    "ocr_pdf_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_ocrd/Monthly BarclayCard Statement_07-AUG-25  08035556_ocr.pdf",
+    "ocr_text_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/text/Monthly BarclayCard Statement_07-AUG-25  08035556.txt"
+  },
+  "tags": [
+    "auto_ocr",
+    "aug",
+    "monthly barclaycard statement",
+    "25  08035556"
+  ]
+}

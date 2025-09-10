@@ -1,0 +1,28 @@
+{
+  "id": "VEX_28 July 2025 at 06-25 Proving Duncan never insured my venues anyway - Making Me Liable - Truce__OCR",
+  "type": "evidence",
+  "source": "Smart OCR Ingest",
+  "date": "DATE_NOT_FOUND",
+  "summary": "Auto-ingested from file: 28 July 2025 at 06-25 Proving Duncan never insured my venues anyway - Making Me Liable - Truce_.pdf",
+  "meta": {
+    "original_filename": "28 July 2025 at 06-25 Proving Duncan never insured my venues anyway - Making Me Liable - Truce_.pdf",
+    "ocr_pdf_file": "28 July 2025 at 06-25 Proving Duncan never insured my venues anyway - Making Me Liable - Truce__ocr.pdf",
+    "ocr_text_file": "28 July 2025 at 06-25 Proving Duncan never insured my venues anyway - Making Me Liable - Truce_.txt",
+    "sha256": "aba9146e2c09130743ec1e8695514f78175122816b251e66af5058063cffb778",
+    "source_folder": ".",
+    "ingested_on": "2025-09-06T14:17:27.256181",
+    "ingest_method": "ocr_smart"
+  },
+  "links": {
+    "source_file_original": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_unprocessed/28 July 2025 at 06-25 Proving Duncan never insured my venues anyway - Making Me Liable - Truce_.pdf",
+    "ocr_pdf_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_ocrd/28 July 2025 at 06-25 Proving Duncan never insured my venues anyway - Making Me Liable - Truce__ocr.pdf",
+    "ocr_text_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/text/28 July 2025 at 06-25 Proving Duncan never insured my venues anyway - Making Me Liable - Truce_.txt"
+  },
+  "tags": [
+    "auto_ocr",
+    " truce",
+    " making me liable ",
+    "28 july 2025 at 06",
+    "25 proving duncan never insured my venues anyway "
+  ]
+}

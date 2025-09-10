@@ -1,0 +1,69 @@
+{
+  "timeline_id": "NICE_LINK_SUPPRESSION_TIMELINE",
+  "title": "NICE Link Suppression: Digital Policing Evidence Trail vs Public Denials",
+  "description": "This timeline visualizes the sequence of NICE evidence links sent via Digital Policing from November 4 to November 14, 2024, alongside later denials by Veritas (Emma Jones) and Sussex Police that such evidence was ever provided or received.",
+  "events": [
+    {
+      "date": "2024-11-04T05:36:00",
+      "summary": "Digital Policing sends Ben a NICE link to submit evidence via secure portal.",
+      "source_file": "2024-11-04_Digital-Policing_to_Ben_Evidence-Portal-Request.json",
+      "tags": [
+        "nice_link_sent",
+        "submission_instruction"
+      ]
+    },
+    {
+      "date": "2024-11-04T15:39:00",
+      "summary": "Second NICE link issued to Ben referencing Jonathan Dixon.",
+      "source_file": "2024-11-04_Digital-Policing_to_Ben_Jonathan-Dixon-Request.json",
+      "tags": [
+        "nice_link_sent",
+        "link_traceable",
+        "auto_contradiction"
+      ]
+    },
+    {
+      "date": "2024-11-13T13:39:00",
+      "summary": "Further email references prior links and timelines for expiry.",
+      "source_file": "2024-11-13_Digital-Policing_to_Ben_Jonathan-Dixon-Request.json",
+      "tags": [
+        "link_expiry_reference",
+        "trace_evidence"
+      ]
+    },
+    {
+      "date": "2024-11-14T11:58:00",
+      "summary": "Final email in the sequence with no confirmation of review by Sussex Police.",
+      "source_file": "2024-11-14_Digital-Policing_to_Ben_Jonathan-Dixon-Request-1158.json",
+      "tags": [
+        "no_action",
+        "ignored_submission"
+      ]
+    },
+    {
+      "date": "2025-08-25",
+      "summary": "Emma Jones (Veritas) claims NICE links were not used or relevant.",
+      "source_file": "VERITAS_ASSERTIONS_CONTRADICTABLE_2025-08-25.json",
+      "tags": [
+        "public_denial",
+        "veritas_contradiction",
+        "record_dispute"
+      ]
+    },
+    {
+      "date": "2024-12-13T13:03:00",
+      "summary": "Final NICE link communication sent to Ben on Dec 13, no follow-up recorded.",
+      "source_file": "2024-12-13_Digital-Policing_to_Ben_Jonathan-Dixon-Request_Email-7.json",
+      "tags": [
+        "no_followup",
+        "final_nice_link",
+        "veritas_contradiction"
+      ]
+    }
+  ],
+  "linked_contradictions": [
+    "AUTO_DIGPOL_NICE_20241104_1539"
+  ],
+  "created_by": "ben.carter",
+  "last_updated": "2025-09-09"
+}

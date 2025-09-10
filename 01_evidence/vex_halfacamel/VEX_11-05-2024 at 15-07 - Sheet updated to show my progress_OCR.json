@@ -1,0 +1,27 @@
+{
+  "id": "VEX_11-05-2024 at 15-07 - Sheet updated to show my progress_OCR",
+  "type": "evidence",
+  "source": "Smart OCR Ingest",
+  "date": "DATE_NOT_FOUND",
+  "summary": "Auto-ingested from file: 11-05-2024 at 15-07 - Sheet updated to show my progress.pdf",
+  "meta": {
+    "original_filename": "11-05-2024 at 15-07 - Sheet updated to show my progress.pdf",
+    "ocr_pdf_file": "11-05-2024 at 15-07 - Sheet updated to show my progress_ocr.pdf",
+    "ocr_text_file": "11-05-2024 at 15-07 - Sheet updated to show my progress.txt",
+    "sha256": "13b2b99218b40fa2f69e7c15f02b0ac076dd6d4ddae1baa850945fdf95613c24",
+    "source_folder": ".",
+    "ingested_on": "2025-09-06T14:29:53.802735",
+    "ingest_method": "ocr_smart"
+  },
+  "links": {
+    "source_file_original": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_unprocessed/11-05-2024 at 15-07 - Sheet updated to show my progress.pdf",
+    "ocr_pdf_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_ocrd/11-05-2024 at 15-07 - Sheet updated to show my progress_ocr.pdf",
+    "ocr_text_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/text/11-05-2024 at 15-07 - Sheet updated to show my progress.txt"
+  },
+  "tags": [
+    "auto_ocr",
+    " sheet updated to show my progress",
+    "2024 at 15",
+    "07 "
+  ]
+}

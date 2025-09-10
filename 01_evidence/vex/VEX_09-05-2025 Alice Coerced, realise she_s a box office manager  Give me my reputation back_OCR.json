@@ -1,0 +1,26 @@
+{
+  "id": "VEX_09-05-2025 Alice Coerced, realise she_s a box office manager  Give me my reputation back_OCR",
+  "type": "evidence",
+  "source": "Smart OCR Ingest",
+  "date": "DATE_NOT_FOUND",
+  "summary": "Auto-ingested from file: 09-05-2025 Alice Coerced, realise she_s a box office manager  Give me my reputation back.pdf",
+  "meta": {
+    "original_filename": "09-05-2025 Alice Coerced, realise she_s a box office manager  Give me my reputation back.pdf",
+    "ocr_pdf_file": "09-05-2025 Alice Coerced, realise she_s a box office manager  Give me my reputation back_ocr.pdf",
+    "ocr_text_file": "09-05-2025 Alice Coerced, realise she_s a box office manager  Give me my reputation back.txt",
+    "sha256": "697788e20256f02a1b9aa21cb9ec0181d0ecc14f28cdf6b897082c0f362529f2",
+    "source_folder": ".",
+    "ingested_on": "2025-09-06T14:45:25.662792",
+    "ingest_method": "ocr_smart"
+  },
+  "links": {
+    "source_file_original": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_unprocessed/09-05-2025 Alice Coerced, realise she_s a box office manager  Give me my reputation back.pdf",
+    "ocr_pdf_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_ocrd/09-05-2025 Alice Coerced, realise she_s a box office manager  Give me my reputation back_ocr.pdf",
+    "ocr_text_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/text/09-05-2025 Alice Coerced, realise she_s a box office manager  Give me my reputation back.txt"
+  },
+  "tags": [
+    "auto_ocr",
+    "2025 alice coerced, realise she",
+    "s a box office manager  give me my reputation back"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "VEX_BF agenda 130323 march 13th_OCR",
+  "type": "evidence",
+  "source": "Smart OCR Ingest",
+  "date": "DATE_NOT_FOUND",
+  "summary": "Auto-ingested from file: BF agenda 130323 march 13th.pdf",
+  "meta": {
+    "original_filename": "BF agenda 130323 march 13th.pdf",
+    "ocr_pdf_file": "BF agenda 130323 march 13th_ocr.pdf",
+    "ocr_text_file": "BF agenda 130323 march 13th.txt",
+    "sha256": "9e0d3858f89bad6ad27bfd4860f3e0030706c815be46c33ec440f4f83a243e35",
+    "source_folder": ".",
+    "ingested_on": "2025-09-06T14:27:26.302456",
+    "ingest_method": "ocr_smart"
+  },
+  "links": {
+    "source_file_original": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_unprocessed/BF agenda 130323 march 13th.pdf",
+    "ocr_pdf_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_ocrd/BF agenda 130323 march 13th_ocr.pdf",
+    "ocr_text_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/text/BF agenda 130323 march 13th.txt"
+  },
+  "tags": [
+    "auto_ocr",
+    "bf agenda 130323 march 13th"
+  ]
+}

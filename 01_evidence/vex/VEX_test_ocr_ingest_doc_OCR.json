@@ -1,0 +1,27 @@
+{
+  "id": "VEX_test_ocr_ingest_doc_OCR",
+  "type": "evidence",
+  "source": "Smart OCR Ingest",
+  "date": "DATE_NOT_FOUND",
+  "summary": "Auto-ingested from file: test_ocr_ingest_doc.pdf",
+  "meta": {
+    "original_filename": "test_ocr_ingest_doc.pdf",
+    "ocr_pdf_file": "test_ocr_ingest_doc_ocr.pdf",
+    "ocr_text_file": "test_ocr_ingest_doc.txt",
+    "sha256": "f14eb327ae7a8d4738afc7097a6fd52b67aa33c743b8188d1352c2762724e039",
+    "source_folder": ".",
+    "ingested_on": "2025-09-06T14:19:28.108210",
+    "ingest_method": "ocr_smart"
+  },
+  "links": {
+    "source_file_original": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_unprocessed/test_ocr_ingest_doc.pdf",
+    "ocr_pdf_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_ocrd/test_ocr_ingest_doc_ocr.pdf",
+    "ocr_text_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/text/test_ocr_ingest_doc.txt"
+  },
+  "tags": [
+    "auto_ocr",
+    "ingest",
+    "test",
+    "doc"
+  ]
+}

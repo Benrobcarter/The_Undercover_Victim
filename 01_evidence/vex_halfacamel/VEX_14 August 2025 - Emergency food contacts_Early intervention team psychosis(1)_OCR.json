@@ -1,0 +1,27 @@
+{
+  "id": "VEX_14 August 2025 - Emergency food contacts_Early intervention team psychosis(1)_OCR",
+  "type": "evidence",
+  "source": "Smart OCR Ingest",
+  "date": "DATE_NOT_FOUND",
+  "summary": "Auto-ingested from file: 14 August 2025 - Emergency food contacts_Early intervention team psychosis(1).pdf",
+  "meta": {
+    "original_filename": "14 August 2025 - Emergency food contacts_Early intervention team psychosis(1).pdf",
+    "ocr_pdf_file": "14 August 2025 - Emergency food contacts_Early intervention team psychosis(1)_ocr.pdf",
+    "ocr_text_file": "14 August 2025 - Emergency food contacts_Early intervention team psychosis(1).txt",
+    "sha256": "3f16a7889f66426eeff61ddd312cef128b02bfee5134e2ac3f3e4bae4ff268d2",
+    "source_folder": ".",
+    "ingested_on": "2025-09-06T14:48:29.786743",
+    "ingest_method": "ocr_smart"
+  },
+  "links": {
+    "source_file_original": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_unprocessed/14 August 2025 - Emergency food contacts_Early intervention team psychosis(1).pdf",
+    "ocr_pdf_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_ocrd/14 August 2025 - Emergency food contacts_Early intervention team psychosis(1)_ocr.pdf",
+    "ocr_text_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/text/14 August 2025 - Emergency food contacts_Early intervention team psychosis(1).txt"
+  },
+  "tags": [
+    "auto_ocr",
+    "14 august 2025 ",
+    " emergency food contacts",
+    "early intervention team psychosis(1)"
+  ]
+}

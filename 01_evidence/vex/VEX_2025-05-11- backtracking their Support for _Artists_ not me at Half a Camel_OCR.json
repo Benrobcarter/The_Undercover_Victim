@@ -1,0 +1,28 @@
+{
+  "id": "VEX_2025-05-11- backtracking their Support for _Artists_ not me at Half a Camel_OCR",
+  "type": "evidence",
+  "source": "Smart OCR Ingest",
+  "date": "2025-05-11",
+  "summary": "Auto-ingested from file: 2025-05-11- backtracking their Support for _Artists_ not me at Half a Camel.pdf",
+  "meta": {
+    "original_filename": "2025-05-11- backtracking their Support for _Artists_ not me at Half a Camel.pdf",
+    "ocr_pdf_file": "2025-05-11- backtracking their Support for _Artists_ not me at Half a Camel_ocr.pdf",
+    "ocr_text_file": "2025-05-11- backtracking their Support for _Artists_ not me at Half a Camel.txt",
+    "sha256": "6c382d3bbbf2d0dbfd3dcd7f748206d153b387ff4dc118215e6084a42b974117",
+    "source_folder": ".",
+    "ingested_on": "2025-09-06T22:57:30.022052",
+    "ingest_method": "ocr_smart"
+  },
+  "links": {
+    "source_file_original": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_unprocessed/2025-05-11- backtracking their Support for _Artists_ not me at Half a Camel.pdf",
+    "ocr_pdf_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_ocrd/2025-05-11- backtracking their Support for _Artists_ not me at Half a Camel_ocr.pdf",
+    "ocr_text_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/text/2025-05-11- backtracking their Support for _Artists_ not me at Half a Camel.txt"
+  },
+  "tags": [
+    "auto_ocr",
+    " not me at half a camel",
+    "2025",
+    " backtracking their support for ",
+    "artists"
+  ]
+}

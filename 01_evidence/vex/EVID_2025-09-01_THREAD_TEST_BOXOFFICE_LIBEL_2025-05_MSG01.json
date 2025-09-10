@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "evidence_id": "EVID_2025-09-01_THREAD_TEST_BOXOFFICE_LIBEL_2025-05_MSG01",
+    "title": "THREAD_TEST_BOXOFFICE_LIBEL_2025-05 part 1",
+    "type": "email",
+    "date_local": "2025-09-01",
+    "source_file": "THREAD_TEST_BOXOFFICE_LIBEL_2025-05",
+    "thread_id": "THREAD_2025-09-01_THREAD_TEST_BOXOFFICE_LIBEL_2025-05",
+    "thread_seq": 1,
+    "vex_tags": [
+      "UNINSURABLE_EVENT",
+      "IMPOSSIBLE_COMPLIANCE_CONDITION"
+    ],
+    "clusters": [
+      "BRIGHTON_FRINGE"
+    ],
+    "links": {
+      "contradictions": [
+        "BF-CONTRA-BOXOFFICE-BREACH"
+      ],
+      "contract_clause_refs": [
+        "BOX_OFFICE_DUTIES"
+      ]
+    }
+  },
+  "excerpt": "URGENT: Box Office Breakdown & Libel Concerns\nOn 8 May 2025, I wrote to Brighton Fringe regarding the unsafe shift to unticketed donations.\nThis change left venues without a way to track capacity, breaching the premises licence.\nFurther, Duncan’s email referencing my failure to produce a brochure, despite internal\nacknowledgement of their system failure, amounts to reputational libel.\nTrustees were aware of these risks. I request a full Subject Access Review and minutes\nof the board discussion that led to this systemic governance breach.\nBen Carter\n"
+}

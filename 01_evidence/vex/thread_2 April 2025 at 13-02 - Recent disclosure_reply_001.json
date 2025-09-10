@@ -1,0 +1,21 @@
+{
+  "id": "thread_2 April 2025 at 13-02 - Recent disclosure_reply_001",
+  "type": "evidence",
+  "source": "Thread Reply Split (Smart OCR)",
+  "date": "DATE_NOT_FOUND",
+  "summary": "[From:] Ben Carter <benrobcarter@gmail.com>  Sent: Wednesday, April 2, 2025 10:17 PM To: Amy Keogh <amy.keogh@brightonfringe.org> Cc: Laura Aiton <laura.aiton@brightonf",
+  "meta": {
+    "thread_id": "thread_2 April 2025 at 13-02 - Recent disclosure",
+    "original_filename": "2 April 2025 at 13-02 - Recent disclosure.txt",
+    "reply_index": 1,
+    "split_on": "regex: header blocks",
+    "ingested_on": "2025-09-06T14:01:12.033225"
+  },
+  "links": {
+    "source_text_file": "/Users/bencarter/Documents/The_Undercover_Victim/01_evidence/text/2 April 2025 at 13-02 - Recent disclosure.txt"
+  },
+  "tags": [
+    "reply_split",
+    "auto_ocr_thread"
+  ]
+}

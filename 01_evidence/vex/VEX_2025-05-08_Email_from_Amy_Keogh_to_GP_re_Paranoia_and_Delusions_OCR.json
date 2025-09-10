@@ -1,0 +1,32 @@
+{
+  "id": "VEX_2025-05-08_Email_from_Amy_Keogh_to_GP_re_Paranoia_and_Delusions_OCR",
+  "type": "evidence",
+  "source": "Smart OCR Ingest",
+  "date": "2025-05-08",
+  "summary": "Auto-ingested from file: 2025-05-08_Email_from_Amy_Keogh_to_GP_re_Paranoia_and_Delusions.pdf",
+  "meta": {
+    "original_filename": "2025-05-08_Email_from_Amy_Keogh_to_GP_re_Paranoia_and_Delusions.pdf",
+    "ocr_pdf_file": "2025-05-08_Email_from_Amy_Keogh_to_GP_re_Paranoia_and_Delusions_ocr.pdf",
+    "ocr_text_file": "2025-05-08_Email_from_Amy_Keogh_to_GP_re_Paranoia_and_Delusions.txt",
+    "sha256": "9f909d2822c49ef2e7bbe37579f4514b488b12e1497d59182de619b3abc7a984",
+    "source_folder": ".",
+    "ingested_on": "2025-09-06T14:16:27.225876",
+    "ingest_method": "ocr_smart"
+  },
+  "links": {
+    "source_file_original": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_unprocessed/2025-05-08_Email_from_Amy_Keogh_to_GP_re_Paranoia_and_Delusions.pdf",
+    "ocr_pdf_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_ocrd/2025-05-08_Email_from_Amy_Keogh_to_GP_re_Paranoia_and_Delusions_ocr.pdf",
+    "ocr_text_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/text/2025-05-08_Email_from_Amy_Keogh_to_GP_re_Paranoia_and_Delusions.txt"
+  },
+  "tags": [
+    "auto_ocr",
+    "amy",
+    "delusions",
+    "and",
+    "keogh",
+    "email",
+    "2025",
+    "from",
+    "paranoia"
+  ]
+}

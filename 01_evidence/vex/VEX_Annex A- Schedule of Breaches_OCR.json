@@ -1,0 +1,26 @@
+{
+  "id": "VEX_Annex A- Schedule of Breaches_OCR",
+  "type": "evidence",
+  "source": "Smart OCR Ingest",
+  "date": "DATE_NOT_FOUND",
+  "summary": "Auto-ingested from file: Annex A- Schedule of Breaches.pdf",
+  "meta": {
+    "original_filename": "Annex A- Schedule of Breaches.pdf",
+    "ocr_pdf_file": "Annex A- Schedule of Breaches_ocr.pdf",
+    "ocr_text_file": "Annex A- Schedule of Breaches.txt",
+    "sha256": "73998ec7d3447de6c1ff9abc1f2e698ac9cccc587b6a4da0d9333003f3eaf629",
+    "source_folder": ".",
+    "ingested_on": "2025-09-06T14:33:07.032769",
+    "ingest_method": "ocr_smart"
+  },
+  "links": {
+    "source_file_original": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_unprocessed/Annex A- Schedule of Breaches.pdf",
+    "ocr_pdf_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_ocrd/Annex A- Schedule of Breaches_ocr.pdf",
+    "ocr_text_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/text/Annex A- Schedule of Breaches.txt"
+  },
+  "tags": [
+    "auto_ocr",
+    "annex a",
+    " schedule of breaches"
+  ]
+}

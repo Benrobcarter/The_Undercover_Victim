@@ -1,0 +1,510 @@
+Subject Access Request
+Brighton Fringe Ltd.
+
+Date: 19 August 2025
+
+From: Ben Carter, Director — Half a Camel Productions Ltd. (Venue Manager/Owner — Half a
+Camel Productions Venues)
+To: Brighton Fringe Ltd. (for the attention of the Data Protection Officer / Chair of Trustees)
+Dear Trustees,
+
+This is a formal Subject Access Request (SAR) under UK GDPR Article 15 and Data Protection
+Act 2018 s.45.
+
+Scope of Request
+| require copies of all personal data relating to me, Ben Carter (Half a Camel Productions Ltd.),
+processed by Brighton Fringe Ltd., its trustees, staff, or contractors.
+This includes, but is not limited to:
+
+- All communications (any medium) — emails, texts, WhatsApp, Teams/Slack, trustee
+correspondence, internal memos — where I, Half a Camel, or my venues are referenced
+(2021-2025).
+- Board minutes and governance papers — all draft and final versions where | am referenced,
+including the July 2025 minutes that were acknowledged as “not yet written,” together with any
+
+correspondence relating to their preparation, amendment, or approval.
+
+- Health and safeguarding data — including the 8 May 2025 GP email sent by Managing Director
+Amy Keogh and any subsequent discussions or records where safeguarding disclosures were
+reframed as mental health issues.
+- Defamation/reputation material — including the 18 July 2025 mass email to ~160 artists/venues, all
+
+drafts, trustee approvals, and any linked communications.
+- Third-party disclosures — all communications with Sussex Police, Veritas Justice, NHS/GPs, MPs,
+artists, or venues about me.
+
+- Audit logs and metadata — showing who accessed, altered, or shared my data, with timestamps.
+- Internal notes, opinions, or assessments — as recognised under GDPR Recital 63, including any
+annotations that relate to my conduct, mental health, credibility, or professional role.
+
+This request explicitly covers all processing of special category data under GDPR Article 9,
+including health and safeguarding disclosures, perceived capacity, and opinions regarding my
+mental health.
+
+Statutory Requirements
+- Deadline: You must respond within one month of receipt (GDPR Art.12(3)).
+- Extension: If you believe an extension applies, you must notify me within one month, giving lawful
+reasons.
+
+- Preservation: Under DPA 2018
+
+s.173, it is a criminal offence to destroy, conceal, or alter data
+
+following a SAR.
+
+Please provide the data in a durable, permanent form in its original format where possible (e.g.
+.eml, PDF, Word docs), not summaries or paraphrased extracts.
+
+Trustee Duties — Charity Law
+Brighton Fringe is a registered charity. Trustees are bound by:
+
+- Charities Act 2011 — duties of prudence, compliance, transparency, and accurate record-keeping.
+
+- Charity Commission Guidance CC9 — trustees must act with fairness and accountability,
+especially in safeguarding contexts.
+
+As trustees, you also hold a duty of candour when responding to SARs where safeguarding
+disclosures are involved.
+
+Be advised: any reason for delay will be forwarded to the Charity Commission, who are
+already investigating Brighton Fringe. Obstruction or unjustified delay will be treated as deliberate
+
+non-compliance.
+
+Annex A — Schedule of Requested Documents
+1. Communications (2021-2025)
+- Emails to/from trustees, staff, contractors mentioning Ben Carter or Half a Camel Productions Ltd.
+- WhatsApp, SMS, Slack/Teams messages where | or my venues are referenced.
+- Internal memos or discussion notes containing my name or business.
+
+2. Board Minutes & Governance Papers
+
+- 18 Sept 2023 Chair’s Report (records “Ben Carter and staff have attracted six new venues”).
+- 7 Sept 2023 email from Duncan Lustig-Prean circulating the Board Meeting Papers for 18 Sept
+2023, including attachments:
+* BF agenda 180923.docx
+* Board Minutes August.docx
+
+* Development Board Report Sept 23.docx
+* HR Report Sept 23.docx
+* Marketing and Artist & Venue Services Report.docx
+* Chair’s Report — Board Meeting 18th September.docx
+
+- Budget Variance Actuals vs WCS 060923.xlIsx
+* Brighton Fringe Ltd — 23-24 Budget Proposed.xlsx
+- Venues Agreement 2024.docx
+- All draftA#inal Board minutes 2023-2025 where | am referenced.
+
+- All trustee correspondence about July 2025 minutes (admitted “yet to be written’).
+
+3. Health & Safeguarding Data
+- 8 May 2025 email from Managing Director Amy Keogh to my GP.
+- Any trustee/staff/contractor discussions of my April 6, 2025 suicide disclosure.
+- Notes/minutes/memos reframing safeguarding disclosures as paranoia, delusions, or mental
+health instability.
+4. Defamation / Reputation Material
+
+- 18 July 2025 mass email to 160+ artists/venues, including drafts and approvals.
+- Trustee/staff/contractor discussions of reputational risk, “abuse,” or “bullying” linked to me.
+- Internal/external correspondence preparing for or justifying my removal.
+5. Third-Party Disclosures
+
+- Communications with Sussex Police, Veritas Justice, NHS/GPs, MPs, or any artists/venues where
+| am referenced.
+6. Audit Logs & Metadata
+
+- Server logs, email metadata, and document audit trails showing access/alteration/sharing of my
+data.
+
+- Specific logs relating to:
+* April-May 2025 safeguarding emails.
+
+* July 18, 2025 libel email.
+« July 20, 2025 minutes correspondence.
+7. Opinions & Assessments
+- Any trustee/staff notes, annotations, or comments about me.
+- Any references to my “mental health,” “capacity,” or “credibility.”
+
+Exhibits (Part of this SAR)
+Exhibit A — “All Communications Logged” Admission
+- Brighton Fringe’s own written admission (email, 7 May 2025 from Managing Director Amy Keogh)
+that: “We have also been logging all of your communications with us, including all of the police
+
+reports you’ve only sent to Duncan, in this record.”
+- This proves:
+1. Every communication has been recorded and is retrievable.
+2. Brighton Fringe held and processed sensitive data (including police reports) about me without my
+consent.
+
+3. Senior leadership (Duncan Lustig-Prean and Amy Keogh) confirmed they had sole access to this
+log.
+
+- Legal implications:
+
+* Removes any lawful excuse for delay or partial disclosure under GDPR Article 12(3).
+- Establishes Brighton Fringe as a data controller of safeguarding and police records, making them
+
+accountable under GDPR Article 15, DPA 2018 s.45, and s.173 (criminal offence to conceal or
+destroy).
+* Confirms unlawful processing of special category data (health, safeguarding, and police
+information) under GDPR Article 9.
+- Reference: Exhibit A is also attached as a standalone PDF copy for ease of reference. It forms
+part of this SAR and is not a separate request.
+
+Exhibit B - Venue Observer Role & Email Disclosure
+- All trustee papers, board minutes, and communications concerning my appointment as Venues’
+
+Observer (in my independent capacity as Venue Manager/Owner — Half a Camel Productions
+Venues).
+- Any incentives offered for the role (governance access, recognition, risk management
+
+responsibilities).
+- Board minutes praising my work (e.g., attracting new venues).
+- Records of the unlawful circulation of my personal email address alongside
+
+chair@brightonfringe.org.
+- Audit trails showing who authorised the disclosure.
+
+- Legal implications: breaches of GDPR/DPA 2018 (Art.5(1)(a), Art.6, Art.15), and trustee duties
+under the Charities Act 2011 & CC9.
+
+Escalation
+Non-compliance will result in immediate escalation to the Information Commissioner’s Office (ICO),
+the Charity Commission, and inclusion in ongoing legal proceedings concerning defamation,
+safeguarding failures, and unlawful data handling.
+
+Confirmation
+Please confirm receipt of this request immediately.
+Yours sincerely,
+
+Ben Carter
+Director — Half a Camel Productions Ltd. (Venue Manager/Owner — Half a Camel Productions
+Venues)
+
+iy; G ma il
+
+Ben Carter <benrobcarter@gmail.com>
+
+<3
+5 messages
+
+Ben Carter <benrobcarter@gmail.com>
+
+6 May 2025 at 15:24
+
+To: Take Part <takepart@brightonfringe.org>
+
+Cc: Alice Wright <alice@sparkampm.co.uk>
+I've just had a talk with Alice,
+| never ever wanted to be an enemy of the Brighton Fringe, all | wanted to do was make people\s experience better, |
+have a few unresolved issues of course but to get on with this years Brighton Fringe and going forth | was never ever
+going to go public I've always wanted to be a part of it, | know what acts want and have spent the last year it being my
+obsession so | don't have think about the pain and debt and what next move is being plotted to destroy my life.
+| cannot find cover and risk assements when the goal posts keep getting are changed.
+| Knew what was being done and how it breached agreements, she assured me that nothing was intentional, I've
+never felt like the Brighton Fringe were on my side. If it's due to how i was in previous years, fair. | was depressed on
+drugs still the same person just shit.
+I've been gaslit for so many years and coerced by the police, the lack of support and my stalker email being ignored
+whilst she was back to ruin the Fringe for me, whilst my investigator who is installed into me the victim that woud do
+that, | wrote down all my email passwords everything as "imsorry" they're changed back now, think you can guess
+what they are but have fun looking through my admin process, that was worst part, | was planning to go after the
+fringe going out on a high, | couldn't take it anymore. If it is true and there really is no agenda against me, i'll come
+alog later if you want? Each time | have clarity | get stronger, if the Brighton Fringe are still on my side and we work
+together, | am happy. | don't want mine and your acts to really know too much as | don't want to expose the fringe
+(loads of people thought i set that up) it's that bill gates hamster twat
+Thankyou for Alice, she saw it straight away and | just came out with it all, | now have to be out and about but every
+time | get a bit of reality back | see things better, brighter, I've never seen the world through clear content eyes, one
+day i'll look through sober happy eyes and experience what the worlds actually like.
+Kind Regard
+
+Benadick Carter G.C.S.E
+CEO founder and Front Chief of HalfACamel Productions Limited
+
+Take Part <takepart@brightonfringe.org>
+
+7 May 2025 at 16:22
+
+To: Ben Carter <benrobcarter@gmail.com>
+Cc: Alice Wright <alice@sparkampm.co.uk>
+
+Dear Ben,
+Thank you for your email. We're so relieved to know that you don’t hate us, and we didn’t think that.
+
+We're sorry we've not been able to fully understand what you've been asking for from us until Alice
+explained it to us. We acknowledge this now and that is why Alice has stepped into provide you with
+support. We are very pleased you have been able to develop a trusting relationship with Alice.
+We have also been logging all of your communications with us, including all of the police reports you've
+
+only sent to Duncan, in this record. Only the senior team at Brighton Fringe (Duncan and Amy) know any
+of these things as is appropriate for your privacy as an individual with additional needs.
+We don't know what your passwords would have now been changed to, and we would never use your
+login for Eventotron even though you have told us what they were. We're not plotting against you, we
+
+want to support you and to help make Half A Camel a success as part of Brighton Fringe.
+| hope this message gives you the information and reassurance you need, if it doesn't, please reply with
+anything else you need from us. We are open and want to hear from you about your shows in Brighton
+Fringe. You don't need to call us or come for a meeting with us, unless you really want to. We
+understand you may find it easier to communicate via email so that’s absolutely fine for us, and all you
+need to do.
+
+If you do email Artist Services, | can't guarantee exactly when they will reply but they do check the inbox
+regularly. You can also email Alice directly during working hours.
+We are addressing issues we've been having with Eventotron, we are aware there are gaps in our
+knowledge and we're working on it.
+If there’s anything else you need that’s not been addressed in this email, please just reply and we'll work
+with Alice and the rest of our team to help you.
+Best wishes
+Amy
+
+Amy Keogh
+Managing Director
+
+Brighton Fringe Artist & Venue Services Team
+T: 01273 764 907
+
+A: Office 4, The Old Court House, 118 Church Street, BN1 1UD
+
+W: www.brightonfringe.org
+
+#BrightonFringe
+
+Stay Connected: Facebook | Instagram | Twitter | Website | YouTube
+Support Us: Donate | easyfundraising | Friends Scheme
+
+Registered Charity Number: 1116367 | VAT Number: 892 5694 68 | Brighton Fringe Ltd Company Number: 05578256
+
+From: Ben Carter <benrobcarter@gmail.com>
+Sent: 06 May 2025 15:24
+To: Take Part <takepart@brightonfringe.org>
+Cc: Alice Wright <alice@sparkampm.co.uk>
+Subject: <3
+[Quoted text hidden]
+
+Ben Carter <benrobcarter@gmail.com>
+
+7 May 2025 at 16:32
+
+To: Take Part <takepart@brightonfringe.org>
+What has alice told you then?
+[Quoted text hidden]
+
+Ben Carter <benrobcarter@gmail.com>
+
+7 May 2025 at 16:36
+
+To: Take Part <takepart@brightonfringe.org>
+
+Cc: Alice Wright <alice@sparkampm.co.uk>
+What were the last words i said to duncans in his emails
+[Quoted text hidden]
+
+Ben Carter <benrobcarter@gmail.com>
+
+7 May 2025 at 16:39
+
+To: Take Part <takepart@brightonfringe.org>
+
+Cc: Alice Wright <alice@sparkampm.co.uk>
+| can't run my venues now, when i go in i get abuse, i've when i expect a reply i can't go outside, when voodoo another
+oO
+
+Dry
+
+a
+
+en
+
+Mee
+
+Yo
+
+ytean text
+Nein
+BAOMS
+TEM THOS
+Ret
+
+Exhibit B
+Venue Observer Role & Email Disclosure — SAR Addendum
+
+This annex forms part of my Subject Access Request (SAR) to Brighton Fringe Ltd.
+
+It specifically concerns my role as Venues’ Observer and the unlawful disclosure of my personal
+email address during the festival.
+
+Scope of Addendum:
+1. Appointment & Incentives:
+
+- All communications, board papers, and notices concerning my appointment.
+- Any incentives offered for the role (governance access, recognition, etc.).
+
+2. Charity Obligations & Risk Management:
+
+- Trustee papers, governance notes, or policies linking the role to obligations under the Charities
+Act 2011, including risk management, safeguarding, stakeholder representation, transparency, and
+
+accountability.
+3. Board Minutes Praising My Work:
+- Minutes or trustee communications congratulating me for attracting venues.
+
+- Records noting | had ‘already attracted four new venues and expanded reach’.
+4. Unlawful Sharing of Personal Email:
+
+- Communications, internal discussions, or distribution lists where my personal email
+(benrobcarter@gmail.com) was circulated alongside chair@brightonfringe.org.
+- Justifications considered, audit trails of who authorised this circulation.
+
+Legal & Governance Context:
+- UK GDPR/DPA 2018: Articles 5(1)(a), 6, and 15 — breached via unlawful disclosure.
+
+- Charities Act 2011 & CC9: Trustees’ duty to manage risk and act transparently.
+Escalation:
+- Any delay or excuse will be forwarded to the Charity Commission.
+- Non-compliance will also be escalated to the ICO as a GDPR breach.
+
+Submitted by:
+Ben Carter, Director — Half a Camel Productions Ltd. (Venue Manager/Owner — Half a Camel
+Productions Venues)
+Date: 18 August 2025
+
+iy G ma il
+
+Half a camel production <halfacamelproductions@gmail.com>
+
+Fwd: Half a Camel - Brighton Fringe update
+1 message
+
+Jessica Otterwell <jessicaotterwell@gmail.com>
+
+18 July 2025 at 08:57
+
+To: Half a camel production <halfacamelproductions@gmail.com>
+What the hell?! Are you ok? Did you know they would do this??
+w--------- Forwarded message ---------From: Take Part <takepart@brightonfringe.org>
+Date: Thursday, 17 July 2025
+
+Subject: Half a Camel - Brighton Fringe update
+To:
+
+Good afternoon,
+| hope you are well.
+
+| wanted to apologise to you for your experience with Half a Camel at this year’s Brighton Fringe and to thank you for your
+perseverance and help you gave to our staff in keeping the show on the road. It was amazing to see how all the artists
+came together to support one another.
+Last year, we saw that Ben Carter had significantly increased the number of venues and artists he would be organising for
+Brighton Fringe 2025. We recognised that this would put great pressure on one person and so we asked Ben to identify
+three people who could assist him on site as venue managers in some of his new venues. We also offered Ben additional
+levels of support in the lead up to Fringe, equating to over and above that which we would normally offer one Venue
+Manager. Unfortunately, Ben refused our offers and it quickly became apparent that whilst we were given three names,
+they had not been informed by Ben of their apparent position.
+Moving forward, we are implementing a new restriction so that programmers who operate multiple venues will have to
+identify a named person for every two venues delegated to manage onsite. We will also place additional safeguard
+
+measures to ensure the named individuals are properly briefed and supported.
+Following this year's festival, The Board of Brighton Fringe considered Ben’s behaviour with particular focus on the fact
+that he had taken money from artists with the promise of technical support, a brochure and, in some cases, videography of
+shows. We were horrified that Ben did not provide the items for which artists had paid. The Board also noted other
+
+behaviours including social media posts which breached the terms of the venue managers agreement. We also heard that
+a number of artists felt bullied into accepting free unticketed registrations which did not suit their needs. This is completely
+unacceptable.
+While the Board recognised that poor health was partially responsible for many of Ben’s actions, we cannot allow artists to
+suffer loss and failure to deliver contractual obligations; especially when we had offered assistance on numerous
+
+occasions. For this reason. the board has removed Ben Carter and Half a Camel from their list of approved venues, and
+they cannot take part in Brighton Fringe next year.
+
+We wish Ben and Half a Camel well and hope that he makes a speedy recovery.
+| have written to all the venues involved to advise them of our decision. We will be recommending new professional
+programmers for next season.
+| am very sorry for the experience you endured this year. | am very grateful for the support you gave to make sure that the
+shows could all continue - thank you for your understanding with the Brighton Fringe staff team, too.
+| hope that you will consider performing at the fringe next year. We have learned lessons from this experience and will be
+better placed to ensure that you have a successful fringe.
+Best wishes
+
+Duncan Lustig-Prean
+
+Chair of the Board, Brighton Fringe
+
+Brighton Fringe Artist & Venue Services Team
+T: 01273 764 907
+
+A: Office 4, The Old Court House, 118 Church Street, BN1 1UD
+W: www.brightonfringe.
+org
+
+#BrightonFringe
+
+*
+
+Support Us: Donate | easyfundraising | Eriends Scheme
+
+Registered Charity Number: 1116367 | VAT Number: 892 5694 68 | Brighton Fringe Ltd Company Number: 05578256
+
+PADGHAM, Rebecca (SEVEN DIALS MEDICAL CENTRE - G81047)
+
+From:
+
+Amy Keogh <amy.keogh@brightonfringe.org>
+
+Sent:
+
+08 May 2025 15:32
+
+To:
+
+SEVENDIALSMEDICALCENTRE (NHS SUSSEX ICB - 09D)
+
+Subject:
+
+Confidential - Concerns about a patient
+
+You don't often get email from amy.keogh@brightonfringe.org. Learn why this is important
+This message originated from outside of NHSmail. Please do not click links or open attachments unless you recognise the
+sender and know the content is safe.
+
+Hello
+Following my brief call with one ofyour receptionists, I'd like to raise a concern for one or your patients
+Benjamin Robert Carter - we know him as Ben Carter.
+Ben has been taking part in Brighton Fringe festival as a venue manager/promoter mainly for comedy
+shows. He had planned to run six venues across the festival (5 weeks in May) with 157 acts performing
+during this time. This is a very busy and demanding time for most people who take part.
+To clarify he is not employed by Brighton Fringe.
+In the last 4-6 weeks we have seen a deterioration in his behaviour and have now become very concerned
+for his wellbeing.
+These are based on the following;
+
+¢
+
+His disclosure to us about his recent suicide attempt in early April
+
+¢
+
+Paranoia and delusions - continual referencing Sussex Police and his stalking case.
+
+¢
+
+Fixation on people in the organisation, particularly the Chair of Trustees of Brighton Fringe.
+
+¢
+
+Escalating behaviours particularly emailing several times a day sometimes in the middle of the
+night.
+
+Brighton Fringe have stepped in and made the decision to take over the management of his venues and
+artists, to alleviate the stress on him and hope that he will now be able to take the time to recover.
+I don't necessarily require a response from you as his GP but I do hope that someone is able to reach out to
+him and support him with whatever is the best treatment for him
+In an email yesterday, he has forwarded us notes from his GP - Dr Dharam Dickinson. Although I have not
+attached them for confidentiality reasons and GDPR.
+Do let me knowif I can help with anything else.
+
+Kind regards
+Amy
+
+Amy Keogh (She/Her)
+Managing Director
+
+

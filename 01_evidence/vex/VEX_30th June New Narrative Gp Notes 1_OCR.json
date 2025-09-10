@@ -1,0 +1,25 @@
+{
+  "id": "VEX_30th June New Narrative Gp Notes 1_OCR",
+  "type": "evidence",
+  "source": "Smart OCR Ingest",
+  "date": "DATE_NOT_FOUND",
+  "summary": "Auto-ingested from file: 30th June New Narrative Gp Notes 1.pdf",
+  "meta": {
+    "original_filename": "30th June New Narrative Gp Notes 1.pdf",
+    "ocr_pdf_file": "30th June New Narrative Gp Notes 1_ocr.pdf",
+    "ocr_text_file": "30th June New Narrative Gp Notes 1.txt",
+    "sha256": "981770e472c374f623bcb7bb109d616fba56e17df5c6ea71a1471705fbcdea5f",
+    "source_folder": ".",
+    "ingested_on": "2025-09-06T14:04:58.629607",
+    "ingest_method": "ocr_smart"
+  },
+  "links": {
+    "source_file_original": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_unprocessed/30th June New Narrative Gp Notes 1.pdf",
+    "ocr_pdf_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_ocrd/30th June New Narrative Gp Notes 1_ocr.pdf",
+    "ocr_text_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/text/30th June New Narrative Gp Notes 1.txt"
+  },
+  "tags": [
+    "auto_ocr",
+    "30th june new narrative gp notes 1"
+  ]
+}

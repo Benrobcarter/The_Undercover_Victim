@@ -1,0 +1,27 @@
+{
+  "id": "VEX_19 August 2025 at 15-56 - Formal Notice \u2013 Subject Access Request (19 Aug 2025) \u2013 Brighton Fringe Ltd_OCR",
+  "type": "evidence",
+  "source": "Smart OCR Ingest",
+  "date": "DATE_NOT_FOUND",
+  "summary": "Auto-ingested from file: 19 August 2025 at 15-56 - Formal Notice \u2013 Subject Access Request (19 Aug 2025) \u2013 Brighton Fringe Ltd.pdf",
+  "meta": {
+    "original_filename": "19 August 2025 at 15-56 - Formal Notice \u2013 Subject Access Request (19 Aug 2025) \u2013 Brighton Fringe Ltd.pdf",
+    "ocr_pdf_file": "19 August 2025 at 15-56 - Formal Notice \u2013 Subject Access Request (19 Aug 2025) \u2013 Brighton Fringe Ltd_ocr.pdf",
+    "ocr_text_file": "19 August 2025 at 15-56 - Formal Notice \u2013 Subject Access Request (19 Aug 2025) \u2013 Brighton Fringe Ltd.txt",
+    "sha256": "a46e06eb2d0b754351ecbe199144c0a90d9387982e8190263677b9ae6194c2da",
+    "source_folder": ".",
+    "ingested_on": "2025-09-06T14:47:25.810077",
+    "ingest_method": "ocr_smart"
+  },
+  "links": {
+    "source_file_original": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_unprocessed/19 August 2025 at 15-56 - Formal Notice \u2013 Subject Access Request (19 Aug 2025) \u2013 Brighton Fringe Ltd.pdf",
+    "ocr_pdf_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_ocrd/19 August 2025 at 15-56 - Formal Notice \u2013 Subject Access Request (19 Aug 2025) \u2013 Brighton Fringe Ltd_ocr.pdf",
+    "ocr_text_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/text/19 August 2025 at 15-56 - Formal Notice \u2013 Subject Access Request (19 Aug 2025) \u2013 Brighton Fringe Ltd.txt"
+  },
+  "tags": [
+    "auto_ocr",
+    "19 august 2025 at 15",
+    "56 ",
+    " formal notice \u2013 subject access request (19 aug 2025) \u2013 brighton fringe ltd"
+  ]
+}

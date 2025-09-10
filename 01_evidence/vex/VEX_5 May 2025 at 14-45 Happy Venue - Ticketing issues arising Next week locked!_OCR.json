@@ -1,0 +1,27 @@
+{
+  "id": "VEX_5 May 2025 at 14-45 Happy Venue - Ticketing issues arising Next week locked!_OCR",
+  "type": "evidence",
+  "source": "Smart OCR Ingest",
+  "date": "DATE_NOT_FOUND",
+  "summary": "Auto-ingested from file: 5 May 2025 at 14-45 Happy Venue - Ticketing issues arising Next week locked!.pdf",
+  "meta": {
+    "original_filename": "5 May 2025 at 14-45 Happy Venue - Ticketing issues arising Next week locked!.pdf",
+    "ocr_pdf_file": "5 May 2025 at 14-45 Happy Venue - Ticketing issues arising Next week locked!_ocr.pdf",
+    "ocr_text_file": "5 May 2025 at 14-45 Happy Venue - Ticketing issues arising Next week locked!.txt",
+    "sha256": "067696bfccfdeb9db047c9d14e0b4bc3b740122111348ef3375ad7805461967b",
+    "source_folder": ".",
+    "ingested_on": "2025-09-06T14:02:51.885003",
+    "ingest_method": "ocr_smart"
+  },
+  "links": {
+    "source_file_original": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_unprocessed/5 May 2025 at 14-45 Happy Venue - Ticketing issues arising Next week locked!.pdf",
+    "ocr_pdf_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_ocrd/5 May 2025 at 14-45 Happy Venue - Ticketing issues arising Next week locked!_ocr.pdf",
+    "ocr_text_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/text/5 May 2025 at 14-45 Happy Venue - Ticketing issues arising Next week locked!.txt"
+  },
+  "tags": [
+    "auto_ocr",
+    "5 may 2025 at 14",
+    " ticketing issues arising next week locked!",
+    "45 happy venue "
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "VEX_10-04-25 GP True Narrative Post Suicide GP Review, Strong When Not Being Coerced_OCR",
+  "type": "evidence",
+  "source": "Smart OCR Ingest",
+  "date": "DATE_NOT_FOUND",
+  "summary": "Auto-ingested from file: 10-04-25 GP True Narrative Post Suicide GP Review, Strong When Not Being Coerced.pdf",
+  "meta": {
+    "original_filename": "10-04-25 GP True Narrative Post Suicide GP Review, Strong When Not Being Coerced.pdf",
+    "ocr_pdf_file": "10-04-25 GP True Narrative Post Suicide GP Review, Strong When Not Being Coerced_ocr.pdf",
+    "ocr_text_file": "10-04-25 GP True Narrative Post Suicide GP Review, Strong When Not Being Coerced.txt",
+    "sha256": "ccdc1717e1ea0e043c92e7cfa56275656ae9696ac93db780e2f85fd069dd6be0",
+    "source_folder": ".",
+    "ingested_on": "2025-09-06T14:34:49.870852",
+    "ingest_method": "ocr_smart"
+  },
+  "links": {
+    "source_file_original": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_unprocessed/10-04-25 GP True Narrative Post Suicide GP Review, Strong When Not Being Coerced.pdf",
+    "ocr_pdf_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_ocrd/10-04-25 GP True Narrative Post Suicide GP Review, Strong When Not Being Coerced_ocr.pdf",
+    "ocr_text_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/text/10-04-25 GP True Narrative Post Suicide GP Review, Strong When Not Being Coerced.txt"
+  },
+  "tags": [
+    "auto_ocr",
+    "25 gp true narrative post suicide gp review, strong when not being coerced"
+  ]
+}

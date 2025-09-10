@@ -1,0 +1,30 @@
+{
+  "id": "VEX_Exhibit_B_Venue_Observer_Role_Email_Disclosure_OCR",
+  "type": "evidence",
+  "source": "Smart OCR Ingest",
+  "date": "DATE_NOT_FOUND",
+  "summary": "Auto-ingested from file: Exhibit_B_Venue_Observer_Role_Email_Disclosure.pdf",
+  "meta": {
+    "original_filename": "Exhibit_B_Venue_Observer_Role_Email_Disclosure.pdf",
+    "ocr_pdf_file": "Exhibit_B_Venue_Observer_Role_Email_Disclosure_ocr.pdf",
+    "ocr_text_file": "Exhibit_B_Venue_Observer_Role_Email_Disclosure.txt",
+    "sha256": "3a6993a96dbc078ef2db20a33e9de382f6b4572ebb8a04bb4245c03956afe168",
+    "source_folder": ".",
+    "ingested_on": "2025-09-06T14:32:22.867142",
+    "ingest_method": "ocr_smart"
+  },
+  "links": {
+    "source_file_original": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_unprocessed/Exhibit_B_Venue_Observer_Role_Email_Disclosure.pdf",
+    "ocr_pdf_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_ocrd/Exhibit_B_Venue_Observer_Role_Email_Disclosure_ocr.pdf",
+    "ocr_text_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/text/Exhibit_B_Venue_Observer_Role_Email_Disclosure.txt"
+  },
+  "tags": [
+    "auto_ocr",
+    "observer",
+    "venue",
+    "role",
+    "disclosure",
+    "email",
+    "exhibit"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": "VEX_CRN-47240214305_DigitalPolicing_to_Ben_2025-04-07_THREAD_OCR",
+  "type": "evidence",
+  "source": "Smart OCR Ingest",
+  "date": "2025-04-07",
+  "summary": "Auto-ingested from file: CRN-47240214305_DigitalPolicing_to_Ben_2025-04-07_THREAD.pdf",
+  "meta": {
+    "original_filename": "CRN-47240214305_DigitalPolicing_to_Ben_2025-04-07_THREAD.pdf",
+    "ocr_pdf_file": "CRN-47240214305_DigitalPolicing_to_Ben_2025-04-07_THREAD_ocr.pdf",
+    "ocr_text_file": "CRN-47240214305_DigitalPolicing_to_Ben_2025-04-07_THREAD.txt",
+    "sha256": "7cfa33d525c9c55b503000bd057df6c3638b381ae6ffb88d2bcd9acebf0c144e",
+    "source_folder": ".",
+    "ingested_on": "2025-09-06T14:45:59.286653",
+    "ingest_method": "ocr_smart"
+  },
+  "links": {
+    "source_file_original": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_unprocessed/CRN-47240214305_DigitalPolicing_to_Ben_2025-04-07_THREAD.pdf",
+    "ocr_pdf_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_ocrd/CRN-47240214305_DigitalPolicing_to_Ben_2025-04-07_THREAD_ocr.pdf",
+    "ocr_text_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/text/CRN-47240214305_DigitalPolicing_to_Ben_2025-04-07_THREAD.txt"
+  },
+  "tags": [
+    "auto_ocr",
+    "crn",
+    "digitalpolicing",
+    "47240214305",
+    "2025",
+    "ben"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "VEX_09-03-2023 at 21-44 - Brighton Fringe Board Meeting and AGM 2_OCR",
+  "type": "evidence",
+  "source": "Smart OCR Ingest",
+  "date": "DATE_NOT_FOUND",
+  "summary": "Auto-ingested from file: 09-03-2023 at 21-44 - Brighton Fringe Board Meeting and AGM 2.pdf",
+  "meta": {
+    "original_filename": "09-03-2023 at 21-44 - Brighton Fringe Board Meeting and AGM 2.pdf",
+    "ocr_pdf_file": "09-03-2023 at 21-44 - Brighton Fringe Board Meeting and AGM 2_ocr.pdf",
+    "ocr_text_file": "09-03-2023 at 21-44 - Brighton Fringe Board Meeting and AGM 2.txt",
+    "sha256": "12787f84d2a5e515f7ae7d9ab1235978e32bdb43dd962ac8112a31ce1465b425",
+    "source_folder": ".",
+    "ingested_on": "2025-09-06T14:43:33.317903",
+    "ingest_method": "ocr_smart"
+  },
+  "links": {
+    "source_file_original": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_unprocessed/09-03-2023 at 21-44 - Brighton Fringe Board Meeting and AGM 2.pdf",
+    "ocr_pdf_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_ocrd/09-03-2023 at 21-44 - Brighton Fringe Board Meeting and AGM 2_ocr.pdf",
+    "ocr_text_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/text/09-03-2023 at 21-44 - Brighton Fringe Board Meeting and AGM 2.txt"
+  },
+  "tags": [
+    "auto_ocr",
+    "44 ",
+    "2023 at 21",
+    " brighton fringe board meeting and agm 2"
+  ]
+}

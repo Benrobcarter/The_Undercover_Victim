@@ -1,0 +1,21 @@
+{
+  "id": "thread_EVID_2025-05-08_BrightonFringe_Unauthorised_MedicalDisclosure_to_GP_reply_001",
+  "type": "evidence",
+  "source": "Thread Reply Split (Smart OCR)",
+  "date": "DATE_NOT_FOUND",
+  "summary": "[From:] Amy Keogh <amy.keogh@brightonfringe.org>  Sent:  08 May 2025 15:32  To:  SEVENDIALSMEDICALCENTRE (NHS SUSSEX ICB - 09D)  Subject:  Confidential - Concerns about",
+  "meta": {
+    "thread_id": "thread_EVID_2025-05-08_BrightonFringe_Unauthorised_MedicalDisclosure_to_GP",
+    "original_filename": "EVID_2025-05-08_BrightonFringe_Unauthorised_MedicalDisclosure_to_GP.txt",
+    "reply_index": 1,
+    "split_on": "regex: header blocks",
+    "ingested_on": "2025-09-06T14:01:09.825221"
+  },
+  "links": {
+    "source_text_file": "/Users/bencarter/Documents/The_Undercover_Victim/01_evidence/text/EVID_2025-05-08_BrightonFringe_Unauthorised_MedicalDisclosure_to_GP.txt"
+  },
+  "tags": [
+    "reply_split",
+    "auto_ocr_thread"
+  ]
+}

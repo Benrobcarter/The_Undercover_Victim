@@ -1,0 +1,27 @@
+{
+  "id": "VEX_MASTER_TIMELINE_v2_2025-08-25_v2-3_OCR",
+  "type": "evidence",
+  "source": "Smart OCR Ingest",
+  "date": "2025-08-25",
+  "summary": "Auto-ingested from file: MASTER_TIMELINE_v2_2025-08-25_v2-3.pdf",
+  "meta": {
+    "original_filename": "MASTER_TIMELINE_v2_2025-08-25_v2-3.pdf",
+    "ocr_pdf_file": "MASTER_TIMELINE_v2_2025-08-25_v2-3_ocr.pdf",
+    "ocr_text_file": "MASTER_TIMELINE_v2_2025-08-25_v2-3.txt",
+    "sha256": "974014da724e6cc1b752bd32e4df7f640bc45dcd35b536c09a756ba4f4a654a4",
+    "source_folder": ".",
+    "ingested_on": "2025-09-06T14:42:29.474486",
+    "ingest_method": "ocr_smart"
+  },
+  "links": {
+    "source_file_original": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_unprocessed/MASTER_TIMELINE_v2_2025-08-25_v2-3.pdf",
+    "ocr_pdf_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_ocrd/MASTER_TIMELINE_v2_2025-08-25_v2-3_ocr.pdf",
+    "ocr_text_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/text/MASTER_TIMELINE_v2_2025-08-25_v2-3.txt"
+  },
+  "tags": [
+    "auto_ocr",
+    "timeline",
+    "2025",
+    "master"
+  ]
+}

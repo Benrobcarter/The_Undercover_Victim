@@ -1,0 +1,25 @@
+{
+  "id": "VEX_01. PRIMARY EVIDENCE Gmail - _3_OCR",
+  "type": "evidence",
+  "source": "Smart OCR Ingest",
+  "date": "DATE_NOT_FOUND",
+  "summary": "Auto-ingested from file: 01. PRIMARY EVIDENCE Gmail - _3.pdf",
+  "meta": {
+    "original_filename": "01. PRIMARY EVIDENCE Gmail - _3.pdf",
+    "ocr_pdf_file": "01. PRIMARY EVIDENCE Gmail - _3_ocr.pdf",
+    "ocr_text_file": "01. PRIMARY EVIDENCE Gmail - _3.txt",
+    "sha256": "a981a354daa61f387f96745f49005b693a78b3e4374efad243538ed95b86df0b",
+    "source_folder": ".",
+    "ingested_on": "2025-09-06T14:19:41.329055",
+    "ingest_method": "ocr_smart"
+  },
+  "links": {
+    "source_file_original": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_unprocessed/01. PRIMARY EVIDENCE Gmail - _3.pdf",
+    "ocr_pdf_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_ocrd/01. PRIMARY EVIDENCE Gmail - _3_ocr.pdf",
+    "ocr_text_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/text/01. PRIMARY EVIDENCE Gmail - _3.txt"
+  },
+  "tags": [
+    "auto_ocr",
+    "01. primary evidence gmail "
+  ]
+}

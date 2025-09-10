@@ -1,0 +1,167 @@
+{
+  "meta": {
+    "evidence_id": "VEX_2025-06-22_0037_101_Alanna_New_Call_Not_Dead",
+    "title": "22-06-2025 00:37 \u2014 101 Call: Alanna\u2019s new call; \"I\u2019m not dead\"",
+    "type": "Phone call transcript (101/999 triage transfer)",
+    "date_local": "2025-06-22",
+    "time_local": "00:37",
+    "parties": [
+      "Ben Carter",
+      "999 Triage",
+      "Sussex Police 101 Call Handler (Craig 44118)"
+    ],
+    "clusters": [
+      "CRIME_REF_47240214305_THREAD",
+      "DEATH_BY_SILENCE",
+      "CROWBARRING_MYSELF_JUSTICE"
+    ],
+    "legal_mapping": [
+      "Victims\u2019 Code \u2014 Right to be kept informed, callbacks, respectful treatment",
+      "DPA 2018/UK GDPR \u2014 accuracy of records; access context",
+      "College of Policing \u2014 stalking/harassment victim management; continuity & safeguarding"
+    ],
+    "undated_policy": "ok_date_present",
+    "version": "1.0.0"
+  },
+  "summary": "Ben reports a fresh phone call from Alanna reiterating a false rape allegation and requests a NEW crime reference & NEW officer. He cites long-running safeguarding failures (post-suicide disclosure) and references IOPC escalation. Handler books a next-day video appointment and (provisionally) logs malicious communications. Call contains explicit timeline/contradiction hooks around July vs Nov linkage, NFA being told to the suspect first, and continuing silence.",
+  "identifiers": {
+    "handler_name": "Craig",
+    "handler_id": "44118",
+    "caller_email_provided": "no.reply@policeplease.com"
+  },
+  "police_position": {
+    "provisional_classification": "Malicious communications (pending OIC review)",
+    "action_promised": [
+      "Video appointment booked for 23 June (08:15)",
+      "Email confirmation to mailbox"
+    ]
+  },
+  "links": {
+    "audio_local_path": "01_evidence/audio/22-06-25_00-37_101_Alanna_New_Call_Not_Dead.mp3",
+    "audio_url": "",
+    "transcript_source": "22-06-25 00.37 Call up 101 to let them know about Alanna\u2019s new call.docx.txt",
+    "audio_sha256": "fa8d8aebd8bdf0655aedff8b345bfc8ba92eb37a79aedebe6a8e2a3597b366e7"
+  },
+  "contradictions": [
+    {
+      "code": "DEATH_BY_SILENCE_CONTINUED",
+      "claim": "No safeguarding/updates despite suicide disclosure; repeated callbacks promised, none received; victim asserts 'I haven\u2019t been safeguarded since April 6th.'",
+      "support": [
+        {
+          "time": "03:00\u201303:13",
+          "quote": "Haven\u2019t been safeguarded since April 6th. My suicide."
+        }
+      ],
+      "impact": [
+        "Escalates DEATH_BY_SILENCE timeline",
+        "Victims\u2019 Code breach indicators (updates/callbacks)"
+      ]
+    },
+    {
+      "code": "NFA_TOLD_TO_SUSPECT_FIRST",
+      "claim": "Victim says OIC told suspect NFA on 27 Apr before victim; used to undermine safeguarding meeting two days later.",
+      "support": [
+        {
+          "time": "04:27\u201305:02",
+          "quote": "PC Dixon emailed her no further action on April 27... and on April 29th ... MARAC."
+        }
+      ],
+      "impact": [
+        "Trust collapse; process sabotage",
+        "VRR/oversight relevance"
+      ]
+    },
+    {
+      "code": "JULY_VS_NOV_LINKAGE_CONFUSION",
+      "claim": "Continued confusion about whether July or November is the live case; case numbers used to 'hide' the OIC, per caller.",
+      "support": [
+        {
+          "time": "01:40\u201302:18",
+          "quote": "Two crime numbers... IOPC currently investigating."
+        }
+      ],
+      "impact": [
+        "Record integrity risk",
+        "Continuity gap"
+      ]
+    }
+  ],
+  "key_quotes": [
+    {
+      "idx": 1,
+      "time": "00:25\u201300:41",
+      "speaker": "Ben",
+      "text": "I\u2019ve just had my abuser ring me up, accusing me of raping her\u2026"
+    },
+    {
+      "idx": 2,
+      "time": "01:13\u201301:29",
+      "speaker": "Ben",
+      "text": "I want to make a new crime."
+    },
+    {
+      "idx": 3,
+      "time": "02:58\u201303:13",
+      "speaker": "Ben",
+      "text": "Ben Carter\u2026 Haven\u2019t been safeguarded since April 6th. My suicide."
+    },
+    {
+      "idx": 4,
+      "time": "04:27\u201305:02",
+      "speaker": "Ben",
+      "text": "PC Dixon emailed her no further action on April 27\u2026 two days before a MARAC."
+    },
+    {
+      "idx": 5,
+      "time": "10:46\u201311:11",
+      "speaker": "Ben / Handler",
+      "text": "I want a new case\u2026 / I can only give you a reference if there\u2019s been a new crime\u2026"
+    },
+    {
+      "idx": 6,
+      "time": "11:03\u201311:19",
+      "speaker": "Ben",
+      "text": "Alanna O\u2019Hare\u2026 I had the call recorded. Case closed \u2014 arrest her."
+    },
+    {
+      "idx": 7,
+      "time": "20:16\u201320:41",
+      "speaker": "Handler / Ben",
+      "text": "Are you still there? / Five missed calls from her\u2026 (ongoing)."
+    },
+    {
+      "idx": 8,
+      "time": "34:31\u201335:04",
+      "speaker": "Handler / Ben",
+      "text": "We\u2019ll put this down as malicious communications\u2026 / Thanks. What\u2019s your badge number? 44118."
+    }
+  ],
+  "tags": [
+    "STALKING",
+    "FALSE_RAPE_ALLEGATION_REITERATED",
+    "NEW_CRIME_REQUESTED",
+    "CALLBACKS_PROMISED",
+    "VIDEO_APPOINTMENT_BOOKED",
+    "SUSSEX_POLICE_PROCESS",
+    "IOPC_ESCALATION_CONTEXT"
+  ],
+  "timeline_hooks": [
+    {
+      "when": "2025-06-22T00:37:00",
+      "tag": "CALL_101_NEW_INCIDENT",
+      "note": "Report of fresh call from Alanna; request new CRN & new OIC"
+    },
+    {
+      "when": "2025-06-23T08:15:00",
+      "tag": "BOOKED_VIDEO_APPOINTMENT",
+      "note": "Handler Craig 44118 schedules officer video appointment"
+    }
+  ],
+  "ops": {
+    "needs": [
+      "Confirm CRN issued (if any) from this call; capture number + time",
+      "Attach audio hash (SHA-256) of MP3",
+      "Outcome of 23 Jun video appointment (occurred? cancelled? result?)"
+    ]
+  }
+}

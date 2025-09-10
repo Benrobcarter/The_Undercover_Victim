@@ -1,0 +1,21 @@
+{
+  "id": "thread_17 July 2025 at 11-59 - RE; DEADLINE URGENT_ SAR Breach, Safeguarding Silence, and Deadline for Disclosure (17 July, 5pm)_reply_004",
+  "type": "evidence",
+  "source": "Thread Reply Split (Smart OCR)",
+  "date": "DATE_NOT_FOUND",
+  "summary": "[From:] alanna.ohare@yahoo.com To: smp@hps-law.co.uk  Hi Stephen,  Just oot this from PC Dixon. I'll ring vou tomorroyys  = eT eegiffe on a  [Quoted text hidden]  =) PC",
+  "meta": {
+    "thread_id": "thread_17 July 2025 at 11-59 - RE; DEADLINE URGENT_ SAR Breach, Safeguarding Silence, and Deadline for Disclosure (17 July, 5pm)",
+    "original_filename": "17 July 2025 at 11-59 - RE; DEADLINE URGENT_ SAR Breach, Safeguarding Silence, and Deadline for Disclosure (17 July, 5pm).txt",
+    "reply_index": 4,
+    "split_on": "regex: header blocks",
+    "ingested_on": "2025-09-06T14:01:13.677858"
+  },
+  "links": {
+    "source_text_file": "/Users/bencarter/Documents/The_Undercover_Victim/01_evidence/text/17 July 2025 at 11-59 - RE; DEADLINE URGENT_ SAR Breach, Safeguarding Silence, and Deadline for Disclosure (17 July, 5pm).txt"
+  },
+  "tags": [
+    "reply_split",
+    "auto_ocr_thread"
+  ]
+}

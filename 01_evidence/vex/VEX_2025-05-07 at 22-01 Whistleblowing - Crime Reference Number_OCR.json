@@ -1,0 +1,28 @@
+{
+  "id": "VEX_2025-05-07 at 22-01 Whistleblowing - Crime Reference Number_OCR",
+  "type": "evidence",
+  "source": "Smart OCR Ingest",
+  "date": "2025-05-07",
+  "summary": "Auto-ingested from file: 2025-05-07 at 22-01 Whistleblowing - Crime Reference Number.pdf",
+  "meta": {
+    "original_filename": "2025-05-07 at 22-01 Whistleblowing - Crime Reference Number.pdf",
+    "ocr_pdf_file": "2025-05-07 at 22-01 Whistleblowing - Crime Reference Number_ocr.pdf",
+    "ocr_text_file": "2025-05-07 at 22-01 Whistleblowing - Crime Reference Number.txt",
+    "sha256": "30555e12785920e685b70bf6facb50eadb1d2bd0fcd31c0ebcb533f4f0c7853a",
+    "source_folder": ".",
+    "ingested_on": "2025-09-06T23:30:27.691280",
+    "ingest_method": "ocr_smart"
+  },
+  "links": {
+    "source_file_original": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_unprocessed/2025-05-07 at 22-01 Whistleblowing - Crime Reference Number.pdf",
+    "ocr_pdf_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_ocrd/2025-05-07 at 22-01 Whistleblowing - Crime Reference Number_ocr.pdf",
+    "ocr_text_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/text/2025-05-07 at 22-01 Whistleblowing - Crime Reference Number.txt"
+  },
+  "tags": [
+    "auto_ocr",
+    "01 whistleblowing ",
+    "2025",
+    " crime reference number",
+    "07 at 22"
+  ]
+}

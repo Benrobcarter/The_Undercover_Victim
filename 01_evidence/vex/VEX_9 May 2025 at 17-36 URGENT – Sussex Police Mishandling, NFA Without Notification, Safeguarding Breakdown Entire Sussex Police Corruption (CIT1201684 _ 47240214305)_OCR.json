@@ -1,0 +1,27 @@
+{
+  "id": "VEX_9 May 2025 at 17-36 URGENT \u2013 Sussex Police Mishandling, NFA Without Notification, Safeguarding Breakdown Entire Sussex Police Corruption (CIT1201684 _ 47240214305)_OCR",
+  "type": "evidence",
+  "source": "Smart OCR Ingest",
+  "date": "DATE_NOT_FOUND",
+  "summary": "Auto-ingested from file: 9 May 2025 at 17-36 URGENT \u2013 Sussex Police Mishandling, NFA Without Notification, Safeguarding Breakdown Entire Sussex Police Corruption (CIT1201684 _ 47240214305).pdf",
+  "meta": {
+    "original_filename": "9 May 2025 at 17-36 URGENT \u2013 Sussex Police Mishandling, NFA Without Notification, Safeguarding Breakdown Entire Sussex Police Corruption (CIT1201684 _ 47240214305).pdf",
+    "ocr_pdf_file": "9 May 2025 at 17-36 URGENT \u2013 Sussex Police Mishandling, NFA Without Notification, Safeguarding Breakdown Entire Sussex Police Corruption (CIT1201684 _ 47240214305)_ocr.pdf",
+    "ocr_text_file": "9 May 2025 at 17-36 URGENT \u2013 Sussex Police Mishandling, NFA Without Notification, Safeguarding Breakdown Entire Sussex Police Corruption (CIT1201684 _ 47240214305).txt",
+    "sha256": "02d569c80a422c8737b4765d5e4b1ac0e1a42f912d9dc2fb54d1e911e0970440",
+    "source_folder": ".",
+    "ingested_on": "2025-09-06T14:41:53.972280",
+    "ingest_method": "ocr_smart"
+  },
+  "links": {
+    "source_file_original": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_unprocessed/9 May 2025 at 17-36 URGENT \u2013 Sussex Police Mishandling, NFA Without Notification, Safeguarding Breakdown Entire Sussex Police Corruption (CIT1201684 _ 47240214305).pdf",
+    "ocr_pdf_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_ocrd/9 May 2025 at 17-36 URGENT \u2013 Sussex Police Mishandling, NFA Without Notification, Safeguarding Breakdown Entire Sussex Police Corruption (CIT1201684 _ 47240214305)_ocr.pdf",
+    "ocr_text_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/text/9 May 2025 at 17-36 URGENT \u2013 Sussex Police Mishandling, NFA Without Notification, Safeguarding Breakdown Entire Sussex Police Corruption (CIT1201684 _ 47240214305).txt"
+  },
+  "tags": [
+    "auto_ocr",
+    "36 urgent \u2013 sussex police mishandling, nfa without notification, safeguarding breakdown entire sussex police corruption (cit1201684 ",
+    " 47240214305)",
+    "9 may 2025 at 17"
+  ]
+}

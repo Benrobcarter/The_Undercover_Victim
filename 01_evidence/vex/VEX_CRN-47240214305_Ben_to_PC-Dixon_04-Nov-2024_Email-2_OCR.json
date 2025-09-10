@@ -1,0 +1,31 @@
+{
+  "id": "VEX_CRN-47240214305_Ben_to_PC-Dixon_04-Nov-2024_Email-2_OCR",
+  "type": "evidence",
+  "source": "Smart OCR Ingest",
+  "date": "DATE_NOT_FOUND",
+  "summary": "Auto-ingested from file: CRN-47240214305_Ben_to_PC-Dixon_04-Nov-2024_Email-2.pdf",
+  "meta": {
+    "original_filename": "CRN-47240214305_Ben_to_PC-Dixon_04-Nov-2024_Email-2.pdf",
+    "ocr_pdf_file": "CRN-47240214305_Ben_to_PC-Dixon_04-Nov-2024_Email-2_ocr.pdf",
+    "ocr_text_file": "CRN-47240214305_Ben_to_PC-Dixon_04-Nov-2024_Email-2.txt",
+    "sha256": "7089e826c6d39e5ee96569487778bc733acf0415ca21a40955a1af5c30fb711a",
+    "source_folder": ".",
+    "ingested_on": "2025-09-06T14:29:56.359406",
+    "ingest_method": "ocr_smart"
+  },
+  "links": {
+    "source_file_original": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_unprocessed/CRN-47240214305_Ben_to_PC-Dixon_04-Nov-2024_Email-2.pdf",
+    "ocr_pdf_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_ocrd/CRN-47240214305_Ben_to_PC-Dixon_04-Nov-2024_Email-2_ocr.pdf",
+    "ocr_text_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/text/CRN-47240214305_Ben_to_PC-Dixon_04-Nov-2024_Email-2.txt"
+  },
+  "tags": [
+    "auto_ocr",
+    "crn",
+    "2024",
+    "email",
+    "47240214305",
+    "nov",
+    "ben",
+    "dixon"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "thread_CRN-47240214305_PC-Dixon_to_Ben_12-Feb-2025_Email-10_reply_001",
+  "type": "evidence",
+  "source": "Thread Reply Split (Smart OCR)",
+  "date": "DATE_NOT_FOUND",
+  "summary": "[From:] \"SHAVE, Arran\" <Arran.SHAVE1 @norfolk.police.uk> To: \"Dixon, Jon EA817\" <Jon.Dixon@sussex.police.uk>  Cc: \"Morton, Charmaine\" <Charmaine.Morton@norfolk.police.u",
+  "meta": {
+    "thread_id": "thread_CRN-47240214305_PC-Dixon_to_Ben_12-Feb-2025_Email-10",
+    "original_filename": "CRN-47240214305_PC-Dixon_to_Ben_12-Feb-2025_Email-10.txt",
+    "reply_index": 1,
+    "split_on": "regex: header blocks",
+    "ingested_on": "2025-09-06T14:01:11.316367"
+  },
+  "links": {
+    "source_text_file": "/Users/bencarter/Documents/The_Undercover_Victim/01_evidence/text/CRN-47240214305_PC-Dixon_to_Ben_12-Feb-2025_Email-10.txt"
+  },
+  "tags": [
+    "reply_split",
+    "auto_ocr_thread"
+  ]
+}

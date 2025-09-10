@@ -1,0 +1,25 @@
+{
+  "id": "VEX_Subject.Access1@sussex.police.uk_OCR",
+  "type": "evidence",
+  "source": "Smart OCR Ingest",
+  "date": "DATE_NOT_FOUND",
+  "summary": "Auto-ingested from file: Subject.Access1@sussex.police.uk.pdf",
+  "meta": {
+    "original_filename": "Subject.Access1@sussex.police.uk.pdf",
+    "ocr_pdf_file": "Subject.Access1@sussex.police.uk_ocr.pdf",
+    "ocr_text_file": "Subject.Access1@sussex.police.uk.txt",
+    "sha256": "59846e3e85c4ab7f74ae31b20520c90d7aaf62ab73c7fa9d0ec68b86c5c73a47",
+    "source_folder": ".",
+    "ingested_on": "2025-09-06T14:48:05.207163",
+    "ingest_method": "ocr_smart"
+  },
+  "links": {
+    "source_file_original": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_unprocessed/Subject.Access1@sussex.police.uk.pdf",
+    "ocr_pdf_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_ocrd/Subject.Access1@sussex.police.uk_ocr.pdf",
+    "ocr_text_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/text/Subject.Access1@sussex.police.uk.txt"
+  },
+  "tags": [
+    "auto_ocr",
+    "subject.access1@sussex.police.uk"
+  ]
+}

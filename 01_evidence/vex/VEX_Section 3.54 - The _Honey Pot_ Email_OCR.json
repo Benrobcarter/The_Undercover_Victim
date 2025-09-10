@@ -1,0 +1,28 @@
+{
+  "id": "VEX_Section 3.54 - The _Honey Pot_ Email_OCR",
+  "type": "evidence",
+  "source": "Smart OCR Ingest",
+  "date": "DATE_NOT_FOUND",
+  "summary": "Auto-ingested from file: Section 3.54 - The _Honey Pot_ Email.pdf",
+  "meta": {
+    "original_filename": "Section 3.54 - The _Honey Pot_ Email.pdf",
+    "ocr_pdf_file": "Section 3.54 - The _Honey Pot_ Email_ocr.pdf",
+    "ocr_text_file": "Section 3.54 - The _Honey Pot_ Email.txt",
+    "sha256": "b3f54d79302a012e60a887895383fbc7f50b64d1c00e602ae1bd3197d022524f",
+    "source_folder": ".",
+    "ingested_on": "2025-09-06T14:22:26.905619",
+    "ingest_method": "ocr_smart"
+  },
+  "links": {
+    "source_file_original": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_unprocessed/Section 3.54 - The _Honey Pot_ Email.pdf",
+    "ocr_pdf_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_ocrd/Section 3.54 - The _Honey Pot_ Email_ocr.pdf",
+    "ocr_text_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/text/Section 3.54 - The _Honey Pot_ Email.txt"
+  },
+  "tags": [
+    "auto_ocr",
+    " the ",
+    " email",
+    "section 3.54 ",
+    "honey pot"
+  ]
+}

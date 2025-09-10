@@ -1,0 +1,25 @@
+{
+  "id": "VEX_BF agenda 130323_OCR",
+  "type": "evidence",
+  "source": "Smart OCR Ingest",
+  "date": "DATE_NOT_FOUND",
+  "summary": "Auto-ingested from file: BF agenda 130323.pdf",
+  "meta": {
+    "original_filename": "BF agenda 130323.pdf",
+    "ocr_pdf_file": "BF agenda 130323_ocr.pdf",
+    "ocr_text_file": "BF agenda 130323.txt",
+    "sha256": "c7a1dcfea2cfb336af1da4caead5ebc4469fc8efa7afefa147eff87939460c70",
+    "source_folder": ".",
+    "ingested_on": "2025-09-06T14:48:49.522889",
+    "ingest_method": "ocr_smart"
+  },
+  "links": {
+    "source_file_original": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_unprocessed/BF agenda 130323.pdf",
+    "ocr_pdf_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_ocrd/BF agenda 130323_ocr.pdf",
+    "ocr_text_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/text/BF agenda 130323.txt"
+  },
+  "tags": [
+    "auto_ocr",
+    "bf agenda 130323"
+  ]
+}

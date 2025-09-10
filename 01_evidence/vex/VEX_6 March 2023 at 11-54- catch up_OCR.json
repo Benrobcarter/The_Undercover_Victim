@@ -1,0 +1,26 @@
+{
+  "id": "VEX_6 March 2023 at 11-54- catch up_OCR",
+  "type": "evidence",
+  "source": "Smart OCR Ingest",
+  "date": "DATE_NOT_FOUND",
+  "summary": "Auto-ingested from file: 6 March 2023 at 11-54- catch up.pdf",
+  "meta": {
+    "original_filename": "6 March 2023 at 11-54- catch up.pdf",
+    "ocr_pdf_file": "6 March 2023 at 11-54- catch up_ocr.pdf",
+    "ocr_text_file": "6 March 2023 at 11-54- catch up.txt",
+    "sha256": "373918dc5bd7bcdb039e59c25814caade76ffb37c8980c651afc62de59891431",
+    "source_folder": ".",
+    "ingested_on": "2025-09-06T14:16:12.943962",
+    "ingest_method": "ocr_smart"
+  },
+  "links": {
+    "source_file_original": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_unprocessed/6 March 2023 at 11-54- catch up.pdf",
+    "ocr_pdf_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_ocrd/6 March 2023 at 11-54- catch up_ocr.pdf",
+    "ocr_text_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/text/6 March 2023 at 11-54- catch up.txt"
+  },
+  "tags": [
+    "auto_ocr",
+    " catch up",
+    "6 march 2023 at 11"
+  ]
+}

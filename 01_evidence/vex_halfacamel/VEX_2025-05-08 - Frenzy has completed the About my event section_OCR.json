@@ -1,0 +1,27 @@
+{
+  "id": "VEX_2025-05-08 - Frenzy has completed the About my event section_OCR",
+  "type": "evidence",
+  "source": "Smart OCR Ingest",
+  "date": "2025-05-08",
+  "summary": "Auto-ingested from file: 2025-05-08 - Frenzy has completed the About my event section.pdf",
+  "meta": {
+    "original_filename": "2025-05-08 - Frenzy has completed the About my event section.pdf",
+    "ocr_pdf_file": "2025-05-08 - Frenzy has completed the About my event section_ocr.pdf",
+    "ocr_text_file": "2025-05-08 - Frenzy has completed the About my event section.txt",
+    "sha256": "179760caed51fa952948e3ef7698ef6ad39e5a1907265b9eadd8c775a1456518",
+    "source_folder": ".",
+    "ingested_on": "2025-09-06T22:55:24.461158",
+    "ingest_method": "ocr_smart"
+  },
+  "links": {
+    "source_file_original": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_unprocessed/2025-05-08 - Frenzy has completed the About my event section.pdf",
+    "ocr_pdf_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_ocrd/2025-05-08 - Frenzy has completed the About my event section_ocr.pdf",
+    "ocr_text_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/text/2025-05-08 - Frenzy has completed the About my event section.txt"
+  },
+  "tags": [
+    "auto_ocr",
+    " frenzy has completed the about my event section",
+    "2025",
+    "08 "
+  ]
+}

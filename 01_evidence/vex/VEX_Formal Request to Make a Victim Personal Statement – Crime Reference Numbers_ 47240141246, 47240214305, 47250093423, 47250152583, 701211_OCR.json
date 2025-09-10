@@ -1,0 +1,26 @@
+{
+  "id": "VEX_Formal Request to Make a Victim Personal Statement \u2013 Crime Reference Numbers_ 47240141246, 47240214305, 47250093423, 47250152583, 701211_OCR",
+  "type": "evidence",
+  "source": "Smart OCR Ingest",
+  "date": "DATE_NOT_FOUND",
+  "summary": "Auto-ingested from file: Formal Request to Make a Victim Personal Statement \u2013 Crime Reference Numbers_ 47240141246, 47240214305, 47250093423, 47250152583, 701211.pdf",
+  "meta": {
+    "original_filename": "Formal Request to Make a Victim Personal Statement \u2013 Crime Reference Numbers_ 47240141246, 47240214305, 47250093423, 47250152583, 701211.pdf",
+    "ocr_pdf_file": "Formal Request to Make a Victim Personal Statement \u2013 Crime Reference Numbers_ 47240141246, 47240214305, 47250093423, 47250152583, 701211_ocr.pdf",
+    "ocr_text_file": "Formal Request to Make a Victim Personal Statement \u2013 Crime Reference Numbers_ 47240141246, 47240214305, 47250093423, 47250152583, 701211.txt",
+    "sha256": "c60e0f1b78123e93729117566a158e2bea1b971957a640fa8266fe58a33370ee",
+    "source_folder": ".",
+    "ingested_on": "2025-09-06T14:04:56.630261",
+    "ingest_method": "ocr_smart"
+  },
+  "links": {
+    "source_file_original": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_unprocessed/Formal Request to Make a Victim Personal Statement \u2013 Crime Reference Numbers_ 47240141246, 47240214305, 47250093423, 47250152583, 701211.pdf",
+    "ocr_pdf_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_ocrd/Formal Request to Make a Victim Personal Statement \u2013 Crime Reference Numbers_ 47240141246, 47240214305, 47250093423, 47250152583, 701211_ocr.pdf",
+    "ocr_text_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/text/Formal Request to Make a Victim Personal Statement \u2013 Crime Reference Numbers_ 47240141246, 47240214305, 47250093423, 47250152583, 701211.txt"
+  },
+  "tags": [
+    "auto_ocr",
+    "formal request to make a victim personal statement \u2013 crime reference numbers",
+    " 47240141246, 47240214305, 47250093423, 47250152583, 701211"
+  ]
+}

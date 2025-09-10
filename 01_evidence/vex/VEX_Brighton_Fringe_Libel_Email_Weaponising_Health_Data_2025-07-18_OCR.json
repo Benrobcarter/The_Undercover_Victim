@@ -1,0 +1,32 @@
+{
+  "id": "VEX_Brighton_Fringe_Libel_Email_Weaponising_Health_Data_2025-07-18_OCR",
+  "type": "evidence",
+  "source": "Smart OCR Ingest",
+  "date": "2025-07-18",
+  "summary": "Auto-ingested from file: Brighton_Fringe_Libel_Email_Weaponising_Health_Data_2025-07-18.pdf",
+  "meta": {
+    "original_filename": "Brighton_Fringe_Libel_Email_Weaponising_Health_Data_2025-07-18.pdf",
+    "ocr_pdf_file": "Brighton_Fringe_Libel_Email_Weaponising_Health_Data_2025-07-18_ocr.pdf",
+    "ocr_text_file": "Brighton_Fringe_Libel_Email_Weaponising_Health_Data_2025-07-18.txt",
+    "sha256": "4ed8c92f69864a892d9fbbefacd99789e0823fe14c3fc072398575caeff1fff5",
+    "source_folder": ".",
+    "ingested_on": "2025-09-06T14:26:42.089801",
+    "ingest_method": "ocr_smart"
+  },
+  "links": {
+    "source_file_original": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_unprocessed/Brighton_Fringe_Libel_Email_Weaponising_Health_Data_2025-07-18.pdf",
+    "ocr_pdf_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_ocrd/Brighton_Fringe_Libel_Email_Weaponising_Health_Data_2025-07-18_ocr.pdf",
+    "ocr_text_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/text/Brighton_Fringe_Libel_Email_Weaponising_Health_Data_2025-07-18.txt"
+  },
+  "tags": [
+    "auto_ocr",
+    "weaponising",
+    "2025",
+    "fringe",
+    "email",
+    "brighton",
+    "health",
+    "data",
+    "libel"
+  ]
+}

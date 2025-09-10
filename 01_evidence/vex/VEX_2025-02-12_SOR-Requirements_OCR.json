@@ -1,0 +1,27 @@
+{
+  "id": "VEX_2025-02-12_SOR-Requirements_OCR",
+  "type": "evidence",
+  "source": "Smart OCR Ingest",
+  "date": "2025-02-12",
+  "summary": "Auto-ingested from file: 2025-02-12_SOR-Requirements.pdf",
+  "meta": {
+    "original_filename": "2025-02-12_SOR-Requirements.pdf",
+    "ocr_pdf_file": "2025-02-12_SOR-Requirements_ocr.pdf",
+    "ocr_text_file": "2025-02-12_SOR-Requirements.txt",
+    "sha256": "9aea59383439d24da326449830e291f3b34b30cd5c017454c4e1eb996c294991",
+    "source_folder": ".",
+    "ingested_on": "2025-09-06T14:16:17.591466",
+    "ingest_method": "ocr_smart"
+  },
+  "links": {
+    "source_file_original": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_unprocessed/2025-02-12_SOR-Requirements.pdf",
+    "ocr_pdf_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_ocrd/2025-02-12_SOR-Requirements_ocr.pdf",
+    "ocr_text_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/text/2025-02-12_SOR-Requirements.txt"
+  },
+  "tags": [
+    "auto_ocr",
+    "2025",
+    "sor",
+    "requirements"
+  ]
+}

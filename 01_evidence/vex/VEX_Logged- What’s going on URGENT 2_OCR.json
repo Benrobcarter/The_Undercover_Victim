@@ -1,0 +1,26 @@
+{
+  "id": "VEX_Logged- What\u2019s going on URGENT 2_OCR",
+  "type": "evidence",
+  "source": "Smart OCR Ingest",
+  "date": "DATE_NOT_FOUND",
+  "summary": "Auto-ingested from file: Logged- What\u2019s going on URGENT 2.pdf",
+  "meta": {
+    "original_filename": "Logged- What\u2019s going on URGENT 2.pdf",
+    "ocr_pdf_file": "Logged- What\u2019s going on URGENT 2_ocr.pdf",
+    "ocr_text_file": "Logged- What\u2019s going on URGENT 2.txt",
+    "sha256": "5ac52ec1e8bc5c6a0566a633e5e000000152d859dea861100988b5977220cd05",
+    "source_folder": ".",
+    "ingested_on": "2025-09-06T14:12:52.960726",
+    "ingest_method": "ocr_smart"
+  },
+  "links": {
+    "source_file_original": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_unprocessed/Logged- What\u2019s going on URGENT 2.pdf",
+    "ocr_pdf_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_ocrd/Logged- What\u2019s going on URGENT 2_ocr.pdf",
+    "ocr_text_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/text/Logged- What\u2019s going on URGENT 2.txt"
+  },
+  "tags": [
+    "auto_ocr",
+    "logged",
+    " what\u2019s going on urgent 2"
+  ]
+}

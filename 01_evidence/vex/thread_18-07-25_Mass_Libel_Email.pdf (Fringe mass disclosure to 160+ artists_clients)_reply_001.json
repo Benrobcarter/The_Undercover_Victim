@@ -1,0 +1,21 @@
+{
+  "id": "thread_18-07-25_Mass_Libel_Email.pdf (Fringe mass disclosure to 160+ artists_clients)_reply_001",
+  "type": "evidence",
+  "source": "Thread Reply Split (Smart OCR)",
+  "date": "DATE_NOT_FOUND",
+  "summary": "[From:] Take Part <takepart@brightonfringe.org> Date: Thursday, 17 July 2025  Subject: Half a Camel - Brighton Fringe update To:  Good afternoon, | hope you are well.",
+  "meta": {
+    "thread_id": "thread_18-07-25_Mass_Libel_Email.pdf (Fringe mass disclosure to 160+ artists_clients)",
+    "original_filename": "18-07-25_Mass_Libel_Email.pdf (Fringe mass disclosure to 160+ artists_clients).txt",
+    "reply_index": 1,
+    "split_on": "regex: header blocks",
+    "ingested_on": "2025-09-06T14:01:13.837737"
+  },
+  "links": {
+    "source_text_file": "/Users/bencarter/Documents/The_Undercover_Victim/01_evidence/text/18-07-25_Mass_Libel_Email.pdf (Fringe mass disclosure to 160+ artists_clients).txt"
+  },
+  "tags": [
+    "reply_split",
+    "auto_ocr_thread"
+  ]
+}

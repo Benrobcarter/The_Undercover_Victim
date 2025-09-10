@@ -1,0 +1,28 @@
+{
+  "id": "VEX_2025-05-16 at 12-37- Update on your case. Crime Reference Number_ 47250093423_OCR",
+  "type": "evidence",
+  "source": "Smart OCR Ingest",
+  "date": "2025-05-16",
+  "summary": "Auto-ingested from file: 2025-05-16 at 12-37- Update on your case. Crime Reference Number_ 47250093423.pdf",
+  "meta": {
+    "original_filename": "2025-05-16 at 12-37- Update on your case. Crime Reference Number_ 47250093423.pdf",
+    "ocr_pdf_file": "2025-05-16 at 12-37- Update on your case. Crime Reference Number_ 47250093423_ocr.pdf",
+    "ocr_text_file": "2025-05-16 at 12-37- Update on your case. Crime Reference Number_ 47250093423.txt",
+    "sha256": "357eb89bc15d2459db91f34ef62b28ec733e3f0c86cfbbc4bd7214086cb63818",
+    "source_folder": ".",
+    "ingested_on": "2025-09-06T23:15:03.063319",
+    "ingest_method": "ocr_smart"
+  },
+  "links": {
+    "source_file_original": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_unprocessed/2025-05-16 at 12-37- Update on your case. Crime Reference Number_ 47250093423.pdf",
+    "ocr_pdf_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_ocrd/2025-05-16 at 12-37- Update on your case. Crime Reference Number_ 47250093423_ocr.pdf",
+    "ocr_text_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/text/2025-05-16 at 12-37- Update on your case. Crime Reference Number_ 47250093423.txt"
+  },
+  "tags": [
+    "auto_ocr",
+    "2025",
+    " 47250093423",
+    "16 at 12",
+    " update on your case. crime reference number"
+  ]
+}

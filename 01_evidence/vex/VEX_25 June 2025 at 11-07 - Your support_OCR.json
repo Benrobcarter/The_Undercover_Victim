@@ -1,0 +1,27 @@
+{
+  "id": "VEX_25 June 2025 at 11-07 - Your support_OCR",
+  "type": "evidence",
+  "source": "Smart OCR Ingest",
+  "date": "DATE_NOT_FOUND",
+  "summary": "Auto-ingested from file: 25 June 2025 at 11-07 - Your support.pdf",
+  "meta": {
+    "original_filename": "25 June 2025 at 11-07 - Your support.pdf",
+    "ocr_pdf_file": "25 June 2025 at 11-07 - Your support_ocr.pdf",
+    "ocr_text_file": "25 June 2025 at 11-07 - Your support.txt",
+    "sha256": "02aa035577ed7ed1f5f0b217ea124b9f44034fa656e203d19f70dd7db1f719f4",
+    "source_folder": ".",
+    "ingested_on": "2025-09-06T14:47:30.525428",
+    "ingest_method": "ocr_smart"
+  },
+  "links": {
+    "source_file_original": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_unprocessed/25 June 2025 at 11-07 - Your support.pdf",
+    "ocr_pdf_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_ocrd/25 June 2025 at 11-07 - Your support_ocr.pdf",
+    "ocr_text_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/text/25 June 2025 at 11-07 - Your support.txt"
+  },
+  "tags": [
+    "auto_ocr",
+    " your support",
+    "07 ",
+    "25 june 2025 at 11"
+  ]
+}

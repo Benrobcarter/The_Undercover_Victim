@@ -1,0 +1,27 @@
+{
+  "id": "VEX_2025-05-07 at 20-20 Whistleblowing Formal Notification of Breaches, Negligence, and Failure of Duty \u2014 Brighton Fringe Ltd__OCR",
+  "type": "evidence",
+  "source": "Smart OCR Ingest",
+  "date": "2025-05-07",
+  "summary": "Auto-ingested from file: 2025-05-07 at 20-20 Whistleblowing Formal Notification of Breaches, Negligence, and Failure of Duty \u2014 Brighton Fringe Ltd_.pdf",
+  "meta": {
+    "original_filename": "2025-05-07 at 20-20 Whistleblowing Formal Notification of Breaches, Negligence, and Failure of Duty \u2014 Brighton Fringe Ltd_.pdf",
+    "ocr_pdf_file": "2025-05-07 at 20-20 Whistleblowing Formal Notification of Breaches, Negligence, and Failure of Duty \u2014 Brighton Fringe Ltd__ocr.pdf",
+    "ocr_text_file": "2025-05-07 at 20-20 Whistleblowing Formal Notification of Breaches, Negligence, and Failure of Duty \u2014 Brighton Fringe Ltd_.txt",
+    "sha256": "fa25ed9903fb98a68f14564f5731c5015d8c9a276dc823883025cba8c0f4627b",
+    "source_folder": ".",
+    "ingested_on": "2025-09-06T23:18:40.594752",
+    "ingest_method": "ocr_smart"
+  },
+  "links": {
+    "source_file_original": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_unprocessed/2025-05-07 at 20-20 Whistleblowing Formal Notification of Breaches, Negligence, and Failure of Duty \u2014 Brighton Fringe Ltd_.pdf",
+    "ocr_pdf_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_ocrd/2025-05-07 at 20-20 Whistleblowing Formal Notification of Breaches, Negligence, and Failure of Duty \u2014 Brighton Fringe Ltd__ocr.pdf",
+    "ocr_text_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/text/2025-05-07 at 20-20 Whistleblowing Formal Notification of Breaches, Negligence, and Failure of Duty \u2014 Brighton Fringe Ltd_.txt"
+  },
+  "tags": [
+    "auto_ocr",
+    "20 whistleblowing formal notification of breaches, negligence, and failure of duty \u2014 brighton fringe ltd",
+    "07 at 20",
+    "2025"
+  ]
+}

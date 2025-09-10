@@ -1,0 +1,30 @@
+{
+  "id": "VEX_EVID_2025-07-20_BrightonFringe_BoardMinutes_RemovalRequest_Refused_OCR",
+  "type": "evidence",
+  "source": "Smart OCR Ingest",
+  "date": "2025-07-20",
+  "summary": "Auto-ingested from file: EVID_2025-07-20_BrightonFringe_BoardMinutes_RemovalRequest_Refused.pdf",
+  "meta": {
+    "original_filename": "EVID_2025-07-20_BrightonFringe_BoardMinutes_RemovalRequest_Refused.pdf",
+    "ocr_pdf_file": "EVID_2025-07-20_BrightonFringe_BoardMinutes_RemovalRequest_Refused_ocr.pdf",
+    "ocr_text_file": "EVID_2025-07-20_BrightonFringe_BoardMinutes_RemovalRequest_Refused.txt",
+    "sha256": "8c439e1cebc4066095f7e05ce060afe1bc9fafac868f25e34d03b08f824f8478",
+    "source_folder": ".",
+    "ingested_on": "2025-09-06T14:04:18.014023",
+    "ingest_method": "ocr_smart"
+  },
+  "links": {
+    "source_file_original": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_unprocessed/EVID_2025-07-20_BrightonFringe_BoardMinutes_RemovalRequest_Refused.pdf",
+    "ocr_pdf_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_ocrd/EVID_2025-07-20_BrightonFringe_BoardMinutes_RemovalRequest_Refused_ocr.pdf",
+    "ocr_text_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/text/EVID_2025-07-20_BrightonFringe_BoardMinutes_RemovalRequest_Refused.txt"
+  },
+  "tags": [
+    "auto_ocr",
+    "boardminutes",
+    "evid",
+    "brightonfringe",
+    "removalrequest",
+    "refused",
+    "2025"
+  ]
+}

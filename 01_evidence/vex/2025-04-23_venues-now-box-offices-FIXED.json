@@ -1,0 +1,13 @@
+{
+  "id": "VEX_2025-04-23_venues-now-box-offices-FIXED_58b4f7ed",
+  "source_file": "2025-04-23_venues-now-box-offices-FIXED.pdf",
+  "sha256": "58b4f7ed4c5705f52df749a94db2ce432cda28221aef8719d272cae07109fa03",
+  "tags": [
+    "ocr",
+    "auto-ingest",
+    "undated_flag_if_needed"
+  ],
+  "timeline": [],
+  "contradictions": [],
+  "notes": "Auto-generated VEX stub from OCR pipeline."
+}

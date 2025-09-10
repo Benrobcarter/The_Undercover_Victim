@@ -1,0 +1,28 @@
+{
+  "id": "VEX_Alice_Instagram_I_Told Her_Everthing_OCR",
+  "type": "evidence",
+  "source": "Smart OCR Ingest",
+  "date": "DATE_NOT_FOUND",
+  "summary": "Auto-ingested from file: Alice_Instagram_I_Told Her_Everthing.pdf",
+  "meta": {
+    "original_filename": "Alice_Instagram_I_Told Her_Everthing.pdf",
+    "ocr_pdf_file": "Alice_Instagram_I_Told Her_Everthing_ocr.pdf",
+    "ocr_text_file": "Alice_Instagram_I_Told Her_Everthing.txt",
+    "sha256": "7861a6c83206f059957aa7cd8826d344dad2bacc1c88df482ec9b9ffc2612f0e",
+    "source_folder": ".",
+    "ingested_on": "2025-09-06T14:13:10.723770",
+    "ingest_method": "ocr_smart"
+  },
+  "links": {
+    "source_file_original": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_unprocessed/Alice_Instagram_I_Told Her_Everthing.pdf",
+    "ocr_pdf_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_ocrd/Alice_Instagram_I_Told Her_Everthing_ocr.pdf",
+    "ocr_text_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/text/Alice_Instagram_I_Told Her_Everthing.txt"
+  },
+  "tags": [
+    "auto_ocr",
+    "everthing",
+    "alice",
+    "told her",
+    "instagram"
+  ]
+}

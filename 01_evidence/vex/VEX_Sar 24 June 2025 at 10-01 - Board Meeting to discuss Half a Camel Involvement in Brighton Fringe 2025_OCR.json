@@ -1,0 +1,27 @@
+{
+  "id": "VEX_Sar 24 June 2025 at 10-01 - Board Meeting to discuss Half a Camel Involvement in Brighton Fringe 2025_OCR",
+  "type": "evidence",
+  "source": "Smart OCR Ingest",
+  "date": "DATE_NOT_FOUND",
+  "summary": "Auto-ingested from file: Sar 24 June 2025 at 10-01 - Board Meeting to discuss Half a Camel Involvement in Brighton Fringe 2025.pdf",
+  "meta": {
+    "original_filename": "Sar 24 June 2025 at 10-01 - Board Meeting to discuss Half a Camel Involvement in Brighton Fringe 2025.pdf",
+    "ocr_pdf_file": "Sar 24 June 2025 at 10-01 - Board Meeting to discuss Half a Camel Involvement in Brighton Fringe 2025_ocr.pdf",
+    "ocr_text_file": "Sar 24 June 2025 at 10-01 - Board Meeting to discuss Half a Camel Involvement in Brighton Fringe 2025.txt",
+    "sha256": "d71a6794fd81cb69e3d4b5c9ffce4ae8abed3dea9faa75372ab4a5cce4a7b774",
+    "source_folder": ".",
+    "ingested_on": "2025-09-06T14:04:24.356173",
+    "ingest_method": "ocr_smart"
+  },
+  "links": {
+    "source_file_original": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_unprocessed/Sar 24 June 2025 at 10-01 - Board Meeting to discuss Half a Camel Involvement in Brighton Fringe 2025.pdf",
+    "ocr_pdf_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_ocrd/Sar 24 June 2025 at 10-01 - Board Meeting to discuss Half a Camel Involvement in Brighton Fringe 2025_ocr.pdf",
+    "ocr_text_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/text/Sar 24 June 2025 at 10-01 - Board Meeting to discuss Half a Camel Involvement in Brighton Fringe 2025.txt"
+  },
+  "tags": [
+    "auto_ocr",
+    "01 ",
+    "sar 24 june 2025 at 10",
+    " board meeting to discuss half a camel involvement in brighton fringe 2025"
+  ]
+}

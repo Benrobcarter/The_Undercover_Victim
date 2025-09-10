@@ -1,0 +1,27 @@
+{
+  "id": "VEX_Statement 16-sep-22 ac 20630144_OCR",
+  "type": "evidence",
+  "source": "Smart OCR Ingest",
+  "date": "DATE_NOT_FOUND",
+  "summary": "Auto-ingested from file: Statement 16-sep-22 ac 20630144.PDF",
+  "meta": {
+    "original_filename": "Statement 16-sep-22 ac 20630144.PDF",
+    "ocr_pdf_file": "Statement 16-sep-22 ac 20630144_ocr.pdf",
+    "ocr_text_file": "Statement 16-sep-22 ac 20630144.txt",
+    "sha256": "7485a5ce62f5fb1a8d4298653cef0e5783bf7ebaac93686fff9e5cd7d415d005",
+    "source_folder": ".",
+    "ingested_on": "2025-09-06T14:16:56.638874",
+    "ingest_method": "ocr_smart"
+  },
+  "links": {
+    "source_file_original": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_unprocessed/Statement 16-sep-22 ac 20630144.PDF",
+    "ocr_pdf_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_ocrd/Statement 16-sep-22 ac 20630144_ocr.pdf",
+    "ocr_text_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/text/Statement 16-sep-22 ac 20630144.txt"
+  },
+  "tags": [
+    "auto_ocr",
+    "statement 16",
+    "sep",
+    "22 ac 20630144.pdf"
+  ]
+}

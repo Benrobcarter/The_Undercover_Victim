@@ -1,0 +1,27 @@
+{
+  "id": "VEX_2025-05-05 - What\u2019s going on URGENT 2_OCR",
+  "type": "evidence",
+  "source": "Smart OCR Ingest",
+  "date": "2025-05-05",
+  "summary": "Auto-ingested from file: 2025-05-05 - What\u2019s going on URGENT 2.pdf",
+  "meta": {
+    "original_filename": "2025-05-05 - What\u2019s going on URGENT 2.pdf",
+    "ocr_pdf_file": "2025-05-05 - What\u2019s going on URGENT 2_ocr.pdf",
+    "ocr_text_file": "2025-05-05 - What\u2019s going on URGENT 2.txt",
+    "sha256": "7c98438c80d36e7e4e03c5bf033989b17d935c14d9c27ef6831faeff20deadaf",
+    "source_folder": ".",
+    "ingested_on": "2025-09-06T23:17:27.656130",
+    "ingest_method": "ocr_smart"
+  },
+  "links": {
+    "source_file_original": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_unprocessed/2025-05-05 - What\u2019s going on URGENT 2.pdf",
+    "ocr_pdf_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_ocrd/2025-05-05 - What\u2019s going on URGENT 2_ocr.pdf",
+    "ocr_text_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/text/2025-05-05 - What\u2019s going on URGENT 2.txt"
+  },
+  "tags": [
+    "auto_ocr",
+    "05 ",
+    "2025",
+    " what\u2019s going on urgent 2"
+  ]
+}

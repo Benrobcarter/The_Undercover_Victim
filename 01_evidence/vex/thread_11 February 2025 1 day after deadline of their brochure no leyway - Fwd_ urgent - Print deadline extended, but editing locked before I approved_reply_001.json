@@ -1,0 +1,21 @@
+{
+  "id": "thread_11 February 2025 1 day after deadline of their brochure no leyway - Fwd_ urgent - Print deadline extended, but editing locked before I approved_reply_001",
+  "type": "evidence",
+  "source": "Thread Reply Split (Smart OCR)",
+  "date": "DATE_NOT_FOUND",
+  "summary": "[From:] Take Part <takepart@brightonfringe.org> Date: Tue, 11 Feb 2025 at 13:00  Subject: Re: urgent - Print deadline extended, but editing locked before | approved To:",
+  "meta": {
+    "thread_id": "thread_11 February 2025 1 day after deadline of their brochure no leyway - Fwd_ urgent - Print deadline extended, but editing locked before I approved",
+    "original_filename": "11 February 2025 1 day after deadline of their brochure no leyway - Fwd_ urgent - Print deadline extended, but editing locked before I approved.txt",
+    "reply_index": 1,
+    "split_on": "regex: header blocks",
+    "ingested_on": "2025-09-06T14:01:09.212711"
+  },
+  "links": {
+    "source_text_file": "/Users/bencarter/Documents/The_Undercover_Victim/01_evidence/text/11 February 2025 1 day after deadline of their brochure no leyway - Fwd_ urgent - Print deadline extended, but editing locked before I approved.txt"
+  },
+  "tags": [
+    "reply_split",
+    "auto_ocr_thread"
+  ]
+}

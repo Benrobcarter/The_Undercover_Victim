@@ -1,0 +1,27 @@
+{
+  "id": "VEX_2025-05-26 - Suicidal email to the fringe (logged) Smoking Gun_OCR",
+  "type": "evidence",
+  "source": "Smart OCR Ingest",
+  "date": "2025-05-26",
+  "summary": "Auto-ingested from file: 2025-05-26 - Suicidal email to the fringe (logged) Smoking Gun.pdf",
+  "meta": {
+    "original_filename": "2025-05-26 - Suicidal email to the fringe (logged) Smoking Gun.pdf",
+    "ocr_pdf_file": "2025-05-26 - Suicidal email to the fringe (logged) Smoking Gun_ocr.pdf",
+    "ocr_text_file": "2025-05-26 - Suicidal email to the fringe (logged) Smoking Gun.txt",
+    "sha256": "21acb4d39f83ec095a3d52bef0451d6191772e10e5ba5a1d94f6fb8fbf5fc860",
+    "source_folder": ".",
+    "ingested_on": "2025-09-06T23:17:37.872830",
+    "ingest_method": "ocr_smart"
+  },
+  "links": {
+    "source_file_original": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_unprocessed/2025-05-26 - Suicidal email to the fringe (logged) Smoking Gun.pdf",
+    "ocr_pdf_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_ocrd/2025-05-26 - Suicidal email to the fringe (logged) Smoking Gun_ocr.pdf",
+    "ocr_text_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/text/2025-05-26 - Suicidal email to the fringe (logged) Smoking Gun.txt"
+  },
+  "tags": [
+    "auto_ocr",
+    "26 ",
+    " suicidal email to the fringe (logged) smoking gun",
+    "2025"
+  ]
+}

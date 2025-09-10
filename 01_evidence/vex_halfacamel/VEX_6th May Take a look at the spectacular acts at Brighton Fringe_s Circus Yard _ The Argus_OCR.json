@@ -1,0 +1,27 @@
+{
+  "id": "VEX_6th May Take a look at the spectacular acts at Brighton Fringe_s Circus Yard _ The Argus_OCR",
+  "type": "evidence",
+  "source": "Smart OCR Ingest",
+  "date": "DATE_NOT_FOUND",
+  "summary": "Auto-ingested from file: 6th May Take a look at the spectacular acts at Brighton Fringe_s Circus Yard _ The Argus.pdf",
+  "meta": {
+    "original_filename": "6th May Take a look at the spectacular acts at Brighton Fringe_s Circus Yard _ The Argus.pdf",
+    "ocr_pdf_file": "6th May Take a look at the spectacular acts at Brighton Fringe_s Circus Yard _ The Argus_ocr.pdf",
+    "ocr_text_file": "6th May Take a look at the spectacular acts at Brighton Fringe_s Circus Yard _ The Argus.txt",
+    "sha256": "5b4ce9958695cf2f9a7e5b51fabc8097fe43d3f7a5ae60561d62f3fb5a004a3b",
+    "source_folder": ".",
+    "ingested_on": "2025-09-06T14:22:49.477140",
+    "ingest_method": "ocr_smart"
+  },
+  "links": {
+    "source_file_original": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_unprocessed/6th May Take a look at the spectacular acts at Brighton Fringe_s Circus Yard _ The Argus.pdf",
+    "ocr_pdf_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_ocrd/6th May Take a look at the spectacular acts at Brighton Fringe_s Circus Yard _ The Argus_ocr.pdf",
+    "ocr_text_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/text/6th May Take a look at the spectacular acts at Brighton Fringe_s Circus Yard _ The Argus.txt"
+  },
+  "tags": [
+    "auto_ocr",
+    " the argus",
+    "s circus yard ",
+    "6th may take a look at the spectacular acts at brighton fringe"
+  ]
+}

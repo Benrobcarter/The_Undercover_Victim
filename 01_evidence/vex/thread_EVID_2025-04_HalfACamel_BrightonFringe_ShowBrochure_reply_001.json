@@ -1,0 +1,21 @@
+{
+  "id": "thread_EVID_2025-04_HalfACamel_BrightonFringe_ShowBrochure_reply_001",
+  "type": "evidence",
+  "source": "Thread Reply Split (Smart OCR)",
+  "date": "DATE_NOT_FOUND",
+  "summary": "[From:] Joanna Jarvie <joannalouisejarvie@gmail.com> Sent: 20 April 2025 22:06 To: Take Part <takepart@brightonfringe.org> Ce: Half a camel production <halfacamelproduc",
+  "meta": {
+    "thread_id": "thread_EVID_2025-04_HalfACamel_BrightonFringe_ShowBrochure",
+    "original_filename": "EVID_2025-04_HalfACamel_BrightonFringe_ShowBrochure.txt",
+    "reply_index": 1,
+    "split_on": "regex: header blocks",
+    "ingested_on": "2025-09-06T14:01:09.902930"
+  },
+  "links": {
+    "source_text_file": "/Users/bencarter/Documents/The_Undercover_Victim/01_evidence/text/EVID_2025-04_HalfACamel_BrightonFringe_ShowBrochure.txt"
+  },
+  "tags": [
+    "reply_split",
+    "auto_ocr_thread"
+  ]
+}

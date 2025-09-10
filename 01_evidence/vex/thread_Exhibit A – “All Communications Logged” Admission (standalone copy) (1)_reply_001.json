@@ -1,0 +1,21 @@
+{
+  "id": "thread_Exhibit A \u2013 \u201cAll Communications Logged\u201d Admission (standalone copy) (1)_reply_001",
+  "type": "evidence",
+  "source": "Thread Reply Split (Smart OCR)",
+  "date": "DATE_NOT_FOUND",
+  "summary": "[From:] Ben Carter <benrobcarter@gmail.com> Sent: 06 May 2025 15:24 To: Take Part <takepart@brightonfringe.org> Cc: Alice Wright <alice@sparkampm.co.uk> Subject: <3 [Qu",
+  "meta": {
+    "thread_id": "thread_Exhibit A \u2013 \u201cAll Communications Logged\u201d Admission (standalone copy) (1)",
+    "original_filename": "Exhibit A \u2013 \u201cAll Communications Logged\u201d Admission (standalone copy) (1).txt",
+    "reply_index": 1,
+    "split_on": "regex: header blocks",
+    "ingested_on": "2025-09-06T14:01:11.917389"
+  },
+  "links": {
+    "source_text_file": "/Users/bencarter/Documents/The_Undercover_Victim/01_evidence/text/Exhibit A \u2013 \u201cAll Communications Logged\u201d Admission (standalone copy) (1).txt"
+  },
+  "tags": [
+    "reply_split",
+    "auto_ocr_thread"
+  ]
+}

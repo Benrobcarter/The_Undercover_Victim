@@ -1,0 +1,25 @@
+{
+  "id": "VEX_Emma Jones Veritas Whatsapp_OCR",
+  "type": "evidence",
+  "source": "Smart OCR Ingest",
+  "date": "DATE_NOT_FOUND",
+  "summary": "Auto-ingested from file: Emma Jones Veritas Whatsapp.pdf",
+  "meta": {
+    "original_filename": "Emma Jones Veritas Whatsapp.pdf",
+    "ocr_pdf_file": "Emma Jones Veritas Whatsapp_ocr.pdf",
+    "ocr_text_file": "Emma Jones Veritas Whatsapp.txt",
+    "sha256": "fb4552ea85459e0ebdc1e30ccbedb60d9ba88a1c3959eb4900d61057e88809a1",
+    "source_folder": ".",
+    "ingested_on": "2025-09-06T14:11:01.355566",
+    "ingest_method": "ocr_smart"
+  },
+  "links": {
+    "source_file_original": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_unprocessed/Emma Jones Veritas Whatsapp.pdf",
+    "ocr_pdf_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_ocrd/Emma Jones Veritas Whatsapp_ocr.pdf",
+    "ocr_text_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/text/Emma Jones Veritas Whatsapp.txt"
+  },
+  "tags": [
+    "auto_ocr",
+    "emma jones veritas whatsapp"
+  ]
+}

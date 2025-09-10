@@ -1,0 +1,27 @@
+{
+  "id": "VEX_16 April 2025 giving an act a chance _venue manager responsibilies - Concern raised about a performer_OCR",
+  "type": "evidence",
+  "source": "Smart OCR Ingest",
+  "date": "DATE_NOT_FOUND",
+  "summary": "Auto-ingested from file: 16 April 2025 giving an act a chance _venue manager responsibilies - Concern raised about a performer.pdf",
+  "meta": {
+    "original_filename": "16 April 2025 giving an act a chance _venue manager responsibilies - Concern raised about a performer.pdf",
+    "ocr_pdf_file": "16 April 2025 giving an act a chance _venue manager responsibilies - Concern raised about a performer_ocr.pdf",
+    "ocr_text_file": "16 April 2025 giving an act a chance _venue manager responsibilies - Concern raised about a performer.txt",
+    "sha256": "8b3013d582a2a7d52cf09bc63fed796be16a0fb1382c8ae57c151cf61300f6da",
+    "source_folder": ".",
+    "ingested_on": "2025-09-06T14:05:09.960962",
+    "ingest_method": "ocr_smart"
+  },
+  "links": {
+    "source_file_original": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_unprocessed/16 April 2025 giving an act a chance _venue manager responsibilies - Concern raised about a performer.pdf",
+    "ocr_pdf_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_ocrd/16 April 2025 giving an act a chance _venue manager responsibilies - Concern raised about a performer_ocr.pdf",
+    "ocr_text_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/text/16 April 2025 giving an act a chance _venue manager responsibilies - Concern raised about a performer.txt"
+  },
+  "tags": [
+    "auto_ocr",
+    " concern raised about a performer",
+    "venue manager responsibilies ",
+    "16 april 2025 giving an act a chance "
+  ]
+}

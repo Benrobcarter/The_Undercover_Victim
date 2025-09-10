@@ -1,0 +1,21 @@
+{
+  "id": "thread_17 July 2025 at 11-59 - RE; DEADLINE URGENT_ SAR Breach, Safeguarding Silence, and Deadline for Disclosure (17 July, 5pm)_reply_005",
+  "type": "evidence",
+  "source": "Thread Reply Split (Smart OCR)",
+  "date": "DATE_NOT_FOUND",
+  "summary": "[From:] pct.outcomes <pct.outcomes@sussex.police.uk> Date: Fri, 18 Jul 2025 at 08:36 [Quoted text hidden] [Quoted text hidden]  2 attachments  = 9th April- Subject Acce",
+  "meta": {
+    "thread_id": "thread_17 July 2025 at 11-59 - RE; DEADLINE URGENT_ SAR Breach, Safeguarding Silence, and Deadline for Disclosure (17 July, 5pm)",
+    "original_filename": "17 July 2025 at 11-59 - RE; DEADLINE URGENT_ SAR Breach, Safeguarding Silence, and Deadline for Disclosure (17 July, 5pm).txt",
+    "reply_index": 5,
+    "split_on": "regex: header blocks",
+    "ingested_on": "2025-09-06T14:01:13.678055"
+  },
+  "links": {
+    "source_text_file": "/Users/bencarter/Documents/The_Undercover_Victim/01_evidence/text/17 July 2025 at 11-59 - RE; DEADLINE URGENT_ SAR Breach, Safeguarding Silence, and Deadline for Disclosure (17 July, 5pm).txt"
+  },
+  "tags": [
+    "reply_split",
+    "auto_ocr_thread"
+  ]
+}

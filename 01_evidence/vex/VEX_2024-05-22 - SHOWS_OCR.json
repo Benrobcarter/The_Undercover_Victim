@@ -1,0 +1,27 @@
+{
+  "id": "VEX_2024-05-22 - SHOWS_OCR",
+  "type": "evidence",
+  "source": "Smart OCR Ingest",
+  "date": "2024-05-22",
+  "summary": "Auto-ingested from file: 2024-05-22 - SHOWS.pdf",
+  "meta": {
+    "original_filename": "2024-05-22 - SHOWS.pdf",
+    "ocr_pdf_file": "2024-05-22 - SHOWS_ocr.pdf",
+    "ocr_text_file": "2024-05-22 - SHOWS.txt",
+    "sha256": "126295263ae3dd311b63154bfa7707b1dd97860424e3ece9f16628c4801a4843",
+    "source_folder": ".",
+    "ingested_on": "2025-09-06T22:55:47.054211",
+    "ingest_method": "ocr_smart"
+  },
+  "links": {
+    "source_file_original": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_unprocessed/2024-05-22 - SHOWS.pdf",
+    "ocr_pdf_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_ocrd/2024-05-22 - SHOWS_ocr.pdf",
+    "ocr_text_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/text/2024-05-22 - SHOWS.txt"
+  },
+  "tags": [
+    "auto_ocr",
+    "22 ",
+    "2024",
+    " shows"
+  ]
+}

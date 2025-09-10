@@ -1,0 +1,227 @@
+Q&A; Battle Cards
+on
+
+5
+
+booeNaiotge
+
+Saree
+tg bert)
+Teer
+ers
+
+AGAR
+
+PRES CRAMIFA
+
+COVES
+Beer
+ee
+
+SAe
+
+toa
+
+eka
+
+SY eee SOS
+Sree.
+
+AA
+
+?
+
+17 Apr 2025 — 101 “Holiday Alibi’ — Q&A; Battle Card
+Timecode coverage: 180/380 lines (47.4%).
+
+Death by Silence escalator: Trigger 2025-04-171T04:32:00Z, target 7 days — breach: YES.
+Clusters: CRIME_REF_47240214305_
+THREAD, CROWBARRING_MYSELF_JUSTICE,
+DEATH_BY_SILENCE, HOLIDAY_ALIBI, LOST_EVIDENCE_SUSSEX_POLICE
+Use this claim:
+
+bulletSystem displays November while first note is 24 Jul 2024 (indexing discrepancy).
+bulletAll three supervisors on leave simultaneously when you sought escalation.
+Police counsel attack lines:
+
+bulletHandler is not an officer/auditor; statements are screen reading (hearsay).
+bulletindexing/linkage anomalies are common; not proof of manipulation.
+bulletRisk triage language (‘not in immediate danger’) is standard, not neglect.
+
+Strongest lines (timestamp « quote « tags):
+bullet'00:10:32° « “[10:32.6] Jonathan Dixon.” * ACTOR::BEN_CARTER, ACTOR::DIXON
+__
+bullet—:—:— « “In this early morning 101 call, Ben Carter attempts to clarify the closure and handling of
+his July 2024 stalking report involving Alanna O’Hare. He provides a reference number (701211) and
+explains that PC Gore originally informed him the case would not be pursued as harassment, instead
+referring him to a charity. Despite clear recollections of submitting evidence and a police visit, the
+
+operator cannot locate a July incident at first—raising significant questions about data retention and
+continuity of case records. Eventually, it emerges that the July case is “the same” as the November
+stalking file, but inexplicably displays only the later date.” » ACTOR::BEN_CARTER,
+TIMELINE::MONTH_NOV_
+bullet—:—:— * “The call further reveals that every officer in the chain of command—PC Dixon, Sergeant
+
+Duffy, and Inspector Palmer—are on annual leave at the same time, leaving the caller with no
+supervisory recourse until their return. When Ben expresses that his alleged abuser is now living
+
+locally and asks who is accountable for providing safeguarding or updates, he’s told simply that
+“you're not in immediate danger” and to call 999 if anything happens.” * ACTOR::BEN_CARTER,
+ACTOR::DIXON, ACTOR::DUFFY, ACTOR::PALMER, RECORDS::LEAVE_STATUS,
+RISK::IMMEDIATE_DANGER_NEGATED
+_
+bullet—:—:— « “Crime ref number linked only to November despite events starting in July. Operator
+
+eventually concedes “it’s the same report” — raising concerns of post-hoc record consolidation
+without victim knowledge or clarity.”
+
+*_ACTOR::BEN_CARTER, RECORDS::LINKED_CASES,
+
+TIMELINE::CRIME_REF_NUM, TIMELINE::MONTH_NOV_
+
+bullet—:—:— * “Despite disclosures of psychological fear, proximity to the alleged abuser, and failed
+updates, Ben is repeatedly advised “you’re not in immediate danger” as justification for doing
+nothing.” *_ ACTOR::BEN_CARTER, RISK::IMMEDIATE_DANGER_NEGATED
+_
+bullet—:—:— « “Hello? Ben, can you hear me? So we haven't got any, instances for you from July, but we
+
+have got a stalking one where you're the victim from November. Is that the one you're talking about?”
+
+¢ ACTOR::BEN_CARTER, TIMELINE::MONTH_NOV_
+Legal hooks to cite:
+
+bulletDPA 2018 Part 3 (Law Enforcement) — right of access (s.45)
+bulletDPA 2018 Part 3 — accuracy principle (records must be accurate & kept up to date)
+
+bulletVictims’ Code of Practice — right to updates & VPS (policy obligation)
+Force-it asks (request these precisely):
+
+bulletFull audit/chronology export for the record that surfaces as November (create/modify/link, user IDs,
+timestamps).
+bulletCAD/event entries for 22 & 24 Jul 2024 and the arrest date (fields: event_time, user_id, action,
+
+source).
+
+bulletOfficer leave/cover roster and escalation emails (Dixon/Duffy/Palmer) for 15—24 Apr 2025.
+
+4 Jul 2025 — 101 “PC Gasson” (14:05) — Q&A; Battle Card
+Timecode coverage: 0/210 lines (0.0%).
+
+Death by Silence escalator: Trigger 2025-07-041T14:05:00Z, target 2 days — breach: YES.
+Clusters:
+
+CRIME _REF_47240214305
+THREAD,CROWBARRING_MYSELF_JUSTICE,
+
+DEATH
+_BY_ SILENCE,
+
+HOLIDAY ALIBI,
+
+LOST
+
+EVIDENCE _SUSSEX_POLICE,
+
+POST _BAIL_NO_ WARNING EXPOSURE
+Use this claim:
+
+bulletTwo crime refs are linked and handled by the same OIC (PC Gasson).
+bullet22 Jun 2025 incident is confirmed as logged.
+Police counsel attack lines:
+
+bulletTwo refs = two incidents; linkage reflects administrative structure, not record tampering.
+bulletNo audit extract or CAD IDs cited here; handler cannot disclose full details.
+Strongest lines (timestamp « quote « tags):
+bullet—:—:— * “* 47240141246 (Original stalking complaint)”
+
+*_ACTOR::BEN_CARTER,
+
+TIMELINE::CRIME_REF_NUM
+_
+bullet—:—:— * “* 47240214305 (New incident — May 2025 threats, reported 16 May)” «
+_ACTOR::BEN_CARTER, TIMELINE::CRIME_REF_NUM__
+
+bullet—:—:— * “* | was told both were active and under the same officer (PC Gasson) — despite being
+given no formal case update or safeguarding follow-up.” *
+
+ACTOR::BEN CARTER,
+
+ACTOR::GASSON
+_
+
+bullet—:—:— « “* Despite confirmation that a new rape threat was logged on 22 June 2025, | was given
+no updates, violating my rights as a data subject and as a victim of crime.” «
+_ACTOR::BEN_CARTER, TIMELINE::DATE_JUN22_
+2025, TIMELINE::_LOGGED_ENTRY_
+
+bullet—:—:— « “* At no stage was | informed that PC Gasson had taken over — | only found out by
+chasing this information myself on a recorded line.” *_ ACTOR::BEN_ CARTER, ACTOR::GASSON
+__
+
+bullet—:—:— * “* PC Gasson — currently handling the case but failed to contact me” «
+_ACTOR::BEN_CARTER, ACTOR::GASSON_
+Legal hooks to cite:
+
+bulletDPA 2018 Part 3 (Law Enforcement) — right of access (s.45)
+bulletDPA 2018 Part 3 — accuracy principle (records must be accurate & kept up to date)
+
+bulletVictims’ Code of Practice — right to updates & VPS (policy obligation)
+Force-it asks (request these precisely):
+
+bulletCase chronology/audit export for refs 47240141246 and 47240214305 (create/modify/link actions).
+bulletCAD ID for 22 Jun 2025 ‘logged’ entry and any follow-ups; call back record by OIC.
+bulletFormal .eml confirming OIC assignment to PC Gasson for both refs.
+
+4 Jul 2025 — Front Desk “Liz” — Q&A; Battle Card
+Timecode coverage: 1/331 lines (0.3%).
+
+Death by Silence escalator: Trigger 2025-07-04T12:00:00Z, target 2 days — breach: YES.
+Clusters: CRIME_REF_47240214305
+THREAD,CROWBARRING_MYSELF_JUSTICE,
+DEATH
+BY_ SILENCE,
+
+FRONT DESK_CORROBORATION, HOLIDAY_ ALIBI,
+
+LOSTEVIDENCE
+SUSSEX _ POLICE
+Use this claim:
+
+bulletFront desk corroborates multi-ref picture and names OIC + supervisor.
+bulletFirst record displays as 18 Nov despite earlier report via NICE link (2 Nov).
+Police counsel attack lines:
+
+bulletFront desk is not an investigator; relies on read-only view that may differ from back-office records.
+bulletDisplay date may reflect indexing/approval times, not creation date.
+Strongest lines (timestamp « quote « tags):
+bullet—:—:— * “1. TM 101 Call — Crime Number Confusion & Obstruction” » = ACTOR::BEN_CARTER,
+TIMELINE::CRIME_REF_NUM_
+
+bullet—:—:— * “* 47240141246 — Original stalking case” * ACTOR::BEN_CARTER,
+TIMELINE::CRIME_REF_NUM_
+bullet—:—:— * “* 47240214305 — New threats, reported May 2025” * ACTOR::BEN_CARTER,
+TIMELINE::CRIME_REF_NUM
+__
+bullet—:—:— * “* Officer in charge confirmed as PC Aaron Gasson — but | was never notified.” «
+_ACTOR::BEN_CARTER, ACTOR::GASSON
+__
+
+bullet—:—:— * “* Sergeant Duffy is supervising PC Gasson, just as he did with PC Dixon — the officer
+who failed to log my suicide” » ACTOR::BEN_CARTER, ACTOR::DIXON, ACTOR::DUFFY,
+ACTOR::GASSON, RISK::SUICIDE_REF_
+bullet—:—:— * “* Case dates are being manipulated: police now claim my first report was 18 November
+2024, when | have evidence it was 2 November (“X Won't Leave Me Alone” — NICE link)” s
+_ACTOR::BEN_CARTER, RECORDS::LINKED_CASES, TIMELINE::MONTH_NOV_
+Legal hooks to cite:
+
+bulletDPA 2018 Part 3 (Law Enforcement) — right of access (s.45)
+bulletDPA 2018 Part 3 — accuracy principle (records must be accurate & kept up to date)
+
+bulletVictims’ Code of Practice — right to updates & VPS (policy obligation)
+Force-it asks (request these precisely):
+
+bulletBack-office record ‘created_at’ vs ‘indexed_at’ fields for 2-18 Nov 2024 entries.
+bulletEvidence of NICE link intake timestamp and ingestion pipeline to crime record.
+bulletDuty log showing front-desk email to OIC and any resulting call-backs.
+
+

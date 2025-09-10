@@ -1,0 +1,21 @@
+{
+  "id": "thread_EVID_2025-05-01_BrightonFringe_BoxOffice_ShowChange_Response_reply_001",
+  "type": "evidence",
+  "source": "Thread Reply Split (Smart OCR)",
+  "date": "DATE_NOT_FOUND",
+  "summary": "[From:] Ben Carter <benrobcarter@gmail.com> Sent: 01 May 2025 13:56 [Quoted text hidden]  [Quoted text hidden]",
+  "meta": {
+    "thread_id": "thread_EVID_2025-05-01_BrightonFringe_BoxOffice_ShowChange_Response",
+    "original_filename": "EVID_2025-05-01_BrightonFringe_BoxOffice_ShowChange_Response.txt",
+    "reply_index": 1,
+    "split_on": "regex: header blocks",
+    "ingested_on": "2025-09-06T14:01:08.824308"
+  },
+  "links": {
+    "source_text_file": "/Users/bencarter/Documents/The_Undercover_Victim/01_evidence/text/EVID_2025-05-01_BrightonFringe_BoxOffice_ShowChange_Response.txt"
+  },
+  "tags": [
+    "reply_split",
+    "auto_ocr_thread"
+  ]
+}

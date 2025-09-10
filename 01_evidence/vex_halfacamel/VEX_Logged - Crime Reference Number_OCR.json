@@ -1,0 +1,26 @@
+{
+  "id": "VEX_Logged - Crime Reference Number_OCR",
+  "type": "evidence",
+  "source": "Smart OCR Ingest",
+  "date": "DATE_NOT_FOUND",
+  "summary": "Auto-ingested from file: Logged - Crime Reference Number.pdf",
+  "meta": {
+    "original_filename": "Logged - Crime Reference Number.pdf",
+    "ocr_pdf_file": "Logged - Crime Reference Number_ocr.pdf",
+    "ocr_text_file": "Logged - Crime Reference Number.txt",
+    "sha256": "45df01f9b04a534d306e5e7ed90b182c6e53e0a9134f1980681eebab4abb2ccb",
+    "source_folder": ".",
+    "ingested_on": "2025-09-06T14:26:06.821276",
+    "ingest_method": "ocr_smart"
+  },
+  "links": {
+    "source_file_original": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_unprocessed/Logged - Crime Reference Number.pdf",
+    "ocr_pdf_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_ocrd/Logged - Crime Reference Number_ocr.pdf",
+    "ocr_text_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/text/Logged - Crime Reference Number.txt"
+  },
+  "tags": [
+    "auto_ocr",
+    "logged ",
+    " crime reference number"
+  ]
+}

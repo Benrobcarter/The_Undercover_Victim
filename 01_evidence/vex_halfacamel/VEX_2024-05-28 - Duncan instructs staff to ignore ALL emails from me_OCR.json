@@ -1,0 +1,27 @@
+{
+  "id": "VEX_2024-05-28 - Duncan instructs staff to ignore ALL emails from me_OCR",
+  "type": "evidence",
+  "source": "Smart OCR Ingest",
+  "date": "2024-05-28",
+  "summary": "Auto-ingested from file: 2024-05-28 - Duncan instructs staff to ignore ALL emails from me.pdf",
+  "meta": {
+    "original_filename": "2024-05-28 - Duncan instructs staff to ignore ALL emails from me.pdf",
+    "ocr_pdf_file": "2024-05-28 - Duncan instructs staff to ignore ALL emails from me_ocr.pdf",
+    "ocr_text_file": "2024-05-28 - Duncan instructs staff to ignore ALL emails from me.txt",
+    "sha256": "9ba494d44595a7426a0af872d280fa3bb922541e3451250bc7973694d4fb2f9c",
+    "source_folder": ".",
+    "ingested_on": "2025-09-06T22:55:11.379439",
+    "ingest_method": "ocr_smart"
+  },
+  "links": {
+    "source_file_original": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_unprocessed/2024-05-28 - Duncan instructs staff to ignore ALL emails from me.pdf",
+    "ocr_pdf_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_ocrd/2024-05-28 - Duncan instructs staff to ignore ALL emails from me_ocr.pdf",
+    "ocr_text_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/text/2024-05-28 - Duncan instructs staff to ignore ALL emails from me.txt"
+  },
+  "tags": [
+    "auto_ocr",
+    "2024",
+    " duncan instructs staff to ignore all emails from me",
+    "28 "
+  ]
+}

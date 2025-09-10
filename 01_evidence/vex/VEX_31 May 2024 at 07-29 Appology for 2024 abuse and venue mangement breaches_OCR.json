@@ -1,0 +1,26 @@
+{
+  "id": "VEX_31 May 2024 at 07-29 Appology for 2024 abuse and venue mangement breaches_OCR",
+  "type": "evidence",
+  "source": "Smart OCR Ingest",
+  "date": "DATE_NOT_FOUND",
+  "summary": "Auto-ingested from file: 31 May 2024 at 07-29 Appology for 2024 abuse and venue mangement breaches.pdf",
+  "meta": {
+    "original_filename": "31 May 2024 at 07-29 Appology for 2024 abuse and venue mangement breaches.pdf",
+    "ocr_pdf_file": "31 May 2024 at 07-29 Appology for 2024 abuse and venue mangement breaches_ocr.pdf",
+    "ocr_text_file": "31 May 2024 at 07-29 Appology for 2024 abuse and venue mangement breaches.txt",
+    "sha256": "ab4fb4c84b1736316486202c6a6c41a1b602baa507433b6a4d4a76f3526e988e",
+    "source_folder": ".",
+    "ingested_on": "2025-09-06T14:34:55.617029",
+    "ingest_method": "ocr_smart"
+  },
+  "links": {
+    "source_file_original": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_unprocessed/31 May 2024 at 07-29 Appology for 2024 abuse and venue mangement breaches.pdf",
+    "ocr_pdf_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_ocrd/31 May 2024 at 07-29 Appology for 2024 abuse and venue mangement breaches_ocr.pdf",
+    "ocr_text_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/text/31 May 2024 at 07-29 Appology for 2024 abuse and venue mangement breaches.txt"
+  },
+  "tags": [
+    "auto_ocr",
+    "31 may 2024 at 07",
+    "29 appology for 2024 abuse and venue mangement breaches"
+  ]
+}

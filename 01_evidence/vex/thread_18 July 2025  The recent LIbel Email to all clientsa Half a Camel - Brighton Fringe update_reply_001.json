@@ -1,0 +1,21 @@
+{
+  "id": "thread_18 July 2025  The recent LIbel Email to all clientsa Half a Camel - Brighton Fringe update_reply_001",
+  "type": "evidence",
+  "source": "Thread Reply Split (Smart OCR)",
+  "date": "DATE_NOT_FOUND",
+  "summary": "[From:] Take Part <takepart@brightonfringe.org> Date: Thursday, 17 July 2025  Subject: Half a Camel - Brighton Fringe update To:  Good afternoon, | hope you are well.",
+  "meta": {
+    "thread_id": "thread_18 July 2025  The recent LIbel Email to all clientsa Half a Camel - Brighton Fringe update",
+    "original_filename": "18 July 2025  The recent LIbel Email to all clientsa Half a Camel - Brighton Fringe update.txt",
+    "reply_index": 1,
+    "split_on": "regex: header blocks",
+    "ingested_on": "2025-09-06T14:01:11.724946"
+  },
+  "links": {
+    "source_text_file": "/Users/bencarter/Documents/The_Undercover_Victim/01_evidence/text/18 July 2025  The recent LIbel Email to all clientsa Half a Camel - Brighton Fringe update.txt"
+  },
+  "tags": [
+    "reply_split",
+    "auto_ocr_thread"
+  ]
+}

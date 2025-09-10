@@ -1,0 +1,27 @@
+{
+  "id": "VEX_2025-05-01 confirmation that our venues were uninsurable all along - Show changes_OCR",
+  "type": "evidence",
+  "source": "Smart OCR Ingest",
+  "date": "2025-05-01",
+  "summary": "Auto-ingested from file: 2025-05-01 confirmation that our venues were uninsurable all along - Show changes.pdf",
+  "meta": {
+    "original_filename": "2025-05-01 confirmation that our venues were uninsurable all along - Show changes.pdf",
+    "ocr_pdf_file": "2025-05-01 confirmation that our venues were uninsurable all along - Show changes_ocr.pdf",
+    "ocr_text_file": "2025-05-01 confirmation that our venues were uninsurable all along - Show changes.txt",
+    "sha256": "43c22f91135665d974c73947862c30e8170b046fb4120ccdbf1c6b608d80eaa5",
+    "source_folder": ".",
+    "ingested_on": "2025-09-06T22:56:25.627933",
+    "ingest_method": "ocr_smart"
+  },
+  "links": {
+    "source_file_original": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_unprocessed/2025-05-01 confirmation that our venues were uninsurable all along - Show changes.pdf",
+    "ocr_pdf_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_ocrd/2025-05-01 confirmation that our venues were uninsurable all along - Show changes_ocr.pdf",
+    "ocr_text_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/text/2025-05-01 confirmation that our venues were uninsurable all along - Show changes.txt"
+  },
+  "tags": [
+    "auto_ocr",
+    "2025",
+    " show changes",
+    "01 confirmation that our venues were uninsurable all along "
+  ]
+}

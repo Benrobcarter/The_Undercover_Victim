@@ -1,0 +1,230 @@
+iy; Gmail
+
+Ben Carter <benrobcarter@gmail.com>
+
+URGENT: Statutory SAR Breach, Preservation Notice & Final 7-Day Deadline
+(due 25 August 2025)
+1 message
+
+Ben Carter <benrobcarter@gmail.com>
+
+18 August 2025 at 16:31
+
+To: "WOOD, Hayley (SEVEN DIALS MEDICAL CENTRE - G81047)" <hayley.wood19@nhs.net>
+Cc: sxicb.contactus@nhs.net, Confidential <confidential@brightonfringe.org>, icocasework
+<icocasework@ico.org.uk>
+Dear Ms Wood
+
+1) Background & clock start
+14 July 2025: | submitted a Subject Access Request by email (“Subject Access Request’).
+16 July 2025, 12:19: | clarified scope in reply to Ms Hayley Wood’s 11:57 email, stating:
+o
+
+All communications, any medium, between practice staff and third parties (including Sussex
+Police, Brighton Fringe Ltd., Veritas Justice)
+
+o
+
+Full consultation notes with audit trails and amendments, specifically the disputed
+“paranoia” entries and post-suicide write-ups.
+
+9 August 2025: | sent a further timestamped message confirming the above clarification and the ongoing
+dispute.
+
+As of 18 August 2025, 33 days have elapsed since the scope was clarified (16 July — 16 August = one
+month). | have received no lawful extension notice within that one-month window and no disclosure.
+
+2) Your current legal position
+You are in breach otf:
+
+UK GDPR, Art. 15 (Right of access) — copy of personal data and “meaningful information” incl. source
+and recipients.
+
+UK GDPR, Art. 12(3) — if an extension (up to +2 months for complexity) is needed, you must tell me
+within one month and explain why. You did not.
+
+Data Protection Act 2018, s.45 — time limit compliance for data subject requests.
+UK GDPR, Art. 5(1)(a) (lawfulness, fairness, transparency) & Art. 5(1)(d) (accuracy) — disputed
+“paranoia” wording and post-incident entries remain uncorrected/undisclosed, impairing accuracy and
+transparency.
+
+UK GDPR, Art. 18 — right to restriction applies while accuracy is disputed; | am asserting it below.
+Preservation duty: You must not delete, alter, or obscure relevant data. DPA 2018, s.173 makes it a criminal
+
+offence to knowingly or recklessly destroy or alter data to prevent disclosure following a SAR. Treat this as a
+litigation hold.
+
+3) Final deadline & what must be provided
+Please disclose in full within 7 days (by 25 August 2025). If you contend Art. 12(3) applies, you must
+immediately (a) give the lawful reason, (b) show complexity, and (c) provide a firm disclosure date.
+Your disclosure must include, but is not limited to:
+
+A) Clinical record + change history
+
+e
+
+All consultation notes, entries, attachments, problem lists, SNOMED codes, referrals, safeguarding
+notes, and all versions of the disputed entries (incl. any “paranoia” language and post-suicide notes).
+
+e
+
+Audit trails from your EHR (e.g., EMIS/SystmOne): record create/modify timestamps, user IDs,
+terminal/location, and before/after values where applicable.
+
+e
+
+Access logs (who viewed the record, when).
+
+e
+
+Any structured data exports (e.g., JSON/CSV) your system can produce for audit/change histories.
+
+B) Third-party communications (last 4 years)
+
+All communications sent/received by any staff member about me, including:
+e
+
+NHSmail threads, internal messages, Accurx/eConsult/patches, SMS gateways, call notes/call
+recordings/voicemail logs, meeting minutes, MDT notes, safeguarding referrals (SPFT/Crisis Team/ASC),
+
+letters to/from GPs or managers.
+e
+
+Communications with Sussex Police, Brighton Fringe Ltd., Veritas Justice, or any other third party
+(insurers, advocacy, safeguarding, etc.).
+
+¢
+
+Sources of information used to draft entries (who told you what, when), including any GP-to-GP or
+
+hospital-to-GP information flows.
+C) Meta, codes & policies
+e
+
+The exact codes/labels used for “paranoia/psychosis’” (if any), decision rationale, and who authorised
+them.
+
+e
+
+Relevant practice policies (SAR handling, accuracy/rectification, safeguarding note-taking, subject
+communications, and complaints).
+
+D) Format & delivery
+e
+
+Provide searchable PDFs of narrative records and original-format files where possible; provide
+CSV/JSON for audit/access logs; provide any audio in a standard playable format.
+
+e
+
+Delivery by secure email or portal is acceptable. Confirm the method today.
+
+4) Accuracy dispute + restriction (now in force)
+lam exercising:
+
+e
+
+Art. 16 — Rectification: | dispute the accuracy of any wording implying “paranoia/delusions” and any
+post-suicide write-ups that misstate events or motive.
+
+e
+
+Art. 18 — Restriction: While this dispute is unresolved, restrict processing of those contested entries
+(other than storage/legal claims) and flag them as “patient disputes accuracy” across the record.
+
+Please add the following patient statement verbatim to my record pending rectification:
+“Patient disputes the accuracy and fairness of entries suggesting ‘paranoia/delusions’ and postsuicide characterisations. Patient asserts these were consequences of third-party misreporting
+and seeks full audit trail disclosure. Rectification requested; restriction applied pending resolution.”
+
+5) Escalation
+If full disclosure is not received by 25 August 2025, | will:
+
+e
+
+File a complaint with the Information Commissioner’s Office (non-response within one month; failure
+to issue a timely Art. 12(3) extension; scope non-compliance).
+
+e
+
+Add Seven Dials Medical Centre to my systemic suppression evidence set and ongoing legal
+proceedings alongside the current libel case against The Brighton Fringe which you received and co-
+
+operated with their GDPR breach and its narrative, labelling me paranoid about an ongoing stalking case.
+e
+
+Seek independent clinical review of harm arising from inaccurate or weaponised entries.
+
+Please confirm receipt today, confirm your disclosure method, and provide a named point of contact
+responsible for completion.
+Yours faithfully,
+
+Ben Carter
+
+Annex A — Chronology (emails served on Seven Dials)
+e
+
+14 Jul 2025, 20:54 (Ben — Hayley Wood): SAR initiated; attached screen recording evidencing note
+concerns and “paranoia” dispute.
+
+e
+
+15 Jul 2025, 16:50 (Ben — Hayley Wood): Impact described; records accuracy challenged; further
+evidence attached.
+
+e
+
+e
+
+16 Jul 2025, 11:57 (Hayley Wood — Ben): “Are you requesting any specific information?”
+
+16 Jul 2025, 12:19 (Ben — Hayley Wood): Scope clarified: (1) All third-party comms last 4 years; (2)
+Full notes + audit trailssamendments, esp. “paranoia” and post-suicide entries.
+
+¢
+
+9 Aug 2025, 00:09 (Ben — Hayley Wood): Timestamped reminder re: accuracy dispute and undeleted
+originals.
+
+Clock: One-month deadline expired 16 Aug 2025. No valid Art. 12(3) extension issued within the one-month
+window.
+
+Annex B - Disclosure checklist (for your team)
+Complete GP record (all modules/episodes/problems/codes/results/documents).
+°
+
+All versions of contested entries + who edited what/when.
+Full EHR audit log export (create/modify/access) with user IDs & timestamps.
+
+All emails/messages/SMS/letters/phone logs/MDT minutes with: Sussex Police * Brighton Fringe «
+Veritas Justice « Crisis Team * ASC
+
+°
+
+All safeguarding referrals/contacts (SPFT/Crisis/ASC) and returns.
+
+e
+
+Any third-party source material relied upon (who, what, when).
+
+°
+
+Policy copies for SAR, rectification, safeguarding documentation.
+
+e
+
+Delivery as PDFs + CSV/JSON for logs; audio as WAV/MP3.
+
+Annex C — Short ICO complaint draft (keep on hand for 26 Aug)
+Issue: Seven Dials Medical Centre failed to comply with my SAR. Scope was clarified 16 Jul 2025; one-month
+deadline 16 Aug 2025 passed with no extension notice and no disclosure.
+
+Breach: UK GDPR Art. 12(3), 15; DPA 2018 s.45; principles Art. 5(1)(a) & (d).
+Remedy sought: Full disclosure incl. audit trails and third-party comms, confirmation of restriction flag, and
+rectification process.
+
+= Brighton_Fringe_Libel_Email_Weaponising_Health_Data_2025-07-18.pdf
+—
+
+348K
+
+

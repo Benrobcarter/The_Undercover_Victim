@@ -1,0 +1,21 @@
+{
+  "id": "thread_PC_Dixon_Whatsapp_reply_001",
+  "type": "evidence",
+  "source": "Thread Reply Split (Smart OCR)",
+  "date": "DATE_NOT_FOUND",
+  "summary": "[From:] jon.dixon@sussex-policeuk Ta: Alanna O&439;hare  Good afternoon Following a supelvisory review the matter involving yourself and Ben Carter has been NFA\u2018d. | ha",
+  "meta": {
+    "thread_id": "thread_PC_Dixon_Whatsapp",
+    "original_filename": "PC_Dixon_Whatsapp.txt",
+    "reply_index": 1,
+    "split_on": "regex: header blocks",
+    "ingested_on": "2025-09-06T14:01:16.444672"
+  },
+  "links": {
+    "source_text_file": "/Users/bencarter/Documents/The_Undercover_Victim/01_evidence/text/PC_Dixon_Whatsapp.txt"
+  },
+  "tags": [
+    "reply_split",
+    "auto_ocr_thread"
+  ]
+}

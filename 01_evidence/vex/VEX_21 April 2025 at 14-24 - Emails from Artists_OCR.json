@@ -1,0 +1,27 @@
+{
+  "id": "VEX_21 April 2025 at 14-24 - Emails from Artists_OCR",
+  "type": "evidence",
+  "source": "Smart OCR Ingest",
+  "date": "DATE_NOT_FOUND",
+  "summary": "Auto-ingested from file: 21 April 2025 at 14-24 - Emails from Artists.pdf",
+  "meta": {
+    "original_filename": "21 April 2025 at 14-24 - Emails from Artists.pdf",
+    "ocr_pdf_file": "21 April 2025 at 14-24 - Emails from Artists_ocr.pdf",
+    "ocr_text_file": "21 April 2025 at 14-24 - Emails from Artists.txt",
+    "sha256": "6892397e72895cda170f8064c86ebaa778fc3b445930c6163df8854b4595c124",
+    "source_folder": ".",
+    "ingested_on": "2025-09-06T14:30:25.514745",
+    "ingest_method": "ocr_smart"
+  },
+  "links": {
+    "source_file_original": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_unprocessed/21 April 2025 at 14-24 - Emails from Artists.pdf",
+    "ocr_pdf_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_ocrd/21 April 2025 at 14-24 - Emails from Artists_ocr.pdf",
+    "ocr_text_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/text/21 April 2025 at 14-24 - Emails from Artists.txt"
+  },
+  "tags": [
+    "auto_ocr",
+    "24 ",
+    "21 april 2025 at 14",
+    " emails from artists"
+  ]
+}

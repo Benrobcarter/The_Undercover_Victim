@@ -1,0 +1,30 @@
+{
+  "id": "VEX_EVID_2025-06-22_SussexPolice_NoReply_CAD_0050_OCR",
+  "type": "evidence",
+  "source": "Smart OCR Ingest",
+  "date": "2025-06-22",
+  "summary": "Auto-ingested from file: EVID_2025-06-22_SussexPolice_NoReply_CAD_0050.pdf",
+  "meta": {
+    "original_filename": "EVID_2025-06-22_SussexPolice_NoReply_CAD_0050.pdf",
+    "ocr_pdf_file": "EVID_2025-06-22_SussexPolice_NoReply_CAD_0050_ocr.pdf",
+    "ocr_text_file": "EVID_2025-06-22_SussexPolice_NoReply_CAD_0050.txt",
+    "sha256": "19e35f4393b1973dc5f53b5a020f08433011529e8ed6958abf688cc421a5ed60",
+    "source_folder": ".",
+    "ingested_on": "2025-09-06T14:46:04.180846",
+    "ingest_method": "ocr_smart"
+  },
+  "links": {
+    "source_file_original": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_unprocessed/EVID_2025-06-22_SussexPolice_NoReply_CAD_0050.pdf",
+    "ocr_pdf_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_ocrd/EVID_2025-06-22_SussexPolice_NoReply_CAD_0050_ocr.pdf",
+    "ocr_text_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/text/EVID_2025-06-22_SussexPolice_NoReply_CAD_0050.txt"
+  },
+  "tags": [
+    "auto_ocr",
+    "evid",
+    "noreply",
+    "0050",
+    "cad",
+    "2025",
+    "sussexpolice"
+  ]
+}

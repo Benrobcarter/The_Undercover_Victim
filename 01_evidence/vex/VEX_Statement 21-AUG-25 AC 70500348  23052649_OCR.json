@@ -1,0 +1,27 @@
+{
+  "id": "VEX_Statement 21-AUG-25 AC 70500348  23052649_OCR",
+  "type": "evidence",
+  "source": "Smart OCR Ingest",
+  "date": "DATE_NOT_FOUND",
+  "summary": "Auto-ingested from file: Statement 21-AUG-25 AC 70500348  23052649.pdf",
+  "meta": {
+    "original_filename": "Statement 21-AUG-25 AC 70500348  23052649.pdf",
+    "ocr_pdf_file": "Statement 21-AUG-25 AC 70500348  23052649_ocr.pdf",
+    "ocr_text_file": "Statement 21-AUG-25 AC 70500348  23052649.txt",
+    "sha256": "ea84d1ee77a31ab42c8b83ed5a1b1bdc41e4064f5428dec950f8e3fa3b306559",
+    "source_folder": ".",
+    "ingested_on": "2025-09-06T14:16:04.010709",
+    "ingest_method": "ocr_smart"
+  },
+  "links": {
+    "source_file_original": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_unprocessed/Statement 21-AUG-25 AC 70500348  23052649.pdf",
+    "ocr_pdf_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_ocrd/Statement 21-AUG-25 AC 70500348  23052649_ocr.pdf",
+    "ocr_text_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/text/Statement 21-AUG-25 AC 70500348  23052649.txt"
+  },
+  "tags": [
+    "auto_ocr",
+    "aug",
+    "25 ac 70500348  23052649",
+    "statement 21"
+  ]
+}

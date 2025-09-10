@@ -1,0 +1,30 @@
+{
+  "id": "VEX_EVID_2025-04-09_to_04-25_BrightonFringe_ActionPlan_SuicideDisclosure_Response_OCR",
+  "type": "evidence",
+  "source": "Smart OCR Ingest",
+  "date": "2025-04-09",
+  "summary": "Auto-ingested from file: EVID_2025-04-09_to_04-25_BrightonFringe_ActionPlan_SuicideDisclosure_Response.pdf",
+  "meta": {
+    "original_filename": "EVID_2025-04-09_to_04-25_BrightonFringe_ActionPlan_SuicideDisclosure_Response.pdf",
+    "ocr_pdf_file": "EVID_2025-04-09_to_04-25_BrightonFringe_ActionPlan_SuicideDisclosure_Response_ocr.pdf",
+    "ocr_text_file": "EVID_2025-04-09_to_04-25_BrightonFringe_ActionPlan_SuicideDisclosure_Response.txt",
+    "sha256": "c3e9e9ad87c2f12d53a1263e28c147e010c7f57d7c48860d5c353baf685cd21c",
+    "source_folder": ".",
+    "ingested_on": "2025-09-06T14:20:18.139640",
+    "ingest_method": "ocr_smart"
+  },
+  "links": {
+    "source_file_original": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_unprocessed/EVID_2025-04-09_to_04-25_BrightonFringe_ActionPlan_SuicideDisclosure_Response.pdf",
+    "ocr_pdf_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_ocrd/EVID_2025-04-09_to_04-25_BrightonFringe_ActionPlan_SuicideDisclosure_Response_ocr.pdf",
+    "ocr_text_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/text/EVID_2025-04-09_to_04-25_BrightonFringe_ActionPlan_SuicideDisclosure_Response.txt"
+  },
+  "tags": [
+    "auto_ocr",
+    "evid",
+    "brightonfringe",
+    "response",
+    "suicidedisclosure",
+    "actionplan",
+    "2025"
+  ]
+}

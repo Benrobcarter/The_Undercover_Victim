@@ -1,0 +1,29 @@
+{
+  "id": "VEX_EVID_2025-05-08_BrightonFringe_VenueManagement_ReliefNotice_OCR",
+  "type": "evidence",
+  "source": "Smart OCR Ingest",
+  "date": "2025-05-08",
+  "summary": "Auto-ingested from file: EVID_2025-05-08_BrightonFringe_VenueManagement_ReliefNotice.pdf",
+  "meta": {
+    "original_filename": "EVID_2025-05-08_BrightonFringe_VenueManagement_ReliefNotice.pdf",
+    "ocr_pdf_file": "EVID_2025-05-08_BrightonFringe_VenueManagement_ReliefNotice_ocr.pdf",
+    "ocr_text_file": "EVID_2025-05-08_BrightonFringe_VenueManagement_ReliefNotice.txt",
+    "sha256": "1a0c94a9ea77d978f76d7f354b6bd08aaf5cc66cb4897655256710cae72f28fd",
+    "source_folder": ".",
+    "ingested_on": "2025-09-06T14:47:39.023190",
+    "ingest_method": "ocr_smart"
+  },
+  "links": {
+    "source_file_original": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_unprocessed/EVID_2025-05-08_BrightonFringe_VenueManagement_ReliefNotice.pdf",
+    "ocr_pdf_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_ocrd/EVID_2025-05-08_BrightonFringe_VenueManagement_ReliefNotice_ocr.pdf",
+    "ocr_text_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/text/EVID_2025-05-08_BrightonFringe_VenueManagement_ReliefNotice.txt"
+  },
+  "tags": [
+    "auto_ocr",
+    "evid",
+    "brightonfringe",
+    "reliefnotice",
+    "2025",
+    "venuemanagement"
+  ]
+}

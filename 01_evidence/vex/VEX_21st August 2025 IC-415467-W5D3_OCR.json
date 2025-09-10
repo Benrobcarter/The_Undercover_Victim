@@ -1,0 +1,27 @@
+{
+  "id": "VEX_21st August 2025 IC-415467-W5D3_OCR",
+  "type": "evidence",
+  "source": "Smart OCR Ingest",
+  "date": "DATE_NOT_FOUND",
+  "summary": "Auto-ingested from file: 21st August 2025 IC-415467-W5D3.pdf",
+  "meta": {
+    "original_filename": "21st August 2025 IC-415467-W5D3.pdf",
+    "ocr_pdf_file": "21st August 2025 IC-415467-W5D3_ocr.pdf",
+    "ocr_text_file": "21st August 2025 IC-415467-W5D3.txt",
+    "sha256": "95af3034344e479a4afff77babc7e43abcd969c451efbee213010cb3f00c31c4",
+    "source_folder": ".",
+    "ingested_on": "2025-09-06T14:41:35.116306",
+    "ingest_method": "ocr_smart"
+  },
+  "links": {
+    "source_file_original": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_unprocessed/21st August 2025 IC-415467-W5D3.pdf",
+    "ocr_pdf_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_ocrd/21st August 2025 IC-415467-W5D3_ocr.pdf",
+    "ocr_text_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/text/21st August 2025 IC-415467-W5D3.txt"
+  },
+  "tags": [
+    "auto_ocr",
+    "415467",
+    "w5d3",
+    "21st august 2025 ic"
+  ]
+}

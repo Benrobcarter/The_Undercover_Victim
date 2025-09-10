@@ -1,0 +1,26 @@
+{
+  "id": "VEX_07-05-2025 at 17-04 Supporting you during Fringe_OCR",
+  "type": "evidence",
+  "source": "Smart OCR Ingest",
+  "date": "DATE_NOT_FOUND",
+  "summary": "Auto-ingested from file: 07-05-2025 at 17-04 Supporting you during Fringe.pdf",
+  "meta": {
+    "original_filename": "07-05-2025 at 17-04 Supporting you during Fringe.pdf",
+    "ocr_pdf_file": "07-05-2025 at 17-04 Supporting you during Fringe_ocr.pdf",
+    "ocr_text_file": "07-05-2025 at 17-04 Supporting you during Fringe.txt",
+    "sha256": "0494677d01901ef93e6ae234cfda6acb71b4323956c96d6bcbfe7c4899a624d7",
+    "source_folder": ".",
+    "ingested_on": "2025-09-06T14:03:19.985238",
+    "ingest_method": "ocr_smart"
+  },
+  "links": {
+    "source_file_original": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_unprocessed/07-05-2025 at 17-04 Supporting you during Fringe.pdf",
+    "ocr_pdf_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_ocrd/07-05-2025 at 17-04 Supporting you during Fringe_ocr.pdf",
+    "ocr_text_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/text/07-05-2025 at 17-04 Supporting you during Fringe.txt"
+  },
+  "tags": [
+    "auto_ocr",
+    "2025 at 17",
+    "04 supporting you during fringe"
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "contradictions": [
+    {
+      "id": "CONTRA_2025-04-09_Threat_After_Suicide_Disclosure",
+      "title": "Suicide Disclosure Met With Threat Instead of Safeguarding",
+      "claim": "Brighton Fringe provided trauma-informed safeguarding support.",
+      "reality": "After disclosing a suicide attempt in a meeting on April 9, 2025, Ben Carter was met not with a safeguarding plan, but with a threat: publication of communications would lead to withdrawal of support. This response directly contradicts their safeguarding escalation policy and legal duties.",
+      "tags": [
+        "SAFEGUARDING_PERFORMATIVE",
+        "RETRAUMATISATION_VIA_NON_RESPONSE",
+        "DEATH_BY_SILENCE",
+        "COERCIVE_COMMS_USED_INSTEAD_OF_SUPPORT"
+      ],
+      "laws": [
+        {
+          "act": "Care Act 2014",
+          "section": "s.42",
+          "why": "No safeguarding action initiated"
+        },
+        {
+          "act": "Charities Act 2011",
+          "section": "s.177",
+          "why": "Trustee failure to report serious incident"
+        },
+        {
+          "act": "UK GDPR",
+          "section": "Art. 5",
+          "why": "No formal logging or processing of risk disclosure"
+        },
+        {
+          "act": "ECHR",
+          "section": "Art. 2",
+          "why": "Right to life — failure to act on known risk"
+        }
+      ],
+      "timeline_hooks": [
+        "t2_brighton_fringe_consequences#2025-04-09"
+      ],
+      "evidence_refs": [
+        "EMAIL_2025-04-09_Amy_Keogh_Action_Plan.pdf",
+        "TRANSCRIPT_2025-04-09_Suicide_Disclosure_Meeting.txt"
+      ],
+      "created_at": "2025-08-31T18:31:54.395433Z"
+    },
+    {
+      "id": "CONTRA_2025-05-08_Expired_Contract_Used_For_Removal",
+      "title": "Brighton Fringe Used Expired Contract to Justify Removal and Silenced Disclosures",
+      "claim": "Brighton Fringe operated fairly, transparently, and according to a valid agreement.",
+      "reality": "All punitive actions taken against Ben Carter in 2025 were based on an expired 2024 agreement. Brighton Fringe never issued a 2025 Venue Managers’ Agreement, despite changing their operational model. They ignored communication duties, failed to respond to safeguarding disclosures, and offered no transparency about the decision to remove him.",
+      "tags": [
+        "CONTRACTUAL_SELECTIVE_ENFORCEMENT",
+        "SAFEGUARDING_FAILURE",
+        "GOVERNANCE_ERASURE",
+        "RECORD_MANIPULATION",
+        "DEATH_BY_SILENCE"
+      ],
+      "laws": [
+        {
+          "act": "Contract Law",
+          "section": "Doctrine of Consideration",
+          "why": "Ben Carter never agreed to 2025 terms"
+        },
+        {
+          "act": "Charities Act 2011",
+          "section": "ss.177 & 191",
+          "why": "Lack of transparent trustee decision making"
+        },
+        {
+          "act": "Care Act 2014",
+          "section": "s.42",
+          "why": "Ignored safeguarding disclosures"
+        }
+      ],
+      "timeline_hooks": [
+        "t2_brighton_fringe_consequences#2025-05-08"
+      ],
+      "evidence_refs": [
+        "BF_2025-05-08_Expired_Contract_Used_For_Removal.pdf",
+        "EMAIL_LOG_SILENCE_APRIL_MAY_2025.txt"
+      ],
+      "created_at": "2025-08-31T18:31:54.395441Z"
+    }
+  ]
+}

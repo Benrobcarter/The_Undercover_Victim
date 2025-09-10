@@ -1,0 +1,27 @@
+{
+  "id": "VEX_2025-05-07 at 17-04 Duncan Coercion Supporting you during Fringe_OCR",
+  "type": "evidence",
+  "source": "Smart OCR Ingest",
+  "date": "2025-05-07",
+  "summary": "Auto-ingested from file: 2025-05-07 at 17-04 Duncan Coercion Supporting you during Fringe.pdf",
+  "meta": {
+    "original_filename": "2025-05-07 at 17-04 Duncan Coercion Supporting you during Fringe.pdf",
+    "ocr_pdf_file": "2025-05-07 at 17-04 Duncan Coercion Supporting you during Fringe_ocr.pdf",
+    "ocr_text_file": "2025-05-07 at 17-04 Duncan Coercion Supporting you during Fringe.txt",
+    "sha256": "818461836f716f4bd45f0cd6ce6e8b7d4ecde02c93a2b627e17d9ebbc5e85eff",
+    "source_folder": ".",
+    "ingested_on": "2025-09-06T23:12:08.748255",
+    "ingest_method": "ocr_smart"
+  },
+  "links": {
+    "source_file_original": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_unprocessed/2025-05-07 at 17-04 Duncan Coercion Supporting you during Fringe.pdf",
+    "ocr_pdf_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_ocrd/2025-05-07 at 17-04 Duncan Coercion Supporting you during Fringe_ocr.pdf",
+    "ocr_text_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/text/2025-05-07 at 17-04 Duncan Coercion Supporting you during Fringe.txt"
+  },
+  "tags": [
+    "auto_ocr",
+    "2025",
+    "04 duncan coercion supporting you during fringe",
+    "07 at 17"
+  ]
+}

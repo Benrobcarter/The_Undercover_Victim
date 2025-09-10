@@ -1,0 +1,27 @@
+{
+  "id": "VEX_2025-05-06- An Hour of Controlling The Dead - With Alec Crane has completed the About my event section_OCR",
+  "type": "evidence",
+  "source": "Smart OCR Ingest",
+  "date": "2025-05-06",
+  "summary": "Auto-ingested from file: 2025-05-06- An Hour of Controlling The Dead - With Alec Crane has completed the About my event section.pdf",
+  "meta": {
+    "original_filename": "2025-05-06- An Hour of Controlling The Dead - With Alec Crane has completed the About my event section.pdf",
+    "ocr_pdf_file": "2025-05-06- An Hour of Controlling The Dead - With Alec Crane has completed the About my event section_ocr.pdf",
+    "ocr_text_file": "2025-05-06- An Hour of Controlling The Dead - With Alec Crane has completed the About my event section.txt",
+    "sha256": "303ae62d449cdcaebb2410850fe443b49f55dd9154987a83699f02bde6ea5320",
+    "source_folder": ".",
+    "ingested_on": "2025-09-06T23:11:09.631162",
+    "ingest_method": "ocr_smart"
+  },
+  "links": {
+    "source_file_original": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_unprocessed/2025-05-06- An Hour of Controlling The Dead - With Alec Crane has completed the About my event section.pdf",
+    "ocr_pdf_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_ocrd/2025-05-06- An Hour of Controlling The Dead - With Alec Crane has completed the About my event section_ocr.pdf",
+    "ocr_text_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/text/2025-05-06- An Hour of Controlling The Dead - With Alec Crane has completed the About my event section.txt"
+  },
+  "tags": [
+    "auto_ocr",
+    "2025",
+    " with alec crane has completed the about my event section",
+    " an hour of controlling the dead "
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": "VEX_Exhibit_ICO_Rapid_Response_OCR",
+  "type": "evidence",
+  "source": "Smart OCR Ingest",
+  "date": "DATE_NOT_FOUND",
+  "summary": "Auto-ingested from file: Exhibit_ICO_Rapid_Response.pdf",
+  "meta": {
+    "original_filename": "Exhibit_ICO_Rapid_Response.pdf",
+    "ocr_pdf_file": "Exhibit_ICO_Rapid_Response_ocr.pdf",
+    "ocr_text_file": "Exhibit_ICO_Rapid_Response.txt",
+    "sha256": "04cea837521d1542c52cc408889c190e1f46823554485e6aa929e476eccc461e",
+    "source_folder": ".",
+    "ingested_on": "2025-09-06T14:07:24.409284",
+    "ingest_method": "ocr_smart"
+  },
+  "links": {
+    "source_file_original": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_unprocessed/Exhibit_ICO_Rapid_Response.pdf",
+    "ocr_pdf_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_ocrd/Exhibit_ICO_Rapid_Response_ocr.pdf",
+    "ocr_text_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/text/Exhibit_ICO_Rapid_Response.txt"
+  },
+  "tags": [
+    "auto_ocr",
+    "exhibit",
+    "ico",
+    "response",
+    "rapid"
+  ]
+}

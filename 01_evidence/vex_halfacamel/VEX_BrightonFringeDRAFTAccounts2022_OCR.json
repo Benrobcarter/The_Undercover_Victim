@@ -1,0 +1,25 @@
+{
+  "id": "VEX_BrightonFringeDRAFTAccounts2022_OCR",
+  "type": "evidence",
+  "source": "Smart OCR Ingest",
+  "date": "DATE_NOT_FOUND",
+  "summary": "Auto-ingested from file: BrightonFringeDRAFTAccounts2022.pdf",
+  "meta": {
+    "original_filename": "BrightonFringeDRAFTAccounts2022.pdf",
+    "ocr_pdf_file": "BrightonFringeDRAFTAccounts2022_ocr.pdf",
+    "ocr_text_file": "BrightonFringeDRAFTAccounts2022.txt",
+    "sha256": "0ed09db47d3bceef6bbfaf58e61861a57868d3c6186b16dbbda0bb8eb1942557",
+    "source_folder": ".",
+    "ingested_on": "2025-09-06T23:11:42.678846",
+    "ingest_method": "ocr_smart"
+  },
+  "links": {
+    "source_file_original": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_unprocessed/BrightonFringeDRAFTAccounts2022.pdf",
+    "ocr_pdf_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_ocrd/BrightonFringeDRAFTAccounts2022_ocr.pdf",
+    "ocr_text_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/text/BrightonFringeDRAFTAccounts2022.txt"
+  },
+  "tags": [
+    "auto_ocr",
+    "brightonfringedraftaccounts2022"
+  ]
+}

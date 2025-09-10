@@ -1,0 +1,27 @@
+{
+  "id": "VEX_10 April 2025 at 13-04 - Fringe details pls _)_OCR",
+  "type": "evidence",
+  "source": "Smart OCR Ingest",
+  "date": "DATE_NOT_FOUND",
+  "summary": "Auto-ingested from file: 10 April 2025 at 13-04 - Fringe details pls _).pdf",
+  "meta": {
+    "original_filename": "10 April 2025 at 13-04 - Fringe details pls _).pdf",
+    "ocr_pdf_file": "10 April 2025 at 13-04 - Fringe details pls _)_ocr.pdf",
+    "ocr_text_file": "10 April 2025 at 13-04 - Fringe details pls _).txt",
+    "sha256": "6d96be3fc8de81f8b509291fc68e3764a7c16fd4bf1e43c951bd903f5fa41a36",
+    "source_folder": ".",
+    "ingested_on": "2025-09-06T14:12:38.918469",
+    "ingest_method": "ocr_smart"
+  },
+  "links": {
+    "source_file_original": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_unprocessed/10 April 2025 at 13-04 - Fringe details pls _).pdf",
+    "ocr_pdf_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_ocrd/10 April 2025 at 13-04 - Fringe details pls _)_ocr.pdf",
+    "ocr_text_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/text/10 April 2025 at 13-04 - Fringe details pls _).txt"
+  },
+  "tags": [
+    "auto_ocr",
+    "04 ",
+    " fringe details pls ",
+    "10 april 2025 at 13"
+  ]
+}

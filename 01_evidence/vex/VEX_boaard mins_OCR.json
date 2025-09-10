@@ -1,0 +1,25 @@
+{
+  "id": "VEX_boaard mins_OCR",
+  "type": "evidence",
+  "source": "Smart OCR Ingest",
+  "date": "DATE_NOT_FOUND",
+  "summary": "Auto-ingested from file: boaard mins.pdf",
+  "meta": {
+    "original_filename": "boaard mins.pdf",
+    "ocr_pdf_file": "boaard mins_ocr.pdf",
+    "ocr_text_file": "boaard mins.txt",
+    "sha256": "de8beff8599cf34d6eb7265f4d1961993a152e20083f3439970965c381e7a4ac",
+    "source_folder": ".",
+    "ingested_on": "2025-09-06T14:42:24.260131",
+    "ingest_method": "ocr_smart"
+  },
+  "links": {
+    "source_file_original": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_unprocessed/boaard mins.pdf",
+    "ocr_pdf_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_ocrd/boaard mins_ocr.pdf",
+    "ocr_text_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/text/boaard mins.txt"
+  },
+  "tags": [
+    "auto_ocr",
+    "boaard mins"
+  ]
+}

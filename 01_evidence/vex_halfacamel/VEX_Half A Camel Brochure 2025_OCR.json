@@ -1,0 +1,25 @@
+{
+  "id": "VEX_Half A Camel Brochure 2025_OCR",
+  "type": "evidence",
+  "source": "Smart OCR Ingest",
+  "date": "DATE_NOT_FOUND",
+  "summary": "Auto-ingested from file: Half A Camel Brochure 2025.pdf",
+  "meta": {
+    "original_filename": "Half A Camel Brochure 2025.pdf",
+    "ocr_pdf_file": "Half A Camel Brochure 2025_ocr.pdf",
+    "ocr_text_file": "Half A Camel Brochure 2025.txt",
+    "sha256": "06c2eea2e12c9cc8b9844ce18fb0a10bb839658b4645d6994f9ea33dd4551c93",
+    "source_folder": ".",
+    "ingested_on": "2025-09-06T23:29:42.910754",
+    "ingest_method": "ocr_smart"
+  },
+  "links": {
+    "source_file_original": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_unprocessed/Half A Camel Brochure 2025.pdf",
+    "ocr_pdf_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_ocrd/Half A Camel Brochure 2025_ocr.pdf",
+    "ocr_text_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/text/Half A Camel Brochure 2025.txt"
+  },
+  "tags": [
+    "auto_ocr",
+    "half a camel brochure 2025"
+  ]
+}

@@ -1,0 +1,587 @@
+MASTER TIMELINE v2.4 — with WhatsApp (PC Dixon)
+Date
+
+Time
+
+Event
+
+Participants
+
+Referenced parties
+
+Details
+
+SOL
+
+2024-11-02
+
+04:17
+
+Original report date asserted by caller
+
+Ben Carter; call handler
+
+Cited elsewhere; establishes earlier start than 18 Nov.
+
+VE)
+
+2025-03-08
+
+14:38
+
+WhatsApp voice call from PC Dixon (5 min)
+
+Ben Carter; PC Dixon
+
+PC Dixon
+
+date_src=chat timestamp - WhatsApp system entry
+
+cha
+
+2025-03-08
+
+16:15
+
+WhatsApp voice call by Ben (no answer)
+
+Ben Carter; PC Dixon
+
+PC Dixon
+
+date_src=chat timestamp - WhatsApp system entry
+
+cha
+
+2025-03-18
+
+09:52
+
+WhatsApp silenced voice call from PC Dixon (FoBes (Gadey; PC Dixon
+
+PC Dixon
+
+date_src=chat timestamp - WhatsApp system entry
+
+cha
+
+2025-03-18
+
+10:47
+
+WhatsApp voice call by Ben (1 min)
+
+PC Dixon
+
+date_src=chat timestamp - WhatsApp system entry
+
+cha
+
+2025-04-06
+
+07:04
+
+Suicide attempt disclosed; no officer contact afteBear@
+@pter cabdrfariater
+
+Liz acknowledges no officer response since 6 Apr.
+
+VED
+
+2025-04-17
+
+04:17
+
+101 call: ‘Holiday Alibi’ — records inconsistencies Besupariéspt
+
+Ben Carter; PC Dixon
+
+leaak handler
+
+PARTY::BEN_CARTER, PARTY: Repeats, JUARAD2
+4D bitent linked into November file; all named offidées
+PARTY::PALMER
+
+2025-04-22
+
+07:54
+
+WhatsApp thread with PC Dixon (messages)
+
+Ben Carter; PC Dixon
+
+CPS; Inspector Palmer; PC DixonraigteDDitig4Vesitas « topics: NICE links, medical letter (GP), CPS, Jaha
+
+Justice
+2025-07-04
+
+04:07
+
+101 call about PC Gasson (OIC)
+
+2025-07-04
+
+07:04
+
+In-person visit — St John's Street front desk (Liz) Ben Carter; Front desk (Liz)
+
+Ben Carter; 101 call handler
+
+Transcript file present; contents not yet VEX-graded in this timeline 044
+
+ID verified; Liz confirms 4 active crime numbers; improper filing; staktte
+
+no officer contact since 6 Apr.
+2025-07-04
+
+07:04
+
+101 call: crime number confusion; OIC confirmecBan Rartaiss6n call handler
+
+PARTY::BEN_ CARTER, PARTY::DWS@Nme
+A IMekbt) Ga¥son as OIC; logged entry acknowledged 2¥B}
+PARTY::FRONT_DESK_LIZ, PARTY::GASSON, PARTY::PALMER
+
+CSV: TRACKER_ROWS_DIGITAL_POLICING_2024-11-04_batchA_CONSOLIDATED.csv
+
+DigitalPolicing_ Batch_2024-11-04 A/ - date_src=filename - hash64ka%
+
+ch_
+JSON: 2024-11-13 Digital-Policing_to_Ben_Jonathan-Dixon-Request.json
+
+DigitalPolicing_ Batch_2024-11-04 A/ - date_src=filename - hash64ka‘
+
+ch_
+JSON: 2024-11-13 Digital-Policing_to_Ben_Jonathan-Dixon-Request-1340.json
+
+DigitalPolicing_ Batch_2024-11-04 A/ - date_src=filename - hash64kan
+
+ch_
+JSON: 2024-11-14 Digital-Policing_to_Ben_Jonathan-Dixon-Request-1158.json
+
+DigitalPolicing_ Batch_2024-11-04 A/ - date_src=filename - hash64ka%
+
+ch_
+JSON: 2024-11-14 Digital-Policing_to_Ben_Jonathan-Dixon-Request-1159.json
+
+DigitalPolicing_ Batch_2024-11-04 A/ - date_src=filename - hash64kan
+
+ch_
+TXT: PROJECT_FILE_SYNCED_2025-08-25_v4.3_tree_with_delta.txt
+
+(zip root) - - date_src=filename - hash64k=580c0c490a1e8035
+
+/mn
+_20
+
+2024-11-18
+
+Start date shown on police system
+
+System shows 18 Nov as start; excludes earlier report.
+
+VED
+
+2024-11-18
+
+Start date on system (contested)
+
+Liz/system show 18 Nov as start, excluding 2 Nov.
+
+VED
+
+TXT: README_NICE_LINK_B_2024-12-13.txt
+
+(zip root) - - date_src=filename - hash64k=735b773ce866e909
+
+/mn
+202
+
+MASTER TIMELINE v2.4 — with WhatsApp (PC Dixon)
+Date
+
+Time
+
+Event
+
+Participants
+
+Referenced parties
+
+JSON: CROSSWALK_DIGPOL_2024-12-13_batchB.json
+
+Details
+
+SOL
+
+(zip root) - - date_src=filename - hash64k=e6831c6éde28de330
+
+/mn
+
+24JSON: 2024-12-13 Digital-Policing_to_Ben_Jonathan-Dixon-Request_Email-7.json
+
+DigitalPolicing_Batch_2024-12-13/ - date_src=filename - hash64k=200
+
+ch_
+JSON: PROJECT_FILE_SYNCED_
+2025-08-25 v4.3 FULL_audit_bundle.json
+
+(zip root) - - date_src=filename - hash64k=285393741 Ocb6a95
+
+/mn
+_20
+
+CSV: PROJECT_FILE_SYNCED_
+2025-08-25 v4.3 manifest.csv
+
+(zip root) - - date_src=filename - hash64k=bdf8e77cbaaicd53
+
+/mn
+_20
+
+TXT: PROJECT_FILE_SYNCED_2025-08-25
+v4.3 _tree.txt
+
+(zip root) - - date_src=filename - hash64k=a0ca9a33d6d629eb
+
+/mn
+_20
+
+JSON: CRN-47240214305_DigitalPolicing
+to _Ben_2025-04-07_THREAD.json
+
+(zip root) - - date_src=filename - hash64k=1b20beb7fbd23542
+
+/mn
+
+italF
+JSON: CROSSWALK_DIGPOL_2024-11-04_batchA.json
+
+DigitalPolicing_ Batch_2024-11-04 A/ - date_src=filename - hash64kearf
+
+ch_
+2025-04-23
+
+Next available supervisory contact (per handler)
+
+No alternative point of contact before Tue 23 Apr.
+
+VED
+
+2025-04-29
+
+Multi-agency Stalking Clinic w/ CPS (per Veritas, referenced)
+
+Raised contradiction vs 'CPS only involved after case built’ statemeWE)
+
+JSON: MASTER_CONTRADICTIONS_INJECTED_2025-06-05.json
+
+(zip root) - - date_src=filename - hash64k=262f21 baff1bda05
+
+/mn
+
+NS
+
+2025-06-22
+
+Threat/rape accusation logged (no update provided)
+
+Police admit report logged; refused update; breach of information rifytit
+
+JSON: PROJECT_FILE_SYNCED_2025-08-24 manifest.json
+
+(zip root) - - date_src=filename - hash64k=fa92c72b57e5a0al
+
+/mn
+_20
+
+JSON: PROJECT_FILE_SYNCED_2025-08-25
+v4 _FULL_audit_bundle.json
+
+(zip root) - - date_src=filename - hash64k=47acbd40c78b9d4c
+
+/mn
+_20
+
+CSV:
+
+DigitalPolicing_ Batch_2024-12-13/ - date_src=filename - hash64k=aeA
+
+TRACKER_ROW_ 2024-12-13 Digital-Policing_to_Ben_Jonathan-Dixon-Request_Email-7.csv
+
+ch_
+mai
+
+JSON: CROSSWALK_DIGPOL_2024-12-13_Email-7.json
+
+DigitalPolicing_ Batch_2024-12-13/ - date_src=filename - hash64k=884
+
+ch_
+JSON: LIVE_VEX_TIMELINE_PATCHED_PEARSON_HANDOFF.json
+
+(zip root) - - date_src=none - hash64k=8025baeb417cb1fb
+
+/mn
+
+ATC
+JSON: 2024-11-04 Digital-Policing_to_Ben_Evidence-Portal-Request.json
+
+DigitalPolicing_ Batch_2024-11-04 A/ - date_src=filename - hash64kas
+
+ch_
+
+MASTER TIMELINE v2.4 — with WhatsApp (PC Dixon)
+Date
+
+Time
+
+Event
+
+Participants
+
+CSV: NICE_Timeline_PEARSON_HANDOFF_PATCH.csv
+
+Referenced parties
+
+Details
+
+SOL
+
+(zip root) - - date_src=none - hash64k=4600a3e9501 7a899
+
+/mn
+
+ON.
+JSON: NICE_Timeline_ PEARSON_HANDOFF_PATCH.json
+
+(zip root) - - date_src=none - hash64k=c928242c06d24379
+
+/mn
+
+ON.
+JSON: EX_VERITAS_CHAT_CONTRADICTION_2025.json
+
+(zip root) - - date_src=none - hash64k=45631 1dec4626dac
+
+/mn
+
+TR
+JSON:
+
+CONTRADICTION _MATRIX_PHHC_BATCH_01.json
+
+(zip root) - - date_src=none - hash64k=9766ea98e27df67a
+
+/mn
+
+X_F
+JSON: PHHC_EMAILS_COMBINED_FULL.json
+
+(zip root) - - date_src=none - hash64k=de8c96f9747337b7
+
+/mn
+
+D_F
+JSON: PHHC_VEX_TAGGED_EMAIL_TIMELINE_FULL.json
+
+(zip root) - - date_src=none - hash64k=d6774555d2c26fed
+
+/mn
+
+IL
+JSON: UNIVERSAL_VEX_ENFORCEMENT_DIRECTIVE.json
+
+(zip root) - - date_src=none - hash64k=c8866edab4bd10c8
+
+/mn
+
+CEI
+TXT: EXHIBIT_PIPELINE
+
+README.txt
+
+(zip root) - - date_src=none - hash64k=5a9c74df389c1
+5ff
+
+/mn
+
+AD!
+TXT: EXHIBIT _PIPELINE_ README_v1.2.ixt
+
+(zip root) - - date_src=none - hash64k=ee5ae4cicb17b7f2
+
+/mn
+
+AD!
+JSON: EMAIL_EXHIBIT_TEMPLATE_v1.2.json
+
+(zip root) - - date_src=none - hash64k=b220ce16326e67c4
+
+/mn
+
+ATE
+JSON: EMAIL_EXHIBIT_TEMPLATE_v1.1.json
+
+(zip root) - - date_src=none - hash64k=c0e05632210c2b09
+
+/mn
+
+ATE
+
+JSON: unified_audit_report.json
+
+(zip root) - - date_src=none - hash64k=2bf5ec181b1db979
+
+/mn
+
+t.jsc
+JSON: manifest.json
+
+(zip root) - - date_src=none - hash64k=29400b7b6ff384c46
+
+/mn
+
+JSON: DUNCAN_ATTEMPTED_MURDER_CONTRADICTION_PATCH.json
+
+(zip root) - - date_src=none - hash64k=48deda52bc26dd2c
+
+/mn
+
+RDI
+JSON: 2024-11-04 Digital-Policing_to_Ben_Jonathan-Dixon-Request.json
+
+DigitalPolicing Batch_2024-11-04 A/ - date_src=filename - hash64ka4
+
+ch_
+JSON: PUBLIC_BUNDLE_SUMMARY_SAR_SUSSEX_POLICE.json
+
+(zip root) - - date_src=none - hash64k=6800c8eea045fcle
+
+/mn
+
+RY.
+TXT: README_DIGPOL_JSON_7-10.txt
+
+(zip root) - - date_src=none - hash64k=49833824a8f283db
+
+/mn
+
+7-1
+
+MASTER TIMELINE v2.4 — with WhatsApp (PC Dixon)
+Date
+
+Time
+
+Event
+
+Participants
+
+JSON: BATCHA _consolidation_audit.json
+
+Referenced parties
+
+Details
+
+SOL
+
+(zip root) - - date_src=none - hash64k=7d686a882c2c8c1c
+
+/mn
+
+na
+
+JSON: SUSSEX_POLICE_SAFEGUARDING_BREAKDOWN_MAY_2025.json
+
+(zip root) - - date_src=none - hash64k=32ce196aac29e377
+
+/mn
+
+UAI
+JSON: COMPENSATION_CLAIM_MATRIX_SUSSEX_POLICE.
+json
+
+(zip root) - - date_src=none - hash64k=f5a023ada27f6758
+
+/mn
+
+MA
+JSON: BATCHBconsolidation_audit.json
+
+(zip root) - - date_src=none - hash64k=04d53d9c76c4ddf6
+
+/mn
+
+na
+
+CSV: BATCHA._diff_report.csv
+
+DigitalPolicing_ Batch_2024-11-04 A/ - date_src=none - hash64k=26ihh
+
+ch_
+JSON: BATCHA _consolidation_audit.json
+
+DigitalPolicing_ Batch_2024-11-04 A/ - date_src=none - hash64k=7/dt%
+
+ch_
+JSON: v4_compat_config.json
+
+08_supporting/scripts_v4/ - date_src=none - hash64k=98708cabb380é
+
+ts_\
+
+JSON: project_oversight_summary_v4.json
+
+04_manifest/oversight/ - date_src=none - hash64k=336a70d59228a0m1
+
+ht/p
+2024-07-??
+2024-11-02
+
+04:17
+
+Initial incident reported (per caller, later merged) Ben Carter; call handler
+
+Operator eventually concedes July report is 'the same’ as Novembev
+Bb
+
+Original report ("X Won’t Leave Me Alone’ — NICE link)
+
+Caller asserts first report was 2 Nov, not 18 Nov.
+
+VED
+
+CSV: NICE_LINKS_INTAKE_ADD_2024-11-04-0536.csv
+
+(zip root) - - date_src=filename - hash64k=6b050348b9c517131
+
+/mn
+
+DD.
+CSV: TRACKER_ROW_2024-11-04-0536_Digital-Policing_to_Ben.csv
+
+(zip root) - - date_src=filename - hash64k=91f0ab263283056a
+
+/mn
+
+-04-
+
+JSON: CROSSWALK_DIGPOL_2024-11-04_batchA.json
+
+(zip root) - - date_src=filename - hash64k=fdOf18553221fc04
+
+/mn
+
+24TXT: README_DIGPOL_FULL_1-10.txt
+
+(zip root) - - date_src=none - hash64k=49b0ebaae929bddb
+
+/mn
+
+CSV: TRACKER_ROWS_DIGITAL_POLICING_2024-11-04_batchA.csv
+
+DigitalPolicing_ Batch_2024-11-04 A/ - date_src=filename - hash64kaa
+
+ch_
+
+

@@ -1,0 +1,26 @@
+{
+  "id": "VEX_PC_Dixon_Whatsapp_OCR",
+  "type": "evidence",
+  "source": "Smart OCR Ingest",
+  "date": "DATE_NOT_FOUND",
+  "summary": "Auto-ingested from file: PC_Dixon_Whatsapp.pdf",
+  "meta": {
+    "original_filename": "PC_Dixon_Whatsapp.pdf",
+    "ocr_pdf_file": "PC_Dixon_Whatsapp_ocr.pdf",
+    "ocr_text_file": "PC_Dixon_Whatsapp.txt",
+    "sha256": "43caa27e1b2d1964e1ab4830efd689faae7bd5e25c8be2e6bb5aadc57235e5ae",
+    "source_folder": ".",
+    "ingested_on": "2025-09-06T14:40:37.631539",
+    "ingest_method": "ocr_smart"
+  },
+  "links": {
+    "source_file_original": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_unprocessed/PC_Dixon_Whatsapp.pdf",
+    "ocr_pdf_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_ocrd/PC_Dixon_Whatsapp_ocr.pdf",
+    "ocr_text_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/text/PC_Dixon_Whatsapp.txt"
+  },
+  "tags": [
+    "auto_ocr",
+    "dixon",
+    "whatsapp"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "thread_1 October 2024 at 10-59 - Re fringe meeting_reply_001",
+  "type": "evidence",
+  "source": "Thread Reply Split (Smart OCR)",
+  "date": "DATE_NOT_FOUND",
+  "summary": "[From:] Ben Carter <benrobcarter@gmail.com> Sent: 01 October 2024 10:59 To: Duncan Lustig-Prean <chair@brightonfringe.org> Subject: Re fringe meeting [Quoted text hidde",
+  "meta": {
+    "thread_id": "thread_1 October 2024 at 10-59 - Re fringe meeting",
+    "original_filename": "1 October 2024 at 10-59 - Re fringe meeting.txt",
+    "reply_index": 1,
+    "split_on": "regex: header blocks",
+    "ingested_on": "2025-09-06T14:01:15.347792"
+  },
+  "links": {
+    "source_text_file": "/Users/bencarter/Documents/The_Undercover_Victim/01_evidence/text/1 October 2024 at 10-59 - Re fringe meeting.txt"
+  },
+  "tags": [
+    "reply_split",
+    "auto_ocr_thread"
+  ]
+}

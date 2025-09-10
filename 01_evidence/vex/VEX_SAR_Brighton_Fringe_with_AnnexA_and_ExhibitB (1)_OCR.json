@@ -1,0 +1,31 @@
+{
+  "id": "VEX_SAR_Brighton_Fringe_with_AnnexA_and_ExhibitB (1)_OCR",
+  "type": "evidence",
+  "source": "Smart OCR Ingest",
+  "date": "DATE_NOT_FOUND",
+  "summary": "Auto-ingested from file: SAR_Brighton_Fringe_with_AnnexA_and_ExhibitB (1).pdf",
+  "meta": {
+    "original_filename": "SAR_Brighton_Fringe_with_AnnexA_and_ExhibitB (1).pdf",
+    "ocr_pdf_file": "SAR_Brighton_Fringe_with_AnnexA_and_ExhibitB (1)_ocr.pdf",
+    "ocr_text_file": "SAR_Brighton_Fringe_with_AnnexA_and_ExhibitB (1).txt",
+    "sha256": "695429fc4ec8e001efe07e34c54b705301097a739c0c1cb9ac2182ebaeb62e66",
+    "source_folder": ".",
+    "ingested_on": "2025-09-06T14:45:31.268337",
+    "ingest_method": "ocr_smart"
+  },
+  "links": {
+    "source_file_original": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_unprocessed/SAR_Brighton_Fringe_with_AnnexA_and_ExhibitB (1).pdf",
+    "ocr_pdf_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_ocrd/SAR_Brighton_Fringe_with_AnnexA_and_ExhibitB (1)_ocr.pdf",
+    "ocr_text_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/text/SAR_Brighton_Fringe_with_AnnexA_and_ExhibitB (1).txt"
+  },
+  "tags": [
+    "auto_ocr",
+    "sar",
+    "annexa",
+    "fringe",
+    "and",
+    "brighton",
+    "with",
+    "exhibitb (1)"
+  ]
+}

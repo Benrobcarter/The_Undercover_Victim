@@ -1,0 +1,28 @@
+{
+  "id": "VEX_Gmail - IOPC Reference_ 2025_007816 (1)_OCR",
+  "type": "evidence",
+  "source": "Smart OCR Ingest",
+  "date": "DATE_NOT_FOUND",
+  "summary": "Auto-ingested from file: Gmail - IOPC Reference_ 2025_007816 (1).pdf",
+  "meta": {
+    "original_filename": "Gmail - IOPC Reference_ 2025_007816 (1).pdf",
+    "ocr_pdf_file": "Gmail - IOPC Reference_ 2025_007816 (1)_ocr.pdf",
+    "ocr_text_file": "Gmail - IOPC Reference_ 2025_007816 (1).txt",
+    "sha256": "f6e0c6f869af3e3eab1769b1e697356fc15c92db7498ecd8104fd5e828ebd6ac",
+    "source_folder": ".",
+    "ingested_on": "2025-09-06T14:20:40.397650",
+    "ingest_method": "ocr_smart"
+  },
+  "links": {
+    "source_file_original": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_unprocessed/Gmail - IOPC Reference_ 2025_007816 (1).pdf",
+    "ocr_pdf_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_ocrd/Gmail - IOPC Reference_ 2025_007816 (1)_ocr.pdf",
+    "ocr_text_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/text/Gmail - IOPC Reference_ 2025_007816 (1).txt"
+  },
+  "tags": [
+    "auto_ocr",
+    "007816 (1)",
+    "gmail ",
+    " iopc reference",
+    " 2025"
+  ]
+}

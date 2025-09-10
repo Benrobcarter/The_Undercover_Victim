@@ -1,0 +1,21 @@
+{
+  "id": "thread_01_ Complainant\u2019s Foreword_reply_001",
+  "type": "evidence",
+  "source": "Thread Reply Split (Smart OCR)",
+  "date": "DATE_NOT_FOUND",
+  "summary": "[From:] Ben Carter Date: 08 July 2025 Subject: Formal Complaint: Systemic Negligence, Misconduct in Public Office, and Coordinated Institutional Abuse by  Sussex Police",
+  "meta": {
+    "thread_id": "thread_01_ Complainant\u2019s Foreword",
+    "original_filename": "01_ Complainant\u2019s Foreword.txt",
+    "reply_index": 1,
+    "split_on": "regex: header blocks",
+    "ingested_on": "2025-09-06T14:01:11.878169"
+  },
+  "links": {
+    "source_text_file": "/Users/bencarter/Documents/The_Undercover_Victim/01_evidence/text/01_ Complainant\u2019s Foreword.txt"
+  },
+  "tags": [
+    "reply_split",
+    "auto_ocr_thread"
+  ]
+}

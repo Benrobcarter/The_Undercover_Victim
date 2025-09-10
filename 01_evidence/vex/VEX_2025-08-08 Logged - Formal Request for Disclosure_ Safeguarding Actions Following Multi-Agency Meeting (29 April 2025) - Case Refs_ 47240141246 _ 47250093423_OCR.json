@@ -1,0 +1,32 @@
+{
+  "id": "VEX_2025-08-08 Logged - Formal Request for Disclosure_ Safeguarding Actions Following Multi-Agency Meeting (29 April 2025) - Case Refs_ 47240141246 _ 47250093423_OCR",
+  "type": "evidence",
+  "source": "Smart OCR Ingest",
+  "date": "2025-08-08",
+  "summary": "Auto-ingested from file: 2025-08-08 Logged - Formal Request for Disclosure_ Safeguarding Actions Following Multi-Agency Meeting (29 April 2025) - Case Refs_ 47240141246 _ 47250093423.pdf",
+  "meta": {
+    "original_filename": "2025-08-08 Logged - Formal Request for Disclosure_ Safeguarding Actions Following Multi-Agency Meeting (29 April 2025) - Case Refs_ 47240141246 _ 47250093423.pdf",
+    "ocr_pdf_file": "2025-08-08 Logged - Formal Request for Disclosure_ Safeguarding Actions Following Multi-Agency Meeting (29 April 2025) - Case Refs_ 47240141246 _ 47250093423_ocr.pdf",
+    "ocr_text_file": "2025-08-08 Logged - Formal Request for Disclosure_ Safeguarding Actions Following Multi-Agency Meeting (29 April 2025) - Case Refs_ 47240141246 _ 47250093423.txt",
+    "sha256": "00769185b3a17af74db0eb2cfa2c0d03c55f436591a1bcef17b5b62c29ea2641",
+    "source_folder": ".",
+    "ingested_on": "2025-09-06T22:56:30.059196",
+    "ingest_method": "ocr_smart"
+  },
+  "links": {
+    "source_file_original": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_unprocessed/2025-08-08 Logged - Formal Request for Disclosure_ Safeguarding Actions Following Multi-Agency Meeting (29 April 2025) - Case Refs_ 47240141246 _ 47250093423.pdf",
+    "ocr_pdf_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_ocrd/2025-08-08 Logged - Formal Request for Disclosure_ Safeguarding Actions Following Multi-Agency Meeting (29 April 2025) - Case Refs_ 47240141246 _ 47250093423_ocr.pdf",
+    "ocr_text_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/text/2025-08-08 Logged - Formal Request for Disclosure_ Safeguarding Actions Following Multi-Agency Meeting (29 April 2025) - Case Refs_ 47240141246 _ 47250093423.txt"
+  },
+  "tags": [
+    "auto_ocr",
+    "2025",
+    " safeguarding actions following multi",
+    " formal request for disclosure",
+    " 47240141246 ",
+    " 47250093423",
+    "08 logged ",
+    " case refs",
+    "agency meeting (29 april 2025) "
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "VEX_2023-06-02 - Advertising for new CEO_OCR",
+  "type": "evidence",
+  "source": "Smart OCR Ingest",
+  "date": "2023-06-02",
+  "summary": "Auto-ingested from file: 2023-06-02 - Advertising for new CEO.pdf",
+  "meta": {
+    "original_filename": "2023-06-02 - Advertising for new CEO.pdf",
+    "ocr_pdf_file": "2023-06-02 - Advertising for new CEO_ocr.pdf",
+    "ocr_text_file": "2023-06-02 - Advertising for new CEO.txt",
+    "sha256": "78585bb672588ca75c41c9daeb0632ed34962908c090cb5d45527fd08ab89660",
+    "source_folder": ".",
+    "ingested_on": "2025-09-06T23:12:01.698540",
+    "ingest_method": "ocr_smart"
+  },
+  "links": {
+    "source_file_original": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_unprocessed/2023-06-02 - Advertising for new CEO.pdf",
+    "ocr_pdf_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_ocrd/2023-06-02 - Advertising for new CEO_ocr.pdf",
+    "ocr_text_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/text/2023-06-02 - Advertising for new CEO.txt"
+  },
+  "tags": [
+    "auto_ocr",
+    " advertising for new ceo",
+    "02 ",
+    "2023"
+  ]
+}

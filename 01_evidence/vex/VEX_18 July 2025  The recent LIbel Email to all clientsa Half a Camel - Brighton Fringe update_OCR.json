@@ -1,0 +1,26 @@
+{
+  "id": "VEX_18 July 2025  The recent LIbel Email to all clientsa Half a Camel - Brighton Fringe update_OCR",
+  "type": "evidence",
+  "source": "Smart OCR Ingest",
+  "date": "DATE_NOT_FOUND",
+  "summary": "Auto-ingested from file: 18 July 2025  The recent LIbel Email to all clientsa Half a Camel - Brighton Fringe update.pdf",
+  "meta": {
+    "original_filename": "18 July 2025  The recent LIbel Email to all clientsa Half a Camel - Brighton Fringe update.pdf",
+    "ocr_pdf_file": "18 July 2025  The recent LIbel Email to all clientsa Half a Camel - Brighton Fringe update_ocr.pdf",
+    "ocr_text_file": "18 July 2025  The recent LIbel Email to all clientsa Half a Camel - Brighton Fringe update.txt",
+    "sha256": "be8dc81d3e1d21b901069d0fac34e1aea8cfd211c72644314cb8a6611617896b",
+    "source_folder": ".",
+    "ingested_on": "2025-09-06T14:03:34.891072",
+    "ingest_method": "ocr_smart"
+  },
+  "links": {
+    "source_file_original": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_unprocessed/18 July 2025  The recent LIbel Email to all clientsa Half a Camel - Brighton Fringe update.pdf",
+    "ocr_pdf_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_ocrd/18 July 2025  The recent LIbel Email to all clientsa Half a Camel - Brighton Fringe update_ocr.pdf",
+    "ocr_text_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/text/18 July 2025  The recent LIbel Email to all clientsa Half a Camel - Brighton Fringe update.txt"
+  },
+  "tags": [
+    "auto_ocr",
+    " brighton fringe update",
+    "18 july 2025  the recent libel email to all clientsa half a camel "
+  ]
+}

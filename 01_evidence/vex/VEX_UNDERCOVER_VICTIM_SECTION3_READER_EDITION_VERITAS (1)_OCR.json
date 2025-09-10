@@ -1,0 +1,30 @@
+{
+  "id": "VEX_UNDERCOVER_VICTIM_SECTION3_READER_EDITION_VERITAS (1)_OCR",
+  "type": "evidence",
+  "source": "Smart OCR Ingest",
+  "date": "DATE_NOT_FOUND",
+  "summary": "Auto-ingested from file: UNDERCOVER_VICTIM_SECTION3_READER_EDITION_VERITAS (1).pdf",
+  "meta": {
+    "original_filename": "UNDERCOVER_VICTIM_SECTION3_READER_EDITION_VERITAS (1).pdf",
+    "ocr_pdf_file": "UNDERCOVER_VICTIM_SECTION3_READER_EDITION_VERITAS (1)_ocr.pdf",
+    "ocr_text_file": "UNDERCOVER_VICTIM_SECTION3_READER_EDITION_VERITAS (1).txt",
+    "sha256": "2bef40aaf0c03dab8e140558e439f8360f6bb6b340195303b05a9ad9f7a1cbc3",
+    "source_folder": ".",
+    "ingested_on": "2025-09-06T14:15:08.813562",
+    "ingest_method": "ocr_smart"
+  },
+  "links": {
+    "source_file_original": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_unprocessed/UNDERCOVER_VICTIM_SECTION3_READER_EDITION_VERITAS (1).pdf",
+    "ocr_pdf_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_ocrd/UNDERCOVER_VICTIM_SECTION3_READER_EDITION_VERITAS (1)_ocr.pdf",
+    "ocr_text_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/text/UNDERCOVER_VICTIM_SECTION3_READER_EDITION_VERITAS (1).txt"
+  },
+  "tags": [
+    "auto_ocr",
+    "section3",
+    "victim",
+    "reader",
+    "veritas (1)",
+    "undercover",
+    "edition"
+  ]
+}

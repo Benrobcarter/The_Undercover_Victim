@@ -1,0 +1,27 @@
+{
+  "id": "VEX_2025-05-07 Duncan seperating him self from me  - Supporting you during Fringe_OCR",
+  "type": "evidence",
+  "source": "Smart OCR Ingest",
+  "date": "2025-05-07",
+  "summary": "Auto-ingested from file: 2025-05-07 Duncan seperating him self from me  - Supporting you during Fringe.pdf",
+  "meta": {
+    "original_filename": "2025-05-07 Duncan seperating him self from me  - Supporting you during Fringe.pdf",
+    "ocr_pdf_file": "2025-05-07 Duncan seperating him self from me  - Supporting you during Fringe_ocr.pdf",
+    "ocr_text_file": "2025-05-07 Duncan seperating him self from me  - Supporting you during Fringe.txt",
+    "sha256": "6fdf9b279d63189b9d67e5b5581ee145280353052c83b1d977cb589f92ccbb33",
+    "source_folder": ".",
+    "ingested_on": "2025-09-06T23:11:58.140616",
+    "ingest_method": "ocr_smart"
+  },
+  "links": {
+    "source_file_original": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_unprocessed/2025-05-07 Duncan seperating him self from me  - Supporting you during Fringe.pdf",
+    "ocr_pdf_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_ocrd/2025-05-07 Duncan seperating him self from me  - Supporting you during Fringe_ocr.pdf",
+    "ocr_text_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/text/2025-05-07 Duncan seperating him self from me  - Supporting you during Fringe.txt"
+  },
+  "tags": [
+    "auto_ocr",
+    "07 duncan seperating him self from me  ",
+    "2025",
+    " supporting you during fringe"
+  ]
+}

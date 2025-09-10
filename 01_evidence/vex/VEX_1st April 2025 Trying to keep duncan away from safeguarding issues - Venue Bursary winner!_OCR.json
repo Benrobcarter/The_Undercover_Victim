@@ -1,0 +1,26 @@
+{
+  "id": "VEX_1st April 2025 Trying to keep duncan away from safeguarding issues - Venue Bursary winner!_OCR",
+  "type": "evidence",
+  "source": "Smart OCR Ingest",
+  "date": "DATE_NOT_FOUND",
+  "summary": "Auto-ingested from file: 1st April 2025 Trying to keep duncan away from safeguarding issues - Venue Bursary winner!.pdf",
+  "meta": {
+    "original_filename": "1st April 2025 Trying to keep duncan away from safeguarding issues - Venue Bursary winner!.pdf",
+    "ocr_pdf_file": "1st April 2025 Trying to keep duncan away from safeguarding issues - Venue Bursary winner!_ocr.pdf",
+    "ocr_text_file": "1st April 2025 Trying to keep duncan away from safeguarding issues - Venue Bursary winner!.txt",
+    "sha256": "b09f83d547aec1d1ddb51fbc33f13c21e4909e41190ca1ab5fdb9dca80a9c4af",
+    "source_folder": ".",
+    "ingested_on": "2025-09-06T14:03:28.901923",
+    "ingest_method": "ocr_smart"
+  },
+  "links": {
+    "source_file_original": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_unprocessed/1st April 2025 Trying to keep duncan away from safeguarding issues - Venue Bursary winner!.pdf",
+    "ocr_pdf_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_ocrd/1st April 2025 Trying to keep duncan away from safeguarding issues - Venue Bursary winner!_ocr.pdf",
+    "ocr_text_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/text/1st April 2025 Trying to keep duncan away from safeguarding issues - Venue Bursary winner!.txt"
+  },
+  "tags": [
+    "auto_ocr",
+    "1st april 2025 trying to keep duncan away from safeguarding issues ",
+    " venue bursary winner!"
+  ]
+}

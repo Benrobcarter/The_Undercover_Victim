@@ -1,0 +1,27 @@
+{
+  "id": "VEX_12 May 2025 at 17-49 - Follow up on urgent safeguarding breach since April 2nd Brighton Fringe April 6th Sussex Police_OCR",
+  "type": "evidence",
+  "source": "Smart OCR Ingest",
+  "date": "DATE_NOT_FOUND",
+  "summary": "Auto-ingested from file: 12 May 2025 at 17-49 - Follow up on urgent safeguarding breach since April 2nd Brighton Fringe April 6th Sussex Police.pdf",
+  "meta": {
+    "original_filename": "12 May 2025 at 17-49 - Follow up on urgent safeguarding breach since April 2nd Brighton Fringe April 6th Sussex Police.pdf",
+    "ocr_pdf_file": "12 May 2025 at 17-49 - Follow up on urgent safeguarding breach since April 2nd Brighton Fringe April 6th Sussex Police_ocr.pdf",
+    "ocr_text_file": "12 May 2025 at 17-49 - Follow up on urgent safeguarding breach since April 2nd Brighton Fringe April 6th Sussex Police.txt",
+    "sha256": "d9510d85839692020227dd3f9b8d1812a3d12401cec60921becd84aac41ad8bb",
+    "source_folder": ".",
+    "ingested_on": "2025-09-06T14:41:47.714492",
+    "ingest_method": "ocr_smart"
+  },
+  "links": {
+    "source_file_original": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_unprocessed/12 May 2025 at 17-49 - Follow up on urgent safeguarding breach since April 2nd Brighton Fringe April 6th Sussex Police.pdf",
+    "ocr_pdf_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_ocrd/12 May 2025 at 17-49 - Follow up on urgent safeguarding breach since April 2nd Brighton Fringe April 6th Sussex Police_ocr.pdf",
+    "ocr_text_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/text/12 May 2025 at 17-49 - Follow up on urgent safeguarding breach since April 2nd Brighton Fringe April 6th Sussex Police.txt"
+  },
+  "tags": [
+    "auto_ocr",
+    "49 ",
+    "12 may 2025 at 17",
+    " follow up on urgent safeguarding breach since april 2nd brighton fringe april 6th sussex police"
+  ]
+}

@@ -1,0 +1,184 @@
+Subject Access Request
+Brighton Fringe Ltd.
+
+Date: 19 August 2025
+
+From: Ben Carter, Director — Half a Camel Productions Ltd. (Venue Manager/Owner — Half a
+Camel Productions Venues)
+To: Brighton Fringe Ltd. (for the attention of the Data Protection Officer / Chair of Trustees)
+Dear Trustees,
+
+This is a formal Subject Access Request (SAR) under UK GDPR Article 15 and Data Protection
+Act 2018 s.45.
+
+Scope of Request
+| require copies of all personal data relating to me, Ben Carter (Half a Camel Productions Ltd.),
+processed by Brighton Fringe Ltd., its trustees, staff, or contractors.
+This includes, but is not limited to:
+
+- All communications (any medium) — emails, texts, WhatsApp, Teams/Slack, trustee
+correspondence, internal memos — where I, Half a Camel, or my venues are referenced
+(2021-2025).
+- Board minutes and governance papers — all draft and final versions where | am referenced,
+including the July 2025 minutes that were acknowledged as “not yet written,” together with any
+
+correspondence relating to their preparation, amendment, or approval.
+
+- Health and safeguarding data — including the 8 May 2025 GP email sent by Managing Director
+Amy Keogh and any subsequent discussions or records where safeguarding disclosures were
+reframed as mental health issues.
+- Defamation/reputation material — including the 18 July 2025 mass email to ~160 artists/venues, all
+
+drafts, trustee approvals, and any linked communications.
+- Third-party disclosures — all communications with Sussex Police, Veritas Justice, NHS/GPs, MPs,
+artists, or venues about me.
+
+- Audit logs and metadata — showing who accessed, altered, or shared my data, with timestamps.
+- Internal notes, opinions, or assessments — as recognised under GDPR Recital 63, including any
+annotations that relate to my conduct, mental health, credibility, or professional role.
+
+This request explicitly covers all processing of special category data under GDPR Article 9,
+including health and safeguarding disclosures, perceived capacity, and opinions regarding my
+mental health.
+
+Statutory Requirements
+- Deadline: You must respond within one month of receipt (GDPR Art.12(3)).
+- Extension: If you believe an extension applies, you must notify me within one month, giving lawful
+reasons.
+
+- Preservation: Under DPA 2018
+
+s.173, it is a criminal offence to destroy, conceal, or alter data
+
+following a SAR.
+
+Please provide the data in a durable, permanent form in its original format where possible (e.g.
+.eml, PDF, Word docs), not summaries or paraphrased extracts.
+
+Trustee Duties — Charity Law
+Brighton Fringe is a registered charity. Trustees are bound by:
+
+- Charities Act 2011 — duties of prudence, compliance, transparency, and accurate record-keeping.
+
+- Charity Commission Guidance CC9 — trustees must act with fairness and accountability,
+especially in safeguarding contexts.
+
+As trustees, you also hold a duty of candour when responding to SARs where safeguarding
+disclosures are involved.
+
+Be advised: any reason for delay will be forwarded to the Charity Commission, who are
+already investigating Brighton Fringe. Obstruction or unjustified delay will be treated as deliberate
+
+non-compliance.
+
+Annex A — Schedule of Requested Documents
+1. Communications (2021-2025)
+- Emails to/from trustees, staff, contractors mentioning Ben Carter or Half a Camel Productions Ltd.
+- WhatsApp, SMS, Slack/Teams messages where | or my venues are referenced.
+- Internal memos or discussion notes containing my name or business.
+
+2. Board Minutes & Governance Papers
+
+- 18 Sept 2023 Chair’s Report (records “Ben Carter and staff have attracted six new venues”).
+- 7 Sept 2023 email from Duncan Lustig-Prean circulating the Board Meeting Papers for 18 Sept
+2023, including attachments:
+* BF agenda 180923.docx
+* Board Minutes August.docx
+
+* Development Board Report Sept 23.docx
+* HR Report Sept 23.docx
+* Marketing and Artist & Venue Services Report.docx
+* Chair’s Report — Board Meeting 18th September.docx
+
+- Budget Variance Actuals vs WCS 060923.xlIsx
+* Brighton Fringe Ltd — 23-24 Budget Proposed.xlsx
+- Venues Agreement 2024.docx
+- All draftA#inal Board minutes 2023-2025 where | am referenced.
+
+- All trustee correspondence about July 2025 minutes (admitted “yet to be written’).
+
+3. Health & Safeguarding Data
+- 8 May 2025 email from Managing Director Amy Keogh to my GP.
+- Any trustee/staff/contractor discussions of my April 6, 2025 suicide disclosure.
+- Notes/minutes/memos reframing safeguarding disclosures as paranoia, delusions, or mental
+health instability.
+4. Defamation / Reputation Material
+
+- 18 July 2025 mass email to 160+ artists/venues, including drafts and approvals.
+- Trustee/staff/contractor discussions of reputational risk, “abuse,” or “bullying” linked to me.
+- Internal/external correspondence preparing for or justifying my removal.
+5. Third-Party Disclosures
+
+- Communications with Sussex Police, Veritas Justice, NHS/GPs, MPs, or any artists/venues where
+| am referenced.
+6. Audit Logs & Metadata
+
+- Server logs, email metadata, and document audit trails showing access/alteration/sharing of my
+data.
+
+- Specific logs relating to:
+* April-May 2025 safeguarding emails.
+
+* July 18, 2025 libel email.
+« July 20, 2025 minutes correspondence.
+7. Opinions & Assessments
+- Any trustee/staff notes, annotations, or comments about me.
+- Any references to my “mental health,” “capacity,” or “credibility.”
+
+Exhibits (Part of this SAR)
+Exhibit A — “All Communications Logged” Admission
+- Brighton Fringe’s own written admission (email, 7 May 2025 from Managing Director Amy Keogh)
+that: “We have also been logging all of your communications with us, including all of the police
+
+reports you’ve only sent to Duncan, in this record.”
+- This proves:
+1. Every communication has been recorded and is retrievable.
+2. Brighton Fringe held and processed sensitive data (including police reports) about me without my
+consent.
+
+3. Senior leadership (Duncan Lustig-Prean and Amy Keogh) confirmed they had sole access to this
+log.
+
+- Legal implications:
+
+* Removes any lawful excuse for delay or partial disclosure under GDPR Article 12(3).
+- Establishes Brighton Fringe as a data controller of safeguarding and police records, making them
+
+accountable under GDPR Article 15, DPA 2018 s.45, and s.173 (criminal offence to conceal or
+destroy).
+* Confirms unlawful processing of special category data (health, safeguarding, and police
+information) under GDPR Article 9.
+- Reference: Exhibit A is also attached as a standalone PDF copy for ease of reference. It forms
+part of this SAR and is not a separate request.
+
+Exhibit B - Venue Observer Role & Email Disclosure
+- All trustee papers, board minutes, and communications concerning my appointment as Venues’
+
+Observer (in my independent capacity as Venue Manager/Owner — Half a Camel Productions
+Venues).
+- Any incentives offered for the role (governance access, recognition, risk management
+
+responsibilities).
+- Board minutes praising my work (e.g., attracting new venues).
+- Records of the unlawful circulation of my personal email address alongside
+
+chair@brightonfringe.org.
+- Audit trails showing who authorised the disclosure.
+
+- Legal implications: breaches of GDPR/DPA 2018 (Art.5(1)(a), Art.6, Art.15), and trustee duties
+under the Charities Act 2011 & CC9.
+
+Escalation
+Non-compliance will result in immediate escalation to the Information Commissioner’s Office (ICO),
+the Charity Commission, and inclusion in ongoing legal proceedings concerning defamation,
+safeguarding failures, and unlawful data handling.
+
+Confirmation
+Please confirm receipt of this request immediately.
+Yours sincerely,
+
+Ben Carter
+Director — Half a Camel Productions Ltd. (Venue Manager/Owner — Half a Camel Productions
+Venues)
+
+

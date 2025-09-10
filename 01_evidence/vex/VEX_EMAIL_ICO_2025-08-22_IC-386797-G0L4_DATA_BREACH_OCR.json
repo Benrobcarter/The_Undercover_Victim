@@ -1,0 +1,31 @@
+{
+  "id": "VEX_EMAIL_ICO_2025-08-22_IC-386797-G0L4_DATA_BREACH_OCR",
+  "type": "evidence",
+  "source": "Smart OCR Ingest",
+  "date": "2025-08-22",
+  "summary": "Auto-ingested from file: EMAIL_ICO_2025-08-22_IC-386797-G0L4_DATA_BREACH.pdf",
+  "meta": {
+    "original_filename": "EMAIL_ICO_2025-08-22_IC-386797-G0L4_DATA_BREACH.pdf",
+    "ocr_pdf_file": "EMAIL_ICO_2025-08-22_IC-386797-G0L4_DATA_BREACH_ocr.pdf",
+    "ocr_text_file": "EMAIL_ICO_2025-08-22_IC-386797-G0L4_DATA_BREACH.txt",
+    "sha256": "990c6c8f3f2bedc3e6324874cd3067610faacd26aeba8f3bb7633bcf59adc5f5",
+    "source_folder": ".",
+    "ingested_on": "2025-09-06T14:45:46.543635",
+    "ingest_method": "ocr_smart"
+  },
+  "links": {
+    "source_file_original": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_unprocessed/EMAIL_ICO_2025-08-22_IC-386797-G0L4_DATA_BREACH.pdf",
+    "ocr_pdf_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_ocrd/EMAIL_ICO_2025-08-22_IC-386797-G0L4_DATA_BREACH_ocr.pdf",
+    "ocr_text_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/text/EMAIL_ICO_2025-08-22_IC-386797-G0L4_DATA_BREACH.txt"
+  },
+  "tags": [
+    "auto_ocr",
+    "ico",
+    "data",
+    "email",
+    "breach",
+    "g0l4",
+    "2025",
+    "386797"
+  ]
+}

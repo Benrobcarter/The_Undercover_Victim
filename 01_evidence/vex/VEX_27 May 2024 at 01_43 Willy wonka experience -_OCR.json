@@ -1,0 +1,26 @@
+{
+  "id": "VEX_27 May 2024 at 01_43 Willy wonka experience -_OCR",
+  "type": "evidence",
+  "source": "Smart OCR Ingest",
+  "date": "DATE_NOT_FOUND",
+  "summary": "Auto-ingested from file: 27 May 2024 at 01_43 Willy wonka experience -.pdf",
+  "meta": {
+    "original_filename": "27 May 2024 at 01_43 Willy wonka experience -.pdf",
+    "ocr_pdf_file": "27 May 2024 at 01_43 Willy wonka experience -_ocr.pdf",
+    "ocr_text_file": "27 May 2024 at 01_43 Willy wonka experience -.txt",
+    "sha256": "729d8791e3844a9a82facd0de9913da74715a9d390f745cc260abd482706e7d4",
+    "source_folder": ".",
+    "ingested_on": "2025-09-06T14:22:15.135043",
+    "ingest_method": "ocr_smart"
+  },
+  "links": {
+    "source_file_original": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_unprocessed/27 May 2024 at 01_43 Willy wonka experience -.pdf",
+    "ocr_pdf_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_ocrd/27 May 2024 at 01_43 Willy wonka experience -_ocr.pdf",
+    "ocr_text_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/text/27 May 2024 at 01_43 Willy wonka experience -.txt"
+  },
+  "tags": [
+    "auto_ocr",
+    "27 may 2024 at 01",
+    "43 willy wonka experience "
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "thread_20 February 2025 at 18-22 box office duties - Fwd_ Name swap_reply_001",
+  "type": "evidence",
+  "source": "Thread Reply Split (Smart OCR)",
+  "date": "DATE_NOT_FOUND",
+  "summary": "[From:] Belle Gold <BelleEmilieGold@gmail.com> Date: February 18, 2025 at 10:41:35 PM GMT To: marketing@brightonfringe.org Subject: Name swap  Hi all. If you could swit",
+  "meta": {
+    "thread_id": "thread_20 February 2025 at 18-22 box office duties - Fwd_ Name swap",
+    "original_filename": "20 February 2025 at 18-22 box office duties - Fwd_ Name swap.txt",
+    "reply_index": 1,
+    "split_on": "regex: header blocks",
+    "ingested_on": "2025-09-06T14:01:12.677389"
+  },
+  "links": {
+    "source_text_file": "/Users/bencarter/Documents/The_Undercover_Victim/01_evidence/text/20 February 2025 at 18-22 box office duties - Fwd_ Name swap.txt"
+  },
+  "tags": [
+    "reply_split",
+    "auto_ocr_thread"
+  ]
+}

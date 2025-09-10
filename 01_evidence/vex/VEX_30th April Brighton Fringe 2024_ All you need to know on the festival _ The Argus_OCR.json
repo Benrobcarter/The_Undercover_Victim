@@ -1,0 +1,27 @@
+{
+  "id": "VEX_30th April Brighton Fringe 2024_ All you need to know on the festival _ The Argus_OCR",
+  "type": "evidence",
+  "source": "Smart OCR Ingest",
+  "date": "DATE_NOT_FOUND",
+  "summary": "Auto-ingested from file: 30th April Brighton Fringe 2024_ All you need to know on the festival _ The Argus.pdf",
+  "meta": {
+    "original_filename": "30th April Brighton Fringe 2024_ All you need to know on the festival _ The Argus.pdf",
+    "ocr_pdf_file": "30th April Brighton Fringe 2024_ All you need to know on the festival _ The Argus_ocr.pdf",
+    "ocr_text_file": "30th April Brighton Fringe 2024_ All you need to know on the festival _ The Argus.txt",
+    "sha256": "2767318ea60d1529154cf1e9ea3ed60c68abee9293e4dfdcabf90a5e1c34129d",
+    "source_folder": ".",
+    "ingested_on": "2025-09-06T14:33:18.356672",
+    "ingest_method": "ocr_smart"
+  },
+  "links": {
+    "source_file_original": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_unprocessed/30th April Brighton Fringe 2024_ All you need to know on the festival _ The Argus.pdf",
+    "ocr_pdf_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_ocrd/30th April Brighton Fringe 2024_ All you need to know on the festival _ The Argus_ocr.pdf",
+    "ocr_text_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/text/30th April Brighton Fringe 2024_ All you need to know on the festival _ The Argus.txt"
+  },
+  "tags": [
+    "auto_ocr",
+    " the argus",
+    "30th april brighton fringe 2024",
+    " all you need to know on the festival "
+  ]
+}

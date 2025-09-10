@@ -1,0 +1,27 @@
+{
+  "id": "VEX_SAR 11 May 2025 at 12-38 - Support for Artists at Half a Camel_OCR",
+  "type": "evidence",
+  "source": "Smart OCR Ingest",
+  "date": "DATE_NOT_FOUND",
+  "summary": "Auto-ingested from file: SAR 11 May 2025 at 12-38 - Support for Artists at Half a Camel.pdf",
+  "meta": {
+    "original_filename": "SAR 11 May 2025 at 12-38 - Support for Artists at Half a Camel.pdf",
+    "ocr_pdf_file": "SAR 11 May 2025 at 12-38 - Support for Artists at Half a Camel_ocr.pdf",
+    "ocr_text_file": "SAR 11 May 2025 at 12-38 - Support for Artists at Half a Camel.txt",
+    "sha256": "a688097f05b8d85a014e7aa150d612193b7c3311c6be4ffbee3f43a3bcad6c9a",
+    "source_folder": ".",
+    "ingested_on": "2025-09-06T14:40:44.158907",
+    "ingest_method": "ocr_smart"
+  },
+  "links": {
+    "source_file_original": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_unprocessed/SAR 11 May 2025 at 12-38 - Support for Artists at Half a Camel.pdf",
+    "ocr_pdf_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_ocrd/SAR 11 May 2025 at 12-38 - Support for Artists at Half a Camel_ocr.pdf",
+    "ocr_text_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/text/SAR 11 May 2025 at 12-38 - Support for Artists at Half a Camel.txt"
+  },
+  "tags": [
+    "auto_ocr",
+    "38 ",
+    " support for artists at half a camel",
+    "sar 11 may 2025 at 12"
+  ]
+}

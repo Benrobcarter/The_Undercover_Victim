@@ -1,0 +1,28 @@
+{
+  "id": "VEX_20 February 2025 at 18-22 box office duties - Fwd_ Name swap_OCR",
+  "type": "evidence",
+  "source": "Smart OCR Ingest",
+  "date": "DATE_NOT_FOUND",
+  "summary": "Auto-ingested from file: 20 February 2025 at 18-22 box office duties - Fwd_ Name swap.pdf",
+  "meta": {
+    "original_filename": "20 February 2025 at 18-22 box office duties - Fwd_ Name swap.pdf",
+    "ocr_pdf_file": "20 February 2025 at 18-22 box office duties - Fwd_ Name swap_ocr.pdf",
+    "ocr_text_file": "20 February 2025 at 18-22 box office duties - Fwd_ Name swap.txt",
+    "sha256": "ca0ca3f1e76722d601d815eb16617eb2b7997ca8f819f981f4d40c53ba4f3a2c",
+    "source_folder": ".",
+    "ingested_on": "2025-09-06T14:07:30.872467",
+    "ingest_method": "ocr_smart"
+  },
+  "links": {
+    "source_file_original": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_unprocessed/20 February 2025 at 18-22 box office duties - Fwd_ Name swap.pdf",
+    "ocr_pdf_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_ocrd/20 February 2025 at 18-22 box office duties - Fwd_ Name swap_ocr.pdf",
+    "ocr_text_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/text/20 February 2025 at 18-22 box office duties - Fwd_ Name swap.txt"
+  },
+  "tags": [
+    "auto_ocr",
+    " fwd",
+    " name swap",
+    "20 february 2025 at 18",
+    "22 box office duties "
+  ]
+}

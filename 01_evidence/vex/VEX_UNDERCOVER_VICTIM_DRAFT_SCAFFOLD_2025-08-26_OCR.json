@@ -1,0 +1,29 @@
+{
+  "id": "VEX_UNDERCOVER_VICTIM_DRAFT_SCAFFOLD_2025-08-26_OCR",
+  "type": "evidence",
+  "source": "Smart OCR Ingest",
+  "date": "2025-08-26",
+  "summary": "Auto-ingested from file: UNDERCOVER_VICTIM_DRAFT_SCAFFOLD_2025-08-26.pdf",
+  "meta": {
+    "original_filename": "UNDERCOVER_VICTIM_DRAFT_SCAFFOLD_2025-08-26.pdf",
+    "ocr_pdf_file": "UNDERCOVER_VICTIM_DRAFT_SCAFFOLD_2025-08-26_ocr.pdf",
+    "ocr_text_file": "UNDERCOVER_VICTIM_DRAFT_SCAFFOLD_2025-08-26.txt",
+    "sha256": "ec0605d03a250231e1baa2ac9fc7bab5b4cacebc01bf6375e1e8db6bdf30f826",
+    "source_folder": ".",
+    "ingested_on": "2025-09-06T14:32:13.938368",
+    "ingest_method": "ocr_smart"
+  },
+  "links": {
+    "source_file_original": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_unprocessed/UNDERCOVER_VICTIM_DRAFT_SCAFFOLD_2025-08-26.pdf",
+    "ocr_pdf_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_ocrd/UNDERCOVER_VICTIM_DRAFT_SCAFFOLD_2025-08-26_ocr.pdf",
+    "ocr_text_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/text/UNDERCOVER_VICTIM_DRAFT_SCAFFOLD_2025-08-26.txt"
+  },
+  "tags": [
+    "auto_ocr",
+    "draft",
+    "victim",
+    "undercover",
+    "scaffold",
+    "2025"
+  ]
+}

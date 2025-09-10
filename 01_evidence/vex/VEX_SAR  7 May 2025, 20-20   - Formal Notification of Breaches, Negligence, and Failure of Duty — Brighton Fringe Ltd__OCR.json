@@ -1,0 +1,27 @@
+{
+  "id": "VEX_SAR  7 May 2025, 20-20   - Formal Notification of Breaches, Negligence, and Failure of Duty \u2014 Brighton Fringe Ltd__OCR",
+  "type": "evidence",
+  "source": "Smart OCR Ingest",
+  "date": "DATE_NOT_FOUND",
+  "summary": "Auto-ingested from file: SAR  7 May 2025, 20-20   - Formal Notification of Breaches, Negligence, and Failure of Duty \u2014 Brighton Fringe Ltd_.pdf",
+  "meta": {
+    "original_filename": "SAR  7 May 2025, 20-20   - Formal Notification of Breaches, Negligence, and Failure of Duty \u2014 Brighton Fringe Ltd_.pdf",
+    "ocr_pdf_file": "SAR  7 May 2025, 20-20   - Formal Notification of Breaches, Negligence, and Failure of Duty \u2014 Brighton Fringe Ltd__ocr.pdf",
+    "ocr_text_file": "SAR  7 May 2025, 20-20   - Formal Notification of Breaches, Negligence, and Failure of Duty \u2014 Brighton Fringe Ltd_.txt",
+    "sha256": "4bc8cdafee49296e7527223a0396d39f6f95e6fe04c55cbef058aa42d7f420ac",
+    "source_folder": ".",
+    "ingested_on": "2025-09-06T14:31:07.689506",
+    "ingest_method": "ocr_smart"
+  },
+  "links": {
+    "source_file_original": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_unprocessed/SAR  7 May 2025, 20-20   - Formal Notification of Breaches, Negligence, and Failure of Duty \u2014 Brighton Fringe Ltd_.pdf",
+    "ocr_pdf_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_ocrd/SAR  7 May 2025, 20-20   - Formal Notification of Breaches, Negligence, and Failure of Duty \u2014 Brighton Fringe Ltd__ocr.pdf",
+    "ocr_text_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/text/SAR  7 May 2025, 20-20   - Formal Notification of Breaches, Negligence, and Failure of Duty \u2014 Brighton Fringe Ltd_.txt"
+  },
+  "tags": [
+    "auto_ocr",
+    " formal notification of breaches, negligence, and failure of duty \u2014 brighton fringe ltd",
+    "sar  7 may 2025, 20",
+    "20   "
+  ]
+}

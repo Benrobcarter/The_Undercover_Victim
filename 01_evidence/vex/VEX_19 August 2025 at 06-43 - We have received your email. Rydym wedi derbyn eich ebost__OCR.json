@@ -1,0 +1,27 @@
+{
+  "id": "VEX_19 August 2025 at 06-43 - We have received your email. Rydym wedi derbyn eich ebost__OCR",
+  "type": "evidence",
+  "source": "Smart OCR Ingest",
+  "date": "DATE_NOT_FOUND",
+  "summary": "Auto-ingested from file: 19 August 2025 at 06-43 - We have received your email. Rydym wedi derbyn eich ebost_.pdf",
+  "meta": {
+    "original_filename": "19 August 2025 at 06-43 - We have received your email. Rydym wedi derbyn eich ebost_.pdf",
+    "ocr_pdf_file": "19 August 2025 at 06-43 - We have received your email. Rydym wedi derbyn eich ebost__ocr.pdf",
+    "ocr_text_file": "19 August 2025 at 06-43 - We have received your email. Rydym wedi derbyn eich ebost_.txt",
+    "sha256": "42ee0e4f840812f1ea6dfa0d64f6ef6697f1e0aa1d63300e30a7d0f7a9d63880",
+    "source_folder": ".",
+    "ingested_on": "2025-09-06T14:45:22.399411",
+    "ingest_method": "ocr_smart"
+  },
+  "links": {
+    "source_file_original": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_unprocessed/19 August 2025 at 06-43 - We have received your email. Rydym wedi derbyn eich ebost_.pdf",
+    "ocr_pdf_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_ocrd/19 August 2025 at 06-43 - We have received your email. Rydym wedi derbyn eich ebost__ocr.pdf",
+    "ocr_text_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/text/19 August 2025 at 06-43 - We have received your email. Rydym wedi derbyn eich ebost_.txt"
+  },
+  "tags": [
+    "auto_ocr",
+    "43 ",
+    " we have received your email. rydym wedi derbyn eich ebost",
+    "19 august 2025 at 06"
+  ]
+}

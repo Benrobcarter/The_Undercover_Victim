@@ -1,0 +1,29 @@
+{
+  "id": "VEX_19 August 2025 - ICO Case Reference_ IC-386797-G0L4_OCR",
+  "type": "evidence",
+  "source": "Smart OCR Ingest",
+  "date": "DATE_NOT_FOUND",
+  "summary": "Auto-ingested from file: 19 August 2025 - ICO Case Reference_ IC-386797-G0L4.pdf",
+  "meta": {
+    "original_filename": "19 August 2025 - ICO Case Reference_ IC-386797-G0L4.pdf",
+    "ocr_pdf_file": "19 August 2025 - ICO Case Reference_ IC-386797-G0L4_ocr.pdf",
+    "ocr_text_file": "19 August 2025 - ICO Case Reference_ IC-386797-G0L4.txt",
+    "sha256": "2c0d5c2cd83ef8a30439d71bcf96157848092d438d18351150f2816356ee2514",
+    "source_folder": ".",
+    "ingested_on": "2025-09-06T14:33:22.950066",
+    "ingest_method": "ocr_smart"
+  },
+  "links": {
+    "source_file_original": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_unprocessed/19 August 2025 - ICO Case Reference_ IC-386797-G0L4.pdf",
+    "ocr_pdf_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_ocrd/19 August 2025 - ICO Case Reference_ IC-386797-G0L4_ocr.pdf",
+    "ocr_text_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/text/19 August 2025 - ICO Case Reference_ IC-386797-G0L4.txt"
+  },
+  "tags": [
+    "auto_ocr",
+    "386797",
+    "g0l4",
+    " ico case reference",
+    "19 august 2025 ",
+    " ic"
+  ]
+}

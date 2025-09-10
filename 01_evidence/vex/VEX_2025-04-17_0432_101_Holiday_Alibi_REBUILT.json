@@ -1,0 +1,208 @@
+{
+  "meta": {
+    "evidence_id": "VEX_2025-04-17_0432_101_Holiday_Alibi_REBUILT",
+    "title": "17-04-25 04:32 — 101 Call: “Who Do I Speak To If Everyone’s on Holiday?”",
+    "created_at": "2025-08-26T00:07:29.884347Z",
+    "source_file_name": "17-04-25–04.32_101_Call_“The Holiday Alibi_.docx.txt",
+    "source_path": "/mnt/data/17-04-25–04.32_101_Call_“The Holiday Alibi_.docx.txt",
+    "source_sha256": "e47fd9a0cc123e5d09223a929a01aa90f757d17f67e9a9427ecf86b5e85205e9",
+    "type": "Call transcript (101)",
+    "date_local": "2025-04-17",
+    "time_local": "04:32",
+    "parties": [
+      "Ben Carter",
+      "Sussex Police 101 Call Handler"
+    ],
+    "clusters": [
+      "HOLIDAY_ALIBI",
+      "DEATH_BY_SILENCE",
+      "CRIME_REF_47240214305_THREAD",
+      "TIMELINE_SYNTHESIS",
+      "VRR_NFA"
+    ],
+    "analysis_links": [
+      {
+        "title": "3.3: The Leadership Vacuum & The Culture of Complicity",
+        "path": "/mnt/data/3.3_ The Leadership Vacuum & The Culture of Complicity.pdf",
+        "note": "Context/analysis only (non‑evidence)"
+      }
+    ],
+    "undated_policy": "ok_date_present"
+  },
+  "summary": "Caller seeks clarity on a July-logged case; handler locates July call record but says the linked crime reference appears as November and remains 'under investigation'. Officer-in-charge (PC Jonathan Dixon) and both supervisors (Sgt Duffy, Insp Palmer) are confirmed on leave until Tuesday; handler says details cannot be discussed and advises 999 for emergencies.",
+  "police_position": {
+    "status": "Under investigation (per handler)",
+    "oic": "PC Jonathan Dixon",
+    "supervisors": [
+      "Sgt Duffy",
+      "Insp Palmer"
+    ],
+    "availability": "All on annual leave until Tuesday; email escalation to supervisor promised",
+    "disclosure": "Handler states they lack authority to discuss details; will leave note for OIC",
+    "immediate_action_advice": "Call 999 if you see the suspect or are in immediate danger"
+  },
+  "identifiers": {
+    "legacy_number_mentioned": "701211",
+    "explicit_crime_refs_in_call": []
+  },
+  "contradictions": [
+    {
+      "code": "JULY_VS_NOVEMBER",
+      "claim": "System displays July report but crime reference shows as November; handler cannot explain discrepancy while insisting it's one linked incident and 'under investigation'.",
+      "impact": [
+        "Record integrity concerns",
+        "Continuity confusion for victim",
+        "Grounds for VRR/IOPC review"
+      ],
+      "related_quotes_idx": [
+        1,
+        3,
+        4,
+        6
+      ]
+    },
+    {
+      "code": "CLOSED_VS_UNDER_INVESTIGATION",
+      "claim": "Caller states July case was closed; handler states it is 'under investigation' and 'not coming up on the system yet' as closed.",
+      "impact": [
+        "Transparency breach under Victims' Code",
+        "Anxiety/uncertainty escalation"
+      ],
+      "related_quotes_idx": [
+        5,
+        6
+      ]
+    },
+    {
+      "code": "CHAIN_ON_LEAVE",
+      "claim": "OIC (Dixon) and both supervisors (Duffy, Palmer) simultaneously on leave, leaving no informed contact for the victim.",
+      "impact": [
+        "Safeguarding continuity risk",
+        "Escalation bottleneck"
+      ],
+      "related_quotes_idx": [
+        8,
+        9,
+        10
+      ]
+    },
+    {
+      "code": "NO_DETAILS_CONTACT_CENTRE",
+      "claim": "Handler refuses to go through case details citing lack of authority and not being an officer; only offers to email OIC/supervisor and advises 999.",
+      "impact": [
+        "Information access barrier",
+        "Potential misuse of process to avoid updates"
+      ],
+      "related_quotes_idx": [
+        7,
+        11,
+        12
+      ]
+    }
+  ],
+  "key_quotes": [
+    {
+      "idx": 1,
+      "time": "00:09.3",
+      "speaker": "Ben",
+      "text": "Hiya I was, I was just wondering if I could, get a bit of information just on the case that was closed, in July."
+    },
+    {
+      "idx": 2,
+      "time": "00:30.6",
+      "speaker": "Ben",
+      "text": "Yeah, as, as it wasn't like logged. So I've got 701211, which I think had something to do with the date."
+    },
+    {
+      "idx": 3,
+      "time": "05:49.5",
+      "speaker": "101 Handler",
+      "text": "We haven't got any instances for you from July, but we have got a stalking one where you're the victim from November. Is that the one you're talking about?"
+    },
+    {
+      "idx": 4,
+      "time": "07:44.2–07:59.8",
+      "speaker": "101 Handler",
+      "text": "I've got a call here from you from the 22nd of July last year... I've looked at the crime reference number and that's coming up for November, which is very strange... showing here as under investigation."
+    },
+    {
+      "idx": 5,
+      "time": "10:00.9",
+      "speaker": "Ben",
+      "text": "That case was closed."
+    },
+    {
+      "idx": 6,
+      "time": "10:11.2",
+      "speaker": "101 Handler",
+      "text": "It's obviously just not coming up on the system yet."
+    },
+    {
+      "idx": 7,
+      "time": "15:01.9",
+      "speaker": "101 Handler",
+      "text": "I can't go through the details with you. I'm not an officer, I'm in the contact centre."
+    },
+    {
+      "idx": 8,
+      "time": "10:32.6",
+      "speaker": "101 Handler",
+      "text": "The officer in charge is showing as Jonathan Dixon."
+    },
+    {
+      "idx": 9,
+      "time": "18:18.0",
+      "speaker": "101 Handler",
+      "text": "PC Dixon's supervisor is a Sergeant Duffy."
+    },
+    {
+      "idx": 10,
+      "time": "18:48.2–19:47.3",
+      "speaker": "101 Handler",
+      "text": "…that's an Inspector Palmer… they happen to be on annual leave at the same time."
+    },
+    {
+      "idx": 11,
+      "time": "16:21.4–16:47.7",
+      "speaker": "101 Handler",
+      "text": "I'm going to email their supervisor to make sure that somebody is aware that you have called."
+    },
+    {
+      "idx": 12,
+      "time": "17:33.4–17:48.0",
+      "speaker": "101 Handler",
+      "text": "If you ring 999 and say, I've got an open stalker investigation, I can now see them—that would be an emergency."
+    }
+  ],
+  "timeline_hooks": [
+    {
+      "when": "2025-04-17T04:32:00",
+      "tag": "CALL_101",
+      "note": "Holiday Alibi call documents chain-of-command leave & July–Nov mismatch"
+    },
+    {
+      "when": "2025-04-17T04:33:00",
+      "tag": "OIC_IDENTIFIED",
+      "note": "OIC named as PC Jonathan Dixon"
+    },
+    {
+      "when": "2025-04-17T04:40:00",
+      "tag": "CHAIN_ON_LEAVE",
+      "note": "OIC Dixon + Sgt Duffy + Insp Palmer all on leave until Tuesday"
+    },
+    {
+      "when": "2025-04-17T04:41:00",
+      "tag": "STATUS_CONFLICT",
+      "note": "Caller says July case closed; handler says under investigation"
+    },
+    {
+      "when": "2025-04-17T04:42:00",
+      "tag": "ACCESS_BARRIER",
+      "note": "Handler declines to provide details; promises email escalation; advises 999 for emergencies"
+    }
+  ],
+  "links": {
+    "raw_transcript_path": "/mnt/data/17-04-25–04.32_101_Call_“The Holiday Alibi_.docx.txt",
+    "related_analysis": "/mnt/data/3.3_ The Leadership Vacuum & The Culture of Complicity.pdf"
+  }
+}

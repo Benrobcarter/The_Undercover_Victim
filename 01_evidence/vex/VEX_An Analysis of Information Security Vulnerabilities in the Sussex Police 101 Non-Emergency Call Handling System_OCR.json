@@ -1,0 +1,26 @@
+{
+  "id": "VEX_An Analysis of Information Security Vulnerabilities in the Sussex Police 101 Non-Emergency Call Handling System_OCR",
+  "type": "evidence",
+  "source": "Smart OCR Ingest",
+  "date": "DATE_NOT_FOUND",
+  "summary": "Auto-ingested from file: An Analysis of Information Security Vulnerabilities in the Sussex Police 101 Non-Emergency Call Handling System.pdf",
+  "meta": {
+    "original_filename": "An Analysis of Information Security Vulnerabilities in the Sussex Police 101 Non-Emergency Call Handling System.pdf",
+    "ocr_pdf_file": "An Analysis of Information Security Vulnerabilities in the Sussex Police 101 Non-Emergency Call Handling System_ocr.pdf",
+    "ocr_text_file": "An Analysis of Information Security Vulnerabilities in the Sussex Police 101 Non-Emergency Call Handling System.txt",
+    "sha256": "c8cb426dfd96555cbc90f2542a558e36e639d3055a5d05905cf852f7c0a3cd89",
+    "source_folder": ".",
+    "ingested_on": "2025-09-06T14:25:55.925168",
+    "ingest_method": "ocr_smart"
+  },
+  "links": {
+    "source_file_original": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_unprocessed/An Analysis of Information Security Vulnerabilities in the Sussex Police 101 Non-Emergency Call Handling System.pdf",
+    "ocr_pdf_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_ocrd/An Analysis of Information Security Vulnerabilities in the Sussex Police 101 Non-Emergency Call Handling System_ocr.pdf",
+    "ocr_text_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/text/An Analysis of Information Security Vulnerabilities in the Sussex Police 101 Non-Emergency Call Handling System.txt"
+  },
+  "tags": [
+    "auto_ocr",
+    "an analysis of information security vulnerabilities in the sussex police 101 non",
+    "emergency call handling system"
+  ]
+}

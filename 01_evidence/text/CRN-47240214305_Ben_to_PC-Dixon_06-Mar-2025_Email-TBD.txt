@@ -1,0 +1,7278 @@
+Printed by WOOD, Hayley (Systems Support Access Role)The Seven Dials Medical Centre
+
+1 of 45
+
+CARTER, Benjamin (Mr)
+Patient Record
+Only clinical data after 01 Jan 2021 is included in this printout
+CARTER, Benjamin (Mr)
+
+NHS Number: 446 377 7232
+
+Date of Birth
+
+15 Apr 1987 00:00 (37 y)
+
+Gender
+
+Place of Birth
+
+BRIGHTON, UK
+
+Male
+
+Marital Status
+
+Marital state unknown
+
+Ethnic Origin
+
+White British
+
+Language
+
+Main spoken language English
+
+English Speaker
+
+Yes
+
+(XaG5t) (SNOMED: 315570003)
+
+Contact Details
+Current Home Address
+
+26 Old Shoreham Road Brighton E Sussex BN1 5DD
+
+Mobile Tel. (preferred)
+
+07812766495
+
+Previous Home Address
+
+54 Teville Road Worthing West Sussex BN11 1UL
+
+Email
+
+benrobcarter@gmail.com
+
+09 Feb 2023 _—| Next Of Kin
+
+09 Feb 2023 -
+
+28 Nov 2019 - 09 Feb 2023
+
+Unknown
+
+Name
+
+Mr Rob Luke
+
+Work Contact
+
+01903210100
+
+Additional Information
+
+Next Of Kin
+
+Registration Details
+Registration Date
+
+09 Feb 2023
+
+Date of Removal
+
+PDS Registered Practice
+
+The Seven Dials Medical
+Centre (NHS Sussex Icb 09d) (01273 773089)
+
+Registered GP
+
+POOLED LIST, Seven Dials
+
+Home GP
+
+Usual GP
+
+DICKINSON, Dharam (Dr)
+
+HA
+
+East Sussex, Brighton and
+
+Registration Type
+
+GMS
+
+Medical Records
+
+Records here
+
+Dispensing
+
+N
+
+Pharmacy
+
+Hove
+
+Attendance Record
+
+Last 12 Months (Total)
+
+Appointments
+
+9 (31)
+
+Visits
+
+0 (0)
+
+0% (0%)
+
+Attendance
+
+7 (28)
+
+DNAs
+
+2 (3)
+
+77% (90%)
+
+22% (9%)
+
+Journal
+22 Jan 2021
+
+GP2GP Import: Ms Michele Gerrish
+
+Entered at: Montpelier
+
+Entered: 09 Feb 2023 08:52
+
+Surgery
+Transfer-degraded record entry (XaLGM) (SNOMED: 19641 1000000103)
+Original text: SMS (short message service) text message sent to patient
+Appointment notification - Your appointment with Mrs J Lee is booked - 4:15PM - 26-Jan-2021 at Victoria Road.
+
+25 Jan 2021
+
+GP2GP Import, Contact method: VICTORIA ROAD SURGERY:
+Miss Natalie Burton
+
+Entered: 09 Feb 2023 08:52
+
+Entered at: Montpelier Surgery
+
+Short message service text message sent to patient (XaMil) (SNOMED: 279991000000102)
+Original text: SMS text message sent to patient
+Dear Mr Carter,
+Please do not attend your appointment at the Surgery if you or your family have COVID-19 symptoms or have been
+in recent contact with someone who is or was sick with suspected or confirmed COVID-19. Do not attend if you have
+returned from Denmark or South Africa within the last 14 days.
+
+Thank you.
+
+Administrator
+
+Victoria Road Surgery
+Patient mobile telephone number (XaQgn) (SNOMED: 428481002) - 07812766495
+26 Jan 2021
+
+GP2GP Import, Contact method: Docman: Miss . Docman
+
+Entered: 09 Feb 2023 08:52
+
+Entered at: Montpelier Surgery
+tif: D10_H82041_510134_75f65708-8d3b-46ed-9d6 1-d7c379f49933.TIF - Attachment
+
+Admin Letter
+
+HELICOBACTOR BREATH TEST BARCODE
+
+26 Jan 2021
+
+GP2GP Import, Healthcare related organisation. Victoria Road:
+Mrs Jessica Lee
+
+Entered: 09 Feb 2023 08:52
+
+Entered at: Montpelier Surgery
+
+Informed consent for procedure (892..) (SNOMED: 182771004)
+Transfer-degraded record entry (XaLGM) (SNOMED: 19641 1000000103) - Original text: Protective equipment used
+Thu 06 Mar 2025 12:14
+Confidential: Personal Data
+
+Mr Benjamin Robert Carter "Ben"
+446 377 7232, 15 Apr 1987
+
+Printed by WOOD, Hayley (Systems Support Access Role)The Seven Dials Medical Centre
+
+2 of 45
+
+Helicobacter pylori breath test (3167.) (SNOMED: 1009221000000105)
+
+Original text: Helicobacter breath test
+exp:08/2023
+
+_lot:1 9099a1a
+
+|27 Jan 2021
+
+|GP2GP Import: Miss Adele Searle
+
+Entered at: Montpelier Surgery | Entered: 09 Feb 2023 08:52
+
+Administration note (Xalg4) (SNOMED: 37351000000107) - HELICOBACTOR BARCODE 8559023 - POSTED
+TODAY - AS
+08 Feb 2021
+
+GP2GP Import: Dr Navdeep Sandhu _ Entered at: Montpelier
+
+Entered: 09 Feb 2023 08:52
+
+Surgery
+(R) Lansoprazole 30mg gastro-resistant capsules - 56 capsule - take one once daily
+24 May 2021
+
+GP2GP Import, Healthcare related organisation. Victoria Road:
+External User
+
+Entered: 09 Feb 2023 08:52
+
+Entered at: Montpelier Surgery
+
+Informed consent given for treatment
+
+Open access service | Administered by RUIZ, Jay (Reg Code: Not Provided) | Vaccination Provider ODS Code:
+LOP5SJ
+
+Administration of first dose of SARS-CoV-2 vaccine (Y29e7) (SNOMED: 1324681000000101)
+Original text: Administration of first dose of SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2) vaccine
+[Manufacturer: Moderna, Inc], [Expiry Date: 14-Jun-2021], [Batch Number: 3002332], Injection site: Left arm
+
+Spikevax COVID-19 MRNA (nucleoside modified) Vaccine 0.1mg/0.5ml dose dispersion for injection multidose vials
+(Moderna, Inc) - 1 dose - 1 dose by Intramuscular Injection
+
+Stopped 08 Jun 2022 Other (Medication Course Ended. Expired)
+24 May 2021
+
+GP2GP Import: External User
+
+02 Jun 2021
+
+GP2GP Import: Mrs Agnieszka Dixon
+
+Entered at: Montpelier Surgery
+
+Entered: 09 Feb 2023 08:52
+
+Entered at: Montpelier
+
+Entered: 09 Feb 2023 08:52
+
+Surgery
+(R) Lansoprazole 30mg gastro-resistant capsules - 56 capsule - take one once daily
+21 Jul 2021
+
+GP2GP Import: External User
+
+Entered at: Montpelier Surgery
+
+Entered: 09 Feb 2023 08:52
+
+21 Jul 2021
+
+GP2GP Import, Healthcare related organisation. Victoria Road:
+
+Entered: 09 Feb 2023 08:52
+
+External User
+
+Entered at: Montpelier Surgery
+
+Informed consent given for treatment
+
+Open access service | Administered by MALSTER, Stuart (Reg Code: Not Provided) | Vaccination Provider ODS
+Code: LOP5J
+Administration of second dose of SARS-CoV-2 vaccine (Y29e8) (SNOMED: 1324691000000104)
+Original text: Administration of second dose of SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2)
+vaccine
+[Manufacturer: Moderna, Inc], [Expiry Date: 07-Aug-2021], [Batch Number: 3003608], Injection site: Left arm
+
+Spikevax COVID-19 MRNA (nucleoside modified) Vaccine 0.1mg/0.5ml dose dispersion for injection multidose vials
+(Moderna, Inc) - 1 dose - 1 dose by Intramuscular Injection
+
+Stopped 05 Aug 2022 Other (Medication Course Ended. Expired)
+26 Jul 2021
+
+GP2GP Import: Mrs Linda Garland
+
+Entered at: Montpelier
+
+Entered: 09 Feb 2023 08:52
+
+Surgery
+Provision of advice, assessment or treatment limited due to coronavirus disease 19 caused by severe acute
+
+respiratory syndrome coronavirus 2 pandemic (situation) (Y22b6) (SNOMED: 1321171000000106) - Original text:
+Provision of advice, assessment or treatment limited due to COVID-19 pandemic
+26 Jul 2021
+
+GP2GP Import: Ms Renata George
+
+Entered at: Montpelier
+
+Entered: 09 Feb 2023 08:52
+
+Surgery
+Appointment made by telephone (9NB2.) (SNOMED: 185420007) - with GPAH swollen elbow - rg
+26 Jul 2021
+
+GP2GP Import, Healthcare related organisation. Victoria Road: Dr
+Kenneth Lim
+
+Entered: 09 Feb 2023 08:52
+
+Entered at: Montpelier Surgery
+
+pt asking for advic e
+has just noticed that his carbon monoxide alarm in his flat has not been working for a year
+
+asking if he should be tested for CO poisoning
+he does not have any dizziness, nausea, chest pain, change in mental state, palpitations
+advised that if he i s worried he should get tested at A&E if he is symptomatic
+asymptomatic at present
+he is already contacting a gas engineer to inspect his house
+any further medical advice and he will contact us again
+26 Jul 2021
+
+GP2GP Import, Contact method: Inbound Document: Mrs Linda
+Garland
+
+Entered: 09 Feb 2023 08:52
+
+Entered at: Montpelier Surgery
+
+to Unknown - "Seen in urgent care centre" Original text document
+Inbound documen t: Seen in urgent care centre CARTER, Benjamin (Mr) 1517 26-Jul-2 021 rtf (26-Jul-2021)
+26 Jul 2021
+
+GP2GP Import: Mrs Linda Garland
+
+Entered at: Montpelier
+
+Entered: 09 Feb 2023 08:52
+
+Surgery
+Thu 06 Mar 2025 12:14
+
+Confidential: Personal Data
+
+Mr Benjamin Robert Carter "Ben
+446 377 7232, 15 Apr 1987
+
+|
+
+Printed by WOOD, Hayley (Systems Support Access Role)The Seven Dials Medical Centre
+
+3 of 45
+
+Olecranon bursitis (N2133) (SNOMED: 425940002) - First
+Olecranon bursitis (N2133) (SNOMED: 425940002) - First
+26 Jul 2021
+
+GP2GP Import: Ms Renata George
+
+Entered at: Montpelier
+
+Entered: 09 Feb 2023 08:52
+
+Surgery
+Appointment made by telephone (9NB2.) (SNOMED: 185420007) - with GPAH
+26 Jul 2021 11:18
+
+Surgery: BUCKINGHAM, Lynette (Mrs) (Receptionist Access Role) Entered at: Innovations in
+Primary Care Ltd
+
+Community Pharmacy - Amendment via PDSPrevious data: Ashtons Late Night Pharmacy, 98 Dyke Road, Brighton,
+East Sussex BN1 3JD
+Tel: 01273 325020
+
+Email - Amendment via PDSPrevious data: BENACE_THE_MANACE@HOTMAIL.CO.UK
+Registered GP Changed From SADLER, Anthony (Dr), First Name Changed From ‘Ben’, Address Changed From:
+‘Flat 13, Arena House, 31 Regent Street, Brighton BN1 1UU’,
+Registered GP amendment via PDS
+Patient name amendment via PDS
+Mobile telephone number: 07812 766495
+Amendment via P DS
+25 Aug 2021
+
+GP2GP Import, Healthcare related organisation. Victoria Road:
+
+Entered: 09 Feb 2023 08:52
+
+HAQUE, MME (Dr) _ Entered at: Montpelier Surgery
+Medication review (8B314) (SNOMED: 182836005)
+Recall: medication review (26 Aug 2022) Recall status set to 'Seen' by GP2GP transfer
+25 Aug 2021
+
+GP2GP Import: HAQUE, MME (Dr)
+
+Entered at: Montpelier
+
+Entered: 09 Feb 2023 08:52
+
+Surgery
+(R) Lansoprazole 30mg gastro-resistant capsules - 56 capsule - take one once daily
+
+04 Sep 2021
+
+GP2GP Import: Miss Natalie Burton
+
+Entered at: Montpelier
+
+Entered: 09 Feb 2023 08:52
+
+Surgery
+Transfer-degraded record entry (XaLGM) (SNOMED: 19641 1000000103)
+Original text: SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2) RNA (ribonucleic acid) detection result
+unknown
+
+SARS-CoV-2-ORGU
+PHE informed. No notifiable disease notification needed.
+
+Report, Unknown, Other: Report ID: 20210902140022AAK67071918
+Specimen ID: AAK67071918
+Specimen description: Cmb swb spc orophryn/nasophryn. Review not applicable
+09 Sep 2021
+
+GP2GP Import: Miss Natalie Burton
+
+Entered at: Montpelier
+
+Entered: 09 Feb 2023 08:52
+
+Surgery
+Transfer-degraded record entry (XaLGM) (SNOMED: 19641 1000000103)
+Original text: SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2) RNA (ribonucleic acid) detection result
+negative
+
+SARS-CoV-2-ORGN
+PHE informed. No notifiable disease notification needed.
+Report, Unknown, Other: Report ID: 20210906151709KNA65802973
+Specimen ID: KNA65802973
+Specimen description: Cmb swb spc orophryn/nasophryn. Review not applicable
+06 Oct 2021
+
+GP2GP Import, Healthcare related organisation. Victoria Road: Mr
+George Murray
+
+Entered: 09 Feb 2023 08:52
+
+Entered at: Montpelier Surgery
+
+Has run out of his ADHD medication prescribed by Psychiatry UK
+Would like some more
+
+Docmanletter from above would like GP to continue Concerta XL 18mg OD
+Unsupported characters in imported note - see record attachment ‘Imported Note 2.txt' for text
+Refered back to Psychiatery UK
+
+Heart rate (X773r) (SNOMED: 364075005) 82 BPM - Original units: beats/min
+Attention deficit hyperactivity disorder (XE2Q6) (SNOMED: 406506008) - Ongoing (Original qualifier text: Review)
+150 / 80 mmHg
+Text File: Imported Note 2.txt
+
+06 Oct 2021
+
+GP2GP Import, Contact method: accuRx Consultation: Mr George
+Murray
+
+Entered: 09 Feb 2023 08:52
+
+Entered at: Montpelier Surgery
+
+Short message service text message sent to patient (XaMil) (SNOMED: 279991000000102)
+Original text: SMS text message sent to patient
+Thu 06 Mar 2025 12:14
+
+Confidential: Personal Data
+
+Mr Benjamin Robert Carter "Ben"
+446 377 7232, 15 Apr 1987
+
+Printed by WOOD, Hayley (Systems Support Access Role)The Seven Dials Medical Centre
+
+4 of 45
+
+Dear Mr Carter,
+Please try to keep the phone line free. | have called twice but have not been able to get through. | will try again soon.
+Thanks, Paramedic Murray
+
+Victoria Road Surgery
+Patient mobile telephone number (XaQgn) (SNOMED: 428481002) - 07812766495
+06 Oct 2021
+
+GP2GP Import, Contact method: accuRx Consultation: Mr George
+Murray
+
+Entered: 09 Feb 2023 08:52
+
+Entered at: Montpelier Surgery
+
+Patient mobile telephone number (XaQgn) (SNOMED: 428481002) - 07812766495
+Short message service text message sent to patient (XaMil) (SNOMED: 279991000000102)
+Original text: SMS text message sent to patient
+Dear Mr Carter,
+| have had to push your booking back by 15 mins. | do apologies but | have overrun on a home visit. It is now at
+1445.
+
+Thanks, Paramedic Murray
+
+Victoria Road Sur¢ ery
+06 Oct 2021
+
+GP2GP Import, Healthcare related organisation. Victoria Road: Mr
+George Murray
+
+Entered: 09 Feb 2023 08:52
+
+Entered at: Montpelier Surgery
+
+for 5/7 hx of sore throat which has been worsening
+
+COVID19 -ve
+Believes he may have tonsil stones
+no halitosis
+able to swallow liquids
+no excessive salavation
+feverish
+
+Pain in throat (1CB3.) (SNOMED: 162397003) - First
+Pain in throat (1CB3.) (SNOMED: 162397003) - First
+06 Oct 2021
+
+GP2GP Import, Healthcare related organisation. Victoria Road: Mr
+George Murray
+
+Entered: 09 Feb 2023 08:52
+
+Entered at: Montpelier Surgery
+
+No Quincy
+Pt found some self care advice online to gargle salt water
+also managed to push some ?stones out
+
+O/E - tympanic temperature (XalAQ) (SNOMED: 415974002) 36.6 C
+Original text: Tympanic temperature
+Original units: degrees C
+O/E - rate of respiration (235..) (SNOMED: 86290005) 16 Resp/min
+Original text: Respiratory rate
+Original units: /minute
+Acute tonsillitis (XE2aC) (SNOMED: 17741008) - First
+Pain relief (G3BAA.) (SNOMED: 182970005)
+Centor criteria (XacFe) (SNOMED: 716599007) 2
+
+- Original text: Centor criteria score
+
+Advice about fluid intake (XaEFm) (SNOMED: 313210009) - Original text: Fluid intake education
+Template entry - EHR composition type (Xalgg) (SNOMED: 25721000000107) - Sore Throat v14.8 by Ardens-Q Ltd
+Pharyngitis (XOOmG) (SNOMED: 405737000)
+O/E - tonsils mod. enlarged (2DB3.) (SNOMED: 164253004) - Original text: On examination - tonsils moderately
+enlarged
+
+Clarithromycin 250mg tablets - 10 tablet - One To Be Taken Twice A Day For 5 Days
+Stopped 06 Oct 2021 Other (Medication Course Ended)
+Acute tonsillitis (XE2aC) (SNOMED: 17741008) - First
+06 Oct 2021
+
+GP2GP Import: HAQUE, MME (Dr)
+
+Entered at: Montpelier
+
+Entered: 09 Feb 2023 08:52
+
+Surgery
+06 Oct 2021
+
+GP2GP Import: Dr Eugenie McCreanor
+
+Entered at: Montpelier
+
+Entered: 09 Feb 2023 08:52
+
+Surgery
+06 Oct 2021
+
+GP2GP Import: HAQUE, MME (Dr)
+
+Entered at: Montpelier
+
+Entered: 09 Feb 2023 08:52
+
+Surgery
+Clarithromycin 500mg tablets - 14 tablet - One To Be Taken Twice A Day
+Stopped 04 Nov 2021 Other (Medication Course Ended. Expired)
+06 Oct 2021
+
+GP2GP Import: HAQUE, MME (Dr)
+
+Entered at: Montpelier
+
+Entered: 09 Feb 2023 08:52
+
+Surgery
+Clarithromycin 250mg tablets - 10 tablet - One To Be Taken Twice A Day For 5 Days
+Stopped 06 Oct 2021 Other (Medication Course Ended)
+06 Oct 2021
+
+GP2GP Import: Dr Eugenie McCreanor
+
+Entered at: Montpelier
+
+Entered: 09 Feb 2023 08:52
+
+Surgery
+Thu 06 Mar 2025 12:14
+
+Confidential: Personal Data
+
+Mr Benjamin Robert Carter "Ben"
+446 377 7232, 15 Apr 1987
+
+Printed by WOOD, Hayley (Systems Support Access Role)The Seven Dials Medical Centre
+
+5 of 45
+
+Concerta XL 18mg tablets (Janssen-Cilag Ltd) - 60 tablet - One To Be Taken Twice A Day
+Stopped 06 Oct 2021 Other (Medication Course Ended)
+19 Oct 2021
+
+GP2GP Import: Dr Eugenie McCreanor
+
+Entered at: Montpelier
+
+Entered: 09 Feb 2023 08:52
+
+Surgery
+19 Oct 2021
+
+GP2GP Import, Healthcare related organisation. Victoria Road: Dr
+Kenneth Lim
+
+|Entered: 09 Feb 2023 08:52
+
+Entered at: Montpelier Surgery
+
+had a discussion with patient re: concerta xl
+prescribed by his PRIVATE psychiatrist
+
+asking if it can be placed on NHS repeats
+advised that psychiatrist has to first establish the correct dose (he is still at the stage of titrating) and secondly there
+has to be an estab lished shared care of management
+we would not be keen on taking on the responsibility of manging his specialist drug since we do not have specific
+training in that
+he understands thi s and will go back to discuss this with them
+
+19 Oct 2021
+
+GP2GP Import: HAQUE, MME (Dr)
+
+Entered at: Montpelier
+
+Entered: 09 Feb 2023 08:52
+
+Surgery
+Flucloxacillin 500mg capsules - 28 capsule - One To Be Taken Four Times A Day
+Stopped 17 Nov 2021 Other (Medication Course Ended. Expired)
+19 Oct 2021
+
+GP2GP Import, Healthcare related organisation. Victoria Road: Mr
+George Murray
+
+Entered: 09 Feb 2023 08:52
+
+Entered at: Montpelier Surgery
+
+for the last 5/7 you have had a painful finger
+now puss coming out of finger
+red+
+
+(NOT ISSUED) Flucloxacillin 500mg capsules One To Be Taken Four Times A Day, 28 capsule
+Paronychia of finger (KE1AR) (SNOMED: 444646006) - First
+Paronychia of finger (KE1AR) (SNOMED: 444646006) - First
+19 Oct 2021
+
+GP2GP Import, Contact method: accuRx Consultation: Mrs Debbie
+Dunk
+
+Entered: 09 Feb 2023 08:52
+
+Entered at: Montpelier Surgery
+
+Patient mobile telephone number (XaQgn) (SNOMED: 428481002) - 07812766495
+Short message service text message sent to patient (XaMil) (SNOMED: 279991000000102)
+Original text: SMS text message sent to patient
+Dear Mr Carter,
+please send photo as requested
+
+TO RESPOND, please follow this link: (link will autogenerate here)
+Thanks, Debbie
+
+Victoria Road Sur¢ ery
+19 Oct 2021
+
+GP2GP Import, Contact method: accuRx Consultation: Mrs Debbie
+Dunk
+
+Entered: 09 Feb 2023 08:52
+
+Entered at: Montpelier Surgery
+
+Unsupported characters in imported note - see record attachment ‘Imported Note 1.txt' for text
+https://chain.accurx.com/api/patientupload/1491/23424829/n69cm4tp7t
+to Unknown - "Attachment" Image (document)
+Photo submitted by patient (compressed file, for original please see photo link in affiliated consultation)
+Text File: Imported Note 1.txt
+
+19 Oct 2021
+
+GP2GP Import, Contact method: accuRx Consultation: Dr Kenneth
+Lim
+
+Entered: 09 Feb 2023 08:52
+
+Entered at: Montpelier Surgery
+
+Patient mobile telephone number (XaQgn) (SNOMED: 428481002) - 07812766495
+Short message service text message sent to patient (XaMil) (SNOMED: 279991000000102)
+Original text: SMS text message sent to patient
+Dear Mr Carter,
+We tried contacting you but could not get through. Please kindly use the response link below to inform us on how we
+can help you.
+Thank you.
+
+TO RESPOND, please follow this link: (link will autogenerate here)
+Kind Regards,
+Dr. Kenneth Lim
+
+Victoria Road Sur
+23 Dec 2021
+
+ery
+
+GP2GP Import, Contact method: accuRx Consultation: Mrs
+Caroline Nelson
+
+Entered: 09 Feb 2023 08:52
+
+Entered at: Montpelier Surgery
+
+Severe acute respiratory syndrome coronavirus 2 vaccination invitation short message service text message sent
+(situation) (Y21 1f) (SNOMED: 1240781000000106)
+
+Original text: Severe acute respiratory syndrome coronavirus 2 vaccination invitation short message service text
+message sent
+
+Thu 06 Mar 2025 12:14
+
+Confidential: Personal Data
+
+Mr Benjamin Robert Carter "Ben
+446 377 7232, 15 Apr 1987
+
+Printed by WOOD, Hayley (Systems Support Access Role)The Seven Dials Medical Centre
+
+6 of 45
+
+COVID-19 vaccination SMS invite for Booster Dose sent
+11 Jan 2022
+
+GP2GP Import, Contact method: Inbound Document: External
+User
+
+Entered: 09 Feb 2023 08:52
+
+Entered at: Montpelier Surgery
+
+Immunisation course to maintain protection against SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2)
+(Y2e65) (SNOMED: 1362591000000103) - [Manufacturer: Pfizer Ltd], [Expiry Date: 28-Jan-2022], [Batch Number:
+FN5254], Injection site: Left upper arm structure
+11 Jan 2022
+
+GP2GP Import: System User
+
+Entered at: Montpelier Surgery
+
+Entered: 09 Feb 2023 08:52
+
+12 Jan 2022
+
+GP2GP Import, Contact method: Inbound Document: External
+
+Entered: 09 Feb 2023 08:52
+
+User
+
+Entered at: Montpelier Surgery
+
+Pharmacy service (XaC7k) (SNOMED: 310080006) - Original text: Pharmacy Service | Administered by Corinne
+Parker (Reg Code: 5009411) | Vaccination Provider ODS Code: H2N9A
+Comirnaty COVID-19 MRNA Vaccine 30micrograms/0.3ml dose concentrate for dispersion for injection multidose
+vials (Pfizer Ltd) - 0.3 ml - 0.3 ml Intramuscular
+
+Stopped 26 Jan 2023 Other (Medication Course Ended. Expired)
+to Unknown - "Administration of vaccine" Original text document
+Notification of Vaccination (12-Jan-2022)
+24 Feb 2022
+
+GP2GP Import: Dr Navdeep Sandhu _ Entered at: Montpelier
+
+Entered: 09 Feb 2023 08:52
+
+Surgery
+(R) Lansoprazole 30mg gastro-resistant capsules - 56 capsule - take one once daily
+
+09 Mar 2022
+
+GP2GP Import: Dr Eugenie McCreanor
+
+Entered at: Montpelier
+
+Entered: 09 Feb 2023 08:52
+
+Entered at: Montpelier
+
+Entered: 09 Feb 2023 08:52
+
+Surgery
+09 Mar 2022
+
+GP2GP Import: Dr Eugenie McCreanor
+
+Surgery
+09 Mar 2022
+
+GP2GP Import, Contact method: Docman: Miss . Docman
+
+Entered: 09 Feb 2023 08:52
+
+Entered at: Montpelier Surgery
+(NOT ISSUED) Concerta XL 54mg tablets (Janssen-Cilag Ltd) Take one in the morning as per consultant (total
+72mg), 30 tablet
+
+(NOT ISSUED) Concerta XL 18mg tablets (Janssen-Cilag Ltd) One To Be Taken Each Morning (total 72mg), 30
+tablet
+
+(NOT ISSUED) Methylphenidate 5mg tablets Take One daily as directed, 30 tablet
+Attention deficit hyperactivity disorder (XE2Q6) (SNOMED: 406506008) - Ongoing (Original qualifier text: Review)
+Incoming mail (XM1Tw) (SNOMED: 715931000000100)
+Seen in mental health clinic (XaONq) (SNOMED: 431957001)
+O/E - pulse rate (242..) (SNOMED: 78564009) 74 bpm
+Original text: Pulse rate
+Original units: beats/min
+O/E - weight (22A..) (SNOMED: 27113001) 78.019 Kg (~ 12 st 4 Ib) - Original text: Body weight
+121/74 mmHg
+tif: D10_H82041_
+510134 _3b067632-9367-4e4a-a550-c4797a4014a2.TIF - Attachment
+
+Clinical Letter Psychiatry-UK Mental Health
+09 Mar 2022
+
+GP2GP Import: Dr Eugenie McCreanor
+
+Entered at: Montpelier
+
+Entered: 09 Feb 2023 08:52
+
+Surgery
+09 Mar 2022 15:27
+
+Surgery: LOBO, Sarah (Health Professional Access Role)
+
+Entered: 22 May 2023 15:27
+
+History: Failed encounter - message left on answer machine (9N4F.) (SNOMED: 185340004)Tried to contact patient
+to discuss request for medications. Patient was last issued prescription on 07.03.23 for one month supply of
+medication, however called to query with patient how they are taking the medication as this supply would have run
+out in April. Unable to contact patient. Message left on voicemail.
+
+Pulse rate (X773s) (SNOMED: 78564009) 74 bpm
+O/E - height (229. .) (SNOMED: 248333004) 1.702 m (~ 5'7")
+O/E - weight (22A..) (SNOMED: 27113001) 78.02 Kg (~ 12 st 4 Ib)
+Body mass index - observation (22K..) (SNOMED: 60621009) 26.93 Kg/m?
+121/74 mmHg
+Lansoprazole 30mg gastro-resistant capsules - 28 capsule - Take one capsule once daily
+
+Ended 19 Oct 2023 Re-Authorised by TORBATI, Razi (Dr)
+Summary Care Record Update
+
+115 Mar 2022
+
+| Surgery: LOBO, Sarah (Health Professional Access Role)
+
+| Entered: 22 May 2023 15:23 |
+
+Major: Shared care prescribing (XaK6z) (SNOMED: 415522008) - ADHD (New Episode)
+Shared care prescribing (XaK6z) (SNOMED: 415522008) - ADHD
+01 Apr 2022
+
+GP2GP Import: Dr Eugenie McCreanor
+
+Entered at: Montpelier
+
+Entered: 09 Feb 2023 08:52
+
+Surgery
+(R) Lansoprazole 30mg gastro-resistant capsules - 56 capsule - take one once daily
+Thu 06 Mar 2025 12:14
+
+Confidential: Personal Data
+
+Mr Benjamin Robert Carter "Ben"
+446 377 7232, 15 Apr 1987
+
+Printed by WOOD, Hayley (Systems Support Access Role)The Seven Dials Medical Centre
+04 Apr 2022
+
+GP2GP Import: Mrs Caroline Nelson
+
+Entered at: Montpelier
+
+7 of 45
+Entered: 09 Feb 2023 08:52
+
+Surgery
+High risk drug monitoring - shared care (XaL2z) (SNOMED: 205801000000109)
+04 Apr 2022
+
+GP2GP Import: Dr Eugenie McCreanor
+
+Entered at: Montpelier
+
+Entered: 09 Feb 2023 08:52
+
+Surgery
+Concerta XL 54mg tablets (Janssen-Cilag Ltd) - 30 tablet - One to be Taken Each Morning (total 72mg)
+04 Apr 2022
+
+GP2GP Import: Dr Eugenie McCreanor
+
+Entered at: Montpelier
+
+Entered: 09 Feb 2023 08:52
+
+Surgery
+Concerta XL 18mg tablets (Janssen-Cilag Ltd) - 30 tablet - One To Be Taken Each Morning (total 72mg)
+04 Apr 2022
+
+GP2GP Import, Contact method: accuRx Consultation: Mr Tomas
+Hana_
+
+|Entered: 09 Feb 2023 08:52
+
+Entered at: Montpelier Surgery
+
+Short message service text message sent to patient (XaMil) (SNOMED: 279991000000102)
+Original text: SMS text message sent to patient
+Dear Mr Carter,
+Your prescription will be sent to your nominated pharmacy within 36 hours as per hospital. The actual processing of
+this prescription will depend on your pharmacy.
+Thanks.
+
+Victoria Road Surgery
+Patient mobile telephone number (XaQgn) (SNOMED: 428481002) - 07812766495
+04 Apr 2022
+
+GP2GP Import: Dr Eugenie McCreanor
+
+Entered at: Montpelier
+
+Entered: 09 Feb 2023 08:52
+
+Surgery
+Methylphenidate 5mg tablets - 30 tablet - Take One daily as directed
+07 Apr 2022
+
+GP2GP Import, Contact method: accuRx Consultation: Mr Tomas
+Hana_
+
+|Entered: 09 Feb 2023 08:52
+
+Entered at: Montpelier Surgery
+
+Short message service text message sent to patient (XaMil) (SNOMED: 279991000000102)
+Original text: SMS text message sent to patient
+Dear Mr Carter,
+Your prescription has been sent to your nominated pharmacy. please make sure you book an appoint for blood
+pressure, weight and pulse check every 6 months as advised by consultant.
+Thanks.
+
+Victoria Road Surgery
+Patient mobile telephone number (XaQgn) (SNOMED: 428481002) - 07812766495
+
+|08 Apr 2022 19:19
+
+| Surgery: Unknown Staff Member
+
+Entered at: Innovations in Primary Care Ltd
+
+|
+
+Previous GP - Dr Innovations Primary Care
+09 May 2022
+
+GP2GP Import: Mrs Caroline Nelson
+
+Entered at: Montpelier
+
+Entered: 09 Feb 2023 08:52
+
+Surgery
+Recall: High risk drug monitoring review (09 Oct 2022) Recall status set to 'Seen' by GP2GP transfer
+needs bp,etc see letter Apr 2022
+
+10 May 2022
+
+GP2GP Import: Dr Eugenie McCreanor
+
+Entered at: Montpelier
+
+Entered: 09 Feb 2023 08:52
+
+Surgery
+Methylphenidate 5mg tablets - 30 tablet - Take One daily as directed
+Stopped 24 Jun 2022 Other (Medication Course Ended. Expired)
+10 May 2022
+
+GP2GP Import: Dr Eugenie McCreanor
+
+Entered at: Montpelier
+
+Entered: 09 Feb 2023 08:52
+
+Surgery
+Concerta XL 54mg tablets (Janssen-Cilag Ltd) - 30 tablet - One to be Taken Each Morning (total 72mg)
+Stopped 24 Jun 2022 Other (Medication Course Ended. Expired)
+10 May 2022
+
+GP2GP Import: Dr Eugenie McCreanor
+
+Entered at: Montpelier
+
+Entered: 09 Feb 2023 08:52
+
+Surgery
+Concerta XL 18mg tablets (Janssen-Cilag Ltd) - 30 tablet - One To Be Taken Each Morning (total 72mg)
+Stopped 24 Jun 2022 Other (Medication Course Ended. Expired)
+10 May 2022
+
+GP2GP Import: Dr Eugenie McCreanor
+
+Entered at: Montpelier
+
+Entered: 09 Feb 2023 08:52
+
+Surgery
+(R) Lansoprazole 30mg gastro-resistant capsules - 56 capsule - take one once daily
+
+112 Jul 2022
+
+|GP2GP Import: Mrs Debbie Dunk
+
+Entered at: Montpelier Surgery |Entered: 09 Feb 2023 08:52
+
+Administration note (Xalg4) (SNOMED: 37351000000107) - requesting tranquilyn ?? cannot find on current or past
+and concerta_
+
+xl on past dd
+
+13 Jul 2022
+
+GP2GP Import: Mr Martin Wessels
+
+Entered at: Montpelier
+
+Entered: 09 Feb 2023 08:52
+
+Surgery
+Methylphenidate 5mg tablets - 30 tablet - Take One daily as directed
+Ended 09 Feb 2023 Patient Deducted (Active repeat ended on GP2GP transfer)
+Thu 06 Mar 2025 12:14
+Confidential: Personal Data
+
+Mr Benjamin Robert Carter "Ben"
+446 377 7232, 15 Apr 1987
+
+|
+
+Printed by WOOD, Hayley (Systems Support Access Role)The Seven Dials Medical Centre
+13 Jul 2022
+
+GP2GP Import: Mr Martin Wessels
+
+8 of 45
+
+Entered at: Montpelier
+
+Entered: 09 Feb 2023 08:52
+
+Surgery
+(R) Concerta XL 1 8mg tablets (Janssen-Cilag Ltd) - 30 tablet - One To Be Taken Each Morning (total 72mg)
+13 Jul 2022
+
+GP2GP Import: Mr Martin Wessels
+
+Entered at: Montpelier
+
+Entered: 09 Feb 2023 08:52
+
+Surgery
+(R) Methylphenidate 5mg tablets - 30 tablet - Take One daily as directed
+13 Jul 2022
+
+GP2GP Import: Mr Martin Wessels
+
+Entered at: Montpelier
+
+Entered: 09 Feb 2023 08:52
+
+Surgery
+Concerta XL 18mg tablets (Janssen-Cilag Ltd) - 30 tablet - One To Be Taken Each Mo rning (total 72mg)
+Ended 09 Feb 2023 Patient Deducted (Active repeat ended on GP2GP transfer)
+13 Jul 2022
+
+GP2GP Import: Mr Martin Wessels
+
+Entered at: Montpelier
+
+Entered: 09 Feb 2023 08:52
+
+Surgery
+Concerta XL 54mg tablets (Janssen-Cilag Ltd) - 30 tablet - One to be Taken Each Morning (total 72mg)
+Ended 09 Feb 2023 Patient Deducted (Active repeat ended on GP2GP transfer)
+18 Jul 2022
+
+GP2GP Import: HAQUE, MME (Dr)
+
+Entered at: Montpelier
+
+Entered: 09 Feb 2023 08:52
+
+Surgery
+(R) Concerta XL 54mg tablets (Janssen-Cilag Ltd) - 30 tablet - One to be Taken Each Morning (total 72mg)
+19 Aug 2022
+
+GP2GP Import: Dr Eugenie McCreanor
+
+Entered at: Montpelier
+
+Entered: 09 Feb 2023 08:52
+
+Surgery
+(R) Concerta XL 1 8mg tablets (Janssen-Cilag Ltd) - 30 tablet - One To Be Taken Each Morning (total 72mg)
+19 Aug 2022
+
+GP2GP Import: Dr Eugenie McCreanor
+
+Entered at: Montpelier
+
+Entered: 09 Feb 2023 08:52
+
+Surgery
+(R) Methylphenidate 5mg tablets - 30 tablet - Take One daily as directed
+19 Aug 2022
+
+GP2GP Import: Dr Eugenie McCreanor
+
+Entered at: Montpelier
+
+Entered: 09 Feb 2023 08:52
+
+Surgery
+(R) Concerta XL 54mg tablets (Janssen-Cilag Ltd) - 30 tablet - One to be Taken Each Morning (total 72mg)
+21 Sep 2022
+
+GP2GP Import, Healthcare related organisation. Victoria Road: Dr
+Eugenie McCreanor
+
+Entered: 09 Feb 2023 08:52
+
+Entered at: Montpelier Surgery
+
+advised if he does have another seizure to let us know
+he should go to A and E for assessment
+not to drive until investigated/contact DVLA
+| will refer back to neurology
+spoke to patient
+he had x2 seizures in 2020
+was referred to neurology but DNA'd
+seizures were day time
+he was using drugs at the time
+recently when falling asleep he has a sudden ‘jolt’ and he feels like he is about to have a seeizure but then doesn't
+go onto have one
+he had the same feeling prior to the 2 seizures he had in 2020
+This feeling is only happening at night
+denies any recreational drug use, only taking prescribed meds
+he would now like to see the neurologist
+
+Seizure (XaEHz) SNOMED: 91175000) - Ongoing (Original qualifier text: Review)
+28 Sep 2022
+
+GP2GP Import, Healthcare related organisation. Victoria Road.
+
+Entered: 09 Feb 2023 08:52
+
+Contact method: Outbound Referral: Dr Eugenie McCreanor
+Entered at: Montpelier Surgery
+Referral to neurology service (8H46.) (SNOMED: 183521007) - Original text: Neurological referral
+to Unknown - "Referral Letter (28-Sep-2022)" Original text document
+for Neurological referral
+
+Other Referral to neurology service
+Patient Choice West Sussex, Purpose: Investigation
+Priority: Normal
+RequestT ype: Investigation
+
+Original text: Neurological referral
+Other Referral to neurology service
+Patient Choice West Sussex, Purpose: Investigation
+Priority: Normal
+RequestT ype: Investigation
+
+Original text: Neurological referral updated: Care/Input Completed
+Thu 06 Mar 2025 12:14
+
+Confidential: Personal Data
+
+M r Benjamin Robert Carter "Ben
+446 377 7232, 15 Apr 1987
+
+Printed by WOOD, Hayley (Systems Support Access Role)The Seven Dials Medical Centre
+
+|08 Oct 2022
+
+|GP2GP Import: Mrs Natalie Beal
+
+9 of 45
+
+Entered at: Montpelier Surgery
+
+|Entered: 09 Feb 2023 08:52
+
+Recall: Primary Care Group (03 Jan 2110) Admin tag (DO NOT REMOVE)
+
+|08 Oct 2022
+
+|GP2GP Import: Mrs Natalie Beal
+
+Entered at: Montpelier Surgery
+
+| Entered: 09 Feb 2023 08:52
+
+Recall: Primary Care Group (11 May 2110) Admin tag (DO NOT REMOVE)
+10 Oct 2022
+
+GP2GP Import: Dr Eugenie McCreanor
+
+Entered at: Montpelier
+
+Entered: 09 Feb 2023 08:52
+
+Surgery
+(R) Concerta XL 54mg tablets (Janssen-Cilag Ltd) - 30 tablet - One to be Taken Each Morning (total 72mg)
+10 Oct 2022
+
+GP2GP Import, Healthcare related organisation. Victoria Road: Dr
+Eugenie McCreanor
+
+Entered: 09 Feb 2023 08:52
+
+Entered at: Montpelier Surgery
+
+Medication review (8B314) (SNOMED: 182836005)
+Recall: medication review (11 Oct 2023)
+
+10 Oct 2022
+
+GP2GP Import: Dr Eugenie McCreanor
+
+Entered at: Montpelier
+
+Entered: 09 Feb 2023 08:52
+
+Surgery
+(R) Methylphenidate 5mg tablets - 30 tablet - Take One daily as directed
+10 Oct 2022
+
+GP2GP Import: Dr Eugenie McCreanor
+
+Entered at: Montpelier
+
+Entered: 09 Feb 2023 08:52
+
+Surgery
+(R) Lansoprazole 30mg gastro-resistant capsules - 56 capsule - take one once daily
+
+10 Oct 2022
+
+GP2GP Import: Dr Eugenie McCreanor
+
+Entered at: Montpelier
+
+Entered: 09 Feb 2023 08:52
+
+Surgery
+(R) Concerta XL 1 8mg tablets (Janssen-Cilag Ltd) - 30 tablet - One To Be Taken Each Morning (total 72mg)
+10 Oct 2022
+
+GP2GP Import: Dr Eugenie McCreanor
+
+Entered at: Montpelier
+
+Entered: 09 Feb 2023 08:52
+
+Surgery
+Recall: Primary Care Group (03 Jan 2110) Admin tag (DO NOT REMOVE)
+12 Dec 2022
+
+GP2GP Import, Contact method: accuRx Consultation: Mr James
+Smith
+
+Entered: 09 Feb 2023 08:52
+
+Entered at: Montpelier Surgery
+
+Short message service text message sent to patient (XaMil) (SNOMED: 279991000000102)
+Original text: SMS text message sent to patient
+Dear Mr Carter,
+With increasing number of colds and coughs amongst ADULTS we would like you to refer to below information about
+duration of symptoms and when to seek treatment from your GP. In most cases these conditions are self-limiting and
+your community pharmacist should be your FIRST point of contact:
+https:/Avww.nhs.uk/conditions/cough/
+https:/Avwww.nhs.uk/conditions/common-cold/
+
+Patient mobile telephone number (XaQgn) (SNOMED: 428481002) - +447812766495
+Self-help advice leaflet given (8CE..) (SNOMED: 183096003)
+10 Jan 2023
+
+GP2GP Import: Dr Eugenie McCreanor
+
+Entered at: Montpelier
+
+Entered: 09 Feb 2023 08:52
+
+Surgery
+(R) Methylphenidate 5mg tablets - 30 tablet - Take One daily as directed
+10 Jan 2023
+
+GP2GP Import: Dr Eugenie McCreanor
+
+Entered at: Montpelier
+
+Entered: 09 Feb 2023 08:52
+
+Surgery
+(R) Concerta XL 1 8mg tablets (Janssen-Cilag Ltd) - 30 tablet - One To Be Taken Each Morning (total 72mg)
+10 Jan 2023
+
+GP2GP Import: Dr Eugenie McCreanor
+
+Entered at: Montpelier
+
+Entered: 09 Feb 2023 08:52
+
+Surgery
+(R) Concerta XL 54mg tablets (Janssen-Cilag Ltd) - 30 tablet - One to be Taken Each Morning (total 72mg)
+25 Jan 2023
+
+GP2GP Import, Healthcare related organisation. Victoria Road: Dr
+Kenneth Lim
+
+Entered: 09 Feb 2023 08:52
+
+Entered at: Montpelier Surgery
+
+Spoke to patient on the phone, checked name and dob, introduced myself and my role.
+went through DVLA fitness to drive form with patient
+submitted once completed
+
+Letter from Driver and Vehicle Licensing Authority received (XaN6Y) (SNOMED: 295051000000101) - First
+Letter from Driver and Vehicle Licensing Authority received (XaN6Y) (SNOMED: 295051000000101) - First
+25 Jan 2023
+
+GP2GP Import, Healthcare related organisation. Victoria Road:
+Mrs Julie Bagnall
+
+Entered: 09 Feb 2023 08:52
+
+Entered at: Montpelier Surgery
+
+to Unknown - "Medical examinations/reports" Original text document
+DVLA exam/ repo rt carried out over the phone posted 27.1.23 with invoice
+
+|03 Feb 2023
+
+| Surgery: HADRYS, Sharon (Mrs) (Receptionist Access Role)
+
+| Entered: 10 Feb 2023 12:19
+
+Clinic Letter to The Seven Dials Medical Centre
+03 Feb 2023
+
+GP2GP Import, Contact method: Docman: Miss . Docman
+
+Entered: 09 Feb 2023 08:52
+
+Entered at: Montpelier Surgery
+Thu 06 Mar 2025 12:14
+
+Confidential: Personal Data
+
+Mr Benjamin Robert Carter "Ben"
+446 377 7232, 15 Apr 1987
+
+|
+
+Printed by WOOD, Hayley (Systems Support Access Role)The Seven Dials Medical Centre
+
+10 of 45
+
+O/E - pulse rate (242..) (SNOMED: 78564009) 73 bpm
+Original text: Pulse rate
+Original units: beats/min
+Oxygen saturation at periphery (X770D) (SNOMED: 431314004) 100 % - Original text: Peripheral oxygen saturation
+ECG - general (321..) (SNOMED: 29303009)
+Original text: Electrocardiographic procedure
+NSR
+A&E report (Xalg2) (SNOMED: 245610000001
+09)
+Suspected arrhythmia (XaZRw) (SNOMED: 841481000000100) - - request GP f/up + 72 hour tape
+140 / 80 mmHg
+tif: D10_H82041_510134_2439cd9e-9750-443a-a7b4-362f5fd90b66.TIF - Attachment
+
+Discharge Summary/Report Royal Sussex County Hospital A & E
+03 Feb 2023
+
+Surgery: BATES, Mimi (Miss) (Receptionist Access Role)
+
+Entered: 10 Feb 2023 17:27
+
+08 Feb 2023
+
+Surgery: BATES, Mimi (Miss) (Receptionist Access Role)
+
+Entered: 10 Feb 2023 10:32
+
+Consent Form to The Seven Dials Medical Centre
+08 Feb 2023
+
+Surgery: CARTLEDGE, Jessica (Receptionist Access Role)
+
+Entered: 09 Feb 2023 10:25
+
+Entered at: Montpelier Surgery
+Registration to Montpelier Surgery
+08 Feb 2023
+
+Surgery: CARTLEDGE, Jessica (Receptionist Access Role)
+
+Entered: 09 Feb 2023 10:25
+
+Entered at: Montpelier Surgery
+09 Feb 2023 08:20
+
+Surgery: CARTLEDGE, Emma (Miss) (Systems Support Access Role) Entered at: Montpelier
+
+Surgery
+Reminder/Alert: This patient is newly registered here, make sure that patient data already on the system has been
+checked for conformity to policy. - Priority: Normal
+
+Previous GP - west worthing
+Acceptance Code - Acceptance
+Community Pharmacy - Amendment via PDSPrevious data: Teville Gate Pharmacy, 56 Teville Road, Worthing, West
+Sussex BN11 1UY
+Tel: 01903 202746
+Email changed. Previous data: bencobcarter@gmail.com
+
+Registered GP Entered, Address Changed From: '54 Teville Road, Worthing BN11 1UL'
+Current Home Address: 26 Old Shoreham Road, Brighton BN1 5DD
+Mobile telephone number: 07812 766495
+
+09 Feb 2023 08:21
+
+Surgery: CARTLEDGE, Emma (Miss) (Systems Support Access Role) Entered at: Montpelier
+
+Surgery
+09 Feb 2023 08:52
+
+Surgery: CARTLEDGE, Emma (Miss) (Systems Support Access Role) Entered at: Montpelier
+
+Surgery
+GP2GP Extract Message Received 09 Feb 2023 08:52
+
+Surgery: CARTLEDGE, Emma (Miss) (Systems Support Access Role) Entered at: Montpelier
+
+Surgery
+09 Feb 2023 09:03
+
+Surgery: SIMPKIN-DEWEY, Imogen (Receptionist Access Role) Entered at: Montpelier Surgery
+
+Consent given for communication by email (XaRF1l) (SNOMED: 705025004)
+Alcohol use disorder identificatn test consumptn questionnre (KaORP) (SNOMED: 763256006) 8
+
+-
+
+How often do you have a drink containing alcohol?: 2 - 4 times per month
+How many units of alcohol do you drink on a typical day when you are drinking?: 7 - 9
+How often have you had 6 or more units if female, or 8 or more if male, on a single occasion in the last year?:
+Weekly
+
+Building with multiple dwellings (Ua0OH) (SNOMED: 223364007)
+Male (X768D) (SNOMED: 703117000)
+Employed (Ua0TB) (SNOMED: 224363007)
+Lives alone (XMOCt) (SNOMED: 105529008)
+No (Y0428)
+
+White British (XaFwD) (SNOMED: 315236000)
+Express consent for core and additional SCR dataset upload (XaXbZ) (SNOMED: 7730510000001
+02)
+Heterosexual or Straight (Y1d9b)
+Agnostic (135P.) (SNOMED: 160567004)
+Patient allocated named accountable general practitioner (XacWQ) (SNOMED: 965831000000103)
+Consent given for communication by SMS text messaging (XaQid) (SNOMED: 699237001)
+Friend: Rob Luke
+
+Summary Care Record - Consent To View consent changed to: Express Enhanced Record
+
+|09 Feb 2023 09:10
+
+| Surgery: CARTLEDGE, Emma (Miss) (Receptionist Access Role) Entered at: Montpelier Surgery
+
+Thu 06 Mar 2025 12:14
+Confidential: Personal Data
+
+Mr Benjamin Robert Carter "Ben"
+446 377 7232, 15 Apr 1987
+
+|
+
+Printed by WOOD, Hayley (Systems Support Access Role)The Seven Dials Medical Centre
+
+|09 Feb 2023 10:43
+
+11 of 45
+
+| Surgery: BATES, Mimi (Miss) (Receptionist Access Role)
+
+|
+
+Reminder/Alert: This patient is newly registered here, make sure that patient data already on the system has been
+checked for conformity to policy. - Priority: Normal
+
+Previous GP - Dr Thomas P Gayton
+Acceptance Code - Acceptance
+Registered GP Entered
+Current Home Address: 26 Old Shoreham Road, Brighton BN1 5DD
+
+|09 Feb 2023 10:43
+
+| Surgery: BATES, Mimi (Miss) (Receptionist Access Role)
+
+|
+
+SystmOne Outgoing Record Sharing consent changed to: Not asked - Record not shared
+
+|09 Feb 2023 10:43
+
+| Surgery: BATES, Mimi (Miss) (Receptionist Access Role)
+
+|
+
+O/E - height (229..) (SNOMED: 248333004) 1.702 m (~ 5' 7")
+Main spoken language English (XaG5t) (SNOMED: 315570003)
+Marital state unknown (133F.) (SNOMED: 160504008)
+Never smoked tobacco (XEOoh) (SNOMED: 266919005)
+Body mass index - observation (22K..) (SNOMED: 60621009) 3.84 Kg/m?
+O/E - weight (22A..) (SNOMED: 27113001) 11.12 Kg (~ 1 st 11 Ib)
+Identity Verification
+Passport
+
+Vouching (information confirmation) by BATES, Mimi (Miss)
+Recorded during online services registration
+Unknown: Mr Rob Luke
+
+|09 Feb 2023 10:43
+
+|Surgery: BATES, Mimi (Miss) (Receptionist Access Role)
+
+|
+
+SystmOne Outgoing Record Sharing consent changed to: Not asked - Record not shared
+SystmOne Incoming Record Sharing consent changed to: Not asked - Record not shared
+
+|09 Feb 2023 16:01
+
+| Surgery: LOBO, Sarah (Health Professional Access Role)
+
+| Entered: 22 May 2023 16:01
+
+|
+
+O/E - height (229..) (SNOMED: 248333004) 1.702 m (~ 5' 7")
+Body mass index - observation (22K..) (SNOMED: 60621009) 26.93 Kg/m?
+O/E - weight (22A..) (SNOMED: 27113001) 78.02 Kg (~ 12 st 4 Ib)
+
+|09 Feb 2023 16:31
+
+| Surgery: TORBATI, Razi (Dr) (Clinical Practitioner Access Role)
+
+|
+
+History: patient has been to A&E last Friday and he was told to contact GP for 24h ECG. he has the letter from A&E
+Plan: unable to find any letter sent from hospital to surgery so advoised him to send a copy of letter to us and then
+we can speak about suggested test/investigation
+
+09 Feb 2023 16:38
+
+Surgery: FOSSEY, Georgina (Mrs) (Receptionist Access Role)
+
+10 Feb 2023 07:30
+
+Surgery: CARTLEDGE, Emma (Miss) (Receptionist Access Role) Entered at: Montpelier Surgery
+
+NHS Number Approval Registered GP Change - MONTPELIER SURGERY, A T
+
+|10 Feb 2023 07:30
+
+| Surgery: CARTLEDGE, Emma (Miss) (Receptionist Access Role) Entered at: Montpelier Surgery
+
+|
+
+Summary Care Record Update
+
+|14 Feb 2023 10:29
+
+| Surgery: HEWSON, Michelle (Mrs) (Medical Secretary Access Role)
+
+|
+
+Choice and booking enhanced services administration (XaMJa) (SNOMED: 222711000000102)
+Choose and book referral (XaOwL) (SNOMED: 343121000000108)
+Hospital Choose and book referral
+Choose And Book Referral to Cardiology
+Hospital Choose and book referral updated: Waiting For Information
+
+115 Feb 2023 08:31
+
+|Surgery: BIRD, Paula (Mrs) (Systems Support Access Role)
+
+|
+
+The registration for the above patient has been rejected because the patient has registered with a different GP
+practice at a later date than the date of registration with your practice. Please ensure the patient is removed from
+your clinical system and do not treat the patient unless they re-register with the practice.
+
+GP Deduction Request - Left area, reg with another surgery
+
+115 Feb 2023 09:22
+
+| Surgery: BIRD, Paula (Mrs) (Systems Support Access Role)
+
+|
+
+Acceptance Code Notes - will deduct as advised
+Acceptance Code - Rejection
+16 Feb 2023
+
+Surgery: MIDDLEWEEK KELLY, Clare (Ms) (Systems Support
+
+Entered: 21 Feb 2023 14:47
+
+Access Role)
+
+Cardiology to The Seven Dials Medical Centre
+20 Feb 2023 15:35
+
+Surgery: HOLT, Kimberley (Mrs) (Health Professional Access Role) Entered at: Montpelier
+
+Surgery
+History: Telephone encounter (9N31.) (SNOMED: 185317003)with victoria road surgery requesting email for
+summary care record, called him to discuss his medication but has also registered with 7 dials surgery so wishes to
+be removed .
+
+Thu 06 Mar 2025 12:14
+Confidential: Personal Data
+
+Mr Benjamin Robert Carter "Ben"
+446 377 7232, 15 Apr 1987
+
+Printed by WOOD, Hayley (Systems Support Access Role)The Seven Dials Medical Centre
+
+12 of 45
+
+Summary Care Record Update
+
+|21 Feb 2023 07:44
+
+|Surgery: CARTLEDGE, Emma (Miss) (Receptionist Access Role) Entered at: Montpelier Surgery
+
+|
+
+Deduction code received from HA - Internal Transfer
+
+Medical Records Status - Records waiting to be sent
+SystmOne Outgoing Record Sharing consent changed to: Not asked - Record not shared
+Summary Care Record Updated with Patient Deduction
+
+|21 Feb 2023 07:54
+
+| Surgery: BIRD, Paula (Mrs) (Systems Support Access Role)
+
+|
+
+Registered GP Change - POOLED LIST, Seven Dials
+NHS Number Approval -
+
+|21 Feb 2023 07:54
+
+| Surgery: BIRD, Paula (Mrs) (Systems Support Access Role)
+
+|
+
+Summary Care Record Update
+
+|21 Feb 2023 14:47
+
+| Surgery: MIDDLEWEEK KELLY, Clare (Ms) (Systems Support Access Role)
+
+|
+
+Ex-smoker (Ub1na) (SNOMED: 8517006) - currently vapes
+
+|24 Feb 2023 09:04
+
+| Surgery: HORNEY, Christopher (Mr) (Systems Support Access Role)
+
+|
+
+Summary Care Record Update
+27 Feb 2023 13:51
+
+Surgery: BIRD, Paula (Mrs) (Systems Support Access Role)
+
+01 Mar 2023 13:44
+
+Surgery: BIRD, Paula (Mrs) (Systems Support Access Role)
+
+07 Mar 2023 15:47
+
+Surgery: BIRD, Paula (Mrs) (Systems Support Access Role)
+
+Request for ‘Methylphenidate 5mg tablets’ by patient
+
+Request for ‘Concerta XL 54mg tablets (Janssen-Cilag Ltd)’ by patient
+Request for ‘Concerta XL 18mg tablets (Janssen-Cilag Ltd)’ by patient
+Request for ‘Lansoprazole 30mg gastro-resistant capsules’ by patient
+
+|07 Mar 2023 17:28
+
+| Surgery: TORBATI, Razi (Dr) (Clinical Practitioner Access Role)
+
+Methylphenidate 5mg tablets - 30 tablet - Take One daily as directed
+Concerta XL 54mg tablets (Janssen-Cilag Ltd) - 30 tablet - One to be Taken Each Morning (total 72mg)
+Concerta XL 18mg tablets (Janssen-Cilag Ltd) - 30 tablet - One To Be Taken Each Morning (total 72mg)
+Lansoprazole 30mg gastro-resistant capsules - 56 capsule - take one once daily
+
+ETP2 FP10: Not Yet Printed - Signed
+Summary Care Record Update
+13 Mar 2023
+
+Surgery: MIDDLEWEEK KELLY, Clare (Ms) (Systems Support
+
+Entered: 24 Mar 2023 13:45
+
+Access Role)
+
+Cardiology to The Seven Dials Medical Centre
+13 Mar 2023
+
+Surgery: MIDDLEWEEK KELLY, Clare (Ms) (Systems Support
+
+Entered: 27 Mar 2023 08:54
+
+Access Role)
+
+20 Mar 2023 10:52
+
+Surgery: BATES, Mimi (Miss) (Receptionist Access Role)
+
+20 Mar 2023 15:50
+
+Surgery: PUNJA, Al (Dr) (Clinical Practitioner Access Role)
+
+History: tore acl in right knee 7 years ago. Had reconstructive surgery.
+
+Now has same symptoms after slipping on wet floor 3 days ago. Swollen knee, swelling came up quickly, feels
+unstable, painful knee.
+
+Knee pain (Xa0wx) (SNOMED: 30989003)
+Plan: see f2f
+
+|20 Mar 2023 17:07
+
+| Surgery: PUNJA, Al (Dr) (Clinical Practitioner Access Role)
+
+|
+
+History: Right BTB ACL reconstruction in Jan 2017
+Knee pain (Xa0wx) (SNOMED: 30989003)
+Examination: Right knee - not red or hot, moderate effusion in knee joint, full rom of Knee without pain, no collateral
+liagament laxity, +ve anterior draw.
+
+Diagnosis: ? ACL damage
+Plan: Refer to ortho - he wishes to see Mr Robin Turner privately.
+
+Private Referral to Mr Robin Turner, Orthopaedic Surgeon
+
+|21 Mar 2023 07:46
+
+| Surgery: HEWSON, Michelle (Mrs) (Medical Secretary Access Role)
+
+|
+
+Private referral to Mr Turner emailed (only) to The Montefiore Hospital today at 07:50
+
+|22 Mar 2023 15:02
+
+| Surgery: BATES, Mimi (Miss) (Receptionist Access Role)
+
+|
+
+copy of ref emailed to patient
+
+|04 Apr 2023 10:54
+
+| Surgery: HADRYS, Sharon (Mrs) (Receptionist Access Role)
+
+|
+
+Reminder/Alert: notes received not coded - Priority: Normal
+
+14 Apr 2023
+
+Surgery: MIDDLEWEEK KELLY, Clare (Ms) (Systems Support
+
+Entered: 25 Apr 2023 09:49
+
+Access Role)
+
+Orthopaedics to Mr Benjamin Carter
+
+121 Apr 2023 10:47
+
+| Surgery: HORNEY, Christopher (Mr) (Systems Support Access Role)
+
+Thu 06 Mar 2025 12:14
+Confidential: Personal Data
+
+|
+
+Mr Benjamin Robert Carter "Ben"
+446 377 7232, 15 Apr 1987
+
+Printed by WOOD, Hayley (Systems Support Access Role)The Seven Dials Medical Centre
+
+121 Apr 2023 10:47
+
+13 of 45
+
+| Surgery: HORNEY, Christopher (Mr) (Systems Support Access Role)
+
+|
+
+Patient telephone number (9159.) (SNOMED: 184103008) - +447812766495
+Short message service text message sent to patient (XaMil) (SNOMED: 279991000000102)
+Dear Benjamin,
+
+Following your last appointment at Seven Dials Medical Centre we would appreciate your feedback:
+https:/Awww.thesevendialsmedicalcentre.co.uk/FriendsAndFamily/
+
+|26 Apr 2023 15:37
+
+| Surgery: TORBATI, Razi (Dr) (Clinical Practitioner Access Role)
+
+History: lesion in rt upperarm noted by patient today
+Examination: single small well defined lesion which is slightly red and inflamed
+Plan: benign lesion. patient was reassured. self limiting
+
+03 May 2023
+
+Surgery: MIDDLEWEEK KELLY, Clare (Ms) (Systems Support
+
+Entered: 16 May 2023 14:44
+
+Access Role)
+
+Orthopaedics to Mr Benjamin Carter
+
+|22 May 2023 12:11
+
+| Surgery: MARS, Isabelle (Receptionist Access Role)
+
+|
+
+Request for ‘Concerta XL 54mg tablets (Janssen-Cilag Ltd)’ by patient
+Request for ‘Methylphenidate 5mg tablets’ by patient
+
+Request for ‘Concerta XL 18mg tablets (Janssen-Cilag Ltd)’ by patient
+Request for ‘Lansoprazole 30mg gastro-resistant capsules’ by patient
+
+|22 May 2023 15:12
+
+—_| Surgery: LOBO, Sarah (Health Professional Access Role)
+
+|
+
+Concerta XL 54mg tablets (Janssen-Cilag Ltd) - 30 tablet - Take one tablet once daily in the morning (Total daily
+dose is 72mg once daily)
+
+Ended 19 Oct 2023 Re-Authorised by TORBATI, Razi (Dr)
+Methylphenidate 5mg tablets - 30 tablet - Take one tablet once daily
+
+Ended 19 Oct 2023 Re-Authorised by TORBATI, Razi (Dr)
+Concerta XL 18mg tablets (Janssen-Cilag Ltd) - 30 tablet - Take one tablet once daily in the morning (Total daily
+dose is 72mg once daily)
+
+Ended 19 Oct 2023 Re-Authorised by TORBATI, Razi (Dr)
+Summary Care Record Update
+
+|22 May 2023 16:04
+
+—_| Surgery: LOBO, Sarah (Health Professional Access Role)
+
+|
+
+History: Failed encounter - message left on answer machine (9N4F.) (SNOMED: 185340004)Tried to contact patient
+to discuss request for medications. Patient was last issued prescription on 07.03.23 for one month supply of
+medication, however called to query with patient how they are taking the medication as this supply would have run
+out in April. Unable to contact patient. Message left on voicemail.
+
+|22 May 2023 16:21
+
+| Surgery: LOBO, Sarah (Health Professional Access Role)
+
+|
+
+History: Telephone encounter (9N31.) (SNOMED: 185317003)with patient. Queried above with patient. Patient
+stated that he has been using Concerta 72mg XL most days, however finds that this keeps him awake late at night
+and so stated that on some days patient does not take concerta and only takes immediate release methylphenidate
+
+tablets. Task sent to CR to confirm if happy to prescribe medication for patient.
+
+|26 May 2023 16:30
+
+_| Surgery: ROBERTS, Chloe (Dr) (Clinical Practitioner Access Role)
+
+|
+
+Problem: Attention deficit hyperactivity disorder (XE2Q6) (SNOMED: 406506008) - First
+History: call to discuss ADHD medications, confirms is well controlled on regime as per psychiatry UK letter of 9/3/22
+
+and he is keen to continue, cardiology concerns have been addressed and has been diagnosed as OSA as cause of
+syx, sleep has now settled
+Plan: issued, advised if finds regime no longer controlling syx or needing changes will require input from specialist
+again
+
+Medication review done (XaF8d) (SNOMED: 314530002) - per psychiatry uk letter 9/3/22
+(R) Concerta XL 54mg tablets (Janssen-Cilag Ltd) - 30 tablet - Take one tablet once daily in the morning (Total daily
+dose is 72mg once daily)
+(R) Methylphenidate 5mg tablets - 30 tablet - Take one tablet once daily
+
+(R) Concerta XL 18mg tablets (Janssen-Cilag Ltd) - 30 tablet - Take one tablet once daily in the morning (Total daily
+dose is 72mg once daily)
+
+ETP2 FP10: Not Yet Printed - Signed
+Summary Care Record Update
+
+|26 May 2023 17:27
+
+_| Surgery: ROBERTS, Chloe (Dr) (Clinical Practitioner Access Role)
+
+Lansoprazole 30mg gastro-resistant capsules - 56 capsule - take one once daily
+
+ETP2 FP10: Not Yet Printed - Signed
+Summary Care Record Update
+31 May 2023 15:28
+
+Surgery: HORNEY, Christopher (Mr) (Systems Support Access Role)
+
+31 May 2023 15:28
+
+Surgery: HORNEY, Christopher (Mr) (Systems Support Access Role)
+
+Patient telephone number (9159.) (SNOMED: 184103008) - +447812766495
+Thu 06 Mar 2025 12:14
+Confidential: Personal Data
+
+Mr Benjamin Robert Carter "Ben"
+446 377 7232, 15 Apr 1987
+
+Printed by WOOD, Hayley (Systems Support Access Role)The Seven Dials Medical Centre
+
+14 of 45
+
+Short message service text message sent to patient (XaMil) (SNOMED: 279991000000102)
+Dear Benjamin,
+
+Following your recent appointment at Seven Dials Medical Centre we would appreciate your feedback:
+https:/Awww.thesevendialsmedicalcentre.co.uk/FriendsAndFamily/
+
+SMS sent on 31/05/2023 14:56:02
+
+110 Jul 2023 10:39
+
+| Surgery: HADRYS, Sharon (Mrs) (Receptionist Access Role)
+
+|
+
+(R) Methylphenidate 5mg tablets - 30 tablet - Take one tablet once daily
+
+(R) Concerta XL 54mg tablets (Janssen-Cilag Ltd) - 30 tablet - Take one tablet once daily in the morning (Total daily
+dose is 72mg once daily)
+
+(R) Concerta XL 18mg tablets (Janssen-Cilag Ltd) - 30 tablet - Take one tablet once daily in the morning (Total daily
+dose is 72mg once daily)
+
+ETP2 FP10: Not Yet Printed - Signed
+Summary Care Record Update
+
+101 Aug 2023 15:11
+
+| Surgery: HORNEY, Christopher (Mr) (Systems Support Access Role)
+
+Consent in notes: as per icb
+Consent out notes: as per icb
+SystmOne Incoming Record Sharing consent changed to: Not asked - Record shared
+SystmOne Outgoing Record Sharing consent changed to: Not asked - Record shared
+
+|01 Aug 2023 15:11
+
+| Surgery: Unknown Staff Member
+
+Entered at: Montpelier Surgery
+
+|
+
+SystmOne Outgoing Record Sharing consent changed to: Not asked - Record shared
+
+101 Aug 2023 15:11
+
+| Surgery: HORNEY, Christopher (Mr) (Systems Support Access Role)
+
+|
+
+SystmOne Outgoing Record Sharing consent changed to: Not asked - Record shared
+
+|07 Aug 2023 11:34
+
+|Surgery: BIRD, Paula (Mrs) (Systems Support Access Role)
+
+|
+
+(R) Methylphenidate 5mg tablets - 30 tablet - Take one tablet once daily
+
+(R) Concerta XL 54mg tablets (Janssen-Cilag Ltd) - 30 tablet - Take one tablet once daily in the morning (Total daily
+dose is 72mg once daily)
+
+(R) Concerta XL 18mg tablets (Janssen-Cilag Ltd) - 30 tablet - Take one tablet once daily in the morning (Total daily
+dose is 72mg once daily)
+
+ETP2 FP10: Not Yet Printed - Signed
+Summary Care Record Update
+
+|30 Aug 2023 09:12
+
+| Surgery: BATES, Mimi (Miss) (Receptionist Access Role)
+
+|
+
+Security Controlled Record Flag Amendment - No medical records (Previous Status)
+Medical Records Status - Records here
+
+|30 Aug 2023 09:12
+
+| Surgery: BATES, Mimi (Miss) (Receptionist Access Role)
+
+|
+
+Notes summary on computer (9344.) (SNOMED: 184229000)
+
+|21 Sep 2023 17:22
+
+| Surgery: STENNING, Daniella (Receptionist Access Role)
+
+|
+
+(R) Concerta XL 54mg tablets (Janssen-Cilag Ltd) - 30 tablet - Take one tablet once daily in the morning (Total daily
+dose is 72mg once daily)
+
+(R) Concerta XL 18mg tablets (Janssen-Cilag Ltd) - 30 tablet - Take one tablet once daily in the morning (Total daily
+dose is 72mg once daily)
+
+ETP2 FP10: Not Yet Printed - Signed
+Summary Care Record Update
+
+|05 Oct 2023 14:07
+
+| Surgery: STENNING, Daniella (Receptionist Access Role)
+
+(R) Methylphenidate 5mg tablets - 30 tablet - Take one tablet once daily
+
+ETP2 FP10: Not Yet Printed - Signed
+Summary Care Record Update
+
+116 Oct 2023 09:32
+
+| Surgery: MACK, Heidi (Mrs) (Health Professional Access Role)
+
+Summary Care Record Update
+19 Oct 2023 10:21
+
+Surgery: BIRD, Paula (Mrs) (Systems Support Access Role)
+
+19 Oct 2023 11:59
+
+Surgery: TORBATI, Razi (Dr) (Clinical Practitioner Access Role)
+
+(R) Concerta XL 54mg tablets (Janssen-Cilag Ltd) - 30 tablet - Take one tablet once daily in the morning (Total daily
+dose is 72mg once daily)
+
+(R) Concerta XL 18mg tablets (Janssen-Cilag Ltd) - 30 tablet - Take one tablet once daily in the morning (Total daily
+dose is 72mg once daily)
+
+Concerta XL 54mg tablets (Janssen-Cilag Ltd) - 30 tablet - Take one tablet once daily in the morning (Total daily
+dose is 72mg once daily)
+
+Ended 06 Mar 2024 Re-Authorised by TORBATI, Razi (Dr)
+Methylphenidate 5mg tablets - 30 tablet - Take one tablet once daily
+
+Ended 06 Mar 2024 Re-Authorised by TORBATI, Razi (Dr)
+Thu 06 Mar 2025 12:14
+Confidential: Personal Data
+
+Mr Benjamin Robert Carter "Ben"
+446 377 7232, 15 Apr 1987
+
+Printed by WOOD, Hayley (Systems Support Access Role)The Seven Dials Medical Centre
+
+15 of 45
+
+Concerta XL 18mg tablets (Janssen-Cilag Ltd) - 30 tablet - Take one tablet once daily in the morning (Total daily
+dose is 72mg once daily)
+
+Ended 06 Mar 2024 Re-Authorised by TORBATI, Razi (Dr)
+Lansoprazole 30mg gastro-resistant capsules - 28 capsule - Take one capsule once daily
+
+Ended 06 Mar 2024 Re-Authorised by TORBATI, Razi (Dr)
+ETP2 FP10: Not Yet Printed - Signed
+Summary Care Record Update
+
+121 Oct 2023
+
+| Surgery: KING, Kate (Mrs) (Receptionist Access Role)
+
+| Entered: 15 Nov 2023 17:03
+
+|
+
+| Entered: 15 Nov 2023 17:03
+
+|
+
+Neurology to The Seven Dials Medical Centre
+
+121 Oct 2023
+
+| Surgery: KING, Kate (Mrs) (Receptionist Access Role)
+
+Did not attend (XaikG) (SNOMED: 281399006) (Ongoing Episode)
+
+131 Oct 2023 16:09
+
+| Surgery: HORNEY, Christopher (Mr)
+
+|
+
+Enhanced review indicated before granting access to own health record (Y2ffe) (SNOMED: 1364731000000104) Added in bulk
+
+131 Oct 2023 16:24
+
+| Surgery: HORNEY, Christopher (Mr)
+
+|
+
+Enhanced review indicated before granting access to own health record (Y2ffe) (SNOMED: 1364731000000104) Added in bulk
+
+115 Nov 2023 14:16
+
+| Surgery: STENNING, Daniella (Receptionist Access Role)
+
+|
+
+(R) Methylphenidate 5mg tablets - 30 tablet - Take one tablet once daily
+
+(R) Concerta XL 54mg tablets (Janssen-Cilag Ltd) - 30 tablet - Take one tablet once daily in the morning (Total daily
+dose is 72mg once daily)
+
+(R) Concerta XL 18mg tablets (Janssen-Cilag Ltd) - 30 tablet - Take one tablet once daily in the morning (Total daily
+dose is 72mg once daily)
+
+ETP2 FP10: Not Yet Printed - Signed
+Summary Care Record Update
+
+115 Nov 2023 14:51
+
+| Surgery: STENNING, Daniella (Receptionist Access Role)
+
+|
+
+Reminder/Alert: Notes recieved, not yet coded 15/11/23 - Priority: Normal
+
+117 Nov 2023 17:36
+
+| Surgery: KING, Kate (Mrs) (Receptionist Access Role)
+
+|
+
+Notes summary on computer (9344.) (SNOMED: 184229000)
+
+|26 Nov 2023
+
+| Surgery: KING, Kate (Mrs) (Receptionist Access Role)
+
+| Entered: 28 Nov 2023 15:45
+
+|
+
+A&E to The Seven Dials Medical Centre
+26 Nov 2023
+
+Surgery: KING, Kate (Mrs) (Receptionist Access Role)
+
+Entered: 28 Nov 2023 15:46
+
+26 Nov 2023 09:55
+
+Surgery: KING, Kate (Mrs) (Receptionist Access Role)
+
+Entered: 28 Nov 2023 15:45
+
+Seen in accident and emergency department (9N19.) (SNOMED: 185210004)
+Sciatica (XE1FC) (SNOMED: 23056005)
+
+|30 Nov 2023 08:48
+
+| Surgery: TORBATI, Razi (Dr) (Clinical Practitioner Access Role)
+
+|
+
+History: lower back pain with raditionto rt leg since weekend. went to A&E and analgesics issued. they have been
+helpful but he has run out of them. no cauda equina signs
+feels low and down. stopped drinking alcohol 3 months ago but feels generally low. wonders if antidepressant could
+be considered. on meds for ADHD
+
+Diagnosis: task to pharmacists to check if it is safe to issue SSRI considering his current meds
+Plan: analgesic issued. adv given
+
+Co-codamol 30mg/500mg tablets - 56 tablet - take 1 or 2 4 times/day
+ETP2 FP10: Not Yet Printed - Signed
+Summary Care Record Update
+
+|06 Dec 2023 11:35
+
+| Surgery: MITCHELL, Philippa (Mrs) (Nurse Access Role)
+
+Problem: Sciatica (KE1FC) (SNOMED: 23056005)
+History: Ongoing as A&E initial consultation
+Able to move and exercise with Cocodamol but has run out
+Agree to further issue as making progress
+Also mentions he asked re starting antidepressant with current meds for ADHD
+
+| note following consultation Dr RT task and CB reply
+Plan: Patient to make appointment to discuss task information
+
+Sciatica (XE1FC) (SNOMED: 23056005)
+Co-codamol 30mg/500mg tablets - 56 tablet - take 1 or 2 4 times/day
+ETP2 Nurse Independent Prescriber FP10: Not Yet Printed - Signed
+Summary Care Record Update
+Sciatica (XE1FC) (SNOMED: 23056005)
+
+|13 Dec 2023 10:46
+
+| Surgery: TORBATI, Razi (Dr) (Clinical Practitioner Access Role)
+
+|
+
+History: Failed encounter - message left on answer machine (9N4F.) (SNOMED: 185340004)treid twice
+Thu 06 Mar 2025 12:14
+Confidential: Personal Data
+
+Mr Benjamin Robert Carter "Ben"
+446 377 7232, 15 Apr 1987
+
+Printed by WOOD, Hayley (Systems Support Access Role)The Seven Dials Medical Centre
+
+113 Dec 2023 11:00
+
+16 of 45
+
+| Surgery: TORBATI, Razi (Dr) (Clinical Practitioner Access Role)
+
+|
+
+History: lower back pains continue and analgesics help so he wishes further prescription
+
+Plan: pain killer issued but adv to book a F2F appointment with FCP if symptoms persist
+History: he will book a separate appointment to discuss antidepressant. | also informed him of his DNA appointment
+with neurologist but he preferred to discuss his pain management for back pain today due to limited time as | took
+the call as extra after failed earlier call
+
+Co-codamol 30mg/500mg tablets - 56 tablet - take 1 or 2 4 times/day
+ETP2 FP10: Not Yet Printed - Signed
+Summary Care Record Update
+
+|14 Dec 2023 09:58
+
+| Surgery: TORBATI, Razi (Dr) (Clinical Practitioner Access Role)
+
+History: feels low and down for some time. sober. on ADHD meds since 2022. spoke to pharmacy team at seven
+Dials and they replied. see task.
+
+Diagnosis: Depression NOS (XaB9J) (SNOMED: 35489007) (New Episode)
+Plan: patient is keen to try antidepressant. med issued. in case of poor response, he will need to contact a
+psychiatrist or a referral to them for advice
+
+Sertraline 50mg tablets - 28 tablet - od
+ETP2 FP10: Not Yet Printed - Signed
+Summary Care Record Update
+Repeat Template Marked in Error: Wrong data entered
+
+14 Dec 2023 09:58, Sertraline 50mg tablets, od, 28 tablet, , 14 Dec 2023-Not Ended, NHS medication
+18 Dec 2023 09:49
+
+Surgery: STENNING, Daniella (Receptionist Access Role)
+
+18 Dec 2023 10:53
+
+Surgery: CORBETT, Joe (Dr) (Clinical Practitioner Access Role)
+
+(R) Concerta XL 54mg tablets (Janssen-Cilag Ltd) - 30 tablet - Take one tablet once daily in the morning (Total daily
+dose is 72mg once daily)
+
+(R) Concerta XL 18mg tablets (Janssen-Cilag Ltd) - 30 tablet - Take one tablet once daily in the morning (Total daily
+dose is 72mg once daily)
+
+ETP2 FP10: Not Yet Printed - Signed
+Summary Care Record Update
+
+|18 Dec 2023 11:03
+
+| Surgery: BIRD, Paula (Mrs) (Systems Support Access Role)
+
+(R) Methylphenidate 5mg tablets - 30 tablet - Take one tablet once daily
+
+ETP2 Nurse Independent Prescriber FP10: Not Yet Printed - Signed
+Summary Care Record Update
+18 Dec 2023 15:12
+
+Surgery: HORNEY, Christopher (Mr) (Systems Support Access Role)
+
+18 Dec 2023 15:13
+
+Surgery: HORNEY, Christopher (Mr) (Systems Support Access Role)
+
+Patient telephone number (9159.) (SNOMED: 184103008) - 07812 766495
+Short message service text message sent to patient (XaMil) (SNOMED: 279991000000102)
+Dear Mr Carter,
+Using the link below, please would you be able to provide the surgery with an up to date height, weight, pulse and
+blood pressure reading, as the readings we have on record for you are out of date. This is a requirement to ensure
+the safe prescribing of your ADHD medication.
+lf you do not have a BP machine at home, please pop into the surgery to use the machine we have in our waiting
+room and kindly hand results in the reception or visit your local pharmacy.
+Please complete this questionnaire: (link will autogenerate here)
+
+Thanks, Chris Horney
+The Seven Dials Medical Centre
+
+|09 Jan 2024 09:59
+
+| Surgery: TORBATI, Razi (Dr) (Clinical Practitioner Access Role)
+
+History: patient is happy with sertraline and wishes to continue with it.
+
+Depression interim review (XakK6f) (SNOMED: 413973005)
+(R) Sertraline 50mg tablets - 28 tablet - od
+Sertraline 50mg tablets - 28 tablet - od
+Sertraline 50mg tablets - 28 tablet - Take one tablet daily
+Ended 06 Mar 2024 Re-Authorised by TORBATI, Razi (Dr)
+ETP2 FP10: Not Yet Printed - Signed
+ETP2 Nurse Independent Prescriber FP10: Not Yet Printed - Signed
+Summary Care Record Update
+
+112 Jan 2024 10:42
+
+| Surgery: STENNING, Daniella (Receptionist Access Role)
+
+(R) Methylphenidate 5mg tablets - 30 tablet - Take one tablet once daily
+
+(R) Concerta XL 54mg tablets (Janssen-Cilag Ltd) - 30 tablet - Take one tablet once daily in the morning (Total daily
+dose is 72mg once daily)
+
+(R) Concerta XL 18mg tablets (Janssen-Cilag Ltd) - 30 tablet - Take one tablet once daily in the morning (Total daily
+dose is 72mg once daily)
+
+Thu 06 Mar 2025 12:14
+Confidential: Personal Data
+
+Mr Benjamin Robert Carter "Ben"
+446 377 7232, 15 Apr 1987
+
+Printed by WOOD, Hayley (Systems Support Access Role)The Seven Dials Medical Centre
+
+17 of 45
+
+ETP2 FP10: Not Yet Printed - Signed
+Summary Care Record Update
+
+|30 Jan 2024 08:06
+
+| Surgery: HEWSON, Michelle (Mrs) (Medical Secretary Access Role)
+
+|
+
+Request from "Cordell & Co" for a copy of the patient's note in connection with an accident on 18/3/23.
+Passed to RT for his authorisation to release the information
+
+31 Jan 2024 11:37
+
+Surgery: HORNEY, Christopher (Mr) (Systems Support Access Role)
+
+31 Jan 2024 11:37
+
+Surgery: HORNEY, Christopher (Mr) (Systems Support Access Role)
+
+Patient telephone number (9159.) (SNOMED: 184103008) - +447812766495
+Short message service text message sent to patient (XaMil) (SNOMED: 279991000000102)
+Dear Mr Carter,
+Following your recent appointment at Seven Dials Medical Centre we would appreciate your feedback:
+https:/Awww.thesevendialsmedicalcentre.co.uk/nhs-friends-and-family-test/
+
+The Seven Dials Medical Centre
+SMS sent on 31/01/2024 10:40:00
+01 Feb 2024 10:04
+
+Surgery: HORNEY, Christopher (Mr) (Systems Support Access Role)
+
+01 Feb 2024 10:04
+
+Surgery: HORNEY, Christopher (Mr) (Systems Support Access Role)
+
+Patient telephone number (9159.) (SNOMED: 184103008) - +447812766495
+Short message service text message sent to patient (XaMil) (SNOMED: 279991000000102)
+Dear Mr Carter,
+Starting today all patients will be able to pop to their local community pharmacy for help and treatment with SEVEN
+minor conditions; sore throats, earache in children, sinusitis, infected insect bites, impetigo, shingles, and urinary
+tract infections in women. If you need treatment for any of these minor conditions, please think Pharmacy First!
+https:/Awww.nhs.uk/nhs-services/pharmacies/how-pharmacies-can-help/
+
+The Seven Dials Medical Centre
+SMS sent on 31/01/2024 15:25:20
+09 Feb 2024 08:22
+
+Surgery: HORNEY, Christopher (Mr) (Systems Support Access Role)
+
+09 Feb 2024 08:22
+
+Surgery: HORNEY, Christopher (Mr) (Systems Support Access Role)
+
+Online questionnaire not completed by patient
+Link expired on 25/12/2023 at 15:13
+
+|12 Feb 2024 07:24
+
+| Surgery: STENNING, Daniella (Receptionist Access Role)
+
+|
+
+(R) Concerta XL 54mg tablets (Janssen-Cilag Ltd) - 30 tablet - Take one tablet once daily in the morning (Total daily
+dose is 72mg once daily)
+(R) Methylphenidate 5mg tablets - 30 tablet - Take one tablet once daily
+
+(R) Concerta XL 18mg tablets (Janssen-Cilag Ltd) - 30 tablet - Take one tablet once daily in the morning (Total daily
+dose is 72mg once daily)
+
+ETP2 Nurse Independent Prescriber FP10: Not Yet Printed - Signed
+Summary Care Record Update
+14 Feb 2024 08:00
+
+Surgery: STENNING, Daniella (Receptionist Access Role)
+
+14 Feb 2024 15:52
+
+Surgery: JONES, Gemma (Miss) (Health Professional Access Role)
+
+ETP Medication Cancellation Sent
+Summary Care Record Update
+
+|14 Feb 2024 16:02
+
+| Surgery: JONES, Gemma (Miss) (Health Professional Access Role)
+
+|
+
+ETP2 FP10: Printed On Wed 14 Feb 2024 16:47 By Dr Razi Torbati - Signed
+Summary Care Record Update
+
+114 Feb 2024 16:03
+
+| Surgery: JONES, Gemma (Miss) (Health Professional Access Role)
+
+|
+
+History: Telephone encounter (9N31.) (SNOMED: 185317003)
+Task from reception, Ashton's unable to dispense Concerta 18mg they have marked as not dispensed on script, item
+cancelled.
+Phoned Matlock pharmacy confirmed they have stock, issued an acute prescription for the 18mg tablets.
+Phoned Ben but no answer, sent text
+
+114 Feb 2024 16:10
+
+| Surgery: JONES, Gemma (Miss) (Health Professional Access Role)
+
+Patient telephone number (9159.) (SNOMED: 184103008) - 07812 766495
+Short message service text message sent to patient (XaMil) (SNOMED: 279991000000102)
+Dear Mr Carter,
+| tried calling today regarding your medication query, | phoned a few pharmacies in the area and Matlock pharmacy
+
+confirmed they have stock. | have issued an acute prescription for the Concerta 18mg tablets which is awaiting
+signing by the GP, so should be available later on this afternoon, the prescription barcode is:
+A7B8C6-G81047-147F91
+Thu 06 Mar 2025 12:14
+Confidential: Personal Data
+
+Mr Benjamin Robert Carter "Ben"
+446 377 7232, 15 Apr 1987
+
+Printed by WOOD, Hayley (Systems Support Access Role)The Seven Dials Medical Centre
+Matlock pharmacy:
+
+18 of 45
+
+12 Matlock Rd, Brighton BN1 5BF
+
+Best wishes,
+
+Gemma
+Pharmacy Technician
+The Seven Dials Medical Centre
+
+|22 Feb 2024
+
+| Surgery. MACKENZIE, Ross (Administrator)
+
+| Entered: 25 Feb 2024 20:34
+
+|
+
+| Entered: 25 Feb 2024 20:34
+
+|
+
+Medical Report to The Seven Dials Medical Centre
+
+|22 Feb 2024
+
+| Surgery. MACKENZIE, Ross (Administrator)
+
+Medical reports sent (9EX..) (SNOMED: 185008008) (New Episode)
+
+|22 Feb 2024 09:53
+
+| Surgery: HEWSON, Michelle (Mrs) (Medical Secretary Access Role)
+
+|
+
+A redacted PDF copy of this patient 's medical record has been emailed to "Cordell & Co Solicitors" today at 09:53
+26 Feb 2024
+
+Surgery: HEWSON, Michelle (Mrs) (Medical Secretary Access
+
+Entered: 28 Feb 2024 07:58
+
+Role)
+
+SOLICITORS to Mrs Michelle Hewson
+
+|26 Feb 2024 09:10
+
+| Surgery: NEAL, Cara (Dr) (Clinical Practitioner Access Role)
+
+|
+
+History: went to matlock pharmacy and they didnt have the concerta and didnt understand the barcode he gave.
+he tells me he went on holiday, didnt have meds, tried a friends, felt it worked a lot better really keen to try this. will
+need pscyh to assess we agree nhs referral in for
+
+medication review. tablet is pale yellow, has 4 MMMM
+
+| advise | cannot recommend he continues to take these alternatives at the moment, to let us know if he finds out
+more about the medication. tells me his pharamcy has a "similar" medication to the concerta XL in stock. | ask
+
+Gemma pharamcy tech if she can help us work out what we can do next.
+
+|26 Feb 2024 09:32
+
+| Surgery: JONES, Gemma (Miss) (Health Professional Access Role)
+
+|
+
+Concerta XL 18mg tablets (Janssen-Cilag Ltd) - 30 tablet - take one each morning (total daily dose is 72mg once
+daily)
+
+ETP Medication Cancellation Sent
+ETP2 FP10: Not Yet Printed - Signed
+Summary Care Record Update
+
+|26 Feb 2024 09:55
+
+| Surgery: STENNING, Daniella (Receptionist Access Role)
+
+|
+
+Medication Marked in Error: At the Pharmacist's request
+
+14 Feb 2024 16:02, Concerta XL 18mg tablets (Janssen-Cilag Ltd), Take one tablet once daily in the morning (total
+daily dose is 72mg once daily), 30 tablet, 0
+
+|26 Feb 2024 09:56
+
+| Surgery: JONES, Gemma (Miss) (Health Professional Access Role)
+
+|
+
+History: Telephone encounter (9N31.) (SNOMED: 185317003) with Ben, unsure what has happened with the Rx
+from 14th Feb, | have now cancelled and re-issued as Ashton's have one box in stock at the moment. He's happy to
+
+have the Concerta tablets, looked into what the yellow tablets he'd borrowed from his friend were but can't find any
+info
+
+|26 Feb 2024 12:08
+
+| Surgery: HEWSON, Michelle (Mrs) (Medical Secretary Access Role)
+
+|
+
+Choose and book referral (XaOwL) (SNOMED: 343121000000108)
+Choice and booking enhanced services administration (XaMJa) (SNOMED: 222711000000102)
+tif: Benjamin Carter 4463777232 27 Jul 2020 by Miss . Docman 3426554082.
+TIF
+tif: Benjamin Carter 4463777232 09 Mar 2022 by Miss . Docman 3426554111.TIF
+tif: Benjamin Carter 4463777232 06 Aug 2020 by Miss . Docman 3426554078.
+TIF
+tif: Benjamin Carter 4463777232 05 Aug 2020 by Miss . Docman 3426554079.TIF
+Hospital ATS
+Choose And Book Referral to ATS
+Hospital ATS updated: Waiting For Information
+Summary Care Record Update
+
+|04 Mar 2024 07:43
+
+| Surgery: STENNING, Daniella (Receptionist Access Role)
+
+(R) Sertraline 50mg tablets - 28 tablet - Take one tablet daily
+ETP2 Nurse Independent Prescriber FP10: Not Yet Printed - Signed
+Summary Care Record Update
+06 Mar 2024 07:40
+
+Surgery: HADRYS, Sharon (Mrs) (Receptionist Access Role)
+
+06 Mar 2024 07:49
+
+Surgery: STENNING, Daniella (Receptionist Access Role)
+
+(R) Methylphenidate 5mg tablets - 30 tablet - Take one tablet once daily
+
+ETP2 FP10: Not Yet Printed - Signed
+Summary Care Record Update
+06 Mar 2024 11:34
+
+Surgery: STENNING, Daniella (Receptionist Access Role)
+
+06 Mar 2024 11:37
+
+Surgery: STENNING, Daniella (Receptionist Access Role)
+
+Patient telephone number (9159.) (SNOMED: 184103008) - 07812 766495
+Short message service text message sent to patient (XaMil) (SNOMED: 279991000000102)
+Thu 06 Mar 2025 12:14
+Confidential: Personal Data
+
+Mr Benjamin Robert Carter "Ben"
+446 377 7232, 15 Apr 1987
+
+Printed by WOOD, Hayley (Systems Support Access Role)The Seven Dials Medical Centre
+
+19 of 45
+
+Dear Mr Carter,
+Please can you send us
+weight/Height/Pulse and BP
+Thanks,
+
+The Seven Dials Medical Centre
+
+|06 Mar 2024 17:32
+
+| Surgery: TORBATI, Razi (Dr) (Clinical Practitioner Access Role)
+
+History: pulse: 72 BPM
+Weight: 11 stone.
+Height:170 cm
+
+O/E - weight (22A..) (SNOMED: 27113001) 77.02 Kg (~ 12 st 2 Ib)
+O/E - height (229..) (SNOMED: 248333004) 1.702 m (~ 5' 7")
+(R) Methylphenidate 5mg tablets - 30 tablet - Take one tablet once daily
+Methylphenidate 5mg tablets - 30 tablet - Take one tablet once daily
+
+Ended 09 Apr 2024 Change to medication treatment regime by TORBATI, Razi (Dr)
+Concerta XL 54mg tablets (Janssen-Cilag Ltd) - 30 tablet - Take one tablet once daily in the morning (Total daily
+dose is 72mg once daily)
+
+Ended 09 Apr 2024 Change to medication treatment regime by TORBATI, Razi (Dr)
+Concerta XL 18mg tablets (Janssen-Cilag Ltd) - 30 tablet - Take one tablet once daily in the morning (Total daily
+dose is 72mg once daily)
+
+Ended 09 Apr 2024 Change to medication treatment regime by TORBATI, Razi (Dr)
+Lansoprazole 30mg gastro-resistant capsules - 28 capsule - Take one capsule once daily
+
+Sertraline 50mg tablets - 28 tablet - Take one tablet daily
+Ended 11 Sep 2024 Change to medication treatment regime by TORBATI, Razi (Dr)
+ETP2 FP10: Not Yet Printed - Signed
+Summary Care Record Update
+12 Mar 2024 12:12
+
+Surgery: HADRYS, Sharon (Mrs) (Receptionist Access Role)
+
+19 Mar 2024 10:17
+
+Surgery: MITCHELL, Philippa (Mrs) (Nurse Access Role)
+
+Problem: Attention deficit hyperactivity disorder (XE2Q6) (SNOMED: 406506008) - First
+History: See slot request- this is about unavailable medication
+D/w GJ and she will deal
+
+119 Mar 2024 10:21
+
+| Surgery: JONES, Gemma (Miss) (Health Professional Access Role)
+
+|
+
+Xaggitin XL 18mg tablets (Ethypharm UK Ltd) - 30 tablet - take one each morning (total dose is 72mg once daily)
+Xaggitin XL 54mg tablets (Ethypharm UK Ltd) - 30 tablet - take one each morning (total daily dose is 72mg once
+daily)
+
+ETP Medication Cancellation Sent
+ETP Medication Cancellation Sent
+ETP Medication Cancellation Sent
+ETP2 Nurse Independent Prescriber FP10: Not Yet Printed - Signed
+Summary Care Record Update
+
+119 Mar 2024 10:41
+
+| Surgery: HADRYS, Sharon (Mrs) (Receptionist Access Role)
+
+|
+
+Medication Marked in Error: At the Pharmacist's request
+
+06 Mar 2024 17:32, Concerta XL 18mg tablets (Janssen-Cilag Ltd), Take one tablet once daily in the morning (Total
+daily dose is 72mg once daily), 30 tabletPlease arrange an appointment for your twice yearly cardiovascular
+monitoring (including blood pressure, pulse and weight check) every February and August. This is necessary in order
+to continue prescribing your ADHD medication safely, 0
+
+119 Mar 2024 10:41
+
+| Surgery: HADRYS, Sharon (Mrs) (Receptionist Access Role)
+
+|
+
+Medication Marked in Error: At the Pharmacist's request
+
+06 Mar 2024 17:32, Concerta XL 54mg tablets (Janssen-Cilag Ltd), Take one tablet once daily in the morning (Total
+daily dose is 72mg once daily), 30 tabletPlease arrange an appointment for your twice yearly cardiovascular
+monitoring (including blood pressure, pulse and weight check) every February and August. This is necessary in order
+to continue prescribing your ADHD medication safely, 0
+
+119 Mar 2024 10:44
+
+| Surgery: JONES, Gemma (Miss) (Health Professional Access Role)
+
+|
+
+History: Telephone encounter (9N31.) (SNOMED: 185317003)
+Spoken with Ashtons pharmacy, told me they are able to dispense Xaggitin
+Acute script done, phoned Ben and explained issue apologised for delay, he is aware of the shortage
+
+|26 Mar 2024 13:07
+
+| Surgery: STENNING, Daniella (Receptionist Access Role)
+
+(R) Sertraline 50mg tablets - 28 tablet - Take one tablet daily
+ETP2 FP10: Not Yet Printed - Signed
+Summary Care Record Update
+
+|27 Mar 2024
+
+| Surgery: MACKENZIE, Ross (Administrator)
+
+Thu 06 Mar 2025 12:14
+Confidential: Personal Data
+
+| Entered: 14 May 2024 13:21
+Mr Benjamin Robert Carter "Ben"
+446 377 7232, 15 Apr 1987
+
+|
+
+Printed by WOOD, Hayley (Systems Support Access Role)The Seven Dials Medical Centre
+
+20 of 45
+
+Mental Health to The Seven Dials Medical Centre
+
+|27 Mar 2024
+
+| Surgery: MACKENZIE, Ross (Administrator)
+
+| Entered: 13 May 2024 09:50 |
+
+Assessments to The Seven Dials Medical Centre
+
+|27 Mar 2024
+
+| Surgery: MACKENZIE, Ross (Administrator)
+
+| Entered: 13 May 2024 18:26 |
+
+Low risk of self neglect (Xalv2) (SNOMED: 401234001) (New Episode)
+O/E - weight (22A..) (SNOMED: 27113001) 78 Kg (~ 12 st 4 Ib) (Ongoing Episode)
+Mental health assessment (XalYN) (SNOMED: 391281002) (New Episode)
+Low risk of harm to others (XagSY) (SNOMED: 406555004) (New Episode)
+Low suicide risk (XaleX) (SNOMED: 394687007) (New Episode)
+111 / 70 mmHg
+
+27 Mar 2024
+
+Surgery: DICKINSON, Dharam (Dr) (Clinical Practitioner Access
+
+Entered: 13 May 2024 18:26
+
+Role)
+
+27 Mar 2024
+
+Surgery: MACKENZIE, Ross (Administrator)
+
+Entered: 16 May 2024 15:34
+
+Mental health assessment (XalYN) (SNOMED: 391281002) (Ongoing Episode)
+Low suicide risk (XaleX) (SNOMED: 394687007) (Ongoing Episode)
+Low risk of harm to others (XagSY) (SNOMED: 406555004) (Ongoing Episode)
+27 Mar 2024
+
+Surgery: FITZGERALD, Thomas (Health Professional Access
+
+Entered: 16 May 2024 15:34
+
+Role)
+
+30 Mar 2024
+
+Surgery: MACKENZIE, Ross (Administrator)
+
+Entered: 14 May 2024 13:26
+
+Mental Health to The Seven Dials Medical Centre
+
+|30 Mar 2024
+
+| Surgery: MACKENZIE, Ross (Administrator)
+
+| Entered: 14 May 2024 13:25 |
+
+Mental Health to The Seven Dials Medical Centre
+30 Mar 2024
+
+Surgery: FITZGERALD, Thomas (Health Professional Access
+
+Entered: 16 May 2024 15:30
+
+Role)
+
+30 Mar 2024
+
+Surgery: MACKENZIE, Ross (Administrator)
+
+Entered: 15 May 2024 09:28
+
+30 Mar 2024
+
+Surgery: STENNING, Daniella (Receptionist Access Role)
+
+Entered: 15 May 2024 09:28
+
+30 Mar 2024
+
+Surgery: MACKENZIE, Ross (Administrator)
+
+Entered: 16 May 2024 15:30
+
+Shared care 1 of 2
+
+Shared care 2of2
+08 Apr 2024 10:34
+
+Surgery: STENNING, Daniella (Receptionist Access Role)
+
+09 Apr 2024 15:33
+
+Surgery: TORBATI, Razi (Dr) (Clinical Practitioner Access Role)
+
+History: problems with ADHD meds. concerta is not available. side effect with headache after taking
+methylphenodate. wishes to try xaggitin again
+(R) Xaggitin XL 18mg tablets (Ethypharm UK Ltd) - 30 tablet - take one each morning (total dose is 72mg once daily)
+(R) Xaggitin XL 54mg tablets (Ethypharm UK Ltd) - 30 tablet - take one each morning (total daily dose is 72mg once
+daily)
+
+Patient Plan - currently on Xaggitin for ADHD. switched from Concerta as it was not available. also side effect with
+headache with Methylphenodate.
+Xaggitin XL 18mg tablets (Ethypharm UK Ltd) - 30 tablet - take one each morning (total dose is 72mg once daily)
+
+Ended 28 Jan 2025 Clinical grounds (More appropriate prescribing 2x36mg) by MACK, Heidi (Mrs)
+Xaggitin XL 54mg tablets (Ethypharm UK Ltd) - 30 tablet - take one each morning (total daily dose is 72mg once
+daily)
+
+Ended 28 Jan 2025 Clinical grounds (More appropriate prescribing 2x36mg) by MACK, Heidi (Mrs)
+ETP2 FP10: Not Yet Printed - Signed
+Summary Care Record Update
+New Patient Plan
+16 Apr 2024 08:17
+
+Surgery: STENNING, Daniella (Receptionist Access Role)
+
+16 Apr 2024 09:35
+
+Surgery: CORBETT, Joe (Dr) (Clinical Practitioner Access Role)
+
+Clinical history and observations (X76sV) (SNOMED: 250171008) - Requesting methylphenidate but needs tci for
+monitoring.
+
+116 Apr 2024 17:59
+
+| Surgery: CORBETT, Joe (Dr) (Clinical Practitioner Access Role)
+
+Methylphenidate 5mg tablets - 30 tablet - Take one tablet once daily
+
+ETP2 FP10: Not Yet Printed - Signed
+Summary Care Record Update
+
+|24 Apr 2024 10:10
+
+| Surgery: COLLINS, Victoria (Ms)
+
+| Entered: 24 Apr 2024 10:34
+
+Did not attend for Session appointment with Ms Victoria Collins.
+Did not attend (Xa1kG) (SNOMED: 281399006)
+Reminder/Alert: Did not attend for Session appointment with Ms Victoria Collins.
+Please inform the patient that if they cannot attend an appointment in the future they should inform staff so that it can
+
+be cancelled ASAP. - Priority: Normal
+Thu 06 Mar 2025 12:14
+
+Confidential: Personal Data
+
+Mr Benjamin Robert Carter "Ben"
+446 377 7232, 15 Apr 1987
+
+Printed by WOOD, Hayley (Systems Support Access Role)The Seven Dials Medical Centre
+
+21 of 45
+
+24 Apr 2024 10:34
+
+Surgery: COLLINS, Victoria (Ms) (Healthcare Student Access Role)
+
+24 Apr 2024 14:43
+
+Surgery: CORBETT, Joe (Dr) (Clinical Practitioner Access Role)
+
+Summary Care Record Update
+
+|30 Apr 2024
+
+| Surgery: MACKENZIE, Ross (Administrator)
+
+| Entered: 30 Apr 2024 13:18
+
+|
+
+Psychiatry to The Seven Dials Medical Centre
+Surgery: FITZGERALD, Thomas (Health Professional Access
+
+30 Apr 2024
+
+Entered: 02 May 2024 12:46
+
+Role)
+02 May 2024 08:46
+
+Surgery: BIRD, Paula (Mrs) (Systems Support Access Role)
+
+(R) Sertraline 50mg tablets - 28 tablet - Take one tablet daily
+ETP2 FP10: Not Yet Printed - Signed
+Summary Care Record Update
+02 May 2024 12:41
+
+Surgery: FITZGERALD, Thomas (Health Professional Access Role)
+
+02 May 2024 12:45
+
+Surgery: FITZGERALD, Thomas (Health Professional Access Role)
+
+Dear Colleague,
+RE: Ben Carter, 15-Apr-1987, 446 377 7232, Male
+Thank you for your email regarding this patient. Could we have a copy of a signed SCA for methylphenidate as he is
+no longer open to private psychiatrists and have annual reviews with yourselves?
+Thanks,
+
+The Seven Dials Medical Centre
+Attachments:
+
+Methylphenidate-SHCP-APC-Shared-Care-Protocol-v1.docx
+Email sent to outside agency (XaJHC) (SNOMED: 408562003) - spnt.westatsadmin@nhs.net
+
+|03 May 2024 08:16
+
+| Surgery: STENNING, Daniella (Receptionist Access Role)
+
+(R) Xaggitin XL 18mg tablets (Ethypharm UK Ltd) - 15 tablet - take one each morning (total dose is 72mg once daily)
+(R) Xaggitin XL 54mg tablets (Ethypharm UK Ltd) - 15 tablet - take one each morning (total daily dose is 72mg once
+daily)
+
+ETP2 FP10: Not Yet Printed - Signed
+Summary Care Record Update
+03 May 2024 09:08
+
+Surgery: STENNING, Daniella (Receptionist Access Role)
+
+03 May 2024 12:38
+
+Surgery: TORBATI, Razi (Dr) (Clinical Practitioner Access Role)
+
+(R) Xaggitin XL 18mg tablets (Ethypharm UK Ltd) - 15 tablet - take one each morning (total dose is 72mg once daily)
+(R) Xaggitin XL 54mg tablets (Ethypharm UK Ltd) - 15 tablet - take one each morning (total daily dose is 72mg once
+daily)
+
+ETP2 FP10: Not Yet Printed - Signed
+Summary Care Record Update
+09 May 2024 14:51
+
+Surgery: FOSSEY, Georgina (Mrs) (Receptionist Access Role)
+
+09 May 2024 18:21
+
+Surgery: DICKINSON, Dharam (Dr) (Clinical Practitioner Access Role)
+
+methylphen requested by pt, see psych letter, 5mg od, has bt etc coming up 14th may.
+(R) Methylphenidate 5mg tablets - 30 tablet - Take one tablet once daily
+Methylphenidate 5mg tablets - 30 tablet - Take one tablet once daily
+
+Ended 30 May 2024 Re-Authorised by FITZGERALD, Thomas
+ETP2 FP10: Not Yet Printed - Signed
+Pathology Request (Awaiting Sample):
+Electrolytes & Creatinine (Postponed), Full blood count (Postponed), Haemoglobin A1c level (Postponed), Liver
+function Test (Postponed), Lipid profile, Random (Postponed)
+
+Summary Care Record Update
+
+114 May 2024
+
+| Surgery: MACKENZIE, Ross (Administrator)
+
+| Entered: 19 May 2024 20:50 |
+
+Shared Care Drug Treatment to The Seven Dials Medical Centre
+
+114 May 2024 10:50
+
+| Surgery: COLLINS, Victoria (Ms)
+
+|Entered: 14 May 2024 11:11
+
+Did not attend for HCA Clinic appointment with Ms Victoria Collins.
+Did not attend (Xa1kG) (SNOMED: 281399006)
+Reminder/Alert: Did not attend for HCA Clinic appointment with Ms Victoria Collins.
+Please inform the patient that if they cannot attend an appointment in the future they should inform staff so that it can
+
+be cancelled ASAP. - Priority: Normal
+14 May 2024 11:08
+
+Surgery: COLLINS, Victoria (Ms) (Healthcare Student Access Role)
+
+14 May 2024 14:16
+
+Surgery: TORBATI, Razi (Dr) (Clinical Practitioner Access Role)
+
+Pathology Request (Awaiting Sample):
+Electrolytes & Creatinine (Postponed), Full blood count (Postponed), Liver function Test (Postponed)
+14 May 2024 14:28
+
+Surgery: COLLINS, Victoria (Ms) (Healthcare Student Access Role)
+
+14 May 2024 14:31
+
+Surgery: COLLINS, Victoria (Ms) (Healthcare Student Access Role)
+
+Thu 06 Mar 2025 12:14
+
+Confidential: Personal Data
+
+M r Benjamin Robert Carter "Ben"
+446 377 7232, 15 Apr 1987
+
+|
+
+Printed by WOOD, Hayley (Systems Support Access Role)The Seven Dials Medical Centre
+
+22 of 45
+
+Short message service text message sent to patient (XaMil) (SNOMED: 279991000000102)
+Dear Mr Carter,
+We are aware that you did not attend your recent appointment. Please read the attached letter explaining what
+happens next.
+
+TO RESPOND, please follow this link: (link will autogenerate here)
+Thanks, Vicky Collins
+The Seven Dials Medical Centre
+Patient telephone number (9159.) (SNOMED: 184103008) - 07812 766495
+
+114 May 2024 14:32
+
+__|Surgery: COLLINS, Victoria (Ms) (Healthcare Student Access Role)
+
+|
+
+Letter to Patients to Mr Benjamin Carter
+14 May 2024 14:34
+
+Surgery: COLLINS, Victoria (Ms) (Healthcare Student Access
+
+Entered: 14 May 2024 16:16
+
+Role)
+History: 2nd dna for monitoring, task to Dr Dickinson to inform as he was following up
+
+114 May 2024 14:34
+
+—_|Surgery: COLLINS, Victoria (Ms) (Healthcare Student Access Role)
+
+|
+
+Patient telephone number (9159.) (SNOMED: 184103008) - 07812 766495
+Short message service text message sent to patient (XaMil) (SNOMED: 279991000000102)
+Dear Mr Carter,
+To view your attachment, please follow this link: (link will autogenerate here)
+
+Thanks, Vicky Collins
+The Seven Dials Medical Centre
+Attachments: Letter to Patients.doc
+
+114 May 2024 17:13
+
+|Surgery: TORBATI, Razi (Dr) (Clinical Practitioner Access Role)
+
+|
+
+History: patient is burnt out and stressed due to a lot of thgings going on in his life and work. also problems with
+getting his ADHD med. tried many pharmacies and not able to get
+
+Xaggitin Xl 54 mg. he wonders if | could give him
+
+Methyphenidate instead
+Plan: | informed him that we are unable to provide any other meds and he is not due to receive his meds until next
+month. also he is due for blood tests and he has DNAed twice
+
+eMED3 (2010) new statement issued, not fit for work (XaX1E) (SNOMED: 751481000000104)
+PNG Image: MED3Statement.png
+New MED3 statement issued: Not fit for work - Valid from 14 May 2024 to 27 May 2024
+Diagnosis: stress
+
+115 May 2024
+
+| Surgery: MACKENZIE, Ross (Administrator)
+
+| Entered: 05 Jun 2024 21:20
+
+|
+
+| Entered: 05 Jun 2024 21:20
+
+|
+
+Cardiac to The Seven Dials Medical Centre
+
+115 May 2024
+
+| Surgery: MACKENZIE, Ross (Administrator)
+
+Failed encounter (9N4..) (SNOMED: 185324002) (New Episode)
+15 May 2024 13:44
+
+Surgery: RHOADES, Lynn (Mrs) (Receptionist Access Role)
+
+15 May 2024 13:46
+
+Surgery: RHOADES, Lynn (Mrs) (Receptionist Access Role)
+
+Patient telephone number (9159.) (SNOMED: 184103008) - 07812 766495
+Short message service text message sent to patient (XaMil) (SNOMED: 279991000000102)
+Dear Mr Carter,
+Please can you contact the seven dials medical centre so we can book a blood test appointment and an ECG at the
+surgery
+
+The Reception Team
+
+The Seven Dials Medical Centre
+15 May 2024 13:54
+
+Surgery: DICKINSON, Dharam (Dr) (Clinical Practitioner Access Role)
+
+16 May 2024 11:58
+
+Surgery: HORNEY, Christopher (Mr) (Systems Support Access Role)
+
+16 May 2024 14:38
+
+Surgery: FITZGERALD, Thomas (Health Professional Access Role)
+
+History: Attention deficit hyperactivity disorder (KE2Q6) (SNOMED: 406506008)Telephone encounter (9N31.)
+(SNOMED: 185317003)
+Examination: Discussion around ADHD medication prescribing and SCA from NHS team. They requested ECG/BT,
+BT not indicated and ECG not indicated at this stage (patient has cardioligst input and all fine)
+Diagnosis: Plan to send patient Terms and conditions of SCA. Low on IR but patient not to have anymore as XL
+generic to be issued acute.
+
+Plan: XL generic for both strenghts acute to EPS any. Send patient Terms and NHS number so he can collect
+tomorrow.
+
+(R) Methylphenidate 54mg modified-release tablets - 30 tablet - take one each morning
+(R) Methylphenidate 18mg modified-release tablets - 30 tablet - take one each morning
+Methylphenidate 54mg modified-release tablets - 30 tablet - take one each morning
+
+Thu 06 Mar 2025 12:14
+Confidential: Personal Data
+
+Mr Benjamin Robert Carter "Ben"
+446 377 7232, 15 Apr 1987
+
+Printed by WOOD, Hayley (Systems Support Access Role)The Seven Dials Medical Centre
+
+23 of 45
+
+Ended 10 Oct 2024 At the Pharmacist's request by DICKINSON, Dharam (Dr)
+Methylphenidate 18mg modified-release tablets - 30 tablet - take one each morning
+
+Ended 30 May 2024 Prescribing error by FITZGERALD, Thomas
+ETP2 FP10: Printed On Thu 16 May 2024 17:05 By Dr Razi Torbati - Signed
+Summary Care Record Update
+
+116 May 2024 15:27.
+
+_ | Surgery: FITZGERALD, Thomas (Health Professional Access Role)
+
+|
+
+History: High risk drug monitoring - shared care (XaL2z) (SNOMED: 205801000000109)Shared care - consultant
+and GP (XE1TD) (SNOMED: 268529002)
+Summary Care Record Update
+
+116 May 2024 15:28
+
+—_| Surgery: FITZGERALD, Thomas (Health Professional Access Role)
+
+|
+
+Short message service text message sent to patient (XaMil) (SNOMED: 279991000000102)
+Dear Mr Carter,
+The surgery has agreed to enter into shared care with ATS for your methylphenidate and it has been added to your
+repeat medication list and can be requested when due. By accepting prescriptions from the surgery you sign up to
+agreeing the following terms as required by the shared care agreement:
+
+http://unimed.co.uk/wp-content/uploads/2023/05/Patient-Contract-ADHD-Treatment-f1b639de-4338-4321-95b3-edf1
+1b630805.pdf
+
+As discussed your NHS number is 4463777232 and the prescription has been sent to any pharmacy to download
+Thanks,
+
+The Seven Dials Medical Centre
+Patient telephone number (9159.) (SNOMED: 184103008) - 07812 766495
+
+|29 May 2024 12:13
+
+| Surgery: HORNEY, Christopher (Mr) (Systems Support Access Role)
+
+(R) Sertraline 50mg tablets - 28 tablet - Take one tablet daily
+ETP2 Nurse Independent Prescriber FP10: Not Yet Printed - Signed
+Summary Care Record Update
+
+|30 May 2024 09:11
+
+| Surgery: FITZGERALD, Thomas (Health Professional Access Role)
+
+|
+
+History: Telephone encounter with Ashtons. Confirmed given patient 54mg, have not dispensed other 18mg due to
+availability. EPS any for 18mg plus 5mg to be issued to try any other pharmacy.
+Methylphenidate 5mg tablets - 30 tablet - Take one tablet once daily
+
+Ended 30 May 2024 Prescribing error by FITZGERALD, Thomas
+Summary Care Record Update
+
+|30 May 2024 10:38
+
+—_|Surgery: FITZGERALD, Thomas (Health Professional Access Role)
+
+|
+
+Summary Care Record Update
+
+|30 May 2024 10:39
+
+—_| Surgery: FITZGERALD, Thomas (Health Professional Access Role)
+
+|
+
+Methylphenidate 18mg modified-release tablets - 30 tablet - take one each morning
+
+Stopped 05 Jun 2024 Prescribing error (Unable to get) by FITZGERALD, Thomas
+ETP2 Nurse Independent Prescriber FP10: Printed On Thu 30 May 2024 14:13 By Mrs Philippa Mitchell - Signed
+Summary Care Record Update
+
+|30 May 2024 10:40
+
+—_|Surgery: FITZGERALD, Thomas (Health Professional Access Role)
+
+|
+
+Methylphenidate 5mg tablets - 30 tablet - Take one tablet once daily
+
+ETP2 Nurse Independent Prescriber FP10: Printed On Thu 30 May 2024 14:14 By Mrs Philippa Mitchell - Signed
+Summary Care Record Update
+
+|30 May 2024 10:41
+
+| Surgery: FITZGERALD, Thomas (Health Professional Access Role)
+
+|
+
+Methylphenidate 5mg tablets - 30 tablet - Take one tablet maximum of once a day
+Methylphenidate 18mg modified-release tablets - 30 tablet - take one each morning
+
+Ended 10 Oct 2024 At the Pharmacist's request by DICKINSON, Dharam (Dr)
+Summary Care Record Update
+30 May 2024 12:54
+
+Surgery: DICKINSON, Dharam (Dr) (Clinical Practitioner Access Role)
+
+30 May 2024 15:10
+
+Surgery: DICKINSON, Dharam (Dr) (Clinical Practitioner Access Role)
+
+see tasks re why i did not sign EPS today. pt will have to wait until Razi returns to make a decision re ongoing
+prescribing. please note regardless of what tests are ‘required’ the patient has created this situation through DNA'ing
+his booked bloods etc.
+
+03 Jun 2024 14:07
+
+Surgery: HORNEY, Christopher (Mr) (Systems Support Access Role)
+
+04 Jun 2024 15:35
+
+Surgery: FITZGERALD, Thomas (Health Professional Access Role)
+
+04 Jun 2024 15:37
+
+Surgery: FITZGERALD, Thomas (Health Professional Access Role)
+
+Patient telephone number (9159.) (SNOMED: 184103008) - 07812 766495
+Short message service text message sent to patient (XaMil) (SNOMED: 279991000000102)
+Dear Mr Carter,
+Sorry to have missed you. If you are still having issues with your ADHD medication please contact the practise on
+Thu 06 Mar 2025 12:14
+Confidential: Personal Data
+
+Mr Benjamin Robert Carter "Ben"
+446 377 7232, 15 Apr 1987
+
+Printed by WOOD, Hayley (Systems Support Access Role)The Seven Dials Medical Centre
+
+24 of 45
+
+01273 773089.
+
+Thanks,
+
+The Seven Dials Medical Centre
+05 Jun 2024 09:00
+
+Surgery: STENNING, Daniella (Receptionist Access Role)
+
+05 Jun 2024 10:09
+
+Surgery: FITZGERALD, Thomas (Health Professional Access Role)
+
+History: Telephone encounter (9N31.) (SNOMED: 185317003)with patient regarding ADHd medication and short
+supply. Able to get 5mg tablets but not 18mg. Overtook his 54mg Tablets as one in the morning and "topper" dose in
+afternoon to replace the 5mg. Explained we would not support this this overtaking and if continues refer back to
+specialist
+Plan: Have explained due to shortage over taking we can't prescribe for. Patient either has 72mg combination or if
+cannot get has to make to with 54mg XL if 5mg Not available. Patient in agreement with the plan.
+To monitor requests to assess compliance.
+
+ETP Medication Cancellation Sent
+Summary Care Record Update
+05 Jun 2024 11:23
+
+Surgery: FITZGERALD, Thomas (Health Professional Access Role)
+
+05 Jun 2024 14:04
+
+Surgery: FITZGERALD, Thomas (Health Professional Access Role)
+
+History: Telephone triage encounter (Xalvd) (SNOMED: 401267002)unable to source methyphenidate apart from
+27mg at Ross pharmacy. Spoken to patient of plan of 54 (2x27) and 5mg top up dose Pm. Happy with this and
+informs won't take extra 54mg dose as previous.
+
+Methylphenidate 27mg modified-release tablets - 60 tablet - Take TWO (54mg) Once in the morning
+ETP2 FP10: Not Yet Printed - Signed
+Community Pharmacy changed. Previous data: Ashtons Late Night Pharmacy, 98 Dyke Road, Brighton, East Sussex
+BN1 3JD
+Tel: 01273 325020
+
+Summary Care Record Update
+07 Jun 2024 08:34
+
+Surgery: STENNING, Daniella (Receptionist Access Role)
+
+07 Jun 2024 08:57
+
+Surgery: FITZGERALD, Thomas (Health Professional Access Role)
+
+ETP2 FP10: Printed On Fri 07 Jun 2024 09:04 By Dr Razi Torbati - Signed
+Summary Care Record Update
+
+|07 Jun 2024 14:14
+
+| Surgery: TORBATI, Razi (Dr) (Clinical Practitioner Access Role)
+
+(R) Methylphenidate 54mg modified-release tablets - 30 tablet - take one each morning
+
+ETP2 FP10: Not Yet Printed - Signed
+Summary Care Record Update
+
+|07 Jun 2024 14:15
+
+| Surgery: TORBATI, Razi (Dr) (Clinical Practitioner Access Role)
+
+ETP Medication Cancellation Sent
+
+|07 Jun 2024 14:15
+
+| Surgery: STENNING, Daniella (Receptionist Access Role)
+
+Medication Marked in Error: Prescribing error
+07 Jun 2024 08:57, Methylphenidate 18mg modified-release tablets, take one each morning, 30 tablet, 0
+
+11 Jun 2024 13:31
+
+Surgery: FOSSEY, Georgina (Mrs) (Receptionist Access Role)
+
+11 Jun 2024 14:28
+
+Surgery: FITZGERALD, Thomas (Health Professional Access Role)
+
+(R) Methylphenidate 18mg modified-release tablets - 30 tablet - take one each morning
+
+ETP2 FP10: Printed On Tue 11 Jun 2024 16:53 By Dr Joe Corbett - Signed
+Summary Care Record Update
+11 Jun 2024 15:01
+
+Surgery: FITZGERALD, Thomas (Health Professional Access Role)
+
+11 Jun 2024 15:05
+
+Surgery: FITZGERALD, Thomas (Health Professional Access Role)
+
+Patient telephone number (9159.) (SNOMED: 184103008) - 07812 766495
+Short message service text message sent to patient (XaMil) (SNOMED: 279991000000102)
+Dear Mr Carter,
+Here is the barcode for your 18mg which you can try at any pharmacy. FBF5DF-G81047-1E28C7.
+We cannot change to the XL 20mg capsules version as it works differently and is not on your shared care agreement
+from the psychiatrist. Unfortunately it is your combination to 72mg XL with 5mg as the side dose.
+Thanks,
+
+The Seven Dials Medical Centre
+
+118 Jun 2024 15:23
+
+| Surgery: CORBETT, Joe (Dr) (Clinical Practitioner Access Role)
+
+Patient given advice (8CA..) (SNOMED: 183049006)
+Clinical examination (XB001) (SNOMED: 5880005) - Walks in with a single crutch but is partially WBing.
+Clinical history and observations (X76sV) (SNOMED: 250171008)
+Injury to right ACL last year - was a difficult year as friend commited suicide. Following this was suicidal himself and
+ended up with prescription for Sertraline.
+Had a fall off a ladder 1st May onto the left side jarring this knee as trying to favour the previously.
+
+Thu 06 Mar 2025 12:14
+Confidential: Personal Data
+
+injured side. Pain
+
+Mr Benjamin Robert Carter "Ben"
+446 377 7232, 15 Apr 1987
+
+Printed by WOOD, Hayley (Systems Support Access Role)The Seven Dials Medical Centre
+
+25 of 45
+
+is worsening. No deformity and no bruising. Never attended A&E. Some stiffness and worse on mounting steps. No
+swelling. Not taken anything for it so far.
+
+Mental health assessment (XalYN) (SNOMED: 391281002) - mental health is much better - 8/12 sober and doing
+very well now.
+
+Plan (XalVg) (SNOMED: 717371000000107) - for physio advice. and continue Sertraline.
+Mental health care plan status (XaJQE) (SNOMED: 718347000) - Continuing the Sertraline.
+Is improving (Xa49J) (SNOMED: 385633008)
+Summary Care Record Update
+21 Jun 2024 11:46
+
+Surgery: HORNEY, Christopher (Mr) (Systems Support Access Role)
+
+21 Jun 2024 11:46
+
+Surgery: HORNEY, Christopher (Mr) (Systems Support Access Role)
+
+Dear Benjamin,
+
+Our telephone system has been upgraded with a patient callback feature which provides an option for callers to
+request a callback when they have reached the front of the queue, thus leaving you free to get on with other more
+productive tasks or to rest if you are feeling unwell.
+
+The Seven Dials Medical Centre
+NHS app message sent on 20/06/2024 18:06:02
+
+125 Jun 2024 11:28
+
+| Surgery: DOYLE, Kate (Health Professional Access Role)
+
+Musculoskeletal system (Xa0sl) (SNOMED: 26107004)
+L knee pain since fell directly onto knee from ladder 9/52 ago. Has improved
+agg upstairs/hill, kneeing, squat
+Limped to taxi but was able to walk nnext day
+
+Some mild swelling, thinks ISQ
+No locking or giving way
+No hip pain
+
+Prev ACLR R knee 8y ago and reinjured R last year- managed R knee conservatively
+Would like L knee diagnosis
+
+O/E - musculoskeletal (XaBza) (SNOMED: 309673009)
+Mild swelling proximal L knee- bursal
+
+Squat full
+
+R knee pain limiting
+
+SLS moderate control, SL dip- reduced control
+FROM knee no p
+PFJ tight medial and pain
+Palp: tender medial facet patella L, L lateral quads
+Tight h/s and quads
+Power good t/o
+
+Risk assessment (Ua1P1) (SNOMED: 225338004) - nil hot/ red, no fracture
+Face to face consultation (Y290c) (SNOMED: 325861000000105)
+Referral by GP (XaAZQ) (SNOMED: 305931005)
+Disorder of patellofemoral joint (X700R) (SNOMED: 239732001)
+Advice (X71Ez) (SNOMED: 418043000) - Advice on stretches, swelling mgt, NSAID gel/ice, balance, actiuvty
+modification
+
+Seen by first contact physiotherapist (Y281c) (SNOMED: 1239501000000102)
+Clinical management plan (XaJYd) (SNOMED: 737427001) - L patella bruising
+Knee joint (7-NAGS5) (SNOMED: 49076000)
+Return only if necessary (8HA2.) (SNOMED: 183635001)
+Summary Care Record Update
+
+|29 Jun 2024
+
+| Surgery. MACKENZIE, Ross (Administrator)
+
+| Entered: 30 Jun 2024 12:34
+
+|
+
+| Entered: 30 Jun 2024 12:34
+
+|
+
+Pharmacy to The Seven Dials Medical Centre
+
+|29 Jun 2024
+
+|Ross Pharmacy: Sohrab Karami
+
+Urgent supply of prescription items by community pharmacy (Y23e4) (SNOMED: 1218611000000102)
+Sertraline 50mg tablets (HFA Healthcare Ltd) - 4 tablet - As previously advised
+
+|29 Jun 2024 09:23
+
+|: Sent online by Mr Benjamin Robert Carter "Ben"
+
+|
+
+Request for ‘Methylphenidate 5mg tablets’ by patient
+
+Request for ‘Sertraline 50mg tablets’ by patient
+
+101 Jul 2024 07:18
+
+| Surgery: BIRD, Paula (Mrs) (Systems Support Access Role)
+
+|
+
+(R) Methylphenidate 5mg tablets - 30 tablet - take one as directed
+
+(R) Sertraline 50mg tablets - 28 tablet - Take one tablet daily
+ETP2 FP10: Not Yet Printed - Signed
+Summary Care Record Update
+
+|01 Jul 2024 09:50
+
+| Surgery: STENNING, Daniella (Receptionist Access Role)
+
+Thu 06 Mar 2025 12:14
+Confidential: Personal Data
+
+|
+Mr Benjamin Robert Carter "Ben"
+446 377 7232, 15 Apr 1987
+
+Printed by WOOD, Hayley (Systems Support Access Role)The Seven Dials Medical Centre
+
+|03 Jul 2024 09:22
+
+26 of 45
+
+| Surgery: FITZGERALD, Thomas (Health Professional Access Role)
+
+|
+
+History: As per task unable to get other strengths. Checked tracker 54mg was never picked up and 18mg currently at
+Ross unable to get.
+patient requesting sent to Ashton's as per task.
+
+Methylphenidate 36mg modified-release tablets - 60 tablet - Take TWO in the morning (72mg)
+ETP2 FP10: Not Yet Printed - Signed
+Summary Care Record Update
+22 Jul 2024 10:26
+
+Surgery: HORNEY, Christopher (Mr) (Systems Support Access Role)
+
+22 Jul 2024 10:26
+
+Surgery: HORNEY, Christopher (Mr) (Systems Support Access Role)
+
+Dear Benjamin,
+
+URGENT
+Please be aware there are NATIONAL issues relating to alot of the IT Systems within the NHS. This might result in
+delays with issuing prescriptions.
+
+The Seven Dials Medical Centre
+NHS app message sent on 19/07/2024 12:27:03
+
+| 22 Jul 2024 10:36
+
+| Surgery: HORNEY, Christopher (Mr) (Systems Support Access Role)
+
+Medication End Details Marked in Error: Duplicate data
+
+30 May 2024 09:11, Methylphenidate 5mg tablets Stopped: 30 May 2024 Prescribing error
+Medication Marked in Error: Duplicate data
+30 May 2024 09:11, Methylphenidate 5mg tablets, Take one tablet once daily, 30 tabletPlease arrange an
+appointment for your twice yearly cardiovascular monitoring (including blood pressure, pulse and weight check)
+every February and August. This is necessary in order to continue prescribing your ADHD medication safely, 0
+Medication Marked in Error: Duplicate data
+
+30 May 2024 09:11, Methylphenidate 18mg modified-release tablets, take one each morning, 30 tabletOnly while
+Xaggatin is not available, 0
+Prescription Marked in Error: Duplicate data
+30 May 2024 09:11, Never printed
+Medication End Details Marked in Error: Duplicate data
+
+30 May 2024 09:11, Methylphenidate 18mg modified-release tablets Stopped: 30 May 2024 Prescribing error
+
+|29 Jul 2024 09:09
+
+| Surgery: STENNING, Daniella (Receptionist Access Role)
+
+(R) Methylphenidate 54mg modified-release tablets - 30 tablet - take one each morning
+(R) Methylphenidate 5mg tablets - 30 tablet - take one as directed
+(R) Methylphenidate 18mg modified-release tablets - 30 tablet - take one each morning
+
+(R) Sertraline 50mg tablets - 28 tablet - Take one tablet daily
+ETP2 FP10: Not Yet Printed - Signed
+Summary Care Record Update
+07 Aug 2024 16:15
+
+Surgery: COLLINS, Victoria (Ms) (Healthcare Student Access Role)
+
+07 Aug 2024 16:15
+
+Surgery: COLLINS, Victoria (Ms) (Healthcare Student Access Role)
+
+Patient telephone number (9159.) (SNOMED: 184103008) - 07812 766495
+Short message service text message sent to patient (XaMil) (SNOMED: 279991000000102)
+Dear Mr Carter,
+In order to safely prescribe your medication can you please supply us with the following information.
+Height, weight, pulse, blood pressure and smoking data.
+You can reply to this message with this information or book an appointment with one of our nurses to carry out these
+checks.
+
+TO RESPOND, please follow this link: (link will autogenerate here)
+Thanks, Vicky Collins
+The Seven Dials Medical Centre
+
+116 Aug 2024 10:10
+
+| Surgery: HORNEY, Christopher (Mr) (Systems Support Access Role)
+
+(R) Sertraline 50mg tablets - 28 tablet - Take one tablet daily
+Stopped 11 Sep 2024 Change to medication treatment regime by TORBATI, Razi (Dr)
+ETP2 FP10: Not Yet Printed - Signed
+Summary Care Record Update
+16 Aug 2024 10:10
+
+Surgery: HORNEY, Christopher (Mr) (Systems Support Access Role)
+
+19 Aug 2024 10:08
+
+Surgery: FITZGERALD, Thomas (Health Professional Access Role)
+
+History: Telephone encounter (9N31.) (SNOMED: 185317003)with Ross pharmacy. Confirmed with patient had all
+strengths of Methylphenidate 30/07/24 but not claimed due to IT outage.
+Patient requesting 72mg to Ashton's. Not due until next week.
+Plan: Will put through request when due
+
+Thu 06 Mar 2025 12:14
+Confidential: Personal Data
+
+Mr Benjamin Robert Carter "Ben"
+446 377 7232, 15 Apr 1987
+
+Printed by WOOD, Hayley (Systems Support Access Role)The Seven Dials Medical Centre
+
+|29 Aug 2024 12:52
+
+27 of 45
+
+| Surgery: BIRD, Paula (Mrs) (Systems Support Access Role)
+
+|
+
+Summary Care Record Update
+
+|29 Aug 2024 12:58
+
+| Surgery: BIRD, Paula (Mrs) (Systems Support Access Role)
+
+|
+
+Prescription Marked in Error: Wrong data entered
+29 Aug 2024 12:52, Never printed
+Medication Marked in Error: Wrong data entered
+29 Aug 2024 12:52, Methylphenidate 5mg tablets, take one as directed, 30 tablet, 0
+Medication Marked in Error: Wrong data entered
+29 Aug 2024 12:52, Methylphenidate 18mg modified-release tablets, take one each morning, 30 tablet, 0
+Medication Marked in Error: Wrong data entered
+
+29 Aug 2024 12:52, Methylphenidate 54mg modified-release tablets, take one each morning, 30 tabletOnly while
+Xaggatin is not available, 0
+
+30 Aug 2024 07:19
+
+Surgery: FOSSEY, Georgina (Mrs) (Receptionist Access Role)
+
+30 Aug 2024 07:24
+
+Surgery: FOSSEY, Georgina (Mrs) (Receptionist Access Role)
+
+30 Aug 2024 16:41
+
+Surgery: DICKINSON, Dharam (Dr) (Clinical Practitioner Access Role)
+
+History: pt to confirm as despite spending a lot of time trying to work this out it is not possible, there are lots of
+options for xl 10mg for example.
+s1 doesnt allow me to prescribe other than with brand name. the only things that come up generic are IR
+(R) Methylphenidate 5mg tablets - 30 tablet - take one as directed
+
+ETP2 FP10: Not Yet Printed - Signed
+Summary Care Record Update
+
+|30 Aug 2024 16:54
+
+| Surgery: DICKINSON, Dharam (Dr) (Clinical Practitioner Access Role)
+
+Patient telephone number (9159.) (SNOMED: 184103008) - 07812 766495
+Short message service text message sent to patient (XaMil) (SNOMED: 279991000000102)
+Dear Mr Carter,
+re your request for methylphenidate, please confirm,
+5mg will be normal methylphendiate - immeidate release - that is ok to issue.
+for the others | will need brand names as the clinical system will not allow me to issue by generic/ unspecified.
+the 2x 10mg XL capsule ?many options
+the 50mg XL capsule ?medikinet
+
+TO RESPOND, please follow this link: (link will autogenerate here)
+Kind regards, Dr D Dickinson
+
+The Seven Dials Medical Centre
+30 Aug 2024 17:10
+
+Surgery: COLEBY, Linda (Receptionist Access Role)
+
+30 Aug 2024 17:58
+
+Surgery: DICKINSON, Dharam (Dr) (Clinical Practitioner Access Role)
+
+pt confirmed medikinet xl - see tasks.
+Medikinet XL 50mg capsules (Medice UK Ltd) - 30 capsule - take one each morning
+Medikinet XL 10mg capsules (Medice UK Ltd) - 60 capsule - take 2 each morning
+
+ETP2 FP10: Not Yet Printed - Signed
+Summary Care Record Update
+30 Aug 2024 18:00
+
+Surgery: DICKINSON, Dharam (Dr) (Clinical Practitioner Access Role)
+
+30 Aug 2024 18:00
+
+Surgery: DICKINSON, Dharam (Dr) (Clinical Practitioner Access Role)
+
+Patient telephone number (9159.) (SNOMED: 184103008) - 07812 766495
+Short message service text message sent to patient (XaMil) (SNOMED: 279991000000102)
+Dear Mr Carter,
+issued.
+Kind regards, Dr D Dickinson
+
+The Seven Dials Medical Centre
+30 Aug 2024 19:13
+
+Surgery: Unknown Staff Member
+
+04 Sep 2024 14:58
+
+Surgery: COLLINS, Victoria (Ms) (Healthcare Student Access Role)
+
+04 Sep 2024 14:58
+
+Surgery: COLLINS, Victoria (Ms) (Healthcare Student Access Role)
+
+Patient telephone number (9159.) (SNOMED: 184103008) - 07812 766495
+Short message service text message sent to patient (XaMil) (SNOMED: 279991000000102)
+Dear Mr Carter,
+In order to safely prescribe your medication can you please supply us with the following information.
+Height, weight, pulse, blood pressure and smoking data.
+You can reply to this message with this information or book an appointment with one of our nurses to carry out these
+checks.
+
+Thu 06 Mar 2025 12:14
+Confidential: Personal Data
+
+Mr Benjamin Robert Carter "Ben"
+446 377 7232, 15 Apr 1987
+
+Printed by WOOD, Hayley (Systems Support Access Role)The Seven Dials Medical Centre
+
+28 of 45
+
+TO RESPOND, please follow this link: (link will autogenerate here)
+Thanks, Vicky Collins
+The Seven Dials Medical Centre
+11 Sep 2024 08:01
+
+Surgery: CARTLEDGE, Jessica (Receptionist Access Role)
+
+11 Sep 2024 08:50
+
+Surgery: TORBATI, Razi (Dr) (Clinical Practitioner Access Role)
+
+History: on sertraline 50 mg daily. feels stressed and reports feeling anxious and depressed. having problems with
+ex-girlfriend who stalkes him for
+
+the last 3 months. he has reported it to police
+
+Plan: options discussed. increase dose of sertraline to 100 mg daily and also consider appointment with mental
+health coordinators
+
+(R) Sertraline 100mg tablets - 28 tablet - one tablet a day
+Sertraline 100mg tablets - 28 tablet - one tablet a day
+ETP Medication Cancellation Sent
+ETP2 FP10: Not Yet Printed - Signed
+Community Pharmacy changed. Previous data: Ross Pharmacy, 3 York Place, Brighton, East Sussex BN1 4GU
+Tel: 01273681396
+
+Summary Care Record Update
+
+118 Sep 2024
+
+| Surgery: BALMFORTH, Gillian (Administrator)
+
+|Entered: 19 Sep 2024 14:49
+
+|
+
+| Entered: 19 Sep 2024 14:51
+
+|
+
+Consultation with third party to The Seven Dials Medical Centre
+
+118 Sep 2024
+
+| Surgery: BALMFORTH, Gillian (Administrator)
+
+Third party consultation (XalkK) (SNOMED: 25741000000100) (New Episode)
+Minor: Knee pain (Xa0wx) (SNOMED: 30989003) (Ongoing Episode)
+Private referral (BHV..) (SNOMED: 183877003) (New Episode)
+Knee pain (Xa0wx) (SNOMED: 30989003)
+
+|09 Oct 2024 07:57
+
+| Surgery: BIRD, Paula (Mrs) (Systems Support Access Role)
+
+Body mass index - observation (22K..) (SNOMED: 60621009) 24.11 Kg/m?
+O/E - weight (22A..) (SNOMED: 27113001) 69.854 Kg (~ 11 st) (Ongoing Episode)
+119 / 70 mmHg
+
+Summary Care Record Update
+
+|09 Oct 2024 11:02
+
+| Surgery: TWISLETON, Rebecca (Mrs) (Receptionist Access Role)
+
+(R) Methylphenidate 5mg tablets - 30 tablet - take one as directed
+(R) Methylphenidate 54mg modified-release tablets - 30 tablet - take one each morning
+(R) Methylphenidate 18mg modified-release tablets - 30 tablet - take one each morning
+
+(R) Sertraline 100mg tablets - 28 tablet - one tablet a day
+ETP2 FP10: Not Yet Printed - Signed
+Summary Care Record Update
+10 Oct 2024 10:49
+
+Surgery: BIRD, Paula (Mrs) (Systems Support Access Role)
+
+10 Oct 2024 17:39
+
+Surgery: DICKINSON, Dharam (Dr) (Clinical Practitioner Access Role)
+
+Medikinet XL 50mg capsules (Medice UK Ltd) - 30 capsule - take one each morning
+Medikinet XL 10mg capsules (Medice UK Ltd) - 60 capsule - take 2 each morning
+Medikinet XL 50mg capsules (Medice UK Ltd) - 30 capsule - take one each morning
+
+Ended 28 Jan 2025 Clinical grounds (More appropriate prescribing 2x36mg) by MACK, Heidi (Mrs)
+Medikinet XL 10mg capsules (Medice UK Ltd) - 60 capsule - take 2 each morning
+
+Ended 28 Jan 2025 Clinical grounds (More appropriate prescribing - 2x36mg) by MACK, Heidi (Mrs)
+ETP Medication Cancellation Sent
+ETP Medication Cancellation Sent
+ETP2 FP10: Not Yet Printed - Signed
+Summary Care Record Update
+18 Oct 2024 07:22
+
+Surgery: FOSSEY, Georgina (Mrs) (Receptionist Access Role)
+
+18 Oct 2024 13:30
+
+Surgery: FOSSEY, Georgina (Mrs) (Receptionist Access Role)
+
+Body mass index - observation (22K..) (SNOMED: 60621009) 24.11 Kg/m?
+O/E - weight (22A..) (SNOMED: 27113001) 69.854 Kg (~ 11 st) (New Episode)
+119 / 70 mmHg
+
+121 Oct 2024 17:56
+
+| Surgery: CORBETT, Joe (Dr) (Clinical Practitioner Access Role)
+
+(R) Medikinet XL 50mg capsules (Medice UK Ltd) - 30 capsule - take one each morning
+
+ETP2 FP10: Not Yet Printed - Signed
+Summary Care Record Update
+
+|04 Nov 2024 16:29
+
+| Surgery: FITZGERALD, Thomas (Health Professional Access Role)
+
+|
+
+History: Telephone encounter (9N31.) (SNOMED: 185317003)with patient. Reports Xaggatin 36mg back available so
+requesting to go back on his previous dose.
+
+Short supply of adhd meds over previous months have disrupted patient, SCA is 72mg MR then 5mg in the
+afternoon. Due to supply issues pt has been out earlier. Picked up Medikinet XL caps 10mg and 5mg but 50mg could
+
+Thu 06 Mar 2025 12:14
+Confidential: Personal Data
+
+Mr Benjamin Robert Carter "Ben"
+446 377 7232, 15 Apr 1987
+
+Printed by WOOD, Hayley (Systems Support Access Role)The Seven Dials Medical Centre
+
+29 of 45
+
+not get.
+
+In this time took 7x10mg per day, then when could get 50mg (21st october) decided to open capsules up and split
+the dosage as no 10s left. Medication would not be due for another 5 days anyway.
+
+Not licensed in this way and patient takes dosage of what he can get outside of SCA. Have mentioned this before
+when he reported taking 54mg of concerta instead of 5mg back in April.
+| have mentioned taking slightly less of a dosage in a licensed way but patient has not been doing this.
+
+Plan: To discuss with GP plan going forward.
+
+|04 Nov 2024 16:48
+
+| Surgery: DICKINSON, Dharam (Dr) (Clinical Practitioner Access Role)
+
+|
+
+Summary Care Record Update
+
+|04 Nov 2024 16:57
+
+| Surgery: FITZGERALD, Thomas (Health Professional Access Role)
+
+|
+
+History: Discussion with DD, one chance left for prescriptions, appreciate honesty but not to be used in this way of
+splitting 50mg BD.
+
+If happens again will send to psychiatrist to prescribe as outside SCA.
+Plan: Ashtons have xaggatin 36mg 20D as per SCA, to send over and 5mg post dated for friday
+(R) Methylphenidate 5mg tablets - 30 tablet - take one if required - max 1 daily (Future dated medication 08 Nov
+2024)
+Methylphenidate 36mg modified-release tablets - 60 tablet - take Two each morning
+
+ETP2 FP10: Not Yet Printed - Signed
+ETP2 FP10: Not Yet Printed - Signed
+Summary Care Record Update
+
+115 Nov 2024 07:40
+
+| Surgery: FOSSEY, Georgina (Mrs) (Receptionist Access Role)
+
+(R) Sertraline 100mg tablets - 28 tablet - one tablet a day
+ETP2 FP10: Not Yet Printed - Signed
+Summary Care Record Update
+02 Dec 2024 07:49
+
+Surgery: TWISLETON, Rebecca (Mrs) (Receptionist Access Role)
+
+02 Dec 2024 12:39
+
+Surgery: CORBETT, Joe (Dr) (Clinical Practitioner Access Role)
+
+Methylphenidate 54mg modified-release tablets - 30 tablet - take one each morning
+Methylphenidate 18mg modified-release tablets - 30 tablet - take one each morning
+
+ETP2 FP10: Not Yet Printed - Signed
+Community Pharmacy changed. Previous data: Ashtons Late Night Pharmacy, 98 Dyke Road, Brighton, East Sussex
+BN1 3JD
+Tel: 01273 325020
+
+Summary Care Record Update
+
+|09 Dec 2024 10:30
+
+| Surgery: TWISLETON, Rebecca (Mrs) (Receptionist Access Role)
+
+|
+
+(R) Methylphenidate 5mg tablets - 30 tablet - take one if required - max 1 daily
+
+ETP2 Nurse Independent Prescriber FP10: Not Yet Printed - Signed
+Community Pharmacy changed. Previous data: Ross Pharmacy, 3 York Place, Brighton, East Sussex BN1 4GU
+Tel: 01273681396
+
+Summary Care Record Update
+
+117 Dec 2024 10:16
+
+| Surgery: BIRD, Paula (Mrs) (Systems Support Access Role)
+
+|
+
+(R) Sertraline 100mg tablets - 28 tablet - one tablet a day
+ETP2 Nurse Independent Prescriber FP10: Not Yet Printed - Signed
+Summary Care Record Update
+27 Dec 2024 15:11
+
+Surgery: COLEBY, Linda (Receptionist Access Role)
+
+27 Dec 2024 17:17
+
+Surgery: CORBETT, Joe (Dr) (Clinical Practitioner Access Role)
+
+Methylphenidate 54mg modified-release tablets - 30 tablet - take one each morning
+Methylphenidate 18mg modified-release tablets - 30 tablet - take one each morning
+
+ETP2 FP10: Not Yet Printed - Signed
+Summary Care Record Update
+27 Dec 2024 17:58
+
+Surgery: COLEBY, Linda (Receptionist Access Role)
+
+27 Dec 2024 17:59
+
+Surgery: COLEBY, Linda (Receptionist Access Role)
+
+Patient telephone number (9159.) (SNOMED: 184103008) - 07812 766495
+Short message service text message sent to patient (XaMil) (SNOMED: 279991000000102)
+Dear Mr Carter,
+Barcode for prescription that you requested below.
+ETP Barcode Number:
+
+C6897B-G81047-2C089U
+Thanks, Lynn Coleby
+The Seven Dials Medical Centre
+
+|03 Jan 2025 07:19
+
+| Surgery: FOSSEY, Georgina (Mrs) (Receptionist Access Role)
+
+Thu 06 Mar 2025 12:14
+Confidential: Personal Data
+
+|
+Mr Benjamin Robert Carter "Ben"
+446 377 7232, 15 Apr 1987
+
+Printed by WOOD, Hayley (Systems Support Access Role)The Seven Dials Medical Centre
+
+30 of 45
+
+(R) Methylphenidate 5mg tablets - 30 tablet - take one if required - max 1 daily
+
+ETP2 FP10: Not Yet Printed - Signed
+Summary Care Record Update
+
+120 Jan 2025 10:14
+
+| Surgery: TWISLETON, Rebecca (Mrs) (Receptionist Access Role)
+
+(R) Sertraline 100mg tablets - 28 tablet - one tablet a day
+ETP2 Nurse Independent Prescriber FP10: Not Yet Printed - Signed
+Summary Care Record Update
+28 Jan 2025 10:20
+
+Surgery: LEE, Isobel (Receptionist Access Role)
+
+28 Jan 2025 12:27
+
+Surgery: MACK, Heidi (Mrs) (Health Professional Access Role)
+
+History: Task from GP to review multiple formulations of Methylphenidate on repeat template.
+Confirmed SCA advises - Xaggitin XL - 72mg OD + Methylphenidate IR 5mg - 10D
+Will ensure repeat template is accurate
+Note previous issues with doses discussed with TF and DD
+
+Medication supply should not go outside of SCA
+Plan: Currently only available strengths of Xaggitin are 36mg + 54mg
+To add 36mg x2 to repeat
+
+Stopped wrong Xaggitin in error - re-added
+Xaggitin XL 36mg tablets (Ethypharm UK Ltd) - 60 tablet - Take two tablets once a day in the morning. Total dose
+72mg
+
+Xaggitin XL 36mg tablets (Ethypharm UK Ltd) - 60 tablet - Take two tablets once a day in the morning. Total dose 72mg
+
+Ended 28 Jan 2025 Clinical grounds (More appropriate prescribing - 2x36mg) by MACK, Heidi (Mrs)
+Summary Care Record Update
+30 Jan 2025 09:41
+
+Surgery: LEE, Isobel (Receptionist Access Role)
+
+30 Jan 2025 13:06
+
+Surgery: DICKINSON, Dharam (Dr) (Clinical Practitioner Access Role)
+
+(R) Xaggitin XL 36mg tablets (Ethypharm UK Ltd) - 60 tablet - Take two tablets once a day in the morning. Total
+dose 72mg
+
+ETP2 FP10: Not Yet Printed - Signed
+Summary Care Record Update
+
+|06 Feb 2025 07:48
+
+|Surgery: BIRD, Paula (Mrs) (Systems Support Access Role)
+
+|
+
+(R) Methylphenidate 5mg tablets - 30 tablet - Take one tablet maximum of once a day
+
+ETP2 Nurse Independent Prescriber FP10: Not Yet Printed - Signed
+Community Pharmacy changed. Previous data: Ashtons Late Night Pharmacy, 98 Dyke Road, Brighton, East Sussex
+BN1 3JD
+Tel: 01273 325020
+
+Summary Care Record Update
+13 Feb 2025 08:28
+
+Surgery: COLLINS, Victoria (Ms) (Healthcare Student Access Role)
+
+13 Feb 2025 08:28
+
+Surgery: COLLINS, Victoria (Ms) (Healthcare Student Access Role)
+
+Patient telephone number (9159.) (SNOMED: 184103008) - 07812 766495
+Short message service text message sent to patient (XaMil) (SNOMED: 279991000000102)
+Dear Mr Carter,
+In order to safely prescribe your medication can you please supply us with the following information.
+Height, weight, pulse, blood pressure and smoking data.
+You can reply to this message with this information or book an appointment with one of our nurses to carry out these
+checks.
+
+TO RESPOND, please follow this link: (link will autogenerate here)
+Thanks, Vicky Collins
+The Seven Dials Medical Centre
+
+|17 Feb 2025 11:20
+
+| Surgery: COLLINS, Victoria (Ms) (Healthcare Student Access Role)
+
+Body mass index - observation (22K..) (SNOMED: 60621009) 24.11 Kg/m?
+O/E - height (229..) (SNOMED: 248333004) 1.702 m (~ 5' 7")
+O/E - weight (22A..) (SNOMED: 27113001) 69.854 Kg (~ 11 st) (New Episode)
+111/75 mmHg
+
+117 Feb 2025 11:20
+
+| Surgery: COLLINS, Victoria (Ms) (Healthcare Student Access Role)
+
+Online questionnaire completed by patient
+Dear Mr Carter,
+In order to safely prescribe your medication can you please supply us with the following information.
+Height, weight, pulse, blood pressure and smoking data.
+You can reply to this message with this information or book an appointment with one of our nurses to carry out these
+
+Thu 06 Mar 2025 12:14
+Confidential: Personal Data
+
+Mr Benjamin Robert Carter "Ben"
+446 377 7232, 15 Apr 1987
+
+Printed by WOOD, Hayley (Systems Support Access Role)The Seven Dials Medical Centre
+
+31 of 45
+
+checks.
+
+Thanks, Vicky Collins
+The Seven Dials Medical Centre
+Response:
+I'm 11 stone, 5 foot 7
+Heres my blood pressure results
+
+111/75
+
+Thanks! Ben
+Received on: 17/02/2025 at 11:16
+
+|17 Feb 2025 11:20
+
+| Surgery: COLLINS, Victoria (Ms) (Healthcare Student Access Role)
+
+Short message service text message sent to patient (XaMil) (SNOMED: 279991000000102)
+Hi Ben,
+Thanks for sending information through, we also require an up to date pulse.
+
+TO RESPOND, please follow this link: https://accurx.nhs.uk/c/p-2zd9ahtu2u
+Thanks, Vicky Collins
+The Seven Dials Medical Centre
+Sent on 17/02/2025 at 11:20
+Patient telephone number (9159.) (SNOMED: 184103008) - +447812766495
+
+|27 Feb 2025 09:05
+
+| Surgery: LEE, Isobel (Receptionist Access Role)
+
+(R) Sertraline 100mg tablets - 28 tablet - one tablet a day
+ETP2 Nurse Independent Prescriber FP10: Not Yet Printed - Signed
+Summary Care Record Update
+27 Feb 2025 15:30
+
+Surgery: TWISLETON, Rebecca (Mrs) (Receptionist Access Role)
+
+27 Feb 2025 16:22
+
+Surgery: TWISLETON, Rebecca (Mrs) (Receptionist Access Role)
+
+Patient has requested for all medications to be on the same script to save trips. Asked Pharmacy team, TF said that
+this cannot be done if the controlled drugs are not due.
+
+|27 Feb 2025 18:12
+
+| Surgery: DICKINSON, Dharam (Dr) (Clinical Practitioner Access Role)
+
+(R) Xaggitin XL 36mg tablets (Ethypharm UK Ltd) - 60 tablet - Take two tablets once a day in the morning. Total
+dose 72mg
+
+ETP2 FP10: Not Yet Printed - Signed
+Summary Care Record Update
+
+|06 Mar 2025 11:59
+
+| Surgery: WOOD, Hayley (Systems Support Access Role)
+
+Medication
+A=Acute
+
+P=Private
+
+|=Dispensed
+
+D=Dental
+
+H=Hospital
+
+O = Other
+
+08 Feb 2021
+
+Lansoprazole 30mg gastro-resistant capsules
+
+take one once daily
+
+56 capsule
+
+24 May 2021
+
+Spikevax COVID-19 MRNA (nucleoside
+
+1 dose by Intramuscular
+
+1 dose
+
+A
+
+modified) Vaccine 0.1mg/0.5ml dose dispersion | Injection
+for injection multidose vials (Moderna, Inc)
+
+Ended early on 08 Jun 2022: Other (Medication Course Ended. Expired)
+02 Jun 2021
+
+Lansoprazole 30mg gastro-resistant capsules
+
+take one once daily
+
+56 capsule
+
+21 Jul 2021
+
+Spikevax COVID-19 MRNA (nucleoside
+
+1 dose by Intramuscular
+
+1 dose
+
+A
+
+modified) Vaccine 0.1mg/0.5ml dose dispersion | Injection
+for injection multidose vials (Moderna, Inc)
+
+Ended early on 05 Aug 2022: Other (Medication Course Ended. Expired)
+25 Aug 2021
+
+Lansoprazole 30mg gastro-resistant capsules
+
+take one once daily
+
+56 capsule
+
+06 Oct 2021
+
+Clarithromycin 250mg tablets
+
+One To Be Taken Twice A
+
+10 tablet
+
+A
+
+10 tablet
+
+A
+
+14 tablet
+
+A
+
+Day For 5 Days
+
+Ended early on 06 Oct 2021: Other (Medication Course Ended)
+06 Oct 2021
+
+Clarithromycin 250mg tablets
+
+One To Be Taken Twice A
+Day For 5 Days
+
+Ended early on 06 Oct 2021: Other (Medication Course Ended)
+Administrative notes: This drug was never issued
+
+06 Oct 2021
+
+Clarithromycin 500mg tablets
+
+One To Be Taken Twice A
+Day
+
+Thu 06 Mar 2025 12:14
+
+Confidential: Personal Data
+
+Mr Benjamin Robert Carter "Ben"
+446 377 7232, 15 Apr 1987
+
+Printed by WOOD, Hayley (Systems Support Access Role)The Seven Dials Medical Centre
+
+32 of 45
+
+Ended early on 04 Nov 2021: Other (Medication Course Ended. Expired)
+06 Oct 2021
+
+Concerta XL 18mg tablets (Janssen-Cilag Ltd)
+
+|One To Be Taken Twice A
+
+60 tablet
+
+A
+
+28 capsule
+
+A
+
+0.3 ml
+
+A
+
+Da
+
+Ended early on 06 Oct 2021: Other (Medication Course Ended) *
+Administrative notes: This drug was never issued
+
+19 Oct 2021
+
+Flucloxacillin 500mg capsules
+
+One To Be Taken Four
+Times A Day
+
+Ended early on 17 Nov 2021: Other (Medication Course Ended. Expired)
+11 Jan 2022
+
+Comirnaty COVID-19 MRNA Vaccine
+
+0.3 ml Intramuscular
+
+30micrograms/0.3ml dose concentrate for
+dispersion for injection multidose vials (Pfizer
+
+Ended early on % Jan 2023: Other (Medication Course Ended. Expired)
+
+Ltd
+
+24 Feb 2022
+
+Lansoprazole 30mg gastro-resistant capsules
+
+take one once daily
+
+56 capsule
+
+01 Apr 2022
+
+Lansoprazole 30mg gastro-resistant capsules
+
+take one once daily
+
+56 capsule
+
+04 Apr 2022
+
+Concerta XL 18mg tablets (Janssen-Cilag Ltd)
+
+|One To Be Taken Each
+
+30 tablet
+
+A
+
+30 tablet
+
+A
+
+Morning (total 72mg)
+
+Script notes: Patient Text: BP, pulse and wt every 6 months.
+04 Apr 2022
+
+Concerta XL 54mg tablets (Janssen-Cilag Ltd)
+
+|One to be Taken Each
+Morning (total 72mg)
+
+04 Apr 2022
+
+Methylphenidate 5mg tablets
+
+Take One daily as directed
+
+30 tablet
+
+A
+
+10 May 2022
+
+Concerta XL 18mg tablets (Janssen-Cilag Ltd)
+
+|One To Be Taken Each
+
+30 tablet
+
+A
+
+30 tablet
+
+A
+
+Morning (total 72mg)
+
+Ended early on 24 Jun 2022: Other (Medication Course Ended. Expired)
+Script notes: Patient Text: BP, pulse and wt every 6 months.
+10 May 2022
+
+Concerta XL 54mg tablets (Janssen-Cilag Ltd)
+
+|One to be Taken Each
+Morning (total 72mg)
+
+Ended early on 24 Jun 2022: Other (Medication Course Ended. Expired)
+10 May 2022
+
+Lansoprazole 30mg gastro-resistant capsules
+
+take one once daily
+
+56 capsule
+
+10 May 2022
+
+Methylphenidate 5mg tablets
+
+Take One daily as directed
+
+30 tablet
+
+A
+
+Ended early on 24 Jun 2022: Other (Medication Course Ended. Expired)
+13 Jul 2022
+
+Concerta XL 18mg tablets (Janssen-Cilag Ltd)
+
+|One To Be Taken Each
+
+30 tablet
+
+Morning (total 72mg)
+
+Script notes: Patient Text: BP, pulse and wt every 6 months.
+13 Jul 2022
+
+Methylphenidate 5mg tablets
+
+Take One daily as directed
+
+30 tablet
+
+18 Jul 2022
+
+Concerta XL 54mg tablets (Janssen-Cilag Ltd)
+
+|One to be Taken Each
+
+30 tablet
+
+Morning (total 72mg)
+
+Script notes: Pharmacy Text: ESCA 9.03.22.
+19 Aug 2022
+
+Concerta XL 18mg tablets (Janssen-Cilag Ltd)
+
+|One To Be Taken Each
+
+30 tablet
+
+Morning (total 72mg)
+
+Script notes: Patient Text: BP, pulse and wt every 6 months. ESCA 9.03.22.
+19 Aug 2022
+
+Concerta XL 54mg tablets (Janssen-Cilag Ltd)
+
+|One to be Taken Each
+
+30 tablet
+
+Morning (total 72mg)
+
+Script notes: Pharmacy Text: ESCA 9.03.22.
+
+19 Aug 2022
+
+Methylphenidate 5mg tablets
+
+| Take One daily as directed _| 30 tablet
+
+|
+
+Script notes: Pharmacy Text: ESCA 9.03.22.
+10 Oct 2022
+
+Concerta XL 18mg tablets (Janssen-Cilag Ltd)
+
+|One To Be Taken Each
+
+30 tablet
+
+Morning (total 72mg)
+
+Script notes: Patient Text: BP, pulse and wt every 6 months. ESCA 9.03.22.
+10 Oct 2022
+
+Concerta XL 54mg tablets (Janssen-Cilag Ltd)
+
+|One to be Taken Each
+
+30 tablet
+
+Morning (total 72mg)
+
+Script notes: Pharmacy Text: ESCA 9.03.22.
+10 Oct 2022
+
+Lansoprazole 30mg gastro-resistant capsules
+
+take one once daily
+
+56 capsule
+
+10 Oct 2022
+
+Methylphenidate 5mg tablets
+
+Take One daily as directed
+
+30 tablet
+
+Script notes: Pharmacy Text: ESCA 9.03.22.
+
+Thu 06 Mar 2025 12:14
+
+Confidential: Personal Data
+
+Mr Benjamin Robert Carter "Ben"
+446 377 7232, 15 Apr 1987
+
+|
+
+Printed by WOOD, Hayley (Systems Support Access Role)The Seven Dials Medical Centre
+10 Jan 2023
+
+Concerta XL 18mg tablets (Janssen-Cilag Ltd)
+
+33 of 45
+
+|One To Be Taken Each
+
+30 tablet
+
+Morning (total 72mg)
+
+Script notes: Patient Text: BP, pulse and wt every 6 months. ESCA 9.03.22.
+10 Jan 2023
+
+Concerta XL 54mg tablets (Janssen-Cilag Ltd)
+
+|One to be Taken Each
+
+30 tablet
+
+Morning (total 72mg)
+
+Script notes: Pharmacy Text: ESCA 9.03.22.
+
+10 Jan 2023
+
+Methylphenidate 5mg tablets
+
+| Take One daily as directed _| 30 tablet
+
+|
+
+|
+
+Script notes: Pharmacy Text: ESCA 9.03.22.
+07 Mar 2023
+
+Concerta XL 18mg tablets (Janssen-Cilag Ltd)
+
+|One To Be Taken Each
+
+30 tablet
+
+A
+
+30 tablet
+
+A
+
+Morning (total 72mg)
+
+Script notes: Patient Text: BP, pulse and wt every 6 months. ESCA 9.03.22.
+07 Mar 2023
+
+Concerta XL 54mg tablets (Janssen-Cilag Ltd)
+
+|One to be Taken Each
+Morning (total 72mg)
+
+Script notes: Pharmacy Text: ESCA 9.03.22.
+07 Mar 2023
+
+Lansoprazole 30mg gastro-resistant capsules
+
+take one once daily
+
+56 capsule
+
+A
+
+07 Mar 2023
+
+Methylphenidate 5mg tablets
+
+Take One daily as directed
+
+30 tablet
+
+A
+
+| Take one tablet once daily in
+
+|30 tablet
+
+Script notes: Pharmacy Text: ESCA 9.03.22.
+26 May 2023
+
+Concerta XL 18mg tablets (Janssen-Cilag Ltd)
+
+the morning (Total daily dose
+is 72mg once daily)
+
+26 May 2023
+
+Concerta XL 54mg tablets (Janssen-Cilag Ltd)
+
+| Take one tablet once daily in
+
+|30 tablet
+
+the morning (Total daily dose
+is 72mg once daily)
+26 May 2023
+
+Lansoprazole 30mg gastro-resistant capsules
+
+26 May 2023
+
+Methylphenidate 5mg tablets
+
+10 Jul 2023
+
+Concerta XL 18mg tablets (Janssen-Cilag Ltd)
+
+take one once daily
+
+56 capsule
+
+Take one tablet once daily
+
+30 tablet
+
+| Take one tablet once daily in
+
+|30 tablet
+
+A
+
+the morning (Total daily dose
+is 72mg once daily)
+
+10 Jul 2023
+
+Concerta XL 54mg tablets (Janssen-Cilag Ltd)
+
+| Take one tablet once daily in
+
+|30 tablet
+
+the morning (Total daily dose
+is 72mg once daily)
+10 Jul 2023
+
+Methylphenidate 5mg tablets
+
+07 Aug 2023
+
+Concerta XL 18mg tablets (Janssen-Cilag Ltd)
+
+Take one tablet once daily
+
+30 tablet
+
+| Take one tablet once daily in
+
+|30 tablet
+
+the morning (Total daily dose
+is 72mg once daily)
+
+07 Aug 2023
+
+Concerta XL 54mg tablets (Janssen-Cilag Ltd)
+
+| Take one tablet once daily in
+
+|30 tablet
+
+the morning (Total daily dose
+is 72mg once daily)
+07 Aug 2023
+
+Methylphenidate 5mg tablets
+
+21 Sep 2023
+
+Concerta XL 18mg tablets (Janssen-Cilag Ltd)
+
+Take one tablet once daily
+
+30 tablet
+
+| Take one tablet once daily in
+
+|30 tablet
+
+the morning (Total daily dose
+is 72mg once daily)
+
+21 Sep 2023
+
+Concerta XL 54mg tablets (Janssen-Cilag Ltd)
+
+| Take one tablet once daily in
+
+|30 tablet
+
+the morning (Total daily dose
+is 72mg once daily)
+
+05 Oct 2023
+
+Methylphenidate 5mg tablets
+
+19 Oct 2023
+
+Concerta XL 18mg tablets (Janssen-Cilag Ltd)
+
+Take one tablet once daily
+
+30 tablet
+
+| Take one tablet once daily in
+
+|30 tablet
+
+the morning (Total daily dose
+is 72mg once daily)
+
+Script notes: Please arrange an appointment for your twice yearly cardiovascular monitoring (including blood
+pressure, pulse and weight check) every February and August. This is necessary in order to continue prescribing
+your ADHD medication safely
+
+19 Oct 2023
+
+Concerta XL 54mg tablets (Janssen-Cilag Ltd)
+
+Take one tablet once daily in
+
+30 tablet
+
+the morning (Total daily dose
+is 72mg once daily)
+
+Script notes: Please arrange an appointment for your twice yearly cardiovascular monitoring (including blood
+pressure, pulse and weight check) every February and August. This is necessary in order to continue prescribing
+your ADHD medication safely
+
+Thu 06 Mar 2025 12:14
+
+Confidential: Personal Data
+
+Mr Benjamin Robert Carter "Ben
+446 377 7232, 15 Apr 1987
+
+Printed by WOOD, Hayley (Systems Support Access Role)The Seven Dials Medical Centre
+15 Nov 2023
+
+Concerta XL 18mg tablets (Janssen-Cilag Ltd)
+
+34 of 45
+
+| Take one tablet once daily in
+
+|30 tablet
+
+the morning (Total daily dose
+is 72mg once daily)
+
+Script notes: Please arrange an appointment for your twice yearly cardiovascular monitoring (including blood
+pressure, pulse and weight check) every February and August. This is necessary in order to continue prescribing
+your ADHD medication safely
+
+15 Nov 2023
+
+Concerta XL 54mg tablets (Janssen-Cilag Ltd)
+
+| Take one tablet once daily in
+
+|30 tablet
+
+the morning (Total daily dose
+is 72mg once daily)
+
+Script notes: Please arrange an appointment for your twice yearly cardiovascular monitoring (including blood
+pressure, pulse and weight check) every February and August. This is necessary in order to continue prescribing
+your ADHD medication safely
+
+15 Nov 2023
+
+Methylphenidate 5mg tablets
+
+Take one tablet once daily _| 30 tablet
+
+|
+
+|
+
+Script notes: Please arrange an appointment for your twice yearly cardiovascular monitoring (including blood
+pressure, pulse and weight check) every February and August. This is necessary in order to continue prescribing
+your ADHD medication safely
+
+30 Nov 2023
+
+Co-codamol 30mg/500mg tablets
+
+take 1 or 2 4 times/day
+
+56 tablet
+
+A
+
+06 Dec 2023
+
+Co-codamol 30mg/500mg tablets
+
+take 1 or 2 4 times/day
+
+56 tablet
+
+A
+
+13 Dec 2023
+
+Co-codamol 30mg/500mg tablets
+
+take 1 or 2 4 times/day
+
+56 tablet
+
+A
+
+14 Dec 2023
+
+Sertraline 50mg tablets
+
+od
+
+28 tablet
+
+A
+
+18 Dec 2023
+
+Concerta XL 18mg tablets (Janssen-Cilag Ltd)
+
+| Take one tablet once daily in
+
+|30 tablet
+
+the morning (Total daily dose
+is 72mg once daily)
+
+Script notes: Please arrange an appointment for your twice yearly cardiovascular monitoring (including blood
+pressure, pulse and weight check) every February and August. This is necessary in order to continue prescribing
+your ADHD medication safely
+
+18 Dec 2023
+
+Concerta XL 54mg tablets (Janssen-Cilag Ltd)
+
+| Take one tablet once daily in
+
+|30 tablet
+
+the morning (Total daily dose
+is 72mg once daily)
+
+Script notes: Please arrange an appointment for your twice yearly cardiovascular monitoring (including blood
+pressure, pulse and weight check) every February and August. This is necessary in order to continue prescribing
+your ADHD medication safely
+
+18 Dec 2023
+
+Methylphenidate 5mg tablets
+
+Take one tablet once daily _| 30 tablet
+
+|
+
+|
+
+Script notes: Please arrange an appointment for your twice yearly cardiovascular monitoring (including blood
+pressure, pulse and weight check) every February and August. This is necessary in order to continue prescribing
+your ADHD medication safely
+
+09 Jan 2024
+
+Sertraline 50mg tablets
+
+09 Jan 2024
+
+Sertraline 50mg tablets
+
+12 Jan 2024
+
+Concerta XL 18mg tablets (Janssen-Cilag Ltd)
+
+od
+
+28 tablet
+
+od
+
+28 tablet
+
+| Take one tablet once daily in
+
+A
+
+|30 tablet
+
+the morning (Total daily dose
+is 72mg once daily)
+
+Script notes: Please arrange an appointment for your twice yearly cardiovascular monitoring (including blood
+pressure, pulse and weight check) every February and August. This is necessary in order to continue prescribing
+your ADHD medication safely
+
+12 Jan 2024
+
+Concerta XL 54mg tablets (Janssen-Cilag Ltd)
+
+| Take one tablet once daily in
+
+|30 tablet
+
+the morning (Total daily dose
+is 72mg once daily)
+
+Script notes: Please arrange an appointment for your twice yearly cardiovascular monitoring (including blood
+pressure, pulse and weight check) every February and August. This is necessary in order to continue prescribing
+your ADHD medication safely
+
+12 Jan 2024
+
+Methylphenidate 5mg tablets
+
+| Take one tablet once daily _| 30 tablet
+
+|
+
+Script notes: Please arrange an appointment for your twice yearly cardiovascular monitoring (including blood
+pressure, pulse and weight check) every February and August. This is necessary in order to continue prescribing
+your ADHD medication safely
+
+12 Feb 2024
+
+Concerta XL 18mg tablets (Janssen-Cilag Ltd)
+
+| Take one tablet once daily in
+
+|30 tablet
+
+the morning (Total daily dose
+is 72mg once daily)
+
+Script notes: Please arrange an appointment for your twice yearly cardiovascular monitoring (including blood
+pressure, pulse and weight check) every February and August. This is necessary in order to continue prescribing
+your ADHD medication safely
+
+Thu 06 Mar 2025 12:14
+Confidential: Personal Data
+
+Mr Benjamin Robert Carter "Ben"
+446 377 7232, 15 Apr 1987
+
+|
+
+Printed by WOOD, Hayley (Systems Support Access Role)The Seven Dials Medical Centre
+12 Feb 2024
+
+Concerta XL 54mg tablets (Janssen-Cilag Ltd)
+
+35 of 45
+
+| Take one tablet once daily in
+
+|30 tablet
+
+the morning (Total daily dose
+is 72mg once daily)
+
+Script notes: Please arrange an appointment for your twice yearly cardiovascular monitoring (including blood
+pressure, pulse and weight check) every February and August. This is necessary in order to continue prescribing
+your ADHD medication safely
+
+12 Feb 2024
+
+Methylphenidate 5mg tablets
+
+| Take one tablet once daily _| 30 tablet
+
+|
+
+Script notes: Please arrange an appointment for your twice yearly cardiovascular monitoring (including blood
+pressure, pulse and weight check) every February and August. This is necessary in order to continue prescribing
+your ADHD medication safely
+
+26 Feb 2024
+
+Concerta XL 18mg tablets (Janssen-Cilag Ltd)
+
+| take one each morning (total | 30 tablet
+
+A
+
+daily dose is 72mg once
+daily)
+
+04 Mar 2024
+
+Sertraline 50mg tablets
+
+Take one tablet daily
+
+28 tablet
+
+06 Mar 2024
+
+Methylphenidate 5mg tablets
+
+Take one tablet once daily
+
+30 tablet
+
+Script notes: Please arrange an appointment for your twice yearly cardiovascular monitoring (including blood
+pressure, pulse and weight check) every February and August. This is necessary in order to continue prescribing
+your ADHD medication safely
+
+06 Mar 2024
+
+Methylphenidate 5mg tablets
+
+| Take one tablet once daily _| 30 tablet
+
+|
+
+|
+
+Script notes: Please arrange an appointment for your twice yearly cardiovascular monitoring (including blood
+pressure, pulse and weight check) every February and August. This is necessary in order to continue prescribing
+your ADHD medication safely
+19 Mar 2024
+
+Xaggitin XL 18mg tablets (Ethypharm UK Ltd)
+
+take one each morning (total | 30 tablet
+
+A
+
+dose is 72mg once daily)
+
+Script notes: whilst Concerta is unavailable
+19 Mar 2024
+
+Xaggitin XL 54mg tablets (Ethypharm UK Ltd)
+
+take one each morning (total | 30 tablet
+
+A
+
+daily dose is 72mg once
+daily)
+
+Script notes: whilst Concerta unavailable
+26 Mar 2024
+
+Sertraline 50mg tablets
+
+Take one tablet daily
+
+28 tablet
+
+09 Apr 2024
+
+Xaggitin XL 18mg tablets (Ethypharm UK Ltd)
+
+take one each morning (total | 30 tablet
+dose is 72mg once daily)
+
+Script notes: whilst Concerta is unavailable
+09 Apr 2024
+
+Xaggitin XL 54mg tablets (Ethypharm UK Ltd)
+
+take one each morning (total | 30 tablet
+daily dose is 72mg once
+daily)
+
+Script notes: whilst Concerta unavailable
+
+116 Apr 2024
+
+| Methylphenidate 5mg tablets
+
+| Take one tablet once daily
+
+_|30 tablet
+
+|A
+
+Script notes: Please arrange an appointment for your twice yearly cardiovascular monitoring (including blood
+pressure, pulse and weight check) every February and August. This is necessary in order to continue prescribing
+your ADHD medication safely
+
+02 May 2024
+
+Sertraline 50mg tablets
+
+Take one tablet daily
+
+28 tablet
+
+03 May 2024
+
+Xaggitin XL 18mg tablets (Ethypharm UK Ltd)
+
+take one each morning (total | 15 tablet
+dose is 72mg once daily)
+
+Script notes: The quantities of this mediation have been reduced pending essential monitoring tests as it is unsafe to
+continue without such testing. Please book ASAP.
+03 May 2024
+
+Xaggitin XL 18mg tablets (Ethypharm UK Ltd)
+
+take one each morning (total | 15 tablet
+dose is 72mg once daily)
+
+Script notes: The quantities of this mediation have been reduced pending essential monitoring tests as it is unsafe to
+continue without such testing. Please book ASAP.
+03 May 2024
+
+Xaggitin XL 54mg tablets (Ethypharm UK Ltd)
+
+take one each morning (total | 15 tablet
+daily dose is 72mg once
+daily)
+
+Script notes: The quantities of this mediation have been reduced pending essential monitoring tests as it is unsafe to
+continue without such testing. Please book ASAP.
+03 May 2024
+
+Xaggitin XL 54mg tablets (Ethypharm UK Ltd)
+
+take one each morning (total | 15 tablet
+daily dose is 72mg once
+daily)
+
+Script notes: The quantities of this mediation have been reduced pending essential monitoring tests as it is unsafe to
+Thu 06 Mar 2025 12:14
+Confidential: Personal Data
+
+Mr Benjamin Robert Carter "Ben"
+446 377 7232, 15 Apr 1987
+
+|
+
+Printed by WOOD, Hayley (Systems Support Access Role)The Seven Dials Medical Centre
+
+36 of 45
+
+continue without such testing. Please book ASAP.
+
+}09 May 2024
+
+_—| Methylphenidate 5mg tablets
+
+| Take one tablet once daily _| 30 tablet
+
+|
+
+|
+
+Script notes: Please arrange an appointment for your twice yearly cardiovascular monitoring (including blood
+pressure, pulse and weight check) every February and August. This is necessary in order to continue prescribing
+your ADHD medication safely
+
+|16 May 2024 —_—_ [Methylphenidate 18mg modified-release tablets |take one each morning
+
+| 30 tablet
+
+|
+
+|
+
+| 30 tablet
+
+|
+
+|
+
+Script notes: Only while Xaggatin is not available
+
+|16 May 2024 —_—_| Methylphenidate 54mg modified-release tablets |take one each morning
+Script notes: Only while Xaggatin is not available
+29 May 2024
+
+Sertraline 50mg tablets
+
+Take one tablet daily
+
+28 tablet
+
+30 May 2024
+
+Methylphenidate 18mg modified-release tablets | take one each morning
+
+30 tablet
+
+A
+
+_|30 tablet
+
+|A
+
+Ended early on 05 Jun 2024: Prescribing error (Unable to get) by FITZGERALD, Thomas
+Script notes: Only while Xaggatin is not available
+
+|30 May 2024
+
+_| Methylphenidate 5mg tablets
+
+| Take one tablet once daily
+
+Script notes: Please arrange an appointment for your twice yearly cardiovascular monitoring (including blood
+pressure, pulse and weight check) every February and August. This is necessary in order to continue prescribing
+your ADHD medication safely
+
+05 Jun 2024
+
+Methylphenidate 27mg modified-release tablets |Take TWO (54mg) Once in
+
+60 tablet
+
+A
+
+the morning
+
+Script notes: While 54/18 not available
+
+07 Jun 2024
+
+Methylphenidate 54mg modified-release tablets |take one each morning
+
+30 tablet
+
+|
+
+Script notes: Only while Xaggatin is not available
+11 Jun 2024
+
+Methylphenidate 18mg modified-release tablets | take one each morning
+
+30 tablet
+
+29 Jun 2024
+
+Sertraline 50mg tablets (HFA Healthcare Ltd)
+
+4 tablet
+
+As previously advised
+
+O
+
+Administrative notes: See communication on 29 Jun 2024 for further details.
+01 Jul 2024
+
+Methylphenidate 5mg tablets
+
+take one as directed
+
+30 tablet
+
+01 Jul 2024
+
+Sertraline 50mg tablets
+
+Take one tablet daily
+
+28 tablet
+
+03 Jul 2024
+
+Methylphenidate 36mg modified-release tablets |Take TWO in the morning
+
+60 tablet
+
+29 Jul 2024
+
+Methylphenidate 18mg modified-release tablets take os each morning
+
+30 tablet
+
+29 Jul 2024
+
+Methylphenidate 54mg modified-release tablets | take one each morning
+
+30 tablet
+
+72m
+
+A
+
+Script notes: Only while Xaggatin is not available
+29 Jul 2024
+
+Methylphenidate 5mg tablets
+
+take one as directed
+
+30 tablet
+
+29 Jul 2024
+
+Sertraline 50mg tablets
+
+Take one tablet daily
+
+28 tablet
+
+16 Aug 2024
+
+Sertraline 50mg tablets
+
+Take one tablet daily
+
+28 tablet
+
+Ended early on 11 Sep 2024: Change to medication treatment regime by TORBATI, Razi (Dr)
+30 Aug 2024
+
+Medikinet XL 10mg capsules (Medice UK Ltd)
+
+60 capsule
+
+A
+
+30 Aug 2024
+
+Medikinet XL 50mg capsules (Medice UK Ltd) _ | take one each morning
+
+| take 2 each morning
+
+30 capsule
+
+A
+
+30 Aug 2024
+
+Methylphenidate 5mg tablets
+
+take one as directed
+
+30 tablet
+
+one tablet a day
+
+28 tablet
+
+11 Sep 2024
+
+Sertraline 100mg tablets
+
+09 Oct 2024
+
+Methylphenidate 18mg modified-release tablets | take one each morning
+
+30 tablet
+
+09 Oct 2024
+
+Methylphenidate 54mg modified-release tablets | take one each morning
+
+30 tablet
+
+Script notes: Only while Xaggatin is not available
+09 Oct 2024
+
+Methylphenidate 5mg tablets
+
+take one as directed
+
+30 tablet
+
+09 Oct 2024
+
+Sertraline 100mg tablets
+
+one tablet a day
+
+28 tablet
+
+10 Oct 2024
+
+Medikinet XL 10mg capsules (Medice UK Ltd) __| take 2 each morning
+
+60 capsule
+
+A
+
+10 Oct 2024
+
+Medikinet XL 50mg capsules (Medice UK Ltd) _ | take one each morning
+
+30 capsule
+
+A
+
+21 Oct 2024
+
+Medikinet XL 50mg capsules (Medice UK Ltd) __| take one each morning
+
+30 capsule
+
+Administrative notes: see tasks - only option we have currently.
+04 Nov 2024
+
+Methylphenidate 36mg modified-release tablets | take Two each morning
+
+60 tablet
+
+08 Nov 2024
+
+Methylphenidate 5mg tablets
+
+take one if required - max 1_ |
+
+30 tablet
+
+15 Nov 2024
+
+Sertraline 100mg tablets
+
+dail
+
+28 tablet
+
+02 Dec 2024
+
+Methylphenidate 18mg modified-release tablets | take one each morning
+
+Thu 06 Mar 2025 12:14
+
+Confidential: Personal Data
+
+one tablet a day
+
+30 tablet
+
+A
+
+A
+
+Mr Benjamin Robert Carter "Ben"
+446 377 7232, 15 Apr 1987
+
+|
+
+Printed by WOOD, Hayley (Systems Support Access Role)The Seven Dials Medical Centre
+
+|02 Dec 2024
+
+37 of 45
+
+| Methylphenidate 54mg modified-release tablets |take one each morning
+
+| 30 tablet
+
+lA
+
+Script notes: Only while Xaggatin is not available
+09 Dec 2024
+
+Methylphenidate 5mg tablets
+
+take one if required - max 1_ |
+
+30 tablet
+
+17 Dec 2024
+
+Sertraline 100mg tablets
+
+dail
+
+28 tablet
+
+27 Dec 2024
+
+Methylphenidate 18mg modified-release tablets | take one each morning
+
+30 tablet
+
+A
+
+27 Dec 2024
+
+Methylphenidate 54mg modified-release tablets | take one each morning
+
+30 tablet
+
+A
+
+one tablet a day
+
+Script notes: Only while Xaggatin is not available
+03 Jan 2025
+
+Methylphenidate 5mg tablets
+
+take one if required - max 1_ |
+
+20 Jan 2025
+
+Sertraline 100mg tablets
+
+dail
+
+30 Jan 2025
+
+Xaggitin XL 36mg tablets (Ethypharm UK Ltd)
+
+Take two tablets once
+
+30 tablet
+
+one table a day
+
+28 tablet
+aday
+
+/|60 tablet
+
+in the morning. Total dose
+72mg
+
+Administrative notes: Dose as per SCA - 13.05.24
+Script notes: Please ensure that BP, Pulse, Height and Weight are monitored at least every 6 months or after a dose
+change
+06 Feb 2025
+
+Methylphenidate 5mg tablets
+
+Take one tablet maximum of
+
+30 tablet
+
+once a day
+
+Administrative notes: As per SCA - 13.05.24
+Script notes: Please ensure that BP, Pulse, Height and Weight are monitored at least every 6 months or after a dose
+change
+
+27 Feb 2025
+
+Sertraline 100mg tablets
+
+one tablet a day
+
+27 Feb 2025
+
+Xaggitin XL 36mg tablets (Ethypharm UK Ltd)
+
+Take two tablets once
+
+28 tablet
+aday
+
+/|60 tablet
+
+in the morning. Total dose
+72mg
+
+Administrative notes: Dose as per SCA - 13.05.24
+Script notes: Please ensure that BP, Pulse, Height and Weight are monitored at least every 6 months or after a dose
+change
+
+Repeat Templates
+09 Mar 2022
+
+Lansoprazole 30mg
+
+Take one capsule once | 28 capsule
+
+gastro-resistant capsules
+
+daily
+
+Issues: 0
+13 Jul 2022
+
+Never, Ended
+
+End Reason: Re-Authorised by TORBATI, Razi (Dr)
+Methylphenidate 5mg tablets
+
+Take One daily as
+
+30 tablet
+
+10 Jan 2023, Ended
+
+directed
+Issues: 4
+
+End Reason: Patient Deducted (Active repeat ended on
+
+GP2GP transfer)
+Script notes: Pharmacy Text: ESCA 9.03.22.
+13 Jul 2022
+
+Concerta XL 54mg tablets
+
+One to be Taken Each
+
+(Janssen-Cilag Ltd)
+
+Morning (total 72mg)
+
+Issues: 4
+
+|30 tablet
+
+10 Jan 2023, Ended
+
+End Reason: Patient Deducted (Active repeat ended on
+
+GP2GP transfer)
+Script notes: Pharmacy Text: ESCA 9.03.22.
+13 Jul 2022
+
+Concerta XL 18mg tablets
+
+One To Be Taken
+
+(Janssen-Cilag Ltd)
+
+Each Morning (total
+
+30 tablet
+
+10 Jan 2023, Ended
+
+72mg)
+Issues: 4
+
+End Reason: Patient Deducted (Active repeat ended on
+
+GP2GP transfer)
+Script notes: Patient Text: BP, pulse and wt every 6 months. ESCA 9.03.22.
+22 May 2023
+
+Concerta XL 54mg tablets
+
+Take one tablet once ‘| 30 tablet
+
+(Janssen-Cilag Ltd)
+
+daily in the morning
+
+21 Sep 2023, Ended
+
+(Total daily dose is
+72mg once daily)
+
+Issues: 4
+
+End Reason: Re-Authorised by TORBATI, Razi (Dr)
+
+Indication: Attention deficit hyperactivity disorder (XE2Q6) (SNOMED: 406506008)
+Indication: Shared care prescribing (XaK6z) (SNOMED: 415522008)
+
+Thu 06 Mar 2025 12:14
+
+Confidential: Personal Data
+
+Mr Benjamin Robert Carter "Ben"
+446 377 7232, 15 Apr 1987
+
+|
+
+Printed by WOOD, Hayley (Systems Support Access Role)The Seven Dials Medical Centre
+
+38 of 45
+
+Script notes: Please arrange an appointment for your twice yearly cardiovascular monitoring (including blood
+pressure, pulse and weight check) every February and August. This is necessary in order to continue prescribing
+your ADHD medication safely
+22 May 2023
+
+Methylphenidate 5mg tablets
+
+Take one tablet once
+
+05 Oct 2023, Ended
+
+30 tablet
+
+daily
+
+End Reason: Re-Authorised by TORBATI, Razi (Dr)
+
+Issues:
+4
+
+Indication: Shared care prescribing (XaK6z) (SNOMED: 415522008)
+Indication: Attention deficit hyperactivity disorder (XE2Q6) (SNOMED: 406506008)
+Script notes: Please arrange an appointment for your twice yearly cardiovascular monitoring (including blood
+pressure, pulse and weight check) every February and August. This is necessary in order to continue prescribing
+your ADHD medication safely
+
+22 May 2023
+
+Concerta XL 18mg tablets
+
+Take one tablet once ‘| 30 tablet
+
+(Janssen-Cilag Ltd)
+
+daily in the morning
+
+21 Sep 2023, Ended
+
+(Total daily dose is
+72mg once daily)
+
+Issues: 4
+
+End Reason: Re-Authorised by TORBATI, Razi (Dr)
+
+Indication: Attention deficit hyperactivity disorder (XE2Q6) (SNOMED: 406506008)
+Indication: Shared care prescribing (XaK6z) (SNOMED: 415522008)
+Script notes: Please arrange an appointment for your twice yearly cardiovascular monitoring (including blood
+pressure, pulse and weight check) every February and August. This is necessary in order to continue prescribing
+your ADHD medication safely
+
+19 Oct 2023
+
+Concerta XL 54mg tablets
+
+Take one tablet once
+
+(Janssen-Cilag Ltd)
+
+daily in the morning
+
+30 tablet
+
+12 Feb 2024, Ended
+
+(Total daily dose is
+72mg once daily)
+
+Issues: 5
+
+End Reason: Re-Authorised by TORBATI, Razi (Dr)
+
+Indication: Shared care prescribing (XaK6z) (SNOMED: 415522008)
+Indication: Attention deficit hyperactivity disorder (XE2Q6) (SNOMED: 406506008)
+Script notes: Please arrange an appointment for your twice yearly cardiovascular monitoring (including blood
+pressure, pulse and weight check) every February and August. This is necessary in order to continue prescribing
+your ADHD medication safely
+
+19 Oct 2023
+
+Methylphenidate 5mg tablets
+
+Take one tablet once
+
+30 tablet
+
+06 Mar 2024, Ended
+
+daily
+
+End Reason: Re-Authorised by TORBATI, Razi (Dr)
+
+Issues:
+5
+
+Indication: Shared care prescribing (XaK6z) (SNOMED: 415522008)
+Indication: Attention deficit hyperactivity disorder (XE2Q6) (SNOMED: 406506008)
+Script notes: Please arrange an appointment for your twice yearly cardiovascular monitoring (including blood
+pressure, pulse and weight check) every February and August. This is necessary in order to continue prescribing
+your ADHD medication safely
+
+19 Oct 2023
+
+Concerta XL 18mg tablets
+
+Take one tablet once
+
+(Janssen-Cilag Ltd)
+
+daily in the morning
+
+30 tablet
+
+12 Feb 2024, Ended
+
+(Total daily dose is
+72mg once daily)
+
+Issues: 5
+
+End Reason: Re-Authorised by TORBATI, Razi (Dr)
+
+Indication: Attention deficit hyperactivity disorder (XE2Q6) (SNOMED: 406506008)
+Indication: Shared care prescribing (XaK6z) (SNOMED: 415522008)
+Script notes: Please arrange an appointment for your twice yearly cardiovascular monitoring (including blood
+pressure, pulse and weight check) every February and August. This is necessary in order to continue prescribing
+your ADHD medication safely
+
+19 Oct 2023
+
+Lansoprazole 30mg
+
+Take one capsule once | 28 capsule
+
+gastro-resistant capsules
+
+daily
+
+Issues: 0
+
+|09 Jan 2024
+
+Reauthorised, Ended
+
+End Reason: Re-Authorised by TORBATI, Razi (Dr)
+
+| Sertraline 50mg tablets
+
+| Take one tablet daily _| 28 tablet
+
+Issues: 2
+
+|04 Mar 2024, Ended
+
+End Reason: Re-Authorised by TORBATI, Razi (Dr)
+
+Indication: Feeling anxious (XKEOrb) (SNOMED: 48694002)
+06 Mar 2024
+
+Methylphenidate 5mg tablets
+
+Take one tablet once
+
+30 tablet
+
+06 Mar 2024, Ended
+
+daily
+Issues:
+1
+Thu 06 Mar 2025 12:14
+
+Confidential: Personal Data
+
+End Reason: Change to medication treatment regime by
+Mr Benjamin Robert Carter "Ben"
+446 377 7232, 15 Apr 1987
+
+|
+
+Printed by WOOD, Hayley (Systems Support Access Role)The Seven Dials Medical Centre
+
+39 of 45
+
+TORBATI, Razi (Dr)
+Indication: Shared care prescribing (XaK6z) (SNOMED: 415522008)
+Indication: Attention deficit hyperactivity disorder (XE2Q6) (SNOMED: 406506008)
+Script notes: Please arrange an appointment for your twice yearly cardiovascular monitoring (including blood
+pressure, pulse and weight check) every February and August. This is necessary in order to continue prescribing
+your ADHD medication safely
+
+06 Mar 2024
+
+Concerta XL 54mg tablets
+
+Take one tablet once
+
+(Janssen-Cilag Ltd)
+
+daily in the morning
+
+30 tablet
+
+from previous template,
+
+12 Feb 2024, Issue
+
+(Total daily dose is
+
+Reauthorised, Ended
+
+72mg once daily)
+
+Issues: 0
+
+End Reason: Change to medication treatment regime by
+TORBATI, Razi (Dr)
+
+Indication: Attention deficit hyperactivity disorder (XE2Q6) (SNOMED: 406506008)
+Indication: Shared care prescribing (XaK6z) (SNOMED: 415522008)
+Script notes: Please arrange an appointment for your twice yearly cardiovascular monitoring (including blood
+pressure, pulse and weight check) every February and August. This is necessary in order to continue prescribing
+your ADHD medication safely
+
+06 Mar 2024
+
+Concerta XL 18mg tablets
+
+Take one tablet once
+
+(Janssen-Cilag Ltd)
+
+daily in the morning
+
+30 tablet
+
+from previous template,
+
+12 Feb 2024, Issue
+
+(Total daily dose is
+
+Reauthorised, Ended
+
+72mg once daily)
+
+Issues: 0
+
+End Reason: Change to medication treatment regime by
+TORBATI, Razi (Dr)
+
+Indication: Attention deficit hyperactivity disorder (XE2Q6) (SNOMED: 406506008)
+Indication: Shared care prescribing (XaK6z) (SNOMED: 415522008)
+Script notes: Please arrange an appointment for your twice yearly cardiovascular monitoring (including blood
+pressure, pulse and weight check) every February and August. This is necessary in order to continue prescribing
+your ADHD medication safely
+06 Mar 2024
+
+Lansoprazole 30mg
+
+Take one capsule once | 28 capsule
+
+gastro-resistant capsules
+
+daily
+
+Issues: 0 out of 4
+
+|06 Mar 2024
+
+| Sertraline 50mg tablets
+
+Reauthorised
+
+Review:
+
+| Take one tablet daily _| 28 tablet
+
+Issues: 6
+
+116 Aug 2024, Ended
+
+End Reason: Change to medication treatment regime by
+TORBATI, Razi (Dr)
+
+Indication: Feeling anxious (XKEOrb) (SNOMED: 48694002)
+09 Apr 2024
+
+Xaggitin XL 18mg tablets
+
+take one each morning | 30 tablet
+
+(Ethypharm UK Ltd)
+
+(total dose is 72mg
+
+03 May 2024, Ended
+
+once daily)
+
+Issues: 3
+
+End Reason: Clinical grounds (More appropriate prescribing
+2x36mg) by MACK, Heidi (Mrs)
+
+Indication: Attention deficit hyperactivity disorder (XE2Q6) (SNOMED: 406506008)
+09 Apr 2024
+
+Xaggitin XL 54mg tablets
+
+take one each morning | 30 tablet
+
+(Ethypharm UK Ltd)
+
+(total daily dose is
+
+03 May 2024, Ended
+
+72mg once daily)
+
+Issues: 3
+
+End Reason: Clinical grounds (More appropriate prescribing
+2x36mg) by MACK, Heidi (Mrs)
+
+Indication: Attention deficit hyperactivity disorder (XE2Q6) (SNOMED: 406506008)
+09 May 2024
+
+Methylphenidate 5mg tablets
+
+Take one tablet once
+
+| 30 tablet
+
+09 May 2024, Ended
+
+daily
+
+Issues: 1
+
+End Reason: Re-Authorised by FITZGERALD, Thomas
+
+Script notes: Please arrange an appointment for your twice yearly cardiovascular monitoring (including blood
+pressure, pulse and weight check) every February and August. This is necessary in order to continue prescribing
+your ADHD medication safely
+
+16 May 2024
+
+Methylphenidate 54mg
+
+take one each morning | 30 tablet
+
+09 Oct 2024, Ended
+
+modified-release tablets
+
+Issues: 4
+
+End Reason: At the Pharmacist's request by DICKINSON,
+Dharam (Dr)
+
+Indication: Attention deficit hyperactivity disorder (XE2Q6) (SNOMED: 406506008)
+Script notes: Only while Xaggatin is not available
+Thu 06 Mar 2025 12:14
+Confidential: Personal Data
+
+Mr Benjamin Robert Carter "Ben"
+446 377 7232, 15 Apr 1987
+
+|
+
+Printed by WOOD, Hayley (Systems Support Access Role)The Seven Dials Medical Centre
+16 May 2024
+
+Methylphenidate 18mg
+
+40 of 45
+
+take one each morning | 30 tablet
+
+16 May 2024, Ended
+
+modified-release tablets
+
+Issues: 1
+
+End Reason: Prescribing error by FITZGERALD, Thomas
+
+Indication: Attention deficit hyperactivity disorder (XE2Q6) (SNOMED: 406506008)
+Script notes: Only while Xaggatin is not available
+30 May 2024
+
+Methylphenidate 5mg tablets
+
+Take one tablet once
+
+| 30 tablet
+
+09 May 2024, Issue
+
+daily
+
+from previous template,
+Reauthorised, Ended
+
+Issues: 0
+
+End Reason: Prescribing error by FITZGERALD, Thomas
+
+Script notes: Please arrange an appointment for your twice yearly cardiovascular monitoring (including blood
+pressure, pulse and weight check) every February and August. This is necessary in order to continue prescribing
+your ADHD medication safely
+30 May 2024
+
+Methylphenidate 5mg tablets
+
+Take one tablet
+
+30 tablet
+
+06 Feb 2025
+
+maximum of once a
+day
+Issues: 8
+
+Review: 30 May 2025
+
+Indication: Attention deficit hyperactivity disorder (XE2Q6) (SNOMED: 406506008)
+Administrative notes: As per SCA - 13.05.24
+Script notes: Please ensure that BP, Pulse, Height and Weight are monitored at least every 6 months or after a dose
+change
+
+30 May 2024
+
+Methylphenidate 18mg
+
+take one each morning | 30 tablet
+
+09 Oct 2024, Ended
+
+modified-release tablets
+
+Issues: 3
+
+End Reason: At the Pharmacist's request by DICKINSON,
+Dharam (Dr)
+
+Indication: Attention deficit hyperactivity disorder (XE2Q6) (SNOMED: 406506008)
+
+111 Sep 2024
+
+| Sertraline 100mg tablets
+
+[one tablet a day
+
+Issues: 6
+10 Oct 2024
+
+| 28 tablet
+
+|27 Feb 2025
+
+Review: 11 Sep 2025
+Medikinet XL 50mg capsules
+
+take one each morning | 30 capsule
+
+21 Oct 2024, Ended
+
+(Medice UK Ltd)
+
+Issues: 1
+
+End Reason: Clinical grounds (More appropriate prescribing
+2x36mg) by MACK, Heidi (Mrs)
+
+Administrative notes: see tasks - only option we have currently.
+
+10 Oct 2024
+
+Medikinet XL 10mg capsules
+
+take 2 each morning
+
+60 capsule
+
+Never, Ended
+
+(Medice UK Ltd)
+
+Issues: 0
+
+End Reason: Clinical grounds (More appropriate prescribing
+- 2x36mg) by MACK, Heidi (Mrs)
+
+28 Jan 2025
+
+Xaggitin XL 36mg tablets
+
+Take two tablets once | 60 tablet
+
+(Ethypharm UK Ltd)
+
+a day in the morning.
+
+27 Feb 2025
+
+Total dose 72mg
+Issues: 2
+
+Review: 28 Jan 2026
+
+Indication: Shared care prescribing (XaK6z) (SNOMED: 415522008)
+Indication: Attention deficit hyperactivity disorder (XE2Q6) (SNOMED: 406506008)
+Administrative notes: Dose as per SCA - 13.05.24
+Script notes: Please ensure that BP, Pulse, Height and Weight are monitored at least every 6 months or after a dose
+change
+28 Jan 2025
+
+Xaggitin XL 36mg tablets
+
+Take two tablets once | 60 tablet
+
+(Ethypharm UK Ltd)
+
+a day in the morning.
+
+Never, Ended
+
+Total dose - 72mg
+
+Issues: 0
+
+End Reason: Clinical grounds (More appropriate prescribing
+- 2x36mg) by MACK, Heidi (Mrs)
+
+Indication: Shared care prescribing (XaK6z) (SNOMED: 415522008)
+Indication: Attention deficit hyperactivity disorder (XE2Q6) (SNOMED: 406506008)
+Script notes: Dose as per SCA - 13.05.24
+
+Drug Sensitivities
+No information recorded
+
+Thu 06 Mar 2025 12:14
+Confidential: Personal Data
+
+Mr Benjamin Robert Carter "Ben
+446 377 7232, 15 Apr 1987
+
+|
+
+Printed by WOOD, Hayley (Systems Support Access Role)The Seven Dials Medical Centre
+
+41 of 45
+
+Allergies
+No information recorded
+
+Problem Substances
+No information recorded
+
+Recalls
+
+|25 Aug 2021
+
+| medication review
+
+| Seen
+
+Notes: Recall status set to ‘Seen’ by GP2GP transfer
+
+|09 May 2022. __| High risk drug monitoring review
+
+|Seen
+
+Notes: Recall status set to ‘Seen’ by GP2GP transfer
+needs bp,etc see letter Apr 2022
+
+|08 Oct 2022
+
+| Primary Care Group
+
+| Cancelled by clinician on 21 Feb 2023
+
+Notes: Admin tag (DO NOT REMOVE)
+Cancellation Reason: Patient deducted.
+
+|08 Oct 2022
+
+| Primary Care Group
+
+| Cancelled by clinician on 21 Feb 2023
+
+Notes: Admin tag (DO NOT REMOVE)
+Cancellation Reason: Patient deducted.
+
+|10 Oct 2022
+
+| medication review
+
+| Cancelled by clinician on 21 Feb 2023
+
+Cancellation Reason: Patient deducted.
+
+110 Oct 2022
+
+| Primary Care Group
+
+| Cancelled by clinician on 21 Feb 2023
+
+Notes: Admin tag (DO NOT REMOVE)
+Cancellation Reason: Patient deducted.
+
+Reminders
+14 May 2024
+
+Did not attend for HCA Clinic appointment with Ms Victoria Collins.
+
+Cancelled on 16
+
+Please inform the patient that if they cannot attend an appointment in the future |May 2024
+
+they should inform staff so that it can be cancelled ASAP.
+Expires 13 May 2025
+
+24 Apr 2024
+
+Did not attend for Session appointment with Ms Victoria Collins.
+
+Normal Priority
+
+Please inform the patient that if they cannot attend an appointment in the future
+
+they should inform staff so that it can be cancelled ASAP.
+Expires 23 Apr 2025
+
+15 Nov 2023
+
+Notes recieved, not yet coded 15/11/23
+
+Cancelled on 17
+
+04 Apr 2023
+
+notes received not coded
+
+Cancelled on 30
+
+09 Feb 2023
+
+This patient is newly registered here, make sure that patient data already on
+
+Nov 2023
+Aug 2023
+
+09 Feb 2023
+
+Cancelled on 27
+
+the system has been checked for conformity to policy.
+
+Feb 2023
+
+This patient is newly registered here, make sure that patient data already on
+
+Cancelled on 27
+
+the system has been checked for conformity to policy.
+
+Feb 2023
+
+Vaccinations
+No information recorded
+
+Summary
+CS = Chronic Summary
+Episode
+
+MS =Major Summary
+
+OS=Minor Summary
+
+S = Unspecified Summary
+
+NE = New
+
+OE = Ongoing Episode
+
+15 Mar 2022
+
+Shared care prescribing (XaK6z) (SNOMED: 415522008)
+
+ADHD
+
+MS
+
+31 Oct 2023
+
+Enhanced review indicated before granting access to own health =| Added in bulk
+
+NE
+
+S
+
+record (Y2ffe) (SNOMED: 1364731000000104)
+18 Sep 2024
+
+Knee pain (Xa0wx) (SNOMED: 30989003)
+
+OS
+
+OE
+
+Pathology Results
+No information recorded
+Thu 06 Mar 2025 12:14
+
+Confidential: Personal Data
+
+Mr Benjamin Robert Carter "Ben"
+446 377 7232, 15 Apr 1987
+
+Printed by WOOD, Hayley (Systems Support Access Role)The Seven Dials Medical Centre
+
+42 of 45
+
+Active Problem: Shared care prescribing (XaK6z) (SNOMED: 415522008) (15 Mar 2022 Ongoing) - ADHD
+115 Mar 2022
+| ADHD
+Active Problem: Letter from Driver and Vehicle Licensing Authority received (XaN6Y)
+
+(SNOMED: 2950510000001 01) (25 Jan 2023 - Ongoing) - First
+|25 Jan 2023
+| First
+Active Problem: Sciatica (XE1FC) (SNOMED: 23056005) (06 Dec 2023 - Ongoing)
+A=Acute
+
+P=Private
+
+|=Dispensed
+
+D=Dental
+
+WH=Hospital
+
+06 Dec 2023
+
+Co-codamol 30mg/500mg tablets
+
+06 Dec 2023
+
+Problem: Sciatica (XE1FC) (SNOMED: 23056005)
+
+O = Other
+
+|take 1 or 2 4 times/day
+
+| 56 tablet
+
+|A
+
+H: Ongoing as A&E initial consultation
+Able to move and exercise with Cocodamol but has run out
+Agree to further issue as making progress
+Also mentions he asked re starting antidepressant with current meds for ADHD
+
+| note following consultation Dr RT task and CB reply
+P: Patient to make appointment to discuss task information
+
+Active Problem: Knee pain (XaQwx) (SNOMED: 30989003) (18 Sep 2024 - Ongoing)
+
+118 Sep 2024
+
+| Consultation with third party to The Seven Dials Medical Centre
+
+Letter Type
+
+Consultation with third party
+
+Letter To
+
+The Seven Dials Medical Centre
+
+Letter From
+
+Doctor Care Anywhere
+
+18 Sep 2024
+
+Private referral (BHV..) (SNOMED: 183877003)
+
+18 Sep 2024
+
+Knee pain (Xa0wx) (SNOMED: 30989003)
+
+NE
+OS
+
+OE
+18 Sep 2024
+
+Third party consultation (XalkK) (SNOMED: 257410000001
+00)
+
+NE
+
+Inactive Problem: Olecranon bursitis (N2133) (SNOMED: 425940002) (26 Jul 2021 - 24 Aug 2021)
+- First
+
+|26 Jul 2021
+
+| First
+
+Inactive Problem: Acute tonsillitis (KE2aC) (SNOMED: 17741008) (06 Oct 2021 - 04 Nov 2021) First
+A=Acute
+
+P=Private
+
+06 Oct 2021
+
+|=Dispensed
+
+D=Dental
+
+Clarithromycin 250mg tablets
+
+H=Hospital
+
+O = Other
+
+One To Be Taken Twice A
+
+10 tablet
+
+A
+
+14 tablet
+
+A
+
+Day For 5 Days
+
+Ended early on 06 Oct 2021: Other (Medication Course Ended)
+06 Oct 2021
+
+Clarithromycin 500mg tablets
+
+One To Be Taken Twice A
+Day
+
+Ended early on 04 Nov 2021: Other (Medication Course Ended. Expired)
+
+|06 Oct 2021
+
+| First
+
+Inactive Problem: Pain in throat (1CB3.) (SNOMED: 162397003) (06 Oct 2021 - 04 Nov 20271) First
+
+|06 Oct 2021
+
+| First
+
+Inactive Problem: Paronychia of finger (XE1AR) (SNOMED: 444646006) (19 Oct 2021 - 17 Nov
+2021) - First
+
+|19 Oct 2021
+
+| First
+
+|
+
+Care Plans
+
+|09 Apr 2024
+
+| Patient Plan
+
+Thu 06 Mar 2025 12:14
+
+Confidential: Personal Data
+
+| Reviewed:
+Mr Benjamin Robert Carter "Ben"
+446 377 7232, 15 Apr 1987
+
+|
+
+Printed by WOOD, Hayley (Systems Support Access Role)The Seven Dials Medical Centre
+
+43 of 45
+
+Care Goal:
+1) currently on Xaggitin for ADHD. switched from Concerta as it was not available. also side
+effect with headache with Methylphenodate.
+
+Social Services Contacts
+No information recorded
+
+Admissions
+No information recorded
+
+Communications
+
+}26 Jul 2021
+
+|
+
+Completed on 26 Jul 2021 00:00
+
+From
+
+Unknown,
+
+To
+
+Unknown,
+
+Reference
+
+Seen in urgent care centre
+
+Description
+
+Original text document
+Inbound document: Seen in urgent care centre CARTER, Benjamin (Mr) 1517 26-Jul-2021 .rtf
+(26-Jul-2021)
+
+Entered By
+
+19 Oct 2021
+
+|
+
+Completed on 19 Oct 2021 00:00
+
+From
+
+Unknown,
+
+To
+
+Unknown,
+
+Reference
+
+Attachment
+
+Description
+
+Image (document)
+Photo submitted by patient (compressed file, for original please see photo link in affiliated
+consultation)
+
+Entered By
+
+12 Jan 2022
+
+Completed on 12 Jan 2022 00:00
+
+From
+
+Unknown,
+
+To
+
+Unknown,
+
+Reference
+
+Administration of vaccine
+
+Description
+
+Original text document
+Notification of Vaccination (12-Jan-2022)
+
+Entered By
+
+28 Sep 2022
+
+Completed on 28 Sep 2022 00:00
+
+From
+
+Unknown,
+
+To
+
+Unknown,
+
+Reference
+
+Referral Letter (28-Sep-2022)
+
+Description
+
+Original text document
+for Neurological referral
+
+Entered By
+
+25 Jan 2023
+
+Completed on 25 Jan 2023 00:00
+
+From
+
+Unknown,
+
+To
+
+Unknown,
+
+Reference
+
+Medical examinations/reports
+
+Description
+
+Original text document
+DVLA exam report carried out over the phone posted 27.1.23 with invoice
+
+Entered By
+
+Scanned Documents
+|03 Feb 2023
+| Clinic Letter to The Seven Dials Medical Centre
+Letter Type
+
+Clinic Letter
+
+Letter To
+
+The Seven Dials Medical Centre
+
+Letter From
+
+Dr Russell Donald, Primary care doctor
+
+Thu 06 Mar 2025 12:14
+Confidential: Personal Data
+
+Mr Benjamin Robert Carter "Ben"
+446 377 7232, 15 Apr 1987
+
+Printed by WOOD, Hayley (Systems Support Access Role)The Seven Dials Medical Centre
+
+|08 Feb 2023
+Letter Type
+
+Consent Form
+
+Letter To
+
+The Seven Dials Medical Centre
+
+Letter From
+
+Mr Benjamin Carter
+
+|08 Feb 2023
+
+| Registration to Montpelier Surgery
+
+Letter Type
+
+Registration
+
+Letter To
+
+Montpelier Surgery
+
+Letter From
+
+|16 Feb 2023
+
+Mr Benjamin Carter
+
+| Cardiology to The Seven Dials Medical Centre
+
+Letter Type
+
+Cardiology
+
+Letter To
+
+The Seven Dials Medical Centre
+
+Letter From
+
+Dr Sukhbir Dhamrait, Goring Hall Hospital
+
+113 Mar 2023
+
+| Cardiology to The Seven Dials Medical Centre
+
+Letter Type
+
+Cardiology
+
+Letter To
+
+The Seven Dials Medical Centre
+
+Letter From
+
+114 Apr 2023
+
+44 of 45
+
+| Consent Form to The Seven Dials Medical Centre
+
+Dr Sukhbir Dhamrait, Goring Hall Hospital
+
+| Orthopaedics to Mr Benjamin Carter
+
+Letter Type
+
+Orthopaedics
+
+Letter To
+
+Mr Benjamin Carter
+
+Letter From
+
+Mr Robin Turner, Montefiore Hospital
+
+|03 May 2023 _| Orthopaedics to Mr Benjamin Carter
+Letter Type
+
+Orthopaedics
+
+Letter To
+
+Mr Benjamin Carter
+
+Letter From
+
+121 Oct 2023
+
+Mr Robin Turner, The Montefiore Hospital
+
+| Neurology to The Seven Dials Medical Centre
+
+Letter Type
+
+Neurology
+
+Letter To
+
+The Seven Dials Medical Centre
+
+Letter From
+
+Worthing Hospital
+
+|26 Nov 2023
+
+| A&E to The Seven Dials Medical Centre
+
+Letter Type
+
+A&E
+
+Letter To
+
+The Seven Dials Medical Centre
+
+Letter From
+
+|22 Feb 2024
+
+A&E
+
+| Medical Report to The Seven Dials Medical Centre
+
+Letter Type
+
+Medical Report
+
+Letter To
+
+The Seven Dials Medical Centre
+
+Letter From
+
+Medical Record Request
+
+|26 Feb 2024
+
+| SOLICITORS to Mrs Michelle Hewson
+
+Letter Type
+
+SOLICITORS
+
+Letter To
+
+Mrs Michelle Hewson
+
+Letter From
+
+|27 Mar 2024
+
+| Mental Health to The Seven Dials Medical Centre
+
+Letter Type
+
+Mental Health
+
+Letter To
+
+The Seven Dials Medical Centre
+
+Letter From
+
+Assessment & Treatment Service
+
+|27 Mar 2024
+
+| Assessments to The Seven Dials Medical Centre
+
+Letter Type
+
+Assessments
+
+Letter To
+
+The Seven Dials Medical Centre
+
+Letter From
+
+|30 Mar 2024
+
+Assessment & Treatment Service
+
+| Mental Health to The Seven Dials Medical Centre
+
+Letter Type
+
+Mental Health
+
+Letter To
+
+The Seven Dials Medical Centre
+
+Letter From
+
+Shared Care
+
+|30 Mar 2024
+
+| Mental Health to The Seven Dials Medical Centre
+
+Thu 06 Mar 2025 12:14
+
+Confidential: Personal Data
+
+Mr Benjamin Robert Carter "Ben"
+446 377 7232, 15 Apr 1987
+
+Printed by WOOD, Hayley (Systems Support Access Role)The Seven Dials Medical Centre
+Letter Type
+
+Mental Health
+
+Letter To
+
+The Seven Dials Medical Centre
+
+Letter From
+
+Shared Care
+
+130 Apr 2024
+
+| Psychiatry to The Seven Dials Medical Centre
+
+Letter Type
+
+Psychiatry
+
+Letter To
+
+The Seven Dials Medical Centre
+
+Letter From
+
+|14 May 2024
+
+Assessment & Treatment Service, Hove Polyclinic
+
+| Shared Care Drug Treatment to The Seven Dials Medical Centre
+
+Letter Type
+
+Shared Care Drug Treatment
+
+Letter To
+
+The Seven Dials Medical Centre
+
+Letter From
+
+Shared Care
+
+115 May 2024
+
+45 of 45
+
+‘| Cardiac to The Seven Dials Medical Centre
+
+Letter Type
+
+Cardiac
+
+Letter To
+
+The Seven Dials Medical Centre
+
+Letter From
+
+|29 Jun 2024
+
+The Sussex Cardiac Centre
+
+| Pharmacy to The Seven Dials Medical Centre
+
+Letter Type
+
+Pharmacy
+
+Letter To
+
+The Seven Dials Medical Centre
+
+Letter From
+
+Ross Pharmacy
+
+118 Sep 2024
+
+| Consultation with third party to The Seven Dials Medical Centre
+
+Letter Type
+
+Consultation with third party
+
+Letter To
+
+The Seven Dials Medical Centre
+
+Letter From
+
+Doctor Care Anywhere
+
+Thu 06 Mar 2025 12:14
+
+Confidential: Personal Data
+
+Mr Benjamin Robert Carter "Ben"
+446 377 7232, 15 Apr 1987
+
+

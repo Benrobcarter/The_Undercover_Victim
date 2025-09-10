@@ -1,0 +1,27 @@
+{
+  "id": "VEX_2025-05-06 at 09-46 Alice Box Office Manager_OCR",
+  "type": "evidence",
+  "source": "Smart OCR Ingest",
+  "date": "2025-05-06",
+  "summary": "Auto-ingested from file: 2025-05-06 at 09-46 Alice Box Office Manager.pdf",
+  "meta": {
+    "original_filename": "2025-05-06 at 09-46 Alice Box Office Manager.pdf",
+    "ocr_pdf_file": "2025-05-06 at 09-46 Alice Box Office Manager_ocr.pdf",
+    "ocr_text_file": "2025-05-06 at 09-46 Alice Box Office Manager.txt",
+    "sha256": "2dfb2428b59fe6c04b77d43a5727e0a86be73bc6031851d30e82eceeaa98041f",
+    "source_folder": ".",
+    "ingested_on": "2025-09-06T22:56:50.158382",
+    "ingest_method": "ocr_smart"
+  },
+  "links": {
+    "source_file_original": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_unprocessed/2025-05-06 at 09-46 Alice Box Office Manager.pdf",
+    "ocr_pdf_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_ocrd/2025-05-06 at 09-46 Alice Box Office Manager_ocr.pdf",
+    "ocr_text_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/text/2025-05-06 at 09-46 Alice Box Office Manager.txt"
+  },
+  "tags": [
+    "auto_ocr",
+    "06 at 09",
+    "2025",
+    "46 alice box office manager"
+  ]
+}

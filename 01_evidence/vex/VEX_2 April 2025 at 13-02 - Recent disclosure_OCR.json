@@ -1,0 +1,27 @@
+{
+  "id": "VEX_2 April 2025 at 13-02 - Recent disclosure_OCR",
+  "type": "evidence",
+  "source": "Smart OCR Ingest",
+  "date": "DATE_NOT_FOUND",
+  "summary": "Auto-ingested from file: 2 April 2025 at 13-02 - Recent disclosure.pdf",
+  "meta": {
+    "original_filename": "2 April 2025 at 13-02 - Recent disclosure.pdf",
+    "ocr_pdf_file": "2 April 2025 at 13-02 - Recent disclosure_ocr.pdf",
+    "ocr_text_file": "2 April 2025 at 13-02 - Recent disclosure.txt",
+    "sha256": "67a5a8f6c6ebffe0561ea9d104364679ebba89ae1d7133c176e11e7cd5171c61",
+    "source_folder": ".",
+    "ingested_on": "2025-09-06T14:15:04.452577",
+    "ingest_method": "ocr_smart"
+  },
+  "links": {
+    "source_file_original": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_unprocessed/2 April 2025 at 13-02 - Recent disclosure.pdf",
+    "ocr_pdf_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_ocrd/2 April 2025 at 13-02 - Recent disclosure_ocr.pdf",
+    "ocr_text_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/text/2 April 2025 at 13-02 - Recent disclosure.txt"
+  },
+  "tags": [
+    "auto_ocr",
+    " recent disclosure",
+    "2 april 2025 at 13",
+    "02 "
+  ]
+}

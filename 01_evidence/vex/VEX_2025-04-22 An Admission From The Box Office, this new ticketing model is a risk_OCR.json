@@ -1,0 +1,26 @@
+{
+  "id": "VEX_2025-04-22 An Admission From The Box Office, this new ticketing model is a risk_OCR",
+  "type": "evidence",
+  "source": "Smart OCR Ingest",
+  "date": "2025-04-22",
+  "summary": "Auto-ingested from file: 2025-04-22 An Admission From The Box Office, this new ticketing model is a risk.pdf",
+  "meta": {
+    "original_filename": "2025-04-22 An Admission From The Box Office, this new ticketing model is a risk.pdf",
+    "ocr_pdf_file": "2025-04-22 An Admission From The Box Office, this new ticketing model is a risk_ocr.pdf",
+    "ocr_text_file": "2025-04-22 An Admission From The Box Office, this new ticketing model is a risk.txt",
+    "sha256": "9abb26574f858dc46619025e1f814fa43a893f3ba40963e6cce24b70f8124e78",
+    "source_folder": ".",
+    "ingested_on": "2025-09-06T23:13:58.675363",
+    "ingest_method": "ocr_smart"
+  },
+  "links": {
+    "source_file_original": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_unprocessed/2025-04-22 An Admission From The Box Office, this new ticketing model is a risk.pdf",
+    "ocr_pdf_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_ocrd/2025-04-22 An Admission From The Box Office, this new ticketing model is a risk_ocr.pdf",
+    "ocr_text_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/text/2025-04-22 An Admission From The Box Office, this new ticketing model is a risk.txt"
+  },
+  "tags": [
+    "auto_ocr",
+    "2025",
+    "22 an admission from the box office, this new ticketing model is a risk"
+  ]
+}

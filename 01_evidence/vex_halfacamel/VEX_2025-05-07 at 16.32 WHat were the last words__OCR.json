@@ -1,0 +1,26 @@
+{
+  "id": "VEX_2025-05-07 at 16.32 WHat were the last words__OCR",
+  "type": "evidence",
+  "source": "Smart OCR Ingest",
+  "date": "2025-05-07",
+  "summary": "Auto-ingested from file: 2025-05-07 at 16.32 WHat were the last words_.pdf",
+  "meta": {
+    "original_filename": "2025-05-07 at 16.32 WHat were the last words_.pdf",
+    "ocr_pdf_file": "2025-05-07 at 16.32 WHat were the last words__ocr.pdf",
+    "ocr_text_file": "2025-05-07 at 16.32 WHat were the last words_.txt",
+    "sha256": "38cf3ae74ef67a16a2128c70fb286a85edbde3bf99886b1c7982d8cdcebaec38",
+    "source_folder": ".",
+    "ingested_on": "2025-09-06T23:13:28.532070",
+    "ingest_method": "ocr_smart"
+  },
+  "links": {
+    "source_file_original": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_unprocessed/2025-05-07 at 16.32 WHat were the last words_.pdf",
+    "ocr_pdf_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_ocrd/2025-05-07 at 16.32 WHat were the last words__ocr.pdf",
+    "ocr_text_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/text/2025-05-07 at 16.32 WHat were the last words_.txt"
+  },
+  "tags": [
+    "auto_ocr",
+    "2025",
+    "07 at 16.32 what were the last words"
+  ]
+}

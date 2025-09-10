@@ -1,0 +1,29 @@
+{
+  "id": "VEX_24-05-2024 at 08_29 - Re_ Brighton Fringe_ A Gay Dad_OCR",
+  "type": "evidence",
+  "source": "Smart OCR Ingest",
+  "date": "DATE_NOT_FOUND",
+  "summary": "Auto-ingested from file: 24-05-2024 at 08_29 - Re_ Brighton Fringe_ A Gay Dad.pdf",
+  "meta": {
+    "original_filename": "24-05-2024 at 08_29 - Re_ Brighton Fringe_ A Gay Dad.pdf",
+    "ocr_pdf_file": "24-05-2024 at 08_29 - Re_ Brighton Fringe_ A Gay Dad_ocr.pdf",
+    "ocr_text_file": "24-05-2024 at 08_29 - Re_ Brighton Fringe_ A Gay Dad.txt",
+    "sha256": "cfdafc8141686eac950a62c66915275a2f4fd8d6f46f66d306f80947d1192aa7",
+    "source_folder": ".",
+    "ingested_on": "2025-09-06T14:28:57.413834",
+    "ingest_method": "ocr_smart"
+  },
+  "links": {
+    "source_file_original": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_unprocessed/24-05-2024 at 08_29 - Re_ Brighton Fringe_ A Gay Dad.pdf",
+    "ocr_pdf_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_ocrd/24-05-2024 at 08_29 - Re_ Brighton Fringe_ A Gay Dad_ocr.pdf",
+    "ocr_text_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/text/24-05-2024 at 08_29 - Re_ Brighton Fringe_ A Gay Dad.txt"
+  },
+  "tags": [
+    "auto_ocr",
+    " a gay dad",
+    "2024 at 08",
+    "29 ",
+    " brighton fringe",
+    " re"
+  ]
+}

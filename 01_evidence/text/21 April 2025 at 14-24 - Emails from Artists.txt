@@ -1,0 +1,318 @@
+iy; G ma il
+
+Ben Carter <benrobcarter@gmail.com>
+
+Emails from Artists
+8 messages
+
+Take Part <takepart@brightonfringe.org>
+
+21 April 2025 at 14:24
+
+To: Ben Carter <benrobcarter@gmail.com>
+
+Hi Ben,
+
+| understand you've just had a call with one of the Brighton Fringe team about artists calling you
+when they are unable to see updated info on their website listings.
+
+So you're aware, our Box Office team need to manually update listings on our website and so
+changes won't be visible unless they've been asked to make them. Therefore, if you could please
+tell artists that they need to email our box office at boxoffice@brightonfringe.org then we can make
+the changes.
+It might be worth setting up an automatic reply which includes this information? Whilst it won't stop
+artists from emailing you initially, they will at least know that they have to contact us too.
+Hope this helps.
+Thanks,
+Laura
+
+Brighton Fringe Artist & Venue Services Team
+T: 01273 764 907
+
+A: Office 4, The Old Court House, 118 Church Street, BN1 1UD
+W: www.brightonfringe.org
+
+#BrightonFringe
+
+*
+
+PANG
+GIHTON
+
+Stay Connected: Facebook | Instagram | Twitter | Website | YouTube
+Support Us: Donate | easyfundraising | Friends Scheme
+
+Registered Charity Number: 1116367 | VAT Number: 892 5694 68 | Brighton Fringe Ltd Company Number: 05578256
+
+Ben Carter <benrobcarter@gmail.com>
+
+21 April 2025 at 15:09
+
+To: Take Part <takepart@brightonfringe.org>
+| can’t send that!
+
+On eventotron for that option to come up, in the backend you go to ‘info collection’, and under ‘events and
+questions’, it'll already be on the tab questions, the purple one (next to options) look down and find brochure
+copy and where it says appears in print, that’s then sent to automatically to eventotron via there api. The only
+
+way the brochure copy would not be available for acts to see nowis
+
+if this question has been removed, | can’t
+
+send them this as that’s not how eventotron works.
+The sole reason for eventotron is to stop this having to be done manually, there is a way to override this
+manually on the backend of the brighton fringe site though, if you add the question again in eventotron.com then
+click the update button on all shows they'll be able to see it without having to request for it.
+Anything done manually is not what the acts would have submitted, as you have to individually go into each act
+on the backend of brightonfringe.org, click on events then change it manually.
+In regards to what i can tell the acts i cant tell them this state everything is done manually will just come across
+as sabotage, they clicked to confirm they were happy with the listing and that any changes made after this date
+will only be amended on the website.
+It’s a conformation from both parties that this is the version the act is consenting to be in the brochure.
+| cannot say manually, as this claiming they can’t but you can and have must have made changes without letting
+them know before print is not what they confirmed.
+Please I’m really sick of all the brochure complaints, and this is not the reason, i can’t tell them this when its not
+true. I’ve got enough going, i’m just the middle man, can you please email all acts something, i can’t keep
+saying | don’t know. This would make them assume it was me even more, as that button was confirmation
+between you and them that was the copy, narrowing it down to only me responsible.
+Thabks ben
+[Quoted text hidden]
+
+Ben Carter <benrobcarter@gmail.com>
+
+21 April 2025 at 15:10
+
+To: Jessicaotterwell@gmail.com
+[Quoted text hidden]
+
+Take Part <takepart@brightonfringe.org>
+
+21 April 2025 at 17:01
+
+To: Ben Carter <benrobcarter@gmail.com>
+
+Hi Ben,
+
+To confirm - we do not make any changes to artists’ listings ourselves, unless they have given us
+permission to do so. Our Box Office team need to manually put listings on the website as they do
+not automatically pull through from Eventotron.
+If artists have made any changes to their listing since it went live, then they need to let our Box
+Office team know so they can update the website accordingly. We will put this in the artist
+newsletter to ensure people understand.
+If artists have contacted you because they cannot see their listing on our website, it may be
+because they have made changes but not let us Know. Otherwise, it may be because they have not
+finalised their event or because we have asked for clarification on a particular aspect.
+Regarding complaints about the brochure - we were unable to make changes to listings after the
+brochure deadline passed in February. If events were not finalised by then, they would not appear
+in the brochure at all.
+If you are getting any specific brochure questions, please let us know and we can answer them.
+Thanks,
+Laura
+
+Brighton Fringe Artist & Venue Services Team
+T: 01273 764 907
+
+A: Office 4, The Old Court House, 118 Church Street, BN1 1UD
+W: www.brightonfringe.org
+
+#BrightonFringe
+
+Stay Connected: Facebook | Instagram | Twitter | Website | YouTube
+Support Us: Donate | easyfundraising | Friends Scheme
+
+Registered Charity Number: 1116367 | VAT Number: 892 5694 68 | Brighton Fringe Ltd Company Number: 05578256
+
+From: Ben Carter <benrobcarter@gmail.com>
+Sent: 21 April 2025 15:09
+
+To: Take Part <takepart@brightonfringe.org>
+Subject: Re: Emails from Artists
+[Quoted text hidden]
+
+Ben Carter <benrobcarter@gmail.com>
+
+21 April 2025 at 17:47
+
+To: Take Part <takepart@brightonfringe.org>
+
+Hi Laura,
+Thanks for your reply — | appreciate the clarification.
+However, | do need to raise a couple of points, especially given the ongoing confusion among artists contacting
+me, and the number of inconsistencies.
+
+Firstly, as you know, Eventotron is designed specifically to streamline the artist registration process. One of its
+core purposes is to eliminate the need for manual data entry by Fringe staff and to reduce liability — artists are
+asked to enter and approve their listings directly. This includes image placement, event copy, and scheduling.
+The backend system integrates with WordPress (as used across most UK Fringes), and that listing information
+syncs directly to the website, unless deliberately overridden.
+If that automation is disabled, it needs to be clearly flagged. Especially because your own Eventotron backend
+still includes fields like "event copy confirmation" and other default questions — unless those are actively
+removed, artists assume (quite reasonably) that their finalised info will appear as-is.
+As | know how Eventotron works, due to using it myself as an act venue and setting up my own,
+This has made me have to investigate further as | feel that even stating that they are manually put in is admitting
+what they paid for is now human error, when told click here to confirm, with an exact image of what they were
+happy to have included in the brochure, prior to payment.
+
+Secondly, | want to highlight the evolving wording of your brochure deadline and listing terms.
+Originally, the registration materials stated clearly that:
+
+"Any changes to artwork, text, dates & times, prices etc. must be made before the deadline.
+Events can register or amend their listing after this date, but will only be included on the
+website and not in the brochure."
+That was both clear and fair.
+However, this has shifted — in some places now replaced by:
+
+“Please ensure you have the copyright to use the image you submit. Brighton Fringe are
+
+not liable for any breaches of copyright.”
+And yet on the same page, the sales pitch for the printed brochure remains:
+
+“Image 1 will be used as the listing image in the 20th Anniversary Brighton Fringe Printed
+Brochure.”
+The confusion isn’t just on the artist end — it’s systemic. And when your registration page clearly states:
+“Your Brighton Fringe registration fee gives you access to... Your event listing online at
+www.brightonfringe.org.”
+...then artists understandably expect that the info they submit will be reflected online without needing to email
+
+boxoffice@ for every change.
+I'll continue forwarding queries as suggested, but I’ve attached a screenshot to demonstrate how the Eventotron
+setup Is designed to function and how Brighton Fringe appears to be manually disabling or circumventing
+standard automation. The disconnect between what's technically possible and what’s currently being
+communicated is creating frustration for artists — and additional admin for all of us.
+If you're updating the artist newsletter, I'd recommend being very clear that Brighton Fringe requires manual
+listing updates even after the Eventotron listing is finalised, and that artists should not assume their listing is
+
+live unless confirmed by the Box Office team.
+Let me know if it would be helpful to contribute any clarity from a venue/artist support side — happy to help
+smooth the process if | can, but as it currently stands I'll explain it's bank holiday and you'll be getting back to
+me as what you have stated is simply not true and confusing, from the acts not knowing how eventotron works,
+there was an image of their listing, why would it be manually re put in, when it is clear that they are responsible
+for their brochure listing.
+I'm not trying to start some sort of rift, i honestly don't care, | just want to get on with the Fringe and give clarity
+to the acts rather than at the moment, I'm getting abuse, i know how easy it is to put that option back on their
+page so if they have made a mistake it's down to them, that's what they feel is hidden and i know how easy it is
+resolve this by clicking a few buttons. I'm aware there's been a change in staff members i'd be willing to show
+you how it's done, if it helps going forward.
+Best,
+
+Ben Carter
+Half a Camel Productions
+[Quoted text hidden]
+
+Ben Carter <benrobcarter@gmail.com>
+
+21 April 2025 at 18:28
+
+To: Jessicaotterwell@gmail.com
+
+---------- Forwarded message ---------
+
+From: Ben Carter <benrobcarter@gmail.com>
+[Quoted text hidden]
+[Quoted text hidden]
+
+Take Part <takepart@brightonfringe.org>
+
+21 April 2025 at 18:56
+
+To: Ben Carter <benrobcarter@gmail.com>
+
+Hi Ben,
+Thanks for your email.
+
+Just to let you know that | am now on Annual Leave for the rest of the week, but | have passed your
+email on to Elin (who has a lot more knowledge about Eventotron & Wordpress!) to take a look at
+the points you have raised.
+Thanks,
+Laura
+
+Brighton Fringe Artist & Venue Services Team
+
+T: 01273 764 907
+
+A: Office 4, The Old Court House, 118 Church Street, BN1 1UD
+W: www.brightonfringe.org
+
+#BrightonFringe
+
+*
+
+PANG
+GIHION
+
+Stay Connected: Facebook | Instagram | Twitter | Website | YouTube
+Support Us: Donate | easyfundraising | Friends Scheme
+
+Registered Charity Number: 1116367 | VAT Number: 892 5694 68 | Brighton Fringe Ltd Company Number: 05578256
+
+From: Ben Carter <benrobcarter@gmail.com>
+Sent: 21 April 2025 17:47
+[Quoted text hidden]
+
+[Quoted text hidden]
+
+BoxOffice <boxoffice@brightonfringe.org>
+
+23 April 2025 at 10:43
+
+To: Ben Carter <benrobcarter@gmail.com>
+Cc: Take Part <takepart@brightonfringe.org>
+
+Hi Ben,
+Thank you for your email.
+The process from a registration being finalised to going online has always been a two-step
+process.
+
+The main reason for this is we need to proof-read events before they go online to ensure
+
+that the information supplied is correct. Registrations frequently have incorrect age
+restrictions, formatting, grammatical errors and typos, missing information etc. | have to
+highlight issues such as this every week when proofing events, so it is a very important
+step.
+
+We want to ensure that artists listings go up as polished as possible to give them the best
+representation of their event to audiences, which is why we raise any issues that have
+arisen to the artist so they can make edits. This is also from the perspective of ensuring
+there is accurate audience information so that people are not turned away on the door,
+such as an event at an 18+ venue being listed as 14+.
+This also has to be a manual process as any tickets that are not standard or concession
+that an artist has requested have to be added by us - | can guarantee there is no
+automated avenue for this.
+We try to manually update all listings once per week, we do not have an auto update
+
+feature due to the reasons listed above as we need to ensure added information Is
+accurate.
+
+Thank you for your feedback regarding text referring to the brochure - we removed some of
+
+this as the deadline passed in February and we didn't want new artists assuming they will
+be in the brochure now that it is already out. We haven't had any further feedback from
+artists regarding this matter but we will look into any ways we can make this clearer postFringe.
+Many thanks,
+
+Elin Eaton (she/her)
+Box Office Manager
+A: Office 4 at The Old Court House, 118 Church Street, Brighton, BN1 1UD
+P: 01273 91 72 72
+W: www.brightonfringe.org
+
+#BrightonFringe #BF20
+
+GHTOFs
+N
+
+PRONG: ts
+Stay Connected: Facebook | Instagram | Twitter | Website | YouTube
+
+Support Us: Donate | easyfundraising | Friends Scheme
+
+Registered Charity Number: 1116367 | VAT Number: 892 5694 68 | Brighton Fringe Ltd Company Number:
+05578256
+
+From: Ben Carter <benrobcarter@gmail.com>
+Sent: 21 April 2025 17:47
+[Quoted text hidden]
+
+[Quoted text hidden]
+
+

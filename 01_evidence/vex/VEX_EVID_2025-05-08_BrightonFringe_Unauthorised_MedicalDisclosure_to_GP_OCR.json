@@ -1,0 +1,29 @@
+{
+  "id": "VEX_EVID_2025-05-08_BrightonFringe_Unauthorised_MedicalDisclosure_to_GP_OCR",
+  "type": "evidence",
+  "source": "Smart OCR Ingest",
+  "date": "2025-05-08",
+  "summary": "Auto-ingested from file: EVID_2025-05-08_BrightonFringe_Unauthorised_MedicalDisclosure_to_GP.pdf",
+  "meta": {
+    "original_filename": "EVID_2025-05-08_BrightonFringe_Unauthorised_MedicalDisclosure_to_GP.pdf",
+    "ocr_pdf_file": "EVID_2025-05-08_BrightonFringe_Unauthorised_MedicalDisclosure_to_GP_ocr.pdf",
+    "ocr_text_file": "EVID_2025-05-08_BrightonFringe_Unauthorised_MedicalDisclosure_to_GP.txt",
+    "sha256": "ac3584b876314b40e1f0214b34a8e81ccf43f87e54946463a94564706f48c285",
+    "source_folder": ".",
+    "ingested_on": "2025-09-06T14:19:46.776922",
+    "ingest_method": "ocr_smart"
+  },
+  "links": {
+    "source_file_original": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_unprocessed/EVID_2025-05-08_BrightonFringe_Unauthorised_MedicalDisclosure_to_GP.pdf",
+    "ocr_pdf_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_ocrd/EVID_2025-05-08_BrightonFringe_Unauthorised_MedicalDisclosure_to_GP_ocr.pdf",
+    "ocr_text_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/text/EVID_2025-05-08_BrightonFringe_Unauthorised_MedicalDisclosure_to_GP.txt"
+  },
+  "tags": [
+    "auto_ocr",
+    "evid",
+    "brightonfringe",
+    "medicaldisclosure",
+    "unauthorised",
+    "2025"
+  ]
+}

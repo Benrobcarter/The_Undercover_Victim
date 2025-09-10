@@ -1,0 +1,30 @@
+{
+  "id": "VEX_EVID_2025-04-22_BrightonFringe_BoxOffice_TicketingConfusion_Response_OCR",
+  "type": "evidence",
+  "source": "Smart OCR Ingest",
+  "date": "2025-04-22",
+  "summary": "Auto-ingested from file: EVID_2025-04-22_BrightonFringe_BoxOffice_TicketingConfusion_Response.pdf",
+  "meta": {
+    "original_filename": "EVID_2025-04-22_BrightonFringe_BoxOffice_TicketingConfusion_Response.pdf",
+    "ocr_pdf_file": "EVID_2025-04-22_BrightonFringe_BoxOffice_TicketingConfusion_Response_ocr.pdf",
+    "ocr_text_file": "EVID_2025-04-22_BrightonFringe_BoxOffice_TicketingConfusion_Response.txt",
+    "sha256": "b51a50e3638f4ea83f6a20589b61a69bebc4827a504ef4b94438ec3ff9073186",
+    "source_folder": ".",
+    "ingested_on": "2025-09-06T14:05:48.129528",
+    "ingest_method": "ocr_smart"
+  },
+  "links": {
+    "source_file_original": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_unprocessed/EVID_2025-04-22_BrightonFringe_BoxOffice_TicketingConfusion_Response.pdf",
+    "ocr_pdf_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_ocrd/EVID_2025-04-22_BrightonFringe_BoxOffice_TicketingConfusion_Response_ocr.pdf",
+    "ocr_text_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/text/EVID_2025-04-22_BrightonFringe_BoxOffice_TicketingConfusion_Response.txt"
+  },
+  "tags": [
+    "auto_ocr",
+    "ticketingconfusion",
+    "evid",
+    "brightonfringe",
+    "boxoffice",
+    "response",
+    "2025"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": "VEX_11th august - BRIGHTON FRINGE LTD - 1116367 CRM_0168305_OCR",
+  "type": "evidence",
+  "source": "Smart OCR Ingest",
+  "date": "DATE_NOT_FOUND",
+  "summary": "Auto-ingested from file: 11th august - BRIGHTON FRINGE LTD - 1116367 CRM_0168305.pdf",
+  "meta": {
+    "original_filename": "11th august - BRIGHTON FRINGE LTD - 1116367 CRM_0168305.pdf",
+    "ocr_pdf_file": "11th august - BRIGHTON FRINGE LTD - 1116367 CRM_0168305_ocr.pdf",
+    "ocr_text_file": "11th august - BRIGHTON FRINGE LTD - 1116367 CRM_0168305.txt",
+    "sha256": "61cacdf1b35f4d301a646ce045d6321e9382cd87b057a164bb0c76d75ff26aac",
+    "source_folder": ".",
+    "ingested_on": "2025-09-06T14:23:57.723482",
+    "ingest_method": "ocr_smart"
+  },
+  "links": {
+    "source_file_original": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_unprocessed/11th august - BRIGHTON FRINGE LTD - 1116367 CRM_0168305.pdf",
+    "ocr_pdf_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_ocrd/11th august - BRIGHTON FRINGE LTD - 1116367 CRM_0168305_ocr.pdf",
+    "ocr_text_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/text/11th august - BRIGHTON FRINGE LTD - 1116367 CRM_0168305.txt"
+  },
+  "tags": [
+    "auto_ocr",
+    "11th august ",
+    "0168305",
+    " 1116367 crm",
+    " brighton fringe ltd "
+  ]
+}

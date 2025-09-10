@@ -1,0 +1,28 @@
+{
+  "id": "VEX_11 February 2025 1 day after deadline of their brochure no leyway - Fwd_ urgent - Print deadline extended, but editing locked before I approved_OCR",
+  "type": "evidence",
+  "source": "Smart OCR Ingest",
+  "date": "DATE_NOT_FOUND",
+  "summary": "Auto-ingested from file: 11 February 2025 1 day after deadline of their brochure no leyway - Fwd_ urgent - Print deadline extended, but editing locked before I approved.pdf",
+  "meta": {
+    "original_filename": "11 February 2025 1 day after deadline of their brochure no leyway - Fwd_ urgent - Print deadline extended, but editing locked before I approved.pdf",
+    "ocr_pdf_file": "11 February 2025 1 day after deadline of their brochure no leyway - Fwd_ urgent - Print deadline extended, but editing locked before I approved_ocr.pdf",
+    "ocr_text_file": "11 February 2025 1 day after deadline of their brochure no leyway - Fwd_ urgent - Print deadline extended, but editing locked before I approved.txt",
+    "sha256": "339a3122229195ee7ab401efe120e8ac81dd935ee31be0e29565af9de0ccffcc",
+    "source_folder": ".",
+    "ingested_on": "2025-09-06T14:21:20.349684",
+    "ingest_method": "ocr_smart"
+  },
+  "links": {
+    "source_file_original": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_unprocessed/11 February 2025 1 day after deadline of their brochure no leyway - Fwd_ urgent - Print deadline extended, but editing locked before I approved.pdf",
+    "ocr_pdf_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_ocrd/11 February 2025 1 day after deadline of their brochure no leyway - Fwd_ urgent - Print deadline extended, but editing locked before I approved_ocr.pdf",
+    "ocr_text_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/text/11 February 2025 1 day after deadline of their brochure no leyway - Fwd_ urgent - Print deadline extended, but editing locked before I approved.txt"
+  },
+  "tags": [
+    "auto_ocr",
+    "11 february 2025 1 day after deadline of their brochure no leyway ",
+    " urgent ",
+    " print deadline extended, but editing locked before i approved",
+    " fwd"
+  ]
+}

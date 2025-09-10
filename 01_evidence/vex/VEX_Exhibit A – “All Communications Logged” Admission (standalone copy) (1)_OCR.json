@@ -1,0 +1,25 @@
+{
+  "id": "VEX_Exhibit A \u2013 \u201cAll Communications Logged\u201d Admission (standalone copy) (1)_OCR",
+  "type": "evidence",
+  "source": "Smart OCR Ingest",
+  "date": "DATE_NOT_FOUND",
+  "summary": "Auto-ingested from file: Exhibit A \u2013 \u201cAll Communications Logged\u201d Admission (standalone copy) (1).pdf",
+  "meta": {
+    "original_filename": "Exhibit A \u2013 \u201cAll Communications Logged\u201d Admission (standalone copy) (1).pdf",
+    "ocr_pdf_file": "Exhibit A \u2013 \u201cAll Communications Logged\u201d Admission (standalone copy) (1)_ocr.pdf",
+    "ocr_text_file": "Exhibit A \u2013 \u201cAll Communications Logged\u201d Admission (standalone copy) (1).txt",
+    "sha256": "4d7309fb5131dab487ad31ea776b975ac5c5efd122112b47ecd673abe224363b",
+    "source_folder": ".",
+    "ingested_on": "2025-09-06T14:14:00.936613",
+    "ingest_method": "ocr_smart"
+  },
+  "links": {
+    "source_file_original": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_unprocessed/Exhibit A \u2013 \u201cAll Communications Logged\u201d Admission (standalone copy) (1).pdf",
+    "ocr_pdf_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_ocrd/Exhibit A \u2013 \u201cAll Communications Logged\u201d Admission (standalone copy) (1)_ocr.pdf",
+    "ocr_text_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/text/Exhibit A \u2013 \u201cAll Communications Logged\u201d Admission (standalone copy) (1).txt"
+  },
+  "tags": [
+    "auto_ocr",
+    "exhibit a \u2013 \u201call communications logged\u201d admission (standalone copy) (1)"
+  ]
+}

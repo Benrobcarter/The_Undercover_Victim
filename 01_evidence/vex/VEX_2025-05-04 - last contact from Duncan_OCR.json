@@ -1,0 +1,27 @@
+{
+  "id": "VEX_2025-05-04 - last contact from Duncan_OCR",
+  "type": "evidence",
+  "source": "Smart OCR Ingest",
+  "date": "2025-05-04",
+  "summary": "Auto-ingested from file: 2025-05-04 - last contact from Duncan.pdf",
+  "meta": {
+    "original_filename": "2025-05-04 - last contact from Duncan.pdf",
+    "ocr_pdf_file": "2025-05-04 - last contact from Duncan_ocr.pdf",
+    "ocr_text_file": "2025-05-04 - last contact from Duncan.txt",
+    "sha256": "2e590772228c5bdc8061d0995feb592c202c4d25d27e3429a8fe6cb8c0696f90",
+    "source_folder": ".",
+    "ingested_on": "2025-09-06T22:54:58.021336",
+    "ingest_method": "ocr_smart"
+  },
+  "links": {
+    "source_file_original": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_unprocessed/2025-05-04 - last contact from Duncan.pdf",
+    "ocr_pdf_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_ocrd/2025-05-04 - last contact from Duncan_ocr.pdf",
+    "ocr_text_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/text/2025-05-04 - last contact from Duncan.txt"
+  },
+  "tags": [
+    "auto_ocr",
+    " last contact from duncan",
+    "2025",
+    "04 "
+  ]
+}

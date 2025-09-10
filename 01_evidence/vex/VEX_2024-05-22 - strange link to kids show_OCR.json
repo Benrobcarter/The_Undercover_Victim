@@ -1,0 +1,27 @@
+{
+  "id": "VEX_2024-05-22 - strange link to kids show_OCR",
+  "type": "evidence",
+  "source": "Smart OCR Ingest",
+  "date": "2024-05-22",
+  "summary": "Auto-ingested from file: 2024-05-22 - strange link to kids show.pdf",
+  "meta": {
+    "original_filename": "2024-05-22 - strange link to kids show.pdf",
+    "ocr_pdf_file": "2024-05-22 - strange link to kids show_ocr.pdf",
+    "ocr_text_file": "2024-05-22 - strange link to kids show.txt",
+    "sha256": "1d8ea79bd32946b3d29fd77d90c52594333ae4ee366191e7df237b705d4479fe",
+    "source_folder": ".",
+    "ingested_on": "2025-09-06T23:13:55.334419",
+    "ingest_method": "ocr_smart"
+  },
+  "links": {
+    "source_file_original": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_unprocessed/2024-05-22 - strange link to kids show.pdf",
+    "ocr_pdf_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_ocrd/2024-05-22 - strange link to kids show_ocr.pdf",
+    "ocr_text_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/text/2024-05-22 - strange link to kids show.txt"
+  },
+  "tags": [
+    "auto_ocr",
+    "22 ",
+    "2024",
+    " strange link to kids show"
+  ]
+}

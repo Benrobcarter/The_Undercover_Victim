@@ -1,0 +1,26 @@
+{
+  "id": "VEX_IMG_4779_OCR",
+  "type": "evidence",
+  "source": "Smart OCR Ingest",
+  "date": "DATE_NOT_FOUND",
+  "summary": "Auto-ingested from file: IMG_4779.pdf",
+  "meta": {
+    "original_filename": "IMG_4779.pdf",
+    "ocr_pdf_file": "IMG_4779_ocr.pdf",
+    "ocr_text_file": "IMG_4779.txt",
+    "sha256": "b923dbcc4095989c54dd8281914abf06d1556200785edc97842f89ac5022afa0",
+    "source_folder": ".",
+    "ingested_on": "2025-09-06T14:35:33.293063",
+    "ingest_method": "ocr_smart"
+  },
+  "links": {
+    "source_file_original": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_unprocessed/IMG_4779.pdf",
+    "ocr_pdf_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_ocrd/IMG_4779_ocr.pdf",
+    "ocr_text_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/text/IMG_4779.txt"
+  },
+  "tags": [
+    "auto_ocr",
+    "img",
+    "4779"
+  ]
+}

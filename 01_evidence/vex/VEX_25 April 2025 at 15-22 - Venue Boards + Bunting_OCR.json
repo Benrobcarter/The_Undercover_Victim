@@ -1,0 +1,27 @@
+{
+  "id": "VEX_25 April 2025 at 15-22 - Venue Boards + Bunting_OCR",
+  "type": "evidence",
+  "source": "Smart OCR Ingest",
+  "date": "DATE_NOT_FOUND",
+  "summary": "Auto-ingested from file: 25 April 2025 at 15-22 - Venue Boards + Bunting.pdf",
+  "meta": {
+    "original_filename": "25 April 2025 at 15-22 - Venue Boards + Bunting.pdf",
+    "ocr_pdf_file": "25 April 2025 at 15-22 - Venue Boards + Bunting_ocr.pdf",
+    "ocr_text_file": "25 April 2025 at 15-22 - Venue Boards + Bunting.txt",
+    "sha256": "38431da6fd7e889447e3370201682749ad033d3ae7854183f4d0605b87fe242b",
+    "source_folder": ".",
+    "ingested_on": "2025-09-06T14:40:59.594884",
+    "ingest_method": "ocr_smart"
+  },
+  "links": {
+    "source_file_original": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_unprocessed/25 April 2025 at 15-22 - Venue Boards + Bunting.pdf",
+    "ocr_pdf_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_ocrd/25 April 2025 at 15-22 - Venue Boards + Bunting_ocr.pdf",
+    "ocr_text_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/text/25 April 2025 at 15-22 - Venue Boards + Bunting.txt"
+  },
+  "tags": [
+    "auto_ocr",
+    "25 april 2025 at 15",
+    " venue boards + bunting",
+    "22 "
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "thread_CRN-47240214305_Ben_to_PC-Dixon_06-Mar-2025_Email-TBD_reply_002",
+  "type": "evidence",
+  "source": "Thread Reply Split (Smart OCR)",
+  "date": "DATE_NOT_FOUND",
+  "summary": "[From:] '54 Teville Road, Worthing BN11 1UL' Current Home Address: 26 Old Shoreham Road, Brighton BN1 5DD Mobile telephone number: 07812 766495  09 Feb 2023 08:21  Surg",
+  "meta": {
+    "thread_id": "thread_CRN-47240214305_Ben_to_PC-Dixon_06-Mar-2025_Email-TBD",
+    "original_filename": "CRN-47240214305_Ben_to_PC-Dixon_06-Mar-2025_Email-TBD.txt",
+    "reply_index": 2,
+    "split_on": "regex: header blocks",
+    "ingested_on": "2025-09-06T14:01:10.941971"
+  },
+  "links": {
+    "source_text_file": "/Users/bencarter/Documents/The_Undercover_Victim/01_evidence/text/CRN-47240214305_Ben_to_PC-Dixon_06-Mar-2025_Email-TBD.txt"
+  },
+  "tags": [
+    "reply_split",
+    "auto_ocr_thread"
+  ]
+}

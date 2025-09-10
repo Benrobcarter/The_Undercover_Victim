@@ -1,0 +1,30 @@
+{
+  "id": "VEX_Attachment_Index_IOPC_Ref_2025-007816_v7_OCR",
+  "type": "evidence",
+  "source": "Smart OCR Ingest",
+  "date": "DATE_NOT_FOUND",
+  "summary": "Auto-ingested from file: Attachment_Index_IOPC_Ref_2025-007816_v7.pdf",
+  "meta": {
+    "original_filename": "Attachment_Index_IOPC_Ref_2025-007816_v7.pdf",
+    "ocr_pdf_file": "Attachment_Index_IOPC_Ref_2025-007816_v7_ocr.pdf",
+    "ocr_text_file": "Attachment_Index_IOPC_Ref_2025-007816_v7.txt",
+    "sha256": "7446cb9328307776fa00b9ce65edc7001a8dd7dbb6f25dc86c1c916cb9e05418",
+    "source_folder": ".",
+    "ingested_on": "2025-09-06T14:47:32.789728",
+    "ingest_method": "ocr_smart"
+  },
+  "links": {
+    "source_file_original": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_unprocessed/Attachment_Index_IOPC_Ref_2025-007816_v7.pdf",
+    "ocr_pdf_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_ocrd/Attachment_Index_IOPC_Ref_2025-007816_v7_ocr.pdf",
+    "ocr_text_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/text/Attachment_Index_IOPC_Ref_2025-007816_v7.txt"
+  },
+  "tags": [
+    "auto_ocr",
+    "attachment",
+    "007816",
+    "index",
+    "2025",
+    "iopc",
+    "ref"
+  ]
+}

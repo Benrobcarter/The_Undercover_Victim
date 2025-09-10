@@ -1,0 +1,25 @@
+{
+  "id": "VEX_BC Saftey Plan_OCR",
+  "type": "evidence",
+  "source": "Smart OCR Ingest",
+  "date": "DATE_NOT_FOUND",
+  "summary": "Auto-ingested from file: BC Saftey Plan.pdf",
+  "meta": {
+    "original_filename": "BC Saftey Plan.pdf",
+    "ocr_pdf_file": "BC Saftey Plan_ocr.pdf",
+    "ocr_text_file": "BC Saftey Plan.txt",
+    "sha256": "a4da4d339b7a5b4f9979ca270d08bb67a88003ea59d9a1fb5dbd17f9a669ecd6",
+    "source_folder": ".",
+    "ingested_on": "2025-09-06T14:04:11.671053",
+    "ingest_method": "ocr_smart"
+  },
+  "links": {
+    "source_file_original": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_unprocessed/BC Saftey Plan.pdf",
+    "ocr_pdf_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_ocrd/BC Saftey Plan_ocr.pdf",
+    "ocr_text_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/text/BC Saftey Plan.txt"
+  },
+  "tags": [
+    "auto_ocr",
+    "bc saftey plan"
+  ]
+}

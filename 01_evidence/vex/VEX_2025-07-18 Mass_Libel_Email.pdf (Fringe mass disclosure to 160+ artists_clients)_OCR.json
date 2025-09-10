@@ -1,0 +1,29 @@
+{
+  "id": "VEX_2025-07-18 Mass_Libel_Email.pdf (Fringe mass disclosure to 160+ artists_clients)_OCR",
+  "type": "evidence",
+  "source": "Smart OCR Ingest",
+  "date": "2025-07-18",
+  "summary": "Auto-ingested from file: 2025-07-18 Mass_Libel_Email.pdf (Fringe mass disclosure to 160+ artists_clients).pdf",
+  "meta": {
+    "original_filename": "2025-07-18 Mass_Libel_Email.pdf (Fringe mass disclosure to 160+ artists_clients).pdf",
+    "ocr_pdf_file": "2025-07-18 Mass_Libel_Email.pdf (Fringe mass disclosure to 160+ artists_clients)_ocr.pdf",
+    "ocr_text_file": "2025-07-18 Mass_Libel_Email.pdf (Fringe mass disclosure to 160+ artists_clients).txt",
+    "sha256": "4096d5a16c55a0920c11ca591f3af0d3ff9f551a6c99a7bbb829c89cd5bbbefa",
+    "source_folder": ".",
+    "ingested_on": "2025-09-06T22:56:00.461410",
+    "ingest_method": "ocr_smart"
+  },
+  "links": {
+    "source_file_original": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_unprocessed/2025-07-18 Mass_Libel_Email.pdf (Fringe mass disclosure to 160+ artists_clients).pdf",
+    "ocr_pdf_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_ocrd/2025-07-18 Mass_Libel_Email.pdf (Fringe mass disclosure to 160+ artists_clients)_ocr.pdf",
+    "ocr_text_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/text/2025-07-18 Mass_Libel_Email.pdf (Fringe mass disclosure to 160+ artists_clients).txt"
+  },
+  "tags": [
+    "auto_ocr",
+    "clients)",
+    "2025",
+    "18 mass",
+    "libel",
+    "email (fringe mass disclosure to 160+ artists"
+  ]
+}

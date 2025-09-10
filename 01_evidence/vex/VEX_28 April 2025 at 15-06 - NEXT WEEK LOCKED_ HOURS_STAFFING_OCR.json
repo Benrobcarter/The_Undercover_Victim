@@ -1,0 +1,29 @@
+{
+  "id": "VEX_28 April 2025 at 15-06 - NEXT WEEK LOCKED_ HOURS_STAFFING_OCR",
+  "type": "evidence",
+  "source": "Smart OCR Ingest",
+  "date": "DATE_NOT_FOUND",
+  "summary": "Auto-ingested from file: 28 April 2025 at 15-06 - NEXT WEEK LOCKED_ HOURS_STAFFING.pdf",
+  "meta": {
+    "original_filename": "28 April 2025 at 15-06 - NEXT WEEK LOCKED_ HOURS_STAFFING.pdf",
+    "ocr_pdf_file": "28 April 2025 at 15-06 - NEXT WEEK LOCKED_ HOURS_STAFFING_ocr.pdf",
+    "ocr_text_file": "28 April 2025 at 15-06 - NEXT WEEK LOCKED_ HOURS_STAFFING.txt",
+    "sha256": "a8c12f39fc268bd016f5e13d442d0cb208a10cb59c338fc0a4681b64e27a1f77",
+    "source_folder": ".",
+    "ingested_on": "2025-09-06T14:06:21.523121",
+    "ingest_method": "ocr_smart"
+  },
+  "links": {
+    "source_file_original": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_unprocessed/28 April 2025 at 15-06 - NEXT WEEK LOCKED_ HOURS_STAFFING.pdf",
+    "ocr_pdf_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_ocrd/28 April 2025 at 15-06 - NEXT WEEK LOCKED_ HOURS_STAFFING_ocr.pdf",
+    "ocr_text_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/text/28 April 2025 at 15-06 - NEXT WEEK LOCKED_ HOURS_STAFFING.txt"
+  },
+  "tags": [
+    "auto_ocr",
+    " next week locked",
+    " hours",
+    "06 ",
+    "28 april 2025 at 15",
+    "staffing"
+  ]
+}

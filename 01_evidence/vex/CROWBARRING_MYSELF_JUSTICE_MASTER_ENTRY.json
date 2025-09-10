@@ -1,0 +1,150 @@
+{
+  "contradiction": {
+    "id": "CROWBARRING_MYSELF_JUSTICE_2025_FULL_DISCLOSURE",
+    "meta": {
+      "title": "Crowbarring Myself Justice – Full Disclosure Timeline",
+      "tags": [
+        "CROWBARRING_MYSELF_JUSTICE",
+        "DEATH_BY_SILENCE",
+        "VERITAS_VALIDATION_DISREGARDED",
+        "SAFEGUARDING_DEFLECTION",
+        "SUICIDE_DISCLOSURE_USED_FOR_REMOVAL",
+        "RECORD_MANIPULATION_POST_DISCLOSURE",
+        "INSTITUTIONAL_GASLIGHTING",
+        "VICTIMS_CODE",
+        "DUNCAN_ASSISTED_ERASURE",
+        "LOST_EVIDENCE_SUSSEX_POLICE",
+        "POLICE_CAUSED_HARM",
+        "STALKING_CONTEXT_ERASURE",
+        "GDPR_ACCESS_REFUSAL",
+        "REPUTATIONAL_HARM"
+      ],
+      "created_at": "2025-08-31T21:48:40.660398",
+      "source_file": "12 May 2025 - Brighton Fringe Email URGENT.pdf",
+      "source_description": "Full victim statement attached to Brighton Fringe final safeguarding escalation email"
+    },
+    "summary": "This master contradiction logs Ben Carter’s suicide attempt, ignored safeguarding disclosures, stalking risk, and the institutional failure of Sussex Police and Brighton Fringe to respond. The statement was delivered on 12 May 2025 via a multi-recipient email with third-party support from Veritas Justice. The file outlines systemic obstruction, data rights denial, narrative erasure, and gaslighting that pushed the complainant to the edge while offering a detailed timeline of abuse, failure, and strategic silence."
+  },
+  "timeline_entry": {
+    "date": "2025-05-12",
+    "summary": "Full Disclosure Sent: 'Crowbarring Myself Justice' statement delivered via final email to Brighton Fringe, police, and oversight bodies.",
+    "tags": [
+      "CROWBARRING_MYSELF_JUSTICE",
+      "SUICIDE_DISCLOSURE_USED_FOR_REMOVAL",
+      "SAFEGUARDING_DEFLECTION",
+      "DEATH_BY_SILENCE",
+      "GDPR_ACCESS_REFUSAL",
+      "POLICE_CAUSED_HARM"
+    ],
+    "linked_documents": [
+      "CROWBARRING_MYSELF_JUSTICE_MASTER_ENTRY.json"
+    ],
+    "quote_refs": [
+      "CMJ-Q-0001",
+      "CMJ-Q-0002"
+    ]
+  },
+  "vex_evidence_entry": {
+    "id": "VEX_2025-05-12_Crowbarring_Myself_Justice_Full_Statement",
+    "meta": {
+      "date": "2025-05-12",
+      "source": "Final safeguarding escalation email to Brighton Fringe with attached statement",
+      "tags": [
+        "CROWBARRING_MYSELF_JUSTICE",
+        "DEATH_BY_SILENCE",
+        "VERITAS_VALIDATION_DISREGARDED",
+        "SAFEGUARDING_DEFLECTION",
+        "SUICIDE_DISCLOSURE_USED_FOR_REMOVAL",
+        "RECORD_MANIPULATION_POST_DISCLOSURE",
+        "INSTITUTIONAL_GASLIGHTING",
+        "VICTIMS_CODE",
+        "DUNCAN_ASSISTED_ERASURE",
+        "LOST_EVIDENCE_SUSSEX_POLICE",
+        "POLICE_CAUSED_HARM",
+        "STALKING_CONTEXT_ERASURE",
+        "GDPR_ACCESS_REFUSAL",
+        "REPUTATIONAL_HARM"
+      ],
+      "linked_contradictions": [
+        "CROWBARRING_MYSELF_JUSTICE_2025_FULL_DISCLOSURE"
+      ],
+      "quote_refs": [
+        "CMJ-Q-0001",
+        "CMJ-Q-0002"
+      ],
+      "source_file": "CROWBARRING_MYSELF_JUSTICE_MASTER_ENTRY.json"
+    },
+    "summary": "Verbatim suicide-adjacent full statement outlining systemic safeguarding failure and timeline manipulation by Sussex Police and Brighton Fringe."
+  },
+  "quote_cards": [
+    {
+      "id": "CMJ-Q-0001",
+      "meta": {
+        "title": "This isn’t a sob story. It’s a paper trail.",
+        "author": "Ben Carter",
+        "tags": [
+          "QUOTE",
+          "CROWBARRING_MYSELF_JUSTICE",
+          "DEATH_BY_SILENCE",
+          "BOOK_REF_2.4"
+        ],
+        "source_file": "CROWBARRING_MYSELF_JUSTICE_MASTER_ENTRY.json",
+        "source_section": "2.4",
+        "added_at": "2025-08-31T21:48:40.660333"
+      },
+      "text": "This isn’t a sob story. It’s a paper trail."
+    },
+    {
+      "id": "CMJ-Q-0002",
+      "meta": {
+        "title": "Ignore me again — it’s still murder.",
+        "author": "Ben Carter",
+        "tags": [
+          "QUOTE",
+          "CROWBARRING_MYSELF_JUSTICE",
+          "INSTITUTIONAL_GASLIGHTING",
+          "BOOK_REF_2.4"
+        ],
+        "source_file": "CROWBARRING_MYSELF_JUSTICE_MASTER_ENTRY.json",
+        "source_section": "2.4",
+        "added_at": "2025-08-31T21:48:40.660344"
+      },
+      "text": "Ignore me again — it’s still murder."
+    }
+  ],
+  "book_crosswalk": {
+    "chapter_id": "sec2_suicide_sar",
+    "chapter_title": "2.4 — Suicide Attempt and SAR Refusal",
+    "paragraph_index": 0,
+    "timeline_refs": [
+      "t1_sussex_police_chronology#4",
+      "t3_personal_evidence_construction#1"
+    ],
+    "vex_tags": [
+      "CROWBARRING_MYSELF_JUSTICE",
+      "DEATH_BY_SILENCE",
+      "VERITAS_VALIDATION_DISREGARDED",
+      "SAFEGUARDING_DEFLECTION",
+      "SUICIDE_DISCLOSURE_USED_FOR_REMOVAL",
+      "RECORD_MANIPULATION_POST_DISCLOSURE",
+      "INSTITUTIONAL_GASLIGHTING",
+      "VICTIMS_CODE",
+      "DUNCAN_ASSISTED_ERASURE",
+      "LOST_EVIDENCE_SUSSEX_POLICE",
+      "POLICE_CAUSED_HARM",
+      "STALKING_CONTEXT_ERASURE",
+      "GDPR_ACCESS_REFUSAL",
+      "REPUTATIONAL_HARM"
+    ],
+    "contradictions": [
+      {
+        "code": "CROWBARRING_MYSELF_JUSTICE",
+        "shard_matches": []
+      },
+      {
+        "code": "DEATH_BY_SILENCE",
+        "shard_matches": []
+      }
+    ]
+  }
+}

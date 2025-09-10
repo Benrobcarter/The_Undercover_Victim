@@ -1,0 +1,26 @@
+{
+  "id": "VEX_06-05-2025 at 15_24 Admission (standalone copy)_OCR",
+  "type": "evidence",
+  "source": "Smart OCR Ingest",
+  "date": "DATE_NOT_FOUND",
+  "summary": "Auto-ingested from file: 06-05-2025 at 15_24 Admission (standalone copy).pdf",
+  "meta": {
+    "original_filename": "06-05-2025 at 15_24 Admission (standalone copy).pdf",
+    "ocr_pdf_file": "06-05-2025 at 15_24 Admission (standalone copy)_ocr.pdf",
+    "ocr_text_file": "06-05-2025 at 15_24 Admission (standalone copy).txt",
+    "sha256": "e3f40f21a8cc9fa4027b19616ac26f4b1894b4615fa45bc04c91148e1d517a44",
+    "source_folder": ".",
+    "ingested_on": "2025-09-06T14:22:21.745536",
+    "ingest_method": "ocr_smart"
+  },
+  "links": {
+    "source_file_original": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_unprocessed/06-05-2025 at 15_24 Admission (standalone copy).pdf",
+    "ocr_pdf_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_ocrd/06-05-2025 at 15_24 Admission (standalone copy)_ocr.pdf",
+    "ocr_text_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/text/06-05-2025 at 15_24 Admission (standalone copy).txt"
+  },
+  "tags": [
+    "auto_ocr",
+    "24 admission (standalone copy)",
+    "2025 at 15"
+  ]
+}

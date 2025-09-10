@@ -1,0 +1,30 @@
+{
+  "id": "VEX_EVID_2025-05-01_BrightonFringe_BoxOffice_ShowCancellation_UnTicketed_OCR",
+  "type": "evidence",
+  "source": "Smart OCR Ingest",
+  "date": "2025-05-01",
+  "summary": "Auto-ingested from file: EVID_2025-05-01_BrightonFringe_BoxOffice_ShowCancellation_UnTicketed.pdf",
+  "meta": {
+    "original_filename": "EVID_2025-05-01_BrightonFringe_BoxOffice_ShowCancellation_UnTicketed.pdf",
+    "ocr_pdf_file": "EVID_2025-05-01_BrightonFringe_BoxOffice_ShowCancellation_UnTicketed_ocr.pdf",
+    "ocr_text_file": "EVID_2025-05-01_BrightonFringe_BoxOffice_ShowCancellation_UnTicketed.txt",
+    "sha256": "25f6ae82a28a86cc708c814bae54986076e577c6a93e270669fa3530a6ea2433",
+    "source_folder": ".",
+    "ingested_on": "2025-09-06T14:20:30.077905",
+    "ingest_method": "ocr_smart"
+  },
+  "links": {
+    "source_file_original": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_unprocessed/EVID_2025-05-01_BrightonFringe_BoxOffice_ShowCancellation_UnTicketed.pdf",
+    "ocr_pdf_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_ocrd/EVID_2025-05-01_BrightonFringe_BoxOffice_ShowCancellation_UnTicketed_ocr.pdf",
+    "ocr_text_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/text/EVID_2025-05-01_BrightonFringe_BoxOffice_ShowCancellation_UnTicketed.txt"
+  },
+  "tags": [
+    "auto_ocr",
+    "showcancellation",
+    "evid",
+    "brightonfringe",
+    "boxoffice",
+    "2025",
+    "unticketed"
+  ]
+}

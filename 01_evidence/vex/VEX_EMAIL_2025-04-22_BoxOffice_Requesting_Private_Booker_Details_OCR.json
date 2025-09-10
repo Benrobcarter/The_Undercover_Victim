@@ -1,0 +1,31 @@
+{
+  "id": "VEX_EMAIL_2025-04-22_BoxOffice_Requesting_Private_Booker_Details_OCR",
+  "type": "evidence",
+  "source": "Smart OCR Ingest",
+  "date": "2025-04-22",
+  "summary": "Auto-ingested from file: EMAIL_2025-04-22_BoxOffice_Requesting_Private_Booker_Details.pdf",
+  "meta": {
+    "original_filename": "EMAIL_2025-04-22_BoxOffice_Requesting_Private_Booker_Details.pdf",
+    "ocr_pdf_file": "EMAIL_2025-04-22_BoxOffice_Requesting_Private_Booker_Details_ocr.pdf",
+    "ocr_text_file": "EMAIL_2025-04-22_BoxOffice_Requesting_Private_Booker_Details.txt",
+    "sha256": "02fd74b76d8fbb2f90251196722faf852a191ee15fae3b4262c6387071fe4177",
+    "source_folder": ".",
+    "ingested_on": "2025-09-06T14:17:21.985934",
+    "ingest_method": "ocr_smart"
+  },
+  "links": {
+    "source_file_original": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_unprocessed/EMAIL_2025-04-22_BoxOffice_Requesting_Private_Booker_Details.pdf",
+    "ocr_pdf_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_ocrd/EMAIL_2025-04-22_BoxOffice_Requesting_Private_Booker_Details_ocr.pdf",
+    "ocr_text_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/text/EMAIL_2025-04-22_BoxOffice_Requesting_Private_Booker_Details.txt"
+  },
+  "tags": [
+    "auto_ocr",
+    "boxoffice",
+    "requesting",
+    "email",
+    "details",
+    "2025",
+    "private",
+    "booker"
+  ]
+}

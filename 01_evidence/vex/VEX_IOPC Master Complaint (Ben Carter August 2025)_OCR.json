@@ -1,0 +1,25 @@
+{
+  "id": "VEX_IOPC Master Complaint (Ben Carter August 2025)_OCR",
+  "type": "evidence",
+  "source": "Smart OCR Ingest",
+  "date": "DATE_NOT_FOUND",
+  "summary": "Auto-ingested from file: IOPC Master Complaint (Ben Carter August 2025).pdf",
+  "meta": {
+    "original_filename": "IOPC Master Complaint (Ben Carter August 2025).pdf",
+    "ocr_pdf_file": "IOPC Master Complaint (Ben Carter August 2025)_ocr.pdf",
+    "ocr_text_file": "IOPC Master Complaint (Ben Carter August 2025).txt",
+    "sha256": "414b16810dabba155b5ded16ce77c102244aad881cd2dbc1c599b7af393b7bbe",
+    "source_folder": ".",
+    "ingested_on": "2025-09-06T14:31:40.874305",
+    "ingest_method": "ocr_smart"
+  },
+  "links": {
+    "source_file_original": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_unprocessed/IOPC Master Complaint (Ben Carter August 2025).pdf",
+    "ocr_pdf_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_ocrd/IOPC Master Complaint (Ben Carter August 2025)_ocr.pdf",
+    "ocr_text_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/text/IOPC Master Complaint (Ben Carter August 2025).txt"
+  },
+  "tags": [
+    "auto_ocr",
+    "iopc master complaint (ben carter august 2025)"
+  ]
+}

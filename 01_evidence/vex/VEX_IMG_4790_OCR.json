@@ -1,0 +1,26 @@
+{
+  "id": "VEX_IMG_4790_OCR",
+  "type": "evidence",
+  "source": "Smart OCR Ingest",
+  "date": "DATE_NOT_FOUND",
+  "summary": "Auto-ingested from file: IMG_4790.pdf",
+  "meta": {
+    "original_filename": "IMG_4790.pdf",
+    "ocr_pdf_file": "IMG_4790_ocr.pdf",
+    "ocr_text_file": "IMG_4790.txt",
+    "sha256": "9948f991933ec8e1610d7b138c000c76dc3496a15df4d05bc2185aa6c23e347b",
+    "source_folder": ".",
+    "ingested_on": "2025-09-06T14:41:18.273818",
+    "ingest_method": "ocr_smart"
+  },
+  "links": {
+    "source_file_original": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_unprocessed/IMG_4790.pdf",
+    "ocr_pdf_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_ocrd/IMG_4790_ocr.pdf",
+    "ocr_text_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/text/IMG_4790.txt"
+  },
+  "tags": [
+    "auto_ocr",
+    "img",
+    "4790"
+  ]
+}

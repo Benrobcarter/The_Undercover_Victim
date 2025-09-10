@@ -1,0 +1,27 @@
+{
+  "id": "VEX_25 June 2025 at 11-21 - Your Safety Plan_OCR",
+  "type": "evidence",
+  "source": "Smart OCR Ingest",
+  "date": "DATE_NOT_FOUND",
+  "summary": "Auto-ingested from file: 25 June 2025 at 11-21 - Your Safety Plan.pdf",
+  "meta": {
+    "original_filename": "25 June 2025 at 11-21 - Your Safety Plan.pdf",
+    "ocr_pdf_file": "25 June 2025 at 11-21 - Your Safety Plan_ocr.pdf",
+    "ocr_text_file": "25 June 2025 at 11-21 - Your Safety Plan.txt",
+    "sha256": "629b242c6026f34af8382420322fc457f0018e7338cabcc67fc77e496d4a71a3",
+    "source_folder": ".",
+    "ingested_on": "2025-09-06T14:26:58.002678",
+    "ingest_method": "ocr_smart"
+  },
+  "links": {
+    "source_file_original": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_unprocessed/25 June 2025 at 11-21 - Your Safety Plan.pdf",
+    "ocr_pdf_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_ocrd/25 June 2025 at 11-21 - Your Safety Plan_ocr.pdf",
+    "ocr_text_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/text/25 June 2025 at 11-21 - Your Safety Plan.txt"
+  },
+  "tags": [
+    "auto_ocr",
+    "21 ",
+    "25 june 2025 at 11",
+    " your safety plan"
+  ]
+}

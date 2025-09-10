@@ -1,0 +1,179 @@
+Ben Carter <benrobcarter@gmail.com>
+
+6 May 2025 at 16:16
+
+To: Alice Wright <alice@sparkampm.co.uk>
+
+Subject: End-to-end mirror of “Half a Camel” events + ticket flow &
+branding
+Hi Holly,
+
+Below is the what we need for mirroring our “Half a Camel” shows from
+Brighton Fringe into our own site—complete with ticket flow, donations,
+branding, and our APl-access requirements:
+
+1. Event mirroring
+o
+
+Any show tagged “half-a-camel” on Brighton Fringe should
+automatically appear on halfacamel.com, with all details
+(title, description, times, venue).
+
+2. Real-time sync
+o
+
+New shows, updates (times/venues/descriptions), and
+ticket-inventory changes on Fringe are pushed immediately
+to our site.
+
+3. Nightly reconciliation
+
+©
+
+Once per night, do a full comparison of “half-a-camel”
+events between Fringe and our site to catch anything
+missed.
+
+4. Ticket sales & checkout
+o
+
+“Book” buttons on the mirrored listings take customers
+straight to halfacamel.com’s checkout—Brighton Fringe
+never handles payments.
+
+5. 7.5% donation to Mind
+o
+
+Every order should automatically earmark 7.5% of gross
+ticket revenue as a donation line item for Mind (we'll handle
+payout).
+
+6. Branded ticket emails
+
+©
+
+Confirmation emails sent to buyers must prominently display
+the HalfA Camel logo.
+
+o
+
+You may also include the Brighton Fringe logo, but our logo
+is required so venues will accept the tickets.
+
+7. APl access & webhooks
+
+oe
+
+Our side: We only have API keys for halfacamel.com.
+7f7031-62f6d2-9a8a92-3284d2-e924e8
+
+o
+
+Fringe side (you or their admin):
+=»
+
+Set up Eventotron webhooks for the “half-a-camel”
+tag, pointing to our endpoint (e.g.
+https://halfacamel.com/events etc..
+
+»
+
+Provide any read-only API credentials or tokens so
+our service can fetch event details & ticket availability
+when webhooks fire—and to backfill during the
+nightly reconciliation.ebhooks and credentials are
+ready, and we'll complete the wiring on our end.
+
+Let me know if you need sample event IDs, tag names, logo files
+
+(SVG/PNG), or anything else to get this live. Thanks!
+
+Ben Carter <benrobcarter@gmail.com>
+
+6 May 2025 at 16:17
+
+To: Alice Wright <alice@sparkampm.co.uk>
+You could have remembered all that
+
+Alice Wright <alice@sparkampm.co.uk>
+
+To: Ben Carter <benrobcarter@gmail.com>
+Hi Ben
+
+6 May 2025 at 17:01
+
+You might be pleased to know | understand exactly what you need!
+| will investigate whether or not | can provide you with an API key that's
+just for all half a camel events. At the moment | only know how to give
+you an API key for ALL events but if | know what the webhook is then |
+can supply that direct to your web developer.
+Are you happy for me to speak to your web developer directly? That's
+probably the best thing to do to get this sorted for you.
+Alice
+Alice Wright
+Associate
+
+par
+Spark Arts Marketing & Project Management
+My pronouns are she/her
+07702 846461
+
+sparkampm.co.uk
+
+Ga Or @Sparkampm
+
+Ben Carter <benrobcarter@gmail.com>
+
+6 May 2025 at 17:06
+
+To: Alice Wright <alice@sparkampm.co.uk>
+Yeah course :) she’d be able to do it she’s sorted out my site and that
+What have the fringe agreed to? You mentioned cancelling shows, | don't
+want the acts to suffer not being allowed the brighton fringe logo and on
+the site and that. It'd create so much chaos
+Thankyou xxxx
+
+Alice Wright <alice@sparkampm.co.uk>
+
+To: Ben Carter <benrobcarter@gmail.com>
+
+6 May 2025 at 17:12
+
+All | meant was - | can clarify the procedure for cancelling a show. It's not
+clear on the website as it currently stands so that needs fixing. | will fix
+that.
+Alice Wright
+
+park
+AM&PM
+Spark Arts Marketing & Project Management
+My pronouns are she/her
+07702 846461
+
+sparkampm.co.uk
+
+Ga Or @Sparkampm
+[Quoted text hidden]
+
+Ben Carter <benrobcarter@gmail.com>
+
+6 May 2025 at 17:22
+
+To: Alice Wright <alice@sparkampm.co.uk>
+Ahhh ok i’m just behind on things as i've had to stall the brichure, guess
+something needs to be written up
+Thankyou dxx
+[Quoted text hidden]
+
+Alice Wright <alice@sparkampm.co.uk>
+
+6 May 2025 at 17:25
+
+To: Ben Carter <benrobcarter@gmail.com>
+Yes that's what | mean - something needs to be written up.
+You're very welcome, I'm happy | can help!
+A
+Alice Wright
+Associate
+
+

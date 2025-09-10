@@ -1,0 +1,27 @@
+{
+  "id": "VEX_2025-05-12 veritas email  forwarded to all sponsors board members etc - Brighton Fringe Email URGENT_OCR",
+  "type": "evidence",
+  "source": "Smart OCR Ingest",
+  "date": "2025-05-12",
+  "summary": "Auto-ingested from file: 2025-05-12 veritas email  forwarded to all sponsors board members etc - Brighton Fringe Email URGENT.pdf",
+  "meta": {
+    "original_filename": "2025-05-12 veritas email  forwarded to all sponsors board members etc - Brighton Fringe Email URGENT.pdf",
+    "ocr_pdf_file": "2025-05-12 veritas email  forwarded to all sponsors board members etc - Brighton Fringe Email URGENT_ocr.pdf",
+    "ocr_text_file": "2025-05-12 veritas email  forwarded to all sponsors board members etc - Brighton Fringe Email URGENT.txt",
+    "sha256": "4163ced836ab0354fb023214801dbdf9114a6049da550035e12412bd6c513e0c",
+    "source_folder": ".",
+    "ingested_on": "2025-09-06T23:13:01.028824",
+    "ingest_method": "ocr_smart"
+  },
+  "links": {
+    "source_file_original": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_unprocessed/2025-05-12 veritas email  forwarded to all sponsors board members etc - Brighton Fringe Email URGENT.pdf",
+    "ocr_pdf_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_ocrd/2025-05-12 veritas email  forwarded to all sponsors board members etc - Brighton Fringe Email URGENT_ocr.pdf",
+    "ocr_text_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/text/2025-05-12 veritas email  forwarded to all sponsors board members etc - Brighton Fringe Email URGENT.txt"
+  },
+  "tags": [
+    "auto_ocr",
+    "12 veritas email  forwarded to all sponsors board members etc ",
+    "2025",
+    " brighton fringe email urgent"
+  ]
+}

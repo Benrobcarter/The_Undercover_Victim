@@ -1,0 +1,26 @@
+{
+  "id": "VEX_IC-415467-W5D3 (2)_OCR",
+  "type": "evidence",
+  "source": "Smart OCR Ingest",
+  "date": "DATE_NOT_FOUND",
+  "summary": "Auto-ingested from file: IC-415467-W5D3 (2).pdf",
+  "meta": {
+    "original_filename": "IC-415467-W5D3 (2).pdf",
+    "ocr_pdf_file": "IC-415467-W5D3 (2)_ocr.pdf",
+    "ocr_text_file": "IC-415467-W5D3 (2).txt",
+    "sha256": "46f592165f0a8769ed3e81c879e48bcbc0d07e43234001ec8f92f44be1c01d94",
+    "source_folder": ".",
+    "ingested_on": "2025-09-06T14:03:26.229473",
+    "ingest_method": "ocr_smart"
+  },
+  "links": {
+    "source_file_original": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_unprocessed/IC-415467-W5D3 (2).pdf",
+    "ocr_pdf_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_ocrd/IC-415467-W5D3 (2)_ocr.pdf",
+    "ocr_text_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/text/IC-415467-W5D3 (2).txt"
+  },
+  "tags": [
+    "auto_ocr",
+    "415467",
+    "w5d3 (2)"
+  ]
+}

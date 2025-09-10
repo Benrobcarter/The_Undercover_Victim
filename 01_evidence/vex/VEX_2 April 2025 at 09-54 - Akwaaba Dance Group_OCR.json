@@ -1,0 +1,27 @@
+{
+  "id": "VEX_2 April 2025 at 09-54 - Akwaaba Dance Group_OCR",
+  "type": "evidence",
+  "source": "Smart OCR Ingest",
+  "date": "DATE_NOT_FOUND",
+  "summary": "Auto-ingested from file: 2 April 2025 at 09-54 - Akwaaba Dance Group.pdf",
+  "meta": {
+    "original_filename": "2 April 2025 at 09-54 - Akwaaba Dance Group.pdf",
+    "ocr_pdf_file": "2 April 2025 at 09-54 - Akwaaba Dance Group_ocr.pdf",
+    "ocr_text_file": "2 April 2025 at 09-54 - Akwaaba Dance Group.txt",
+    "sha256": "0a78a2d03e3bf24e34cf90d416b987a682d6a5da8f2f67c98869d1ac2660bdd8",
+    "source_folder": ".",
+    "ingested_on": "2025-09-06T14:07:11.787360",
+    "ingest_method": "ocr_smart"
+  },
+  "links": {
+    "source_file_original": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_unprocessed/2 April 2025 at 09-54 - Akwaaba Dance Group.pdf",
+    "ocr_pdf_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_ocrd/2 April 2025 at 09-54 - Akwaaba Dance Group_ocr.pdf",
+    "ocr_text_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/text/2 April 2025 at 09-54 - Akwaaba Dance Group.txt"
+  },
+  "tags": [
+    "auto_ocr",
+    "2 april 2025 at 09",
+    " akwaaba dance group",
+    "54 "
+  ]
+}

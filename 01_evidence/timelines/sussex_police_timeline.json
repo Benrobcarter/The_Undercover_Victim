@@ -1,0 +1,18 @@
+[
+  {
+    "id": "TLN_2025-07-06_GASSON_ASSIGNED_THEN_DISAPPEARED",
+    "date": "2025-07-06T00:02:00+01:00",
+    "title": "PC Gasson assigned as officer — replies immediately blocked",
+    "summary": "Gasson introduces himself as the new officer on the case and says he will follow up soon. Later messages to this number are marked 'Not Delivered', including urgent questions about bail and crime numbers.",
+    "themes": [
+      "tokenisation",
+      "evidence_submission_blocked",
+      "death_by_silence"
+    ],
+    "evidence": [
+      "PC Gasson? 1.PNG",
+      "PC Gasson? 2.PNG"
+    ],
+    "quote": "I will contact you shortly..."
+  }
+]

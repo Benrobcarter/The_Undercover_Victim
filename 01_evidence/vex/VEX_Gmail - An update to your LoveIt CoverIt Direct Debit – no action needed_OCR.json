@@ -1,0 +1,26 @@
+{
+  "id": "VEX_Gmail - An update to your LoveIt CoverIt Direct Debit \u2013 no action needed_OCR",
+  "type": "evidence",
+  "source": "Smart OCR Ingest",
+  "date": "DATE_NOT_FOUND",
+  "summary": "Auto-ingested from file: Gmail - An update to your LoveIt CoverIt Direct Debit \u2013 no action needed.pdf",
+  "meta": {
+    "original_filename": "Gmail - An update to your LoveIt CoverIt Direct Debit \u2013 no action needed.pdf",
+    "ocr_pdf_file": "Gmail - An update to your LoveIt CoverIt Direct Debit \u2013 no action needed_ocr.pdf",
+    "ocr_text_file": "Gmail - An update to your LoveIt CoverIt Direct Debit \u2013 no action needed.txt",
+    "sha256": "c3874c518b23ddb7e7302b90bb4bcf936c9fd2f29330e9ad179e73106e988ec8",
+    "source_folder": ".",
+    "ingested_on": "2025-09-06T14:29:04.283971",
+    "ingest_method": "ocr_smart"
+  },
+  "links": {
+    "source_file_original": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_unprocessed/Gmail - An update to your LoveIt CoverIt Direct Debit \u2013 no action needed.pdf",
+    "ocr_pdf_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_ocrd/Gmail - An update to your LoveIt CoverIt Direct Debit \u2013 no action needed_ocr.pdf",
+    "ocr_text_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/text/Gmail - An update to your LoveIt CoverIt Direct Debit \u2013 no action needed.txt"
+  },
+  "tags": [
+    "auto_ocr",
+    "gmail ",
+    " an update to your loveit coverit direct debit \u2013 no action needed"
+  ]
+}

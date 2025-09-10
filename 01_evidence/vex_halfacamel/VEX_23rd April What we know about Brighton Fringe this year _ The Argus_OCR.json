@@ -1,0 +1,26 @@
+{
+  "id": "VEX_23rd April What we know about Brighton Fringe this year _ The Argus_OCR",
+  "type": "evidence",
+  "source": "Smart OCR Ingest",
+  "date": "DATE_NOT_FOUND",
+  "summary": "Auto-ingested from file: 23rd April What we know about Brighton Fringe this year _ The Argus.pdf",
+  "meta": {
+    "original_filename": "23rd April What we know about Brighton Fringe this year _ The Argus.pdf",
+    "ocr_pdf_file": "23rd April What we know about Brighton Fringe this year _ The Argus_ocr.pdf",
+    "ocr_text_file": "23rd April What we know about Brighton Fringe this year _ The Argus.txt",
+    "sha256": "fd107612df6d6d3a72ec1d75afdb69e3d0cdeae8fa1d852743bf2b46c2b90c60",
+    "source_folder": ".",
+    "ingested_on": "2025-09-06T14:04:07.397393",
+    "ingest_method": "ocr_smart"
+  },
+  "links": {
+    "source_file_original": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_unprocessed/23rd April What we know about Brighton Fringe this year _ The Argus.pdf",
+    "ocr_pdf_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_ocrd/23rd April What we know about Brighton Fringe this year _ The Argus_ocr.pdf",
+    "ocr_text_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/text/23rd April What we know about Brighton Fringe this year _ The Argus.txt"
+  },
+  "tags": [
+    "auto_ocr",
+    " the argus",
+    "23rd april what we know about brighton fringe this year "
+  ]
+}

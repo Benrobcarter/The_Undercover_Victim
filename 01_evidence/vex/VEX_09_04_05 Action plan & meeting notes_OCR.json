@@ -1,0 +1,25 @@
+{
+  "id": "VEX_09_04_05 Action plan & meeting notes_OCR",
+  "type": "evidence",
+  "source": "Smart OCR Ingest",
+  "date": "DATE_NOT_FOUND",
+  "summary": "Auto-ingested from file: 09_04_05 Action plan & meeting notes.pdf",
+  "meta": {
+    "original_filename": "09_04_05 Action plan & meeting notes.pdf",
+    "ocr_pdf_file": "09_04_05 Action plan & meeting notes_ocr.pdf",
+    "ocr_text_file": "09_04_05 Action plan & meeting notes.txt",
+    "sha256": "7f7d5160e9a198686c5d8a70156c97da719fc54f191d1840c4efedb1e1cc55f9",
+    "source_folder": ".",
+    "ingested_on": "2025-09-06T14:17:18.410907",
+    "ingest_method": "ocr_smart"
+  },
+  "links": {
+    "source_file_original": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_unprocessed/09_04_05 Action plan & meeting notes.pdf",
+    "ocr_pdf_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_ocrd/09_04_05 Action plan & meeting notes_ocr.pdf",
+    "ocr_text_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/text/09_04_05 Action plan & meeting notes.txt"
+  },
+  "tags": [
+    "auto_ocr",
+    "05 action plan & meeting notes"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": "VEX_Ben_Carter_Stalking_Victim_Mental_Health_Evidence_SevenDials_Mar2025_OCR",
+  "type": "evidence",
+  "source": "Smart OCR Ingest",
+  "date": "DATE_NOT_FOUND",
+  "summary": "Auto-ingested from file: Ben_Carter_Stalking_Victim_Mental_Health_Evidence_SevenDials_Mar2025.pdf",
+  "meta": {
+    "original_filename": "Ben_Carter_Stalking_Victim_Mental_Health_Evidence_SevenDials_Mar2025.pdf",
+    "ocr_pdf_file": "Ben_Carter_Stalking_Victim_Mental_Health_Evidence_SevenDials_Mar2025_ocr.pdf",
+    "ocr_text_file": "Ben_Carter_Stalking_Victim_Mental_Health_Evidence_SevenDials_Mar2025.txt",
+    "sha256": "1921392b8f07481c921bc8c39f501c12dbe94a0c0701650be6a5692b04f5ea0e",
+    "source_folder": ".",
+    "ingested_on": "2025-09-06T14:44:06.939187",
+    "ingest_method": "ocr_smart"
+  },
+  "links": {
+    "source_file_original": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_unprocessed/Ben_Carter_Stalking_Victim_Mental_Health_Evidence_SevenDials_Mar2025.pdf",
+    "ocr_pdf_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_ocrd/Ben_Carter_Stalking_Victim_Mental_Health_Evidence_SevenDials_Mar2025_ocr.pdf",
+    "ocr_text_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/text/Ben_Carter_Stalking_Victim_Mental_Health_Evidence_SevenDials_Mar2025.txt"
+  },
+  "tags": [
+    "auto_ocr",
+    "health",
+    "victim",
+    "sevendials",
+    "carter",
+    "mar2025",
+    "mental",
+    "stalking",
+    "ben",
+    "evidence"
+  ]
+}

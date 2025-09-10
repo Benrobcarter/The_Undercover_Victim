@@ -1,0 +1,21 @@
+{
+  "id": "thread_6 March 2023 at 11-54- catch up_reply_001",
+  "type": "evidence",
+  "source": "Thread Reply Split (Smart OCR)",
+  "date": "DATE_NOT_FOUND",
+  "summary": "[From:] Ben Carter <benrobcarter@gmail.com> Sent: Tuesday, March 7, 2023 1:22 AM [Quoted text hidden]  [Quoted text hidden]  Ben Carter <benrobcarter@gmail.com>  7 Marc",
+  "meta": {
+    "thread_id": "thread_6 March 2023 at 11-54- catch up",
+    "original_filename": "6 March 2023 at 11-54- catch up.txt",
+    "reply_index": 1,
+    "split_on": "regex: header blocks",
+    "ingested_on": "2025-09-06T14:01:09.250873"
+  },
+  "links": {
+    "source_text_file": "/Users/bencarter/Documents/The_Undercover_Victim/01_evidence/text/6 March 2023 at 11-54- catch up.txt"
+  },
+  "tags": [
+    "reply_split",
+    "auto_ocr_thread"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "thread_SAR_Brighton_Fringe_with_AnnexA_and_ExhibitB (1) 2_reply_001",
+  "type": "evidence",
+  "source": "Thread Reply Split (Smart OCR)",
+  "date": "DATE_NOT_FOUND",
+  "summary": "[From:] Ben Carter, Director \u2014 Half a Camel Productions Ltd. (Venue Manager/Owner \u2014 Half a Camel Productions Venues) To: Brighton Fringe Ltd. (for the attention of the",
+  "meta": {
+    "thread_id": "thread_SAR_Brighton_Fringe_with_AnnexA_and_ExhibitB (1) 2",
+    "original_filename": "SAR_Brighton_Fringe_with_AnnexA_and_ExhibitB (1) 2.txt",
+    "reply_index": 1,
+    "split_on": "regex: header blocks",
+    "ingested_on": "2025-09-06T14:01:14.150778"
+  },
+  "links": {
+    "source_text_file": "/Users/bencarter/Documents/The_Undercover_Victim/01_evidence/text/SAR_Brighton_Fringe_with_AnnexA_and_ExhibitB (1) 2.txt"
+  },
+  "tags": [
+    "reply_split",
+    "auto_ocr_thread"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "VEX_2024-05-21- Please could you share this story on your insta_OCR",
+  "type": "evidence",
+  "source": "Smart OCR Ingest",
+  "date": "2024-05-21",
+  "summary": "Auto-ingested from file: 2024-05-21- Please could you share this story on your insta.pdf",
+  "meta": {
+    "original_filename": "2024-05-21- Please could you share this story on your insta.pdf",
+    "ocr_pdf_file": "2024-05-21- Please could you share this story on your insta_ocr.pdf",
+    "ocr_text_file": "2024-05-21- Please could you share this story on your insta.txt",
+    "sha256": "1bd35434d1984e753ab916439b931758fd42c2e39f24a47965f1f2c1f98b58e1",
+    "source_folder": ".",
+    "ingested_on": "2025-09-06T22:57:10.794037",
+    "ingest_method": "ocr_smart"
+  },
+  "links": {
+    "source_file_original": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_unprocessed/2024-05-21- Please could you share this story on your insta.pdf",
+    "ocr_pdf_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_ocrd/2024-05-21- Please could you share this story on your insta_ocr.pdf",
+    "ocr_text_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/text/2024-05-21- Please could you share this story on your insta.txt"
+  },
+  "tags": [
+    "auto_ocr",
+    "2024",
+    " please could you share this story on your insta"
+  ]
+}

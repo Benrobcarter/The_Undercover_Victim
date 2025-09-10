@@ -1,0 +1,26 @@
+{
+  "id": "VEX_I have never refered to my abuser as my ex - Social media_OCR",
+  "type": "evidence",
+  "source": "Smart OCR Ingest",
+  "date": "DATE_NOT_FOUND",
+  "summary": "Auto-ingested from file: I have never refered to my abuser as my ex - Social media.pdf",
+  "meta": {
+    "original_filename": "I have never refered to my abuser as my ex - Social media.pdf",
+    "ocr_pdf_file": "I have never refered to my abuser as my ex - Social media_ocr.pdf",
+    "ocr_text_file": "I have never refered to my abuser as my ex - Social media.txt",
+    "sha256": "cfb7e703e1287d771cc27002e6f552c28f4a87df37c2d72a477a3e2a6c059688",
+    "source_folder": ".",
+    "ingested_on": "2025-09-06T14:22:34.709792",
+    "ingest_method": "ocr_smart"
+  },
+  "links": {
+    "source_file_original": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_unprocessed/I have never refered to my abuser as my ex - Social media.pdf",
+    "ocr_pdf_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_ocrd/I have never refered to my abuser as my ex - Social media_ocr.pdf",
+    "ocr_text_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/text/I have never refered to my abuser as my ex - Social media.txt"
+  },
+  "tags": [
+    "auto_ocr",
+    "i have never refered to my abuser as my ex ",
+    " social media"
+  ]
+}

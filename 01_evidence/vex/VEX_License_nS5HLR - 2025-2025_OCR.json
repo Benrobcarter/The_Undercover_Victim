@@ -1,0 +1,28 @@
+{
+  "id": "VEX_License_nS5HLR - 2025-2025_OCR",
+  "type": "evidence",
+  "source": "Smart OCR Ingest",
+  "date": "DATE_NOT_FOUND",
+  "summary": "Auto-ingested from file: License_nS5HLR - 2025-2025.pdf",
+  "meta": {
+    "original_filename": "License_nS5HLR - 2025-2025.pdf",
+    "ocr_pdf_file": "License_nS5HLR - 2025-2025_ocr.pdf",
+    "ocr_text_file": "License_nS5HLR - 2025-2025.txt",
+    "sha256": "8652d2bb6ca82c71398e82b2411ef4f4d892fddd350458ef99530685c308d041",
+    "source_folder": ".",
+    "ingested_on": "2025-09-06T14:16:24.895150",
+    "ingest_method": "ocr_smart"
+  },
+  "links": {
+    "source_file_original": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_unprocessed/License_nS5HLR - 2025-2025.pdf",
+    "ocr_pdf_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_ocrd/License_nS5HLR - 2025-2025_ocr.pdf",
+    "ocr_text_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/text/License_nS5HLR - 2025-2025.txt"
+  },
+  "tags": [
+    "auto_ocr",
+    "2025",
+    "ns5hlr ",
+    " 2025",
+    "license"
+  ]
+}

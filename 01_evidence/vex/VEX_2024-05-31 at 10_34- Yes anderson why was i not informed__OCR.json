@@ -1,0 +1,27 @@
+{
+  "id": "VEX_2024-05-31 at 10_34- Yes anderson why was i not informed__OCR",
+  "type": "evidence",
+  "source": "Smart OCR Ingest",
+  "date": "2024-05-31",
+  "summary": "Auto-ingested from file: 2024-05-31 at 10_34- Yes anderson why was i not informed_.pdf",
+  "meta": {
+    "original_filename": "2024-05-31 at 10_34- Yes anderson why was i not informed_.pdf",
+    "ocr_pdf_file": "2024-05-31 at 10_34- Yes anderson why was i not informed__ocr.pdf",
+    "ocr_text_file": "2024-05-31 at 10_34- Yes anderson why was i not informed_.txt",
+    "sha256": "a2a4c29d41a0bb588a5046c8f8d8503de299c299c0af0cb364f5f2417022f467",
+    "source_folder": ".",
+    "ingested_on": "2025-09-06T22:56:03.377116",
+    "ingest_method": "ocr_smart"
+  },
+  "links": {
+    "source_file_original": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_unprocessed/2024-05-31 at 10_34- Yes anderson why was i not informed_.pdf",
+    "ocr_pdf_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_ocrd/2024-05-31 at 10_34- Yes anderson why was i not informed__ocr.pdf",
+    "ocr_text_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/text/2024-05-31 at 10_34- Yes anderson why was i not informed_.txt"
+  },
+  "tags": [
+    "auto_ocr",
+    "2024",
+    " yes anderson why was i not informed",
+    "31 at 10"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "VEX_Pc Clarke__OCR",
+  "type": "evidence",
+  "source": "Smart OCR Ingest",
+  "date": "DATE_NOT_FOUND",
+  "summary": "Auto-ingested from file: Pc Clarke_.pdf",
+  "meta": {
+    "original_filename": "Pc Clarke_.pdf",
+    "ocr_pdf_file": "Pc Clarke__ocr.pdf",
+    "ocr_text_file": "Pc Clarke_.txt",
+    "sha256": "be38002d982465ccf74a72a689ce7396785ef5432941e79308de94ee725ad0cb",
+    "source_folder": ".",
+    "ingested_on": "2025-09-06T14:07:05.015338",
+    "ingest_method": "ocr_smart"
+  },
+  "links": {
+    "source_file_original": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_unprocessed/Pc Clarke_.pdf",
+    "ocr_pdf_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_ocrd/Pc Clarke__ocr.pdf",
+    "ocr_text_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/text/Pc Clarke_.txt"
+  },
+  "tags": [
+    "auto_ocr",
+    "pc clarke"
+  ]
+}

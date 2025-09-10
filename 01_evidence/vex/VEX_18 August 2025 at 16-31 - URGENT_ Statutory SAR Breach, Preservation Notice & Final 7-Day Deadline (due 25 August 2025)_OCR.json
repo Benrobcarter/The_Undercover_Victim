@@ -1,0 +1,29 @@
+{
+  "id": "VEX_18 August 2025 at 16-31 - URGENT_ Statutory SAR Breach, Preservation Notice & Final 7-Day Deadline (due 25 August 2025)_OCR",
+  "type": "evidence",
+  "source": "Smart OCR Ingest",
+  "date": "DATE_NOT_FOUND",
+  "summary": "Auto-ingested from file: 18 August 2025 at 16-31 - URGENT_ Statutory SAR Breach, Preservation Notice & Final 7-Day Deadline (due 25 August 2025).pdf",
+  "meta": {
+    "original_filename": "18 August 2025 at 16-31 - URGENT_ Statutory SAR Breach, Preservation Notice & Final 7-Day Deadline (due 25 August 2025).pdf",
+    "ocr_pdf_file": "18 August 2025 at 16-31 - URGENT_ Statutory SAR Breach, Preservation Notice & Final 7-Day Deadline (due 25 August 2025)_ocr.pdf",
+    "ocr_text_file": "18 August 2025 at 16-31 - URGENT_ Statutory SAR Breach, Preservation Notice & Final 7-Day Deadline (due 25 August 2025).txt",
+    "sha256": "bdfc398547cebd459127618097041a6ad75e76ccd64dc25b4a7b84f5b66e88ec",
+    "source_folder": ".",
+    "ingested_on": "2025-09-06T14:35:07.836839",
+    "ingest_method": "ocr_smart"
+  },
+  "links": {
+    "source_file_original": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_unprocessed/18 August 2025 at 16-31 - URGENT_ Statutory SAR Breach, Preservation Notice & Final 7-Day Deadline (due 25 August 2025).pdf",
+    "ocr_pdf_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_ocrd/18 August 2025 at 16-31 - URGENT_ Statutory SAR Breach, Preservation Notice & Final 7-Day Deadline (due 25 August 2025)_ocr.pdf",
+    "ocr_text_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/text/18 August 2025 at 16-31 - URGENT_ Statutory SAR Breach, Preservation Notice & Final 7-Day Deadline (due 25 August 2025).txt"
+  },
+  "tags": [
+    "auto_ocr",
+    "31 ",
+    " urgent",
+    " statutory sar breach, preservation notice & final 7",
+    "18 august 2025 at 16",
+    "day deadline (due 25 august 2025)"
+  ]
+}

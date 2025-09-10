@@ -1,0 +1,27 @@
+{
+  "id": "VEX_1 October 2024 at 10-59 - Re fringe meeting_OCR",
+  "type": "evidence",
+  "source": "Smart OCR Ingest",
+  "date": "DATE_NOT_FOUND",
+  "summary": "Auto-ingested from file: 1 October 2024 at 10-59 - Re fringe meeting.pdf",
+  "meta": {
+    "original_filename": "1 October 2024 at 10-59 - Re fringe meeting.pdf",
+    "ocr_pdf_file": "1 October 2024 at 10-59 - Re fringe meeting_ocr.pdf",
+    "ocr_text_file": "1 October 2024 at 10-59 - Re fringe meeting.txt",
+    "sha256": "1fb8bca536bf7b19f0703809061892b2b1956975da2f3e2dcc42a49323a0b03b",
+    "source_folder": ".",
+    "ingested_on": "2025-09-06T14:30:33.627852",
+    "ingest_method": "ocr_smart"
+  },
+  "links": {
+    "source_file_original": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_unprocessed/1 October 2024 at 10-59 - Re fringe meeting.pdf",
+    "ocr_pdf_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_ocrd/1 October 2024 at 10-59 - Re fringe meeting_ocr.pdf",
+    "ocr_text_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/text/1 October 2024 at 10-59 - Re fringe meeting.txt"
+  },
+  "tags": [
+    "auto_ocr",
+    "1 october 2024 at 10",
+    " re fringe meeting",
+    "59 "
+  ]
+}

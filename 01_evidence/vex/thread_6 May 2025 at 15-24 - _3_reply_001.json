@@ -1,0 +1,21 @@
+{
+  "id": "thread_6 May 2025 at 15-24 - _3_reply_001",
+  "type": "evidence",
+  "source": "Thread Reply Split (Smart OCR)",
+  "date": "DATE_NOT_FOUND",
+  "summary": "[From:] Ben Carter <benrobcarter@gmail.com> Sent: 06 May 2025 15:24 To: Take Part <takepart@brightonfringe.org> Cc: Alice Wright <alice@sparkampm.co.uk> Subject: <3 [Qu",
+  "meta": {
+    "thread_id": "thread_6 May 2025 at 15-24 - _3",
+    "original_filename": "6 May 2025 at 15-24 - _3.txt",
+    "reply_index": 1,
+    "split_on": "regex: header blocks",
+    "ingested_on": "2025-09-06T14:01:10.247446"
+  },
+  "links": {
+    "source_text_file": "/Users/bencarter/Documents/The_Undercover_Victim/01_evidence/text/6 May 2025 at 15-24 - _3.txt"
+  },
+  "tags": [
+    "reply_split",
+    "auto_ocr_thread"
+  ]
+}

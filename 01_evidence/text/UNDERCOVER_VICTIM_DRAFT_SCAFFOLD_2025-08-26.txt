@@ -1,0 +1,103 @@
+M@ The Undercover Victim — Draft Scaffold
+Live manuscript scaffold generated 26 Aug 2025.
+
+Foreword
+Epigraph: “It’s my story — but it’s been written by someone else.” — Ben Carter
+
+Purpose: Set the tone, reference Kim Box, origin refrain: ‘Police, please.’
+
+Section 1 — Complainant’s Foreword
+Narrative of first call, silence, survival decision.
+Epigraph: “POLICE PLEASE — not a plea, a prophecy.”
+
+Section 2 — The Core Complaint & Timeline of
+Failures
+
+2.1 Sussex Police Chronology
+Summary: Early dismissal, deletion log, unredacted forwards, suicide risk unlogged.
+Epigraph placeholder.
+
+2.2 Brighton Fringe Consequences
+Summary: Safeguarding evasion, retaliation, reputational harm.
+Epigraph placeholder.
+
+2.3 Personal Evidence Construction
+Summary: Lockdown after suicide attempt not logged, SAR trail.
+Epigraph placeholder.
+
+Section 3 — Investigation & Findings
+3.1 From Victim to Investigator
+Summary: Why role changed, what was done, what was found.
+Evidence anchors: [Insert exhibits here].
+
+Contradiction threads: [Insert relevant contradictions].
+Epigraph placeholder.
+
+3.2 Chain-of-Custody & the July Call
+Summary: Audit trail test of deletion claim.
+Evidence anchors: [Insert exhibits here].
+
+Contradiction threads: [Insert relevant contradictions].
+Epigraph placeholder.
+
+3.3 The Silence Ladder
+Summary: Quantifying ‘Death by Silence.’
+Evidence anchors: [Insert exhibits here].
+
+Contradiction threads: [Insert relevant contradictions].
+Epigraph placeholder.
+
+3.4 Case Start Date Contortions
+Summary: Resolve July vs November integrity.
+Evidence anchors: [Insert exhibits here].
+
+Contradiction threads: [Insert relevant contradictions].
+Epigraph placeholder.
+
+3.5 NFA Before Safeguarding
+Summary: Audit 27 Apr suspect email.
+Evidence anchors: [Insert exhibits here].
+
+Contradiction threads: [Insert relevant contradictions].
+Epigraph placeholder.
+
+3.6 Data Rights Blocked and Bent
+Summary: SAR refusals and GDPR misuse.
+Evidence anchors: [Insert exhibits here].
+
+Contradiction threads: [Insert relevant contradictions].
+Epigraph placeholder.
+
+3.7 External Confirmations
+Summary: Cross-check with Veritas, ambulance, GP.
+Evidence anchors: [Insert exhibits here].
+
+Contradiction threads: [Insert relevant contradictions].
+Epigraph placeholder.
+
+3.8 Brighton Fringe Retaliation
+Summary: Minutes refusal, brand erasure.
+Evidence anchors: [Insert exhibits here].
+
+Contradiction threads: [Insert relevant contradictions].
+Epigraph placeholder.
+
+3.9 Independent Review Recommendations
+Summary: What oversight must do now.
+Evidence anchors: [Insert exhibits here].
+
+Contradiction threads: [Insert relevant contradictions].
+Epigraph placeholder.
+
+Interludes / Quote Cards
+Insert between chapters for emphasis:
+* “Give in or give up? | chose survival.” — Ben Carter
+¢ “The pattern now is no reply.” — Ben Carter
+
+Appendices
+Contradiction Atlas (live contradictions + VEX).
+Evidence Timeline CSV (all events, tagged with risk).
+
+Master Complaint full text.
+
+

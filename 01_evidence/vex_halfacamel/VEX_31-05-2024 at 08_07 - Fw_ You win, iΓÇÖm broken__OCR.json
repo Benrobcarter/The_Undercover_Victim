@@ -1,0 +1,28 @@
+{
+  "id": "VEX_31-05-2024 at 08_07 - Fw_ You win, i\u2019m broken__OCR",
+  "type": "evidence",
+  "source": "Smart OCR Ingest",
+  "date": "DATE_NOT_FOUND",
+  "summary": "Auto-ingested from file: 31-05-2024 at 08_07 - Fw_ You win, i\u2019m broken_.pdf",
+  "meta": {
+    "original_filename": "31-05-2024 at 08_07 - Fw_ You win, i\u2019m broken_.pdf",
+    "ocr_pdf_file": "31-05-2024 at 08_07 - Fw_ You win, i\u2019m broken__ocr.pdf",
+    "ocr_text_file": "31-05-2024 at 08_07 - Fw_ You win, i\u2019m broken_.txt",
+    "sha256": "df35af607c7b77e272a64826b6f9238170c6c4341b5b1d88a9f8427014d0d680",
+    "source_folder": ".",
+    "ingested_on": "2025-09-06T14:14:57.317005",
+    "ingest_method": "ocr_smart"
+  },
+  "links": {
+    "source_file_original": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_unprocessed/31-05-2024 at 08_07 - Fw_ You win, i\u2019m broken_.pdf",
+    "ocr_pdf_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_ocrd/31-05-2024 at 08_07 - Fw_ You win, i\u2019m broken__ocr.pdf",
+    "ocr_text_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/text/31-05-2024 at 08_07 - Fw_ You win, i\u2019m broken_.txt"
+  },
+  "tags": [
+    "auto_ocr",
+    "07 ",
+    " you win, i\u2019m broken",
+    " fw",
+    "2024 at 08"
+  ]
+}

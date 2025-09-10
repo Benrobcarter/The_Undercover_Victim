@@ -1,0 +1,33 @@
+{
+  "id": "VEX_2024-12-13_Email_Jonathan_Dixon_Request_Digital_Evidence_NICE_LINK_B_OCR",
+  "type": "evidence",
+  "source": "Smart OCR Ingest",
+  "date": "2024-12-13",
+  "summary": "Auto-ingested from file: 2024-12-13_Email_Jonathan_Dixon_Request_Digital_Evidence_NICE_LINK_B.pdf",
+  "meta": {
+    "original_filename": "2024-12-13_Email_Jonathan_Dixon_Request_Digital_Evidence_NICE_LINK_B.pdf",
+    "ocr_pdf_file": "2024-12-13_Email_Jonathan_Dixon_Request_Digital_Evidence_NICE_LINK_B_ocr.pdf",
+    "ocr_text_file": "2024-12-13_Email_Jonathan_Dixon_Request_Digital_Evidence_NICE_LINK_B.txt",
+    "sha256": "3240466af38db661275dc2c69e9204b62c3814c3859a2f6ef8080a2bc7b6f22b",
+    "source_folder": ".",
+    "ingested_on": "2025-09-06T14:41:20.719820",
+    "ingest_method": "ocr_smart"
+  },
+  "links": {
+    "source_file_original": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_unprocessed/2024-12-13_Email_Jonathan_Dixon_Request_Digital_Evidence_NICE_LINK_B.pdf",
+    "ocr_pdf_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_ocrd/2024-12-13_Email_Jonathan_Dixon_Request_Digital_Evidence_NICE_LINK_B_ocr.pdf",
+    "ocr_text_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/text/2024-12-13_Email_Jonathan_Dixon_Request_Digital_Evidence_NICE_LINK_B.txt"
+  },
+  "tags": [
+    "auto_ocr",
+    "jonathan",
+    "2024",
+    "evidence",
+    "email",
+    "link",
+    "nice",
+    "digital",
+    "dixon",
+    "request"
+  ]
+}

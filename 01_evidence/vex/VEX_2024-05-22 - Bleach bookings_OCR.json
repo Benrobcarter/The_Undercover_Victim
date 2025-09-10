@@ -1,0 +1,27 @@
+{
+  "id": "VEX_2024-05-22 - Bleach bookings_OCR",
+  "type": "evidence",
+  "source": "Smart OCR Ingest",
+  "date": "2024-05-22",
+  "summary": "Auto-ingested from file: 2024-05-22 - Bleach bookings.pdf",
+  "meta": {
+    "original_filename": "2024-05-22 - Bleach bookings.pdf",
+    "ocr_pdf_file": "2024-05-22 - Bleach bookings_ocr.pdf",
+    "ocr_text_file": "2024-05-22 - Bleach bookings.txt",
+    "sha256": "ca5472bc09b3889083b241fe2e61552643c0f5d32be256aef2828d7b3fa9139e",
+    "source_folder": ".",
+    "ingested_on": "2025-09-06T22:55:41.709881",
+    "ingest_method": "ocr_smart"
+  },
+  "links": {
+    "source_file_original": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_unprocessed/2024-05-22 - Bleach bookings.pdf",
+    "ocr_pdf_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_ocrd/2024-05-22 - Bleach bookings_ocr.pdf",
+    "ocr_text_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/text/2024-05-22 - Bleach bookings.txt"
+  },
+  "tags": [
+    "auto_ocr",
+    "22 ",
+    "2024",
+    " bleach bookings"
+  ]
+}

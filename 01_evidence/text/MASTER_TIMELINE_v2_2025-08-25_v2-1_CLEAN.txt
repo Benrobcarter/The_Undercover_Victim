@@ -1,0 +1,522 @@
+MASTER TIMELINE v2.1 (cleaned) — no assumed dates; full SHA-256; zip-root labelled
+Date
+
+Time
+
+Event
+
+JSON: LIVE_VEX_TIMELINE_PAZi6
+
+Source
+
+Details
+
+Iticid)_-P-bohits Gt =HariND OBB S4A#=8025baeb4 1 7cb1 fb
+
+Assumed?
+
+Needs date
+
+/mnt/data/PROJECT_FILE_SYNCED_2025-08-25_v4.3Yés#JLL_with Meslit.zip:L
+N_HANDOFF.json
+
+CSV: NICE_Timeline_PEARSON(ZipbAi
+BIDF Fd@tATSe-cmne - hash64k=4600a3e95017a899
+
+/mnt/data/PROJECT_FILE_SYNCED_ 2025-08-25
+
+v4.3Y@uJLL_with Yeslit.zip:N
+
+TCH.csv
+JSON: NICE_Timeline_PEARSOWiHAND
+OF dateAsiCthisoa - hash64k=c928242c06d24379
+
+/mnt/data/PROJECT_FILE_SYNCED_
+2025-08-25
+v4.3Y@uJLL_with Yeslit.zip:N
+TCH.json
+
+JSON: EX_VERITAS_CHAT_CO/¥IFRABIG
+Fiddle 2825.janre - hash64k=45631 1dec4626dac
+
+/mnt/data/PROJECT_FILE_SYNCED_
+2025-08-25
+v4.3Yé€uJLL_with_Meslit.zip:E
+25.json
+
+JSON: CONTRADICTION_MATREXpFédit}G - RATBirc2-hgstm- hash64k=9766ea98e27df67a
+
+/mnt/data/PROJECT_FILE_SYNCED_ 2025-08-25
+
+v4.3Y@uLL_with Meslit.zip:C
+
+01.json
+JSON: PHHC_EMAILS_
+COMBINED rébi)-.jsdate_src=none - hash64k=de8c96f9747337b7
+
+/mnt/data/PROJECT_FILE_SYNCED_2025-08-25_v4.3YésJLL_with Meslit.zip:P
+
+JSON: PHHC_VEX_TAGGED_
+E40 rodi)MEIdNE Sidkhgaen hash64k=d6774555d2c26f2d
+
+/mnt/data/PROJECT_FILE_SYNCED_ 2025-08-25
+
+v4.3YéuJLL_with_Meslit.zip:P
+
+ULL.json
+JSON: UNIVERSAL_VEX_ENFORPEbUEN
+
+T_dafeEs thie jsonhash64k=c8866edab4bd10c8
+
+/mnt/data/PROJECT_FILE_SYNCED_
+2025-08-25
+v4.3Yé€uLL_with_ Meslit.zip:U
+IVE.json
+
+TXT: EXHIBIT_PIPELINE_READ(difp.
+taiot) - - date_src=none - hash64k=5a9c74df389c1 5ff
+
+/mnt/data/PROJECT_FILE_SYNCED_2025-08-25_v4.3Yés#JLL_with Meslit.zip:E
+
+TXT: EXHIBIT_PIPELINE_READ(M@ip
+rob? txtdate_src=none - hash64k=ee5ae4c1cb17b7f2
+
+/mnt/data/PROJECT_FILE_SYNCED_2025-08-25_v4.3Yés#JLL_with Meslit.zip:E
+
+JSON: EMAIL_EXHIBIT_TEMPLAvié rodtP-jsaiate_src=none - hash64k=b220ce16326e67c4
+
+/mnt/data/PROJECT_FILE_SYNCED_2025-08-25_v4.3Yés#JLL_with Meslit.zip:E
+
+JSON: EMAIL_EXHIBIT_TEMPLAvié rodt)l-jsaiate_src=none - hash64k=c0e05632210c2b09
+
+/mnt/data/PROJECT_FILE_SYNCED_2025-08-25_v4.3Yés#JLL_with Meslit.zip:E
+
+JSON: unified_audit_report.json (zip root) - - date_src=none - hash64k=2bf5ec181b1db979
+
+/mnt/data/PROJECT_FILE_SYNCED_2025-08-25_v4.3Yés#JLL_with Meslit.zip:ui
+
+JSON: manifest.json
+
+/mnt/data/PROJECT_FILE_SYNCED_2025-08-25_v4.3Yés#JLL_with Meslit.zip:r
+
+(zip root) - - date_src=none - hash64k=29400b7b6f134c46
+
+JSON: DUNCAN_ATTEMPTED_MiIpROgER-_GiaieT
+BABOON asAG 4h 4aateda52bc26dd2c
+
+/mnt/data/PROJECT_FILE_SYNCED_2025-08-25_v4.3Y€sJLL_with Meslit.zip:D
+CTION_PATCH.json
+
+JSON: PUBLIC_BUNDLE_SUMMAB}YO@)/AR_
+RikS Soc ri6Oe Ota gib4k=6800c8eea045icle
+
+/mnt/data/PROJECT_FILE_SYNCED_ 2025-08-25
+
+v4.3YéuJLL_with_Meslit.zip:P
+
+_POLICE.json
+TXT: README_DIGPOL_FULL_({zif0rbat) - - date_src=none - hash64k=49b0ebaae929bddb
+
+/mnt/data/PROJECT_FILE_SYNCED_2025-08-25_v4.3Yés#JLL_with Meslit.zip:R
+
+TXT: README_DIGPOL_JSON _(2i@ant) - - date_src=none - hash64k=49833824a8f283db
+
+/mnt/data/PROJECT_FILE_SYNCED_2025-08-25_v4.3Yés#JLL_with Meslit.zip:R
+
+JSON: BATCHA._consolidation_a{zifit
+yeot) - - date_src=none - hash64k=7d686a882c2c8c1c
+
+/mnt/data/PROJECT_FILE_SYNCED_2025-08-25_v4.3YésJLL_with Meslit.zip:B
+
+JSON: SUSSEX_POLICE_SAFEG@GWbABRINGCBRREAKO
+ONAN. Nbsh62h2546eh96aac29e377
+
+/mnt/data/PROJECT_FILE_SYNCED_2025-08-25_v4.3Yés#JLL_with Meslit.zip:S
+DOWN_MAY_2025.json
+
+JSON: COMPENSATION_CLAIMzMAGR&)X
+-SldSEX=AONEC Bastie4k=f5a023ada27{6758
+
+/mnt/data/PROJECT_FILE_SYNCED_ 2025-08-25
+_POLICE.json
+
+v4.3Yé€uLL_with_Meslit.zip:C
+
+MASTER TIMELINE v2.1 (cleaned) — no assumed dates; full SHA-256; zip-root labelled
+Date
+
+Time
+
+Event
+
+Details
+
+JSON: BATCHB._consolidation_afzifitjeot) - - date_src=none - hash64k=04d53d9c76c4ddf6
+CSV: BATCHA_diff_report.csv
+
+Source
+
+Assumed?
+
+Needs date
+
+/mnt/data/PROJECT_FILE_SYNCED_
+2025-08-25 v4.3Y@égLL_with Meslit.zip:B
+
+DigitalPolicing_Batch_2024-11-04_A/ - date_src=none - hash64k=26ffob0iatasPREQIECT
+FILE _SYNCED_ 2025-08-25 v4.3Y@sJLL_with Yeslit.zip:D
+_A/BATCHA _diff_report.csv
+
+JSON: BATCHA._consolidation_aDajtt@olicing _Batch_2024-11-04_A/ - date_src=none - hash64k=7d666a88aGZPROdECT
+FILE SYNCED _ 2025-08-25 v4.3Yé€wJLL_with_esiit.zip:D
+_A/BATCHA_consolidation_audit.json
+
+JSON: v4_compat_config.json
+
+08 supporting/scripts_v4/ - date_src=none - hash64k=98708cabb3808d@a/data/PROJECT_FILE_SYNCED_
+2025-08-25 v4.3Yé€wJLL_with_ esiit.zip:0
+at_config.json
+
+JSON: project_oversight_summa04_vAéasiiest/oversight/ - date_src=none - hash64k=336a70d59228d64€nnt/data/PROJECT_FILE_SYNCED_
+2025-08-25 v4.3Y€wJLL_with_esiit.zip:0.
+ersight_summary_v4.json
+2024-07-??
+
+Initial incident reported (per callerOlateatmeeyed}ually concedes July report is 'the same’ as November fiWWEX_2025-04-17_0432_101_Holiday_Alibi (2).json
+
+@ A@&LO007..L0008
+
+2024-11-02
+
+Original report date asserted by c@ited elsewhere; establishes earlier start than 18 Nov.
+
+VEX_2025-04-17_0432_101_Holiday_Alibi (2).json @ (¥es A08 corroboration)
+
+2024-11-02
+
+Original report ("X Won't Leave M6allenesSseNkOirsineport was 2 Nov, not 18 Nov.
+
+VEX_2025-07-04_St_Johns_Front_Desk_Liz (3).json @VA08-L0017, LO035
+
+CSV: NICE_LINKS_INTAKE_ADR:i20@4t)1
+4 -@a Rb Stoegilename - hash64k=6b50348b9c517131
+
+/mnt/data/PROJECT_FILE_SYNCED_
+2025-08-25 v4.3Y@uJLL_with Yeslit.zip:N
+
+-0536.csv
+
+CSV:
+
+(zip root) - - date_src=filename - hash64k=91f0ab263283056a
+
+/mnt/data/PROJECT_FILE_SYNCED_
+2025-08-25 v4.3Y@égLL_with Meslit.zip:T
+
+TRACKER_ROW_2024-11-04-0536_Digital-Policing_to_Ben.csv
+
+tal-Policing_to_Ben.csv
+
+JSON: CROSSWALK_DIGPOL_204rdd)04- batehértsditename - hash64k=fdOf1 8553221 fc04
+
+/mnt/data/PROJECT_FILE_SYNCED_
+2025-08-25 v4.3Y@uLL_with Meslit.zip:C
+hA.json
+
+JSON:
+
+DigitalPolicing_Batch_2024-11-04_A/ - date_src=filename - hash64k=90@7/de8s#PRISOEGT
+FILE SYNCED _ 2025-08-25 v4.3Y6€gJLL_with_Mesiit.zip:D
+
+2024-11-04 _Digital-Policing_to_Ben_Evidence-Portal-Request
+
+_A/2024-11-04_Digital-Policing_to_Ben_Evidence-Portal-Request.json
+
+json
+
+JSON:
+
+DigitalPolicing_Batch_2024-11-04_A/ - date_src=filename - hash64k=8hetfad&7PROvaCT
+FILE SYNCED _ 2025-08-25 v4.3YéwJLL_with_esiit.zip:D
+
+2024-11-04 _Digital-Policing_to_Ben_Jonathan-Dixon-Request.
+
+_A/2024-11-04_Digital-Policing_to_Ben_Jonathan-Dixon-Request.json
+
+json
+
+CSV: TRACKER_ROWS_DIGITADigR@PM
+bite _Pegdh1 PO24 Hate Aév date_src=filename - hash64k=2ehtid@aidARO@BET_FILE_SYNCED_2025-08-25_v4.3Y€uLL_with
+Mesiit.zip:D
+_A/TRACKER_ROWS_DIGITAL_POLICING_2024-11-04_batchA.csv
+
+JSON: CROSSWALK_DIGPOL_20gi#alReliéirtoatBaécisc?024-11-04_A/ - date_src=filename - hash64k=fd@iV/@S&9PAOMECT
+FILE_SYNCED_ 2025-08-25 v4.3Y6MLL_with Weslit.zip:D
+_AICROSSWALK_DIGPOL_2024-11-04_batchA json
+
+CSV:
+
+DigitalPolicing_Batch_2024-11-04_A/ - date_src=filename - hash64k=0daboatadktBadeeT
+FILE SYNCED _ 2025-08-25 v4.3YéwLL_ with esiit.zip:D
+
+TRACKER_ROWS_DIGITAL_POLICING_ 2024-11-04 _batchA_CONSOLIDAT
+
+_A/TRACKER_ROWS_DIGITAL_POLICING_ 2024-11-04 _batchA_CONSOLID/é
+
+ED.csv
+
+JSON:
+
+DigitalPolicing_Batch_2024-11-04_A/ - date_src=filename - hash64k=804b@ar@Paez546T
+FILE SYNCED _ 2025-08-25 v4.3YégJLL_with_Mesiit.zip:D
+
+2024-11-13 _Digital-Policing_to_Ben_Jonathan-Dixon-Request.
+
+json
+
+_A/2024-11-13_Digital-Policing_to_Ben_Jonathan-Dixon-Request.json
+
+MASTER TIMELINE v2.1 (cleaned) — no assumed dates; full SHA-256; zip-root labelled
+Date
+
+Time
+
+Event
+
+Details
+
+JSON:
+
+DigitalPolicing_Batch_2024-11-04_A/ - date_src=filename - hash64k=4#e@eaesbFebaksSa FILE SYNCED _ 2025-08-25 v4.3YéwJLL_ with esiit.zip:D
+
+2024-11-13 _Digital-Policing_to_Ben_Jonathan-Dixon-Request-
+
+Source
+
+Assumed?
+
+Needs date
+
+_A/2024-11-13_Digital-Policing_to_Ben_Jonathan-Dixon-Request-1340.json
+
+1340.json
+
+JSON:
+
+DigitalPolicing_Batch_2024-11-04_A/ - date_src=filename - hash64k=OhaVebfaPROgeT
+FILE SYNCED _ 2025-08-25 v4.3YéwJLL_with_Mesiit.zip:D
+
+2024-11-14 Digital-Policing_to_Ben_Jonathan-Dixon-Request-
+
+_A/2024-11-14_Digital-Policing_to_Ben_Jonathan-Dixon-Request-1158.json
+
+1158.json
+
+JSON:
+
+DigitalPolicing_Batch_2024-11-04_A/ - date_src=filename - hash64k=b10GABadd7RGRFSBT
+FILE SYNCED _ 2025-08-25 v4.3YégJLL_with_Mesiit.zip:D
+
+2024-11-14 Digital-Policing_to_Ben_Jonathan-Dixon-Request-
+
+_A/2024-11-14_Digital-Policing_to_Ben_Jonathan-Dixon-Request-1159.json
+
+1159.json
+2024-11-18
+
+Start date shown on police syster8ystem shows 18 Nov as start; excludes earlier report.
+
+VEX_2025-04-17_0432_101_Holiday_Alibi (2).json @ A@&L0008
+
+2024-11-18
+
+Start date on system (contested) Liz/system show 18 Nov as start, excluding 2 Nov.
+
+VEX_2025-07-04_St_Johns_Front_Desk_Liz (3).json @NA&08-L0035
+
+TXT: README_NICE_LINK_B_
+2G@@4ro2t} 3 txdate_src=filename - hash64k=735b773ce866e909
+
+/mnt/data/PROJECT_FILE_SYNCED_
+2025-08-25 v4.3Y@éuLL_with Meslit.zip:R
+t
+
+JSON: CROSSWALK_DIGPOL_2004rda)13- batehBrtsditename - hash64k=e6831 c6de28de330
+
+/mnt/data/PROJECT_FILE_SYNCED_
+2025-08-25 v4.3Y@uLL_with Meslit.zip:C
+hB.json
+
+JSON:
+
+DigitalPolicing_Batch_2024-12-13/ - date_src=filename - hash64k=2c068Rab0at54aO0ECT
+FILE SYNCED _ 2025-08-25 v4.3Yé€wJLL_with_Mesiit.zip:D
+
+2024-12-13 _Digital-Policing_to_Ben_Jonathan-Dixon-Request_
+
+/2024-12-13 Digital-Policing_to_Ben_Jonathan-Dixon-Request_Email-7.json
+
+Email-7.json
+
+CSV:
+
+DigitalPolicing_Batch_2024-12-13/ - date_src=filename - hash64k=ae@ciieatiadPirgogECT
+FILE SYNCED _ 2025-08-25 v4.3YégJLL_with_esiit.zip:D
+
+TRACKER_ROW_ 2024-12-13 _Digital-Policing_to_Ben_Jonathan-Di
+
+/TRACKER_ROW_ 2024-12-13 Digital-Policing_to_Ben_Jonathan-Dixon-Reque
+
+xon-Request_Email-7.csv
+
+JSON: CROSSWALK_DIGPOL_®0gi#alPolisirigmBdtztjs@024-12-13/ - date_src=filename - hash64k=822HiT2@e4
+
+BCGUECT_FILE_SYNCED_ 2025-08-25 v4.3Y6MLL_with Weslit.zip:D
+
+/CROSSWALK_DIGPOL_2024-12-13_Email-7.json
+Suicide attempt disclosed; no offiter eokitacvlatigasand officer response since 6 Apr.
+
+2025-04-06
+
+VEX_2025-07-04_St_Johns_Front_Desk_Liz (3).json @VA08-L0019, LO031
+
+(per caller & Liz)
+
+JSON:
+
+(zip root) - - date_src=filename - hash64k=1b20beb7fbd23542
+
+CRN-47240214305_DigitalPolicing_to_Ben_2025-04-07_THREAD.|
+
+/mnt/data/PROJECT_FILE_SYNCED_
+2025-08-25 v4.3Y@uLL_with Meslit.zip:C
+to_Ben_2025-04-07_THREAD.json
+
+son
+
+2025-04-17
+
+04:32
+
+101 call: 'Holiday Alibi’ — records Repnsistéulgia)
+34 incident linked into November file; all named officer’ Bx le2o25-64ftiUlti@¢sabtating clatay/ARIR.(2).json
+
+@ AG6-LO003..L0017
+
+supervisory leave
+2025-04-23
+2025-04-29
+
+Next available supervisory contadtlQpaltéravatiles)point of contact before Tue 23 Apr.
+
+VEX_2025-04-17_0432_101_Holiday_Alibi (2).json @ A@&LO011
+
+Multi-agency Stalking Clinic w/ CP&iggat dteritasction vs 'CPS only involved after case built’ statement. VEX_2025-07-04_St_Johns_Front_Desk_Liz (3).json @YA®8-LO009
+referenced)
+
+MASTER TIMELINE v2.1 (cleaned) — no assumed dates; full SHA-256; zip-root labelled
+Date
+
+Time
+
+Event
+
+Details
+
+JSON: MASTER_CONTRADICTIQNSotWEGIEE
+sr62hi dt tte|sdrash64k=262f21 baffibda05
+
+Source
+
+Assumed?
+
+Needs date
+
+/mnt/data/PROJECT_FILE_SYNCED_
+2025-08-25
+v4.3Y@uLL_with Meslit.zip:V
+025-06-05.json
+
+Threat/rape accusation logged (nBalputada|
+prid vets} logged; refused update; breach of information right¥ Ake@&25-07-04_St_Johns_Front_Desk_Liz (3).json @N&08-L0008, LO027
+
+2025-06-22
+2025-07-04
+2025-07-04
+
+14:05
+
+101 call about PC Gasson (OIC) Transcript file present; contents not yet VEX-graded in this timeline ve@4e@i7-25 14.05 PC Gassin (1).txt
+
+No
+
+101 call: crime number confusion] @tCccomimoedbess? Gasson as OIC; logged entry acknowledged 22 JUBX\PO25R8 -dshitBidiitioms. Front_Desk_Liz (3).json @VA&08-L0002..L0009
+
+Gasson
+2025-07-04
+
+In-person visit — St John's Street fiiwedéekd{Liz)confirms 4 active crime numbers; improper filing; start daEEXsI#025-Ag
+-08 Net Joris brocktdid sled? 48).json @NA08-L0010..L0019, LO
+officer contact since 6 Apr.
+JSON: PROJECT_FILE_SYNCER:i20@5t08-2tatmantestgaame - hash64k=fa92c72b57e5a0al
+
+/mnt/data/PROJECT_FILE_SYNCED_
+2025-08-25
+v4.3YéuJLL_with_Meslit.zip:P
+anifest.json
+
+JSON:
+
+(zip root) - - date_src=filename - hash64k=47acbd40c78b9d4c
+
+/mnt/data/PROJECT_FILE_SYNCED_
+2025-08-25
+v4.3Y@éuJLL_with Meslit.zip:P
+
+PROJECT_FILE_SYNCED_
+2025-08-25 v4 FULL_audit_bundle.json
+
+4FULL_audit_bundle.json
+
+JSON:
+
+/mnt/data/PROJECT_FILE_SYNCED_
+2025-08-25
+v4.3Y@éuJLL_with Meslit.zip:P
+
+(zip root) - - date_src=filename - hash64k=285393741 0Ocb6a95
+
+PROJECT_FILE_SYNCED_2025-08-25_v4.3_FULL_audit_bundle.json
+
+4.3
+
+CSV: PROJECT_FILE_SYNCED(29265e08-2Waié. snmdiigaahusv hash64k=bdf8e77cbaalcd53
+
+/mnt/data/PROJECT_FILE_SYNCED_
+2025-08-25
+v4.3Y@éuJLL_with Meslit.zip:P
+
+FULL _audit_bundle.json
+
+4.3_manifest.csv
+
+TXT: PROJECT_FILE_SYNCED (202% 01$-2-5date3sivedilemhame - hash64k=a0ca9a33d6d629eb
+
+/mnt/data/PROJECT_FILE_SYNCED_
+2025-08-25
+v4.3Y@éuJLL_with Meslit.zip:P
+4.3. tree.txt
+
+TXT:
+
+(zip root) - - date_src=filename - hash64k=580c0c490a1e8035
+
+PROJECT_FILE_SYNCED_
+2025-08-25 v4.3 _tree_with_delta.txt
+
+/mnt/data/PROJECT_FILE_SYNCED_
+2025-08-25
+v4.3Y@éuJLL_with Meslit.zip:P
+4.3 tree_with_delta.txt
+
+

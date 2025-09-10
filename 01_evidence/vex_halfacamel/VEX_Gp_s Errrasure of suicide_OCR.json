@@ -1,0 +1,25 @@
+{
+  "id": "VEX_Gp_s Errrasure of suicide_OCR",
+  "type": "evidence",
+  "source": "Smart OCR Ingest",
+  "date": "DATE_NOT_FOUND",
+  "summary": "Auto-ingested from file: Gp_s Errrasure of suicide.pdf",
+  "meta": {
+    "original_filename": "Gp_s Errrasure of suicide.pdf",
+    "ocr_pdf_file": "Gp_s Errrasure of suicide_ocr.pdf",
+    "ocr_text_file": "Gp_s Errrasure of suicide.txt",
+    "sha256": "704935b27db6b9b778835ff18a5dce2819f0cb2021cf60b4a3d5817dab30754c",
+    "source_folder": ".",
+    "ingested_on": "2025-09-06T14:18:27.234053",
+    "ingest_method": "ocr_smart"
+  },
+  "links": {
+    "source_file_original": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_unprocessed/Gp_s Errrasure of suicide.pdf",
+    "ocr_pdf_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_ocrd/Gp_s Errrasure of suicide_ocr.pdf",
+    "ocr_text_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/text/Gp_s Errrasure of suicide.txt"
+  },
+  "tags": [
+    "auto_ocr",
+    "s errrasure of suicide"
+  ]
+}

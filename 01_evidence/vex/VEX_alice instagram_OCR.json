@@ -1,0 +1,25 @@
+{
+  "id": "VEX_alice instagram_OCR",
+  "type": "evidence",
+  "source": "Smart OCR Ingest",
+  "date": "DATE_NOT_FOUND",
+  "summary": "Auto-ingested from file: alice instagram.pdf",
+  "meta": {
+    "original_filename": "alice instagram.pdf",
+    "ocr_pdf_file": "alice instagram_ocr.pdf",
+    "ocr_text_file": "alice instagram.txt",
+    "sha256": "4267b4906611a6bfc7674b4145039df2e4c937d0f2cdbb9377af0a183bf17efa",
+    "source_folder": ".",
+    "ingested_on": "2025-09-06T14:35:47.813014",
+    "ingest_method": "ocr_smart"
+  },
+  "links": {
+    "source_file_original": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_unprocessed/alice instagram.pdf",
+    "ocr_pdf_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_ocrd/alice instagram_ocr.pdf",
+    "ocr_text_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/text/alice instagram.txt"
+  },
+  "tags": [
+    "auto_ocr",
+    "alice instagram"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "VEX_CRN-47240214305_DigitalPolicing_to_Ben_2024-11-04_Email-2_OCR",
+  "type": "evidence",
+  "source": "Smart OCR Ingest",
+  "date": "2024-11-04",
+  "summary": "Auto-ingested from file: CRN-47240214305_DigitalPolicing_to_Ben_2024-11-04_Email-2.pdf",
+  "meta": {
+    "original_filename": "CRN-47240214305_DigitalPolicing_to_Ben_2024-11-04_Email-2.pdf",
+    "ocr_pdf_file": "CRN-47240214305_DigitalPolicing_to_Ben_2024-11-04_Email-2_ocr.pdf",
+    "ocr_text_file": "CRN-47240214305_DigitalPolicing_to_Ben_2024-11-04_Email-2.txt",
+    "sha256": "21decb941364bd94022bbf06ffc334958818f1fd461b26a5352e77979403f2d7",
+    "source_folder": ".",
+    "ingested_on": "2025-09-06T14:29:27.440724",
+    "ingest_method": "ocr_smart"
+  },
+  "links": {
+    "source_file_original": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_unprocessed/CRN-47240214305_DigitalPolicing_to_Ben_2024-11-04_Email-2.pdf",
+    "ocr_pdf_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_ocrd/CRN-47240214305_DigitalPolicing_to_Ben_2024-11-04_Email-2_ocr.pdf",
+    "ocr_text_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/text/CRN-47240214305_DigitalPolicing_to_Ben_2024-11-04_Email-2.txt"
+  },
+  "tags": [
+    "auto_ocr",
+    "2024",
+    "crn",
+    "email",
+    "digitalpolicing",
+    "47240214305",
+    "ben"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "VEX_15 May 2025 at 06-29 - Urgent SAR Request and Serious Concerns \u2013 Immediate Action Required_OCR",
+  "type": "evidence",
+  "source": "Smart OCR Ingest",
+  "date": "DATE_NOT_FOUND",
+  "summary": "Auto-ingested from file: 15 May 2025 at 06-29 - Urgent SAR Request and Serious Concerns \u2013 Immediate Action Required.pdf",
+  "meta": {
+    "original_filename": "15 May 2025 at 06-29 - Urgent SAR Request and Serious Concerns \u2013 Immediate Action Required.pdf",
+    "ocr_pdf_file": "15 May 2025 at 06-29 - Urgent SAR Request and Serious Concerns \u2013 Immediate Action Required_ocr.pdf",
+    "ocr_text_file": "15 May 2025 at 06-29 - Urgent SAR Request and Serious Concerns \u2013 Immediate Action Required.txt",
+    "sha256": "8a659fa3d1a8e32c710a63a7497c89d3ad6c438de67efd9e3b4636d6d20b56ba",
+    "source_folder": ".",
+    "ingested_on": "2025-09-06T14:44:12.692521",
+    "ingest_method": "ocr_smart"
+  },
+  "links": {
+    "source_file_original": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_unprocessed/15 May 2025 at 06-29 - Urgent SAR Request and Serious Concerns \u2013 Immediate Action Required.pdf",
+    "ocr_pdf_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_ocrd/15 May 2025 at 06-29 - Urgent SAR Request and Serious Concerns \u2013 Immediate Action Required_ocr.pdf",
+    "ocr_text_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/text/15 May 2025 at 06-29 - Urgent SAR Request and Serious Concerns \u2013 Immediate Action Required.txt"
+  },
+  "tags": [
+    "auto_ocr",
+    "29 ",
+    "15 may 2025 at 06",
+    " urgent sar request and serious concerns \u2013 immediate action required"
+  ]
+}

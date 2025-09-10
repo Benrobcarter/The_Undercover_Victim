@@ -1,0 +1,524 @@
+MASTER TIMELINE v2.3 — robust time parsing (no colon), participants split
+Date
+
+Time
+
+Event
+
+Participants
+
+Referenced parties
+
+JSON: LIVE_VEX_TIMELINE_PATCHED_PEARSON_HANDOFF.json
+
+Details
+
+Source
+
+(zip root) - - date_src=none - hash64k=8025baeb417cb1fb /mnt/data/PROJECT_|
+
+ARSON_HANDOFF.js
+CSV: NICE_Timeline_PEARSON_HANDOFF_PATCH.csv
+
+(zip root) - - date_src=none - hash64k=4600a3e9501 7a899 /mnt/data/PROJECT_|
+F_PATCH.csv
+
+JSON: NICE_Timeline_ PEARSON_HANDOFF_PATCH.json
+
+(zip root) - - date_src=none - hash64k=c928242c06d24379 /mnt/data/PROJECT_|
+F_PATCH.json
+
+JSON: EX_VERITAS_CHAT_CONTRADICTION_2025.json
+
+(zip root) - - date_src=none - hash64k=45631 1dec4626dac /mnt/data/PROJECT_|
+N_2025.json
+
+JSON:
+
+CONTRADICTION _MATRIX_PHHC_BATCH_01.json
+
+(zip root) - - date_src=none - hash64k=9766ea98e27df67a /mnt/data/PROJECT_|
+TCH_01.json
+
+JSON: PHHC_EMAILS_COMBINED_FULL.json
+
+(zip root) - - date_src=none - hash64k=de8c96f9747337b7 /mnt/data/PROJECT_|
+on
+
+JSON: PHHC_VEX_TAGGED_EMAIL_TIMELINE_FULL.json
+
+(zip root) - - date_src=none - hash64k=d6774555d2c26fed /mnt/data/PROJECT_|
+NE_FULL.json
+
+JSON: UNIVERSAL_VEX_ENFORCEMENT_DIRECTIVE.json
+
+(zip root) - - date_src=none - hash64k=c8866edab4bd10c8 /mnt/data/PROJECT_|
+RECTIVE.json
+
+TXT: EXHIBIT_PIPELINE
+
+README.txt
+
+TXT: EXHIBIT _PIPELINE_ README_v1.2.ixt
+
+(zip root) - - date_src=none - hash64k=5a9c74df389c15ff
+
+/mnt/data/PROJECT_|
+
+(zip root) - - date_src=none - hash64k=ee5ae4cicb17b7f2 /mnt/data/PROJECT_|
+xt
+
+JSON: EMAIL_EXHIBIT_TEMPLATE_v1.2.json
+
+(zip root) - - date_src=none - hash64k=b220ce16326e67c4 /mnt/data/PROJECT_|
+json
+
+JSON: EMAIL_EXHIBIT_TEMPLATE_v1.1.json
+
+(zip root) - - date_src=none - hash64k=c0e05632210c2b09 /mnt/data/PROJECT_|
+json
+
+JSON: unified_audit_report.json
+
+(zip root) - - date_src=none - hash64k=2bf5ec181b1db979 /mnt/data/PROJECT_|
+
+JSON: manifest.json
+
+(zip root) - - date_src=none - hash64k=29400b7b6ff34c46
+
+JSON: DUNCAN_ATTEMPTED_MURDER_CONTRADICTION_PATCH.json
+
+(zip root) - - date_src=none - hash64k=48deda52bc26dd2c /mnt/data/PROJECT_|
+
+/mnt/data/PROJECT_|
+
+RADICTION_PATCH.,}
+JSON: PUBLIC_BUNDLE_SUMMARY_SAR_SUSSEX_POLICE.json
+
+(zip root) - - date_src=none - hash64k=6800c8eea045fcle /mnt/data/PROJECT_|
+SSEX_POLICE.json
+
+TXT: README_DIGPOL_FULL_1-10.txt
+
+(zip root) - - date_src=none - hash64k=49b0ebaae929bddb /mnt/data/PROJECT_|
+
+TXT: README_DIGPOL_JSON_7-10.txt
+
+(zip root) - - date_src=none - hash64k=49833824a8f283db /mnt/data/PROJECT_|
+
+JSON: BATCHA _consolidation_audit.json
+
+(zip root) - - date_src=none - hash64k=7d686a882c2c8c1c /mnt/data/PROJECT_|
+son
+
+MASTER TIMELINE v2.3 — robust time parsing (no colon), participants split
+Date
+
+Time
+
+Event
+
+Participants
+
+Referenced parties
+
+JSON: SUSSEX_POLICE_SAFEGUARDING_BREAKDOWN_MAY_2025.json
+
+Details
+
+Source
+
+(zip root) - - date_src=none - hash64k=32ce196aac29e377 /mnt/data/PROJECT_|
+
+REAKDOWN_MAY_
+2
+JSON: COMPENSATION_CLAIM_MATRIX_SUSSEX_POLICE.
+json
+
+(zip root) - - date_src=none - hash64k=f5a023ada27f6758
+
+/mnt/data/PROJECT_|
+SSEX_POLICE.json
+
+JSON: BATCHBconsolidation_audit.json
+
+(zip root) - - date_src=none - hash64k=04d53d9c76c4ddf6 /mnt/data/PROJECT_|
+son
+
+CSV: BATCHA._diff_report.csv
+
+DigitalPolicing_Batch_2024-11-04 A/ - date_src=none - hash@¢4tkeaié/
+RAO ECABhI
+1-04
+A/BATCHA diff.
+
+JSON: BATCHA _consolidation_audit.json
+
+DigitalPolicing_Batch_2024-11-04 A/ - date_src=none - hash@¢keatdG8RaRhecac
+1-04
+A/BATCHA con:
+
+JSON: v4_compat_config.json
+
+08_supporting/scripts_v4/ - date_src=none - hash64k=987080abdasOBEsGJECT_|
+compat_config.json
+
+JSON: project_oversight_summary_v4.json
+
+04_manifest/oversight/ - date_src=none - hash64k=336a70daRR2Et644ROJECT_|
+
+t_oversight_summary_
+2024-07-??
+
+04:17
+
+Initial incident reported (per caller, latétamé?gd¢}; call handler
+
+Operator eventually concedes July report is 'the same’ as Ni‘bemaaehid)4-17_ 043
+
+2024-11-02
+
+04:17
+
+Original report date asserted by calletBen Carter; call handler
+
+Cited elsewhere; establishes earlier start than 18 Nov.
+
+VEX_ 2025-04-17043
+
+Original report ("X Won’t Leave Me Alone’ — NICE link)
+
+Caller asserts first report was 2 Nov, not 18 Nov.
+
+VEX_ 2025-07-04
+St.
+
+CSV: NICE_LINKS_INTAKE_ADD_2024-11-04-0536.csv
+
+(zip root) - - date_src=filename - hash64k=6b050348b9c517 V6tnt/data/PROJECT_|
+
+2024-11-02
+
+1-04-0536.csv
+CSV: TRACKER_ROW_2024-11-04-0536_Digital-Policing_to_Ben.csv
+
+(zip root) - - date_src=filename - hash64k=91f0ab263283056ant/data/PROJECT_|
+
+Digital-Policing_to_Be'
+
+JSON: CROSSWALK_DIGPOL_2024-11-04_batchA.json
+
+(zip root) - - date_src=filename - hash64k=fd0f18553221 fcOAnnt/data/PROJECT_|
+batchA.json
+
+JSON:
+
+DigitalPolicing_Batch_2024-11-04 A/ - date_src=filename -nasiiédtesPBO1e641d
+
+2024-11-04 Digital-Policing_to_Ben_Evidence-Portal-Request.json
+
+JSON:
+
+1-04 A/2024-11-04
+D
+
+DigitalPolicing_Batch_2024-11-04 A/ - date_src=filename -nasiiGdtasBESNHAG
+704
+
+2024-11-04 Digital-Policing_to_Ben_Jonathan-Dixon-Request.json
+CSV: TRACKER_ROWS_DIGITAL_POLICING_2024-11-04_batchA.csv
+
+1-04 A/2024-11-04
+D
+
+DigitalPolicing_Batch_2024-11-04 A/ - date_src=filename - inasiiédte4e ROVER 11
+
+1-04 A/TRACKER_R¢
+
+JSON: CROSSWALK_DIGPOL_2024-11-04_batchA.json
+
+DigitalPolicing_Batch_2024-11-04 A/ - date_src=filename - nasht€dte¢RBOS56524
+
+1-04 _A/CROSSWALK
+
+CSV:
+TRACKER_ROWS_DIGITAL_ POLICING
+
+DigitalPolicing_Batch_2024-11-04 A/ - date_src=filename -nasii€dtesDEROWEETad
+2024-1 -04 batchA_CONSOLIDATED.csv
+
+1-04 A/TRACKER_R¢
+
+MASTER TIMELINE v2.3 — robust time parsing (no colon), participants split
+Date
+
+Time
+
+Event
+
+Participants
+
+Referenced parties
+
+JSON:
+
+Details
+
+Source
+
+DigitalPolicing_Batch_2024-11-04 _A/ - date_src=filename - inasiiGdtesBOGbHaCI24
+
+2024-11-13 Digital-Policing_to_Ben_Jonathan-Dixon-Request.json
+
+1-04 A/2024-11-13
+
+JSON:
+
+D
+
+DigitalPolicing_Batch_2024-11-04 A/ - date_src=filename - nasii€@dte4BPROdh
+CSbd
+
+2024-11-13 Digital-Policing_to_Ben_Jonathan-Dixon-Request-1340.j
+
+1-04 A/2024-11-13
+
+D
+
+son
+
+JSON:
+
+DigitalPolicing_Batch_2024-11-04 A/ - date_src=filename -nasii€dte4BBOd8
+Cdc4
+
+2024-11-14 Digital-Policing_to_Ben_Jonathan-Dixon-Request-1158.j
+
+1-04 A/2024-11-14
+
+D
+
+son
+
+JSON:
+
+DigitalPolicing_Batch_2024-11-04 A/ - date_src=filename -nasii€dte4BRO4EACE
+71
+
+2024-11-14 Digital-Policing_to_Ben_Jonathan-Dixon-Request-1159.j
+
+1-04 A/2024-11-14
+
+D
+
+son
+
+2024-11-18
+
+Start date shown on police system
+
+System shows 18 Nov as start; excludes earlier report.
+
+VEX_2025-04-17 043
+
+2024-11-18
+
+Start date on system (contested)
+
+Liz/system show 18 Nov as start, excluding 2 Nov.
+
+VEX_ 2025-07-04
+St.
+
+TXT: README_NICE_LINK_B_2024-12-13.txt
+
+(zip root) - - date_src=filename - hash64k=735b773ce866e96hit/data/PROJECT_|
+3.txt
+
+JSON: CROSSWALK_DIGPOL_2024-12-13_batchB.json
+
+(zip root) - - date_src=filename - hash64k=e6831c6de28de3&ht/data/PROJECT_|
+batchB.json
+
+JSON:
+
+DigitalPolicing Batch_2024-12-13/ - date_src=filename - hasné#akpOGsOdE@3b4a
+
+2024-12-13 Digital-Policing_to_Ben_Jonathan-Dixon-Request_Email-
+
+2-13/2024-12-13_
+Digit
+
+7.json
+
+CSV:
+
+DigitalPolicing_Batch_2024-12-13/ - date_src=filename - hasné#batmeAROd4BoH
+1
+
+TRACKER_ROW_ 2024-12-13 Digital-Policing_to_Ben_Jonathan-Dixon-Re
+
+2-13/TRACKER_ROW
+
+quest_Email-7.csv
+JSON: CROSSWALK_DIGPOL_2024-12-13_Email-7.json
+
+DigitalPolicing Batch_2024-12-13/ - date_src=filename - hasné#ka&2PRT2ingAbd
+
+2-13/CROSSWALK_D
+2025-04-06
+
+07:04
+
+Suicide attempt disclosed; no officer dienaCaattey
+walt ch nal er
+
+Liz acknowledges no officer response since 6 Apr.
+
+VEX_ 2025-07-04
+St.
+
+caller & Liz)
+
+JSON:
+
+(zip root) - - date_src=filename - hash64k=1b20beb7fbd2354#nt/data/PROJECT_|
+
+CRN-47240214305_ DigitalPolicing_to_Ben_2025-04-07_THREAD.json
+
+2025-04-17
+
+04:17
+
+ing_to_Ben_2025-04-(
+
+101 call: ‘Holiday Alibi’ — records incoBsist@aries;&01 call handler
+
+PARTY::BEN_CARTER, PARTY: fR8hG)hs, JUNRAD240 bifgent linked into November file; all nan\éexXofeats
+OF Iearkt3
+
+supervisory leave
+
+PARTY::PALMER
+
+obtaining clarity/VRR.
+
+2025-04-23
+
+Next available supervisory contact (per handler)
+
+No alternative point of contact before Tue 23 Apr.
+
+VEX_2025-04-17 043
+
+2025-04-29
+
+Multi-agency Stalking Clinic w/ CPS (per Veritas, referenced)
+
+Raised contradiction vs 'CPS only involved after case built’ Séi¥%n@025-07-04
+St.
+
+MASTER TIMELINE v2.3 — robust time parsing (no colon), participants split
+Date
+
+Time
+
+Event
+
+Participants
+
+Referenced parties
+
+JSON: MASTER_CONTRADICTIONS_INJECTED_2025-06-05.json
+
+Details
+
+Source
+
+(zip root) - - date_src=filename - hash64k=262f21 baff1bdaOSnnt/data/PROJECT_|
+ED_2025-06-05.json
+
+2025-06-22
+
+Threat/rape accusation logged (no update provided)
+
+Police admit report logged; refused update; breach of informébaxn2oPisOalédedt.
+
+2025-07-04
+
+04:07
+
+101 call about PC Gasson (OIC)
+
+Ben Carter; 101 call handler
+
+Transcript file present; contents not yet VEX-graded in this thhelneSerstct6 PC G
+
+2025-07-04
+
+07:04
+
+101 call: crime number confusion; Ol@eorGianted 46 1PéalGaasdler
+
+PARTY::BEN_ CARTER, PARTY::DVS@CAmeAibebt)
+Gagson as OIC; logged entry acknowledigkd
+2? Suni7 NRASTE
+PARTY::FRONT_DESK_LIZ, PARTY::GASSON, PARTY::PALMER
+
+2025-07-04
+
+07:04
+
+In-person visit — St John's Street froniRitesk artzy; Front desk (Liz)
+
+ID verified; Liz confirms 4 active crime numbers; improper fil##gxsBG2Oe-Sdown
+
+blocked at desk; no officer contact since 6 Apr.
+JSON:
+
+PROJECT_FILE_SYNCED_
+2025-08-24 manifest.json
+
+(zip root) - - date_src=filename - hash64k=fa92c72b57e5a0amnt/data/PROJECT_|
+24manifest.json
+
+JSON:
+
+PROJECT_FILE_ SYNCED _ 2025-08-25 v4 FULL _audit_bundle.json
+
+(zip root) - - date_src=filename - hash64k=47acbd40c78b9démt/data/PROJECT_|
+25 v4 FULL audit bt
+
+JSON:
+
+PROJECT _FILE_SYNCED_ 2025-08-25 v4.3 FULLaudit_bundle.json
+
+(zip root) - - date_src=filename - hash64k=285393741 Ocb6a&int/data/PROJECT_|
+25 v4.3 FULLaudit_
+
+CSV:
+
+PROJECT _FILE_ SYNCED 2025-08-25 v4.3 manifest.csv
+
+(zip root) - - date_src=filename - hash64k=bdf8e77cbaa1cd#&nt/data/PROJECT_|
+25 v4.3 _manifest.csv
+
+TXT:
+
+PROJECT FILE
+
+SYNCED 2025-08-25 v4.3 tree.txt
+
+(zip root) - - date_src=filename - hash64k=a0ca9a33d6d629eImt/data/PROJECT_|
+25 v4.3 tree.txt
+
+TXT:
+
+PROJECT FILE
+
+SYNCED 2025-08-25 v4.3 tree _with_delta.txt
+
+(zip root) - - date_src=filename - hash64k=580c0c490a1e80@int/data/PROJECT_|
+25 v4.3 tree with de
+
+

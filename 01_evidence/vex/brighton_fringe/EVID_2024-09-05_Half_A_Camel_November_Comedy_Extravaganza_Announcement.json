@@ -1,0 +1,106 @@
+{
+  "meta": {
+    "evidence_id": "EVID_2024-09-05_Half_A_Camel_November_Comedy_Extravaganza_Announcement",
+    "title": "Email Announcement — Half a Camel November Comedy Extravaganza",
+    "date_local": "2024-09-05",
+    "time_local": "19:42",
+    "source_file_name": "Email_Half_A_Camel_November_Comedy_Extravaganza_2024-09-05.eml",
+    "type": "Email announcement",
+    "parties": [
+      "Half a Camel Productions (Ben Carter)",
+      "Performers (multiple CCs)"
+    ],
+    "clusters": [
+      "BRIGHTON_FRINGE",
+      "INDEPENDENT_FRINGE_EXPANSION",
+      "VENUE_AGREEMENT_EXTRAPOLATION",
+      "GOVERNANCE_ERASURE"
+    ],
+    "status": "active",
+    "undated_policy": "ok_date_present",
+    "version": "1.0.0"
+  },
+  "claim_summary": "Half a Camel Productions independently announced and operated the November 2024 Comedy Extravaganza across four Brighton venues, proving continuity beyond Brighton Fringe and contradicting later erasure narratives.",
+  "key_points": [
+    "Announcement explicitly states the event is independent of Brighton Fringe.",
+    "Four venues managed: Caxton Arms, Joker, 3 Jolly Butchers, Comedy on the Bleach.",
+    "Registration run via Eventotron; no box office cut taken.",
+    "First 20 acts offered free registration — proof of community-support model.",
+    "Drive folder with venue photos/spreadsheets linked as corroborating material."
+  ],
+  "contradictions": [
+    {
+      "code": "INDEPENDENCE_DENIED",
+      "claim": "Brighton Fringe later denied Half a Camel ran independent events.",
+      "impact": [
+        "Contradicts public record of independent promotion.",
+        "Supports MASTER_COMPLAINT continuity arguments."
+      ]
+    },
+    {
+      "code": "COBRAND_ERASURE",
+      "claim": "Fringe benefitted from HAC’s venues in May 2024 but erased the Nov 2024 expansion.",
+      "impact": [
+        "Strengthens GOVERNANCE_ERASURE cluster",
+        "Links to BF-CONTRA-PROMOTIONAL-SUPPORT-BREACH"
+      ]
+    }
+  ],
+  "timeline_hooks": [
+    {
+      "when": "2024-09-05",
+      "tag": "EMAIL_ANNOUNCEMENT_PROOF",
+      "note": "Launch email circulated to acts announcing Nov 2024 Comedy Extravaganza."
+    },
+    {
+      "when": "2024-11-01",
+      "tag": "INDEPENDENT_FRINGE_EXPANSION",
+      "note": "Two-week run of shows across four Brighton venues."
+    }
+  ],
+  "emotional_tags": [
+    "clarity",
+    "resilience"
+  ],
+  "vex_tags": [
+    "INDEPENDENT_FRINGE_EXPANSION",
+    "VENUE_PIONEERING",
+    "VENUE_SCALING_PROOF",
+    "BOXOFFICE_AUTONOMY",
+    "EMAIL_ANNOUNCEMENT_PROOF",
+    "COBRAND_ERASURE",
+    "INDEPENDENCE_DENIED",
+    "NARRATIVE_REPLACEMENT"
+  ],
+  "related_material": [
+    {
+      "label": "Google Drive folder with venue photos & spreadsheets",
+      "url": "https://drive.google.com/drive/folders/1vIRMwFGO4R16YoBwoAQekj1o22xMjT36?usp=sharing"
+    },
+    {
+      "label": "Half a Camel website",
+      "url": "https://www.halfacamel.com"
+    },
+    {
+      "label": "Eventotron registration listing",
+      "note": "Proof of independent ticketing setup"
+    }
+  ],
+  "sourcing_queue": [
+    {
+      "prio": 1,
+      "need": "Full .eml header export to confirm metadata",
+      "target": "inbox archive"
+    },
+    {
+      "prio": 2,
+      "need": "Screenshots of Eventotron registration entries",
+      "target": "Eventotron admin portal"
+    },
+    {
+      "prio": 3,
+      "need": "Wayback snapshot of halfacamel.com around Sept–Nov 2024",
+      "target": "archive.org"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": "VEX_QnA_Battle_Cards_2025-08-25 (1)_OCR",
+  "type": "evidence",
+  "source": "Smart OCR Ingest",
+  "date": "2025-08-25",
+  "summary": "Auto-ingested from file: QnA_Battle_Cards_2025-08-25 (1).pdf",
+  "meta": {
+    "original_filename": "QnA_Battle_Cards_2025-08-25 (1).pdf",
+    "ocr_pdf_file": "QnA_Battle_Cards_2025-08-25 (1)_ocr.pdf",
+    "ocr_text_file": "QnA_Battle_Cards_2025-08-25 (1).txt",
+    "sha256": "f8120faaae7f2c6a86592c81151bb7d8466f0f1c4c2ce54f8fe6cf541a4c0542",
+    "source_folder": ".",
+    "ingested_on": "2025-09-06T14:20:03.890942",
+    "ingest_method": "ocr_smart"
+  },
+  "links": {
+    "source_file_original": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_unprocessed/QnA_Battle_Cards_2025-08-25 (1).pdf",
+    "ocr_pdf_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_ocrd/QnA_Battle_Cards_2025-08-25 (1)_ocr.pdf",
+    "ocr_text_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/text/QnA_Battle_Cards_2025-08-25 (1).txt"
+  },
+  "tags": [
+    "auto_ocr",
+    "cards",
+    "battle",
+    "25 (1)",
+    "qna",
+    "2025"
+  ]
+}

@@ -1,0 +1,31 @@
+Email Evidence Record
+Date: 13 December 2024, 13:03
+From: noreply-public@digital-policing.co.uk
+
+To: benrobcarter@gmail.com
+Subject: Jonathan Dixon requires your assistance in a police investigation
+You have been requested by Jonathan Dixon a Police Officer or member of Police Staff*, to provide
+data to assist with a police investigation/enquiry.
+Please click here to respond to this request. The link to the request will expire on 27/12/2024.
+
+“This email has been issued by a member of one of the following police forces: Hampshire
+Constabulary; Thames Valley Police, Surrey Police or Sussex Police.
+Confidentiality: This communication and any attachments are intended for the above-named
+
+persons only and may be confidential and/or legally privileged.
+If this communication has come to you in error you must take no action based on it, nor must you
+
+copy or show it to anyone; please delete/destroy and inform the sender by e-mail immediately.
+For details of force Privacy Notices, please visit the relevant website.
+VEX Themes: Digital evidence submission, Safeguarding deflection, Procedural formalism,
+Potential evidence suppression, Data control by police
+Emotional Tone: Impersonal, Institutional, Pressuring compliance
+
+Contradictions: LOST_EVIDENCE_SUSSEX_POLICE, CROWBARRING_MYSELF_JUSTICE
+Timeline Hooks: NICE_LINK_BATCH_B (Evidence submission request), DEATH_BY_SILENCE
+(No confirmation follow-up)
+Notes: Expiry 27/12/2024. Actor: PC Jonathan Dixon (Sussex Police). Risk: Evidence loop tactic —
+
+repeated portal submissions risk obfuscation, erasure, or deflection from safeguarding context.
+
+

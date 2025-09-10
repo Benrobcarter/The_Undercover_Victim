@@ -1,0 +1,29 @@
+{
+  "id": "VEX_2025-04-24 - Subject_ Evidence Submission \u2013 Third-Party Digital Interaction (Alexander \u201cVoodoo\u201d) \u2013 CIT1201684_OCR",
+  "type": "evidence",
+  "source": "Smart OCR Ingest",
+  "date": "2025-04-24",
+  "summary": "Auto-ingested from file: 2025-04-24 - Subject_ Evidence Submission \u2013 Third-Party Digital Interaction (Alexander \u201cVoodoo\u201d) \u2013 CIT1201684.pdf",
+  "meta": {
+    "original_filename": "2025-04-24 - Subject_ Evidence Submission \u2013 Third-Party Digital Interaction (Alexander \u201cVoodoo\u201d) \u2013 CIT1201684.pdf",
+    "ocr_pdf_file": "2025-04-24 - Subject_ Evidence Submission \u2013 Third-Party Digital Interaction (Alexander \u201cVoodoo\u201d) \u2013 CIT1201684_ocr.pdf",
+    "ocr_text_file": "2025-04-24 - Subject_ Evidence Submission \u2013 Third-Party Digital Interaction (Alexander \u201cVoodoo\u201d) \u2013 CIT1201684.txt",
+    "sha256": "e133862b5b64efc2212c96a1429efea8f704abda1f30f7c0132634f0524eb275",
+    "source_folder": ".",
+    "ingested_on": "2025-09-06T23:12:26.983718",
+    "ingest_method": "ocr_smart"
+  },
+  "links": {
+    "source_file_original": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_unprocessed/2025-04-24 - Subject_ Evidence Submission \u2013 Third-Party Digital Interaction (Alexander \u201cVoodoo\u201d) \u2013 CIT1201684.pdf",
+    "ocr_pdf_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_ocrd/2025-04-24 - Subject_ Evidence Submission \u2013 Third-Party Digital Interaction (Alexander \u201cVoodoo\u201d) \u2013 CIT1201684_ocr.pdf",
+    "ocr_text_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/text/2025-04-24 - Subject_ Evidence Submission \u2013 Third-Party Digital Interaction (Alexander \u201cVoodoo\u201d) \u2013 CIT1201684.txt"
+  },
+  "tags": [
+    "auto_ocr",
+    "party digital interaction (alexander \u201cvoodoo\u201d) \u2013 cit1201684",
+    "2025",
+    " evidence submission \u2013 third",
+    " subject",
+    "24 "
+  ]
+}

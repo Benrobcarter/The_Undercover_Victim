@@ -1,0 +1,27 @@
+{
+  "id": "VEX_24 June 2025 at 10-01 - Your continuation with Brighton Fringe_OCR",
+  "type": "evidence",
+  "source": "Smart OCR Ingest",
+  "date": "DATE_NOT_FOUND",
+  "summary": "Auto-ingested from file: 24 June 2025 at 10-01 - Your continuation with Brighton Fringe.pdf",
+  "meta": {
+    "original_filename": "24 June 2025 at 10-01 - Your continuation with Brighton Fringe.pdf",
+    "ocr_pdf_file": "24 June 2025 at 10-01 - Your continuation with Brighton Fringe_ocr.pdf",
+    "ocr_text_file": "24 June 2025 at 10-01 - Your continuation with Brighton Fringe.txt",
+    "sha256": "d3dfc4cf27b4c1b6e84db29b61802253c875a2811395840702f0166e9a18dee0",
+    "source_folder": ".",
+    "ingested_on": "2025-09-06T14:26:29.609359",
+    "ingest_method": "ocr_smart"
+  },
+  "links": {
+    "source_file_original": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_unprocessed/24 June 2025 at 10-01 - Your continuation with Brighton Fringe.pdf",
+    "ocr_pdf_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_ocrd/24 June 2025 at 10-01 - Your continuation with Brighton Fringe_ocr.pdf",
+    "ocr_text_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/text/24 June 2025 at 10-01 - Your continuation with Brighton Fringe.txt"
+  },
+  "tags": [
+    "auto_ocr",
+    "24 june 2025 at 10",
+    "01 ",
+    " your continuation with brighton fringe"
+  ]
+}

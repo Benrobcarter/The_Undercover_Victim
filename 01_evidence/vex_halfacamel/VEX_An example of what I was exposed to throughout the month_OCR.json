@@ -1,0 +1,25 @@
+{
+  "id": "VEX_An example of what I was exposed to throughout the month_OCR",
+  "type": "evidence",
+  "source": "Smart OCR Ingest",
+  "date": "DATE_NOT_FOUND",
+  "summary": "Auto-ingested from file: An example of what I was exposed to throughout the month.pdf",
+  "meta": {
+    "original_filename": "An example of what I was exposed to throughout the month.pdf",
+    "ocr_pdf_file": "An example of what I was exposed to throughout the month_ocr.pdf",
+    "ocr_text_file": "An example of what I was exposed to throughout the month.txt",
+    "sha256": "76ad61f51a3cbfe7e08879373cc133b9bf0b623a3b4448e235553de2820f2735",
+    "source_folder": ".",
+    "ingested_on": "2025-09-06T23:13:32.963405",
+    "ingest_method": "ocr_smart"
+  },
+  "links": {
+    "source_file_original": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_unprocessed/An example of what I was exposed to throughout the month.pdf",
+    "ocr_pdf_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_ocrd/An example of what I was exposed to throughout the month_ocr.pdf",
+    "ocr_text_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/text/An example of what I was exposed to throughout the month.txt"
+  },
+  "tags": [
+    "auto_ocr",
+    "an example of what i was exposed to throughout the month"
+  ]
+}

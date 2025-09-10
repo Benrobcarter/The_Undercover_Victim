@@ -1,0 +1,27 @@
+{
+  "id": "VEX_3 May 2025 at 12-32 - Friday (First night summary)!_OCR",
+  "type": "evidence",
+  "source": "Smart OCR Ingest",
+  "date": "DATE_NOT_FOUND",
+  "summary": "Auto-ingested from file: 3 May 2025 at 12-32 - Friday (First night summary)!.pdf",
+  "meta": {
+    "original_filename": "3 May 2025 at 12-32 - Friday (First night summary)!.pdf",
+    "ocr_pdf_file": "3 May 2025 at 12-32 - Friday (First night summary)!_ocr.pdf",
+    "ocr_text_file": "3 May 2025 at 12-32 - Friday (First night summary)!.txt",
+    "sha256": "46e0d0a0a6314d3122b9e9b03e1ad00859c68589f2bedb2d4d98508846d7f8c4",
+    "source_folder": ".",
+    "ingested_on": "2025-09-06T14:03:48.242751",
+    "ingest_method": "ocr_smart"
+  },
+  "links": {
+    "source_file_original": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_unprocessed/3 May 2025 at 12-32 - Friday (First night summary)!.pdf",
+    "ocr_pdf_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_ocrd/3 May 2025 at 12-32 - Friday (First night summary)!_ocr.pdf",
+    "ocr_text_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/text/3 May 2025 at 12-32 - Friday (First night summary)!.txt"
+  },
+  "tags": [
+    "auto_ocr",
+    "3 may 2025 at 12",
+    " friday (first night summary)!",
+    "32 "
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "VEX_5 May 2025 at 15-50 Confirmation acts were confused too- What\u2019s going on URGENT_OCR",
+  "type": "evidence",
+  "source": "Smart OCR Ingest",
+  "date": "DATE_NOT_FOUND",
+  "summary": "Auto-ingested from file: 5 May 2025 at 15-50 Confirmation acts were confused too- What\u2019s going on URGENT.pdf",
+  "meta": {
+    "original_filename": "5 May 2025 at 15-50 Confirmation acts were confused too- What\u2019s going on URGENT.pdf",
+    "ocr_pdf_file": "5 May 2025 at 15-50 Confirmation acts were confused too- What\u2019s going on URGENT_ocr.pdf",
+    "ocr_text_file": "5 May 2025 at 15-50 Confirmation acts were confused too- What\u2019s going on URGENT.txt",
+    "sha256": "275f58eb968b04cdeaa4bddbb5933b37d05043ee63073cc4e62822c73681fdef",
+    "source_folder": ".",
+    "ingested_on": "2025-09-06T14:02:54.869095",
+    "ingest_method": "ocr_smart"
+  },
+  "links": {
+    "source_file_original": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_unprocessed/5 May 2025 at 15-50 Confirmation acts were confused too- What\u2019s going on URGENT.pdf",
+    "ocr_pdf_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_ocrd/5 May 2025 at 15-50 Confirmation acts were confused too- What\u2019s going on URGENT_ocr.pdf",
+    "ocr_text_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/text/5 May 2025 at 15-50 Confirmation acts were confused too- What\u2019s going on URGENT.txt"
+  },
+  "tags": [
+    "auto_ocr",
+    " what\u2019s going on urgent",
+    "5 may 2025 at 15",
+    "50 confirmation acts were confused too"
+  ]
+}

@@ -1,0 +1,706 @@
+An Analysis of Information Security Vulnerabilities in the Sussex Police 101
+Non-Emergency Call Handling System
+
+Executive Summary
+
+This report presents a forensic analysis of two separate telephone interactions with the
+Sussex Police 101 non-emergency call handling service. In both instances, a caller
+successfully elicited protected personal data—specifically, the name of an investigating
+police constable—by bypassing standard information security protocols. The analysis
+deconstructs the two distinct methodologies employed by the caller: one rooted in creating
+
+procedural confusion and the other in sophisticated social engineering.
+The core findings indicate that the primary vulnerabilities within the system are not
+
+technological but human and procedural. The investigation reveals a significant gap between
+formal data protection policies and their practical application by frontline call handlers. Key
+weaknesses identified include:
+1. The Service-Security Conflict: Call handlers consistently prioritized a "service" goal
+(resolving a caller's stated problem) over a "security" goal (maintaining strict data integrity),
+
+leading them to exercise discretion in contravention of policy.
+2. Exploitation of Victim Status: The caller effectively leveraged the language and rights
+
+associated with the Victim's Code of Practice to create a narrative of neglect, making it
+psychologically difficult for handlers to refuse requests without appearing unsupportive.
+3. Handler Susceptibility to Social Engineering: The handlers proved vulnerable to two
+distinct tactics: the creation of cognitive dissonance through confusing data and a
+multi-layered appeal combining emotional distress with the invocation of a legitimate
+third-party authority.
+The analysis confirms that a knowledgeable individual can exploit these systemic
+
+weaknesses to circumvent the formal, secure channels designed for information disclosure,
+such as the Subject Access Request (SAR) process. This report concludes with a series of
+strategic recommendations for Sussex Police, victim advocacy groups, and national
+policymakers aimed at strengthening security protocols, enhancing training, and closing the
+gap between policy and practice.
+
+Section 1: Analysis of Call One - The "Strategic Confusion" Method
+
+This section provides a forensic breakdown of the first call, recorded on May 26th.1 It
+examines how the caller's tactic of presenting multiple, similar crime reference numbers
+created a state of procedural uncertainty, which was then exploited to elicit the target
+information.
+
+1.1 Initial Framing and Triage
+
+The interaction begins with the caller, identifying as Ben Carter, navigating the standard
+
+automated 101 system and connecting to Sussex Police.1 Upon reaching the initial human
+triage operator, the caller immediately frames his request not as a query for information, but
+as a problem requiring resolution. He states, "I'm the victim of two crimes, and | just wanted
+to get... clarity on which ones which".
+1
+This initial framing is critical. It positions the caller as a confused victim seeking help, a
+persona that is inherently non-threatening and predisposed to receive assistance. The triage
+
+operator, upon learning the caller has the crime reference numbers, makes a procedural
+assumption. The presence of a crime number is a key identifier that fast-tracks an inquiry.
+The operator states, "Have you got your crime numbers to hand? Have you? Yeah, lovely.
+Okay, so, yeah, if you just give them to them and you will go straight through".1 The system
+is designed for efficiency, and the caller's possession of the reference numbers allows him to
+pass through the first gate of scrutiny with ease. He is transferred to the control room, his
+legitimacy implicitly validated by the triage process.
+
+1.2 The Information Exchange and Creation of Cognitive Load
+
+When connected to the second operator in the control room, the caller repeats his
+predicament, again emphasizing his confusion over "two crime reference that says that
+they're very similar".1 He provides the first number, and the operator initiates the standard
+
+verification protocol, requesting and receiving the caller's name, address, and date of birth.
+1
+A crucial interaction occurs when the operator employs a standard security check: "What do
+you think it's relating to?".1 This question is designed to verify that the caller possesses
+
+knowledge that the legitimate victim would have. However, the caller skillfully deflects this
+check by re-anchoring the conversation to his initial premise of confusion: "Well, I've got two
+different ones, so | just want to know which one is errr".1 This response successfully parries
+the security question without raising suspicion, as it is consistent with his established
+persona.
+
+Unable to receive a direct answer to the verification question, the operator moves to resolve
+the caller's stated problem and provides a piece of information from the file: "Ok this one is
+related to stalking".1 Having obtained this detail, the caller immediately pivots to the second
+crime number. This action forces the operator to switch contexts within her system, a
+
+process that audibly requires effort: "Bare with me bare with me | have to come out of that
+one".1 This act of switching between two similar but distinct records begins to increase the
+cognitive load on the operator.
+
+1.3 The Point of Disclosure
+
+The operator accesses the second record and discovers that it "has got
+
+a November date on
+
+it as well," mirroring the first case and deepening the confusion.1 The caller capitalizes on
+
+this moment of ambiguity by escalating his request from case details to personnel details:
+“who's the officer for each one".
+1
+
+At this point, the operator recognizes the sensitivity of the request and initially retreats to
+formal policy. She states unequivocally, "there's some stuff on here that | can't discuss over
+the phone. I'm afraid... | can't give out any information. I'd have to be an officer".1 This
+
+demonstrates a clear awareness of the rules governing information disclosure.
+However, the caller persists, ignoring the policy statement and re-asking the direct question:
+
+"What officer can you just tell me what officer | have?".1 This persistence, combined with the
+pre-existing confusion the operator is trying to resolve, proves effective. The operator's
+adherence to protocol breaks. She concedes and provides the target information: "You've
+got a PC Dixon".1 She then proceeds to check both crime numbers against this new data
+point, confirming that PC Dixon is assigned to both, thereby resolving the confusion she was
+
+presented with at the cost of a data breach.
+1
+
+1.4 Section Analysis
+
+The success of this method hinges on two key principles. First is the exploitation of a
+procedural shortcut. The 101 system is designed to treat callers with crime reference
+numbers as legitimate and to process their queries efficiently. The caller used this design
+feature as his entry point, only to subvert the process by introducing a level of
+ambiguity—the multiple, similar cases—that the standard script was not designed to handle.
+
+The system's focus on efficiency became a security flaw when manipulated.
+Second is the instrumental use of cognitive dissonance. By engineering a situation where
+the police's own records appeared confusing and contradictory, the caller created mental
+discomfort for the operator. The human brain seeks to resolve such dissonance. The
+operator's standard tools and verification questions failed to resolve the puzzle. The caller's
+question—"who's the officer for each one?"—offered a simple, tangible path to clarity. In this
+context, providing the officer's name became the path of least resistance. It transformed from
+a prohibited act into a seemingly helpful, problem-solving measure that resolved both the
+conversational pressure and the underlying data confusion that the caller had deliberately
+manufactured.
+
+Section 2: Analysis of Call Two - The "Social Engineering" Method
+
+The second call, recorded on May 16th, demonstrates a completely different, yet equally
+effective, methodology.1 Here, the caller obtains the same information without providing any
+crime reference number. This is achieved through a multi-layered social engineering strategy
+
+that combines the construction of a compelling victim narrative, the invocation of a legitimate
+third-party authority, and a direct emotional appeal.
+
+2.1 Bypassing the Primary Identifier
+
+From the outset, the caller challenges the system's primary data retrieval method. When
+
+asked for a crime reference number by the operator, Ayrton, he immediately claims, "I can't
+
+remember it".1 Crucially, he does not stop there; he proactively offers an alternative pathway
+for identification: "can | give you my name and date of birth?".1 The operator accepts this
+offer, immediately shifting the burden of identification from the caller (who would need to
+recall a specific number) to himself (who now has to perform a system search based on
+
+personal details).1 This initial gambit successfully bypasses the first and most fundamental
+security checkpoint.
+
+2.2 Building a Narrative of Victimhood and Systemic Failure
+
+Having established his identity via name and date of birth, the caller begins to construct a
+
+powerful and sympathetic narrative. He states that his case has been designated "no further
+actioned” (NFA), but that he, the victim, was never officially informed by the police.1 Instead,
+he claims to have learned this critical information from the suspect herself: "Alanna. Alanna
+sent it to me".
+1
+This narrative is carefully designed to elicit sympathy and portray a systemic failure. It
+
+positions the caller as a victim not only of the original crime—which he specifies as "ongoing
+stalking and harassment from July" 1—but also of police neglect. He is a victim who has
+been kept in the dark about his own case, a situation that runs contrary to the principles of
+victim Care.
+
+2.3 The "Authority by Association" Gambit - Invoking Veritas Justice
+
+The caller then introduces a pivotal element into the conversation: a third-party organization
+
+called "Veritas".1 The operator is initially unfamiliar with this name, asking, "Who is Veritas?
+Sorry?".1 This moment of ignorance on the operator's part allows the caller to seize the
+
+position of authority. He confidently and correctly defines the organization: "Sussex police
+fund Veritas, they're an advocate for stalking victims”.1
+This statement is factually accurate and immensely powerful. Research confirms that Veritas
+Justice is the specialist stalking advocacy service for Sussex and is funded by the Office of
+the Sussex Police and Crime Commissioner.2 It is listed as a key local support organization
+on the Sussex Police website itself.3 By invoking this legitimate, police-funded partner, the
+caller elevates his status. He is no longer just an individual caller; he is a service user
+
+connected to the official support ecosystem. He further strengthens this by claiming that
+Veritas is also "confused about it" 1, transforming his personal query into a matter of
+inter-agency breakdown that the operator now feels implicit pressure to help resolve.
+
+2.4 The Emotional Appeal and Point of Disclosure
+
+Despite the compelling narrative, the operator initially attempts to adhere to policy, stating, "I
+
+can't give you any details over the phone. It would have to be the officer in charge that
+explained everything to you".1 This is the same protocol cited by the operator in the first call.
+
+In response, the caller deploys his final and most potent tactic: a direct and acute emotional
+appeal. He discloses a state of extreme vulnerability, linking it to a traumatic event: "Sorry
+I've, like since the suicide, I've not been that great".1 He then makes a direct, personal plea:
+"I'm not well mate. Like, please, can you just tell me?".1
+
+This combination of factors—a narrative of systemic neglect, the involvement of a legitimate
+partner agency, and a raw disclosure of emotional distrtess—overwhelms the operator's
+adherence to protocol. The risk of appearing insensitive or unhelpful to a vulnerable victim in
+crisis becomes greater than the risk of breaching data security policy. The operator
+concedes and provides the name: "PC Dixon".1
+
+2.5 Section Analysis
+
+This call serves as a case study in advanced social engineering. The caller's success was
+
+not accidental but the result of a calculated, multi-pronged strategy. A central element was
+the weaponization of the principles underpinning the Victim's Code of Practice. The UK
+
+justice system places a strong and necessary emphasis on keeping victims informed and
+treating them with empathy.4 The caller's narrative of being uninformed about his own NFA
+
+case directly engaged with a victim's right to be updated. His performance of distress made
+refusing his request feel like a violation of the duty of care. The call handler, likely a civilian
+staff member, was caught between a procedural duty (data security) and a perceived moral
+duty (assisting a vulnerable person). He defaulted to what felt like the most humane and
+de-escalatory action: providing the name. The system's pro-victim ethos, while a positive and
+
+essential attribute, became a vector for exploitation when its principles were invoked
+instrumentally.
+
+Furthermore, the invocation of Veritas Justice was a masterstroke. The caller's knowledge of
+this specialist, police-funded organization created a significant asymmetry of information.
+The caller appeared more knowledgeable about the police's own partner ecosystem than the
+handler himself. This lent immense credibility to his entire story and shifted the power
+dynamic of the call. The handler was no longer just dealing with a lone victim, but a victim
+
+who was formally "in the system" and represented by a recognized body. The risk calculation
+for the handler changed: refusing the request could now potentially cause friction not just
+with an individual, but with a partner agency. Disclosing the name became the simplest way
+
+to resolve a situation that the caller had successfully framed as a complex bureaucratic and
+emotional problem.
+
+Section 3: Comparative Analysis of Persuasive Methodologies
+
+An examination of the two calls reveals two distinct but equally successful strategies for
+information elicitation. While the goal was the same, the attack vectors were different,
+exposing a range of vulnerabilities in the 101 call-handling process. Method one targeted the
+system's procedural logic, while method two targeted the operator's psychological and
+emotional responses.
+
+3.1 Method 1: Technical System Exploitation ("The Glitch")
+
+The first strategy can be characterized as a "technical" exploit, though it targeted human-run
+procedures rather than software. The caller did not lie or misrepresent his identity; instead,
+he presented factual information (two valid crime numbers) in a manner designed to create
+ambiguity and overload the operator's decision-making process.1 The persona adopted was
+
+that of a confused but legitimate victim attempting to navigate police bureaucracy. The key
+psychological lever was the creation of cognitive dissonance, making the operator eager to
+find a simple resolution to a confusing data problem. The breach occurred because the
+operator chose a path to resolution (disclosing the name) that violated security policy.
+
+3.2 Method 2: Psychological System Exploitation ("The Human Hack")
+
+The second strategy was a classic "human hack," relying almost entirely on social
+engineering. The caller constructed a multi-layered narrative that bypassed the need for a
+primary identifier (the crime number).1 The persona was that of a vulnerable, neglected
+victim who was also well-informed and connected to the support system. The key levers
+
+were a direct emotional appeal to elicit sympathy and the invocation of a third-party authority
+(Veritas Justice) to establish credibility and urgency.1 The breach occurred because the
+
+operator's sense of empathy and duty of care, combined with the perceived authority of the
+caller's claims, overrode his training on data security.
+
+3.3 Common Vulnerabilities
+
+Despite their differences, both methods successfully exploited the same underlying systemic
+weaknesses:
+
+* Handler Discretion: In both calls, the operators demonstrated knowledge of the correct
+policy. The first operator stated, "I can't give out any information" 1, and the second stated, "!
+can't give you any details over the phone".1 Yet, in both cases, they were persuaded to
+
+exercise their discretion and deviate from that policy. This indicates that the protocol is not
+perceived as an unbreakable rule but as a guideline that can be bent under certain
+pressures.
+
+* The Service vs. Security Conflict: Both handlers were presented with a problem by a
+
+"customer" (the caller) and felt compelled to solve it. This "customer service” imperative
+ultimately trumped their data security obligations. The desire to be helpful and to resolve the
+query on the first contact created the conditions for the breach.
+* Lack of Escalation: A robust security system includes clear pathways for escalation. When
+faced with a non-standard, confusing, or emotionally charged request for sensitive
+information, the appropriate response would be to escalate the call to a supervisor or a
+specialist unit. In neither instance did this happen. The handlers attempted to manage the
+
+complex situations themselves and, in doing so, made the disclosures.
+
+3.4 Table 1: Comparative Analysis of Caller Tactics
+
+The following table deconstructs the specific tactics used in each call, linking them to the
+underlying psychological principles they engage.
+
+Tactic
+
+Implementation in Call 1 (The Glitch) 1
+Implementation in Call 2 (The Human Hack) 1
+Underlying Psychological Principle
+
+Information Obfuscation
+Provided two similar, valid crime numbers to create a confusing data picture for the
+operator.
+
+Not used; information was withheld ("I can't remember").
+Cognitive Dissonance
+PIl Substitution
+
+Not needed; provided valid crime numbers as primary identifiers.
+Claimed no memory of crime number; proactively offered name/DOB as an
+
+alternative identifier.
+Reciprocity / Helpfulness
+Authority by Association
+Not used.
+Invoked "Veritas," a legitimate, police-funded stalking advocacy service, to add
+credibility.
+Principle of Authority
+Emotional Appeal
+
+Not used; maintained a persona of simple confusion.
+Disclosed acute emotional distress ("since the suicide," "I'm not well mate") to elicit
+sympathy.
+Principle of Sympathy / Empathy
+Narrative Construction
+
+Framed the call as a simple need for "clarity" between two confusing police records.
+Constructed a detailed narrative of being a neglected victim, failed by the system
+(NFA with no notice).
+Victimhood / Injustice Framing
+Direct Persistence
+
+When met with policy-based refusal, ignored it and repeated the direct question for
+
+the officer's name.
+When met with policy-based refusal, immediately escalated to an emotional appeal
+and a direct plea.
+
+Social Pressure / Assertiveness
+
+Section 4: The Governance Framework - Data Protection and Police Disclosure
+
+The success of the caller's tactics can only be fully understood when contrasted with the
+formal legal and policy landscape that call handlers are expected to navigate. This
+landscape is defined by strict data protection laws and formal procedures for information
+
+disclosure, which stand in stark contrast to the fluid, high-pressure reality of the 101 call
+centre.
+
+4.1 The Data Protection Act 2018 (DPA 2018)
+
+The overarching legal framework governing the use of personal data in the UK is the Data
+
+Protection Act 2018, which incorporates the principles of the GDPR.6 A core principle is that
+personal data must be processed lawfully, fairly, and in a transparent manner. The disclosure
+of a police officer's name, when linked to a specific investigation and victim, constitutes the
+
+processing of personal data. While the DPA 2018 contains exemptions for law enforcement
+purposes, these are intended to facilitate the prevention and detection of crime, not to permit
+ad-hoc verbal disclosures to unvetted individuals over the phone.7 The handlers' initial
+
+reluctance in both calls demonstrates a baseline awareness of their obligations under this
+Act.1
+
+4.2 Sussex Police Information Policies
+
+Sussex Police's own internal policies reflect the requirements of the DPA. The force's
+Privacy Notice outlines its commitment to processing data lawfully and securely.6
+Furthermore, the force uses formal Data Sharing Agreements (DSAs) to govern the
+exchange of information with partner agencies. These agreements stipulate that information
+
+is shared only on a "need to know" basis for specific, lawful purposes.8 Crucially, these
+agreements often state that any subsequent requests from data subjects for information
+shared by the police must be referred back to Sussex Police for handling, typically through a
+formal process.8 The actions of the call handlers, in providing information directly without
+recourse to a formal verification or escalation process, contravened the spirit, if not the letter,
+of these established protocols.
+
+4.3 The Formal Channel: Subject Access Request (SAR)
+
+The official, lawful, and secure method for a citizen to request their personal data from a
+
+police force is by making a Subject Access Request (SAR).7 The Sussex Police SAR
+process Is rigorous and designed to prevent the very type of breach that occurred in these
+calls. It requires the applicant to:
+
+* Complete a formal application form.
+* Provide copies of at least two official documents to prove their name, date of birth, current
+address, and signature.
+
+* Clearly specify the information being sought.
+The process Is not immediate; the force has one calendar month to respond. It is explicitly
+stated that this formal process, not a phone call, is the appropriate channel for such requests
+and that information about third parties will not be provided.7 The caller's ability to bypass
+
+this multi-step, evidence-based security procedure with a few minutes of persuasive
+conversation highlights a critical vulnerability in the informal phone channel.
+
+4.4 Table 2: Information Disclosure Channels - Formal vs. Informal
+
+The following table compares the characteristics of the informal phone channel exploited by
+the caller with the formal channels designed for information disclosure and review.
+Feature
+101 Phone Call (Informal)
+
+Subject Access Request (SAR) (Formal)
+Victim's Right to Review (VRR) (Formal)
+
+Process
+
+Verbal request to a frontline call handler.
+Written application form submitted by post or email.7
+Formal request for case review, often via webform or post.10
+Verification
+
+Verbal PII (name, DOB, address); security questions subject to deflection.1
+Copies of at least two official identity documents required.7
+Based on established status as the victim in a qualifying case.
+11
+Information Yield
+Variable and inconsistent; depends entirely on handler discretion and susceptibility to
+persuasion.
+
+All personal data held by the force, subject to legal exemptions.
+7
+The rationale behind a 'No Further Action’ decision; potential for case to be
+reopened.5
+Timeframe
+Immediate.1
+
+Up to one calendar month.
+7
+Typically 30 working days, with updates for complex cases.5
+
+Governing Policy
+Handler training; internal procedural guidelines.
+
+Data Protection Act 2018; Sussex Police Rights of Access policy.7
+National VRR Scheme; force-specific implementation.4
+This comparison reveals a chasm between policy and practice. The formal channels
+are robust, evidence-based, and secure, with clear rules and timelines. The informal
+channel, by contrast, relies on the real-time judgment of individual handlers who are subject
+to pressure, manipulation, and the conflicting demands of service and security. The caller's
+success demonstrates that this informal channel represents the path of least resistance and
+the greatest vulnerability for the organization's information security.
+
+Section 5: The Victim's Charter - Rights, Reviews, and Advocacy
+
+A crucial dimension of the caller's success, particularly in the second call, was his
+sophisticated understanding and instrumentalization of the systems designed to empower
+
+and support victims of crime. His narrative was not merely emotional; it was procedurally
+plausible, built upon a working knowledge of the Victim's Right to Review scheme and the
+role of specialist advocacy groups.
+
+5.1 The Victim's Right to Review (VRR) Scheme
+
+The caller's central claim in the second call—that his stalking case was marked 'No Further
+Action’ (NFA) and he was not informed—is highly potent because it represents a failure in a
+
+specific, recognized process.1 The national Victim's Right to Review (VRR) scheme gives
+victims the legal right to ask for a police decision not to charge a suspect to be reviewed.4
+This right applies specifically to cases where a Suspect has been identified and interviewed,
+which aligns perfectly with the context of the caller's stalking narrative.
+11
+
+The VRR process mandates that a victim be notified of an NFA decision and that they have
+three months to request a review by an independent officer.5 By claiming he was denied this
+basic notification, the caller constructed a grievance that was not just emotionally compelling
+but also had a basis in established national policy. He was not just a victim of stalking; he
+was a victim whose rights under the VRR scheme had apparently been violated. This added
+
+significant weight and credibility to his request for information.
+
+5.2 The Role of Stalking Advocates: A Profile of Veritas Justice
+
+The caller's decision to invoke Veritas Justice was the most decisive element of his social
+engineering strategy. This was not a randomly chosen name. As multiple sources confirm,
+Veritas Justice is the designated specialist stalking advocacy service for the entire Sussex
+area.12 The organization is publicly listed as a key partner on the Sussex Police website and
+
+is funded by the Office of the Sussex Police and Crime Commissioner.2
+The services provided by Veritas Justice include offering advice, providing practical support,
+and crucially, assisting victims in contacting relevant professionals and accompanying them
+in meetings.15 Therefore, the caller's statement that "Veritas need to know" about the NFA
+decision was entirely plausible within the organization's established remit.1 He was
+
+leveraging the credibility of a real, official partner to bolster his own.
+
+5.3 Section Analysis
+
+The convergence of these elements created a significant asymmetry of Knowledge between
+the caller and the call handler. The caller demonstrated a more detailed and functional
+understanding of the criminal justice ecosystem—specifically the procedures around NFA
+decisions and the role of specialist support services—than the frontline operator he was
+speaking to. This is evident in the operator's need to ask "Who is Veritas?".1
+This knowledge gap created an immediate power imbalance. The caller was able to "speak
+
+the language" of the system, referencing specific processes (NFA) and official partners
+(Veritas) with confidence. The operator, a generalist likely handling a wide variety of calls,
+
+was not equipped to parse the nuances of this specialist language. He was therefore more
+easily persuaded of the caller's legitimacy and the urgency of his request. The situation
+suggests a potential training deficit, where frontline staff may not be fully briefed on the very
+partner agencies they are expected to signpost victims to, leaving them vulnerable to
+manipulation by a more knowledgeable caller.
+
+Section 6: Synthesis of Findings - Identifying Systemic Vulnerabilities
+
+The integrated analysis of both calls, contextualized within the relevant policy and legal
+frameworks, points to several fundamental, systemic vulnerabilities in the Sussex Police 101
+call-handling process. These weaknesses are not isolated failures but interconnected issues
+that create an environment where security protocols can be bypassed.
+
+6.1 The Human Factor as the Weakest Link
+
+The core vulnerability exposed is not technological but human. The security of the entire
+system, in these instances, rested upon the ability of an individual call handler to consistently
+apply abstract policy under conditions of direct psychological and procedural pressure. The
+evidence from both calls demonstrates that this is a demonstrable point of failure. The
+policies on data protection are clear, but their real-world application is mediated by human
+judgment, empathy, and susceptibility to manipulation.
+
+6.2 Inadequate Training for Social Engineering
+
+The responses of both operators suggest that their training may cover the "what" of data
+protection (i.e., "do not disclose personal data") but not the "how" of defending against
+sophisticated social engineering attacks. They were unprepared to counter callers who:
+
+* Create novel problems: The first caller's "confusing numbers" gambit fell outside the
+standard script, forcing the operator into an unfamiliar problem-solving mode where security
+became a secondary concern.
+
+* Use emotional disclosure as a coercive tool: The second caller's disclosure of distress was
+used to pressure the handler into a concession, a common tactic for which specific
+de-escalation training is required.
+* Leverage specialist knowledge to feign authority: The second caller's use of Veritas Justice
+demonstrated howa caller with insider knowledge can intimidate or impress a handler into
+compliance.
+
+6.3 The "Discretionary Grey Zone"
+
+A critical finding is the existence of a "discretionary grey zone." The fact that both handlers
+
+first articulated the correct policy and then proceeded to break it indicates that they perceive
+the rules as flexible guidelines rather than rigid, unbreakable commands. This suggests a
+
+culture where handlers feel empowered—or perhaps pressured by service targets—to make
+their own risk assessments in real time. This lack of a non-discretionary, "hard-fail" protocol
+
+for requests involving sensitive personal data is a key systemic flaw that invites exploitation.
+
+6.4 Failure of the Escalation Pathway
+
+A robust system for handling sensitive inquiries must have a clear and consistently used
+
+escalation pathway. When faced with a request that is confusing, non-standard, emotionally
+charged, or directly asks for protected information, the default action should be to escalate
+the call to a supervisor or a specialist team. In neither of these successful breaches did the
+handler escalate the call. Their attempts to resolve the complex situations themselves, likely
+
+motivated by a desire to be helpful or to meet performance metrics, led directly to the
+compromise of information.
+
+Section 7: Strategic Recommendations
+
+Based on the comprehensive analysis of these information security breaches, the following
+strategic recommendations are proposed for key stakeholders to mitigate the identified
+vulnerabilities and strengthen the integrity of the police call-handling process.
+
+7.1 For Police Service Improvement (Sussex Police)
+
+1. Enhanced Call Handler Training: Implement mandatory, recurring training modules
+
+focused specifically on identifying and resisting social engineering tactics. This training
+should use anonymized, real-world case studies like those analyzed in this report for
+practical role-playing exercises. The curriculum must go beyond stating policy to teaching
+
+handlers how to manage callers who use emotional coercion, feigned authority, and
+procedural confusion. It should equip them with de-escalation techniques that maintain
+security and do not involve conceding to inappropriate requests.
+2. Implement a "Zero Discretion" Policy: For specific categories of sensitive personal data,
+including the identity of investigating officers, the force should remove handler discretion
+entirely. A rigid, non-negotiable protocol should be established where any such request is
+
+immediately met with a standard response that directs the caller to a secure, formal channel
+(e.g., a call-back from the officer's team via a verified number, or direction to the online SAR
+portal). This removes the burden of judgment from the frontline handler.
+3. Strengthen Knowledge of Partner Agencies: Ensure all public-facing staff receive regular,
+
+updated briefings on key victim support partners, particularly those funded by the force or
+PCC, such as Veritas Justice.
+
+A simple, accessible internal directory of approved partners
+
+should be available. This measure would close the "asymmetry of knowledge" gap and
+prevent callers from using insider knowledge to establish false authority.
+4. Review Triage and Performance Metrics: Conduct an internal review to determine if
+performance metrics (e.g., average call handling time, first-contact resolution rates) are
+inadvertently creating pressure on handlers to take shortcuts that compromise security. The
+
+goal should be to balance efficiency with security, ensuring that handlers feel empowered to
+take the necessary time, including escalating a call, to handle sensitive inquiries correctly.
+
+7.2 For Victims and Advocates
+
+1. Promote Formal Channels: Victim support services, including Veritas Justice, should
+
+continue to educate victims on the existence and benefits of using formal channels to obtain
+information. Explaining that processes like the SAR provide a comprehensive, auditable
+
+record can manage expectations regarding timelines and reinforce the importance of secure
+communication.
+
+2. Counsel on Strategic Communication: While the tactics analyzed were effective, they
+carry risks. Advocates should counsel victims on how to communicate assertively with
+police, referencing their specific rights under the Victim's Code of Practice and the VRR
+scheme. This empowers victims to make legitimate demands for information and updates
+through the proper channels, enhancing their credibility and reducing the need to resort to
+
+tactics that could be perceived as manipulative.
+
+7.3 For Policy Makers (College of Policing / Home Office)
+
+1. Issue National Guidance on Social Engineering: Recognize that social engineering is a
+significant and evolving threat to police operational security and data protection. The College
+of Policing should consider developing and issuing national best-practice guidance for alll
+police call-handling centers on identifying and mitigating these threats. This would help
+
+standardize defenses across all forces and ensure that the lessons learned from incidents in
+one force are disseminated nationally.
+Works cited
+
+16-05-24 02-31_101_CALL_No crime-number-strategy.txt
+
+26-05-25 09-10_101_CALL_CrimeRefs_1246
+
+0305 3423 __txt
+
+2. About us - Veritas Justice, accessed on June 18, 2025,
+https://veritas-justice.co.uk/about-us/
+
+3. Support for victims and witnesses of stalking or harassment - Sussex Police, accessed on
+June 18, 2025,
+https:/Awww.sussex. police. uk/advice/advice-and-information/beta-stalking-and-harassment/st
+alking-harassment-support-organisations/
+
+4. Victims’ Right to Review Scheme | Police.uk, accessed on June 18, 2025,
+https:/Avwww. police.uk/advice/advice-and-information/victim-support/victims-right-review-sche
+me/
+
+5. Victims' Right to Review Scheme - Metropolitan Police, accessed on June 18, 2025,
+https:/Avww.met. police.uk/advice/advice-and-information/victim-support/victims-right-reviewscheme/
+
+6. Privacy notice - Sussex Police, accessed on June 18, 2025,
+https://Awww.sussex.
+police. uk/hyg/fpnsussex/privacy-notice/
+
+7. Rights of Access Request - Sussex Police, accessed on June 18, 2025,
+https:/Awww.sussex. police. uk/SysSiteAssets/media/downloads/central/services/request/infor
+mation/sussex/rights-of-access-form.docx
+8. Data Sharing Agreement (DSA) - Sussex Police, accessed on June 18, 2025,
+https:/Awww.sussex.police.uk/SysSiteAssets/foi-media/sussex/other_information/01.-dsa_te
+mplate-v3. 1.pdf
+
+9. Request information | Sussex Police, accessed on June 18, 2025,
+https:/Avwww.sussex.
+police. uk/rqo/request/ri/request-information/
+10. Victims' Right to Review | Avon and Somerset Police, accessed on June 18, 2025,
+https:/Awww.avonandsomerset.
+police. uk/victims-witnesses-and-offenders/victims-right-to-revi
+
+ew/
+11. Victims' right to review | Supporting Victims | North Yorkshire, accessed on June 18,
+2025, https:/Awww.supportingvictims. org/what-to-expect/victims-right-to-review/
+
+12. Veritas Justice - East Sussex 1Space, accessed on June 18, 2025,
+https://1space.eastsussex.gov.uk/Services/4637
+13. External help if you have been affected by stalking or harassment - Report + Support,
+accessed on June 18, 2025,
+
+https://reportandsupport.
+sussex. ac.uk/support/external-help-if-you-have-been-affected-by-st
+alking-or-harassment
+
+14. Veritas Justice - Brighton & Hove City Council, accessed on June 18, 2025,
+https:/Avwww.brighton-hove.gov.uk/directory-entry/veritas-justice
+
+15. Vertitas Justice | Stalking advocacy and advice services, accessed on June 18, 2025,
+https://veritas-justice.co.uk/
+
+

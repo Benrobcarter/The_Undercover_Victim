@@ -1,0 +1,27 @@
+{
+  "id": "VEX_9 April 2025 at 11-47 - Action plan & meeting notes_OCR",
+  "type": "evidence",
+  "source": "Smart OCR Ingest",
+  "date": "DATE_NOT_FOUND",
+  "summary": "Auto-ingested from file: 9 April 2025 at 11-47 - Action plan & meeting notes.pdf",
+  "meta": {
+    "original_filename": "9 April 2025 at 11-47 - Action plan & meeting notes.pdf",
+    "ocr_pdf_file": "9 April 2025 at 11-47 - Action plan & meeting notes_ocr.pdf",
+    "ocr_text_file": "9 April 2025 at 11-47 - Action plan & meeting notes.txt",
+    "sha256": "4e99b3b07cf54b9fb5ad71e0ec77cb70508f23b8f3a493ed6bfdf7e3f27fa906",
+    "source_folder": ".",
+    "ingested_on": "2025-09-06T14:30:52.438165",
+    "ingest_method": "ocr_smart"
+  },
+  "links": {
+    "source_file_original": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_unprocessed/9 April 2025 at 11-47 - Action plan & meeting notes.pdf",
+    "ocr_pdf_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_ocrd/9 April 2025 at 11-47 - Action plan & meeting notes_ocr.pdf",
+    "ocr_text_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/text/9 April 2025 at 11-47 - Action plan & meeting notes.txt"
+  },
+  "tags": [
+    "auto_ocr",
+    "9 april 2025 at 11",
+    " action plan & meeting notes",
+    "47 "
+  ]
+}

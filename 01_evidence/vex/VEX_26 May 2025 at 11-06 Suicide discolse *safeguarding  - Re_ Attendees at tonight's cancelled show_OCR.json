@@ -1,0 +1,28 @@
+{
+  "id": "VEX_26 May 2025 at 11-06 Suicide discolse *safeguarding  - Re_ Attendees at tonight's cancelled show_OCR",
+  "type": "evidence",
+  "source": "Smart OCR Ingest",
+  "date": "DATE_NOT_FOUND",
+  "summary": "Auto-ingested from file: 26 May 2025 at 11-06 Suicide discolse *safeguarding  - Re_ Attendees at tonight's cancelled show.pdf",
+  "meta": {
+    "original_filename": "26 May 2025 at 11-06 Suicide discolse *safeguarding  - Re_ Attendees at tonight's cancelled show.pdf",
+    "ocr_pdf_file": "26 May 2025 at 11-06 Suicide discolse *safeguarding  - Re_ Attendees at tonight's cancelled show_ocr.pdf",
+    "ocr_text_file": "26 May 2025 at 11-06 Suicide discolse *safeguarding  - Re_ Attendees at tonight's cancelled show.txt",
+    "sha256": "3389b72b89c31a81072801705ad8c0f4419a43d9f6f4e5f7285baf0e40a7c67d",
+    "source_folder": ".",
+    "ingested_on": "2025-09-06T14:16:08.483868",
+    "ingest_method": "ocr_smart"
+  },
+  "links": {
+    "source_file_original": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_unprocessed/26 May 2025 at 11-06 Suicide discolse *safeguarding  - Re_ Attendees at tonight's cancelled show.pdf",
+    "ocr_pdf_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_ocrd/26 May 2025 at 11-06 Suicide discolse *safeguarding  - Re_ Attendees at tonight's cancelled show_ocr.pdf",
+    "ocr_text_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/text/26 May 2025 at 11-06 Suicide discolse *safeguarding  - Re_ Attendees at tonight's cancelled show.txt"
+  },
+  "tags": [
+    "auto_ocr",
+    " attendees at tonight's cancelled show",
+    "26 may 2025 at 11",
+    " re",
+    "06 suicide discolse *safeguarding  "
+  ]
+}

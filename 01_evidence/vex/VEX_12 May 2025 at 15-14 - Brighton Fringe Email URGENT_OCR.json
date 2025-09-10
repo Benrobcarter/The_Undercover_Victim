@@ -1,0 +1,27 @@
+{
+  "id": "VEX_12 May 2025 at 15-14 - Brighton Fringe Email URGENT_OCR",
+  "type": "evidence",
+  "source": "Smart OCR Ingest",
+  "date": "DATE_NOT_FOUND",
+  "summary": "Auto-ingested from file: 12 May 2025 at 15-14 - Brighton Fringe Email URGENT.pdf",
+  "meta": {
+    "original_filename": "12 May 2025 at 15-14 - Brighton Fringe Email URGENT.pdf",
+    "ocr_pdf_file": "12 May 2025 at 15-14 - Brighton Fringe Email URGENT_ocr.pdf",
+    "ocr_text_file": "12 May 2025 at 15-14 - Brighton Fringe Email URGENT.txt",
+    "sha256": "92595e22ecee1fe2218b040aa24a647acd786da51ec8fb95f9e282bfd874418c",
+    "source_folder": ".",
+    "ingested_on": "2025-09-06T14:41:42.111287",
+    "ingest_method": "ocr_smart"
+  },
+  "links": {
+    "source_file_original": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_unprocessed/12 May 2025 at 15-14 - Brighton Fringe Email URGENT.pdf",
+    "ocr_pdf_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_ocrd/12 May 2025 at 15-14 - Brighton Fringe Email URGENT_ocr.pdf",
+    "ocr_text_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/text/12 May 2025 at 15-14 - Brighton Fringe Email URGENT.txt"
+  },
+  "tags": [
+    "auto_ocr",
+    " brighton fringe email urgent",
+    "14 ",
+    "12 may 2025 at 15"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "VEX_Support letter 12.5.25 1 (1)_OCR",
+  "type": "evidence",
+  "source": "Smart OCR Ingest",
+  "date": "DATE_NOT_FOUND",
+  "summary": "Auto-ingested from file: Support letter 12.5.25 1 (1).pdf",
+  "meta": {
+    "original_filename": "Support letter 12.5.25 1 (1).pdf",
+    "ocr_pdf_file": "Support letter 12.5.25 1 (1)_ocr.pdf",
+    "ocr_text_file": "Support letter 12.5.25 1 (1).txt",
+    "sha256": "06990fc55fc1af83da3445950eb1867a0da31000ac67b94ca19fe302cf5495f8",
+    "source_folder": ".",
+    "ingested_on": "2025-09-06T14:41:04.985057",
+    "ingest_method": "ocr_smart"
+  },
+  "links": {
+    "source_file_original": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_unprocessed/Support letter 12.5.25 1 (1).pdf",
+    "ocr_pdf_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_ocrd/Support letter 12.5.25 1 (1)_ocr.pdf",
+    "ocr_text_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/text/Support letter 12.5.25 1 (1).txt"
+  },
+  "tags": [
+    "auto_ocr",
+    "support letter 12.5.25 1 (1)"
+  ]
+}

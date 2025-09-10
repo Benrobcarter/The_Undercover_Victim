@@ -1,0 +1,26 @@
+{
+  "id": "VEX_2025-05-09- Give me my reputation back_OCR",
+  "type": "evidence",
+  "source": "Smart OCR Ingest",
+  "date": "2025-05-09",
+  "summary": "Auto-ingested from file: 2025-05-09- Give me my reputation back.pdf",
+  "meta": {
+    "original_filename": "2025-05-09- Give me my reputation back.pdf",
+    "ocr_pdf_file": "2025-05-09- Give me my reputation back_ocr.pdf",
+    "ocr_text_file": "2025-05-09- Give me my reputation back.txt",
+    "sha256": "0b7c21725ce3e261a847cda18d8c064b21e2e8dd2a833fa68a8986a6ff1407f9",
+    "source_folder": ".",
+    "ingested_on": "2025-09-06T23:17:48.143076",
+    "ingest_method": "ocr_smart"
+  },
+  "links": {
+    "source_file_original": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_unprocessed/2025-05-09- Give me my reputation back.pdf",
+    "ocr_pdf_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_ocrd/2025-05-09- Give me my reputation back_ocr.pdf",
+    "ocr_text_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/text/2025-05-09- Give me my reputation back.txt"
+  },
+  "tags": [
+    "auto_ocr",
+    " give me my reputation back",
+    "2025"
+  ]
+}

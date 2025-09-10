@@ -1,0 +1,26 @@
+{
+  "id": "VEX_2025-05-26 Post Fringe email 22 mins. The Samaritans Call_OCR",
+  "type": "evidence",
+  "source": "Smart OCR Ingest",
+  "date": "2025-05-26",
+  "summary": "Auto-ingested from file: 2025-05-26 Post Fringe email 22 mins. The Samaritans Call.pdf",
+  "meta": {
+    "original_filename": "2025-05-26 Post Fringe email 22 mins. The Samaritans Call.pdf",
+    "ocr_pdf_file": "2025-05-26 Post Fringe email 22 mins. The Samaritans Call_ocr.pdf",
+    "ocr_text_file": "2025-05-26 Post Fringe email 22 mins. The Samaritans Call.txt",
+    "sha256": "203ceb544d691581c56737d70447428f03ecb0ed04f4f6aaabfe0eed7adafc21",
+    "source_folder": ".",
+    "ingested_on": "2025-09-06T23:30:31.713199",
+    "ingest_method": "ocr_smart"
+  },
+  "links": {
+    "source_file_original": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_unprocessed/2025-05-26 Post Fringe email 22 mins. The Samaritans Call.pdf",
+    "ocr_pdf_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_ocrd/2025-05-26 Post Fringe email 22 mins. The Samaritans Call_ocr.pdf",
+    "ocr_text_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/text/2025-05-26 Post Fringe email 22 mins. The Samaritans Call.txt"
+  },
+  "tags": [
+    "auto_ocr",
+    "2025",
+    "26 post fringe email 22 mins. the samaritans call"
+  ]
+}

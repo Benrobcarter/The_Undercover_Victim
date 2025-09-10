@@ -1,0 +1,28 @@
+{
+  "id": "VEX_2025-05-06 at 15-24 Email to Brighton Fringe They Don_t Hate Me_3_OCR",
+  "type": "evidence",
+  "source": "Smart OCR Ingest",
+  "date": "2025-05-06",
+  "summary": "Auto-ingested from file: 2025-05-06 at 15-24 Email to Brighton Fringe They Don_t Hate Me_3.pdf",
+  "meta": {
+    "original_filename": "2025-05-06 at 15-24 Email to Brighton Fringe They Don_t Hate Me_3.pdf",
+    "ocr_pdf_file": "2025-05-06 at 15-24 Email to Brighton Fringe They Don_t Hate Me_3_ocr.pdf",
+    "ocr_text_file": "2025-05-06 at 15-24 Email to Brighton Fringe They Don_t Hate Me_3.txt",
+    "sha256": "f1c97ce856610e14f748aab2c89e9df10bb78b60b7a45856e6acde8af9d1c8b4",
+    "source_folder": ".",
+    "ingested_on": "2025-09-06T23:14:07.563024",
+    "ingest_method": "ocr_smart"
+  },
+  "links": {
+    "source_file_original": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_unprocessed/2025-05-06 at 15-24 Email to Brighton Fringe They Don_t Hate Me_3.pdf",
+    "ocr_pdf_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_ocrd/2025-05-06 at 15-24 Email to Brighton Fringe They Don_t Hate Me_3_ocr.pdf",
+    "ocr_text_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/text/2025-05-06 at 15-24 Email to Brighton Fringe They Don_t Hate Me_3.txt"
+  },
+  "tags": [
+    "auto_ocr",
+    "06 at 15",
+    "2025",
+    "24 email to brighton fringe they don",
+    "t hate me"
+  ]
+}

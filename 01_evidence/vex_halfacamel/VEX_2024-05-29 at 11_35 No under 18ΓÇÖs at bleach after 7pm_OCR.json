@@ -1,0 +1,27 @@
+{
+  "id": "VEX_2024-05-29 at 11_35 No under 18\u2019s at bleach after 7pm_OCR",
+  "type": "evidence",
+  "source": "Smart OCR Ingest",
+  "date": "2024-05-29",
+  "summary": "Auto-ingested from file: 2024-05-29 at 11_35 No under 18\u2019s at bleach after 7pm.pdf",
+  "meta": {
+    "original_filename": "2024-05-29 at 11_35 No under 18\u2019s at bleach after 7pm.pdf",
+    "ocr_pdf_file": "2024-05-29 at 11_35 No under 18\u2019s at bleach after 7pm_ocr.pdf",
+    "ocr_text_file": "2024-05-29 at 11_35 No under 18\u2019s at bleach after 7pm.txt",
+    "sha256": "8ac85c4b6fd145bbb0a35e8218855d7c0c9b0d0f4375c28396141c7e60eaaa63",
+    "source_folder": ".",
+    "ingested_on": "2025-09-06T23:18:18.077230",
+    "ingest_method": "ocr_smart"
+  },
+  "links": {
+    "source_file_original": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_unprocessed/2024-05-29 at 11_35 No under 18\u2019s at bleach after 7pm.pdf",
+    "ocr_pdf_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_ocrd/2024-05-29 at 11_35 No under 18\u2019s at bleach after 7pm_ocr.pdf",
+    "ocr_text_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/text/2024-05-29 at 11_35 No under 18\u2019s at bleach after 7pm.txt"
+  },
+  "tags": [
+    "auto_ocr",
+    "2024",
+    "29 at 11",
+    "35 no under 18\u2019s at bleach after 7pm"
+  ]
+}

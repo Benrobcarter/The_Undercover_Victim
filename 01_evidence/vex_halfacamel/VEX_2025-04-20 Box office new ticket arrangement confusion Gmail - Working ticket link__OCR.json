@@ -1,0 +1,27 @@
+{
+  "id": "VEX_2025-04-20 Box office new ticket arrangement confusion Gmail - Working ticket link__OCR",
+  "type": "evidence",
+  "source": "Smart OCR Ingest",
+  "date": "2025-04-20",
+  "summary": "Auto-ingested from file: 2025-04-20 Box office new ticket arrangement confusion Gmail - Working ticket link_.pdf",
+  "meta": {
+    "original_filename": "2025-04-20 Box office new ticket arrangement confusion Gmail - Working ticket link_.pdf",
+    "ocr_pdf_file": "2025-04-20 Box office new ticket arrangement confusion Gmail - Working ticket link__ocr.pdf",
+    "ocr_text_file": "2025-04-20 Box office new ticket arrangement confusion Gmail - Working ticket link_.txt",
+    "sha256": "02a0259e8f982ff01cb88c802699840e91b3322ffab21f6ebbd8240c1b1733c1",
+    "source_folder": ".",
+    "ingested_on": "2025-09-06T22:59:10.261895",
+    "ingest_method": "ocr_smart"
+  },
+  "links": {
+    "source_file_original": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_unprocessed/2025-04-20 Box office new ticket arrangement confusion Gmail - Working ticket link_.pdf",
+    "ocr_pdf_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_ocrd/2025-04-20 Box office new ticket arrangement confusion Gmail - Working ticket link__ocr.pdf",
+    "ocr_text_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/text/2025-04-20 Box office new ticket arrangement confusion Gmail - Working ticket link_.txt"
+  },
+  "tags": [
+    "auto_ocr",
+    " working ticket link",
+    "20 box office new ticket arrangement confusion gmail ",
+    "2025"
+  ]
+}

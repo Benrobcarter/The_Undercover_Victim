@@ -1,0 +1,29 @@
+{
+  "id": "VEX_UNDERCOVER_VICTIM_SECTION3.1_FILLED_2025-08-26_OCR",
+  "type": "evidence",
+  "source": "Smart OCR Ingest",
+  "date": "2025-08-26",
+  "summary": "Auto-ingested from file: UNDERCOVER_VICTIM_SECTION3.1_FILLED_2025-08-26.pdf",
+  "meta": {
+    "original_filename": "UNDERCOVER_VICTIM_SECTION3.1_FILLED_2025-08-26.pdf",
+    "ocr_pdf_file": "UNDERCOVER_VICTIM_SECTION3.1_FILLED_2025-08-26_ocr.pdf",
+    "ocr_text_file": "UNDERCOVER_VICTIM_SECTION3.1_FILLED_2025-08-26.txt",
+    "sha256": "7d6ff47f6f951fce40b965e6bc9bec8786f1dca3161a64522c01a08b26bfaf44",
+    "source_folder": ".",
+    "ingested_on": "2025-09-06T14:31:44.116434",
+    "ingest_method": "ocr_smart"
+  },
+  "links": {
+    "source_file_original": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_unprocessed/UNDERCOVER_VICTIM_SECTION3.1_FILLED_2025-08-26.pdf",
+    "ocr_pdf_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_ocrd/UNDERCOVER_VICTIM_SECTION3.1_FILLED_2025-08-26_ocr.pdf",
+    "ocr_text_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/text/UNDERCOVER_VICTIM_SECTION3.1_FILLED_2025-08-26.txt"
+  },
+  "tags": [
+    "auto_ocr",
+    "victim",
+    "undercover",
+    "section3.1",
+    "2025",
+    "filled"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": "VEX_2023-03-08 at 13-38 - board observer status_OCR",
+  "type": "evidence",
+  "source": "Smart OCR Ingest",
+  "date": "2023-03-08",
+  "summary": "Auto-ingested from file: 2023-03-08 at 13-38 - board observer status.pdf",
+  "meta": {
+    "original_filename": "2023-03-08 at 13-38 - board observer status.pdf",
+    "ocr_pdf_file": "2023-03-08 at 13-38 - board observer status_ocr.pdf",
+    "ocr_text_file": "2023-03-08 at 13-38 - board observer status.txt",
+    "sha256": "31e0707e0a5b3c40c71b51590c0d12f3d8e709053b19f0ae564103386edca72f",
+    "source_folder": ".",
+    "ingested_on": "2025-09-06T22:57:14.767497",
+    "ingest_method": "ocr_smart"
+  },
+  "links": {
+    "source_file_original": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_unprocessed/2023-03-08 at 13-38 - board observer status.pdf",
+    "ocr_pdf_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_ocrd/2023-03-08 at 13-38 - board observer status_ocr.pdf",
+    "ocr_text_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/text/2023-03-08 at 13-38 - board observer status.txt"
+  },
+  "tags": [
+    "auto_ocr",
+    "38 ",
+    " board observer status",
+    "2023",
+    "08 at 13"
+  ]
+}

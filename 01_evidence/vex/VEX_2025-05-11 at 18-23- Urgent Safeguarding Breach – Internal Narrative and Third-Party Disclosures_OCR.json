@@ -1,0 +1,28 @@
+{
+  "id": "VEX_2025-05-11 at 18-23- Urgent Safeguarding Breach \u2013 Internal Narrative and Third-Party Disclosures_OCR",
+  "type": "evidence",
+  "source": "Smart OCR Ingest",
+  "date": "2025-05-11",
+  "summary": "Auto-ingested from file: 2025-05-11 at 18-23- Urgent Safeguarding Breach \u2013 Internal Narrative and Third-Party Disclosures.pdf",
+  "meta": {
+    "original_filename": "2025-05-11 at 18-23- Urgent Safeguarding Breach \u2013 Internal Narrative and Third-Party Disclosures.pdf",
+    "ocr_pdf_file": "2025-05-11 at 18-23- Urgent Safeguarding Breach \u2013 Internal Narrative and Third-Party Disclosures_ocr.pdf",
+    "ocr_text_file": "2025-05-11 at 18-23- Urgent Safeguarding Breach \u2013 Internal Narrative and Third-Party Disclosures.txt",
+    "sha256": "679d6f555215839a5f8ed3afe6cdafa1a04d8b4d6fbb13c9cc8bd939f3ef0522",
+    "source_folder": ".",
+    "ingested_on": "2025-09-06T23:30:41.924938",
+    "ingest_method": "ocr_smart"
+  },
+  "links": {
+    "source_file_original": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_unprocessed/2025-05-11 at 18-23- Urgent Safeguarding Breach \u2013 Internal Narrative and Third-Party Disclosures.pdf",
+    "ocr_pdf_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_ocrd/2025-05-11 at 18-23- Urgent Safeguarding Breach \u2013 Internal Narrative and Third-Party Disclosures_ocr.pdf",
+    "ocr_text_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/text/2025-05-11 at 18-23- Urgent Safeguarding Breach \u2013 Internal Narrative and Third-Party Disclosures.txt"
+  },
+  "tags": [
+    "auto_ocr",
+    "2025",
+    " urgent safeguarding breach \u2013 internal narrative and third",
+    "party disclosures",
+    "11 at 18"
+  ]
+}

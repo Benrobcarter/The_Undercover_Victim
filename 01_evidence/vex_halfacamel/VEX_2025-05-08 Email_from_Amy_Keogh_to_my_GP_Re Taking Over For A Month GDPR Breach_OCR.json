@@ -1,0 +1,30 @@
+{
+  "id": "VEX_2025-05-08 Email_from_Amy_Keogh_to_my_GP_Re Taking Over For A Month GDPR Breach_OCR",
+  "type": "evidence",
+  "source": "Smart OCR Ingest",
+  "date": "2025-05-08",
+  "summary": "Auto-ingested from file: 2025-05-08 Email_from_Amy_Keogh_to_my_GP_Re Taking Over For A Month GDPR Breach.pdf",
+  "meta": {
+    "original_filename": "2025-05-08 Email_from_Amy_Keogh_to_my_GP_Re Taking Over For A Month GDPR Breach.pdf",
+    "ocr_pdf_file": "2025-05-08 Email_from_Amy_Keogh_to_my_GP_Re Taking Over For A Month GDPR Breach_ocr.pdf",
+    "ocr_text_file": "2025-05-08 Email_from_Amy_Keogh_to_my_GP_Re Taking Over For A Month GDPR Breach.txt",
+    "sha256": "495a54f929bb65d71f566cc81ac80f368d69b032fd890e91bf583acf8b5813b0",
+    "source_folder": ".",
+    "ingested_on": "2025-09-06T23:17:33.782728",
+    "ingest_method": "ocr_smart"
+  },
+  "links": {
+    "source_file_original": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_unprocessed/2025-05-08 Email_from_Amy_Keogh_to_my_GP_Re Taking Over For A Month GDPR Breach.pdf",
+    "ocr_pdf_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_ocrd/2025-05-08 Email_from_Amy_Keogh_to_my_GP_Re Taking Over For A Month GDPR Breach_ocr.pdf",
+    "ocr_text_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/text/2025-05-08 Email_from_Amy_Keogh_to_my_GP_Re Taking Over For A Month GDPR Breach.txt"
+  },
+  "tags": [
+    "auto_ocr",
+    "2025",
+    "keogh",
+    "08 email",
+    "amy",
+    "re taking over for a month gdpr breach",
+    "from"
+  ]
+}

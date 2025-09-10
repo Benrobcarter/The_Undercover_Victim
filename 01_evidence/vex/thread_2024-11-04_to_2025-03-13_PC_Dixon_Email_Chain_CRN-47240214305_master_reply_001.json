@@ -1,0 +1,21 @@
+{
+  "id": "thread_2024-11-04_to_2025-03-13_PC_Dixon_Email_Chain_CRN-47240214305_master_reply_001",
+  "type": "evidence",
+  "source": "Thread Reply Split (Smart OCR)",
+  "date": "DATE_NOT_FOUND",
+  "summary": "[From:] Ben Carter <benrobcarter@gmail.com> Sent: Monday, November 4, 2024 3:35 PM To: Dixon, Jon EA817 <Jon.Dixon@sussex.police.uk>  Subject: Re: 47240214305  Think be",
+  "meta": {
+    "thread_id": "thread_2024-11-04_to_2025-03-13_PC_Dixon_Email_Chain_CRN-47240214305_master",
+    "original_filename": "2024-11-04_to_2025-03-13_PC_Dixon_Email_Chain_CRN-47240214305_master.txt",
+    "reply_index": 1,
+    "split_on": "regex: header blocks",
+    "ingested_on": "2025-09-06T14:01:13.597688"
+  },
+  "links": {
+    "source_text_file": "/Users/bencarter/Documents/The_Undercover_Victim/01_evidence/text/2024-11-04_to_2025-03-13_PC_Dixon_Email_Chain_CRN-47240214305_master.txt"
+  },
+  "tags": [
+    "reply_split",
+    "auto_ocr_thread"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "VEX_Subject Access Request (19 Aug 2025) \u2013 Brighton Fringe Ltd_OCR",
+  "type": "evidence",
+  "source": "Smart OCR Ingest",
+  "date": "DATE_NOT_FOUND",
+  "summary": "Auto-ingested from file: Subject Access Request (19 Aug 2025) \u2013 Brighton Fringe Ltd.pdf",
+  "meta": {
+    "original_filename": "Subject Access Request (19 Aug 2025) \u2013 Brighton Fringe Ltd.pdf",
+    "ocr_pdf_file": "Subject Access Request (19 Aug 2025) \u2013 Brighton Fringe Ltd_ocr.pdf",
+    "ocr_text_file": "Subject Access Request (19 Aug 2025) \u2013 Brighton Fringe Ltd.txt",
+    "sha256": "b11c17d815fb4337ab99e3b0b8ae65b40c961a0686e1a0c82331a45a6bca1a02",
+    "source_folder": ".",
+    "ingested_on": "2025-09-06T14:19:26.551863",
+    "ingest_method": "ocr_smart"
+  },
+  "links": {
+    "source_file_original": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_unprocessed/Subject Access Request (19 Aug 2025) \u2013 Brighton Fringe Ltd.pdf",
+    "ocr_pdf_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_ocrd/Subject Access Request (19 Aug 2025) \u2013 Brighton Fringe Ltd_ocr.pdf",
+    "ocr_text_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/text/Subject Access Request (19 Aug 2025) \u2013 Brighton Fringe Ltd.txt"
+  },
+  "tags": [
+    "auto_ocr",
+    "subject access request (19 aug 2025) \u2013 brighton fringe ltd"
+  ]
+}
