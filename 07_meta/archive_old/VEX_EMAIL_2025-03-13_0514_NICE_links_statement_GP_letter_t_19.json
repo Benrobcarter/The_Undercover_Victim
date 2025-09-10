@@ -1,0 +1,46 @@
+{
+  "meta": {
+    "evidence_id": "VEX_EMAIL_2025-03-13_0514_NICE_links_statement_GP_letter_t_19",
+    "thread_id": "EMAIL_THREAD_47240214305_DIXON_Carter",
+    "created_utc": "2025-08-30T02:12:33Z",
+    "date_local": "2025-03-13",
+    "time_local": "05:14",
+    "from": "Ben Carter <benrobcarter@gmail.com>",
+    "to": "Dixon, Jon EA817 <Jon.Dixon@sussex.police.uk>",
+    "cc": [],
+    "subject": "NICE links + statement + GP letter timing",
+    "attachments": [],
+    "clusters": [
+      "CRIME_REF_47240214305_THREAD",
+      "DEATH_BY_SILENCE",
+      "ACCESS_BARRIER",
+      "CROWBARRING_MYSELF_JUSTICE"
+    ],
+    "status": "verbatim_ingested",
+    "project_paths": {
+      "evidence_dst": "01_evidence/vex/email/"
+    }
+  },
+  "claim_summary": "Email preserved verbatim as part of 47240214305 thread.",
+  "key_points": [],
+  "contradictions": [],
+  "timeline_hooks": [
+    {
+      "when": "2025-03-13T05:14:00",
+      "tag": "EMAIL_THREAD_ACTIVITY",
+      "note": "Email: NICE links + statement + GP letter timing"
+    }
+  ],
+  "cue_alignment": {
+    "status": "complete_from_user_text"
+  },
+  "cues": [
+    {
+      "index": 1,
+      "start": null,
+      "end": null,
+      "speaker": "Ben Carter <benrobcarter@gmail.com>",
+      "quote": "Hello mate i haven't heard back Re; NICE links or for the statement, i also really need to speak to the doctor, I'm\nfinding it hard to get on with day to day tasks. I am happy to pay the doctor for a letter, as I am paying I expect I\nwill be able to have a longer talk about my current situation and how I'm coping, which i'm not really. My family has\nme under private health care I called them in October as I was at my worst and had to go to my parents for 2\nmonths, basically to stay alive. Would it be better just to arrange an appointment with them would they be able to\nsee my records? and i could get them to write me something up, or is it better to go through the NHS\nI want to co operate, and at the moment my timeline has to be very structured as I have a lot of pressure to make\nout I'm ok, and fake confidence as I have 120 acts booked across 6 venues for May 2nd until June 1st for the\nBrighton Fringe, that's 50 shows I am promoting, it's the run up now so if you could please give me dates of when\nthe statement will be taken, the NIce links. Also please tell me what it is exactly I am asking for from the doctor as\nmy doctor is rubbish I'd prefer to go private but i find just getting an appointment impossible even when I was able\nto live, without someone doing everything they can to make sure i dont"
+    }
+  ]
+}

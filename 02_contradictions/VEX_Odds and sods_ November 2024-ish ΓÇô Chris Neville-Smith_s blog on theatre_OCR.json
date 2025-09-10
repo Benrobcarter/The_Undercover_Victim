@@ -1,0 +1,29 @@
+{
+  "id": "VEX_Odds and sods_ November 2024-ish \u2013 Chris Neville-Smith_s blog on theatre_OCR",
+  "type": "evidence",
+  "source": "Smart OCR Ingest",
+  "date": "DATE_NOT_FOUND",
+  "summary": "Auto-ingested from file: Odds and sods_ November 2024-ish \u2013 Chris Neville-Smith_s blog on theatre.pdf",
+  "meta": {
+    "original_filename": "Odds and sods_ November 2024-ish \u2013 Chris Neville-Smith_s blog on theatre.pdf",
+    "ocr_pdf_file": "Odds and sods_ November 2024-ish \u2013 Chris Neville-Smith_s blog on theatre_ocr.pdf",
+    "ocr_text_file": "Odds and sods_ November 2024-ish \u2013 Chris Neville-Smith_s blog on theatre.txt",
+    "sha256": "d5ece96c7a4505206d2eb4f5dccafac1ce9666cda6378c8bb71a23379a5c6287",
+    "source_folder": ".",
+    "ingested_on": "2025-09-06T14:03:44.105824",
+    "ingest_method": "ocr_smart"
+  },
+  "links": {
+    "source_file_original": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_unprocessed/Odds and sods_ November 2024-ish \u2013 Chris Neville-Smith_s blog on theatre.pdf",
+    "ocr_pdf_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_ocrd/Odds and sods_ November 2024-ish \u2013 Chris Neville-Smith_s blog on theatre_ocr.pdf",
+    "ocr_text_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/text/Odds and sods_ November 2024-ish \u2013 Chris Neville-Smith_s blog on theatre.txt"
+  },
+  "tags": [
+    "auto_ocr",
+    "odds and sods",
+    " november 2024",
+    "smith",
+    "ish \u2013 chris neville",
+    "s blog on theatre"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "created": "2025-08-25T04:12:10.097853Z",
+  "bit_summary": {
+    "themes": [
+      "Evidence handling (NICE Links)",
+      "Safeguarding & suicide logging",
+      "Timeline integrity (July vs Nov)",
+      "OIC change & case management",
+      "Bail conditions as safeguarding",
+      "Device download request (victim)",
+      "CPS summary vs full case",
+      "Comms & phone call records",
+      "Social media harassment after bail"
+    ],
+    "key_requests": [
+      "Change of OIC; removal of PC Dixon from case involvement",
+      "Bail extension as safeguarding measure",
+      "Recognition that suicide was unlogged and safeguarding failed",
+      "Use of pre-Nov evidence (June/July) rather than truncation to November",
+      "Clarity on evidence handling and missing/lost NICE Link submissions"
+    ]
+  },
+  "part3_meta": {
+    "module": "VERITAS_PART3",
+    "created": "2025-08-25T03:51:14.048285Z",
+    "source_files": null
+  }
+}

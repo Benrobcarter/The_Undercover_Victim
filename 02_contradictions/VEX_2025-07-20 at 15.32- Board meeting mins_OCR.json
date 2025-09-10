@@ -1,0 +1,27 @@
+{
+  "id": "VEX_2025-07-20 at 15.32- Board meeting mins_OCR",
+  "type": "evidence",
+  "source": "Smart OCR Ingest",
+  "date": "2025-07-20",
+  "summary": "Auto-ingested from file: 2025-07-20 at 15.32- Board meeting mins.pdf",
+  "meta": {
+    "original_filename": "2025-07-20 at 15.32- Board meeting mins.pdf",
+    "ocr_pdf_file": "2025-07-20 at 15.32- Board meeting mins_ocr.pdf",
+    "ocr_text_file": "2025-07-20 at 15.32- Board meeting mins.txt",
+    "sha256": "ad047df9c79213963b5d6d418df3324290360246ff343e8427dd3166761ed9c2",
+    "source_folder": ".",
+    "ingested_on": "2025-09-06T23:30:38.734078",
+    "ingest_method": "ocr_smart"
+  },
+  "links": {
+    "source_file_original": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_unprocessed/2025-07-20 at 15.32- Board meeting mins.pdf",
+    "ocr_pdf_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_ocrd/2025-07-20 at 15.32- Board meeting mins_ocr.pdf",
+    "ocr_text_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/text/2025-07-20 at 15.32- Board meeting mins.txt"
+  },
+  "tags": [
+    "auto_ocr",
+    " board meeting mins",
+    "20 at 15.32",
+    "2025"
+  ]
+}

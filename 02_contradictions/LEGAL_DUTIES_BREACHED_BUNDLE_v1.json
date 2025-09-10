@@ -1,0 +1,94 @@
+{
+  "vex_evidence": {
+    "id": "VEX_2025-05-07_Legal_Notice",
+    "date": "2025-05-07",
+    "source_path": "04_Legal_Duties_Breached/Email_Formal_Notice_May_7_2025.pdf",
+    "summary": "Formal safeguarding and legal notice issued by Ben Carter to Brighton Fringe trustees. Cites breaches of safeguarding, trustee duties, and activates whistleblower protection.",
+    "tags": [
+      "WHISTLEBLOWING_RETALIATION",
+      "SAFEGUARDING_FAILURE",
+      "GOVERNANCE_ERASURE",
+      "CONSTRUCTIVE_EXPULSION",
+      "RECURSIVE_RETRAUMATISATION",
+      "PIDA_BREACH",
+      "CULTURE_OF_SUPPRESSION",
+      "CHARITY_REPUTATION_OVER_RISK"
+    ],
+    "linked_contradictions": [
+      "CONTRA_2025-05-07_Protected_Disclosure_Ignored"
+    ],
+    "linked_timelines": [
+      "t2_brighton_fringe_consequences#2025-05-07"
+    ],
+    "quoted_text": [
+      "No safeguarding lead. No internal escalation. No documentation of my disclosures. Just silence — then gaslighting.",
+      "Let me remind you of the meeting where I, for the first time, admitted to staff members that I had been subjected to a year-long stalking campaign — and that just three days prior, I had taken my own life."
+    ],
+    "created_at": "2025-08-31T18:20:01.524222Z"
+  },
+  "contradiction": {
+    "id": "CONTRA_2025-05-07_Protected_Disclosure_Ignored",
+    "title": "Protected Disclosure Met With Silence, Not Procedure",
+    "claim": "Brighton Fringe followed proper safeguarding and whistleblowing protocol.",
+    "reality": "Ben Carter issued a protected legal and safeguarding notice to Brighton Fringe on 7 May 2025. The next day, the organisation retaliated by emailing his GP with defamatory claims instead of escalating the issue internally. No safeguarding or trustee record was logged.",
+    "actors": [
+      "Brighton Fringe",
+      "Duncan Lustig-Prean",
+      "Amy Keogh",
+      "Alice Wright"
+    ],
+    "laws": [
+      {
+        "act": "Employment Rights Act 1996",
+        "section": "47B",
+        "why": "Protected disclosure retaliation"
+      },
+      {
+        "act": "Public Interest Disclosure Act 1998",
+        "section": "1",
+        "why": "Whistleblower protections breached"
+      },
+      {
+        "act": "Charities Act 2011",
+        "section": "CC9",
+        "why": "Misuse of trustee governance"
+      },
+      {
+        "act": "UK GDPR",
+        "section": "Art. 9",
+        "why": "Processing special category data without lawful basis"
+      }
+    ],
+    "tags": [
+      "WHISTLEBLOWING_RETALIATION",
+      "SAFEGUARDING_FAILURE",
+      "GOVERNANCE_ERASURE",
+      "CONSTRUCTIVE_EXPULSION",
+      "RECURSIVE_RETRAUMATISATION",
+      "PIDA_BREACH",
+      "CULTURE_OF_SUPPRESSION",
+      "CHARITY_REPUTATION_OVER_RISK"
+    ],
+    "evidence_refs": [
+      "VEX_2025-05-07_Legal_Notice"
+    ],
+    "timeline_hooks": [
+      "t2_brighton_fringe_consequences#2025-05-07"
+    ],
+    "created_at": "2025-08-31T18:20:01.524302Z"
+  },
+  "timeline_patch": {
+    "id": "t2_brighton_fringe_consequences#2025-05-07",
+    "title": "Protected Disclosure Issued to Brighton Fringe Trustees",
+    "date": "2025-05-07",
+    "event": "Ben Carter formally notifies Brighton Fringe of legal and safeguarding breaches. The email cites internal policy violations and activates whistleblower protections under UK law.",
+    "tags": [
+      "WHISTLEBLOWING_RETALIATION",
+      "SAFEGUARDING_FAILURE",
+      "GOVERNANCE_ERASURE"
+    ],
+    "linked_evidence": [
+      "VEX_2025-05-07_Legal_Notice"
+    ]
+  }
+}

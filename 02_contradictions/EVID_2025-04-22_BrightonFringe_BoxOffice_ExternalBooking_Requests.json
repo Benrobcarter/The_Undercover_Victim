@@ -1,0 +1,16 @@
+{
+  "filename": "EVID_2025-04-22_BrightonFringe_BoxOffice_ExternalBooking_Requests.json",
+  "date": "2025-04-22",
+  "from": "Elin Eaton <boxoffice@brightonfringe.org>",
+  "to": "Half a camel production <halfacamelproductions@gmail.com>",
+  "subject": "External Booking Details",
+  "body": "Hi Ben,\n\nCould you let me know the details of the bookers who have booked with the venue for 'Crazy Stupid Funny'? They will need to re-book a ticket through the website once the ticket type has been changed to avoid any risk of the event being over-sold, so I just want to ensure space is held back for them to do this so that they don't miss out. I'm happy to get in contact with them directly if you are able to pass on their details.\n\nMany thanks,\n\nElin Eaton (she/her)\nBox Office Manager\nBrighton Fringe",
+  "tags": [
+    "CUSTOMER_BOOKING_MANUAL_TRANSFER_REQUEST",
+    "UNTICKETED_EVENT_OVERSELLING_CONCERN",
+    "OPERATIONAL_BURDEN_SHIFTED_TO_VENUE",
+    "BRIGHTON_FRINGE_ADMIN"
+  ],
+  "location": "/01_evidence/brighton_fringe/",
+  "notes": "Brighton Fringe requests external customer booking details to prevent overbooking after ticketing structure change."
+}

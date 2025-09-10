@@ -1,0 +1,110 @@
+{
+  "meta": {
+    "title": "Loop Break \u2014 Just Enjoying Being Erased Now (Pencilling Myself Back In)",
+    "date_created": "2025-06-22",
+    "vex_id": "VEX_2025-06-22_0500_LoopBreak",
+    "related_calls": [
+      "22-06-25 - 05-00 justs enjoying being errased now, pencilling myself back in_en-GB.txt"
+    ],
+    "status": "contradiction_node",
+    "bundle_type": "standalone_contradiction",
+    "generated_utc": "2025-08-26T21:15:00Z"
+  },
+  "quotes": [
+    {
+      "quote": "Hi, I'm just reporting that I've just been hung up on twice by Sussex Police.",
+      "source": "22-06-25 - 05-00 justs enjoying being errased now, pencilling myself back in_en-GB.txt",
+      "type": "transcript_extracted",
+      "tags": [
+        "REPEATED_CALL_FAILURE",
+        "VOICE_SUPPRESSION"
+      ]
+    },
+    {
+      "quote": "I was denied a phone interview at 8:15 on Monday morning.",
+      "source": "22-06-25 - 05-00 justs enjoying being errased now, pencilling myself back in_en-GB.txt",
+      "type": "transcript_extracted",
+      "tags": [
+        "VICTIMS_CODE_BREACH",
+        "SAFEGUARDING_DUTY_FAILED"
+      ]
+    },
+    {
+      "quote": "This phone call is being recorded. It will be sent to the IOPC if you deny me another officer\u2026",
+      "source": "22-06-25 - 05-00 justs enjoying being errased now, pencilling myself back in_en-GB.txt",
+      "type": "transcript_extracted",
+      "tags": [
+        "EVIDENCE_CHAIN_ESCALATION",
+        "IOPC_OBSTRUCTION"
+      ]
+    },
+    {
+      "quote": "Denied me all safeguarding since my suicide on April 6th. Told my abuser no further action on April 27th\u2026",
+      "source": "22-06-25 - 05-00 justs enjoying being errased now, pencilling myself back in_en-GB.txt",
+      "type": "transcript_extracted",
+      "tags": [
+        "SUICIDE_DISCLOSURE_DISMISSED",
+        "DUTY_TO_WARN_BREACHED",
+        "MARAC_OBSTRUCTED"
+      ]
+    },
+    {
+      "quote": "Today my abusers have like, rung me\u2026 accusing me of raping her.",
+      "source": "22-06-25 - 05-00 justs enjoying being errased now, pencilling myself back in_en-GB.txt",
+      "type": "transcript_extracted",
+      "tags": [
+        "FALSE_ALLEGATION_REPORTED",
+        "THREAT_REESCALATION"
+      ]
+    },
+    {
+      "quote": "Oh, fuck off. Get me my human rights.",
+      "source": "22-06-25 - 05-00 justs enjoying being errased now, pencilling myself back in_en-GB.txt",
+      "type": "transcript_extracted",
+      "tags": [
+        "BREAKDOWN_MOMENT",
+        "INSTITUTIONAL_GASLIGHTING"
+      ]
+    },
+    {
+      "quote": "hahahahahaha",
+      "source": "22-06-25 - 05-00 justs enjoying being errased now, pencilling myself back in_en-GB.txt",
+      "type": "transcript_extracted",
+      "tags": [
+        "RESIGNATION",
+        "DISSOCIATION_EFFECT"
+      ]
+    }
+  ],
+  "evidence_links": [
+    {
+      "type": "transcript",
+      "file": "22-06-25 - 05-00 justs enjoying being errased now, pencilling myself back in_en-GB.txt",
+      "summary": "Final 101 call in the June 22 sequence. Ben reports repeated hangups, denial of Victims\u2019 Code rights, and being erased post-suicide. The call ends in resigned laughter \u2014 a loop-breaking moment."
+    }
+  ],
+  "contradictions": [
+    "REPEATED_CALL_FAILURE",
+    "VOICE_SUPPRESSION",
+    "VICTIMS_CODE_BREACH",
+    "SAFEGUARDING_DUTY_FAILED",
+    "EVIDENCE_CHAIN_ESCALATION",
+    "IOPC_OBSTRUCTION",
+    "SUICIDE_DISCLOSURE_DISMISSED",
+    "DUTY_TO_WARN_BREACHED",
+    "MARAC_OBSTRUCTED",
+    "FALSE_ALLEGATION_REPORTED",
+    "THREAT_REESCALATION",
+    "BREAKDOWN_MOMENT",
+    "INSTITUTIONAL_GASLIGHTING",
+    "RESIGNATION",
+    "DISSOCIATION_EFFECT"
+  ],
+  "timeline_hooks": [
+    "CrowbarringMyselfJustice",
+    "DeathBySilence",
+    "IOPC_Escalation",
+    "SussexPolice"
+  ],
+  "emotional_tone": "loop_broken_resignation"
+}

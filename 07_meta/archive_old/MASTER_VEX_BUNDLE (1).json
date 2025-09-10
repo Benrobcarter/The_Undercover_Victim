@@ -1,0 +1,5167 @@
+{
+  "meta": {
+    "generated": "2025-08-26T22:49:18.449027Z",
+    "sources": [
+      {
+        "path": "/mnt/data/VEX_UNDERCOVER_VICTIM_BUNDLE_v1.json",
+        "err": null,
+        "sha256": "d39fa26d6c121271932e4d7131bc8eb5665a8ad60270e271e5f80028404a6491"
+      },
+      {
+        "path": "/mnt/data/VEX_UNDERCOVER_VICTIM_BUNDLE_v1.5.json",
+        "err": null,
+        "sha256": "da70a6f2c24f7c261fa0ca53bb361727e3b569c4ec6dc4809e752a4c82a5ad24"
+      },
+      {
+        "path": "/mnt/data/VEX_UNDERCOVER_VICTIM_BUNDLE_v1.8.json",
+        "err": null,
+        "sha256": "8666c18d0c436c7efc1af00fba8aadd8a7c042f732442bbbc4902baeb33d1015"
+      },
+      {
+        "path": "/mnt/data/VEX_2025-06-22_Cherish_Bundle.json",
+        "err": null,
+        "sha256": "fa9d6e9d83603ec2c3f1ab934123d0ac02b0355922c5e13bdbf9fe2ed7fc9fc7"
+      },
+      {
+        "path": "/mnt/data/VEX_2025-06-22_Cherish_Bundle_FULLY_VEXED.json",
+        "err": null,
+        "sha256": "dec4c625c86d822fb83cf922ad346e50dbeadbe374f2e61aebf05e7cedf1b772"
+      },
+      {
+        "path": "/mnt/data/VEX_OVERLAY_CHERISH_THESE_MOMENTS.json",
+        "err": null,
+        "sha256": "0d671948b8491a3050281b3015f4e1a20c77658271ca53a769805bbee8c2d2b2"
+      },
+      {
+        "path": "/mnt/data/VEX_2025-06-22_0500_LoopBreak.json",
+        "err": null,
+        "sha256": "90bf1d7a918b4491f84671074be565806bc31ec1324a3dfcb59870673c83352b"
+      },
+      {
+        "path": "/mnt/data/VEX_2025-06-22_0506_Humiliation_Protocol.json",
+        "err": null,
+        "sha256": "99f01d1bd96218d93f5e4ba204c1318d41533c0db1cdda19e42d527d02380520"
+      },
+      {
+        "path": "/mnt/data/VEX_2025-06-22_System_Exposure_Crime_Number_Manipulation.json",
+        "err": null,
+        "sha256": "6684cad0a3bc3bcf8a795dbf9fc4c9bddb2e448b1fa2bf74aa5c4bea1d8f0124"
+      },
+      {
+        "path": "/mnt/data/VEX_2025-06-23_101_Dixon_or_Death.json",
+        "err": null,
+        "sha256": "9dd78de6904882d51b44a9dca04d7f012142be3e73acc6208ae41f381c190a89"
+      },
+      {
+        "path": "/mnt/data/VEX_2025-06-23_101_Dixon_or_Death_DETAILED.json",
+        "err": null,
+        "sha256": "3244968f60b4378669b00d8810a8ae3564c41b99a943d23258d1ffa37d062ebb"
+      },
+      {
+        "path": "/mnt/data/VEX_2025-06-23_Not_Vulnerable_Promise.json",
+        "err": null,
+        "sha256": "14f795541644fc19385af3c3ad5d025f5430d2771d94bb50e46960a1836c4d89"
+      },
+      {
+        "path": "/mnt/data/VEX_2025-06-23_13-48_Not_Vulnerable_Promise.json",
+        "err": null,
+        "sha256": "c7a2ce5d9b9d54954326706221e09e54d77794c908347ff4f666b4bd87f16280"
+      }
+    ]
+  },
+  "items": [
+    {
+      "source": "VEX_UNDERCOVER_VICTIM_BUNDLE_v1.json",
+      "payload": {
+        "meta": {
+          "name": "VEX_UNDERCOVER_VICTIM_BUNDLE",
+          "version": "v1",
+          "generated_utc": "2025-08-26T04:34:18.468422Z",
+          "source_priority": [
+            "Master Complaint.txt",
+            "Section 2_ The Core Complaint & Timeline of Failure.docx.txt",
+            "01_ Complainant’s Foreword.txt"
+          ],
+          "case_references": [
+            "47240141246",
+            "47240214305",
+            "CIT1201684"
+          ],
+          "series_title": "The Undercover Victim",
+          "updated_utc": "2025-08-26T04:35:40.646985Z"
+        },
+        "tag_legend": {
+          "SAFEGUARDING_FAILURE": "Safeguarding steps missed or delayed despite risk disclosures.",
+          "EVIDENCE_SUPPRESSION": "Evidence ignored, sidelined, or mishandled (incl. deletion).",
+          "GDPR_ACCESS_REFUSAL": "Personal data access blocked without specific, lawful basis.",
+          "RECORDING_HANDLING": "Issues around logging, retention, deletion, or audit of audio/records.",
+          "NFA_PREMATURE_COMMUNICATION": "Outcome-style messaging to suspect prior to safeguarding or completion.",
+          "DEATH_BY_SILENCE": "Escalating harm caused by non-response or delay.",
+          "TIMELINE_MANIPULATION": "Conflicting dates, back-dating, or reframing that alters chronology.",
+          "REPUTATIONAL_HARM": "Narrative/brand damage, public standing affected.",
+          "ONUS_PROBANDI_LOGIC": "Burden-of-proof / evidence standards explicitly engaged.",
+          "GOVERNANCE_FAILURE": "Organisational governance or charity-law failure indicators.",
+          "VICTIMS_CODE": "Victims' Code rights and duties implicated.",
+          "DPA_GDPR": "UK GDPR / DPA 2018 duties and limits implicated.",
+          "RECORDS_AUDIT": "Records management & audit trail duties implicated."
+        },
+        "sections": [
+          {
+            "id": "1",
+            "title": "Complainant’s Foreword",
+            "series_key": "sec1_foreword",
+            "parts": [
+              {
+                "part": 1,
+                "entries": [
+                  {
+                    "text": "This complaint arises from repeated safeguarding failures and institutional silence following my first plea for help ('Police, please.') and the loss of a loved one that compels meticulous documentation.",
+                    "vex_tags": [
+                      "SAFEGUARDING_FAILURE",
+                      "DEATH_BY_SILENCE",
+                      "ONUS_PROBANDI_LOGIC",
+                      "VICTIMS_CODE"
+                    ],
+                    "contradictions": [
+                      "DEATH_BY_SILENCE"
+                    ],
+                    "timeline_hooks": [
+                      "PersonalEvidence"
+                    ],
+                    "legal_refs": [
+                      "VictimsCode"
+                    ],
+                    "evidence_refs": [
+                      "SUBMISSION_2024-07-21_PolicePlease_Cover.txt"
+                    ],
+                    "emotional_tone": "resolute",
+                    "undated_flag": false,
+                    "metrics": {}
+                  },
+                  {
+                    "text": "The purpose of this file is to create a transparent record others can test, not a narrative advantage.",
+                    "vex_tags": [
+                      "ONUS_PROBANDI_LOGIC",
+                      "RECORDS_AUDIT"
+                    ],
+                    "contradictions": [],
+                    "timeline_hooks": [
+                      "PersonalEvidence"
+                    ],
+                    "legal_refs": [
+                      "Records_Management"
+                    ],
+                    "evidence_refs": [],
+                    "emotional_tone": "determined",
+                    "undated_flag": false,
+                    "metrics": {}
+                  }
+                ],
+                "delta_findings": []
+              }
+            ]
+          },
+          {
+            "id": "2",
+            "title": "The Core Complaint & Timeline of Failures",
+            "series_key": "sec2_core",
+            "parts": [
+              {
+                "part": 1,
+                "entries": [
+                  {
+                    "text": "Safeguarding breached; evidence mishandled; suicide risk not consistently logged; institutional minimisation; potential misconduct in public office.",
+                    "vex_tags": [
+                      "SAFEGUARDING_FAILURE",
+                      "EVIDENCE_SUPPRESSION",
+                      "TIMELINE_MANIPULATION",
+                      "VICTIMS_CODE"
+                    ],
+                    "contradictions": [],
+                    "timeline_hooks": [
+                      "SussexPolice"
+                    ],
+                    "legal_refs": [
+                      "VictimsCode"
+                    ],
+                    "evidence_refs": [],
+                    "emotional_tone": "determined",
+                    "undated_flag": false,
+                    "metrics": {}
+                  },
+                  {
+                    "text": "24 Jul–Nov 2024: Early report dismissed; 7 Nov 2024 note states key audio was 'listened to & deleted'.",
+                    "vex_tags": [
+                      "EVIDENCE_SUPPRESSION",
+                      "RECORDING_HANDLING",
+                      "RECORDS_AUDIT"
+                    ],
+                    "contradictions": [
+                      "LOST_EVIDENCE_SUSSEX_POLICE"
+                    ],
+                    "timeline_hooks": [
+                      "SussexPolice"
+                    ],
+                    "legal_refs": [],
+                    "evidence_refs": [
+                      "EVID_2024-07-XX_July_Call.mp3",
+                      "LOG_2024-11-07_Dixon_listened_deleted.txt"
+                    ],
+                    "emotional_tone": "determined",
+                    "undated_flag": false,
+                    "metrics": {}
+                  },
+                  {
+                    "text": "12 Feb–Mar 2025: Bail-confirmation period includes an unredacted internal forward and a flat visit without BWV.",
+                    "vex_tags": [
+                      "GDPR_ACCESS_REFUSAL",
+                      "RECORDS_AUDIT"
+                    ],
+                    "contradictions": [],
+                    "timeline_hooks": [
+                      "SussexPolice"
+                    ],
+                    "legal_refs": [
+                      "DPA_GDPR"
+                    ],
+                    "evidence_refs": [
+                      "EMAIL_2025-02-12_Bail_confirm_forward_unredacted.eml"
+                    ],
+                    "emotional_tone": "determined",
+                    "undated_flag": false,
+                    "metrics": {}
+                  },
+                  {
+                    "text": "22 Apr 2025: Procedural inversion portrays lawful conduct as suspect; 27 Apr 2025 NFA-style message sent to suspect prior to safeguarding meeting.",
+                    "vex_tags": [
+                      "TIMELINE_MANIPULATION",
+                      "NFA_PREMATURE_COMMUNICATION",
+                      "DEATH_BY_SILENCE"
+                    ],
+                    "contradictions": [
+                      "DEATH_BY_SILENCE"
+                    ],
+                    "timeline_hooks": [
+                      "SussexPolice"
+                    ],
+                    "legal_refs": [],
+                    "evidence_refs": [
+                      "EMAIL_2025-04-22_Procedural_Inversion.txt",
+                      "EMAIL_2025-04-27_NFA_to_Suspect_prior_meeting.eml"
+                    ],
+                    "emotional_tone": "determined",
+                    "undated_flag": false,
+                    "metrics": {}
+                  },
+                  {
+                    "text": "Apr–Jun 2025: Suicide attempt not properly logged; post-closure SAR refused on 25 Jun 2025.",
+                    "vex_tags": [
+                      "SAFEGUARDING_FAILURE",
+                      "GDPR_ACCESS_REFUSAL",
+                      "VICTIMS_CODE"
+                    ],
+                    "contradictions": [
+                      "CROWBARRING_MYSELF_JUSTICE",
+                      "DEATH_BY_SILENCE"
+                    ],
+                    "timeline_hooks": [
+                      "SussexPolice",
+                      "PersonalEvidence"
+                    ],
+                    "legal_refs": [
+                      "VictimsCode",
+                      "DPA_GDPR"
+                    ],
+                    "evidence_refs": [
+                      "NOTE_2025-04-06_Suicide_Attempt.txt",
+                      "SAR_2025-06-25_Refusal_After_Closure.pdf"
+                    ],
+                    "emotional_tone": "determined",
+                    "undated_flag": false,
+                    "metrics": {}
+                  },
+                  {
+                    "text": "Brighton Fringe May–Jun 2025: safeguarding disclosures unmet; retaliatory narrative and minutes withheld pending unilateral approval.",
+                    "vex_tags": [
+                      "SAFEGUARDING_FAILURE",
+                      "GOVERNANCE_FAILURE",
+                      "REPUTATIONAL_HARM"
+                    ],
+                    "contradictions": [],
+                    "timeline_hooks": [
+                      "BrightonFringe"
+                    ],
+                    "legal_refs": [],
+                    "evidence_refs": [
+                      "EMAIL_2025-07-20_BF_Minutes_Refusal.eml"
+                    ],
+                    "emotional_tone": "determined",
+                    "undated_flag": false,
+                    "metrics": {}
+                  }
+                ],
+                "delta_findings": []
+              }
+            ]
+          },
+          {
+            "id": "3",
+            "title": "Investigation & Findings",
+            "series_key": "sec3_investigation",
+            "parts": [
+              {
+                "part": 1,
+                "subsections": [
+                  {
+                    "id": "3.1",
+                    "title": "From Victim to Investigator: A Case Study in Forced Self‑Advocacy",
+                    "entries": [
+                      {
+                        "text": "After repeated safeguarding and disclosure failures, I assumed investigative functions to preserve and present evidence others should have logged and acted upon.",
+                        "vex_tags": [
+                          "SAFEGUARDING_FAILURE",
+                          "ONUS_PROBANDI_LOGIC",
+                          "RECORDS_AUDIT"
+                        ],
+                        "contradictions": [],
+                        "timeline_hooks": [
+                          "PersonalEvidence"
+                        ],
+                        "legal_refs": [],
+                        "evidence_refs": [
+                          "EVID_2024-07-XX_July_Call.mp3",
+                          "TRANSCRIPT_2025-04-11_101_Crowbarring_Myself_Justice_(1..3).txt"
+                        ],
+                        "emotional_tone": "determined",
+                        "undated_flag": false,
+                        "metrics": {}
+                      },
+                      {
+                        "text": "Structured three interlinked chronologies to locate contradictions and test institutional narratives against dated artefacts.",
+                        "vex_tags": [
+                          "TIMELINE_MANIPULATION",
+                          "RECORDS_AUDIT"
+                        ],
+                        "contradictions": [],
+                        "timeline_hooks": [
+                          "SussexPolice",
+                          "BrightonFringe",
+                          "PersonalEvidence"
+                        ],
+                        "legal_refs": [],
+                        "evidence_refs": [],
+                        "emotional_tone": "determined",
+                        "undated_flag": false,
+                        "metrics": {}
+                      },
+                      {
+                        "text": "Prejudicial information asymmetry documented: suspect informed of outcomes while safeguarding meetings were pending or incomplete.",
+                        "vex_tags": [
+                          "NFA_PREMATURE_COMMUNICATION",
+                          "DEATH_BY_SILENCE"
+                        ],
+                        "contradictions": [],
+                        "timeline_hooks": [
+                          "SussexPolice"
+                        ],
+                        "legal_refs": [],
+                        "evidence_refs": [
+                          "EMAIL_2025-04-27_NFA_to_Suspect_prior_meeting.eml"
+                        ],
+                        "emotional_tone": "determined",
+                        "undated_flag": false,
+                        "metrics": {}
+                      },
+                      {
+                        "text": "Post-closure SAR refusal demonstrates data-rights obstruction after the reason for initial exemptions had expired.",
+                        "vex_tags": [
+                          "GDPR_ACCESS_REFUSAL",
+                          "DPA_GDPR"
+                        ],
+                        "contradictions": [],
+                        "timeline_hooks": [
+                          "SussexPolice"
+                        ],
+                        "legal_refs": [
+                          "DPA_GDPR"
+                        ],
+                        "evidence_refs": [
+                          "SAR_2025-06-25_Refusal_After_Closure.pdf"
+                        ],
+                        "emotional_tone": "determined",
+                        "undated_flag": false,
+                        "metrics": {}
+                      }
+                    ],
+                    "delta_findings": []
+                  },
+                  {
+                    "id": "3.2",
+                    "title": "Chain‑of‑Custody & the July Call: What the Logs Must Show",
+                    "entries": [
+                      {
+                        "text": "Audit trail must reveal ingest, access, and any deletion authorisation for the July call(s).",
+                        "vex_tags": [
+                          "RECORDING_HANDLING",
+                          "EVIDENCE_SUPPRESSION",
+                          "RECORDS_AUDIT"
+                        ],
+                        "contradictions": [
+                          "LOST_EVIDENCE_SUSSEX_POLICE"
+                        ],
+                        "timeline_hooks": [],
+                        "legal_refs": [],
+                        "evidence_refs": [
+                          "EVID_2024-07-XX_July_Call.mp3",
+                          "LOG_2024-11-07_Dixon_listened_deleted.txt"
+                        ],
+                        "emotional_tone": "determined",
+                        "undated_flag": false,
+                        "metrics": {}
+                      }
+                    ],
+                    "delta_findings": []
+                  },
+                  {
+                    "id": "3.3",
+                    "title": "The Silence Ladder: Each Non‑Reply Increases Harm",
+                    "entries": [
+                      {
+                        "text": "Each unanswered safeguarding contact adds harm and legal exposure; quantify elapsed days, missed opportunities, and escalation points.",
+                        "vex_tags": [
+                          "DEATH_BY_SILENCE",
+                          "SAFEGUARDING_FAILURE"
+                        ],
+                        "contradictions": [],
+                        "timeline_hooks": [
+                          "SussexPolice"
+                        ],
+                        "legal_refs": [],
+                        "evidence_refs": [],
+                        "emotional_tone": "determined",
+                        "undated_flag": false,
+                        "metrics": {
+                          "elapsed_days": null,
+                          "unanswered_contacts": null
+                        }
+                      }
+                    ],
+                    "delta_findings": []
+                  },
+                  {
+                    "id": "3.4",
+                    "title": "Case Start Date Contortions: A Timeline Integrity Test",
+                    "entries": [
+                      {
+                        "text": "Resolve conflicting 'case start' narratives by comparing first-record creation, first action, and external confirmations (e.g., Veritas liaison).",
+                        "vex_tags": [
+                          "TIMELINE_MANIPULATION",
+                          "RECORDS_AUDIT"
+                        ],
+                        "contradictions": [],
+                        "timeline_hooks": [
+                          "SussexPolice"
+                        ],
+                        "legal_refs": [],
+                        "evidence_refs": [
+                          "WhatsApp_A09_PC_Dixon_export.txt",
+                          "Veritas_A10_EmmaJones_export.txt"
+                        ],
+                        "emotional_tone": "determined",
+                        "undated_flag": false,
+                        "metrics": {}
+                      }
+                    ],
+                    "delta_findings": []
+                  },
+                  {
+                    "id": "3.5",
+                    "title": "NFA Before Safeguarding: Decision Path Audit",
+                    "entries": [
+                      {
+                        "text": "Assess whether 27 Apr 2025 communication to the suspect pre‑empted safeguarding and due process; identify decision‑makers and rationale.",
+                        "vex_tags": [
+                          "NFA_PREMATURE_COMMUNICATION",
+                          "SAFEGUARDING_FAILURE"
+                        ],
+                        "contradictions": [],
+                        "timeline_hooks": [
+                          "SussexPolice"
+                        ],
+                        "legal_refs": [],
+                        "evidence_refs": [
+                          "EMAIL_2025-04-27_NFA_to_Suspect_prior_meeting.eml"
+                        ],
+                        "emotional_tone": "determined",
+                        "undated_flag": false,
+                        "metrics": {}
+                      }
+                    ],
+                    "delta_findings": []
+                  },
+                  {
+                    "id": "3.6",
+                    "title": "Data Rights Blocked and Bent: SAR Handling After Closure",
+                    "entries": [
+                      {
+                        "text": "Re‑evaluate SAR refusals post‑closure and require specific lawful bases for any ongoing withholding.",
+                        "vex_tags": [
+                          "GDPR_ACCESS_REFUSAL",
+                          "DPA_GDPR"
+                        ],
+                        "contradictions": [],
+                        "timeline_hooks": [
+                          "SussexPolice"
+                        ],
+                        "legal_refs": [
+                          "DPA_GDPR"
+                        ],
+                        "evidence_refs": [
+                          "SAR_2025-06-25_Refusal_After_Closure.pdf"
+                        ],
+                        "emotional_tone": "determined",
+                        "undated_flag": false,
+                        "metrics": {}
+                      }
+                    ],
+                    "delta_findings": []
+                  },
+                  {
+                    "id": "3.7",
+                    "title": "External Confirmations: Third‑Party Anchors",
+                    "entries": [
+                      {
+                        "text": "Corroborate internal narratives with third‑party logs and notes, including ambulance call and support‑service liaison.",
+                        "vex_tags": [
+                          "RECORDS_AUDIT"
+                        ],
+                        "contradictions": [],
+                        "timeline_hooks": [
+                          "PersonalEvidence",
+                          "SussexPolice"
+                        ],
+                        "legal_refs": [],
+                        "evidence_refs": [
+                          "AMBULANCE_2025-05-27_1758_Call_Transcript.txt",
+                          "Veritas_A10_EmmaJones_export.txt"
+                        ],
+                        "emotional_tone": "determined",
+                        "undated_flag": false,
+                        "metrics": {}
+                      }
+                    ],
+                    "delta_findings": []
+                  },
+                  {
+                    "id": "3.8",
+                    "title": "Brighton Fringe: Safeguarding Evasion & Retaliatory Narrative",
+                    "entries": [
+                      {
+                        "text": "Track selective minutes and safeguarding non‑response; map decision points to governance duties.",
+                        "vex_tags": [
+                          "GOVERNANCE_FAILURE",
+                          "SAFEGUARDING_FAILURE",
+                          "REPUTATIONAL_HARM"
+                        ],
+                        "contradictions": [],
+                        "timeline_hooks": [
+                          "BrightonFringe"
+                        ],
+                        "legal_refs": [],
+                        "evidence_refs": [
+                          "EMAIL_2025-07-20_BF_Minutes_Refusal.eml"
+                        ],
+                        "emotional_tone": "determined",
+                        "undated_flag": false,
+                        "metrics": {}
+                      }
+                    ],
+                    "delta_findings": []
+                  },
+                  {
+                    "id": "3.9",
+                    "title": "What Independent Review Should Do Now",
+                    "entries": [
+                      {
+                        "text": "Produce audit logs, correct records, re‑review outcomes with complete evidence, and implement safeguarding remediation.",
+                        "vex_tags": [
+                          "RECORDS_AUDIT",
+                          "VICTIMS_CODE"
+                        ],
+                        "contradictions": [],
+                        "timeline_hooks": [
+                          "SussexPolice",
+                          "PersonalEvidence"
+                        ],
+                        "legal_refs": [],
+                        "evidence_refs": [],
+                        "emotional_tone": "determined",
+                        "undated_flag": false,
+                        "metrics": {}
+                      }
+                    ],
+                    "delta_findings": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "source": "VEX_UNDERCOVER_VICTIM_BUNDLE_v1.5.json",
+      "payload": {
+        "meta": {
+          "name": "VEX_UNDERCOVER_VICTIM_BUNDLE",
+          "version": "v1",
+          "generated_utc": "2025-08-26T04:34:18.468422Z",
+          "source_priority": [
+            "Master Complaint.txt",
+            "Section 2_ The Core Complaint & Timeline of Failure.docx.txt",
+            "01_ Complainant’s Foreword.txt"
+          ],
+          "case_references": [
+            "47240141246",
+            "47240214305",
+            "CIT1201684"
+          ],
+          "series_title": "The Undercover Victim",
+          "updated_utc": "2025-08-26T05:29:09.978675Z",
+          "notes": [
+            "Merged VEX_PATCH_Coercion_Dance_v1 into bundle; base=/mnt/data/VEX_UNDERCOVER_VICTIM_BUNDLE_v1.json.",
+            "Merged C2 Part 2 from VEX_PATCH_Coercion_Dance_Part2_v1 (base=/mnt/data/VEX_UNDERCOVER_VICTIM_BUNDLE_v1.2.json).",
+            "Merged evidence voicemail 2025-05-27 18:19; base=/mnt/data/VEX_UNDERCOVER_VICTIM_BUNDLE_v1.3.json.",
+            "Added welfare check evidence (17 May 2025 17:33); base=/mnt/data/VEX_UNDERCOVER_VICTIM_BUNDLE_v1.4.json."
+          ]
+        },
+        "tag_legend": {
+          "SAFEGUARDING_FAILURE": "Safeguarding steps missed or delayed despite risk disclosures.",
+          "EVIDENCE_SUPPRESSION": "Evidence ignored, sidelined, or mishandled (incl. deletion).",
+          "GDPR_ACCESS_REFUSAL": "Personal data access blocked without specific, lawful basis.",
+          "RECORDING_HANDLING": "Issues around logging, retention, deletion, or audit of audio/records.",
+          "NFA_PREMATURE_COMMUNICATION": "Outcome-style messaging to suspect prior to safeguarding or completion.",
+          "DEATH_BY_SILENCE": "Escalating harm caused by non-response or delay.",
+          "TIMELINE_MANIPULATION": "Conflicting dates, back-dating, or reframing that alters chronology.",
+          "REPUTATIONAL_HARM": "Narrative/brand damage, public standing affected.",
+          "ONUS_PROBANDI_LOGIC": "Burden-of-proof / evidence standards explicitly engaged.",
+          "GOVERNANCE_FAILURE": "Organisational governance or charity-law failure indicators.",
+          "VICTIMS_CODE": "Victims' Code rights and duties implicated.",
+          "DPA_GDPR": "UK GDPR / DPA 2018 duties and limits implicated.",
+          "RECORDS_AUDIT": "Records management & audit trail duties implicated.",
+          "WELFARE_CHECK": "An attended welfare visit/check and its recording/aftercare obligations.",
+          "DISSOCIATION_EFFECT": "Psychological disconnection caused by procedural neglect and reputational handling.",
+          "INSTITUTIONAL_FAMILIARITY": "Frontline acknowledgement of a recurring pattern/figure (e.g., 'Duffy’s tricks').",
+          "IMMINENT_RISK_STATEMENT": "Explicit statement of life-threatening risk made to 101/999 requiring escalation.",
+          "SUICIDAL_DISCLOSURE_ACKNOWLEDGED": "A communication explicitly acknowledges suicidal disclosure.",
+          "NO_ACTIVE_ESCALATION": "No immediate safeguarding escalation evident; responsibility delegated back to victim.",
+          "SAFEGUARDING_DUTY_FAILED": "Safeguarding duty not met in the circumstances.",
+          "TRAUMA_UNADDRESSED": "Emotional/psychological risk acknowledged without meaningful support or action.",
+          "LATE_INTERVENTION_AFTER_SUICIDE": "Safeguarding/police attendance occurring long after a suicide attempt or disclosure.",
+          "DAMAGE_CONTROL_VISIT": "Attendance aligned with reputational risk rather than immediate safeguarding.",
+          "INSTITUTIONAL_GASLIGHTING": "Claimed lack of knowledge despite institutional awareness; reframing away from accountability.",
+          "FORCED_NARRATIVE_RESET": "Visit reframed as 'support' to reset/avoid criminal accountability trail."
+        },
+        "sections": [
+          {
+            "id": "1",
+            "title": "Complainant’s Foreword",
+            "series_key": "sec1_foreword",
+            "parts": [
+              {
+                "part": 1,
+                "entries": [
+                  {
+                    "text": "This complaint arises from repeated safeguarding failures and institutional silence following my first plea for help ('Police, please.') and the loss of a loved one that compels meticulous documentation.",
+                    "vex_tags": [
+                      "SAFEGUARDING_FAILURE",
+                      "DEATH_BY_SILENCE",
+                      "ONUS_PROBANDI_LOGIC",
+                      "VICTIMS_CODE"
+                    ],
+                    "contradictions": [
+                      "DEATH_BY_SILENCE"
+                    ],
+                    "timeline_hooks": [
+                      "PersonalEvidence"
+                    ],
+                    "legal_refs": [
+                      "VictimsCode"
+                    ],
+                    "evidence_refs": [
+                      "SUBMISSION_2024-07-21_PolicePlease_Cover.txt"
+                    ],
+                    "emotional_tone": "resolute",
+                    "undated_flag": false,
+                    "metrics": {}
+                  },
+                  {
+                    "text": "The purpose of this file is to create a transparent record others can test, not a narrative advantage.",
+                    "vex_tags": [
+                      "ONUS_PROBANDI_LOGIC",
+                      "RECORDS_AUDIT"
+                    ],
+                    "contradictions": [],
+                    "timeline_hooks": [
+                      "PersonalEvidence"
+                    ],
+                    "legal_refs": [
+                      "Records_Management"
+                    ],
+                    "evidence_refs": [],
+                    "emotional_tone": "determined",
+                    "undated_flag": false,
+                    "metrics": {}
+                  }
+                ],
+                "delta_findings": []
+              }
+            ]
+          },
+          {
+            "id": "2",
+            "title": "The Core Complaint & Timeline of Failures",
+            "series_key": "sec2_core",
+            "parts": [
+              {
+                "part": 1,
+                "entries": [
+                  {
+                    "text": "Safeguarding breached; evidence mishandled; suicide risk not consistently logged; institutional minimisation; potential misconduct in public office.",
+                    "vex_tags": [
+                      "SAFEGUARDING_FAILURE",
+                      "EVIDENCE_SUPPRESSION",
+                      "TIMELINE_MANIPULATION",
+                      "VICTIMS_CODE"
+                    ],
+                    "contradictions": [],
+                    "timeline_hooks": [
+                      "SussexPolice"
+                    ],
+                    "legal_refs": [
+                      "VictimsCode"
+                    ],
+                    "evidence_refs": [],
+                    "emotional_tone": "determined",
+                    "undated_flag": false,
+                    "metrics": {}
+                  },
+                  {
+                    "text": "24 Jul–Nov 2024: Early report dismissed; 7 Nov 2024 note states key audio was 'listened to & deleted'.",
+                    "vex_tags": [
+                      "EVIDENCE_SUPPRESSION",
+                      "RECORDING_HANDLING",
+                      "RECORDS_AUDIT"
+                    ],
+                    "contradictions": [
+                      "LOST_EVIDENCE_SUSSEX_POLICE"
+                    ],
+                    "timeline_hooks": [
+                      "SussexPolice"
+                    ],
+                    "legal_refs": [],
+                    "evidence_refs": [
+                      "EVID_2024-07-XX_July_Call.mp3",
+                      "LOG_2024-11-07_Dixon_listened_deleted.txt"
+                    ],
+                    "emotional_tone": "determined",
+                    "undated_flag": false,
+                    "metrics": {}
+                  },
+                  {
+                    "text": "12 Feb–Mar 2025: Bail-confirmation period includes an unredacted internal forward and a flat visit without BWV.",
+                    "vex_tags": [
+                      "GDPR_ACCESS_REFUSAL",
+                      "RECORDS_AUDIT"
+                    ],
+                    "contradictions": [],
+                    "timeline_hooks": [
+                      "SussexPolice"
+                    ],
+                    "legal_refs": [
+                      "DPA_GDPR"
+                    ],
+                    "evidence_refs": [
+                      "EMAIL_2025-02-12_Bail_confirm_forward_unredacted.eml"
+                    ],
+                    "emotional_tone": "determined",
+                    "undated_flag": false,
+                    "metrics": {}
+                  },
+                  {
+                    "text": "22 Apr 2025: Procedural inversion portrays lawful conduct as suspect; 27 Apr 2025 NFA-style message sent to suspect prior to safeguarding meeting.",
+                    "vex_tags": [
+                      "TIMELINE_MANIPULATION",
+                      "NFA_PREMATURE_COMMUNICATION",
+                      "DEATH_BY_SILENCE"
+                    ],
+                    "contradictions": [
+                      "DEATH_BY_SILENCE"
+                    ],
+                    "timeline_hooks": [
+                      "SussexPolice"
+                    ],
+                    "legal_refs": [],
+                    "evidence_refs": [
+                      "EMAIL_2025-04-22_Procedural_Inversion.txt",
+                      "EMAIL_2025-04-27_NFA_to_Suspect_prior_meeting.eml"
+                    ],
+                    "emotional_tone": "determined",
+                    "undated_flag": false,
+                    "metrics": {}
+                  },
+                  {
+                    "text": "Apr–Jun 2025: Suicide attempt not properly logged; post-closure SAR refused on 25 Jun 2025.",
+                    "vex_tags": [
+                      "SAFEGUARDING_FAILURE",
+                      "GDPR_ACCESS_REFUSAL",
+                      "VICTIMS_CODE"
+                    ],
+                    "contradictions": [
+                      "CROWBARRING_MYSELF_JUSTICE",
+                      "DEATH_BY_SILENCE"
+                    ],
+                    "timeline_hooks": [
+                      "SussexPolice",
+                      "PersonalEvidence"
+                    ],
+                    "legal_refs": [
+                      "VictimsCode",
+                      "DPA_GDPR"
+                    ],
+                    "evidence_refs": [
+                      "NOTE_2025-04-06_Suicide_Attempt.txt",
+                      "SAR_2025-06-25_Refusal_After_Closure.pdf"
+                    ],
+                    "emotional_tone": "determined",
+                    "undated_flag": false,
+                    "metrics": {}
+                  },
+                  {
+                    "text": "Brighton Fringe May–Jun 2025: safeguarding disclosures unmet; retaliatory narrative and minutes withheld pending unilateral approval.",
+                    "vex_tags": [
+                      "SAFEGUARDING_FAILURE",
+                      "GOVERNANCE_FAILURE",
+                      "REPUTATIONAL_HARM"
+                    ],
+                    "contradictions": [],
+                    "timeline_hooks": [
+                      "BrightonFringe"
+                    ],
+                    "legal_refs": [],
+                    "evidence_refs": [
+                      "EMAIL_2025-07-20_BF_Minutes_Refusal.eml"
+                    ],
+                    "emotional_tone": "determined",
+                    "undated_flag": false,
+                    "metrics": {}
+                  }
+                ],
+                "delta_findings": []
+              }
+            ]
+          },
+          {
+            "id": "3",
+            "title": "Investigation & Findings",
+            "series_key": "sec3_investigation",
+            "parts": [
+              {
+                "part": 1,
+                "subsections": [
+                  {
+                    "id": "3.1",
+                    "title": "From Victim to Investigator: A Case Study in Forced Self‑Advocacy",
+                    "entries": [
+                      {
+                        "text": "After repeated safeguarding and disclosure failures, I assumed investigative functions to preserve and present evidence others should have logged and acted upon.",
+                        "vex_tags": [
+                          "SAFEGUARDING_FAILURE",
+                          "ONUS_PROBANDI_LOGIC",
+                          "RECORDS_AUDIT"
+                        ],
+                        "contradictions": [],
+                        "timeline_hooks": [
+                          "PersonalEvidence"
+                        ],
+                        "legal_refs": [],
+                        "evidence_refs": [
+                          "EVID_2024-07-XX_July_Call.mp3",
+                          "TRANSCRIPT_2025-04-11_101_Crowbarring_Myself_Justice_(1..3).txt"
+                        ],
+                        "emotional_tone": "determined",
+                        "undated_flag": false,
+                        "metrics": {}
+                      },
+                      {
+                        "text": "Structured three interlinked chronologies to locate contradictions and test institutional narratives against dated artefacts.",
+                        "vex_tags": [
+                          "TIMELINE_MANIPULATION",
+                          "RECORDS_AUDIT"
+                        ],
+                        "contradictions": [],
+                        "timeline_hooks": [
+                          "SussexPolice",
+                          "BrightonFringe",
+                          "PersonalEvidence"
+                        ],
+                        "legal_refs": [],
+                        "evidence_refs": [],
+                        "emotional_tone": "determined",
+                        "undated_flag": false,
+                        "metrics": {}
+                      },
+                      {
+                        "text": "Prejudicial information asymmetry documented: suspect informed of outcomes while safeguarding meetings were pending or incomplete.",
+                        "vex_tags": [
+                          "NFA_PREMATURE_COMMUNICATION",
+                          "DEATH_BY_SILENCE"
+                        ],
+                        "contradictions": [],
+                        "timeline_hooks": [
+                          "SussexPolice"
+                        ],
+                        "legal_refs": [],
+                        "evidence_refs": [
+                          "EMAIL_2025-04-27_NFA_to_Suspect_prior_meeting.eml"
+                        ],
+                        "emotional_tone": "determined",
+                        "undated_flag": false,
+                        "metrics": {}
+                      },
+                      {
+                        "text": "Post-closure SAR refusal demonstrates data-rights obstruction after the reason for initial exemptions had expired.",
+                        "vex_tags": [
+                          "GDPR_ACCESS_REFUSAL",
+                          "DPA_GDPR"
+                        ],
+                        "contradictions": [],
+                        "timeline_hooks": [
+                          "SussexPolice"
+                        ],
+                        "legal_refs": [
+                          "DPA_GDPR"
+                        ],
+                        "evidence_refs": [
+                          "SAR_2025-06-25_Refusal_After_Closure.pdf"
+                        ],
+                        "emotional_tone": "determined",
+                        "undated_flag": false,
+                        "metrics": {}
+                      }
+                    ],
+                    "delta_findings": []
+                  },
+                  {
+                    "id": "3.2",
+                    "title": "Chain‑of‑Custody & the July Call: What the Logs Must Show",
+                    "entries": [
+                      {
+                        "text": "Audit trail must reveal ingest, access, and any deletion authorisation for the July call(s).",
+                        "vex_tags": [
+                          "RECORDING_HANDLING",
+                          "EVIDENCE_SUPPRESSION",
+                          "RECORDS_AUDIT"
+                        ],
+                        "contradictions": [
+                          "LOST_EVIDENCE_SUSSEX_POLICE"
+                        ],
+                        "timeline_hooks": [],
+                        "legal_refs": [],
+                        "evidence_refs": [
+                          "EVID_2024-07-XX_July_Call.mp3",
+                          "LOG_2024-11-07_Dixon_listened_deleted.txt"
+                        ],
+                        "emotional_tone": "determined",
+                        "undated_flag": false,
+                        "metrics": {}
+                      }
+                    ],
+                    "delta_findings": []
+                  },
+                  {
+                    "id": "3.3",
+                    "title": "The Silence Ladder: Each Non‑Reply Increases Harm",
+                    "entries": [
+                      {
+                        "text": "Each unanswered safeguarding contact adds harm and legal exposure; quantify elapsed days, missed opportunities, and escalation points.",
+                        "vex_tags": [
+                          "DEATH_BY_SILENCE",
+                          "SAFEGUARDING_FAILURE"
+                        ],
+                        "contradictions": [],
+                        "timeline_hooks": [
+                          "SussexPolice"
+                        ],
+                        "legal_refs": [],
+                        "evidence_refs": [],
+                        "emotional_tone": "determined",
+                        "undated_flag": false,
+                        "metrics": {
+                          "elapsed_days": null,
+                          "unanswered_contacts": null
+                        }
+                      }
+                    ],
+                    "delta_findings": []
+                  },
+                  {
+                    "id": "3.4",
+                    "title": "Case Start Date Contortions: A Timeline Integrity Test",
+                    "entries": [
+                      {
+                        "text": "Resolve conflicting 'case start' narratives by comparing first-record creation, first action, and external confirmations (e.g., Veritas liaison).",
+                        "vex_tags": [
+                          "TIMELINE_MANIPULATION",
+                          "RECORDS_AUDIT"
+                        ],
+                        "contradictions": [],
+                        "timeline_hooks": [
+                          "SussexPolice"
+                        ],
+                        "legal_refs": [],
+                        "evidence_refs": [
+                          "WhatsApp_A09_PC_Dixon_export.txt",
+                          "Veritas_A10_EmmaJones_export.txt"
+                        ],
+                        "emotional_tone": "determined",
+                        "undated_flag": false,
+                        "metrics": {}
+                      }
+                    ],
+                    "delta_findings": []
+                  },
+                  {
+                    "id": "3.5",
+                    "title": "NFA Before Safeguarding: Decision Path Audit",
+                    "entries": [
+                      {
+                        "text": "Assess whether 27 Apr 2025 communication to the suspect pre‑empted safeguarding and due process; identify decision‑makers and rationale.",
+                        "vex_tags": [
+                          "NFA_PREMATURE_COMMUNICATION",
+                          "SAFEGUARDING_FAILURE"
+                        ],
+                        "contradictions": [],
+                        "timeline_hooks": [
+                          "SussexPolice"
+                        ],
+                        "legal_refs": [],
+                        "evidence_refs": [
+                          "EMAIL_2025-04-27_NFA_to_Suspect_prior_meeting.eml"
+                        ],
+                        "emotional_tone": "determined",
+                        "undated_flag": false,
+                        "metrics": {}
+                      }
+                    ],
+                    "delta_findings": []
+                  },
+                  {
+                    "id": "3.6",
+                    "title": "Data Rights Blocked and Bent: SAR Handling After Closure",
+                    "entries": [
+                      {
+                        "text": "Re‑evaluate SAR refusals post‑closure and require specific lawful bases for any ongoing withholding.",
+                        "vex_tags": [
+                          "GDPR_ACCESS_REFUSAL",
+                          "DPA_GDPR"
+                        ],
+                        "contradictions": [],
+                        "timeline_hooks": [
+                          "SussexPolice"
+                        ],
+                        "legal_refs": [
+                          "DPA_GDPR"
+                        ],
+                        "evidence_refs": [
+                          "SAR_2025-06-25_Refusal_After_Closure.pdf"
+                        ],
+                        "emotional_tone": "determined",
+                        "undated_flag": false,
+                        "metrics": {}
+                      }
+                    ],
+                    "delta_findings": []
+                  },
+                  {
+                    "id": "3.7",
+                    "title": "External Confirmations: Third‑Party Anchors",
+                    "entries": [
+                      {
+                        "text": "Corroborate internal narratives with third‑party logs and notes, including ambulance call and support‑service liaison.",
+                        "vex_tags": [
+                          "RECORDS_AUDIT"
+                        ],
+                        "contradictions": [],
+                        "timeline_hooks": [
+                          "PersonalEvidence",
+                          "SussexPolice"
+                        ],
+                        "legal_refs": [],
+                        "evidence_refs": [
+                          "AMBULANCE_2025-05-27_1758_Call_Transcript.txt",
+                          "Veritas_A10_EmmaJones_export.txt"
+                        ],
+                        "emotional_tone": "determined",
+                        "undated_flag": false,
+                        "metrics": {}
+                      }
+                    ],
+                    "delta_findings": []
+                  },
+                  {
+                    "id": "3.8",
+                    "title": "Brighton Fringe: Safeguarding Evasion & Retaliatory Narrative",
+                    "entries": [
+                      {
+                        "text": "Track selective minutes and safeguarding non‑response; map decision points to governance duties.",
+                        "vex_tags": [
+                          "GOVERNANCE_FAILURE",
+                          "SAFEGUARDING_FAILURE",
+                          "REPUTATIONAL_HARM"
+                        ],
+                        "contradictions": [],
+                        "timeline_hooks": [
+                          "BrightonFringe"
+                        ],
+                        "legal_refs": [],
+                        "evidence_refs": [
+                          "EMAIL_2025-07-20_BF_Minutes_Refusal.eml"
+                        ],
+                        "emotional_tone": "determined",
+                        "undated_flag": false,
+                        "metrics": {}
+                      }
+                    ],
+                    "delta_findings": []
+                  },
+                  {
+                    "id": "3.9",
+                    "title": "What Independent Review Should Do Now",
+                    "entries": [
+                      {
+                        "text": "Produce audit logs, correct records, re‑review outcomes with complete evidence, and implement safeguarding remediation.",
+                        "vex_tags": [
+                          "RECORDS_AUDIT",
+                          "VICTIMS_CODE"
+                        ],
+                        "contradictions": [],
+                        "timeline_hooks": [
+                          "SussexPolice",
+                          "PersonalEvidence"
+                        ],
+                        "legal_refs": [],
+                        "evidence_refs": [],
+                        "emotional_tone": "determined",
+                        "undated_flag": false,
+                        "metrics": {}
+                      }
+                    ],
+                    "delta_findings": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "C2",
+            "title": "Coercion Becomes a Dance (Chapter)",
+            "series_key": "chapter_coercion_dance",
+            "parts": [
+              {
+                "part": 1,
+                "entries": [
+                  {
+                    "text": "After the welfare check, responses moved from people to reputation: stall → inversion → silence; outcomes routed elsewhere.",
+                    "vex_tags": [
+                      "DEATH_BY_SILENCE",
+                      "SAFEGUARDING_FAILURE",
+                      "REPUTATIONAL_HARM",
+                      "WELFARE_CHECK",
+                      "DISSOCIATION_EFFECT"
+                    ],
+                    "contradictions": [
+                      "DEATH_BY_SILENCE"
+                    ],
+                    "timeline_hooks": [
+                      "SussexPolice",
+                      "PersonalEvidence"
+                    ],
+                    "legal_refs": [],
+                    "evidence_refs": [
+                      "WELFARE_CHECK_RECORD_DATE_TBC.txt",
+                      "TRANSCRIPT_2025-04-11_101_Crowbarring_Myself_Justice_(1..3).txt",
+                      "AMBULANCE_2025-05-27_1758_Call_Transcript.txt",
+                      "VOICEMAIL_2025-05-27_101_Suicide_Acknowledged.mp3",
+                      "101_2025-06-22_Monologue_Transcript.txt",
+                      "EMAIL_2025-04-27_NFA_to_Suspect_prior_meeting.eml",
+                      "WhatsApp_A09_PC_Dixon_export.txt",
+                      "SAR_2025-06-25_Refusal_After_Closure.pdf"
+                    ],
+                    "emotional_tone": "determined",
+                    "undated_flag": true,
+                    "metrics": {}
+                  },
+                  {
+                    "text": "Compute Δt from each duty-trigger to first substantive response; the harm function H(t) grows with delay.",
+                    "vex_tags": [
+                      "DEATH_BY_SILENCE",
+                      "SAFEGUARDING_FAILURE"
+                    ],
+                    "contradictions": [],
+                    "timeline_hooks": [
+                      "Death By Silence"
+                    ],
+                    "legal_refs": [],
+                    "evidence_refs": [],
+                    "emotional_tone": "determined",
+                    "undated_flag": false,
+                    "metrics": {
+                      "delta_t_days": null,
+                      "unanswered_contacts": null
+                    }
+                  }
+                ],
+                "delta_findings": []
+              },
+              {
+                "part": 2,
+                "entries": [
+                  {
+                    "text": "Follow‑up attendance with recognition of 'Duffy’s tricks' and an imminent‑risk statement to 101; safeguarding escalation still required self‑triage.",
+                    "vex_tags": [
+                      "WELFARE_CHECK",
+                      "DEATH_BY_SILENCE",
+                      "SAFEGUARDING_FAILURE",
+                      "INSTITUTIONAL_FAMILIARITY",
+                      "IMMINENT_RISK_STATEMENT",
+                      "REPUTATIONAL_HARM"
+                    ],
+                    "contradictions": [
+                      "DEATH_BY_SILENCE"
+                    ],
+                    "timeline_hooks": [
+                      "SussexPolice"
+                    ],
+                    "legal_refs": [],
+                    "evidence_refs": [
+                      "CAD_FOLLOWUP_VISIT_DATE_TBC.txt",
+                      "101_CALL_Imminent_Risk_LINE_timestamp_TBC.txt"
+                    ],
+                    "emotional_tone": "wry",
+                    "undated_flag": true,
+                    "metrics": {}
+                  }
+                ],
+                "delta_findings": []
+              }
+            ]
+          },
+          {
+            "id": "E1",
+            "title": "Evidence Inserts",
+            "series_key": "evidence_inserts",
+            "parts": [
+              {
+                "part": 1,
+                "entries": [
+                  {
+                    "text": "Police voicemail (27 May 2025, 18:19) acknowledges suicidality but delegates contact back to victim; no immediate escalation recorded.",
+                    "vex_tags": [
+                      "SUICIDAL_DISCLOSURE_ACKNOWLEDGED",
+                      "NO_ACTIVE_ESCALATION",
+                      "SAFEGUARDING_DUTY_FAILED",
+                      "TRAUMA_UNADDRESSED",
+                      "DEATH_BY_SILENCE"
+                    ],
+                    "contradictions": [
+                      "CROWBARRING_MYSELF_JUSTICE",
+                      "DEATH_BY_SILENCE",
+                      "They Saw, Paused, Reflected — and Chose Death"
+                    ],
+                    "timeline_hooks": [
+                      "SussexPolice",
+                      "Death By Silence"
+                    ],
+                    "legal_refs": [
+                      "Care Act 2014 s.42",
+                      "Victims' Code",
+                      "College of Policing – Suicidal Risk"
+                    ],
+                    "evidence_refs": [
+                      "EVID_2025-05-27_1819_Police_Voicemail_Suicide_Risk_Acknowledged.json",
+                      "IMG_2454.PNG",
+                      "27 May 2025 18.19 Sussex Police Voicemail.m4a"
+                    ],
+                    "emotional_tone": "matter_of_fact",
+                    "undated_flag": false,
+                    "metrics": {
+                      "datetime": "2025-05-27T18:19:00Z"
+                    }
+                  },
+                  {
+                    "text": "Welfare check (17 May 2025, 17:33) by Amy (EA734) & Sam (EA820): unannounced; unfamiliar with case; framed as support. 41 days after suicide attempt; 20 days after MEAC/MASH discussion.",
+                    "vex_tags": [
+                      "WELFARE_CHECK",
+                      "LATE_INTERVENTION_AFTER_SUICIDE",
+                      "DAMAGE_CONTROL_VISIT",
+                      "INSTITUTIONAL_GASLIGHTING",
+                      "FORCED_NARRATIVE_RESET",
+                      "DEATH_BY_SILENCE"
+                    ],
+                    "contradictions": [
+                      "They Saw, Paused, Reflected — and Chose Death",
+                      "CROWBARRING_MYSELF_JUSTICE"
+                    ],
+                    "timeline_hooks": [
+                      "SussexPolice",
+                      "Death By Silence"
+                    ],
+                    "legal_refs": [
+                      "Care Act 2014 s.42",
+                      "Victims' Code",
+                      "College of Policing — Suicidal Risk"
+                    ],
+                    "evidence_refs": [
+                      "EVID_2025-05-17_1733_Welfare_Check_SussexPolice.json",
+                      "Covert Welfare Check as Damage Control_ Sussex Police Turn Up Unexpectedly (17 May 2025, 17_33).txt"
+                    ],
+                    "emotional_tone": "matter_of_fact",
+                    "undated_flag": false,
+                    "metrics": {
+                      "days_since_suicide_attempt": 41,
+                      "days_since_meeting": 20
+                    }
+                  }
+                ],
+                "delta_findings": []
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "source": "VEX_UNDERCOVER_VICTIM_BUNDLE_v1.8.json",
+      "payload": {
+        "meta": {
+          "name": "VEX_UNDERCOVER_VICTIM_BUNDLE",
+          "version": "v1",
+          "generated_utc": "2025-08-26T04:34:18.468422Z",
+          "source_priority": [
+            "Master Complaint.txt",
+            "Section 2_ The Core Complaint & Timeline of Failure.docx.txt",
+            "01_ Complainant’s Foreword.txt"
+          ],
+          "case_references": [
+            "47240141246",
+            "47240214305",
+            "CIT1201684"
+          ],
+          "series_title": "The Undercover Victim",
+          "updated_utc": "2025-08-26T05:58:34.708000Z",
+          "notes": [
+            "Merged VEX_PATCH_Coercion_Dance_v1 into bundle; base=/mnt/data/VEX_UNDERCOVER_VICTIM_BUNDLE_v1.json.",
+            "Merged C2 Part 2 from VEX_PATCH_Coercion_Dance_Part2_v1 (base=/mnt/data/VEX_UNDERCOVER_VICTIM_BUNDLE_v1.2.json).",
+            "Merged evidence voicemail 2025-05-27 18:19; base=/mnt/data/VEX_UNDERCOVER_VICTIM_BUNDLE_v1.3.json.",
+            "Added welfare check evidence (17 May 2025 17:33); base=/mnt/data/VEX_UNDERCOVER_VICTIM_BUNDLE_v1.4.json.",
+            "Added PC Clarke welfare-texts evidence; base=/mnt/data/VEX_UNDERCOVER_VICTIM_BUNDLE_v1.5.json.",
+            "Added May 9 Resolve Note evidence; base=/mnt/data/VEX_UNDERCOVER_VICTIM_BUNDLE_v1.6.json.",
+            "Extended tag legend with one-liner themes; merged 17 new quotes into bank (UNDERCOVER_VICTIM_QUOTE_BANK_v1.json)."
+          ]
+        },
+        "tag_legend": {
+          "SAFEGUARDING_FAILURE": "Safeguarding steps missed or delayed despite risk disclosures.",
+          "EVIDENCE_SUPPRESSION": "Evidence ignored, sidelined, or mishandled (incl. deletion).",
+          "GDPR_ACCESS_REFUSAL": "Personal data access blocked without specific, lawful basis.",
+          "RECORDING_HANDLING": "Issues around logging, retention, deletion, or audit of audio/records.",
+          "NFA_PREMATURE_COMMUNICATION": "Outcome-style messaging to suspect prior to safeguarding or completion.",
+          "DEATH_BY_SILENCE": "Escalating harm caused by non-response or delay.",
+          "TIMELINE_MANIPULATION": "Conflicting dates, back-dating, or reframing that alters chronology.",
+          "REPUTATIONAL_HARM": "Narrative/brand damage, public standing affected.",
+          "ONUS_PROBANDI_LOGIC": "Burden-of-proof / evidence standards explicitly engaged.",
+          "GOVERNANCE_FAILURE": "Organisational governance or charity-law failure indicators.",
+          "VICTIMS_CODE": "Victims' Code rights and duties implicated.",
+          "DPA_GDPR": "UK GDPR / DPA 2018 duties and limits implicated.",
+          "RECORDS_AUDIT": "Records management & audit trail duties implicated.",
+          "WELFARE_CHECK": "An attended welfare visit/check and its recording/aftercare obligations.",
+          "DISSOCIATION_EFFECT": "Psychological disconnection caused by procedural neglect and reputational handling.",
+          "INSTITUTIONAL_FAMILIARITY": "Frontline acknowledgement of a recurring pattern/figure (e.g., 'Duffy’s tricks').",
+          "IMMINENT_RISK_STATEMENT": "Explicit statement of life-threatening risk made to 101/999 requiring escalation.",
+          "SUICIDAL_DISCLOSURE_ACKNOWLEDGED": "A communication explicitly acknowledges suicidal disclosure.",
+          "NO_ACTIVE_ESCALATION": "No immediate safeguarding escalation evident; responsibility delegated back to victim.",
+          "SAFEGUARDING_DUTY_FAILED": "Safeguarding duty not met in the circumstances.",
+          "TRAUMA_UNADDRESSED": "Emotional/psychological risk acknowledged without meaningful support or action.",
+          "LATE_INTERVENTION_AFTER_SUICIDE": "Safeguarding/police attendance occurring long after a suicide attempt or disclosure.",
+          "DAMAGE_CONTROL_VISIT": "Attendance aligned with reputational risk rather than immediate safeguarding.",
+          "INSTITUTIONAL_GASLIGHTING": "Claimed lack of knowledge despite institutional awareness; reframing away from accountability.",
+          "FORCED_NARRATIVE_RESET": "Visit reframed as 'support' to reset/avoid criminal accountability trail.",
+          "CONCERN_FOR_WELFARE_PRETEXT": "‘Concern for your welfare’ language used without prior case engagement/ownership to justify unannounced attendance.",
+          "NO_CASE_OWNERSHIP": "No identified, accountable officer; contact defers to unspecified colleagues.",
+          "SUICIDE_ATTEMPT_RECENT": "Reference to a recent suicide attempt sets elevated safeguarding context.",
+          "RESOLVE_AFTER_ATTEMPT": "Explicit resolve/intent following an attempt or crisis.",
+          "SELF_DOCUMENTATION_MODE": "Author enters intensive, systematic documentation to survive and prove.",
+          "END_GOAL_DECLARATION": "Statement of ultimate aim of the record.",
+          "HARROWING_STATE": "Psychological state descriptors showing severity.",
+          "SURVIVAL_TACTIC": "Statements/actions framed as survival rather than preference.",
+          "VOICE_SUPPRESSION": "Institutional or reputational pressure aimed at silencing or marginalising the victim’s account.",
+          "ORIGIN_PROPHECY": "Origin phrase that later proves accurate (‘Police, please’ as prophetic).",
+          "CREATE_RECORD": "Deliberate creation of records to counter silence.",
+          "SYSTEM_WIRED_WRONG": "Systemic design fault acknowledged in narrative or findings.",
+          "MORTAL_RISK_STATEMENT": "Rhetorical or explicit contemplation of death/closure dynamics.",
+          "CHIEF_INVESTIGATOR": "Victim forced into roles of investigator/auditor/archivist.",
+          "ESCALATION_IOPC": "Formal escalation to IOPC/oversight body.",
+          "MISCONDUCT_PATTERN": "Pattern-of-misconduct identification across events or personnel.",
+          "BRIGHTON_FRINGE_COMPLEXITY": "Complex and contradictory interactions with Brighton Fringe.",
+          "RESILIENCE_EVIDENCE": "Evidence quality arising from resilience under failure.",
+          "SYSTEMIC_FAILURE": "Failure attributable to system design rather than individuals."
+        },
+        "sections": [
+          {
+            "id": "1",
+            "title": "Complainant’s Foreword",
+            "series_key": "sec1_foreword",
+            "parts": [
+              {
+                "part": 1,
+                "entries": [
+                  {
+                    "text": "This complaint arises from repeated safeguarding failures and institutional silence following my first plea for help ('Police, please.') and the loss of a loved one that compels meticulous documentation.",
+                    "vex_tags": [
+                      "SAFEGUARDING_FAILURE",
+                      "DEATH_BY_SILENCE",
+                      "ONUS_PROBANDI_LOGIC",
+                      "VICTIMS_CODE"
+                    ],
+                    "contradictions": [
+                      "DEATH_BY_SILENCE"
+                    ],
+                    "timeline_hooks": [
+                      "PersonalEvidence"
+                    ],
+                    "legal_refs": [
+                      "VictimsCode"
+                    ],
+                    "evidence_refs": [
+                      "SUBMISSION_2024-07-21_PolicePlease_Cover.txt"
+                    ],
+                    "emotional_tone": "resolute",
+                    "undated_flag": false,
+                    "metrics": {}
+                  },
+                  {
+                    "text": "The purpose of this file is to create a transparent record others can test, not a narrative advantage.",
+                    "vex_tags": [
+                      "ONUS_PROBANDI_LOGIC",
+                      "RECORDS_AUDIT"
+                    ],
+                    "contradictions": [],
+                    "timeline_hooks": [
+                      "PersonalEvidence"
+                    ],
+                    "legal_refs": [
+                      "Records_Management"
+                    ],
+                    "evidence_refs": [],
+                    "emotional_tone": "determined",
+                    "undated_flag": false,
+                    "metrics": {}
+                  }
+                ],
+                "delta_findings": []
+              }
+            ]
+          },
+          {
+            "id": "2",
+            "title": "The Core Complaint & Timeline of Failures",
+            "series_key": "sec2_core",
+            "parts": [
+              {
+                "part": 1,
+                "entries": [
+                  {
+                    "text": "Safeguarding breached; evidence mishandled; suicide risk not consistently logged; institutional minimisation; potential misconduct in public office.",
+                    "vex_tags": [
+                      "SAFEGUARDING_FAILURE",
+                      "EVIDENCE_SUPPRESSION",
+                      "TIMELINE_MANIPULATION",
+                      "VICTIMS_CODE"
+                    ],
+                    "contradictions": [],
+                    "timeline_hooks": [
+                      "SussexPolice"
+                    ],
+                    "legal_refs": [
+                      "VictimsCode"
+                    ],
+                    "evidence_refs": [],
+                    "emotional_tone": "determined",
+                    "undated_flag": false,
+                    "metrics": {}
+                  },
+                  {
+                    "text": "24 Jul–Nov 2024: Early report dismissed; 7 Nov 2024 note states key audio was 'listened to & deleted'.",
+                    "vex_tags": [
+                      "EVIDENCE_SUPPRESSION",
+                      "RECORDING_HANDLING",
+                      "RECORDS_AUDIT"
+                    ],
+                    "contradictions": [
+                      "LOST_EVIDENCE_SUSSEX_POLICE"
+                    ],
+                    "timeline_hooks": [
+                      "SussexPolice"
+                    ],
+                    "legal_refs": [],
+                    "evidence_refs": [
+                      "EVID_2024-07-XX_July_Call.mp3",
+                      "LOG_2024-11-07_Dixon_listened_deleted.txt"
+                    ],
+                    "emotional_tone": "determined",
+                    "undated_flag": false,
+                    "metrics": {}
+                  },
+                  {
+                    "text": "12 Feb–Mar 2025: Bail-confirmation period includes an unredacted internal forward and a flat visit without BWV.",
+                    "vex_tags": [
+                      "GDPR_ACCESS_REFUSAL",
+                      "RECORDS_AUDIT"
+                    ],
+                    "contradictions": [],
+                    "timeline_hooks": [
+                      "SussexPolice"
+                    ],
+                    "legal_refs": [
+                      "DPA_GDPR"
+                    ],
+                    "evidence_refs": [
+                      "EMAIL_2025-02-12_Bail_confirm_forward_unredacted.eml"
+                    ],
+                    "emotional_tone": "determined",
+                    "undated_flag": false,
+                    "metrics": {}
+                  },
+                  {
+                    "text": "22 Apr 2025: Procedural inversion portrays lawful conduct as suspect; 27 Apr 2025 NFA-style message sent to suspect prior to safeguarding meeting.",
+                    "vex_tags": [
+                      "TIMELINE_MANIPULATION",
+                      "NFA_PREMATURE_COMMUNICATION",
+                      "DEATH_BY_SILENCE"
+                    ],
+                    "contradictions": [
+                      "DEATH_BY_SILENCE"
+                    ],
+                    "timeline_hooks": [
+                      "SussexPolice"
+                    ],
+                    "legal_refs": [],
+                    "evidence_refs": [
+                      "EMAIL_2025-04-22_Procedural_Inversion.txt",
+                      "EMAIL_2025-04-27_NFA_to_Suspect_prior_meeting.eml"
+                    ],
+                    "emotional_tone": "determined",
+                    "undated_flag": false,
+                    "metrics": {}
+                  },
+                  {
+                    "text": "Apr–Jun 2025: Suicide attempt not properly logged; post-closure SAR refused on 25 Jun 2025.",
+                    "vex_tags": [
+                      "SAFEGUARDING_FAILURE",
+                      "GDPR_ACCESS_REFUSAL",
+                      "VICTIMS_CODE"
+                    ],
+                    "contradictions": [
+                      "CROWBARRING_MYSELF_JUSTICE",
+                      "DEATH_BY_SILENCE"
+                    ],
+                    "timeline_hooks": [
+                      "SussexPolice",
+                      "PersonalEvidence"
+                    ],
+                    "legal_refs": [
+                      "VictimsCode",
+                      "DPA_GDPR"
+                    ],
+                    "evidence_refs": [
+                      "NOTE_2025-04-06_Suicide_Attempt.txt",
+                      "SAR_2025-06-25_Refusal_After_Closure.pdf"
+                    ],
+                    "emotional_tone": "determined",
+                    "undated_flag": false,
+                    "metrics": {}
+                  },
+                  {
+                    "text": "Brighton Fringe May–Jun 2025: safeguarding disclosures unmet; retaliatory narrative and minutes withheld pending unilateral approval.",
+                    "vex_tags": [
+                      "SAFEGUARDING_FAILURE",
+                      "GOVERNANCE_FAILURE",
+                      "REPUTATIONAL_HARM"
+                    ],
+                    "contradictions": [],
+                    "timeline_hooks": [
+                      "BrightonFringe"
+                    ],
+                    "legal_refs": [],
+                    "evidence_refs": [
+                      "EMAIL_2025-07-20_BF_Minutes_Refusal.eml"
+                    ],
+                    "emotional_tone": "determined",
+                    "undated_flag": false,
+                    "metrics": {}
+                  }
+                ],
+                "delta_findings": []
+              }
+            ]
+          },
+          {
+            "id": "3",
+            "title": "Investigation & Findings",
+            "series_key": "sec3_investigation",
+            "parts": [
+              {
+                "part": 1,
+                "subsections": [
+                  {
+                    "id": "3.1",
+                    "title": "From Victim to Investigator: A Case Study in Forced Self‑Advocacy",
+                    "entries": [
+                      {
+                        "text": "After repeated safeguarding and disclosure failures, I assumed investigative functions to preserve and present evidence others should have logged and acted upon.",
+                        "vex_tags": [
+                          "SAFEGUARDING_FAILURE",
+                          "ONUS_PROBANDI_LOGIC",
+                          "RECORDS_AUDIT"
+                        ],
+                        "contradictions": [],
+                        "timeline_hooks": [
+                          "PersonalEvidence"
+                        ],
+                        "legal_refs": [],
+                        "evidence_refs": [
+                          "EVID_2024-07-XX_July_Call.mp3",
+                          "TRANSCRIPT_2025-04-11_101_Crowbarring_Myself_Justice_(1..3).txt"
+                        ],
+                        "emotional_tone": "determined",
+                        "undated_flag": false,
+                        "metrics": {}
+                      },
+                      {
+                        "text": "Structured three interlinked chronologies to locate contradictions and test institutional narratives against dated artefacts.",
+                        "vex_tags": [
+                          "TIMELINE_MANIPULATION",
+                          "RECORDS_AUDIT"
+                        ],
+                        "contradictions": [],
+                        "timeline_hooks": [
+                          "SussexPolice",
+                          "BrightonFringe",
+                          "PersonalEvidence"
+                        ],
+                        "legal_refs": [],
+                        "evidence_refs": [],
+                        "emotional_tone": "determined",
+                        "undated_flag": false,
+                        "metrics": {}
+                      },
+                      {
+                        "text": "Prejudicial information asymmetry documented: suspect informed of outcomes while safeguarding meetings were pending or incomplete.",
+                        "vex_tags": [
+                          "NFA_PREMATURE_COMMUNICATION",
+                          "DEATH_BY_SILENCE"
+                        ],
+                        "contradictions": [],
+                        "timeline_hooks": [
+                          "SussexPolice"
+                        ],
+                        "legal_refs": [],
+                        "evidence_refs": [
+                          "EMAIL_2025-04-27_NFA_to_Suspect_prior_meeting.eml"
+                        ],
+                        "emotional_tone": "determined",
+                        "undated_flag": false,
+                        "metrics": {}
+                      },
+                      {
+                        "text": "Post-closure SAR refusal demonstrates data-rights obstruction after the reason for initial exemptions had expired.",
+                        "vex_tags": [
+                          "GDPR_ACCESS_REFUSAL",
+                          "DPA_GDPR"
+                        ],
+                        "contradictions": [],
+                        "timeline_hooks": [
+                          "SussexPolice"
+                        ],
+                        "legal_refs": [
+                          "DPA_GDPR"
+                        ],
+                        "evidence_refs": [
+                          "SAR_2025-06-25_Refusal_After_Closure.pdf"
+                        ],
+                        "emotional_tone": "determined",
+                        "undated_flag": false,
+                        "metrics": {}
+                      }
+                    ],
+                    "delta_findings": []
+                  },
+                  {
+                    "id": "3.2",
+                    "title": "Chain‑of‑Custody & the July Call: What the Logs Must Show",
+                    "entries": [
+                      {
+                        "text": "Audit trail must reveal ingest, access, and any deletion authorisation for the July call(s).",
+                        "vex_tags": [
+                          "RECORDING_HANDLING",
+                          "EVIDENCE_SUPPRESSION",
+                          "RECORDS_AUDIT"
+                        ],
+                        "contradictions": [
+                          "LOST_EVIDENCE_SUSSEX_POLICE"
+                        ],
+                        "timeline_hooks": [],
+                        "legal_refs": [],
+                        "evidence_refs": [
+                          "EVID_2024-07-XX_July_Call.mp3",
+                          "LOG_2024-11-07_Dixon_listened_deleted.txt"
+                        ],
+                        "emotional_tone": "determined",
+                        "undated_flag": false,
+                        "metrics": {}
+                      }
+                    ],
+                    "delta_findings": []
+                  },
+                  {
+                    "id": "3.3",
+                    "title": "The Silence Ladder: Each Non‑Reply Increases Harm",
+                    "entries": [
+                      {
+                        "text": "Each unanswered safeguarding contact adds harm and legal exposure; quantify elapsed days, missed opportunities, and escalation points.",
+                        "vex_tags": [
+                          "DEATH_BY_SILENCE",
+                          "SAFEGUARDING_FAILURE"
+                        ],
+                        "contradictions": [],
+                        "timeline_hooks": [
+                          "SussexPolice"
+                        ],
+                        "legal_refs": [],
+                        "evidence_refs": [],
+                        "emotional_tone": "determined",
+                        "undated_flag": false,
+                        "metrics": {
+                          "elapsed_days": null,
+                          "unanswered_contacts": null
+                        }
+                      }
+                    ],
+                    "delta_findings": []
+                  },
+                  {
+                    "id": "3.4",
+                    "title": "Case Start Date Contortions: A Timeline Integrity Test",
+                    "entries": [
+                      {
+                        "text": "Resolve conflicting 'case start' narratives by comparing first-record creation, first action, and external confirmations (e.g., Veritas liaison).",
+                        "vex_tags": [
+                          "TIMELINE_MANIPULATION",
+                          "RECORDS_AUDIT"
+                        ],
+                        "contradictions": [],
+                        "timeline_hooks": [
+                          "SussexPolice"
+                        ],
+                        "legal_refs": [],
+                        "evidence_refs": [
+                          "WhatsApp_A09_PC_Dixon_export.txt",
+                          "Veritas_A10_EmmaJones_export.txt"
+                        ],
+                        "emotional_tone": "determined",
+                        "undated_flag": false,
+                        "metrics": {}
+                      }
+                    ],
+                    "delta_findings": []
+                  },
+                  {
+                    "id": "3.5",
+                    "title": "NFA Before Safeguarding: Decision Path Audit",
+                    "entries": [
+                      {
+                        "text": "Assess whether 27 Apr 2025 communication to the suspect pre‑empted safeguarding and due process; identify decision‑makers and rationale.",
+                        "vex_tags": [
+                          "NFA_PREMATURE_COMMUNICATION",
+                          "SAFEGUARDING_FAILURE"
+                        ],
+                        "contradictions": [],
+                        "timeline_hooks": [
+                          "SussexPolice"
+                        ],
+                        "legal_refs": [],
+                        "evidence_refs": [
+                          "EMAIL_2025-04-27_NFA_to_Suspect_prior_meeting.eml"
+                        ],
+                        "emotional_tone": "determined",
+                        "undated_flag": false,
+                        "metrics": {}
+                      }
+                    ],
+                    "delta_findings": []
+                  },
+                  {
+                    "id": "3.6",
+                    "title": "Data Rights Blocked and Bent: SAR Handling After Closure",
+                    "entries": [
+                      {
+                        "text": "Re‑evaluate SAR refusals post‑closure and require specific lawful bases for any ongoing withholding.",
+                        "vex_tags": [
+                          "GDPR_ACCESS_REFUSAL",
+                          "DPA_GDPR"
+                        ],
+                        "contradictions": [],
+                        "timeline_hooks": [
+                          "SussexPolice"
+                        ],
+                        "legal_refs": [
+                          "DPA_GDPR"
+                        ],
+                        "evidence_refs": [
+                          "SAR_2025-06-25_Refusal_After_Closure.pdf"
+                        ],
+                        "emotional_tone": "determined",
+                        "undated_flag": false,
+                        "metrics": {}
+                      }
+                    ],
+                    "delta_findings": []
+                  },
+                  {
+                    "id": "3.7",
+                    "title": "External Confirmations: Third‑Party Anchors",
+                    "entries": [
+                      {
+                        "text": "Corroborate internal narratives with third‑party logs and notes, including ambulance call and support‑service liaison.",
+                        "vex_tags": [
+                          "RECORDS_AUDIT"
+                        ],
+                        "contradictions": [],
+                        "timeline_hooks": [
+                          "PersonalEvidence",
+                          "SussexPolice"
+                        ],
+                        "legal_refs": [],
+                        "evidence_refs": [
+                          "AMBULANCE_2025-05-27_1758_Call_Transcript.txt",
+                          "Veritas_A10_EmmaJones_export.txt"
+                        ],
+                        "emotional_tone": "determined",
+                        "undated_flag": false,
+                        "metrics": {}
+                      }
+                    ],
+                    "delta_findings": []
+                  },
+                  {
+                    "id": "3.8",
+                    "title": "Brighton Fringe: Safeguarding Evasion & Retaliatory Narrative",
+                    "entries": [
+                      {
+                        "text": "Track selective minutes and safeguarding non‑response; map decision points to governance duties.",
+                        "vex_tags": [
+                          "GOVERNANCE_FAILURE",
+                          "SAFEGUARDING_FAILURE",
+                          "REPUTATIONAL_HARM"
+                        ],
+                        "contradictions": [],
+                        "timeline_hooks": [
+                          "BrightonFringe"
+                        ],
+                        "legal_refs": [],
+                        "evidence_refs": [
+                          "EMAIL_2025-07-20_BF_Minutes_Refusal.eml"
+                        ],
+                        "emotional_tone": "determined",
+                        "undated_flag": false,
+                        "metrics": {}
+                      }
+                    ],
+                    "delta_findings": []
+                  },
+                  {
+                    "id": "3.9",
+                    "title": "What Independent Review Should Do Now",
+                    "entries": [
+                      {
+                        "text": "Produce audit logs, correct records, re‑review outcomes with complete evidence, and implement safeguarding remediation.",
+                        "vex_tags": [
+                          "RECORDS_AUDIT",
+                          "VICTIMS_CODE"
+                        ],
+                        "contradictions": [],
+                        "timeline_hooks": [
+                          "SussexPolice",
+                          "PersonalEvidence"
+                        ],
+                        "legal_refs": [],
+                        "evidence_refs": [],
+                        "emotional_tone": "determined",
+                        "undated_flag": false,
+                        "metrics": {}
+                      }
+                    ],
+                    "delta_findings": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "C2",
+            "title": "Coercion Becomes a Dance (Chapter)",
+            "series_key": "chapter_coercion_dance",
+            "parts": [
+              {
+                "part": 1,
+                "entries": [
+                  {
+                    "text": "After the welfare check, responses moved from people to reputation: stall → inversion → silence; outcomes routed elsewhere.",
+                    "vex_tags": [
+                      "DEATH_BY_SILENCE",
+                      "SAFEGUARDING_FAILURE",
+                      "REPUTATIONAL_HARM",
+                      "WELFARE_CHECK",
+                      "DISSOCIATION_EFFECT"
+                    ],
+                    "contradictions": [
+                      "DEATH_BY_SILENCE"
+                    ],
+                    "timeline_hooks": [
+                      "SussexPolice",
+                      "PersonalEvidence"
+                    ],
+                    "legal_refs": [],
+                    "evidence_refs": [
+                      "WELFARE_CHECK_RECORD_DATE_TBC.txt",
+                      "TRANSCRIPT_2025-04-11_101_Crowbarring_Myself_Justice_(1..3).txt",
+                      "AMBULANCE_2025-05-27_1758_Call_Transcript.txt",
+                      "VOICEMAIL_2025-05-27_101_Suicide_Acknowledged.mp3",
+                      "101_2025-06-22_Monologue_Transcript.txt",
+                      "EMAIL_2025-04-27_NFA_to_Suspect_prior_meeting.eml",
+                      "WhatsApp_A09_PC_Dixon_export.txt",
+                      "SAR_2025-06-25_Refusal_After_Closure.pdf"
+                    ],
+                    "emotional_tone": "determined",
+                    "undated_flag": true,
+                    "metrics": {}
+                  },
+                  {
+                    "text": "Compute Δt from each duty-trigger to first substantive response; the harm function H(t) grows with delay.",
+                    "vex_tags": [
+                      "DEATH_BY_SILENCE",
+                      "SAFEGUARDING_FAILURE"
+                    ],
+                    "contradictions": [],
+                    "timeline_hooks": [
+                      "Death By Silence"
+                    ],
+                    "legal_refs": [],
+                    "evidence_refs": [],
+                    "emotional_tone": "determined",
+                    "undated_flag": false,
+                    "metrics": {
+                      "delta_t_days": null,
+                      "unanswered_contacts": null
+                    }
+                  }
+                ],
+                "delta_findings": []
+              },
+              {
+                "part": 2,
+                "entries": [
+                  {
+                    "text": "Follow‑up attendance with recognition of 'Duffy’s tricks' and an imminent‑risk statement to 101; safeguarding escalation still required self‑triage.",
+                    "vex_tags": [
+                      "WELFARE_CHECK",
+                      "DEATH_BY_SILENCE",
+                      "SAFEGUARDING_FAILURE",
+                      "INSTITUTIONAL_FAMILIARITY",
+                      "IMMINENT_RISK_STATEMENT",
+                      "REPUTATIONAL_HARM"
+                    ],
+                    "contradictions": [
+                      "DEATH_BY_SILENCE"
+                    ],
+                    "timeline_hooks": [
+                      "SussexPolice"
+                    ],
+                    "legal_refs": [],
+                    "evidence_refs": [
+                      "CAD_FOLLOWUP_VISIT_DATE_TBC.txt",
+                      "101_CALL_Imminent_Risk_LINE_timestamp_TBC.txt"
+                    ],
+                    "emotional_tone": "wry",
+                    "undated_flag": true,
+                    "metrics": {}
+                  }
+                ],
+                "delta_findings": []
+              }
+            ]
+          },
+          {
+            "id": "E1",
+            "title": "Evidence Inserts",
+            "series_key": "evidence_inserts",
+            "parts": [
+              {
+                "part": 1,
+                "entries": [
+                  {
+                    "text": "Police voicemail (27 May 2025, 18:19) acknowledges suicidality but delegates contact back to victim; no immediate escalation recorded.",
+                    "vex_tags": [
+                      "SUICIDAL_DISCLOSURE_ACKNOWLEDGED",
+                      "NO_ACTIVE_ESCALATION",
+                      "SAFEGUARDING_DUTY_FAILED",
+                      "TRAUMA_UNADDRESSED",
+                      "DEATH_BY_SILENCE"
+                    ],
+                    "contradictions": [
+                      "CROWBARRING_MYSELF_JUSTICE",
+                      "DEATH_BY_SILENCE",
+                      "They Saw, Paused, Reflected — and Chose Death"
+                    ],
+                    "timeline_hooks": [
+                      "SussexPolice",
+                      "Death By Silence"
+                    ],
+                    "legal_refs": [
+                      "Care Act 2014 s.42",
+                      "Victims' Code",
+                      "College of Policing – Suicidal Risk"
+                    ],
+                    "evidence_refs": [
+                      "EVID_2025-05-27_1819_Police_Voicemail_Suicide_Risk_Acknowledged.json",
+                      "IMG_2454.PNG",
+                      "27 May 2025 18.19 Sussex Police Voicemail.m4a"
+                    ],
+                    "emotional_tone": "matter_of_fact",
+                    "undated_flag": false,
+                    "metrics": {
+                      "datetime": "2025-05-27T18:19:00Z"
+                    }
+                  },
+                  {
+                    "text": "Welfare check (17 May 2025, 17:33) by Amy (EA734) & Sam (EA820): unannounced; unfamiliar with case; framed as support. 41 days after suicide attempt; 20 days after MEAC/MASH discussion.",
+                    "vex_tags": [
+                      "WELFARE_CHECK",
+                      "LATE_INTERVENTION_AFTER_SUICIDE",
+                      "DAMAGE_CONTROL_VISIT",
+                      "INSTITUTIONAL_GASLIGHTING",
+                      "FORCED_NARRATIVE_RESET",
+                      "DEATH_BY_SILENCE"
+                    ],
+                    "contradictions": [
+                      "They Saw, Paused, Reflected — and Chose Death",
+                      "CROWBARRING_MYSELF_JUSTICE"
+                    ],
+                    "timeline_hooks": [
+                      "SussexPolice",
+                      "Death By Silence"
+                    ],
+                    "legal_refs": [
+                      "Care Act 2014 s.42",
+                      "Victims' Code",
+                      "College of Policing — Suicidal Risk"
+                    ],
+                    "evidence_refs": [
+                      "EVID_2025-05-17_1733_Welfare_Check_SussexPolice.json",
+                      "Covert Welfare Check as Damage Control_ Sussex Police Turn Up Unexpectedly (17 May 2025, 17_33).txt"
+                    ],
+                    "emotional_tone": "matter_of_fact",
+                    "undated_flag": false,
+                    "metrics": {
+                      "days_since_suicide_attempt": 41,
+                      "days_since_meeting": 20
+                    }
+                  },
+                  {
+                    "text": "PC Clarke welfare-texts sequence (11:56 → 16:17) precedes 17:33 unannounced welfare visit; uses scripted ‘concern for your welfare’ language; no case ownership.",
+                    "vex_tags": [
+                      "WELFARE_CHECK",
+                      "CONCERN_FOR_WELFARE_PRETEXT",
+                      "NO_CASE_OWNERSHIP",
+                      "DAMAGE_CONTROL_VISIT",
+                      "DEATH_BY_SILENCE"
+                    ],
+                    "contradictions": [
+                      "DEATH_BY_SILENCE"
+                    ],
+                    "timeline_hooks": [
+                      "SussexPolice",
+                      "Death By Silence"
+                    ],
+                    "legal_refs": [
+                      "Victims' Code"
+                    ],
+                    "evidence_refs": [
+                      "EVID_2025-05-17_PC_Clarke_Welfare_Pretext.json",
+                      "Pc Clarke - nice try mate.pdf"
+                    ],
+                    "emotional_tone": "matter_of_fact",
+                    "undated_flag": false,
+                    "metrics": {
+                      "pre_to_attendance_minutes": 76
+                    }
+                  },
+                  {
+                    "text": "May 9 Resolve Note sets intent and state one month after the attempt; marks entry into 'self-documentation mode.'",
+                    "vex_tags": [
+                      "SUICIDE_ATTEMPT_RECENT",
+                      "RESOLVE_AFTER_ATTEMPT",
+                      "SELF_DOCUMENTATION_MODE",
+                      "END_GOAL_DECLARATION",
+                      "HARROWING_STATE"
+                    ],
+                    "contradictions": [],
+                    "timeline_hooks": [
+                      "PersonalEvidence"
+                    ],
+                    "legal_refs": [],
+                    "evidence_refs": [
+                      "EVID_2025-05-09_Resolve_Note.json",
+                      "Note_2025-05-09_Raw.txt"
+                    ],
+                    "emotional_tone": "raw",
+                    "undated_flag": false,
+                    "metrics": {
+                      "days_since_2025_04_06_attempt": 33,
+                      "days_to_2025_05_17_welfare": 8,
+                      "days_to_2025_05_27_voicemail": 18
+                    }
+                  }
+                ],
+                "delta_findings": []
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "source": "VEX_2025-06-22_Cherish_Bundle.json",
+      "payload": {
+        "meta": {
+          "title": "Cherish These Moments, Ben — 101 Call Pairing",
+          "date_created": "2025-06-22",
+          "vex_id": "VEX_2025-06-22_Cherish_Bundle",
+          "related_calls": [
+            "101_2025-06-22_0037_MONOLOGUE.wav"
+          ],
+          "linked_interlude": "Cherish These Moments, Ben",
+          "status": "paired_bundle",
+          "bundle_type": "interlude_call_pairing",
+          "generated_utc": "2025-08-26T19:45:00Z"
+        },
+        "quotes": [
+          {
+            "quote": "And when the sun goes\nover the same skyline —\ndown on the victim,\ndown with the 101 callers,\ndown with the police.\n\nA day of going round in circles.\n\nThis is my life.\nThis is purpose.\nWarped. Surreal. Content.\n\nCherish these moments, Ben.",
+            "source": "SECTION_3_WORKING_DRAFT_v1.1.md",
+            "type": "interlude",
+            "tags": [
+              "DEATH_BY_SILENCE",
+              "LOOPING_RESPONSES",
+              "DISSOCIATION_EFFECT",
+              "RESOLVE_AFTER_ATTEMPT",
+              "INSTITUTIONAL_FAMILIARITY",
+              "SAFEGUARDING_FAILURE"
+            ]
+          }
+        ],
+        "evidence_links": [
+          {
+            "type": "audio",
+            "file": "101_2025-06-22_0037_MONOLOGUE.wav",
+            "summary": "Ben delivers a monologue marking 1 year since his original 101 call ('Police, please'), highlighting the ongoing silence and detachment from Sussex Police."
+          }
+        ],
+        "contradictions": [
+          "DEATH_BY_SILENCE",
+          "NO_CASE_OWNERSHIP",
+          "VOICE_SUPPRESSION",
+          "SAFEGUARDING_DUTY_FAILED"
+        ],
+        "timeline_hooks": [
+          "CrowbarringMyselfJustice",
+          "DeathBySilence",
+          "SussexPolice"
+        ],
+        "emotional_tone": "resigned_clarity"
+      }
+    },
+    {
+      "source": "VEX_2025-06-22_Cherish_Bundle_FULLY_VEXED.json",
+      "payload": {
+        "meta": {
+          "title": "Cherish These Moments, Ben — 101 Call Pairing",
+          "date_created": "2025-06-22",
+          "vex_id": "VEX_2025-06-22_Cherish_Bundle",
+          "related_calls": [
+            "101_2025-06-22_0037_MONOLOGUE.wav"
+          ],
+          "linked_interlude": "Cherish These Moments, Ben",
+          "status": "paired_bundle",
+          "bundle_type": "interlude_call_pairing",
+          "generated_utc": "2025-08-26T19:45:00Z"
+        },
+        "quotes": [
+          {
+            "quote": "And when the sun goes\nover the same skyline —\ndown on the victim,\ndown with the 101 callers,\ndown with the police.\n\nA day of going round in circles.\n\nThis is my life.\nThis is purpose.\nWarped. Surreal. Content.\n\nCherish these moments, Ben.",
+            "source": "SECTION_3_WORKING_DRAFT_v1.1.md",
+            "type": "interlude",
+            "tags": [
+              "DEATH_BY_SILENCE",
+              "LOOPING_RESPONSES",
+              "DISSOCIATION_EFFECT",
+              "RESOLVE_AFTER_ATTEMPT",
+              "INSTITUTIONAL_FAMILIARITY",
+              "SAFEGUARDING_FAILURE"
+            ]
+          },
+          {
+            "quote": "There’s already three crime numbers under my name, all for the same thing, and now there’s another one. [...] So that’s what’s happening. Sussex Police created an extra crime number so that the IOPC can’t see their two crime numbers. That PC Dixon is hiding all the corruption.",
+            "source": "22-06-25 04.30 Just hung up that’s new.docx.txt",
+            "type": "transcript_extracted",
+            "tags": [
+              "CRIME_REFERENCE_MANIPULATION",
+              "IOPC_OBSTRUCTION",
+              "INSTITUTIONAL_GASLIGHTING",
+              "SAFEGUARDING_DUTY_FAILED",
+              "VOICE_SUPPRESSION",
+              "REPEATED_ASSIGNMENT_TO_DIXON"
+            ]
+          }
+        ],
+        "evidence_links": [
+          {
+            "type": "audio",
+            "file": "101_2025-06-22_0037_MONOLOGUE.wav",
+            "summary": "Ben delivers a monologue marking 1 year since his original 101 call ('Police, please'), highlighting the ongoing silence and detachment from Sussex Police."
+          },
+          {
+            "type": "transcript",
+            "file": "22-06-25 04.30 Just hung up that’s new.docx.txt",
+            "summary": "Ben calls 101 to confirm crime numbers and demands a video call under Victims' Code. Call handler confirms PC Dixon is still the officer in charge despite non-contact since April. Ben outlines IOPC obstruction via multiple crime references and confirms systemic safeguarding failure."
+          }
+        ],
+        "contradictions": [
+          "CRIME_REFERENCE_MANIPULATION",
+          "DEATH_BY_SILENCE",
+          "IOPC_OBSTRUCTION",
+          "NO_CASE_OWNERSHIP",
+          "NO_VIDEO_CALL_RIGHTS",
+          "REPEATED_ASSIGNMENT_TO_DIXON",
+          "SAFEGUARDING_DUTY_FAILED",
+          "VOICE_SUPPRESSION"
+        ],
+        "timeline_hooks": [
+          "CrowbarringMyselfJustice",
+          "DeathBySilence",
+          "SussexPolice"
+        ],
+        "emotional_tone": "resigned_clarity"
+      }
+    },
+    {
+      "source": "VEX_OVERLAY_CHERISH_THESE_MOMENTS.json",
+      "payload": {
+        "overlay_id": "VEX_OVERLAY_CHERISH_THESE_MOMENTS",
+        "title": "Cherish These Moments, Ben",
+        "date": "2025-06-22",
+        "quote": "And when the sun goes\nover the same skyline —\ndown on the victim,\ndown with the 101 callers,\ndown with the police.\n\nA day of going round in circles.\n\nThis is my life.\nThis is purpose.\nWarped. Surreal. Content.\n\nCherish these moments, Ben.",
+        "source": "SECTION_3_WORKING_DRAFT_v1.1.md",
+        "type": "interlude_poem_overlay",
+        "tags": [
+          "DEATH_BY_SILENCE",
+          "LOOPING_RESPONSES",
+          "DISSOCIATION_EFFECT",
+          "RESOLVE_AFTER_ATTEMPT",
+          "INSTITUTIONAL_FAMILIARITY",
+          "SAFEGUARDING_FAILURE"
+        ],
+        "linked_timeline_events": [
+          "101_2025-06-22_0037_MONOLOGUE.wav",
+          "22-06-25_04_56_101_Call_“hung up just from seeing who was calling.txt"
+        ],
+        "linked_contradictions": [
+          "VEX_2025-06-22_Cherish_Bundle_v2_LOOP_ADDED",
+          "VEX_2025-06-22_0506_Humiliation_Protocol",
+          "VEX_2025-06-22_System_Exposure_Crime_Number_Manipulation"
+        ]
+      }
+    },
+    {
+      "source": "VEX_2025-06-22_0500_LoopBreak.json",
+      "payload": {
+        "meta": {
+          "title": "Loop Break — Just Enjoying Being Erased Now (Pencilling Myself Back In)",
+          "date_created": "2025-06-22",
+          "vex_id": "VEX_2025-06-22_0500_LoopBreak",
+          "related_calls": [
+            "22-06-25 - 05-00 justs enjoying being errased now, pencilling myself back in_en-GB.txt"
+          ],
+          "status": "contradiction_node",
+          "bundle_type": "standalone_contradiction",
+          "generated_utc": "2025-08-26T21:15:00Z"
+        },
+        "quotes": [
+          {
+            "quote": "Hi, I'm just reporting that I've just been hung up on twice by Sussex Police.",
+            "source": "22-06-25 - 05-00 justs enjoying being errased now, pencilling myself back in_en-GB.txt",
+            "type": "transcript_extracted",
+            "tags": [
+              "REPEATED_CALL_FAILURE",
+              "VOICE_SUPPRESSION"
+            ]
+          },
+          {
+            "quote": "I was denied a phone interview at 8:15 on Monday morning.",
+            "source": "22-06-25 - 05-00 justs enjoying being errased now, pencilling myself back in_en-GB.txt",
+            "type": "transcript_extracted",
+            "tags": [
+              "VICTIMS_CODE_BREACH",
+              "SAFEGUARDING_DUTY_FAILED"
+            ]
+          },
+          {
+            "quote": "This phone call is being recorded. It will be sent to the IOPC if you deny me another officer…",
+            "source": "22-06-25 - 05-00 justs enjoying being errased now, pencilling myself back in_en-GB.txt",
+            "type": "transcript_extracted",
+            "tags": [
+              "EVIDENCE_CHAIN_ESCALATION",
+              "IOPC_OBSTRUCTION"
+            ]
+          },
+          {
+            "quote": "Denied me all safeguarding since my suicide on April 6th. Told my abuser no further action on April 27th…",
+            "source": "22-06-25 - 05-00 justs enjoying being errased now, pencilling myself back in_en-GB.txt",
+            "type": "transcript_extracted",
+            "tags": [
+              "SUICIDE_DISCLOSURE_DISMISSED",
+              "DUTY_TO_WARN_BREACHED",
+              "MARAC_OBSTRUCTED"
+            ]
+          },
+          {
+            "quote": "Today my abusers have like, rung me… accusing me of raping her.",
+            "source": "22-06-25 - 05-00 justs enjoying being errased now, pencilling myself back in_en-GB.txt",
+            "type": "transcript_extracted",
+            "tags": [
+              "FALSE_ALLEGATION_REPORTED",
+              "THREAT_REESCALATION"
+            ]
+          },
+          {
+            "quote": "Oh, fuck off. Get me my human rights.",
+            "source": "22-06-25 - 05-00 justs enjoying being errased now, pencilling myself back in_en-GB.txt",
+            "type": "transcript_extracted",
+            "tags": [
+              "BREAKDOWN_MOMENT",
+              "INSTITUTIONAL_GASLIGHTING"
+            ]
+          },
+          {
+            "quote": "hahahahahaha",
+            "source": "22-06-25 - 05-00 justs enjoying being errased now, pencilling myself back in_en-GB.txt",
+            "type": "transcript_extracted",
+            "tags": [
+              "RESIGNATION",
+              "DISSOCIATION_EFFECT"
+            ]
+          }
+        ],
+        "evidence_links": [
+          {
+            "type": "transcript",
+            "file": "22-06-25 - 05-00 justs enjoying being errased now, pencilling myself back in_en-GB.txt",
+            "summary": "Final 101 call in the June 22 sequence. Ben reports repeated hangups, denial of Victims’ Code rights, and being erased post-suicide. The call ends in resigned laughter — a loop-breaking moment."
+          }
+        ],
+        "contradictions": [
+          "REPEATED_CALL_FAILURE",
+          "VOICE_SUPPRESSION",
+          "VICTIMS_CODE_BREACH",
+          "SAFEGUARDING_DUTY_FAILED",
+          "EVIDENCE_CHAIN_ESCALATION",
+          "IOPC_OBSTRUCTION",
+          "SUICIDE_DISCLOSURE_DISMISSED",
+          "DUTY_TO_WARN_BREACHED",
+          "MARAC_OBSTRUCTED",
+          "FALSE_ALLEGATION_REPORTED",
+          "THREAT_REESCALATION",
+          "BREAKDOWN_MOMENT",
+          "INSTITUTIONAL_GASLIGHTING",
+          "RESIGNATION",
+          "DISSOCIATION_EFFECT"
+        ],
+        "timeline_hooks": [
+          "CrowbarringMyselfJustice",
+          "DeathBySilence",
+          "IOPC_Escalation",
+          "SussexPolice"
+        ],
+        "emotional_tone": "loop_broken_resignation"
+      }
+    },
+    {
+      "source": "VEX_2025-06-22_0506_Humiliation_Protocol.json",
+      "payload": {
+        "meta": {
+          "title": "The Humiliation Protocol — 101 Call Gaslighting Sequence",
+          "date_created": "2025-06-22",
+          "vex_id": "VEX_2025-06-22_0506_Humiliation_Protocol",
+          "related_calls": [
+            "22-06-25_05:06 – 101 Call: \"It's Just Getting Embarrassing Now\".txt"
+          ],
+          "status": "contradiction_node",
+          "bundle_type": "standalone_contradiction",
+          "linked_bundles": [],
+          "generated_utc": "2025-08-26T20:55:00Z"
+        },
+        "quotes": [
+          {
+            "quote": "You're talking to me now. So you're not dead, are you?",
+            "source": "Section 3.17 - The Humiliation Protocol Call.docx",
+            "type": "transcript_extracted",
+            "tags": [
+              "SUICIDE_DISCLOSURE_DISMISSED",
+              "INSTITUTIONAL_GASLIGHTING",
+              "SAFEGUARDING_DUTY_FAILED"
+            ]
+          },
+          {
+            "quote": "I'm not a ghost. That was insulting.",
+            "source": "Section 3.17 - The Humiliation Protocol Call.docx",
+            "type": "transcript_extracted",
+            "tags": [
+              "VICTIM_ASSERTION",
+              "PSYCHOLOGICAL_ABUSE",
+              "INSTITUTIONAL_GASLIGHTING"
+            ]
+          },
+          {
+            "quote": "You don’t get to quote that and then… get exactly what you want.",
+            "source": "Section 3.17 - The Humiliation Protocol Call.docx",
+            "type": "transcript_extracted",
+            "tags": [
+              "VICTIMS_CODE_BREACH",
+              "RETALIATORY_SAFEGUARDING_DENIAL",
+              "POWER_DYNAMICS_MANIPULATION"
+            ]
+          },
+          {
+            "quote": "There’s no outstanding case. — despite crime ref 47240141246 being open, stalking disclosed, and no outcome provided.",
+            "source": "Section 3.17 - The Humiliation Protocol Call.docx",
+            "type": "transcript_extracted",
+            "tags": [
+              "CASE_STATUS_MANIPULATION",
+              "REPORTING_OBSTRUCTED",
+              "IOPC_OBSTRUCTION"
+            ]
+          },
+          {
+            "quote": "I’ve called 45 times since April 6th.",
+            "source": "Section 3.17 - The Humiliation Protocol Call.docx",
+            "type": "transcript_extracted",
+            "tags": [
+              "COMMUNICATION_SUPPRESSION",
+              "RECORDS_MISSING",
+              "DEATH_BY_SILENCE"
+            ]
+          }
+        ],
+        "evidence_links": [
+          {
+            "type": "transcript",
+            "file": "Section 3.17 - The Humiliation Protocol Call.docx",
+            "summary": "Full transcript and breakdown of 05:06 101 call where Sussex Police dismiss a suicide disclosure, deny Victims’ Code rights, and contradict active case status — confirming a pattern of gaslighting and silencing through 'polite' humiliation."
+          }
+        ],
+        "contradictions": [
+          "SUICIDE_DISCLOSURE_DISMISSED",
+          "INSTITUTIONAL_GASLIGHTING",
+          "SAFEGUARDING_DUTY_FAILED",
+          "VICTIMS_CODE_BREACH",
+          "POWER_DYNAMICS_MANIPULATION",
+          "CASE_STATUS_MANIPULATION",
+          "REPORTING_OBSTRUCTED",
+          "IOPC_OBSTRUCTION",
+          "COMMUNICATION_SUPPRESSION",
+          "RECORDS_MISSING",
+          "DEATH_BY_SILENCE"
+        ],
+        "timeline_hooks": [
+          "CrowbarringMyselfJustice",
+          "DeathBySilence",
+          "IOPC_Escalation",
+          "SussexPolice"
+        ],
+        "emotional_tone": "humiliated_resolve"
+      }
+    },
+    {
+      "source": "VEX_2025-06-22_System_Exposure_Crime_Number_Manipulation.json",
+      "payload": {
+        "meta": {
+          "title": "System Exposure of Crime Number Manipulation",
+          "date_created": "2025-06-22",
+          "vex_id": "VEX_2025-06-22_System_Exposure_Crime_Number_Manipulation",
+          "related_calls": [
+            "TRANSCRIPT_2025-06-22_0430_101_System_Exposure_Crime_Manipulation.txt"
+          ],
+          "linked_bundles": [
+            "VEX_2025-06-22_Cherish_Bundle_v2_LOOP_ADDED"
+          ],
+          "status": "contradiction_node",
+          "bundle_type": "standalone_contradiction",
+          "generated_utc": "2025-08-26T20:31:00Z"
+        },
+        "quotes": [
+          {
+            "quote": "What Sussex Police have done is they've created an extra crime number so that the IOPC can't see their two crime numbers. That PC Dixon is hiding all the corruption.",
+            "source": "22-06-25 04.30 Timeline Event_ System Exposure of Crime Number Manipulation.docx",
+            "type": "transcript_extracted",
+            "tags": [
+              "CRIME_REFERENCE_MANIPULATION",
+              "IOPC_OBSTRUCTION",
+              "SAFEGUARDING_DUTY_FAILED",
+              "REPEATED_ASSIGNMENT_TO_DIXON",
+              "INSTITUTIONAL_GASLIGHTING"
+            ]
+          },
+          {
+            "quote": "Now PC Dixon’s got three crime numbers. Greedy.",
+            "source": "22-06-25 04.30 Timeline Event_ System Exposure of Crime Number Manipulation.docx",
+            "type": "transcript_extracted",
+            "tags": [
+              "CRIME_REFERENCE_MANIPULATION",
+              "SYSTEMIC_CORRUPTION",
+              "VICTIM_MOCKERY_IRONY"
+            ]
+          }
+        ],
+        "evidence_links": [
+          {
+            "type": "transcript",
+            "file": "22-06-25 04.30 Timeline Event_ System Exposure of Crime Number Manipulation.docx",
+            "summary": "Transcript outlines deliberate crime number inflation by Sussex Police, reassignment to PC Dixon post-suicide disclosure, and refusal to honour a legally required video call. Verbal admission of systemic obfuscation to avoid IOPC scrutiny."
+          }
+        ],
+        "contradictions": [
+          "CRIME_REFERENCE_MANIPULATION",
+          "IOPC_OBSTRUCTION",
+          "REPEATED_ASSIGNMENT_TO_DIXON",
+          "SYSTEMIC_CORRUPTION",
+          "VICTIM_MOCKERY_IRONY",
+          "SAFEGUARDING_DUTY_FAILED"
+        ],
+        "timeline_hooks": [
+          "CrowbarringMyselfJustice",
+          "DeathBySilence",
+          "SussexPolice",
+          "IOPC_Escalation"
+        ],
+        "emotional_tone": "controlled_exposure"
+      }
+    },
+    {
+      "source": "VEX_2025-06-23_101_Dixon_or_Death.json",
+      "payload": {
+        "vex_id": "VEX_2025-06-23_101_Dixon_or_Death",
+        "title": "Dixon or Death",
+        "date": "2025-06-23",
+        "type": "101_call_transcript",
+        "source": "23-06-25_10.14_Dixon or Death – 101 Call Failure to Escalate Officer Conflict.txt.docx",
+        "quote": "Sussex Police want me dead. I was promised a new officer… but he's still my officer — and he's blocked me.",
+        "tags": [
+          "SAFEGUARDING_FAILURE",
+          "SUICIDE_DISCLOSURE_IGNORED",
+          "INSTITUTIONAL_GASLIGHTING",
+          "CASE_MANIPULATION",
+          "RETRAUMATISATION_LOOP",
+          "OFFICER_CONFLICT_UNESCALATED",
+          "VICTIM_BLOCKED",
+          "POST_BAIL_RISK_EXPOSURE",
+          "FAKE_CASE_STATUS",
+          "ALANNA_FALSE_ACCUSATION_BLOCKED"
+        ],
+        "linked_timeline": [
+          "2025-06-23",
+          "CROWBARRING_MYSELF_JUSTICE",
+          "SUICIDE_NOT_LOGGED",
+          "DEATH_BY_SILENCE",
+          "CRIME_REF_47240214305_THREAD",
+          "POST_BAIL_NO_WARNING_EXPOSURE"
+        ],
+        "emotional_tone": "despair_clarity_fatalism",
+        "contradictions": [
+          "Officer promised to be removed still controlling case",
+          "Suicide disclosure still not logged months later",
+          "Case falsely closed by Dixon — not true",
+          "No replacement officer ever given despite repeated requests",
+          "Police refused to escalate to PSD when asked directly",
+          "No warning ever issued to Alanna — despite post-bail contact",
+          "False rape allegation never addressed — completely buried"
+        ]
+      }
+    },
+    {
+      "source": "VEX_2025-06-23_101_Dixon_or_Death_DETAILED.json",
+      "payload": {
+        "quote": "23-06-25_10.14_Dixon or Death – 101 Call Failure to Escalate Officer Conflict",
+        "tags": [
+          "OFFICER_CONFLICT_UNESCALATED"
+        ]
+      }
+    },
+    {
+      "source": "VEX_2025-06-23_101_Dixon_or_Death_DETAILED.json",
+      "payload": {
+        "quote": "Summary:\nBen Carter calls 101 requesting the name of his newly assigned officer following repeated failed contact since April 6th. He is told, yet again, that PC Dixon is his assigned officer—despite Dixon having blocked him on WhatsApp, failed to log a suicide disclosure, and being the subject of an IOPC investigation. Ben pleads for help, but is repeatedly told his case is closed, that there are no updates, and that reporting anything further would be futile. The call handler’s dismissiveness escalates Ben’s emotional distress and solidifies the contradiction that Sussex Police has no working safeguarding mechanism.",
+        "tags": [
+          "SUICIDE_DISCLOSURE_IGNORED",
+          "OFFICER_CONFLICT_UNESCALATED",
+          "VICTIM_BLOCKED",
+          "FAKE_CASE_STATUS"
+        ]
+      }
+    },
+    {
+      "source": "VEX_2025-06-23_101_Dixon_or_Death_DETAILED.json",
+      "payload": {
+        "quote": "Key Contradictions & Systemic Failures",
+        "tags": []
+      }
+    },
+    {
+      "source": "VEX_2025-06-23_101_Dixon_or_Death_DETAILED.json",
+      "payload": {
+        "quote": "🔹 Officer Still Assigned Despite Blocking Victim",
+        "tags": []
+      }
+    },
+    {
+      "source": "VEX_2025-06-23_101_Dixon_or_Death_DETAILED.json",
+      "payload": {
+        "quote": "“He’s blocked me.” – Ben Carter\nImplication: A police officer under IOPC investigation remains assigned to a vulnerable victim he has deliberately cut off communication with.",
+        "tags": [
+          "VICTIM_BLOCKED"
+        ]
+      }
+    },
+    {
+      "source": "VEX_2025-06-23_101_Dixon_or_Death_DETAILED.json",
+      "payload": {
+        "quote": "🔹 Case Declared Closed Despite Ongoing Risk",
+        "tags": []
+      }
+    },
+    {
+      "source": "VEX_2025-06-23_101_Dixon_or_Death_DETAILED.json",
+      "payload": {
+        "quote": "“There isn’t any updates. There isn’t any outstanding.” – 101 Operator\nImplication: This directly contradicts other Sussex Police confirmations that Ben’s case is under investigation, and that Alanna is a named suspect.",
+        "tags": []
+      }
+    },
+    {
+      "source": "VEX_2025-06-23_101_Dixon_or_Death_DETAILED.json",
+      "payload": {
+        "quote": "🔹 Suicide Risk Ignored",
+        "tags": [
+          "SUICIDE_DISCLOSURE_IGNORED"
+        ]
+      }
+    },
+    {
+      "source": "VEX_2025-06-23_101_Dixon_or_Death_DETAILED.json",
+      "payload": {
+        "quote": "“I told Sussex Police I was suicidal and if no one got back to me by June 1st I’d end my life.” – Ben Carter\nImplication: No callback occurred. This implies willful institutional neglect, in violation of safeguarding protocols and the Care Act.",
+        "tags": []
+      }
+    },
+    {
+      "source": "VEX_2025-06-23_101_Dixon_or_Death_DETAILED.json",
+      "payload": {
+        "quote": "🔹 No Officer Reassigned Despite Repeated Requests",
+        "tags": []
+      }
+    },
+    {
+      "source": "VEX_2025-06-23_101_Dixon_or_Death_DETAILED.json",
+      "payload": {
+        "quote": "“I’ve asked since April 6th for a new officer.” – Ben Carter\nImplication: Sussex Police has failed to act upon clear victim requests, despite legal obligations to provide updates and respect victim wishes under the Victims’ Code.",
+        "tags": []
+      }
+    },
+    {
+      "source": "VEX_2025-06-23_101_Dixon_or_Death_DETAILED.json",
+      "payload": {
+        "quote": "🔹 Falsely Claimed Updates & Contact",
+        "tags": []
+      }
+    },
+    {
+      "source": "VEX_2025-06-23_101_Dixon_or_Death_DETAILED.json",
+      "payload": {
+        "quote": "“The last thing someone got in touch with you about was last month.” – 101 Operator\n“No one did.” – Ben Carter\nImplication: This mismatch indicates a fabricated case record or misrepresented activity from Sussex Police.",
+        "tags": []
+      }
+    },
+    {
+      "source": "VEX_2025-06-23_101_Dixon_or_Death_DETAILED.json",
+      "payload": {
+        "quote": "🔹 Report Blockage and 101 Gaslighting",
+        "tags": []
+      }
+    },
+    {
+      "source": "VEX_2025-06-23_101_Dixon_or_Death_DETAILED.json",
+      "payload": {
+        "quote": "“If you're not reporting anything now I'm going to have to end this call.” – 101 Operator\nImplication: A systemic pattern of coercing silence through bureaucracy. Ben is not permitted to update the case if the case is falsely marked ‘closed.’",
+        "tags": []
+      }
+    },
+    {
+      "source": "VEX_2025-06-23_101_Dixon_or_Death_DETAILED.json",
+      "payload": {
+        "quote": "Themes:",
+        "tags": []
+      }
+    },
+    {
+      "source": "VEX_2025-06-23_101_Dixon_or_Death_DETAILED.json",
+      "payload": {
+        "quote": "POST_BAIL_NO_WARNING_EXPOSURE",
+        "tags": []
+      }
+    },
+    {
+      "source": "VEX_2025-06-23_101_Dixon_or_Death_DETAILED.json",
+      "payload": {
+        "quote": "OFFICER_CONFLICT_UNRESOLVED",
+        "tags": []
+      }
+    },
+    {
+      "source": "VEX_2025-06-23_101_Dixon_or_Death_DETAILED.json",
+      "payload": {
+        "quote": "SUICIDE_NOT_LOGGED",
+        "tags": [
+          "SUICIDE_DISCLOSURE_IGNORED"
+        ]
+      }
+    },
+    {
+      "source": "VEX_2025-06-23_101_Dixon_or_Death_DETAILED.json",
+      "payload": {
+        "quote": "SAFEGUARDING_FAILURE",
+        "tags": []
+      }
+    },
+    {
+      "source": "VEX_2025-06-23_101_Dixon_or_Death_DETAILED.json",
+      "payload": {
+        "quote": "POLICE_GASLIGHTING",
+        "tags": []
+      }
+    },
+    {
+      "source": "VEX_2025-06-23_101_Dixon_or_Death_DETAILED.json",
+      "payload": {
+        "quote": "CASE_CLOSED_MISREPRESENTATION",
+        "tags": []
+      }
+    },
+    {
+      "source": "VEX_2025-06-23_101_Dixon_or_Death_DETAILED.json",
+      "payload": {
+        "quote": "101_CALL_HANDLER_CONTRADICTIONS",
+        "tags": []
+      }
+    },
+    {
+      "source": "VEX_2025-06-23_101_Dixon_or_Death_DETAILED.json",
+      "payload": {
+        "quote": "Legal & Policy Breaches:",
+        "tags": []
+      }
+    },
+    {
+      "source": "VEX_2025-06-23_101_Dixon_or_Death_DETAILED.json",
+      "payload": {
+        "quote": "Victims’ Code – Failure to provide timely officer updates and respect conflict-of-interest concerns.",
+        "tags": []
+      }
+    },
+    {
+      "source": "VEX_2025-06-23_101_Dixon_or_Death_DETAILED.json",
+      "payload": {
+        "quote": "Care Act 2014 – Ignoring repeated suicide disclosures.",
+        "tags": [
+          "SUICIDE_DISCLOSURE_IGNORED"
+        ]
+      }
+    },
+    {
+      "source": "VEX_2025-06-23_101_Dixon_or_Death_DETAILED.json",
+      "payload": {
+        "quote": "Mental Health Crisis Protocols – Dismissive tone and no triage escalation.",
+        "tags": []
+      }
+    },
+    {
+      "source": "VEX_2025-06-23_101_Dixon_or_Death_DETAILED.json",
+      "payload": {
+        "quote": "GDPR Breach (Data Subject Access Conflict) – Ben denied clarity on crime files tied to his identity.",
+        "tags": []
+      }
+    },
+    {
+      "source": "VEX_2025-06-23_101_Dixon_or_Death_DETAILED.json",
+      "payload": {
+        "quote": "Emotional Collapse & Forensic Impact:",
+        "tags": []
+      }
+    },
+    {
+      "source": "VEX_2025-06-23_101_Dixon_or_Death_DETAILED.json",
+      "payload": {
+        "quote": "Ben refers to having contacted police 45+ times with no callback.",
+        "tags": []
+      }
+    },
+    {
+      "source": "VEX_2025-06-23_101_Dixon_or_Death_DETAILED.json",
+      "payload": {
+        "quote": "He is told nothing is outstanding despite known new threats.",
+        "tags": []
+      }
+    },
+    {
+      "source": "VEX_2025-06-23_101_Dixon_or_Death_DETAILED.json",
+      "payload": {
+        "quote": "He is denied knowledge of the status of his abuser (bail, risk status).",
+        "tags": []
+      }
+    },
+    {
+      "source": "VEX_2025-06-23_101_Dixon_or_Death_DETAILED.json",
+      "payload": {
+        "quote": "The call ends with a complete emotional collapse: “Hung off a fucking gain.”",
+        "tags": []
+      }
+    },
+    {
+      "source": "VEX_2025-06-23_101_Dixon_or_Death_DETAILED.json",
+      "payload": {
+        "quote": "Contradiction Threads Cross-Referenced:",
+        "tags": []
+      }
+    },
+    {
+      "source": "VEX_2025-06-23_101_Dixon_or_Death_DETAILED.json",
+      "payload": {
+        "quote": "CROWBARRING_MYSELF_JUSTICE",
+        "tags": []
+      }
+    },
+    {
+      "source": "VEX_2025-06-23_101_Dixon_or_Death_DETAILED.json",
+      "payload": {
+        "quote": "SUICIDE_NOT_LOGGED",
+        "tags": [
+          "SUICIDE_DISCLOSURE_IGNORED"
+        ]
+      }
+    },
+    {
+      "source": "VEX_2025-06-23_101_Dixon_or_Death_DETAILED.json",
+      "payload": {
+        "quote": "POLICE_GASLIGHTING",
+        "tags": []
+      }
+    },
+    {
+      "source": "VEX_2025-06-23_101_Dixon_or_Death_DETAILED.json",
+      "payload": {
+        "quote": "LOST_EVIDENCE_SUSSEX_POLICE",
+        "tags": []
+      }
+    },
+    {
+      "source": "VEX_2025-06-23_101_Dixon_or_Death_DETAILED.json",
+      "payload": {
+        "quote": "DEATH_BY_SILENCE",
+        "tags": []
+      }
+    },
+    {
+      "source": "VEX_2025-06-23_101_Dixon_or_Death_DETAILED.json",
+      "payload": {
+        "quote": "POST_BAIL_NO_WARNING_EXPOSURE",
+        "tags": []
+      }
+    },
+    {
+      "source": "VEX_2025-06-23_101_Dixon_or_Death_DETAILED.json",
+      "payload": {
+        "quote": "CRIME_REF_47240214305_THREAD",
+        "tags": []
+      }
+    },
+    {
+      "source": "VEX_2025-06-23_101_Dixon_or_Death_DETAILED.json",
+      "payload": {
+        "quote": "101 triage: [00:15.1] Sussex Police  how can i help",
+        "tags": []
+      }
+    },
+    {
+      "source": "VEX_2025-06-23_101_Dixon_or_Death_DETAILED.json",
+      "payload": {
+        "quote": "Ben Carter: [00:17.7] Hi I just need to find out my new. I've got a new police officer. I just need to find out who he is.",
+        "tags": []
+      }
+    },
+    {
+      "source": "VEX_2025-06-23_101_Dixon_or_Death_DETAILED.json",
+      "payload": {
+        "quote": "101 triage: [00:27.2] What's your name?",
+        "tags": []
+      }
+    },
+    {
+      "source": "VEX_2025-06-23_101_Dixon_or_Death_DETAILED.json",
+      "payload": {
+        "quote": "Ben Carter: [00:28.3] My name is Ben Carter.",
+        "tags": []
+      }
+    },
+    {
+      "source": "VEX_2025-06-23_101_Dixon_or_Death_DETAILED.json",
+      "payload": {
+        "quote": "101 triage: [00:30.9] Carter?",
+        "tags": []
+      }
+    },
+    {
+      "source": "VEX_2025-06-23_101_Dixon_or_Death_DETAILED.json",
+      "payload": {
+        "quote": "Ben Carter: [00:31.6] Yeah.",
+        "tags": []
+      }
+    },
+    {
+      "source": "VEX_2025-06-23_101_Dixon_or_Death_DETAILED.json",
+      "payload": {
+        "quote": "101 triage: [00:36.4] What's your date? Birth, Ben.",
+        "tags": []
+      }
+    },
+    {
+      "source": "VEX_2025-06-23_101_Dixon_or_Death_DETAILED.json",
+      "payload": {
+        "quote": "Ben Carter: [00:37.8] It's the 15-4-87.",
+        "tags": []
+      }
+    },
+    {
+      "source": "VEX_2025-06-23_101_Dixon_or_Death_DETAILED.json",
+      "payload": {
+        "quote": "101 triage: [00:59.8] And what is it concerning, Ben? What. What's the officer involved in with you?",
+        "tags": []
+      }
+    },
+    {
+      "source": "VEX_2025-06-23_101_Dixon_or_Death_DETAILED.json",
+      "payload": {
+        "quote": "101 triage: [01:05.7] Well, it's been going on since November and there's four. There's four crime numbers and I don't Know which one..",
+        "tags": []
+      }
+    },
+    {
+      "source": "VEX_2025-06-23_101_Dixon_or_Death_DETAILED.json",
+      "payload": {
+        "quote": "101 triage: [01:15.7] Oh, it must be this one under investigation with the crime number ending 305. Second of November.",
+        "tags": []
+      }
+    },
+    {
+      "source": "VEX_2025-06-23_101_Dixon_or_Death_DETAILED.json",
+      "payload": {
+        "quote": "Ben Carter: [01:23.7] Yeah. Yeah, relating to an ex partner. Yeah. Who's the officer?",
+        "tags": []
+      }
+    },
+    {
+      "source": "VEX_2025-06-23_101_Dixon_or_Death_DETAILED.json",
+      "payload": {
+        "quote": "101 triage: [01:29.5] Bear with me Just going into that,",
+        "tags": []
+      }
+    },
+    {
+      "source": "VEX_2025-06-23_101_Dixon_or_Death_DETAILED.json",
+      "payload": {
+        "quote": "101 triage: [01:37.8] it's, Officer Dixon. D, I, X, O, N.",
+        "tags": [
+          "OFFICER_CONFLICT_UNESCALATED"
+        ]
+      }
+    },
+    {
+      "source": "VEX_2025-06-23_101_Dixon_or_Death_DETAILED.json",
+      "payload": {
+        "quote": "Ben Carter: [01:41.9] Oh, he's blocked me. Can. Like I. I've said time and time again, can I please have an officer call, me. Since April 6th, my suicide and no one has called me and PC Dixon is still my officer. He's blocked me.",
+        "tags": [
+          "SUICIDE_DISCLOSURE_IGNORED",
+          "OFFICER_CONFLICT_UNESCALATED",
+          "VICTIM_BLOCKED"
+        ]
+      }
+    },
+    {
+      "source": "VEX_2025-06-23_101_Dixon_or_Death_DETAILED.json",
+      "payload": {
+        "quote": "101 triage: [02:00.5] All right, I'm going to put you.",
+        "tags": []
+      }
+    },
+    {
+      "source": "VEX_2025-06-23_101_Dixon_or_Death_DETAILED.json",
+      "payload": {
+        "quote": "101 triage: [02:03.7] Through to the concept sensor. Look into it further for you. One second.",
+        "tags": []
+      }
+    },
+    {
+      "source": "VEX_2025-06-23_101_Dixon_or_Death_DETAILED.json",
+      "payload": {
+        "quote": "Ben Carter: [02:14.5] Hiya. Since April 6th, I haven't had a police officer and PC Dixon has had hold on to my crime the whole time. I've not been able to give any updates and he still, So PC Dixon didn't log my suicide and I asked for a new officer.",
+        "tags": [
+          "SUICIDE_DISCLOSURE_IGNORED",
+          "OFFICER_CONFLICT_UNESCALATED"
+        ]
+      }
+    },
+    {
+      "source": "VEX_2025-06-23_101_Dixon_or_Death_DETAILED.json",
+      "payload": {
+        "quote": "Ben Carter: [02:45.3] I was promised. I've been promised since April 6, but he's still my officer, and he's blocked me on WhatsApp all right.",
+        "tags": [
+          "VICTIM_BLOCKED",
+          "REPLACEMENT_OFFICER_BROKEN_PROMISE"
+        ]
+      }
+    },
+    {
+      "source": "VEX_2025-06-23_101_Dixon_or_Death_DETAILED.json",
+      "payload": {
+        "quote": "101 Operator: [02:56.1] So you. You've got an ongoing case, have you?",
+        "tags": []
+      }
+    },
+    {
+      "source": "VEX_2025-06-23_101_Dixon_or_Death_DETAILED.json",
+      "payload": {
+        "quote": "Ben Carter: [02:59.3] Yeah, and he's still clinging on to it. And I, I never, I never get. I never get a call back. I haven't had, like.",
+        "tags": []
+      }
+    },
+    {
+      "source": "VEX_2025-06-23_101_Dixon_or_Death_DETAILED.json",
+      "payload": {
+        "quote": "101 Operator: [03:09.7] What's your name, please?",
+        "tags": []
+      }
+    },
+    {
+      "source": "VEX_2025-06-23_101_Dixon_or_Death_DETAILED.json",
+      "payload": {
+        "quote": "Ben Carter: [03:10.8] Ben Carter.",
+        "tags": []
+      }
+    },
+    {
+      "source": "VEX_2025-06-23_101_Dixon_or_Death_DETAILED.json",
+      "payload": {
+        "quote": "101 Operator: [03:12.9] Sorry, I didn't catch.",
+        "tags": []
+      }
+    },
+    {
+      "source": "VEX_2025-06-23_101_Dixon_or_Death_DETAILED.json",
+      "payload": {
+        "quote": "Ben Carter: [03:14.1] Ben Carter.",
+        "tags": []
+      }
+    },
+    {
+      "source": "VEX_2025-06-23_101_Dixon_or_Death_DETAILED.json",
+      "payload": {
+        "quote": "101 Operator: [03:15.9] Carter.",
+        "tags": []
+      }
+    },
+    {
+      "source": "VEX_2025-06-23_101_Dixon_or_Death_DETAILED.json",
+      "payload": {
+        "quote": "Ben Carter: [03:16.5] Yeah.",
+        "tags": []
+      }
+    },
+    {
+      "source": "VEX_2025-06-23_101_Dixon_or_Death_DETAILED.json",
+      "payload": {
+        "quote": "101 Operator: [03:17.4] Thank you. And what's your first name?",
+        "tags": []
+      }
+    },
+    {
+      "source": "VEX_2025-06-23_101_Dixon_or_Death_DETAILED.json",
+      "payload": {
+        "quote": "Ben Carter: [03:19.0] Ben.",
+        "tags": []
+      }
+    },
+    {
+      "source": "VEX_2025-06-23_101_Dixon_or_Death_DETAILED.json",
+      "payload": {
+        "quote": "101 Operator: [03:20.6] Ben. Let's have a look, Ben. Okay. What's your date of birth, please?",
+        "tags": []
+      }
+    },
+    {
+      "source": "VEX_2025-06-23_101_Dixon_or_Death_DETAILED.json",
+      "payload": {
+        "quote": "Ben Carter: [03:24.3] It's the 15th of April. 87:50.",
+        "tags": []
+      }
+    },
+    {
+      "source": "VEX_2025-06-23_101_Dixon_or_Death_DETAILED.json",
+      "payload": {
+        "quote": "101 Operator: [03:44.2] Okay. What. What do you believe you got outstanding?",
+        "tags": []
+      }
+    },
+    {
+      "source": "VEX_2025-06-23_101_Dixon_or_Death_DETAILED.json",
+      "payload": {
+        "quote": "Ben Carter: [03:47.8] I haven't. He's blocked me on, on WhatsApp on March 27th. I told Sussex police that I was suicidal. And if an officer didn't get back to me by June 1st, like, I'd end my life.",
+        "tags": [
+          "VICTIM_BLOCKED"
+        ]
+      }
+    },
+    {
+      "source": "VEX_2025-06-23_101_Dixon_or_Death_DETAILED.json",
+      "payload": {
+        "quote": "Ben Carter: [04:06.8] And I, I, I've got a, A, recording of a 101 officer saying he'll ring me or you can contact him. He's blocked me.",
+        "tags": [
+          "VICTIM_BLOCKED"
+        ]
+      }
+    },
+    {
+      "source": "VEX_2025-06-23_101_Dixon_or_Death_DETAILED.json",
+      "payload": {
+        "quote": "101 Operator: [04:16.9] Yeah i haven't .  got anything outstanding At the Moment",
+        "tags": []
+      }
+    },
+    {
+      "source": "VEX_2025-06-23_101_Dixon_or_Death_DETAILED.json",
+      "payload": {
+        "quote": "Ben Carter: [04:17.7] Sussex Police. Sussex police want me dead.",
+        "tags": [
+          "INSTITUTIONAL_FATALISM"
+        ]
+      }
+    },
+    {
+      "source": "VEX_2025-06-23_101_Dixon_or_Death_DETAILED.json",
+      "payload": {
+        "quote": "101 Operator: [04:22.9] What is it for you calling for today Ben? Are you reporting anything new today?",
+        "tags": []
+      }
+    },
+    {
+      "source": "VEX_2025-06-23_101_Dixon_or_Death_DETAILED.json",
+      "payload": {
+        "quote": "Ben Carter: [04:28.2] I've never. I haven't been able to report anything at any point. There's so much I need to report. But no officer.",
+        "tags": []
+      }
+    },
+    {
+      "source": "VEX_2025-06-23_101_Dixon_or_Death_DETAILED.json",
+      "payload": {
+        "quote": "101 Operator: [04:35.0] Ok you let me know",
+        "tags": []
+      }
+    },
+    {
+      "source": "VEX_2025-06-23_101_Dixon_or_Death_DETAILED.json",
+      "payload": {
+        "quote": "Ben Carter: [04:35.8] You can tell me?",
+        "tags": []
+      }
+    },
+    {
+      "source": "VEX_2025-06-23_101_Dixon_or_Death_DETAILED.json",
+      "payload": {
+        "quote": "101 Operator: [04:36.9] I can report it now for you",
+        "tags": []
+      }
+    },
+    {
+      "source": "VEX_2025-06-23_101_Dixon_or_Death_DETAILED.json",
+      "payload": {
+        "quote": "Ben Carter: [04:40.3] Yeah, but it, will go to PC Dixon. It won't do anything with it.",
+        "tags": [
+          "OFFICER_CONFLICT_UNESCALATED"
+        ]
+      }
+    },
+    {
+      "source": "VEX_2025-06-23_101_Dixon_or_Death_DETAILED.json",
+      "payload": {
+        "quote": "101 Operator: [04:43.7] No i don't know who's making that allegation",
+        "tags": []
+      }
+    },
+    {
+      "source": "VEX_2025-06-23_101_Dixon_or_Death_DETAILED.json",
+      "payload": {
+        "quote": "Ben Carter: [04:47.0] What updates are there on my file?",
+        "tags": []
+      }
+    },
+    {
+      "source": "VEX_2025-06-23_101_Dixon_or_Death_DETAILED.json",
+      "payload": {
+        "quote": "101 Operator: [04:51.6] There isn't any updates there isn't any outstanding",
+        "tags": []
+      }
+    },
+    {
+      "source": "VEX_2025-06-23_101_Dixon_or_Death_DETAILED.json",
+      "payload": {
+        "quote": "Ben Carter: [04:53.3] See what I mean? I. I have called.",
+        "tags": []
+      }
+    },
+    {
+      "source": "VEX_2025-06-23_101_Dixon_or_Death_DETAILED.json",
+      "payload": {
+        "quote": "101 Operator: [04:55.9] Ben If you're not reporting anything now I'm going to have to end this call",
+        "tags": []
+      }
+    },
+    {
+      "source": "VEX_2025-06-23_101_Dixon_or_Death_DETAILED.json",
+      "payload": {
+        "quote": "Ben Carter: [04:57.9] No, no. I'm stating that everything I have reported hasn't been reported.",
+        "tags": []
+      }
+    },
+    {
+      "source": "VEX_2025-06-23_101_Dixon_or_Death_DETAILED.json",
+      "payload": {
+        "quote": "101 Operator: [05:04.8] It has been reported and it's all closed. There isn't any outstanding.",
+        "tags": []
+      }
+    },
+    {
+      "source": "VEX_2025-06-23_101_Dixon_or_Death_DETAILED.json",
+      "payload": {
+        "quote": "Ben Carter: [05:08.4] Oh.",
+        "tags": []
+      }
+    },
+    {
+      "source": "VEX_2025-06-23_101_Dixon_or_Death_DETAILED.json",
+      "payload": {
+        "quote": "Ben Carter: [05:08.7] So.",
+        "tags": []
+      }
+    },
+    {
+      "source": "VEX_2025-06-23_101_Dixon_or_Death_DETAILED.json",
+      "payload": {
+        "quote": "Ben Carter: [05:09.1] So what was the last. What was the last thing reported?",
+        "tags": []
+      }
+    },
+    {
+      "source": "VEX_2025-06-23_101_Dixon_or_Death_DETAILED.json",
+      "payload": {
+        "quote": "101 Operator: [05:12.3] The last thing that you reported? Yeah.  When was the last thing someone an officer got in touch with you about? It was last month.",
+        "tags": []
+      }
+    },
+    {
+      "source": "VEX_2025-06-23_101_Dixon_or_Death_DETAILED.json",
+      "payload": {
+        "quote": "Ben Carter: [05:20.9] Right. What was it about?",
+        "tags": []
+      }
+    },
+    {
+      "source": "VEX_2025-06-23_101_Dixon_or_Death_DETAILED.json",
+      "payload": {
+        "quote": "101 Operator: [05:24.5] Well, Ben, I can't discuss that on the phone to you. I can't verify who you are.",
+        "tags": []
+      }
+    },
+    {
+      "source": "VEX_2025-06-23_101_Dixon_or_Death_DETAILED.json",
+      "payload": {
+        "quote": "Ben Carter: [05:28.1] Okay, that's fine.",
+        "tags": []
+      }
+    },
+    {
+      "source": "VEX_2025-06-23_101_Dixon_or_Death_DETAILED.json",
+      "payload": {
+        "quote": "101 Operator: [05:31.7] If you've got nothing to report, I'm gonna have to end this call Cos there's lots of call waiting",
+        "tags": []
+      }
+    },
+    {
+      "source": "VEX_2025-06-23_101_Dixon_or_Death_DETAILED.json",
+      "payload": {
+        "quote": "Ben Carter: [05:35.3] Can. Can what? What I wanted to report the other day. The fact that my abuser, is called, me up the other day, saying that I raped her and had a whole scenario. I told, I told everyone that, and I got told.",
+        "tags": [
+          "ALANNA_FALSE_ACCUSATION_BLOCKED"
+        ]
+      }
+    },
+    {
+      "source": "VEX_2025-06-23_101_Dixon_or_Death_DETAILED.json",
+      "payload": {
+        "quote": "101 Operator: [05:49.9] You've told us?",
+        "tags": []
+      }
+    },
+    {
+      "source": "VEX_2025-06-23_101_Dixon_or_Death_DETAILED.json",
+      "payload": {
+        "quote": "Ben Carter: [05:50.9] Huh?",
+        "tags": []
+      }
+    },
+    {
+      "source": "VEX_2025-06-23_101_Dixon_or_Death_DETAILED.json",
+      "payload": {
+        "quote": "101 Operator: [05:51.7] 'Ok you've told us You've told us that you say?",
+        "tags": []
+      }
+    },
+    {
+      "source": "VEX_2025-06-23_101_Dixon_or_Death_DETAILED.json",
+      "payload": {
+        "quote": "Ben Carter: [05:54.4] Yeah, I told. I told you that yesterday.",
+        "tags": []
+      }
+    },
+    {
+      "source": "VEX_2025-06-23_101_Dixon_or_Death_DETAILED.json",
+      "payload": {
+        "quote": "101 Operator: [05:57.4] Okay. All right.",
+        "tags": []
+      }
+    },
+    {
+      "source": "VEX_2025-06-23_101_Dixon_or_Death_DETAILED.json",
+      "payload": {
+        "quote": "Ben Carter: [05:59.2] See what I mean?",
+        "tags": []
+      }
+    },
+    {
+      "source": "VEX_2025-06-23_101_Dixon_or_Death_DETAILED.json",
+      "payload": {
+        "quote": "101 Operator: [06:00.0] I'm going to end this now because that has been reported, like you said if you've told us about it thankyou",
+        "tags": []
+      }
+    },
+    {
+      "source": "VEX_2025-06-23_101_Dixon_or_Death_DETAILED.json",
+      "payload": {
+        "quote": "Ben Carter: [06:02.6] No, you've just told me it's not",
+        "tags": []
+      }
+    },
+    {
+      "source": "VEX_2025-06-23_101_Dixon_or_Death_DETAILED.json",
+      "payload": {
+        "quote": "Ben Carter: [06:08.3] hung off a fucking gain.",
+        "tags": []
+      }
+    },
+    {
+      "source": "VEX_2025-06-23_Not_Vulnerable_Promise.json",
+      "payload": {
+        "vex_id": "VEX_2025-06-23_Not_Vulnerable_Promise",
+        "title": "Not Vulnerable… Not Me Never… Promise",
+        "date": "2025-06-23",
+        "type": "interlude_reflection",
+        "source": "SECTION_3_WORKING_DRAFT_v1.1.md",
+        "quote": "I was the victim. And I was being dismantled.",
+        "tags": [
+          "GRIEF_LOOP",
+          "ERASURE_RECOGNITION",
+          "FAKE_JUSTICE",
+          "INSTITUTIONAL_ABANDONMENT",
+          "COVER_UP_CLARITY",
+          "TRUTH_VS_SANITY",
+          "NO_ONE_TO_TELL",
+          "PLAN_A_PROVED",
+          "VICTIM_IDENTITY_ERASURE",
+          "DEATH_BY_SILENCE"
+        ],
+        "linked_timeline": [
+          "2025-06-23",
+          "POST_LOOP_DEFENSE"
+        ],
+        "emotional_tone": "grief-disguised-as-control"
+      }
+    },
+    {
+      "source": "VEX_2025-06-23_13-48_Not_Vulnerable_Promise.json",
+      "payload": {
+        "title": "Not Vulnerable... Not Me, Never... Promise",
+        "date": "2025-06-23T13:48:00+01:00",
+        "sources": [
+          "Hampshire- 23_06_25_13-48.srt",
+          "Metroppolitsn police23-06-25-13-48 .m4a.txt"
+        ],
+        "emotional_summary": "Desperate attempt to escape Sussex Police by reaching out to Hampshire and the Met. Reflects exhaustion, grief, survivor's defiance, and system-induced hopelessness.",
+        "vex_entries": [
+          {
+            "text": "In immediate danger, please",
+            "emotional_tone": "neutral",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "hang up and dial 999 now.",
+            "emotional_tone": "neutral",
+            "vex_tags": [
+              "EMERGENCY_DIVERSION"
+            ],
+            "contradiction_tags": []
+          },
+          {
+            "text": "You can report a non emergency crime",
+            "emotional_tone": "neutral",
+            "vex_tags": [
+              "NON_EMERGENCY_ROUTINE"
+            ],
+            "contradiction_tags": []
+          },
+          {
+            "text": "via our website at www.met.police.uk.",
+            "emotional_tone": "neutral",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "that's met.police.uk.",
+            "emotional_tone": "neutral",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "for custody related inquiries, please press 1.",
+            "emotional_tone": "neutral",
+            "vex_tags": [
+              "PHONE_MENU_OBSTRUCTION"
+            ],
+            "contradiction_tags": []
+          },
+          {
+            "text": "To report a new crime or",
+            "emotional_tone": "neutral",
+            "vex_tags": [
+              "REPORTING_GATEKEEPING"
+            ],
+            "contradiction_tags": []
+          },
+          {
+            "text": "antisocial behaviour, press 2.",
+            "emotional_tone": "neutral",
+            "vex_tags": [
+              "PHONE_MENU_OBSTRUCTION"
+            ],
+            "contradiction_tags": []
+          },
+          {
+            "text": "To provide or receive an update",
+            "emotional_tone": "neutral",
+            "vex_tags": [
+              "ACCESS_LOOP"
+            ],
+            "contradiction_tags": []
+          },
+          {
+            "text": "on an existing crime report, press 3.",
+            "emotional_tone": "neutral",
+            "vex_tags": [
+              "PHONE_MENU_OBSTRUCTION"
+            ],
+            "contradiction_tags": []
+          },
+          {
+            "text": "For road traffic incidents, press 4.",
+            "emotional_tone": "neutral",
+            "vex_tags": [
+              "PHONE_MENU_OBSTRUCTION"
+            ],
+            "contradiction_tags": []
+          },
+          {
+            "text": "To contact an officer or individual, press 5.",
+            "emotional_tone": "neutral",
+            "vex_tags": [
+              "OFFICER_BARRIER"
+            ],
+            "contradiction_tags": []
+          },
+          {
+            "text": "To hear these options again, press 0.",
+            "emotional_tone": "neutral",
+            "vex_tags": [
+              "PHONE_MENU_OBSTRUCTION"
+            ],
+            "contradiction_tags": []
+          },
+          {
+            "text": "Or to speak with an officer.",
+            "emotional_tone": "neutral",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "For custody related inquiries, please press 1.",
+            "emotional_tone": "neutral",
+            "vex_tags": [
+              "PHONE_MENU_OBSTRUCTION"
+            ],
+            "contradiction_tags": []
+          },
+          {
+            "text": "To report a new crime or",
+            "emotional_tone": "neutral",
+            "vex_tags": [
+              "REPORTING_GATEKEEPING"
+            ],
+            "contradiction_tags": []
+          },
+          {
+            "text": "antisocial behaviour, press 2.",
+            "emotional_tone": "neutral",
+            "vex_tags": [
+              "PHONE_MENU_OBSTRUCTION"
+            ],
+            "contradiction_tags": []
+          },
+          {
+            "text": "You can report all non emergency crimes or",
+            "emotional_tone": "neutral",
+            "vex_tags": [
+              "NON_EMERGENCY_ROUTINE"
+            ],
+            "contradiction_tags": []
+          },
+          {
+            "text": "antisocial behaviour incidents via our",
+            "emotional_tone": "neutral",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "website, visit www.met.police.ukreport.",
+            "emotional_tone": "neutral",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "that's met.police.ukreport where you",
+            "emotional_tone": "neutral",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "will find our online reporting system.",
+            "emotional_tone": "neutral",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "If a crime or antisocial behaviour you are",
+            "emotional_tone": "neutral",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "reporting occurred on the London Underground",
+            "emotional_tone": "neutral",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "or on a National rail train or station, please",
+            "emotional_tone": "neutral",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "report this to the British Transport Police.",
+            "emotional_tone": "neutral",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "I got a link.",
+            "emotional_tone": "neutral",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "0800-4050 40 that's 0800-40-5040.",
+            "emotional_tone": "neutral",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "To have this call transferred to the British",
+            "emotional_tone": "neutral",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "Transport police, please press 1.",
+            "emotional_tone": "neutral",
+            "vex_tags": [
+              "PHONE_MENU_OBSTRUCTION"
+            ],
+            "contradiction_tags": []
+          },
+          {
+            "text": "If you wish to speak with",
+            "emotional_tone": "neutral",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "an operator and report now, press 9.",
+            "emotional_tone": "neutral",
+            "vex_tags": [
+              "PHONE_MENU_OBSTRUCTION"
+            ],
+            "contradiction_tags": []
+          },
+          {
+            "text": "To end this, call it all of our operators",
+            "emotional_tone": "neutral",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "are currently busy dealing with emergencies.",
+            "emotional_tone": "neutral",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "If you are calling to report a crime or a",
+            "emotional_tone": "neutral",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "road traffic accident or antisocial",
+            "emotional_tone": "neutral",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "behaviour, you may find it quicker and",
+            "emotional_tone": "neutral",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "more convenient to use our website,",
+            "emotional_tone": "neutral",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "Simply go to www.metal.comm all of our",
+            "emotional_tone": "neutral",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "operators are currently busy dealing",
+            "emotional_tone": "neutral",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "with emergencies.",
+            "emotional_tone": "neutral",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "If you are calling to report a crime or",
+            "emotional_tone": "neutral",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "a road traffic accident or antisocial",
+            "emotional_tone": "neutral",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "behaviour, you may find it quicker",
+            "emotional_tone": "neutral",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "and more convenient to use our website.",
+            "emotional_tone": "neutral",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "Simply go to www.met.police.uk All",
+            "emotional_tone": "neutral",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "of our operators are currently busy.",
+            "emotional_tone": "neutral",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "England with emergency if you are calling to",
+            "emotional_tone": "neutral",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "report a crime or a road traffic accident or",
+            "emotional_tone": "neutral",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "antisocial behaviour, you may find it quicker",
+            "emotional_tone": "neutral",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "and more convenient to use our website.",
+            "emotional_tone": "neutral",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "Simply go to www.met.police.mhm.",
+            "emotional_tone": "neutral",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "all of our operators are currently",
+            "emotional_tone": "neutral",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "busy dealing with emergencies.",
+            "emotional_tone": "neutral",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "If you are calling to report a crime",
+            "emotional_tone": "neutral",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "or a road traffic accident or antisocial",
+            "emotional_tone": "neutral",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "behaviour, you may find it quicker",
+            "emotional_tone": "neutral",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "and more convenient to use our website.",
+            "emotional_tone": "neutral",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "Simply go to www.met.police.",
+            "emotional_tone": "neutral",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "all of our operators are currently",
+            "emotional_tone": "neutral",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "busy dealing with emergencies.",
+            "emotional_tone": "neutral",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "If you are calling to report a crime or",
+            "emotional_tone": "neutral",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "a road traffic accident or antisocial",
+            "emotional_tone": "neutral",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "behaviour, you may find it quicker",
+            "emotional_tone": "neutral",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "and more convenient to use our website.",
+            "emotional_tone": "neutral",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "Simply go to www.let.police.mhm All",
+            "emotional_tone": "neutral",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "of our operators are currently busy.",
+            "emotional_tone": "neutral",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "Is that correct.",
+            "emotional_tone": "neutral",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "Antisocial behaviour.",
+            "emotional_tone": "neutral",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "Okay.",
+            "emotional_tone": "neutral",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "What is it that you need to report",
+            "emotional_tone": "neutral",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "and more convenient to use our website,",
+            "emotional_tone": "neutral",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "Simply go to www.met.police.uk.",
+            "emotional_tone": "neutral",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "You haven't done already.",
+            "emotional_tone": "neutral",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "So my abuser.",
+            "emotional_tone": "neutral",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "All of our operators are currently",
+            "emotional_tone": "neutral",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "busy dealing with emergencies.",
+            "emotional_tone": "neutral",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "If you are calling to report a crime or a road",
+            "emotional_tone": "neutral",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "traffic accident or antisocial behaviour, you",
+            "emotional_tone": "neutral",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "may find it quicker and more convenient to use",
+            "emotional_tone": "neutral",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "our website, Simply go to www.met.police.mhm.",
+            "emotional_tone": "neutral",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "all of our operators are currently",
+            "emotional_tone": "neutral",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "busy dealing with emergencies.",
+            "emotional_tone": "neutral",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "If you are calling to report a crime or a road",
+            "emotional_tone": "neutral",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "traffic accident or antisocial behaviour, you",
+            "emotional_tone": "neutral",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "may find it quicker and more convenient to use",
+            "emotional_tone": "neutral",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "our website than to go to www.met.police.uk.",
+            "emotional_tone": "neutral",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "Hi, I've.",
+            "emotional_tone": "neutral",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "I'm from Sussex, but, I've not had a call",
+            "emotional_tone": "neutral",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "back since my suicide on April 6th.",
+            "emotional_tone": "neutral",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "I commit suicide.",
+            "emotional_tone": "neutral",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "Like, Please say Sussex.",
+            "emotional_tone": "neutral",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "Please say like.",
+            "emotional_tone": "neutral",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "I don't understand because,",
+            "emotional_tone": "neutral",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "I'm talking to you right now.",
+            "emotional_tone": "neutral",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "So you couldn't have.",
+            "emotional_tone": "neutral",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "Like, there's an active IAPC complaint, about",
+            "emotional_tone": "neutral",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "them and I can't log anything since April 6th.",
+            "emotional_tone": "neutral",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "I don't know who to speak to, in Brighton.",
+            "emotional_tone": "neutral",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "But yesterday I tried five times",
+            "emotional_tone": "neutral",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "and they just hung up on me.",
+            "emotional_tone": "neutral",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "Well.",
+            "emotional_tone": "neutral",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "I don't know what anything's about.",
+            "emotional_tone": "neutral",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "I know.",
+            "emotional_tone": "neutral",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "That's what they say.",
+            "emotional_tone": "neutral",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "That's what they say.",
+            "emotional_tone": "neutral",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "I state like, I'm the data subject.",
+            "emotional_tone": "neutral",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "Can you please tell me who my officer is?",
+            "emotional_tone": "neutral",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "They won't.",
+            "emotional_tone": "neutral",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "No, this isn't.",
+            "emotional_tone": "neutral",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "This is.",
+            "emotional_tone": "neutral",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "You're called.",
+            "emotional_tone": "neutral",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "You're through to London.",
+            "emotional_tone": "neutral",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "I.",
+            "emotional_tone": "neutral",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "I know.",
+            "emotional_tone": "neutral",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "I know that.",
+            "emotional_tone": "neutral",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "I'm aware.",
+            "emotional_tone": "neutral",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "Like, this is just a desperate",
+            "emotional_tone": "neutral",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "way of maybe, like.",
+            "emotional_tone": "neutral",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "I know.",
+            "emotional_tone": "neutral",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "Yes.",
+            "emotional_tone": "neutral",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "Yes.",
+            "emotional_tone": "neutral",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "Yeah.",
+            "emotional_tone": "neutral",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "I was just wondering if I could",
+            "emotional_tone": "neutral",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "maybe lodge a complaint or speak",
+            "emotional_tone": "neutral",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "to someone from a different force",
+            "emotional_tone": "neutral",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "because this force is erasing me.",
+            "emotional_tone": "neutral",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "No.",
+            "emotional_tone": "neutral",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "Okay.",
+            "emotional_tone": "neutral",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "Thank you.",
+            "emotional_tone": "neutral",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "Have to do it.",
+            "emotional_tone": "neutral",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "There is an IC report right now and they're",
+            "emotional_tone": "neutral",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "still ignoring me and my abusers.",
+            "emotional_tone": "neutral",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "Like two minutes down the road",
+            "emotional_tone": "neutral",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "and they won't do anything.",
+            "emotional_tone": "neutral",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "Right.",
+            "emotional_tone": "neutral",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "Yeah, but you need.",
+            "emotional_tone": "neutral",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "I know.",
+            "emotional_tone": "neutral",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "Okay.",
+            "emotional_tone": "neutral",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "Don't worry.",
+            "emotional_tone": "neutral",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "You can ring them up and say you want to make.",
+            "emotional_tone": "neutral",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "You're entitled to do this,",
+            "emotional_tone": "neutral",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "to make a complaint.",
+            "emotional_tone": "neutral",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "I have 45 mystical, 45 recordings",
+            "emotional_tone": "neutral",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "of this and nothing's happens.",
+            "emotional_tone": "neutral",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "But, like, I understand.",
+            "emotional_tone": "neutral",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "Thank you.",
+            "emotional_tone": "neutral",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "It.",
+            "emotional_tone": "neutral",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "In immediate danger, please",
+            "emotional_tone": "stressed",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "hang up and dial 999 now.",
+            "emotional_tone": "stressed",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "You can report a non emergency crime",
+            "emotional_tone": "stressed",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "via our website at www.met.police.uk.",
+            "emotional_tone": "stressed",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "that's met.police.uk.",
+            "emotional_tone": "stressed",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "for custody related inquiries, please press 1.",
+            "emotional_tone": "stressed",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "To report a new crime or",
+            "emotional_tone": "stressed",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "antisocial behaviour, press 2.",
+            "emotional_tone": "stressed",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "To provide or receive an update",
+            "emotional_tone": "stressed",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "on an existing crime report, press 3.",
+            "emotional_tone": "stressed",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "For road traffic incidents, press 4.",
+            "emotional_tone": "stressed",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "To contact an officer or individual, press 5.",
+            "emotional_tone": "stressed",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "To hear these options again, press 0.",
+            "emotional_tone": "stressed",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "Or to speak with an officer.",
+            "emotional_tone": "stressed",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "For custody related inquiries, please press 1.",
+            "emotional_tone": "stressed",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "To report a new crime or",
+            "emotional_tone": "stressed",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "antisocial behaviour, press 2.",
+            "emotional_tone": "stressed",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "You can report all non emergency crimes or",
+            "emotional_tone": "stressed",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "antisocial behaviour incidents via our",
+            "emotional_tone": "stressed",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "website, visit www.met.police.ukreport.",
+            "emotional_tone": "stressed",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "that's met.police.ukreport where you",
+            "emotional_tone": "stressed",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "will find our online reporting system.",
+            "emotional_tone": "stressed",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "If a crime or antisocial behaviour you are",
+            "emotional_tone": "stressed",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "reporting occurred on the London Underground",
+            "emotional_tone": "stressed",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "or on a National rail train or station, please",
+            "emotional_tone": "stressed",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "report this to the British Transport Police.",
+            "emotional_tone": "stressed",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "I got a link.",
+            "emotional_tone": "stressed",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "To have this call transferred to the British",
+            "emotional_tone": "stressed",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "Transport police, please press 1.",
+            "emotional_tone": "stressed",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "If you wish to speak with",
+            "emotional_tone": "stressed",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "an operator and report now, press 9.",
+            "emotional_tone": "stressed",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "To end this, call it all of our operators",
+            "emotional_tone": "stressed",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "are currently busy dealing with emergencies.",
+            "emotional_tone": "stressed",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "If you are calling to report a crime or a",
+            "emotional_tone": "stressed",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "road traffic accident or antisocial",
+            "emotional_tone": "stressed",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "behaviour, you may find it quicker and",
+            "emotional_tone": "stressed",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "more convenient to use our website,",
+            "emotional_tone": "stressed",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "Simply go to www.metal.comm all of our",
+            "emotional_tone": "stressed",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "operators are currently busy dealing",
+            "emotional_tone": "stressed",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "with emergencies.",
+            "emotional_tone": "stressed",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "If you are calling to report a crime or",
+            "emotional_tone": "stressed",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "a road traffic accident or antisocial",
+            "emotional_tone": "stressed",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "behaviour, you may find it quicker",
+            "emotional_tone": "stressed",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "and more convenient to use our website.",
+            "emotional_tone": "stressed",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "Simply go to www.met.police.uk All",
+            "emotional_tone": "stressed",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "England with emergency if you are calling to",
+            "emotional_tone": "stressed",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "report a crime or a road traffic accident or",
+            "emotional_tone": "stressed",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "antisocial behaviour, you may find it quicker",
+            "emotional_tone": "stressed",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "and more convenient to use our website.",
+            "emotional_tone": "stressed",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "Simply go to www.met.police.mhm.",
+            "emotional_tone": "stressed",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "busy dealing with emergencies.",
+            "emotional_tone": "stressed",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "If you are calling to report a crime",
+            "emotional_tone": "stressed",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "or a road traffic accident or antisocial",
+            "emotional_tone": "stressed",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "behaviour, you may find it quicker",
+            "emotional_tone": "stressed",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "and more convenient to use our website.",
+            "emotional_tone": "stressed",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "Simply go to www.met.police.",
+            "emotional_tone": "stressed",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "busy dealing with emergencies.",
+            "emotional_tone": "stressed",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "If you are calling to report a crime or",
+            "emotional_tone": "stressed",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "a road traffic accident or antisocial",
+            "emotional_tone": "stressed",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "behaviour, you may find it quicker",
+            "emotional_tone": "stressed",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "and more convenient to use our website.",
+            "emotional_tone": "stressed",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "Simply go to www.let.police.mhm All",
+            "emotional_tone": "stressed",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "Is that correct.",
+            "emotional_tone": "stressed",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "Antisocial behaviour.",
+            "emotional_tone": "stressed",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "What is it that you need to report",
+            "emotional_tone": "stressed",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "and more convenient to use our website,",
+            "emotional_tone": "stressed",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "Simply go to www.met.police.uk.",
+            "emotional_tone": "stressed",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "You haven't done already.",
+            "emotional_tone": "stressed",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "busy dealing with emergencies.",
+            "emotional_tone": "stressed",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "If you are calling to report a crime or a road",
+            "emotional_tone": "stressed",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "traffic accident or antisocial behaviour, you",
+            "emotional_tone": "stressed",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "may find it quicker and more convenient to use",
+            "emotional_tone": "stressed",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "our website, Simply go to www.met.police.mhm.",
+            "emotional_tone": "stressed",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "busy dealing with emergencies.",
+            "emotional_tone": "stressed",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "If you are calling to report a crime or a road",
+            "emotional_tone": "stressed",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "traffic accident or antisocial behaviour, you",
+            "emotional_tone": "stressed",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "may find it quicker and more convenient to use",
+            "emotional_tone": "stressed",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "our website than to go to www.met.police.uk.",
+            "emotional_tone": "stressed",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "Hi, I've.",
+            "emotional_tone": "stressed",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "I'm from Sussex, but, I've not had a call",
+            "emotional_tone": "stressed",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "back since my suicide on April 6th.",
+            "emotional_tone": "stressed",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "I commit suicide.",
+            "emotional_tone": "stressed",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "Like, Please say Sussex.",
+            "emotional_tone": "stressed",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "Please say like.",
+            "emotional_tone": "stressed",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "I don't understand because,",
+            "emotional_tone": "stressed",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "I'm talking to you right now.",
+            "emotional_tone": "stressed",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "So you couldn't have.",
+            "emotional_tone": "stressed",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "Like, there's an active IAPC complaint, about",
+            "emotional_tone": "stressed",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "them and I can't log anything since April 6th.",
+            "emotional_tone": "stressed",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "I don't know who to speak to, in Brighton.",
+            "emotional_tone": "stressed",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "But yesterday I tried five times",
+            "emotional_tone": "stressed",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "and they just hung up on me.",
+            "emotional_tone": "stressed",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "I don't know what anything's about.",
+            "emotional_tone": "stressed",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "I know.",
+            "emotional_tone": "stressed",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "I state like, I'm the data subject.",
+            "emotional_tone": "stressed",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "Can you please tell me who my officer is?",
+            "emotional_tone": "stressed",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "They won't.",
+            "emotional_tone": "stressed",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "No, this isn't.",
+            "emotional_tone": "stressed",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "This is.",
+            "emotional_tone": "stressed",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "You're called.",
+            "emotional_tone": "stressed",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "You're through to London.",
+            "emotional_tone": "stressed",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "I.",
+            "emotional_tone": "stressed",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "I know.",
+            "emotional_tone": "stressed",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "I know that.",
+            "emotional_tone": "stressed",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "I'm aware.",
+            "emotional_tone": "stressed",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "Like, this is just a desperate",
+            "emotional_tone": "stressed",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "way of maybe, like.",
+            "emotional_tone": "stressed",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "I know.",
+            "emotional_tone": "stressed",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "I was just wondering if I could",
+            "emotional_tone": "stressed",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "maybe lodge a complaint or speak",
+            "emotional_tone": "stressed",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "to someone from a different force",
+            "emotional_tone": "stressed",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "because this force is erasing me.",
+            "emotional_tone": "stressed",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "Thank you.",
+            "emotional_tone": "stressed",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "Have to do it.",
+            "emotional_tone": "stressed",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "There is an IC report right now and they're",
+            "emotional_tone": "stressed",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "still ignoring me and my abusers.",
+            "emotional_tone": "distressed",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "Like two minutes down the road",
+            "emotional_tone": "stressed",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "and they won't do anything.",
+            "emotional_tone": "stressed",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "Right.",
+            "emotional_tone": "stressed",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "Yeah, but you need.",
+            "emotional_tone": "stressed",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "I know.",
+            "emotional_tone": "stressed",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "You can ring them up and say you want to make.",
+            "emotional_tone": "stressed",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "You're entitled to do this,",
+            "emotional_tone": "stressed",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "to make a complaint.",
+            "emotional_tone": "stressed",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "I have 45 mystical, 45 recordings",
+            "emotional_tone": "stressed",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "of this and nothing's happens.",
+            "emotional_tone": "stressed",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "But, like, I understand.",
+            "emotional_tone": "stressed",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "Thank you.",
+            "emotional_tone": "stressed",
+            "vex_tags": [],
+            "contradiction_tags": []
+          },
+          {
+            "text": "It.",
+            "emotional_tone": "stressed",
+            "vex_tags": [],
+            "contradiction_tags": []
+          }
+        ],
+        "linked_contradictions": [
+          "CROWBARRING_MYSELF_JUSTICE",
+          "DEATH_BY_SILENCE",
+          "NO_CASE_OWNER_EXISTS",
+          "BLOCKED_OFFICER_ESCALATION"
+        ],
+        "tags": [
+          "EMERGENCY_DIVERSION",
+          "NON_EMERGENCY_ROUTINE",
+          "PHONE_MENU_OBSTRUCTION",
+          "SUICIDE_DISCLOSURE",
+          "OFFICER_CONFLICT",
+          "SERVICE_REQUEST",
+          "DENIED_REPORTING_PATH"
+        ]
+      }
+    }
+  ]
+}

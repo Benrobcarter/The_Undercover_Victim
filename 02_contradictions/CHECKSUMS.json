@@ -1,0 +1,205 @@
+{
+  "generated_utc": "2025-08-26T17:09:38Z",
+  "files": [
+    {
+      "path": "CHECKSUMS.json",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "path": "02_contradictions/core/project_index.json",
+      "sha256": "52cf39f5cc7e835abd1309d99243a948453ec8ac0841cdba1ac271fc9c481488",
+      "size": 4114
+    },
+    {
+      "path": "02_contradictions/core/contradictions_core.json",
+      "sha256": "4ab1a8ab8d111a1ae1a0ff3920775ec39bf64e6f9dc12e5d8d66a88123bb83c4",
+      "size": 906
+    },
+    {
+      "path": "02_contradictions/core/evidence_core.json",
+      "sha256": "3fe790f58a7673d205416cb0748bbc9de4941290b1121743619e69d26690cb42",
+      "size": 101
+    },
+    {
+      "path": "02_contradictions/core/timelines_core.json",
+      "sha256": "7ca063dc8e76a979ca4f84a961b4d14f5c951e9545a615738bd6c29866591f93",
+      "size": 103
+    },
+    {
+      "path": "02_contradictions/core/legal_map.json",
+      "sha256": "f3d44f1b0297ac7d059e633d07ace4983b046785c2112165658d42d594d8de67",
+      "size": 657
+    },
+    {
+      "path": "02_contradictions/core/working_state.json",
+      "sha256": "393be9d26c8cb83cdec4e885490e29c0ff131c73fc649895fe1ea5cd668fdc18",
+      "size": 525
+    },
+    {
+      "path": "02_contradictions/schemas/project_index.schema.json",
+      "sha256": "451498f6feaaa27f4ec69b2afa11f660e48b05cc07471d6e6facd3596f31b348",
+      "size": 603
+    },
+    {
+      "path": "02_contradictions/schemas/contradictions_core.schema.json",
+      "sha256": "c39c2c61378e2eeed88432eeb6dbff84c09ae6a4fefd6e0e3bc21428b91e497b",
+      "size": 1455
+    },
+    {
+      "path": "02_contradictions/schemas/evidence_core.schema.json",
+      "sha256": "a1b2bc9d5b21d06a13963a4508ca5cd0d1ea3f8d938a3859f7bedf42c6a2c3fe",
+      "size": 1148
+    },
+    {
+      "path": "02_contradictions/schemas/timlines_core.schema.json",
+      "sha256": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+      "size": 2
+    },
+    {
+      "path": "02_contradictions/schemas/timelines_core.schema.json",
+      "sha256": "68adc91740a11f88a898ddb7f372eb512ee4f6e86ec3ae793be05009f905bd60",
+      "size": 968
+    },
+    {
+      "path": "02_contradictions/schemas/legal_map.schema.json",
+      "sha256": "7eca2ab57b0f09c568890ce8fca31c6489e95bb188f480568886f138d2fb0501",
+      "size": 448
+    },
+    {
+      "path": "02_contradictions/schemas/working_state.schema.json",
+      "sha256": "281c666d3b9052a769d862227684985fb48757b7100944b0bdaf74cc7ff0648f",
+      "size": 296
+    },
+    {
+      "path": "02_contradictions/schemas/x.json",
+      "sha256": "f9d86028c6e0d64e225186f96acb69338b2c59764df79162107f5c4bb34d1310",
+      "size": 8
+    },
+    {
+      "path": "02_contradictions/scripts/cli.py",
+      "sha256": "7e85e5184ea6b168858de5e07023bd649bec818111aa6893a553789fc8a92406",
+      "size": 2296
+    },
+    {
+      "path": "03_analysis/masters/01_all_julys_email_claims_disputed_master.txt",
+      "sha256": "3cfd6f70b5c8cdfbd3453f2b08dc388af1e9e9036902690a35ccd39473f9e215",
+      "size": 5382
+    },
+    {
+      "path": "03_analysis/masters/02_the_hostile_takeover_master.txt",
+      "sha256": "b14de6a6a78e896319185c65635834b2eb35fdeeb7660fd4379d526fa7c254a2",
+      "size": 5599
+    },
+    {
+      "path": "03_analysis/masters/03_damages_destruction_of_business_reputation_health_master.txt",
+      "sha256": "1f823daf12a892fa33d593c41bb5523b9b688e2d8acbed72fa32bbfa25bf08ec",
+      "size": 3923
+    },
+    {
+      "path": "03_analysis/masters/04_legal_duties_breached_master.txt",
+      "sha256": "c75d47dc24b8e40a683d96ff4ece6a72a39750ab0b876a0c4555b49c0d93e31d",
+      "size": 4158
+    },
+    {
+      "path": "03_analysis/masters/06_Breach_of_Contract_and_Negligence_master.txt",
+      "sha256": "79ed32d0e799cd9405a1fb43b65bd8e6a00c9863425247aa6b22da7362111b44",
+      "size": 8145
+    },
+    {
+      "path": "03_analysis/masters/07_Safeguarding_Disclosure_&_Sustained_Institutional_Failure_master.txt",
+      "sha256": "66c1999638943a2ab16725e23a22ecb479cda6ce95ad21a462809227dce764a0",
+      "size": 6364
+    },
+    {
+      "path": "03_analysis/masters/08_The_Aftermath_&_Proof_of_Intent_master.txt",
+      "sha256": "d2e5e29b15fae87acfa950cb87ad02d156344b48f22f7c6de1fd4760323a0b97",
+      "size": 7552
+    },
+    {
+      "path": "03_analysis/masters/09_Post-Takeover_Consolidating_Control_&_Withholding_Evidence_master.txt",
+      "sha256": "e9b71f85fa2534dc651edc359ce48228a40986492b15e60223c85974000175f8",
+      "size": 3069
+    },
+    {
+      "path": "03_analysis/masters/11_Financial_Mismanagement_&_The_Ben_Carter_Target.txt",
+      "sha256": "09d79746c13534935a745167447a31d2b9f0ec1764825734d35eaaaa1dc52c75",
+      "size": 4117
+    },
+    {
+      "path": "03_analysis/masters/12_Financial_Mismanagement_Ben_Carter_Target_v2_master.txt",
+      "sha256": "3b416f2bca72bade67b1e9a3cfe6e971a57d7904e509a5d37569d6e5c381dc04",
+      "size": 5280
+    },
+    {
+      "path": "03_analysis/masters/15_Medical_Damages_and_Causation_master.txt",
+      "sha256": "15e1df0f93514cd03917fb1428a3ae4126df1be793471b97d506503f87e7c290",
+      "size": 3492
+    },
+    {
+      "path": "03_analysis/masters/16_A_Confession_of_Incompetence_master.txt",
+      "sha256": "2822a1bd395acb2cd5c914bdcfee8f427b3ef82f88b62e237cfaf3a7ed4a058a",
+      "size": 7034
+    },
+    {
+      "path": "03_analysis/masters/17_One_Month_Post-Crisis_master.txt",
+      "sha256": "e943f8ef7182ab64341f4d21182e07f0e92020fe49adea2bf2a2ee3fa5dc68ac",
+      "size": 3854
+    },
+    {
+      "path": "03_analysis/masters/18_SAR_and_VRR_Erasure_master.txt",
+      "sha256": "adaf96dcc006e57a478f3e406b66e78976e3c0dc3baaf1716184f344b80c8c5f",
+      "size": 2967
+    },
+    {
+      "path": "03_analysis/masters/19_Formal_Request_for_Disclosure_master.txt",
+      "sha256": "6cf82d50b787845de2f50418b80c9e0b461a84af2e34bb49db7279f914908bcd",
+      "size": 3049
+    },
+    {
+      "path": "04_manifest/living/ATLAS_UPDATE_LOG.txt",
+      "sha256": "789361d4e644705f0ec4450754761306d0f8416b694a2dc1a82fc12b848c31d3",
+      "size": 575
+    },
+    {
+      "path": "04_manifest/living/CONTRADICTION_ATLAS_v8_UPDATED.json",
+      "sha256": "1bb4ee3ba26ec6a9365bc2de616ce14ddc7a46d1e9805f02e6488ef7e1e708b0",
+      "size": 12487
+    },
+    {
+      "path": "04_manifest/living/ROOT_FOLDER_MAP.txt",
+      "sha256": "6279bcecbd7e666272f8fbc867107bdbd58e3ff823c294fd9a67422a9d441c38",
+      "size": 18418
+    },
+    {
+      "path": "04_manifest/living/05_Timeline_&_Contradiction_Summary_master_UPDATED.txt",
+      "sha256": "7306dbad012e218457c69152c7af2794fa74996cddda27a4e99f78f1c28ffb83",
+      "size": 8097
+    },
+    {
+      "path": "04_manifest/living/2024_abuse.txt",
+      "sha256": "d4864b371fcf184f037f80ed1ea94cbe22aff074cc106a35b112b95bae48cc10",
+      "size": 87416
+    },
+    {
+      "path": "04_manifest/living/index_current_state.txt",
+      "sha256": "d676acc97ddf4d39034017c6d6d6540aa30f6e48aa27ad2617088a66221b98af",
+      "size": 1311
+    },
+    {
+      "path": "06_meta/reference/Whistleblowing_Guidance_for_Employers_and_Code_of_Practice.pdf",
+      "sha256": "cc840d383499dbc7df56a95cdc81022c6418e245194c225d79d6b705a6a66890",
+      "size": 97776
+    },
+    {
+      "path": "06_meta/reference/Charity_Commission_Guidance_CC9.pdf",
+      "sha256": "9bc9640c73463a9eaa63bdd0658628c52728bec14dcd2ca614f06ee7c3d85cc8",
+      "size": 552771
+    },
+    {
+      "path": "99_archive_plan/ARCHIVE_PLAN.json",
+      "sha256": "bf9aca6e0b1cd6ec01725f188d04baed73c0477cf568db8a4ccaf3e02b5f7b8a",
+      "size": 659
+    }
+  ]
+}

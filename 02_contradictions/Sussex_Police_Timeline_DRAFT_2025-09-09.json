@@ -1,0 +1,323 @@
+{
+  "timeline": "SUSSEX_POLICE_CORE",
+  "generated": "2025-09-09",
+  "tz": "Europe/London",
+  "events": [
+    {
+      "id": "SUSPOL_2024-04-08_LOST_CALL",
+      "date": "2024-04-08T00:00:00+01:00",
+      "title": "“The Lost Call” — abuse threats recorded; later reported missing by Sussex Police",
+      "summary": "First anchor call documenting abuse, threats, and stalking by Alanna O’Hare. Later stated by Sussex Police as lost / not on file.",
+      "source_refs": [
+        "audio: The July Call.mp3 (later referenced)",
+        "submission: NICE link (July 2024)"
+      ],
+      "tags": [
+        "evidence_audio",
+        "stalking",
+        "abuse",
+        "lost_evidence"
+      ],
+      "timelines": [
+        "LOST_EVIDENCE_SUSSEX_POLICE"
+      ],
+      "contradictions": [
+        "LOST_EVIDENCE_SUSSEX_POLICE"
+      ],
+      "legal": [
+        {
+          "law": "Criminal Procedure and Investigations Act 1996",
+          "breach": "Failure to retain material"
+        },
+        {
+          "law": "Victims' Code",
+          "breach": "Failure to record/report appropriately"
+        }
+      ],
+      "emotional": "fear, disbelief",
+      "notes": "Cross-link to later CPS escalation citing this call."
+    },
+    {
+      "id": "SUSPOL_2024-07-21_NICE_SUBMISSION",
+      "date": "2024-07-21T00:00:00+01:00",
+      "title": "NICE link submission — July call audio + PDF (‘police please’)",
+      "summary": "Evidence submitted to Sussex Police including three recorded calls; establishes public timer (‘how do they know which one they lost?’).",
+      "source_refs": [
+        "submission: NICE link",
+        "pdf/audio bundle"
+      ],
+      "tags": [
+        "submission",
+        "evidence_audio",
+        "evidence_pdf"
+      ],
+      "timelines": [
+        "DEATH_BY_SILENCE",
+        "LOST_EVIDENCE_SUSSEX_POLICE"
+      ],
+      "contradictions": [
+        "LOST_EVIDENCE_SUSSEX_POLICE"
+      ],
+      "legal": [
+        {
+          "law": "Victims' Code",
+          "breach": "No acknowledgment/poor handling of submitted evidence"
+        }
+      ],
+      "emotional": "anxious, determined",
+      "notes": "Starting point for public silence timer on policeplease.com."
+    },
+    {
+      "id": "SUSPOL_2025-04-06_SUICIDE_ANCHOR",
+      "date": "2025-04-06T12:00:00+01:00",
+      "title": "Suicide attempt disclosed; safeguarding duty triggered",
+      "summary": "User’s suicide attempt disclosed to Sussex Police; becomes anchor for ‘Death By Silence’ escalation tracking.",
+      "source_refs": [
+        "email threads",
+        "101/999 references"
+      ],
+      "tags": [
+        "safeguarding",
+        "suicide_disclosure"
+      ],
+      "timelines": [
+        "DEATH_BY_SILENCE",
+        "SAFEGUARDING_ESCALATION"
+      ],
+      "contradictions": [
+        "POST_FRINGE_NO_CONTACT_SUICIDE_DISMISSAL"
+      ],
+      "legal": [
+        {
+          "law": "Care Act 2014",
+          "breach": "Failure to safeguard adult at risk"
+        },
+        {
+          "law": "Victims' Code",
+          "breach": "Inadequate needs assessment and updates"
+        }
+      ],
+      "emotional": "collapse, vulnerability",
+      "notes": "Anchor date set to 12:00 if hour unknown.",
+      "death_by_silence": {
+        "anchor_date": "2025-04-06T12:00:00+01:00",
+        "days_since_anchor": 0
+      }
+    },
+    {
+      "id": "SUSPOL_2025-04-08_CPS_ESCALATION",
+      "date": "2025-04-08T09:00:00+01:00",
+      "title": "Email to CPS: ‘Urgent Request for Full Case Review – CIT1201684’",
+      "summary": "Escalation to CPS citing ignored recording, suicide attempt, and request to escalate charges beyond Section 4A.",
+      "source_refs": [
+        "email: CPS escalation 2025-04-08"
+      ],
+      "tags": [
+        "escalation",
+        "cps",
+        "safeguarding"
+      ],
+      "timelines": [
+        "DEATH_BY_SILENCE",
+        "CROWBARRING_MYSELF_JUSTICE"
+      ],
+      "contradictions": [
+        "PREPARING_FOR_WAR",
+        "LOST_EVIDENCE_SUSSEX_POLICE"
+      ],
+      "legal": [
+        {
+          "law": "CPIA 1996",
+          "breach": "Material handling"
+        },
+        {
+          "law": "Victims' Code",
+          "breach": "Inadequate updates; poor communication"
+        }
+      ],
+      "emotional": "frustration, assertiveness",
+      "notes": "CIT1201684 referenced; links CPS oversight to Sussex Police handling.",
+      "death_by_silence": {
+        "anchor_date": "2025-04-06T12:00:00+01:00",
+        "days_since_anchor": 1
+      }
+    },
+    {
+      "id": "SUSPOL_2025-04-11_101_SEQUENCE",
+      "date": "2025-04-11T10:00:00+01:00",
+      "title": "‘Crowbarring Myself Justice’ — 101 call sequence (transcripts + audio)",
+      "summary": "Multiple 101 interactions attempting to force action and evidence intake post‑disclosure.",
+      "source_refs": [
+        "audio: three 101 calls (11 April 2025)",
+        "transcripts"
+      ],
+      "tags": [
+        "101",
+        "reporting",
+        "evidence_intake"
+      ],
+      "timelines": [
+        "CROWBARRING_MYSELF_JUSTICE",
+        "DEATH_BY_SILENCE"
+      ],
+      "contradictions": [
+        "POST_FRINGE_NO_CONTACT_SUICIDE_DISMISSAL"
+      ],
+      "legal": [
+        {
+          "law": "Victims' Code",
+          "breach": "Failure to provide timely updates and respect victim rights"
+        }
+      ],
+      "emotional": "exhaustion, persistence",
+      "notes": "Each call should later be split into standalone timeline nodes as transcripts are finalized.",
+      "death_by_silence": {
+        "anchor_date": "2025-04-06T12:00:00+01:00",
+        "days_since_anchor": 4
+      }
+    },
+    {
+      "id": "SUSPOL_2025-05-09_999_VISUAL_CONTACT",
+      "date": "2025-05-09T16:48:00+01:00",
+      "title": "999 call after visual contact; bail end confirmed 27 April 2025",
+      "summary": "User reports visual contact with suspect; learns bail ended on 2025‑04‑27 without notice; part of CRIME_REF_47240214305 thread.",
+      "source_refs": [
+        "999 call recording/transcript 2025‑05‑09 16:48"
+      ],
+      "tags": [
+        "999",
+        "bail",
+        "stalking"
+      ],
+      "timelines": [
+        "CRIME_REF_47240214305_THREAD",
+        "SAFEGUARDING_ESCALATION",
+        "DEATH_BY_SILENCE"
+      ],
+      "contradictions": [
+        "POST_BAIL_NO_WARNING_EXPOSURE"
+      ],
+      "legal": [
+        {
+          "law": "Bail Act / PACE",
+          "breach": "Failure to notify victim of bail status change"
+        },
+        {
+          "law": "Victims' Code",
+          "breach": "Right to be informed of key case developments"
+        }
+      ],
+      "emotional": "shock, insecurity",
+      "notes": "Police confirmation that bail ended 2025‑04‑27; risk communication failure.",
+      "death_by_silence": {
+        "anchor_date": "2025-04-06T12:00:00+01:00",
+        "days_since_anchor": 33
+      }
+    },
+    {
+      "id": "SUSPOL_2025-05-27_101_VM_SUICIDE_ACK",
+      "date": "2025-05-27T00:58:00+01:00",
+      "title": "101 voicemail: police acknowledge suicide risk, advise calling 999",
+      "summary": "Voicemail confirms Sussex Police awareness of suicide risk; no immediate safeguarding action offered.",
+      "source_refs": [
+        "audio: 27-05-25_00-58_101-VOICEMAIL-SUICIDE-3/3.mp3"
+      ],
+      "tags": [
+        "101",
+        "voicemail",
+        "suicide_disclosure"
+      ],
+      "timelines": [
+        "CROWBARRING_MYSELF_JUSTICE",
+        "DEATH_BY_SILENCE",
+        "SAFEGUARDING_ESCALATION"
+      ],
+      "contradictions": [
+        "POST_FRINGE_NO_CONTACT_SUICIDE_DISMISSAL"
+      ],
+      "legal": [
+        {
+          "law": "Care Act 2014",
+          "breach": "Inadequate safeguarding response"
+        },
+        {
+          "law": "Victims' Code",
+          "breach": "Support and communication duties"
+        }
+      ],
+      "emotional": "distress, abandonment",
+      "notes": "Handler says they will inform the officer; no active safeguarding initiated.",
+      "death_by_silence": {
+        "anchor_date": "2025-04-06T12:00:00+01:00",
+        "days_since_anchor": 50
+      }
+    },
+    {
+      "id": "SUSPOL_2025-05-27_AMBULANCE_CALL",
+      "date": "2025-05-27T17:58:00+01:00",
+      "title": "Ambulance call: confirms prior suicide attempt; alleges institutional abuse",
+      "summary": "Ambulance call records confirmation of earlier suicide attempt and allegations of Sussex Police and Brighton Fringe institutional abuse.",
+      "source_refs": [
+        "audio: ambulance call 2025-05-27 17:58"
+      ],
+      "tags": [
+        "ambulance",
+        "medical",
+        "safeguarding"
+      ],
+      "timelines": [
+        "CROWBARRING_MYSELF_JUSTICE",
+        "DEATH_BY_SILENCE",
+        "SAFEGUARDING_ESCALATION"
+      ],
+      "contradictions": [
+        "THEY_SAW_PAUSED_REFLECTED_CHOSE_DEATH"
+      ],
+      "legal": [
+        {
+          "law": "Care Act 2014",
+          "breach": "Duty to protect adult at risk"
+        }
+      ],
+      "emotional": "hurt, resolve",
+      "notes": "Cross‑link to contradiction cluster ‘They Saw, Paused, Reflected — and Chose Death’.",
+      "death_by_silence": {
+        "anchor_date": "2025-04-06T12:00:00+01:00",
+        "days_since_anchor": 51
+      }
+    },
+    {
+      "id": "SUSPOL_2025-06-22_0037_101_MONOLOGUE",
+      "date": "2025-06-22T00:37:00+01:00",
+      "title": "101 call: “1 Year Since ‘Police Please’” (monologue)",
+      "summary": "Extended monologue call marking one year since the July 2024 submission; emphasizes systemic non‑response.",
+      "source_refs": [
+        "audio/transcript: 2025‑06‑22 00:37 101 call"
+      ],
+      "tags": [
+        "101",
+        "anniversary_marker",
+        "non_response"
+      ],
+      "timelines": [
+        "DEATH_BY_SILENCE",
+        "CROWBARRING_MYSELF_JUSTICE"
+      ],
+      "contradictions": [
+        "POST_FRINGE_NO_CONTACT_SUICIDE_DISMISSAL"
+      ],
+      "legal": [
+        {
+          "law": "Victims' Code",
+          "breach": "Failure to provide meaningful updates"
+        }
+      ],
+      "emotional": "humiliation, anger",
+      "notes": "Per project notes, all lines by Ben in this version; other versions label handlers explicitly.",
+      "death_by_silence": {
+        "anchor_date": "2025-04-06T12:00:00+01:00",
+        "days_since_anchor": 76
+      }
+    }
+  ]
+}

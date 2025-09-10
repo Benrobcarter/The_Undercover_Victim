@@ -1,0 +1,20 @@
+{
+  "complaints": [
+    {
+      "ref": "CO/01732/25",
+      "submitted": "2025-09-01",
+      "confirmed": "2025-09-08",
+      "assigned_to": "Det Sgt Winter (EA705)",
+      "confirmation_by": "PC Norman (CN561)",
+      "team": "Public Confidence Team",
+      "linked_evidence": [
+        "EVID_2025-09-08_SussexPolice_ComplaintConfirmation_CO-01732-25.json"
+      ],
+      "linked_timelines": [
+        "PSD_COMPLAINT_TRACKING",
+        "COMPLAINT_ESCALATION_CHAIN"
+      ],
+      "status": "open"
+    }
+  ]
+}

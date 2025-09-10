@@ -1,0 +1,17 @@
+{
+  "status": "OK",
+  "timestamp": "2025-09-06T13:01:26.297870Z",
+  "counts": {
+    "evidence_vex": 428,
+    "audio_hashes_verified": 0,
+    "contradictions": 3,
+    "timeline": 3
+  },
+  "hashes": {
+    "evidence_vex_sha256": "07cc74684479bccedf827a14a291fca5e22305bb80da65f0b6173d6d06b609a4",
+    "contradictions_sha256": "a8fb44b529fe82ab97bb774133f1f11c0e2a3cce9ff450fce3d42cba27e2fd6e",
+    "timeline_sha256": "4dc1469af6ec4bf03d735b3629f966b30d3c070d603f163ca6b25cc250aae6f1"
+  },
+  "latest_patch": "2025-09-01",
+  "notes": "Audit confirms all merged v3 shards are present and consistent."
+}

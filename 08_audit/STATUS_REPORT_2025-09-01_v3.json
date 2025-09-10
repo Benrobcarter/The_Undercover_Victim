@@ -1,0 +1,10 @@
+{
+  "version": "1.0",
+  "summary": {
+    "contradictions_total": 3,
+    "contradictions_vex_total": 3,
+    "evidence_vex_total": 10,
+    "timelines_total": 4
+  },
+  "notes": "This report summarizes the number of items in each core shard. It is used to validate structure and coverage before export or dashboard injection."
+}

@@ -1,0 +1,90 @@
+{
+  "meta": {
+    "filename": "2024-11-04_PC_Dixon_Email_2_CRN-47240214305_VEX.json",
+    "case_reference": "47240214305",
+    "thread_label": "CRIME_REF_47240214305_THREAD",
+    "actor_cluster": [
+      "Sussex Police",
+      "PC Jon Dixon (EA817)",
+      "Ben Carter"
+    ],
+    "date_range": {
+      "start": "2024-11-04T15:35:00",
+      "end": "2024-11-04T15:35:00"
+    },
+    "source_provenance": "Email from Ben Carter to PC Jon Dixon on 4 Nov 2024 at 15:35 (provided by user)",
+    "created_at_utc": "2025-08-24T17:07:10.167654Z",
+    "vex_schema_version": "1.1"
+  },
+  "emails": [
+    {
+      "id": "email-2024-11-04-1535-ben-dixon",
+      "date": "2024-11-04T15:35:00",
+      "from": {
+        "name": "Ben Carter",
+        "email": "benrobcarter@gmail.com"
+      },
+      "to": [
+        {
+          "name": "PC Jon Dixon",
+          "email": "Jon.Dixon@sussex.police.uk",
+          "badge": "EA817"
+        }
+      ],
+      "subject_summary": "Confirmation to provide evidence",
+      "body": "Yes I can confirm I'd like to provide evidence, thank you.",
+      "attachments": [],
+      "labels": [
+        "Victim Cooperation",
+        "Evidence Willingness"
+      ]
+    }
+  ],
+  "vex": [
+    {
+      "email_id": "email-2024-11-04-1535-ben-dixon",
+      "sentence_tags": [
+        {
+          "text": "Yes I can confirm I'd like to provide evidence, thank you.",
+          "tags": [
+            "VICTIM_COOPERATION",
+            "EVIDENCE_CONFIRMATION"
+          ],
+          "notes": "Shows willingness to comply and supply requested material promptly."
+        }
+      ]
+    }
+  ],
+  "contradiction_links": [
+    {
+      "id": "SP-CONTRA-VICTIM-COOPERATED-BUT-EVIDENCE-BLOCKED-2024-11",
+      "claim": "Police suggested delays stemmed from victim failing to provide evidence.",
+      "reality": "Victim confirmed willingness to provide evidence immediately.",
+      "laws_breached": [
+        "Victims’ Code 2020 (Right to have evidence considered)"
+      ],
+      "damages": [
+        "Emotional",
+        "Reputational"
+      ]
+    }
+  ],
+  "timeline_hooks": [
+    {
+      "phase": "Investigation Start / Evidence Intake",
+      "date": "2024-11-04",
+      "events": [
+        "Ben Carter confirmed cooperation with evidence submission.",
+        "Undermines future claims that victim withheld evidence."
+      ],
+      "related_threads": [
+        "CRIME_REF_47240214305_THREAD",
+        "DEATH_BY_SILENCE"
+      ]
+    }
+  ],
+  "damages_summary": {
+    "emotional": "Demonstrates Ben's proactive cooperation; later dismissal compounds emotional harm.",
+    "reputational": "Police narrative of non-cooperation contradicted by this clear confirmation."
+  }
+}

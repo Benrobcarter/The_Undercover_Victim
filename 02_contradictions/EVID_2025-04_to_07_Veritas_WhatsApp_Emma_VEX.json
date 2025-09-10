@@ -1,0 +1,440 @@
+{
+  "meta": {
+    "evidence_id": "VEX_WhatsApp_Veritas_Emma_2024-04_to_2025-07",
+    "title": "WhatsApp — Veritas Justice (Emma) ↔ Ben Carter (Apr–Jul 2025, with earlier context)",
+    "created_at": "2025-08-30T21:59:23",
+    "type": "Messaging (WhatsApp) — partial export via screenshots/transcripts",
+    "parties": [
+      "Ben Carter",
+      "Emma (Veritas Justice)"
+    ],
+    "status": "partial_extract_from_user_paste",
+    "undated_policy": "flag_unknown",
+    "hash_notice": "Hashes here are of this JSON only; original media hashes to be captured from native export.",
+    "version": "1.0.0"
+  },
+  "timeline_span_hint": {
+    "start_local": "2025-04-14",
+    "end_local": "2025-07-08"
+  },
+  "entries": [
+    {
+      "id": "VEX_WhatsApp_Veritas_Emma_2024-04_to_2025-07_af37a7f8",
+      "date": "2025-04-14",
+      "time": null,
+      "speaker": "System",
+      "quote": "Voice call — 7 min",
+      "tags": [
+        "CALL_DURATION"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "VEX_WhatsApp_Veritas_Emma_2024-04_to_2025-07_7b034d45",
+      "date": "2025-04-14",
+      "time": null,
+      "speaker": "System",
+      "quote": "Voice call — 16 min",
+      "tags": [
+        "CALL_DURATION"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "VEX_WhatsApp_Veritas_Emma_2024-04_to_2025-07_80c7320f",
+      "date": "2025-04-14",
+      "time": null,
+      "speaker": "System",
+      "quote": "Voice call — 25 min",
+      "tags": [
+        "CALL_DURATION"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "VEX_WhatsApp_Veritas_Emma_2024-04_to_2025-07_1bd3a8ed",
+      "date": "2025-04-22",
+      "time": "12:53",
+      "speaker": "System",
+      "quote": "Voice call — No answer",
+      "tags": [
+        "CALL_MISSED"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "VEX_WhatsApp_Veritas_Emma_2024-04_to_2025-07_f87afa49",
+      "date": "2025-04-22",
+      "time": "14:18",
+      "speaker": "System",
+      "quote": "Missed voice call (Tap to call back)",
+      "tags": [
+        "CALL_MISSED"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "VEX_WhatsApp_Veritas_Emma_2024-04_to_2025-07_1a5c3ff6",
+      "date": "2025-04-22",
+      "time": null,
+      "speaker": "Emma (Veritas)",
+      "quote": "Hi Ben, I'm Emma from Veritas, the stalking service, just returning your call. Please let me know when convenient for a chat. Kind regards, Emma.",
+      "tags": [
+        "VERITAS_CONTACT"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "VEX_WhatsApp_Veritas_Emma_2024-04_to_2025-07_2fabdb39",
+      "date": "2025-04-23",
+      "time": "16:22",
+      "speaker": "System",
+      "quote": "Missed voice call (Tap to call back)",
+      "tags": [
+        "CALL_MISSED"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "VEX_WhatsApp_Veritas_Emma_2024-04_to_2025-07_acf21804",
+      "date": "2025-04-23",
+      "time": null,
+      "speaker": "System",
+      "quote": "Voice call — 44 min",
+      "tags": [
+        "CALL_DURATION"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "VEX_WhatsApp_Veritas_Emma_2024-04_to_2025-07_2eee42f4",
+      "date": "2025-05-07",
+      "time": null,
+      "speaker": "System",
+      "quote": "Voice call — 15 min",
+      "tags": [
+        "CALL_DURATION"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "VEX_WhatsApp_Veritas_Emma_2024-04_to_2025-07_dc81ec76",
+      "date": "2025-05-09",
+      "time": "15:44",
+      "speaker": "System",
+      "quote": "Voice call — No answer",
+      "tags": [
+        "CALL_MISSED"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "VEX_WhatsApp_Veritas_Emma_2024-04_to_2025-07_614f906b",
+      "date": "2025-05-09",
+      "time": null,
+      "speaker": "System",
+      "quote": "Voice call — No answer (0:53)",
+      "tags": [
+        "CALL_MISSED"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "VEX_WhatsApp_Veritas_Emma_2024-04_to_2025-07_3715507f",
+      "date": "2025-05-11",
+      "time": "20:29",
+      "speaker": "Ben",
+      "quote": "Please I need confirmation she is still on bail. The Brighton Fringe are treating us as separate partners; she is my abuser not my partner. My acts are being told there is a dispute between us, as she's photoshopped herself off bail.",
+      "tags": [
+        "BAIL_STATUS",
+        "BRIGHTON_FRINGE_REF"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "VEX_WhatsApp_Veritas_Emma_2024-04_to_2025-07_d8079224",
+      "date": "2025-05-12",
+      "time": "13:02",
+      "speaker": "Emma (Veritas)",
+      "quote": "Good morning Ben, I hope you are well. I'm sorry to hear about the difficulties you have had with Alana. I have now written to one of the police supervisors to confirm the status of the bail conditions and the investigation and I will get back to you as soon as I hear back from them. In the meantime could you please provide access to your Google Drive by replying to an email from admin@veritas-justice.co.uk so that our technical support person can scan and download the material, many thanks, and I will be in touch soon.",
+      "tags": [
+        "BAIL_ENQUIRY",
+        "POLICE_SUPERVISOR_CONTACT",
+        "EVIDENCE_COLLECTION_REQUEST",
+        "GOOGLE_DRIVE_ACCESS"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "VEX_WhatsApp_Veritas_Emma_2024-04_to_2025-07_2e7dc8f1",
+      "date": "2025-05-12",
+      "time": "14:22",
+      "speaker": "Ben",
+      "quote": "No way, PC Dixon is still my officer.",
+      "tags": [
+        "OIC_DIXON_REF"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "VEX_WhatsApp_Veritas_Emma_2024-04_to_2025-07_eab309ba",
+      "date": "2025-06-04",
+      "time": "09:58",
+      "speaker": "Ben",
+      "quote": "What's going on?",
+      "tags": [
+        "STATUS_UPDATE_REQUEST"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "VEX_WhatsApp_Veritas_Emma_2024-04_to_2025-07_80171039",
+      "date": "2025-06-04",
+      "time": "09:59",
+      "speaker": "Ben",
+      "quote": "As I've had no update I'll assume Alanna isn't off bail?",
+      "tags": [
+        "BAIL_STATUS"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "VEX_WhatsApp_Veritas_Emma_2024-04_to_2025-07_b20f859b",
+      "date": "2025-06-04",
+      "time": "09:03",
+      "speaker": "Ben",
+      "quote": "Or she is and I haven't been told?",
+      "tags": [
+        "BAIL_STATUS"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "VEX_WhatsApp_Veritas_Emma_2024-04_to_2025-07_c27231d1",
+      "date": "2025-06-09",
+      "time": "10:57",
+      "speaker": "Emma (Veritas)",
+      "quote": "Hi Ben, I hope you are ok, unfortunately I haven't got an update for you, I have been told that a supervisor has been tasked with reviewing the case and appoint a new officer. Once that has been completed someone should be making contact with you. In terms of bail I don't have any further information either. I will be chasing up again soon and will let you know as soon as I have any news. Can I double‑check that you haven't had any new incidents or further contact from Alana? Please let me know if you would like to have a chat. Kind regards, Emma.",
+      "tags": [
+        "NO_UPDATE",
+        "SUPERVISOR_REVIEW",
+        "APPOINT_NEW_OFFICER",
+        "BAIL_UNKNOWN",
+        "RISK_CHECK"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "VEX_WhatsApp_Veritas_Emma_2024-04_to_2025-07_51a99a78",
+      "date": "2025-06-09",
+      "time": "13:37",
+      "speaker": "Emma (Veritas)",
+      "quote": "I have not had any confirmation about the status of bail, unfortunately.",
+      "tags": [
+        "BAIL_UNKNOWN"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "VEX_WhatsApp_Veritas_Emma_2024-04_to_2025-07_94dff927",
+      "date": "2025-06-09",
+      "time": "13:39",
+      "speaker": "Ben",
+      "quote": "Yeah but if you haven't been told and I haven't, that means she must be on bail, Victims' Code.",
+      "tags": [
+        "VICTIMS_CODE_REF",
+        "BAIL_STATUS"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "VEX_WhatsApp_Veritas_Emma_2024-04_to_2025-07_d72f3084",
+      "date": "2025-06-09",
+      "time": "13:52",
+      "speaker": "Emma (Veritas)",
+      "quote": "Changes of investigating officers often leads to additional delays, I am chasing them, so I totally share your frustration.",
+      "tags": [
+        "OIC_CHANGE_DELAY"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "VEX_WhatsApp_Veritas_Emma_2024-04_to_2025-07_600800f2",
+      "date": "2025-06-09",
+      "time": "13:52",
+      "speaker": "Ben",
+      "quote": "What officers were at the MARAC meeting? You told me PC Dixon told you he wasn't going to be my officer; what other officers were there? I find this very strange given the meeting was about safeguarding me.",
+      "tags": [
+        "MARAC_MEETING",
+        "OIC_CHANGE",
+        "SAFEGUARDING_REF"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "VEX_WhatsApp_Veritas_Emma_2024-04_to_2025-07_2fb49a2f",
+      "date": "2025-06-09",
+      "time": "13:58",
+      "speaker": "Ben",
+      "quote": "This is not true under UK law, I have a right to be safeguarded; no one has contacted me since my suicide — this is not a procedural change, this is human rights.",
+      "tags": [
+        "SUICIDE_DISCLOSURE",
+        "SAFEGUARDING_RIGHTS",
+        "ECHR_ART2_REF"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "VEX_WhatsApp_Veritas_Emma_2024-04_to_2025-07_b898fdf2",
+      "date": "2025-06-09",
+      "time": "14:07",
+      "speaker": "Emma (Veritas)",
+      "quote": "As mentioned on our previous phone call, PC Dixon did not attend the meeting given your request that the OIC should be changed. I agree delays are not enshrined in law; however, passing over files causes delays. I am advocating for you to get answers. In terms of safety please let me know if there have been any further incidents or support required; I can consider additional referrals.",
+      "tags": [
+        "OIC_CHANGE",
+        "ADVOCACY_POSITION",
+        "SUPPORT_OFFER"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "VEX_WhatsApp_Veritas_Emma_2024-04_to_2025-07_74b3e2c2",
+      "date": "2025-06-09",
+      "time": "14:12",
+      "speaker": "Emma (Veritas)",
+      "quote": "A police representative, not the OIC.",
+      "tags": [
+        "MEETING_ATTENDEE_POLICE_GENERIC"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "VEX_WhatsApp_Veritas_Emma_2024-04_to_2025-07_cbe16ec3",
+      "date": "2025-06-09",
+      "time": "14:13",
+      "speaker": "Emma (Veritas)",
+      "quote": "Sergeant from police stalking unit — DS Burtup.",
+      "tags": [
+        "MEETING_ATTENDEE_DS_BURTUP",
+        "STALKING_UNIT_REF"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "VEX_WhatsApp_Veritas_Emma_2024-04_to_2025-07_a215608d",
+      "date": "2025-06-09",
+      "time": "14:18",
+      "speaker": "Emma (Veritas)",
+      "quote": "Email: CDAU@sussex.police.uk",
+      "tags": [
+        "CONTACT_DETAIL_POLICE_EMAIL"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "VEX_WhatsApp_Veritas_Emma_2024-04_to_2025-07_3f0e3f1a",
+      "date": "2025-06-09",
+      "time": "14:19",
+      "speaker": "Ben",
+      "quote": "They almost got me again.",
+      "tags": [
+        "SUICIDE_RISK_ESCALATION"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "VEX_WhatsApp_Veritas_Emma_2024-04_to_2025-07_c6d2701d",
+      "date": "2025-06-09",
+      "time": "14:21",
+      "speaker": "Ben",
+      "quote": "Yeah could you tell Sussex Police for me; they should know by law. Maybe they weren't told.",
+      "tags": [
+        "REQUEST_NOTIFY_POLICE",
+        "SUICIDE_DISCLOSURE"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "VEX_WhatsApp_Veritas_Emma_2024-04_to_2025-07_7ac2ebb6",
+      "date": "2025-06-23",
+      "time": "19:06",
+      "speaker": "Ben",
+      "quote": "Shared: Google Drive link — 'Alanna 22-05-25 00-35 accuses me of raping her – VEED (1).mp4'",
+      "tags": [
+        "EVIDENCE_LINK",
+        "SERIOUS_ALLEGATION_REF"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "VEX_WhatsApp_Veritas_Emma_2024-04_to_2025-07_159c7f71",
+      "date": "2025-06-23",
+      "time": "19:07",
+      "speaker": "Ben",
+      "quote": "The police hang up when I ring.",
+      "tags": [
+        "POLICE_CONTACT_FAILURE"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "VEX_WhatsApp_Veritas_Emma_2024-04_to_2025-07_c4eb7f4f",
+      "date": "2025-06-23",
+      "time": "19:19",
+      "speaker": "Ben",
+      "quote": "This isn’t sustainable, I can't live; it's one year since I said 'police please'.",
+      "tags": [
+        "DISTRESS_SIGNAL",
+        "ANNIVERSARY_REF"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "VEX_WhatsApp_Veritas_Emma_2024-04_to_2025-07_18511ef7",
+      "date": "2025-06-23",
+      "time": "19:23",
+      "speaker": "Ben",
+      "quote": "I haven't left the flat since May 8th; they've completely dismantled my life.",
+      "tags": [
+        "ISOLATION_IMPACT"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "VEX_WhatsApp_Veritas_Emma_2024-04_to_2025-07_c95091ae",
+      "date": "2025-07-08",
+      "time": null,
+      "speaker": "System",
+      "quote": "Voice call — (duration unknown)",
+      "tags": [
+        "CALL_EVENT"
+      ],
+      "notes": "Placeholder from paste end; confirm from native export."
+    }
+  ],
+  "contradiction_links": [
+    {
+      "code": "POLICE_CANNOT_LOCATE_VS_VERITAS_FORWARD",
+      "description": "Police 'cannot locate' evidence vs Veritas agreement to receive and forward."
+    },
+    {
+      "code": "NO_SAFEGUARDING_REF_AT_SUICIDE_DISCLOSURE",
+      "description": "Suicide disclosure without contemporaneous safeguarding referral or contact."
+    },
+    {
+      "code": "BAIL_STATUS_UNCERTAINTY",
+      "description": "Extended uncertainty regarding bail status despite repeated enquiries."
+    },
+    {
+      "code": "OIC_CHANGE_DELAY_JUSTIFICATION",
+      "description": "Delays justified by OIC change vs safeguarding urgency obligations."
+    }
+  ],
+  "legal_mapping": [
+    "Victims’ Code (updates, communication, safety planning)",
+    "UK GDPR Art. 15 (access to personal data; native copies)",
+    "UK GDPR Art. 12(3) (timely response / staged disclosure)",
+    "DPA 2018 – accountability / records of processing",
+    "ECHR Art. 2 operational duty (suicide risk context)"
+  ]
+}

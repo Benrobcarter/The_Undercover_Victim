@@ -1,0 +1,29 @@
+{
+  "charity": "Brighton Fringe Ltd",
+  "charity_number": "1116367",
+  "serious_incident": true,
+  "violations": [
+    "Failure to safeguard under Care Act 2014",
+    "Failure to minute removal of complainant",
+    "Defamation via mass client email",
+    "Data withholding (SAR non-compliance)",
+    "Governance failure by omission of key actors"
+  ],
+  "evidence_links": [
+    "shard_contradictions_core_BF_BATCH_02_legal.json",
+    "shard_manifest_meta_BF_BATCH_02_legal.json",
+    "vex_tag_reference_BF_BATCH_02_legal.json"
+  ],
+  "trustees_named": [
+    "Duncan Lustig-Prean",
+    "Amy Keogh",
+    "Alice Wright",
+    "Board of Trustees (collective)"
+  ],
+  "recommended_agencies": [
+    "Charity Commission (CC47)",
+    "Information Commissioner's Office (ICO)",
+    "High Court (for defamation)",
+    "EHRC (for disability discrimination)"
+  ]
+}

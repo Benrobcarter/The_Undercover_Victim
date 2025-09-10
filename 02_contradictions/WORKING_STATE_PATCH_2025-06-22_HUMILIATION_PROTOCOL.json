@@ -1,0 +1,151 @@
+{
+  "meta": {
+    "patch_id": "WORKING_STATE_PATCH_2025-06-22_HUMILIATION_PROTOCOL",
+    "created_at": "2025-08-26T02:21:24.734400+00:00",
+    "notes": "Drop-in patch for the 22-06-2025 101 'Humiliation Protocol' call. No scripts needed."
+  },
+  "edit_queue": [
+    {
+      "target": "shard_evidence_vex",
+      "action": "append_object",
+      "object": {
+        "meta": {
+          "evidence_id": "VEX_2025-06-22_101_Humiliation_Protocol",
+          "title": "22-06-2025 — 101 Call: The Humiliation Protocol",
+          "date_local": "2025-06-22",
+          "parties": [
+            "Ben Carter",
+            "Sussex Police (101 Handler)"
+          ],
+          "clusters": [
+            "SUSSEX_POLICE",
+            "101_CALLS",
+            "VICTIM_ERASURE_CONTINUED",
+            "GDPR_MISUSE_FOR_SILENCING",
+            "LOST_EVIDENCE_SUSSEX_POLICE",
+            "DEATH_BY_SILENCE_ESCALATION"
+          ],
+          "status": "pending_audio_attachment",
+          "source_hint": "Transcript Section 3.17 + audio placeholder",
+          "version": "1.0.0"
+        },
+        "content": {
+          "claim_summary": "25-minute 101 call: handler mocks victim, denies Victims’ Code, misstates GDPR, refuses new crime logging.",
+          "key_quotes": [
+            {
+              "t": "01:20",
+              "speaker": "101 Handler",
+              "text": "You're not dead, are you?",
+              "grade": "gold"
+            },
+            {
+              "t": "01:48",
+              "speaker": "Ben Carter",
+              "text": "I'm not a ghost. That was insulting.",
+              "grade": "silver"
+            },
+            {
+              "t": "24:06",
+              "speaker": "101 Handler",
+              "text": "You don't get to quote the Victim's Code... and then you get exactly what you want.",
+              "grade": "gold"
+            },
+            {
+              "t": "23:30",
+              "speaker": "Ben Carter",
+              "text": "I've called 45 times since April 6th and I have not had a call back.",
+              "grade": "silver"
+            }
+          ],
+          "related_material": [
+            {
+              "label": "Transcript (analysis)",
+              "path": "/mnt/data/Section 3.17 - The Humiliation Protocol Call.docx.txt"
+            },
+            {
+              "label": "Audio placeholder",
+              "path": "01_evidence/audio/2025/22-06-25_0506_101_Call_Embarrassing_Now.mp3.txt"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "target": "shard_contradictions_vex",
+      "action": "append_object",
+      "object": {
+        "meta": {
+          "contradiction_id": "CONTRA_2025-06-22_101_Humiliation_Protocol",
+          "title": "101 Humiliation Protocol — Rights Denied, Records Distorted",
+          "date_local": "2025-06-22",
+          "parties": [
+            "Ben Carter",
+            "Sussex Police (101 Handler)"
+          ],
+          "clusters": [
+            "SUSSEX_POLICE",
+            "VICTIM_ERASURE_CONTINUED",
+            "GDPR_MISUSE_FOR_SILENCING",
+            "DEATH_BY_SILENCE_ESCALATION"
+          ],
+          "status": "open",
+          "source_evidence": [
+            "VEX_2025-06-22_101_Humiliation_Protocol"
+          ]
+        },
+        "assertions": [
+          {
+            "code": "CASE_STATUS_INCONSISTENT",
+            "desc": "Handler says no officer; later says Dixon is attached."
+          },
+          {
+            "code": "VICTIMS_CODE_DENIAL",
+            "desc": "Callback/update refused after Victims’ Code citation."
+          },
+          {
+            "code": "GDPR_MISAPPLICATION_BAIL_INFO",
+            "desc": "Bail status withheld citing GDPR."
+          },
+          {
+            "code": "EVIDENCE_LOGGING_OBSTRUCTED",
+            "desc": "Fresh harassment not logged as crime/update."
+          },
+          {
+            "code": "CONTACT_RECORDS_MISSING",
+            "desc": "Victim reports 45 prior calls not acted on."
+          },
+          {
+            "code": "HUMILIATION_PROTOCOL_QUOTE",
+            "desc": "Handler: 'You’re not dead, are you?'"
+          }
+        ]
+      }
+    },
+    {
+      "target": "shard_timelines_core",
+      "action": "append_object",
+      "object": {
+        "event_id": "EVT_2025-06-22_101_Humiliation_Protocol",
+        "when": "2025-06-22T05:06:00",
+        "tz": "Europe/London",
+        "title": "101 Call — 'Humiliation Protocol' (25m)",
+        "summary": "Handler denies Victims’ Code callback, misstates GDPR, gives inconsistent officer allocation, refuses to log new harassment.",
+        "tags": [
+          "101_CALLS",
+          "VICTIMS_CODE_DENIAL",
+          "GDPR_MISAPPLICATION_BAIL_INFO",
+          "CASE_STATUS_INCONSISTENT",
+          "EVIDENCE_LOGGING_OBSTRUCTED",
+          "VICTIM_ERASURE_CONTINUED"
+        ],
+        "related_evidence": [
+          "VEX_2025-06-22_101_Humiliation_Protocol"
+        ],
+        "related_contradictions": [
+          "CONTRA_2025-06-22_101_Humiliation_Protocol"
+        ],
+        "risk": "high"
+      }
+    }
+  ]
+}

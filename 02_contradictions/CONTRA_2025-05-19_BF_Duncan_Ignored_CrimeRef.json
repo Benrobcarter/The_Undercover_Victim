@@ -1,0 +1,27 @@
+{
+  "id": "BF-CONTRA-DUNCAN-IGNORED-CRIME-REF-2025-05-19",
+  "claim": "Brighton Fringe leadership acted independently of any criminal implications in removing Ben Carter.",
+  "reality": "Despite being aware of a live crime reference (47250093423) against Duncan Lustig-Prean for stalking and harassment, Brighton Fringe refused to acknowledge this or factor it into their board decision-making. Duncan retained sole control over the board minutes, while Sussex Police had already assigned an investigating officer (PC Alan Russell).",
+  "source_files": [
+    "EVID_2025-07-20_BrightonFringe_BoardMinutes_RemovalRequest_Refused.json",
+    "EVID_2025-05-19_SussexPolice_OfficerAssignment_47250093423_PC_Russell.json"
+  ],
+  "laws_breached": [
+    "Charities Act 2011",
+    "Care Act 2014",
+    "Charity Commission CC9",
+    "GDPR (withholding material safeguarding data)"
+  ],
+  "damages": [
+    "Reputational",
+    "Emotional",
+    "Legal Obstruction"
+  ],
+  "actor_cluster": "Brighton Fringe",
+  "tags": [
+    "CRIME_REF_47250093423_CITED",
+    "SAFEGUARDING_DISCLOSURE_IGNORED",
+    "TRUSTEE_DUTY_BREACH",
+    "DUNCAN_SOLE_BOARD_MEMBER_VEX"
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "contradiction": {
+    "id": "BF-CONTRA-SUICIDE_MINIMISATION-2025-04-09",
+    "meta": {
+      "title": "Suicide Disclosure Minimized in Safeguarding Meeting",
+      "tags": [
+        "SAFEGUARDING_MEETING",
+        "POLICY_VS_PRACTICE",
+        "2024_ERASURE",
+        "SUICIDE_MINIMISATION",
+        "DUNCAN_ASSISTED_ERASURE",
+        "DEATH_BY_SILENCE",
+        "VENUE_TAKEOVER_THREAT",
+        "INSTITUTIONAL_GASLIGHTING",
+        "LOST_EVIDENCE_SUSSEX_POLICE"
+      ],
+      "created_at": "2025-08-31T22:00:50.159944",
+      "source_file": "SAFEGUARDING_MEETING_2025-04-09_BUNDLE_v1.json",
+      "source_description": "Transcript of Brighton Fringe safeguarding meeting on 9 April 2025"
+    },
+    "summary": "Ben Carter disclosed a suicide attempt at the beginning of the meeting. No safeguarding plan was initiated. Multiple disclosures—including coercive control, burnout, police evidence loss, and emotional collapse—were redirected, ignored, or used as justifications for Brighton Fringe's operational control. This breach contradicts their formal safeguarding policy (Feb 2025)."
+  },
+  "timeline_entry": {
+    "date": "2025-04-09",
+    "summary": "Brighton Fringe safeguarding meeting fails to act on suicide risk disclosure; meeting redirects toward operational control.",
+    "tags": [
+      "SAFEGUARDING_MEETING",
+      "SUICIDE_MINIMISATION",
+      "2024_ERASURE",
+      "VENUE_TAKEOVER_THREAT",
+      "DEATH_BY_SILENCE",
+      "CROWBARRING_MYSELF_JUSTICE"
+    ],
+    "linked_documents": [
+      "BF-SAFEGUARDING_MEETING_CONTRADICTION_PATCH.json"
+    ],
+    "quote_refs": [
+      "BF-Q-0409-THIS-YEAR"
+    ]
+  },
+  "vex_evidence_entry": {
+    "id": "VEX_2025-04-09_Safeguarding_Meeting_Suicide_Minimisation",
+    "meta": {
+      "date": "2025-04-09",
+      "source": "Transcript of safeguarding meeting provided in meeting bundle.",
+      "tags": [
+        "SAFEGUARDING_MEETING",
+        "POLICY_VS_PRACTICE",
+        "2024_ERASURE",
+        "SUICIDE_MINIMISATION",
+        "DUNCAN_ASSISTED_ERASURE",
+        "DEATH_BY_SILENCE",
+        "VENUE_TAKEOVER_THREAT",
+        "INSTITUTIONAL_GASLIGHTING",
+        "LOST_EVIDENCE_SUSSEX_POLICE"
+      ],
+      "linked_contradictions": [
+        "BF-CONTRA-SUICIDE_MINIMISATION-2025-04-09"
+      ],
+      "quote_refs": [
+        "BF-Q-0409-THIS-YEAR"
+      ],
+      "source_file": "BF-SAFEGUARDING_MEETING_CONTRADICTION_PATCH.json"
+    },
+    "summary": "Transcript of Brighton Fringe meeting reveals systemic minimisation of suicide disclosure and emotional collapse. No safeguarding actions taken."
+  },
+  "quote_cards": [
+    {
+      "id": "BF-Q-0409-THIS-YEAR",
+      "meta": {
+        "title": "We’re talking about this year.",
+        "author": "Duncan Lustig-Prean",
+        "tags": [
+          "QUOTE",
+          "SAFEGUARDING_MEETING",
+          "2024_ERASURE",
+          "GASLIGHTING",
+          "VENUE_TAKEOVER_THREAT",
+          "POLICY_VS_PRACTICE"
+        ],
+        "source_file": "BF-SAFEGUARDING_MEETING_CONTRADICTION_PATCH.json",
+        "source_section": "safeguarding_meeting_transcript",
+        "added_at": "2025-08-31T22:00:50.159889"
+      },
+      "text": "We’re talking about this year. We don’t have to go over last year."
+    }
+  ],
+  "book_crosswalk": {
+    "chapter_id": "sec2_safeguarding_meeting",
+    "chapter_title": "2.5 — The Meeting That Ignored My Suicide",
+    "paragraph_index": 0,
+    "timeline_refs": [
+      "SAFEGUARDING_MEETING_2025-04-09"
+    ],
+    "vex_tags": [
+      "SAFEGUARDING_MEETING",
+      "POLICY_VS_PRACTICE",
+      "2024_ERASURE",
+      "SUICIDE_MINIMISATION",
+      "DUNCAN_ASSISTED_ERASURE",
+      "DEATH_BY_SILENCE",
+      "VENUE_TAKEOVER_THREAT",
+      "INSTITUTIONAL_GASLIGHTING",
+      "LOST_EVIDENCE_SUSSEX_POLICE"
+    ],
+    "contradictions": [
+      {
+        "code": "BF-CONTRA-SUICIDE_MINIMISATION-2025-04-09",
+        "shard_matches": []
+      }
+    ]
+  }
+}

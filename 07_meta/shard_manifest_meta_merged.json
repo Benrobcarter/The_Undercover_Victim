@@ -1,0 +1,53 @@
+{
+  "generated_at": "2025-09-01T03:33:58.333403",
+  "files": [
+    {
+      "name": "BF-CONTRA-ALICE-BACKCHANNEL-DISCLOSURE-2025",
+      "path": "UNKNOWN",
+      "type": "contradiction",
+      "tags": [
+        "TRUST_EXPLOITATION",
+        "SAFEGUARDING_DEFLECTION",
+        "GDPR_SPECIAL_CATEGORY_DATA_BREACH",
+        "DUNCAN_ASSISTED_ERASURE",
+        "NARRATIVE_CONTROL",
+        "CROWBARRING_MYSELF_JUSTICE"
+      ],
+      "contradictions": [
+        "BF-CONTRA-ALICE-BACKCHANNEL-DISCLOSURE-2025"
+      ]
+    },
+    {
+      "name": "SAR_BF_2025-06-24_BoardMeeting_PreDecision",
+      "path": "UNKNOWN",
+      "type": "evidence_vex",
+      "tags": [
+        "DPA_GDPR",
+        "SAR_STRUCTURAL_ABSENCE",
+        "RECORDS_AUDIT",
+        "INSTITUTIONAL_GASLIGHTING",
+        "DEATH_BY_SILENCE"
+      ],
+      "contradictions": [
+        "BF-CONTRA-SAR-GDPR-BREACH-2025",
+        "BF-CONTRA-NO-RECORD-OF-ALLEGATIONS-2025"
+      ]
+    },
+    {
+      "name": "SAR_BF_2025-07-20_Board_Minutes",
+      "path": "UNKNOWN",
+      "type": "evidence_vex",
+      "tags": [
+        "DPA_GDPR",
+        "SAR_STRUCTURAL_ABSENCE",
+        "GOVERNANCE_FAILURE",
+        "RECORDS_AUDIT",
+        "DEATH_BY_SILENCE"
+      ],
+      "contradictions": [
+        "BF-CONTRA-SAR-GDPR-BREACH-2025",
+        "DUNCAN_ASSISTED_ERASURE"
+      ]
+    }
+  ]
+}

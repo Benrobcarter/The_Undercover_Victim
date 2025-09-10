@@ -1,0 +1,25 @@
+{
+  "generated_at": "2025-08-26T00:00:00Z",
+  "quote_injection_status": [
+    {
+      "file": "VEX_2024-12-10_Cordell_Email_701211.json",
+      "quotes_found": 0,
+      "status": "pending (no source text available)"
+    },
+    {
+      "file": "VEX_2024-12-12_to_12-19_Email_Thread.json",
+      "quotes_found": 0,
+      "status": "pending (no source text available)"
+    },
+    {
+      "file": "VEX_2025-06-29_to_06-30_Honeypot_Email.json",
+      "quotes_found": 0,
+      "status": "pending (no source text available)"
+    },
+    {
+      "file": "VEX_2024-12-10_Section_3.43_Companion.json",
+      "quotes_found": 0,
+      "status": "pending (no source text available)"
+    }
+  ]
+}

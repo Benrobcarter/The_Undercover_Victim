@@ -1,0 +1,109 @@
+{
+  "meta": {
+    "filename": "2025-02-06_PC_Dixon_Email_12_CRN-47240214305_VEX.json",
+    "case_reference": "47240214305",
+    "thread_label": "CRIME_REF_47240214305_THREAD",
+    "actor_cluster": [
+      "Sussex Police",
+      "PC Jon Dixon (EA817)",
+      "Ben Carter"
+    ],
+    "date_range": {
+      "start": "2025-02-06T21:53:00",
+      "end": "2025-02-06T21:53:00"
+    },
+    "source_provenance": "Email from Ben Carter to PC Jon Dixon on 6 Feb 2025 at 21:53 (provided by user)",
+    "created_at_utc": "2025-08-24T18:10:19.960326Z",
+    "vex_schema_version": "1.1"
+  },
+  "emails": [
+    {
+      "id": "email-2025-02-06-2153-ben-dixon",
+      "date": "2025-02-06T21:53:00",
+      "from": {
+        "name": "Ben Carter",
+        "email": "benrobcarter@gmail.com"
+      },
+      "to": [
+        {
+          "name": "PC Jon Dixon",
+          "email": "Jon.Dixon@sussex.police.uk",
+          "badge": "EA817"
+        }
+      ],
+      "subject_summary": "Query re: bail breach update",
+      "body": "Have you received the update? Breaking bail? It's really done me in this one, and heard nothing.",
+      "attachments": [],
+      "labels": [
+        "Victim Concern",
+        "Bail Breach Report",
+        "No Response"
+      ]
+    }
+  ],
+  "vex": [
+    {
+      "email_id": "email-2025-02-06-2153-ben-dixon",
+      "sentence_tags": [
+        {
+          "text": "Have you received the update?",
+          "tags": [
+            "UPDATE_REQUEST",
+            "EVIDENCE_QUERY"
+          ],
+          "notes": "Ben asks if police received new information or report of breach."
+        },
+        {
+          "text": "Breaking bail?",
+          "tags": [
+            "BAIL_BREACH_QUERY",
+            "SAFEGUARDING_RISK"
+          ],
+          "notes": "Explicitly queries breach of bail conditions."
+        },
+        {
+          "text": "It's really done me in this one, and heard nothing.",
+          "tags": [
+            "VICTIM_DISTRESS",
+            "NO_RESPONSE",
+            "DEATH_BY_SILENCE"
+          ],
+          "notes": "Emotional impact of lack of police response; links to ongoing silence pattern."
+        }
+      ]
+    }
+  ],
+  "contradiction_links": [
+    {
+      "id": "SP-CONTRA-BAIL-BREACH-IGNORED-2025-02",
+      "claim": "Police responded adequately to potential breaches of bail conditions.",
+      "reality": "Victim raised suspected breach on 6 Feb 2025 but reported hearing nothing back.",
+      "laws_breached": [
+        "Victims’ Code 2020 (Right to updates on case progress)",
+        "Care Act 2014 (s.42 safeguarding duty)"
+      ],
+      "damages": [
+        "Emotional",
+        "Medical"
+      ]
+    }
+  ],
+  "timeline_hooks": [
+    {
+      "phase": "Investigation – Bail Monitoring",
+      "date": "2025-02-06",
+      "events": [
+        "Ben emails Dixon asking if police received update on suspected bail breach.",
+        "Reports emotional harm from lack of response."
+      ],
+      "related_threads": [
+        "CRIME_REF_47240214305_THREAD",
+        "DEATH_BY_SILENCE"
+      ]
+    }
+  ],
+  "damages_summary": {
+    "emotional": "Victim left in distress by suspected bail breach and silence from police.",
+    "medical": "Stress contributes to deterioration of health and wellbeing."
+  }
+}

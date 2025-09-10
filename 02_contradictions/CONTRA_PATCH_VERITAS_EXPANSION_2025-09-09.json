@@ -1,0 +1,55 @@
+{
+  "patch_type": "contradiction_cluster_update",
+  "cluster_id": "CLUSTER_SUSSEX_POLICE_TIMELINE_MANIPULATION",
+  "updated_on": "2025-09-09T12:58:24",
+  "source_bundle": "VERITAS_VEX_SPLIT_EXPANSION",
+  "notes": "Contradictions from Veritas call vs Sussex Police fabricated logs, NICE link denial, and timeline rewriting.",
+  "add": {
+    "contradictions": [
+      {
+        "id": "CONTRA_VERITAS_WELFARE_FABRICATION",
+        "title": "Welfare checks on 18 & 22 June 2025 were fabricated",
+        "expected_record": "Safeguarding records should match real contact logs and victim testimony",
+        "observed_record": "Police claimed welfare calls that Veritas repeated \u2014 but victim confirms no such calls ever occurred",
+        "window": "2025-06-18 to 2025-06-25",
+        "themes": [
+          "fabricated_logs",
+          "safeguarding_failure",
+          "iopc_obstruction"
+        ],
+        "evidence": [
+          "EVID_2025-06-25_1022_Veritas_Call_WriteUp.json",
+          "VERITAS_MERGED_2025-08-25.json"
+        ]
+      },
+      {
+        "id": "CONTRA_CASE_BACKDATED",
+        "title": "Case was backdated to November, hiding pre-existing safeguarding risks",
+        "expected_record": "Case start date should reflect earliest police involvement \u2014 July or earlier",
+        "observed_record": "Police told Veritas case only started in November. Veritas repeated this, contradicting multiple July disclosures.",
+        "themes": [
+          "timeline_manipulation",
+          "suicide_logging_failure",
+          "case_file_falsification"
+        ],
+        "evidence": [
+          "VERITAS_MERGED_2025-08-25.json"
+        ]
+      },
+      {
+        "id": "CONTRA_DIXON_NOT_REMOVED",
+        "title": "PC Dixon still assigned to case despite formal removal request",
+        "expected_record": "Dixon removed from case post-suicide per safeguarding protocol",
+        "observed_record": "Veritas states Dixon still involved in June 2025 \u2014 contradicts police's internal handling and retraumatises victim",
+        "themes": [
+          "decoy_officer_strategy",
+          "emotional_breach",
+          "institutional_coercion"
+        ],
+        "evidence": [
+          "VERITAS_MERGED_2025-08-25.json"
+        ]
+      }
+    ]
+  }
+}

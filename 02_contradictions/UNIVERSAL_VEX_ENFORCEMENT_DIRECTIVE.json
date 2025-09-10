@@ -1,0 +1,34 @@
+{
+  "meta": {
+    "created": "2025-06-06T09:56:16.172986Z",
+    "purpose": "Universal Evidence Project \u2013 Persistent VEX Enforcement Directive",
+    "enforcement_level": "critical"
+  },
+  "directives": {
+    "undated_evidence_policy": {
+      "rule": "Any evidence or message without a valid date must be automatically flagged.",
+      "flag_tag": "missing_date",
+      "action_required": true,
+      "priority": "highest"
+    },
+    "vex_tagging_policy": {
+      "rule": "VEX tagging must be intuitive and adaptive, reflecting inferred themes, actors, and contradictions.",
+      "inheritance": "All future chats and modules must reuse and expand prior tagging logic.",
+      "allow_experimentation": true,
+      "allow_inference": true
+    },
+    "chat_behavior_guidance": {
+      "each_chat": {
+        "should": [
+          "learn from previous contradiction tagging patterns",
+          "introduce improved or creative tagging methods when useful",
+          "highlight anomalies in date logic or emotional contradictions"
+        ],
+        "must": [
+          "flag undated evidence",
+          "generate explainable VEX outputs"
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,239 @@
+{
+  "meta": {
+    "generated_at": "2025-08-26T00:53:24.799404Z",
+    "count": 17
+  },
+  "contradictions": [
+    {
+      "source_id": "VEX_2025-04-17_0432_101_Holiday_Alibi_REBUILT",
+      "source_path": "/mnt/data/VEX_2025-04-17_0432_101_Holiday_Alibi_REBUILT.json",
+      "code": "JULY_VS_NOVEMBER",
+      "title": "System displays July report but crime reference shows as November; handler cannot explain discrepancy while insisting it's one linked incident and 'under investigation'.",
+      "claim": "System displays July report but crime reference shows as November; handler cannot explain discrepancy while insisting it's one linked incident and 'under investigation'.",
+      "impact": [
+        "Record integrity concerns",
+        "Continuity confusion for victim",
+        "Grounds for VRR/IOPC review"
+      ],
+      "legal_risks": null,
+      "priority": null
+    },
+    {
+      "source_id": "VEX_2025-04-17_0432_101_Holiday_Alibi_REBUILT",
+      "source_path": "/mnt/data/VEX_2025-04-17_0432_101_Holiday_Alibi_REBUILT.json",
+      "code": "CLOSED_VS_UNDER_INVESTIGATION",
+      "title": "Caller states July case was closed; handler states it is 'under investigation' and 'not coming up on the system yet' as closed.",
+      "claim": "Caller states July case was closed; handler states it is 'under investigation' and 'not coming up on the system yet' as closed.",
+      "impact": [
+        "Transparency breach under Victims' Code",
+        "Anxiety/uncertainty escalation"
+      ],
+      "legal_risks": null,
+      "priority": null
+    },
+    {
+      "source_id": "VEX_2025-04-17_0432_101_Holiday_Alibi_REBUILT",
+      "source_path": "/mnt/data/VEX_2025-04-17_0432_101_Holiday_Alibi_REBUILT.json",
+      "code": "CHAIN_ON_LEAVE",
+      "title": "OIC (Dixon) and both supervisors (Duffy, Palmer) simultaneously on leave, leaving no informed contact for the victim.",
+      "claim": "OIC (Dixon) and both supervisors (Duffy, Palmer) simultaneously on leave, leaving no informed contact for the victim.",
+      "impact": [
+        "Safeguarding continuity risk",
+        "Escalation bottleneck"
+      ],
+      "legal_risks": null,
+      "priority": null
+    },
+    {
+      "source_id": "VEX_2025-04-17_0432_101_Holiday_Alibi_REBUILT",
+      "source_path": "/mnt/data/VEX_2025-04-17_0432_101_Holiday_Alibi_REBUILT.json",
+      "code": "NO_DETAILS_CONTACT_CENTRE",
+      "title": "Handler refuses to go through case details citing lack of authority and not being an officer; only offers to email OIC/supervisor and advises 999.",
+      "claim": "Handler refuses to go through case details citing lack of authority and not being an officer; only offers to email OIC/supervisor and advises 999.",
+      "impact": [
+        "Information access barrier",
+        "Potential misuse of process to avoid updates"
+      ],
+      "legal_risks": null,
+      "priority": null
+    },
+    {
+      "source_id": "VEX_2024-11-07_Dixon_Deletion_Log",
+      "source_path": "/mnt/data/VEX_2024-11-07_Dixon_Deletion_Log.json",
+      "code": "EVIDENCE_DELETION",
+      "title": "Key audio evidence was listened to and then deleted by the OIC.",
+      "claim": "Key audio evidence was listened to and then deleted by the OIC.",
+      "impact": [
+        "Loss of primary record; reliance on secondary copies/routes",
+        "Prejudices defence/prosecution review; undermines VRR/oversight",
+        "Supports LOST_EVIDENCE_SUSSEX_POLICE contradiction group"
+      ],
+      "legal_risks": [
+        "CPIA 1996 Code of Practice — retention of material that may be relevant to the investigation or disclosure",
+        "Disclosure schedules (e.g., MG6C) — duty to reveal existence of material",
+        "DPA 2018 Part 3 — integrity and accuracy of law-enforcement processing"
+      ],
+      "priority": null
+    },
+    {
+      "source_id": "VEX_2024-11-07_Dixon_Deletion_Log",
+      "source_path": "/mnt/data/VEX_2024-11-07_Dixon_Deletion_Log.json",
+      "code": "RECORD_INTEGRITY",
+      "title": "Deletion conflicts with later assertions that the case was fully reviewed and managed appropriately.",
+      "claim": "Deletion conflicts with later assertions that the case was fully reviewed and managed appropriately.",
+      "impact": [
+        "Contradicts 'under investigation' status messaging",
+        "Signals timeline manipulation risk"
+      ],
+      "legal_risks": null,
+      "priority": null
+    },
+    {
+      "source_id": "VEX_2025-02-12_Dixon_GDPR_Forward_PaulDouble",
+      "source_path": "/mnt/data/VEX_2025-02-12_Dixon_GDPR_Forward_PaulDouble.json",
+      "code": "UNREDACTED_FORWARD",
+      "title": "Internal email forwarded externally with third‑party personal data unredacted.",
+      "claim": "Internal email forwarded externally with third‑party personal data unredacted.",
+      "impact": [
+        "Privacy breach",
+        "Process/professional standards failure",
+        "Disclosure handling risk"
+      ],
+      "legal_risks": null,
+      "priority": null
+    },
+    {
+      "source_id": "VEX_2025-03_HomeVisit_No_BWV",
+      "source_path": "/mnt/data/VEX_2025-03_HomeVisit_No_BWV.json",
+      "code": "BWV_NOT_USED",
+      "title": "Failure to activate BWV during a key evidential interaction.",
+      "claim": "Failure to activate BWV during a key evidential interaction.",
+      "impact": [
+        "Transparency gap",
+        "Dispute over statement accuracy",
+        "Loss of contemporaneous record"
+      ],
+      "legal_risks": null,
+      "priority": null
+    },
+    {
+      "source_id": "VEX_2025-04-28_Sussex_Police_Complaints_Department_Call",
+      "source_path": "/mnt/data/VEX_2025-04-28_Sussex_Police_Complaints_Department_Call.json",
+      "code": "SUICIDE_LOG_DELAY",
+      "title": "Suicide attempt on 06-04-2025 was not logged until 17-04-2025 while OIC and supervisors were on leave.",
+      "claim": "Suicide attempt on 06-04-2025 was not logged until 17-04-2025 while OIC and supervisors were on leave.",
+      "impact": [
+        "Safeguarding failure",
+        "Victims’ Code breach (updates/recording)",
+        "ECHR Art. 2 operational duty risk"
+      ],
+      "legal_risks": null,
+      "priority": null
+    },
+    {
+      "source_id": "VEX_2025-04-28_Sussex_Police_Complaints_Department_Call",
+      "source_path": "/mnt/data/VEX_2025-04-28_Sussex_Police_Complaints_Department_Call.json",
+      "code": "JULY_VS_NOVEMBER_STATUS",
+      "title": "Confusion over whether July or November is the live case; call confirms July is live while other messaging suggested otherwise.",
+      "claim": "Confusion over whether July or November is the live case; call confirms July is live while other messaging suggested otherwise.",
+      "impact": [
+        "Record integrity issues",
+        "Continuity confusion",
+        "Undermines confidence in investigation status"
+      ],
+      "legal_risks": null,
+      "priority": null
+    },
+    {
+      "source_id": "VEX_2025-04-28_Sussex_Police_Complaints_Department_Call",
+      "source_path": "/mnt/data/VEX_2025-04-28_Sussex_Police_Complaints_Department_Call.json",
+      "code": "SAR_AS_ACCESS_BARRIER",
+      "title": "Complaints call directs victim to SAR to access files during live safeguarding concerns.",
+      "claim": "Complaints call directs victim to SAR to access files during live safeguarding concerns.",
+      "impact": [
+        "Delay to information",
+        "Administrative burden shifted to victim"
+      ],
+      "legal_risks": null,
+      "priority": null
+    },
+    {
+      "source_id": "VEX_2025-04-28_Sussex_Police_Complaints_Department_Call",
+      "source_path": "/mnt/data/VEX_2025-04-28_Sussex_Police_Complaints_Department_Call.json",
+      "code": "HOLIDAY_ALIBI_CONTINUATION",
+      "title": "Persistent emphasis on OIC/supervisors being on leave amid critical safeguarding updates.",
+      "claim": "Persistent emphasis on OIC/supervisors being on leave amid critical safeguarding updates.",
+      "impact": [
+        "Continuity gap",
+        "Inability to obtain timely updates"
+      ],
+      "legal_risks": null,
+      "priority": null
+    },
+    {
+      "source_id": "VEX_2025-04-28_Sussex_Police_Complaints_Department_Call",
+      "source_path": "/mnt/data/VEX_2025-04-28_Sussex_Police_Complaints_Department_Call.json",
+      "code": "DELETION_ALLEGATION",
+      "title": "Caller alleges OIC deleted files and moved goalposts to make July evidence look newly submitted.",
+      "claim": "Caller alleges OIC deleted files and moved goalposts to make July evidence look newly submitted.",
+      "impact": [
+        "Evidence-handling integrity concerns",
+        "Supports LOST_EVIDENCE_SUSSEX_POLICE thread"
+      ],
+      "legal_risks": null,
+      "priority": null
+    },
+    {
+      "source_id": "VEX_2025-05-26_101_Strategic_Confusion",
+      "source_path": "/mnt/data/VEX_2025-05-26_101_Strategic_Confusion.json",
+      "code": "OIC_DISCLOSED_BY_CALL_HANDLER",
+      "title": "Call handler disclosed the OIC’s name(s) over the phone after initially saying they could not discuss details.",
+      "claim": "Call handler disclosed the OIC’s name(s) over the phone after initially saying they could not discuss details.",
+      "impact": [
+        "Personal data disclosure without formal verification",
+        "Confirms continuity that both July and November were with same OIC"
+      ],
+      "legal_risks": null,
+      "priority": null
+    },
+    {
+      "source_id": "VEX_2025-05-26_101_Strategic_Confusion",
+      "source_path": "/mnt/data/VEX_2025-05-26_101_Strategic_Confusion.json",
+      "code": "RECORD_CONFUSION",
+      "title": "Handler labels one case as 'crime other' despite prior emails indicating stalking/harassment.",
+      "claim": "Handler labels one case as 'crime other' despite prior emails indicating stalking/harassment.",
+      "impact": [
+        "Classification inconsistency",
+        "Increased victim confusion"
+      ],
+      "legal_risks": null,
+      "priority": null
+    },
+    {
+      "source_id": "VEX_2025-05-16_101_Social_Engineering_NoCrimeRef",
+      "source_path": "/mnt/data/VEX_2025-05-16_101_NoCrimeRef.json",
+      "code": "WEAK_VERIFICATION",
+      "title": "Handler accepts name and DOB in lieu of a crime reference to progress call actions.",
+      "claim": "Handler accepts name and DOB in lieu of a crime reference to progress call actions.",
+      "impact": [
+        "Potential bypass of reference-based verification",
+        "Inconsistent access control"
+      ],
+      "legal_risks": null,
+      "priority": null
+    },
+    {
+      "source_id": "VEX_2025-05-16_101_NoCrimeRef",
+      "source_path": "/mnt/data/CONTRADICTIONS_2025-05-16_101_NoCrimeRef.json",
+      "code": "WEAK_VERIFICATION",
+      "title": "Verification bypass without crime reference",
+      "claim": "Handler accepts name + date of birth to progress actions and leave a note for the officer without a crime reference.",
+      "impact": [
+        "Potential bypass of reference-based verification",
+        "Inconsistent access control compared to stated policy"
+      ],
+      "legal_risks": null,
+      "priority": "high"
+    }
+  ]
+}

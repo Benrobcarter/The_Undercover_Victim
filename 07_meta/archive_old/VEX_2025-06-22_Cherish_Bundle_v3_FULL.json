@@ -1,0 +1,74 @@
+{
+  "meta": {
+    "title": "Cherish These Moments \u2014 Full 22 June 2025 Call Sequence",
+    "date_created": "2025-06-22",
+    "vex_id": "VEX_2025-06-22_Cherish_Bundle_v3_FULL",
+    "bundle_type": "call_sequence_bundle",
+    "generated_utc": "2025-08-26T21:30:00Z"
+  },
+  "entries": [
+    {
+      "time": "00:37",
+      "title": "Monologue \u2014 \u201cIt\u2019s been a year since Police Please\u201d",
+      "file": "101_2025-06-22_0037_MONOLOGUE.wav",
+      "tags": [
+        "SUICIDE_REFLECTION",
+        "DEATH_BY_SILENCE",
+        "MONOLOGUE_AS_EVIDENCE"
+      ]
+    },
+    {
+      "time": "04:30",
+      "title": "System Exposure \u2014 Crime Number Manipulation",
+      "file": "22-06-25 04.30 Timeline Event_ System Exposure of Crime Number Manipulation.docx",
+      "tags": [
+        "CRIME_REFERENCE_MANIPULATION",
+        "IOPC_OBSTRUCTION",
+        "REPEATED_ASSIGNMENT_TO_DIXON"
+      ]
+    },
+    {
+      "time": "04:56",
+      "title": "Retaliatory Hang-Up \u2014 'just from seeing who was calling'",
+      "file": "22-06-25_04_56_101_Call_\u201chung up just from seeing who was calling.txt",
+      "tags": [
+        "REPEATED_CALL_FAILURE",
+        "VOICE_SUPPRESSION",
+        "INSTITUTIONAL_RECOGNITION"
+      ]
+    },
+    {
+      "time": "05:00",
+      "title": "Just Enjoying Being Erased \u2014 Pencilling Myself Back In",
+      "file": "22-06-25 - 05-00 justs enjoying being errased now, pencilling myself back in_en-GB.txt",
+      "tags": [
+        "BREAKDOWN_MOMENT",
+        "IOPC_ESCALATION",
+        "FALSE_ALLEGATION_REPORTED",
+        "SUICIDE_DISCLOSURE_DISMISSED"
+      ]
+    },
+    {
+      "time": "05:06",
+      "title": "Humiliation Protocol \u2014 'You're not dead, are you?'",
+      "file": "Section 3.17 - The Humiliation Protocol Call.docx",
+      "tags": [
+        "INSTITUTIONAL_GASLIGHTING",
+        "VICTIMS_CODE_BREACH",
+        "CASE_STATUS_MANIPULATION"
+      ]
+    }
+  ],
+  "linked_contradictions": [
+    "VEX_2025-06-22_System_Exposure_Crime_Number_Manipulation",
+    "VEX_2025-06-22_0506_Humiliation_Protocol",
+    "VEX_2025-06-22_0500_LoopBreak"
+  ],
+  "timeline_hooks": [
+    "CrowbarringMyselfJustice",
+    "DeathBySilence",
+    "IOPC_Escalation",
+    "SussexPolice"
+  ],
+  "emotional_tone": "exhausted_looping_clarity"
+}

@@ -1,0 +1,130 @@
+{
+  "meta": {
+    "filename": "2025-04-06_Ben_to_PC-Dixon_Suicide-Attempt-and-Hospitalization.json",
+    "case_reference": "47240214305",
+    "thread_label": "CRIME_REF_47240214305_THREAD/CRISIS_AND_HOSPITAL",
+    "actor_cluster": [
+      "Ben Carter",
+      "PC Jon Dixon (EA817)",
+      "Sussex Police",
+      "Sussex Partnership NHS"
+    ],
+    "date_range": {
+      "start": "2025-04-06T16:20:00",
+      "end": "2025-04-06T16:20:00"
+    },
+    "source_provenance": "Email from Ben Carter to PC Jon Dixon on 6 Apr 2025 at 16:20 (provided by user)",
+    "created_at_utc": "2025-08-24T20:49:51Z",
+    "vex_schema_version": "1.1",
+    "human_exhibit_name": "CRN-47240214305_Ben_to_PC-Dixon_06-Apr-2025_Email-TBD.pdf",
+    "export_profile": "PUBLIC_SANITIZED_V1",
+    "export_timestamp_utc": "2025-08-24T20:55:02Z"
+  },
+  "emails": [
+    {
+      "id": "email-2025-04-06-1620-ben-dixon",
+      "date": "2025-04-06T16:20:00",
+      "from": {
+        "name": "Ben Carter",
+        "email": "benrobcarter@gmail.com",
+        "badge": ""
+      },
+      "to": [
+        {
+          "name": "PC Jon Dixon",
+          "email": "Jon.Dixon@sussex.police.uk",
+          "badge": "EA817"
+        }
+      ],
+      "subject_summary": "Crisis disclosure: suicide attempt; hospitalised; social media trigger; burnout",
+      "body": "Crisis disclosure with hospital contact acknowledged; details intentionally minimized for public sharing.",
+      "attachments": [],
+      "labels": [
+        "SUICIDE_ATTEMPT_DISCLOSED",
+        "HOSPITAL_ADMISSION",
+        "SOCIAL_MEDIA_TRIGGER",
+        "BURNOUT/MENTAL_HEALTH_CRISIS",
+        "REQUEST_FOR_SUPPORT_IMPLICIT"
+      ]
+    }
+  ],
+  "vex": [
+    {
+      "email_id": "email-2025-04-06-1620-ben-dixon",
+      "sentence_tags": [
+        {
+          "text": "[Sanitized public summary]",
+          "tags": [
+            "SENSITIVE_IMPACT_SUMMARY"
+          ],
+          "notes": "Details minimized for public sharing; see internal exhibit for full context."
+        },
+        {
+          "text": "[Sanitized public summary]",
+          "tags": [
+            "CRISIS_DISCLOSED"
+          ],
+          "notes": "Details minimized for public sharing; see internal exhibit for full context."
+        },
+        {
+          "text": "[Sanitized public summary]",
+          "tags": [
+            "SENSITIVE_IMPACT_SUMMARY"
+          ],
+          "notes": "Details minimized for public sharing; see internal exhibit for full context."
+        },
+        {
+          "text": "[Sanitized public summary]",
+          "tags": [
+            "SENSITIVE_IMPACT_SUMMARY"
+          ],
+          "notes": "Details minimized for public sharing; see internal exhibit for full context."
+        }
+      ]
+    }
+  ],
+  "contradiction_links": [
+    {
+      "id": "SP-CONTRA-SAFEGUARDING-CRISIS-RESPONSE-2025-04-06",
+      "claim": "Victim should receive immediate safeguarding and welfare support following crisis disclosure.",
+      "reality": "Email evidences crisis and hospitalisation; subsequent police safeguarding response to be confirmed and timestamped.",
+      "laws_breached": [
+        "Victims' Code 2020 (Right to be referred to support)",
+        "NHS Crisis Pathways (contextual)"
+      ],
+      "damages": [
+        "Emotional",
+        "Health/Safety"
+      ]
+    }
+  ],
+  "timeline_hooks": [
+    {
+      "phase": "Crisis & Hospitalisation",
+      "date": "2025-04-06",
+      "events": [
+        "Victim reports suicide attempt and hospital admission.",
+        "Notes social-media trigger and prior burnout after contact with Sussex Partnership."
+      ],
+      "related_threads": [
+        "CRIME_REF_47240214305_THREAD",
+        "CRISIS_AND_HOSPITAL"
+      ]
+    }
+  ],
+  "damages_summary": {
+    "emotional": "Acute distress, hopelessness, and trauma escalation.",
+    "strategic": "Requires urgent welfare checks, safeguarding coordination, and case handling adjustments.",
+    "reputational": "Not applicable."
+  },
+  "qa": {
+    "checks": [
+      "date_present",
+      "case_ref_present",
+      "exhibit_named",
+      "attachments_indexed"
+    ],
+    "status": "pending"
+  },
+  "redaction_notes": "Sanitized for public sharing: removed method/clinical specifics; preserved chronology."
+}

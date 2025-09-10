@@ -1,0 +1,36 @@
+{
+  "created_at": "2025-08-31T16:01:01.491545Z",
+  "source": "Brighton Fringe SAR Submission (19 Aug 2025)",
+  "tags": [
+    {
+      "tag": "SUICIDE_DISCLOSURE_USED_FOR_REMOVAL",
+      "description": "Institution used a known suicide disclosure to justify structural removal of the complainant",
+      "origin": "8 May 2025 GP email from Amy Keogh"
+    },
+    {
+      "tag": "UNLAWFUL_THIRD_PARTY_HEALTH_DISCLOSURE",
+      "description": "Health data was shared with the NHS without consent or lawful basis under Article 6/9 GDPR",
+      "origin": "Email to Seven Dials Medical Centre (8 May 2025)"
+    },
+    {
+      "tag": "GOVERNANCE_ERASURE",
+      "description": "Decisions affecting complainant were executed without documented trustee process or approval",
+      "origin": "Removal of Ben Carter confirmed without minutes"
+    },
+    {
+      "tag": "SAR_STRUCTURAL_ABSENCE",
+      "description": "Key actors and event references are anticipated to be missing from SAR response",
+      "origin": "Exhibit A logging admission + Alice Wright comms"
+    },
+    {
+      "tag": "VENUE_OBSERVER_ROLE_MANIPULATION",
+      "description": "Complainant’s Observer role was publicly cited, but never formally documented or protected",
+      "origin": "Exhibit B – Venue Observer Email Disclosure"
+    },
+    {
+      "tag": "LIBEL_ACTION_DISGUISED_AS_NEUTRAL_UPDATE",
+      "description": "18 July 2025 email used neutral language to execute mass defamation",
+      "origin": "Jessica Otterwell forward"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "bundle_id": "SUSSEX_POLICE_TIMELINE_MANIPULATION_BUNDLE_2025-09-09",
+  "generated": "2025-09-09T00:52:31.046646",
+  "focus": "Sussex Police + PSD Timeline Alterations",
+  "components": [
+    {
+      "id": "EVID_2025-06-22_SussexPolice_NoReply_CAD_0050",
+      "type": "email",
+      "date": "2025-06-22T02:48:00+01:00",
+      "summary": "Sussex Police CAD 0050 reply: IIT booking cancelled, passed to OIC, apologies.",
+      "source_file": "EVID_2025-06-22_SussexPolice_NoReply_CAD_0050.txt",
+      "contradictions": [
+        "DEATH_BY_SILENCE",
+        "INSTITUTIONAL_ALIGNMENT"
+      ],
+      "notes": "Originally a single Sussex Police entry. Later reframed as procedural correction rather than silence."
+    },
+    {
+      "id": "VEX_EVID_2025-06-22_SussexPolice_NoReply_CAD_0050",
+      "type": "vex",
+      "date": "2025-06-22",
+      "summary": "Auto-ingested OCR record of CAD 0050 reply.",
+      "source_file": "VEX_EVID_2025-06-22_SussexPolice_NoReply_CAD_0050_OCR.json",
+      "contradictions": [
+        "DEATH_BY_SILENCE"
+      ],
+      "tags": [
+        "cad",
+        "sussexpolice",
+        "noreply"
+      ]
+    },
+    {
+      "id": "CONTRA_PHHC_OVERTRY_ROLE_BREACH",
+      "type": "contradiction",
+      "summary": "Charlotte Overty linked to safeguarding breaches; dual procedural + harmful role alongside PC Dixon.",
+      "source_file": "CONTRADICTION_PHHC_OVERTRY_ROLE_BREACH_LINKED_TO_DIXON_THREAD.json",
+      "contradictions": [
+        "INSTITUTIONAL_ALIGNMENT",
+        "SAFEGUARDING_FAILURE"
+      ],
+      "notes": "Shows how CAD 0050 is pulled into Dixon alignment narrative, erasing PSD oversight."
+    }
+  ]
+}

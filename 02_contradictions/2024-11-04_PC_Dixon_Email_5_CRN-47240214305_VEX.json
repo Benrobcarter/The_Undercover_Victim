@@ -1,0 +1,115 @@
+{
+  "meta": {
+    "filename": "2024-11-04_PC_Dixon_Email_5_CRN-47240214305_VEX.json",
+    "case_reference": "47240214305",
+    "thread_label": "CRIME_REF_47240214305_THREAD",
+    "actor_cluster": [
+      "Sussex Police",
+      "PC Jon Dixon (EA817)",
+      "Ben Carter"
+    ],
+    "date_range": {
+      "start": "2024-11-04T20:52:00",
+      "end": "2024-11-04T20:52:00"
+    },
+    "source_provenance": "Email from Ben Carter to PC Jon Dixon on 4 Nov 2024 at 20:52 (provided by user)",
+    "created_at_utc": "2025-08-24T17:23:19.041964Z",
+    "vex_schema_version": "1.1"
+  },
+  "emails": [
+    {
+      "id": "email-2024-11-04-2052-ben-dixon",
+      "date": "2024-11-04T20:52:00",
+      "from": {
+        "name": "Ben Carter",
+        "email": "benrobcarter@gmail.com"
+      },
+      "to": [
+        {
+          "name": "PC Jon Dixon",
+          "email": "Jon.Dixon@sussex.police.uk",
+          "badge": "EA817"
+        }
+      ],
+      "subject_summary": "Forgotten recorded calls offered as evidence",
+      "body": "Forgot a couple of the original calls I recorded earlier in the day. They came from no number ID so I had to pick up as I'd contacted the police and it could be from them, and it's me just saying 'I do not want you to contact me ever again' and 'the police have also told you this etc'. Do you need these? If so how do I upload them?\nThanks Ben",
+      "attachments": [],
+      "labels": [
+        "Victim Cooperation",
+        "Evidence Offer",
+        "Recorded Calls"
+      ]
+    }
+  ],
+  "vex": [
+    {
+      "email_id": "email-2024-11-04-2052-ben-dixon",
+      "sentence_tags": [
+        {
+          "text": "Forgot a couple of the original calls I recorded earlier in the day.",
+          "tags": [
+            "EVIDENCE_RECORDED_CALLS",
+            "VICTIM_PROACTIVE"
+          ],
+          "notes": "Ben highlights existence of additional call recordings."
+        },
+        {
+          "text": "They came from no number ID so I had to pick up as I'd contacted the police and it could be from them.",
+          "tags": [
+            "CONTEXT_CALLS",
+            "NO_CALLER_ID",
+            "POLICE_CONTACT_UNCERTAINTY"
+          ]
+        },
+        {
+          "text": "And it's me just saying 'I do not want you to contact me ever again' and 'the police have also told you this etc'.",
+          "tags": [
+            "BOUNDARY_SETTING",
+            "ABUSE_DOCUMENTATION"
+          ],
+          "notes": "Shows clear and recorded communication of no-contact request to perpetrator."
+        },
+        {
+          "text": "Do you need these? If so how do I upload them?",
+          "tags": [
+            "EVIDENCE_OFFER",
+            "UPLOAD_METHOD_QUERY"
+          ],
+          "notes": "Again demonstrates proactive cooperation; places onus on police to provide means."
+        }
+      ]
+    }
+  ],
+  "contradiction_links": [
+    {
+      "id": "SP-CONTRA-VICTIM-OFFERED-CALL-RECORDINGS-2024-11",
+      "claim": "Victim did not provide or offer relevant call evidence.",
+      "reality": "Victim explicitly offers call recordings and requests upload instructions.",
+      "laws_breached": [
+        "Victims’ Code 2020 (Right to have evidence considered)"
+      ],
+      "damages": [
+        "Emotional",
+        "Reputational"
+      ]
+    }
+  ],
+  "timeline_hooks": [
+    {
+      "phase": "Investigation Start / Evidence Intake",
+      "date": "2024-11-04",
+      "events": [
+        "Ben Carter offers previously unsubmitted call recordings, asking how to upload.",
+        "Recordings contain clear no-contact statements to perpetrator."
+      ],
+      "related_threads": [
+        "CRIME_REF_47240214305_THREAD",
+        "DEATH_BY_SILENCE"
+      ]
+    }
+  ],
+  "damages_summary": {
+    "emotional": "Frustration at having to chase process while already cooperative.",
+    "reputational": "Any later claim that victim withheld calls is contradicted by this email."
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "patch_id": "PATCH_XREF_2025-07-04_PC_Gasson_101_Call",
+  "created_at": "2025-08-25T18:45:39.072998",
+  "type": "contradiction_crosslink",
+  "thread": "CRIME_REF_47240214305_THREAD",
+  "entry_id": "XREF_2025-07-04_PC_Gasson_101_Call",
+  "files_added": [
+    "PROJECT_FILE_SYNCED_2025-08-25_v4_FULL_SKELETON 3/02_contradictions/CRIME_REF_47240214305_THREAD/XREF_2025-07-04_PC_Gasson_101_Call.json",
+    "PROJECT_FILE_SYNCED_2025-08-25_v4_FULL_SKELETON 3/08_supporting/public/index.json"
+  ],
+  "related_evidence": [
+    "PROJECT_FILE_SYNCED_2025-08-25_v4_FULL_SKELETON 3/01_evidence/sussex_police/vex/2025-07-04_1405_SussexPolice_101_Call_PC_Gasson_VEX.json"
+  ]
+}

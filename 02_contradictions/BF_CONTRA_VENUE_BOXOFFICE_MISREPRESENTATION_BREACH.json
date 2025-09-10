@@ -1,0 +1,27 @@
+{
+  "id": "BF_CONTRA_VENUE_BOXOFFICE_MISREPRESENTATION_BREACH",
+  "title": "Breach of Venue Manager Agreement — Box Office Misrepresentation and Venue Collapse",
+  "email_subject": "Ticketing Confusion Across All Six Venues",
+  "clause_breached": "Brighton Fringe is responsible for ticket allocation and coordination with venues opting out of the central box office.",
+  "claim": "Brighton Fringe promised venues opting out of their ticketing system would not be listed as box office venues and would be supported in publicity and artist comms.",
+  "reality": "Ben Carter confirmed all six of his venues opted out of box office. Despite this, Brighton Fringe promoted ticketing at his venues, leading to audience chaos, artist distress, and reputational damage. No support or correction was issued.",
+  "vex_tags": [
+    "BOX_OFFICE_REALLOCATION_FAILURE",
+    "OPERATIONAL_BREAKDOWN",
+    "UNINSURABLE_EVENT",
+    "REPUTATIONAL_HARM",
+    "CONTRACTUAL_CONFIRMATION_BREACH"
+  ],
+  "linked_evidence": [
+    "EMAIL_2025-05-04_Crime_Reference_And_Safeguarding_Ignored"
+  ],
+  "linked_timeline_ids": [
+    "t2_brighton_fringe_consequences#2025-05-04"
+  ],
+  "linked_sub_contradictions": [
+    "BF-CONTRA-VENUE-MANAGER-CONTRACT-BREACHES-2025"
+  ],
+  "status": "active",
+  "notes": "Violation of clear venue opt-out process. The damage to all six venues demonstrates a systemic and unlawful override of agreement terms.",
+  "created_at": "2025-09-01T12:12:03.369410Z"
+}

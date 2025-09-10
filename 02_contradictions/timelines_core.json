@@ -1,0 +1,46 @@
+{
+  "generated_utc": "2025-08-26T17:09:38Z",
+  "schema": "timelines_core.schema.json",
+  "events": [
+    {
+      "id": "EV-DATE_NEEDED-SAFEGUARDING-MEETING",
+      "date": "DATE_NEEDED",
+      "category": "Brighton Fringe / Safeguarding",
+      "title": "Safeguarding meeting",
+      "summary": "Initial safeguarding meeting captured in deep-dive + receipt.",
+      "evidence_ids": [
+        "EVID-DATE_NEEDED-SAFEGUARDING-MEETING-DEEPDIVE-01",
+        "EVID-DATE_NEEDED-SAFEGUARDING-MEETING-RECEIPT-01"
+      ],
+      "contradiction_ids": [
+        "BF-CONTRA-REFUSAL-MISREPRESENTED-2025-07-18"
+      ]
+    },
+    {
+      "id": "EV-DATE_NEEDED-ACTION-PLAN",
+      "date": "DATE_NEEDED",
+      "category": "Brighton Fringe / Safeguarding",
+      "title": "Action plan agreed",
+      "summary": "Action plan derived from safeguarding meeting(s).",
+      "evidence_ids": [
+        "EVID-DATE_NEEDED-ACTION-PLAN-MEETING-NOTES-DEEPDIVE-01"
+      ],
+      "contradiction_ids": [
+        "BF-CONTRA-REFUSAL-MISREPRESENTED-2025-07-18"
+      ]
+    },
+    {
+      "id": "EV-DATE_NEEDED-WEST-ATS-APPOINTMENT",
+      "date": "DATE_NEEDED",
+      "category": "NHS / Safeguarding",
+      "title": "West ATS appointment set",
+      "summary": "Appointment confirmation logged (file receipt).",
+      "evidence_ids": [
+        "EVID-DATE_NEEDED-WEST-ATS-APPOINTMENT-RECEIPT-01"
+      ],
+      "contradiction_ids": [
+        "BF-CONTRA-REFUSAL-MISREPRESENTED-2025-07-18"
+      ]
+    }
+  ]
+}

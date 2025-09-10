@@ -1,0 +1,104 @@
+{
+  "meta": {
+    "filename": "2025-02-12_PC_Dixon_Email_17_CRN-47240214305_VEX.json",
+    "human_exhibit_name": "CRN-47240214305_PC-Dixon_to_Ben_12-Feb-2025_Email-17.pdf",
+    "case_reference": "47240214305",
+    "thread_label": "CRIME_REF_47240214305_THREAD",
+    "actor_cluster": [
+      "Sussex Police",
+      "PC Jon Dixon (EA817)",
+      "Ben Carter"
+    ],
+    "date_range": {
+      "start": "2025-02-12T14:17:00",
+      "end": "2025-02-12T14:17:00"
+    },
+    "source_provenance": "Email from PC Jon Dixon to Ben Carter on 12 Feb 2025 at 14:17",
+    "created_at_utc": "2025-08-24T18:36:57.049957Z",
+    "vex_schema_version": "1.1"
+  },
+  "emails": [
+    {
+      "id": "email-2025-02-12-1417-dixon-ben",
+      "date": "2025-02-12T14:17:00",
+      "from": {
+        "name": "PC Jon Dixon",
+        "email": "Jon.Dixon@sussex.police.uk",
+        "badge": "EA817"
+      },
+      "to": [
+        {
+          "name": "Ben Carter",
+          "email": "benrobcarter@gmail.com"
+        }
+      ],
+      "subject_summary": "Clarified bail confirmation (protecting victim)",
+      "body": "Hi Ben\n\nIt’s understandable to have concerns and worries, if you need additional support let me know and I can make referrals.\n\nAs per our conversation yesterday I can confirm that Alanna is still on bail. This was what is called Initial Bail to start with but as of 2nd February 2025 this bail period has been extended till 4th May 2025. The conditions to not contact you or attend your address remain the same, if she sees you in the street or at a venue for example, she must make all reasonable effort to leave as soon as she becomes aware. The bail conditions apply to protect you as you are the victim and will remain as such while the investigation is ongoing.",
+      "attachments": [],
+      "labels": [
+        "Police Communication",
+        "Bail Confirmation",
+        "Clarified Wording"
+      ]
+    }
+  ],
+  "vex": [
+    {
+      "email_id": "email-2025-02-12-1417-dixon-ben",
+      "sentence_tags": [
+        {
+          "text": "As of 2nd February 2025 this bail period has been extended till 4th May 2025.",
+          "tags": [
+            "BAIL_EXTENSION_CONFIRMED"
+          ]
+        },
+        {
+          "text": "The conditions to not contact you or attend your address remain the same...",
+          "tags": [
+            "NO_CONTACT_CONDITIONS",
+            "PUBLIC_SPACE_EXIT_REQUIREMENT"
+          ]
+        },
+        {
+          "text": "The bail conditions apply to protect you as you are the victim and will remain as such while the investigation is ongoing.",
+          "tags": [
+            "VICTIM_STATUS_CONFIRMED",
+            "SAFEGUARDING_WORDING_CLARIFIED"
+          ],
+          "notes": "This clarifies the earlier ambiguity that prompted Ben's request."
+        }
+      ]
+    }
+  ],
+  "contradiction_links": [
+    {
+      "id": "SP-CONTRA-COMMS-CLARIFIED-2025-02",
+      "claim": "Police communications were always clear about bail conditions.",
+      "reality": "This clarification was necessary to correct ambiguity in an earlier message.",
+      "laws_breached": [
+        "Victims’ Code 2020 (Right to clear information)"
+      ],
+      "damages": [
+        "Reputational",
+        "Emotional"
+      ]
+    }
+  ],
+  "timeline_hooks": [
+    {
+      "phase": "Investigation – Bail Monitoring",
+      "date": "2025-02-12",
+      "events": [
+        "Dixon resends bail confirmation with explicit clarification that conditions protect the victim."
+      ],
+      "related_threads": [
+        "CRIME_REF_47240214305_THREAD",
+        "REPUTATION_REPAIR"
+      ]
+    }
+  ],
+  "damages_summary": {
+    "reputational": "Provides a clear exhibit for forwarding to third parties.",
+    "emotional": "Clarity reduces uncertainty and emotional strain."
+  }
+}

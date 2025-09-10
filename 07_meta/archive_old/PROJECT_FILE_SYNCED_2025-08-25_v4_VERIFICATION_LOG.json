@@ -1,0 +1,72 @@
+{
+  "generated_at": "2025-08-25T16:22:26.520508Z",
+  "notes": "v4_READY build with expanded VERITAS_MASTER_BUNDLE",
+  "copied_sources": [
+    [
+      "/mnt/data/VERITAS_SAR_BUNDLE_2025-08-25.json",
+      "01_evidence/veritas/VERITAS_SAR_BUNDLE_2025-08-25.json"
+    ],
+    [
+      "/mnt/data/VERITAS_FILE_HASHES_2025-08-25.json",
+      "01_evidence/veritas/VERITAS_FILE_HASHES_2025-08-25.json"
+    ],
+    [
+      "/mnt/data/VERITAS_FILE_HASHES_2025-08-25_UPDATED_v2.json",
+      "01_evidence/veritas/VERITAS_FILE_HASHES_2025-08-25_UPDATED_v2.json"
+    ],
+    [
+      "/mnt/data/VERITAS_ASSERTIONS_INDEX_2025-08-25.csv",
+      "01_evidence/veritas/VERITAS_ASSERTIONS_INDEX_2025-08-25.csv"
+    ],
+    [
+      "/mnt/data/VERITAS_MASTER_BUNDLE_2025-08-25.json",
+      "01_evidence/veritas/VERITAS_MASTER_BUNDLE_2025-08-25.json"
+    ],
+    [
+      "/mnt/data/VERITAS_MANIFEST_PATCH_2025-08-25.json",
+      "01_evidence/veritas/VERITAS_MANIFEST_PATCH_2025-08-25.json"
+    ],
+    [
+      "/mnt/data/VERITAS_MANIFEST_PATCH_2025-08-25_UPDATED_v2.json",
+      "01_evidence/veritas/VERITAS_MANIFEST_PATCH_2025-08-25_UPDATED_v2.json"
+    ],
+    [
+      "/mnt/data/VERITAS_MANIFEST_PATCH_2025-08-25_UPDATED_v3.json",
+      "01_evidence/veritas/VERITAS_MANIFEST_PATCH_2025-08-25_UPDATED_v3.json"
+    ],
+    [
+      "/mnt/data/MASTER_CONTRADICTIONS_INJECTED_WITH_VERITAS_v4_2025-08-25.json",
+      "02_contradictions/MASTER_CONTRADICTIONS_INJECTED_WITH_VERITAS_v4_2025-08-25.json"
+    ],
+    [
+      "/mnt/data/MASTER_CONTRADICTIONS_INJECTED_WITH_VERITAS_v4_2025-08-25_v2.json",
+      "02_contradictions/MASTER_CONTRADICTIONS_INJECTED_WITH_VERITAS_v4_2025-08-25_v2.json"
+    ],
+    [
+      "/mnt/data/VERITAS_CLAsh_REPORT_2025-08-25.json",
+      "02_contradictions/VERITAS_CLAsh_REPORT_2025-08-25.json"
+    ],
+    [
+      "/mnt/data/VERITAS_CLASH_TO_TIMELINE_LINKS_2025-08-25.json",
+      "02_contradictions/VERITAS_CLASH_TO_TIMELINE_LINKS_2025-08-25.json"
+    ],
+    [
+      "/mnt/data/PROJECT_FILE_SYNCED_2025-08-25_v4_INSTRUCTIONS.json",
+      "04_manifest/PROJECT_FILE_SYNCED_2025-08-25_v4_INSTRUCTIONS.json"
+    ],
+    [
+      "/mnt/data/VERITAS_INSTALL_CHECK_2025-08-25.txt",
+      "06_meta/audits/VERITAS_INSTALL_CHECK_2025-08-25.txt"
+    ],
+    [
+      "/mnt/data/VERITAS_FILE_HASHES_2025-08-25.json",
+      "06_meta/audits/VERITAS_FILE_HASHES_2025-08-25.json"
+    ]
+  ],
+  "missing_expected": [
+    "01_evidence/veritas/VERITAS_BIT_module_2025-08-25.json",
+    "02_contradictions/VERITAS_ASSERTIONS_CONTRADICTABLE_2025-08-25 (1).json",
+    "06_meta/audits/PROJECT_FILE_SYNCED_2025-08-25_v4_VERIFICATION_LOG.json"
+  ],
+  "manifest_ref": "04_manifest/PROJECT_FILE_SYNCED_2025-08-25_manifest_clean.json"
+}

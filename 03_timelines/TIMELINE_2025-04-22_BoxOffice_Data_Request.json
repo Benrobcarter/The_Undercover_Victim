@@ -1,0 +1,15 @@
+{
+  "date": "2025-04-22",
+  "id": "t2_brighton_fringe_consequences#2025-04-22",
+  "title": "Box Office Requests Private Booker Data from Half a Camel",
+  "summary": "Brighton Fringe Box Office contacted Half a Camel Productions requesting direct contact details for audience members. The action contradicted contractual commitments and introduced potential GDPR risk.",
+  "linked_contradictions": [
+    "BF_CONTRA_VENUE_BOXOFFICE_DATA_BREACH"
+  ],
+  "vex_tags": [
+    "BOX_OFFICE_REALLOCATION_FAILURE",
+    "VENUE_CUSTOMER_DATA_REQUESTED",
+    "GDPR_RISK_UNAUTHORISED_CONTACT"
+  ],
+  "created_at": "2025-09-01T13:08:31.323447Z"
+}

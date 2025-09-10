@@ -1,0 +1,26 @@
+{
+  "id": "VEX_Gmail - Improving Communications with Venues_OCR",
+  "type": "evidence",
+  "source": "Smart OCR Ingest",
+  "date": "DATE_NOT_FOUND",
+  "summary": "Auto-ingested from file: Gmail - Improving Communications with Venues.pdf",
+  "meta": {
+    "original_filename": "Gmail - Improving Communications with Venues.pdf",
+    "ocr_pdf_file": "Gmail - Improving Communications with Venues_ocr.pdf",
+    "ocr_text_file": "Gmail - Improving Communications with Venues.txt",
+    "sha256": "0986643a21f8bfd3913ecd968fa3030c22628f2b3716f518a684ce0738075683",
+    "source_folder": ".",
+    "ingested_on": "2025-09-06T23:11:15.728195",
+    "ingest_method": "ocr_smart"
+  },
+  "links": {
+    "source_file_original": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_unprocessed/Gmail - Improving Communications with Venues.pdf",
+    "ocr_pdf_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_ocrd/Gmail - Improving Communications with Venues_ocr.pdf",
+    "ocr_text_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/text/Gmail - Improving Communications with Venues.txt"
+  },
+  "tags": [
+    "auto_ocr",
+    "gmail ",
+    " improving communications with venues"
+  ]
+}

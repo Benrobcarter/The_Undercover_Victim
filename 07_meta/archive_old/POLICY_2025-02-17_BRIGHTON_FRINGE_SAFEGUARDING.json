@@ -1,0 +1,159 @@
+{
+  "evidence_id": "POLICY_2025-02-17_BRIGHTON_FRINGE_SAFEGUARDING",
+  "file_version": "1.0",
+  "schema": "VEX_POLICY_EVIDENCE_v1",
+  "type": "policy_document",
+  "title": "Brighton Fringe Safeguarding Policy and Procedures",
+  "date": "2025-02-17",
+  "author": "Brighton Fringe Ltd",
+  "source_file": "Brighton Fringe official safeguarding policy.txt",
+  "source_note": "Provided by user; used for policy-vs-practice contradiction mapping",
+  "actors": [
+    "Brighton Fringe Ltd",
+    "Board of Trustees",
+    "Amy Keogh (Managing Director)",
+    "Designated Safeguarding Officer (DSO)",
+    "Deputy DSO",
+    "Board DSO"
+  ],
+  "content_summary": {
+    "purpose": "Protect children and vulnerable adults in Brighton Fringe activities; provide staff with principles and framework for safeguarding practice.",
+    "scope": "Applies to staff, trustees, volunteers, sessional workers, interns, contractors.",
+    "contexts": [
+      "Fringe City events",
+      "Fringe Academy workshops",
+      "Launch events",
+      "Venue-based performances",
+      "Artist Services Hub"
+    ],
+    "responsibilities": [
+      "Trustees ensure policy is in place and monitored",
+      "DSO implements and reviews policy; coordinates referrals",
+      "All staff report concerns and follow procedures"
+    ],
+    "reporting_process": [
+      "Report concerns to DSO immediately",
+      "Complete local authority incident/referral form",
+      "Refer to MASH (child) or Adult Social Care Access Point (adult)",
+      "Inform police if necessary",
+      "DSO to report to Board within 1 week (24 hours if serious risk)"
+    ],
+    "review_cycle": "Annual review by DSO with Trustees and CEO"
+  },
+  "vex": {
+    "tags": [
+      "SAFEGUARDING_POLICY",
+      "CHILD_PROTECTION",
+      "VULNERABLE_ADULT_PROTECTION",
+      "CARE_ACT_2014",
+      "CHILDREN_ACT_1989",
+      "MENTAL_CAPACITY_ACT_2005",
+      "EQUALITY_ACT_2010",
+      "HUMAN_RIGHTS_ACT_1998",
+      "DUTY_OF_CARE",
+      "SAFE_RECRUITMENT",
+      "DBS_CHECKS",
+      "MULTI_AGENCY_REFERRAL",
+      "DISCLOSURE_HANDLING",
+      "REPORTING_PROCESS",
+      "ORGANISATIONAL_NEGLECT",
+      "SAFEGUARDING_FAILURE_RISK",
+      "POLICY_VS_PRACTICE",
+      "SUICIDE_DISCLOSURE_HANDLING",
+      "TRAUMA_INFORMED_PRACTICE",
+      "DUTY_TO_REFER",
+      "CHARITY_GOVERNANCE",
+      "VENUE_TAKEOVER_THREAT",
+      "INSTITUTIONAL_GASLIGHTING",
+      "SUICIDE_MINIMISATION",
+      "2024_ERASURE"
+    ],
+    "actor_clusters": [
+      "Brighton Fringe",
+      "Ben Carter",
+      "Sussex Police",
+      "Alanna O'Hare"
+    ],
+    "legal_references": [
+      "Children Act 1989 (rev 2004)",
+      "Working Together to Safeguard Children (2010/2015)",
+      "Care Act 2014 (Adult Safeguarding)",
+      "Safeguarding Vulnerable Groups Act 2006",
+      "Mental Capacity Act 2005",
+      "Sexual Offences Act 2003",
+      "Equality Act 2010",
+      "Human Rights Act 1998",
+      "Data Protection Act 2018 / UK GDPR"
+    ],
+    "contradiction_links": [
+      "NO_SAFEGUARDING_PROTOCOL_EXISTS",
+      "DUNCAN_ASSISTED_ERASURE",
+      "BF-CONTRA-SUICIDE_MINIMISATION-2025-04-09",
+      "BF-CONTRA-2024_ERASURE-2025-04-09",
+      "VENUE_TAKEOVER_THREAT",
+      "FRINGE_DEFLECTION_TACTIC",
+      "REFRAMING_ABUSE"
+    ],
+    "timeline_hooks": [
+      "SAFEGUARDING_POLICY_PUBLICATION_2025-02-17",
+      "SAFEGUARDING_MEETING_2025-04-09",
+      "FRINGE_SAFEGUARDING_CONTRADICTIONS"
+    ]
+  },
+  "policy_key_points": [
+    {
+      "section": "Policy Statement",
+      "obligation": "Brighton Fringe commits to safeguarding and promoting welfare of children and vulnerable adults",
+      "risk_if_breached": [
+        "ORGANISATIONAL_NEGLECT",
+        "SAFEGUARDING_FAILURE_RISK",
+        "DUTY_OF_CARE_BREACH"
+      ]
+    },
+    {
+      "section": "Roles and Responsibilities",
+      "obligation": "Named DSO/Deputy/Board DSO; clear reporting lines",
+      "risk_if_breached": [
+        "ACCOUNTABILITY_GAP",
+        "REPORTING_PROCESS_FAILURE"
+      ]
+    },
+    {
+      "section": "Responding to Disclosures",
+      "obligation": "Record, respect confidentiality, refer promptly, trauma‑informed response",
+      "risk_if_breached": [
+        "SUICIDE_MINIMISATION",
+        "INSTITUTIONAL_GASLIGHTING",
+        "DELAYED_REFERRAL"
+      ]
+    },
+    {
+      "section": "Information Sharing",
+      "obligation": "Share on a need‑to‑know basis with lawful basis under DPA/UK GDPR",
+      "risk_if_breached": [
+        "DATA_PROTECTION_BREACH",
+        "RETRAUMATISATION"
+      ]
+    }
+  ],
+  "damages_context_if_breached": {
+    "reputational": "Policy asserts strong safeguarding; practice showing minimisation erodes public trust and exposes charity to regulator scrutiny.",
+    "emotional": "Victims retraumatised if disclosures treated as reputational risk rather than safeguarding triggers.",
+    "financial": "Potential loss of funding, ticket revenue, and legal costs due to complaints or investigations.",
+    "medical": "Escalation of risk following ignored suicide disclosures."
+  },
+  "atlas": {
+    "update_intent": "Map policy vs practice contradictions across April 2025 actions and emails.",
+    "preferred_atlas_ids": [
+      "BF-CONTRA-2024_ERASURE-2025-04-09",
+      "BF-CONTRA-SUICIDE_MINIMISATION-2025-04-09",
+      "VENUE_TAKEOVER_THREAT"
+    ]
+  },
+  "hashes": {
+    "sha256": "2edbb365d8e171bdda6b69a6aa7cbc700a0cd77bdc95508adab0a55bb63a4806",
+    "sha1": "f28e007e4ef9f66f94b3785207ed8078c5ab6b5b",
+    "md5": "065222abc86c63d128f42eb0c450185e"
+  },
+  "created_utc": "2025-08-28T22:16:29.295353Z"
+}

@@ -1,0 +1,106 @@
+{
+  "contradictions": [
+    {
+      "id": "BF-CONTRA-TAKEOVER-PREMEDITATED-2025",
+      "meta": {
+        "title": "Fringe Takeover Was Premeditated – Confirmed by Venue Partner",
+        "tags": [
+          "DUNCAN_ASSISTED_ERASURE",
+          "CROWBARRING_MYSELF_JUSTICE",
+          "CHARITIES_ACT_FAILURE",
+          "VENUE_TAKEOVER_THREAT",
+          "FRAUDULENT_CONDUCT",
+          "DEATH_BY_SILENCE"
+        ],
+        "created_at": "2025-08-31T23:37:01.717394",
+        "source_file": "11-05-25 Zoe (Owner of Puck) Insight.txt",
+        "source_description": "Full third-party call transcript confirming Brighton Fringe plotted a takeover"
+      },
+      "summary": "On May 11, 2025, Zoe from Puck confirmed that Brighton Fringe leadership admitted they had been plotting a takeover of Half a Camel for 'a little while'. The call also confirms the Fringe contacted Ben’s GP to allege delusions and paranoia, offered contracts directly to partners, and never informed Ben of any plan. Zoe refused to cooperate and affirmed her support for Ben. This confirms the takeover was premeditated and executed under false pretenses."
+    }
+  ],
+  "timeline_entries": [
+    {
+      "date": "2025-05-11",
+      "summary": "Zoe (Puck) confirms Fringe plotted takeover, attempted to poach business relationships, and defamed Ben to his GP.",
+      "tags": [
+        "BF-CONTRA-TAKEOVER-PREMEDITATED-2025",
+        "GP_DEFAMATION",
+        "SAFEGUARDING_DEFLECTION",
+        "VENUE_TAKEOVER_THREAT",
+        "THIRD_PARTY_CORROBORATION"
+      ],
+      "linked_documents": [
+        "VEX_2025-05-11_ZOE_CALL_FULL.json"
+      ],
+      "quote_refs": [
+        "ZOE-Q-0511-PLOTTING",
+        "ZOE-Q-0511-UNCOMFORTABLE",
+        "ZOE-Q-0511-GP-DEFAMATION"
+      ]
+    }
+  ],
+  "quote_cards": [
+    {
+      "id": "ZOE-Q-0511-PLOTTING",
+      "meta": {
+        "title": "They said they’d been plotting this for a little while.",
+        "author": "Zoe (Puck)",
+        "tags": [
+          "BF-CONTRA-TAKEOVER-PREMEDITATED-2025",
+          "VENUE_TAKEOVER_THREAT"
+        ],
+        "source_file": "11-05-25 Zoe (Owner of Puck) Insight.txt",
+        "added_at": "2025-08-31T23:37:01.717411"
+      },
+      "text": "They said they’d been plotting this for a little while."
+    },
+    {
+      "id": "ZOE-Q-0511-UNCOMFORTABLE",
+      "meta": {
+        "title": "I’m uncomfortable with how this has been handled.",
+        "author": "Zoe (Puck)",
+        "tags": [
+          "PARTNER_REJECTION",
+          "BF-CONTRA-VENUE-PARTNER-DEFENDS-HAC-2025"
+        ],
+        "source_file": "11-05-25 Zoe (Owner of Puck) Insight.txt",
+        "added_at": "2025-08-31T23:37:01.717415"
+      },
+      "text": "I’m uncomfortable with how this has been handled."
+    },
+    {
+      "id": "ZOE-Q-0511-GP-DEFAMATION",
+      "meta": {
+        "title": "They sent a letter to your GP saying you were paranoid.",
+        "author": "Zoe (Puck)",
+        "tags": [
+          "GP_DEFAMATION",
+          "BF-CONTRA-GP-DEFAMATION-NARRATIVE-2025"
+        ],
+        "source_file": "11-05-25 Zoe (Owner of Puck) Insight.txt",
+        "added_at": "2025-08-31T23:37:01.717417"
+      },
+      "text": "They sent a letter to your GP saying you were paranoid."
+    }
+  ],
+  "book_crosswalk": {
+    "chapter_id": "sec3_takeover_reveal",
+    "chapter_title": "3.0 — The Moment the Mask Slipped",
+    "timeline_refs": [
+      "2025-05-11"
+    ],
+    "vex_tags": [
+      "BF-CONTRA-TAKEOVER-PREMEDITATED-2025",
+      "CROWBARRING_MYSELF_JUSTICE",
+      "DUNCAN_ASSISTED_ERASURE",
+      "VENUE_TAKEOVER_THREAT",
+      "GP_DEFAMATION"
+    ],
+    "contradictions": [
+      {
+        "code": "BF-CONTRA-TAKEOVER-PREMEDITATED-2025"
+      }
+    ]
+  }
+}

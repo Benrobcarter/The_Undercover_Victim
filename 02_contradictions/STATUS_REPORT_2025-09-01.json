@@ -1,0 +1,36 @@
+{
+  "generated_at": "2025-08-31T18:08:07.654655Z",
+  "project_path": "~/Documents/the_undercover_victim",
+  "files": [
+    {
+      "filename": "shard_manifest_meta_merged.json",
+      "size_bytes": 175,
+      "sha256": "705dc9f1782f69f9f41e6f01faae56ea386a44ec9225fe6bdd88c692ba502c26",
+      "path": "~/Documents/the_undercover_victim/[appropriate_subfolder]"
+    },
+    {
+      "filename": "shard_contradictions_core_merged.json",
+      "size_bytes": 8209,
+      "sha256": "6789c918ce733902695d3f95b2dce716623b09ff33f5c8c6c213a03f11c2d973",
+      "path": "~/Documents/the_undercover_victim/[appropriate_subfolder]"
+    },
+    {
+      "filename": "vex_tag_reference_merged.json",
+      "size_bytes": 4967,
+      "sha256": "ee71b21101887cd0850a0d05f013eb4f86e29188c2de7d3ae74e984c84e575b1",
+      "path": "~/Documents/the_undercover_victim/[appropriate_subfolder]"
+    },
+    {
+      "filename": "shard_evidence_vex_merged.json",
+      "size_bytes": 1499,
+      "sha256": "5dc05f691753796cba8a3e44a55666d691e898dcc3f1ade3d8e1ee3fcc348883",
+      "path": "~/Documents/the_undercover_victim/[appropriate_subfolder]"
+    },
+    {
+      "filename": "shard_timelines_core_merged.json",
+      "size_bytes": 3217,
+      "sha256": "d394cd9699d011edfb0381b37f938a6213c3aa1defed6510e05cb9f179744fcb",
+      "path": "~/Documents/the_undercover_victim/[appropriate_subfolder]"
+    }
+  ]
+}

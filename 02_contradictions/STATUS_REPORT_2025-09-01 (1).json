@@ -1,0 +1,149 @@
+{
+  "generated_at": "2025-09-01T03:22:27.753605",
+  "summary": {
+    "total_files": 9,
+    "by_type": {
+      "evidence_vex": 4,
+      "contradiction": 2,
+      "contradiction_patch": 1,
+      "book_crosswalk": 1,
+      "book_overlay": 1
+    },
+    "by_tag": {
+      "SAFEGUARDING_MEETING": 2,
+      "SUICIDE_MINIMISATION": 1,
+      "POLICY_VS_PRACTICE": 2,
+      "2024_ERASURE": 1,
+      "VENUE_TAKEOVER_THREAT": 3,
+      "DEATH_BY_SILENCE": 4,
+      "CROWBARRING_MYSELF_JUSTICE": 2,
+      "DUNCAN_ASSISTED_ERASURE": 5,
+      "SAFEGUARDING_DEFLECTION": 5,
+      "LOST_EVIDENCE_SUSSEX_POLICE": 2,
+      "GP_DEFAMATION": 1,
+      "FRAUDULENT_CONDUCT": 1,
+      "CHARITIES_ACT_FAILURE": 2,
+      "INSTITUTIONAL_ERASURE": 1
+    },
+    "by_contradiction": {
+      "BF-CONTRA-SUICIDE_MINIMISATION-2025-04-09": 3,
+      "BF-CONTRA-DUNCAN-LIE-VOICEMAIL-2025": 2,
+      "BF-CONTRA-TAKEOVER-PREMEDITATED-2025": 1,
+      "BF-CONTRA-VENUE-PARTNER-DEFENDS-HAC-2025": 1,
+      "BF-CONTRA-VOICEMAIL-DENIAL-PROVEN-2025": 1,
+      "CROWBARRING_MYSELF_JUSTICE_2025_FULL_DISCLOSURE": 1
+    }
+  },
+  "files": [
+    {
+      "name": "SAFEGUARDING_MEETING_2025-04-09_BUNDLE",
+      "type": "evidence_vex",
+      "tags": [
+        "SAFEGUARDING_MEETING",
+        "SUICIDE_MINIMISATION",
+        "POLICY_VS_PRACTICE",
+        "2024_ERASURE",
+        "VENUE_TAKEOVER_THREAT",
+        "DEATH_BY_SILENCE"
+      ],
+      "contradictions": [
+        "BF-CONTRA-SUICIDE_MINIMISATION-2025-04-09"
+      ]
+    },
+    {
+      "name": "VOICEMAIL_2025-03-21_PROOF_OF_RECEIPT",
+      "type": "evidence_vex",
+      "tags": [
+        "CROWBARRING_MYSELF_JUSTICE",
+        "DUNCAN_ASSISTED_ERASURE",
+        "DEATH_BY_SILENCE",
+        "SAFEGUARDING_DEFLECTION",
+        "LOST_EVIDENCE_SUSSEX_POLICE"
+      ],
+      "contradictions": [
+        "BF-CONTRA-DUNCAN-LIE-VOICEMAIL-2025"
+      ]
+    },
+    {
+      "name": "VEX_2025-05-11_ZOE_PUCK_TAKEOVER_CONFIRMATION",
+      "type": "evidence_vex",
+      "tags": [
+        "VENUE_TAKEOVER_THREAT",
+        "SAFEGUARDING_DEFLECTION",
+        "GP_DEFAMATION",
+        "DUNCAN_ASSISTED_ERASURE",
+        "FRAUDULENT_CONDUCT",
+        "CHARITIES_ACT_FAILURE"
+      ],
+      "contradictions": [
+        "BF-CONTRA-TAKEOVER-PREMEDITATED-2025"
+      ]
+    },
+    {
+      "name": "VEX_2025-05-11_ZOE_CALL_FULL",
+      "type": "evidence_vex",
+      "tags": [
+        "VENUE_TAKEOVER_THREAT",
+        "INSTITUTIONAL_ERASURE",
+        "SAFEGUARDING_DEFLECTION",
+        "CHARITIES_ACT_FAILURE",
+        "DEATH_BY_SILENCE",
+        "DUNCAN_ASSISTED_ERASURE"
+      ],
+      "contradictions": [
+        "BF-CONTRA-VENUE-PARTNER-DEFENDS-HAC-2025"
+      ]
+    },
+    {
+      "name": "BF-CONTRA-DUNCAN-BLACKOUT-AND-LIE-2025",
+      "type": "contradiction",
+      "tags": [
+        "SAFEGUARDING_DEFLECTION",
+        "DUNCAN_ASSISTED_ERASURE",
+        "CROWBARRING_MYSELF_JUSTICE",
+        "DEATH_BY_SILENCE"
+      ],
+      "contradictions": [
+        "BF-CONTRA-DUNCAN-LIE-VOICEMAIL-2025"
+      ]
+    },
+    {
+      "name": "BF-CONTRA-VOICEMAIL-DENIAL-PROVEN-2025",
+      "type": "contradiction",
+      "tags": [
+        "SAFEGUARDING_DEFLECTION",
+        "DUNCAN_ASSISTED_ERASURE",
+        "LOST_EVIDENCE_SUSSEX_POLICE"
+      ],
+      "contradictions": [
+        "BF-CONTRA-VOICEMAIL-DENIAL-PROVEN-2025"
+      ]
+    },
+    {
+      "name": "BF-SAFEGUARDING_MEETING_CONTRADICTION_PATCH",
+      "type": "contradiction_patch",
+      "tags": [
+        "SAFEGUARDING_MEETING",
+        "POLICY_VS_PRACTICE"
+      ],
+      "contradictions": [
+        "BF-CONTRA-SUICIDE_MINIMISATION-2025-04-09"
+      ]
+    },
+    {
+      "name": "BOOK_CHAPTER_CROSSLINK_PATCH_2.5_2.6",
+      "type": "book_crosswalk",
+      "tags": [],
+      "contradictions": [
+        "BF-CONTRA-SUICIDE_MINIMISATION-2025-04-09",
+        "CROWBARRING_MYSELF_JUSTICE_2025_FULL_DISCLOSURE"
+      ]
+    },
+    {
+      "name": "CH2.5_OVERLAY_SCRIPT",
+      "type": "book_overlay",
+      "tags": [],
+      "contradictions": []
+    }
+  ]
+}

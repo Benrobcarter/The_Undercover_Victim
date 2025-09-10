@@ -1,0 +1,46 @@
+{
+  "meta": {
+    "evidence_id": "VEX_EMAIL_2024-12-16_2243_Re_NICE_link_new_online_posts_11",
+    "thread_id": "EMAIL_THREAD_47240214305_DIXON_Carter",
+    "created_utc": "2025-08-30T02:12:33Z",
+    "date_local": "2024-12-16",
+    "time_local": "22:43",
+    "from": "Ben Carter <benrobcarter@gmail.com>",
+    "to": "Dixon, Jon EA817 <Jon.Dixon@sussex.police.uk>",
+    "cc": [],
+    "subject": "Re: NICE link + new online posts",
+    "attachments": [],
+    "clusters": [
+      "CRIME_REF_47240214305_THREAD",
+      "DEATH_BY_SILENCE",
+      "ACCESS_BARRIER",
+      "CROWBARRING_MYSELF_JUSTICE"
+    ],
+    "status": "verbatim_ingested",
+    "project_paths": {
+      "evidence_dst": "01_evidence/vex/email/"
+    }
+  },
+  "claim_summary": "Email preserved verbatim as part of 47240214305 thread.",
+  "key_points": [],
+  "contradictions": [],
+  "timeline_hooks": [
+    {
+      "when": "2024-12-16T22:43:00",
+      "tag": "EMAIL_THREAD_ACTIVITY",
+      "note": "Email: Re: NICE link + new online posts"
+    }
+  ],
+  "cue_alignment": {
+    "status": "complete_from_user_text"
+  },
+  "cues": [
+    {
+      "index": 1,
+      "start": null,
+      "end": null,
+      "speaker": "Ben Carter <benrobcarter@gmail.com>",
+      "quote": "Just thought as your building case against her and posting a song about someone online they're on bail for\nstalking charges would be relevant to the case?\nI know you can't update me, so i don't what's going on, but if you feel this is irrelevant or you have enough stalking\nevidence already then no problem. I don't know the law or how it applies to this case only you do. I'll let you know\nwhenever something comes up though i just hate not knowing and now know there's been accusation against me.\nIt's horrible\nThanks Ben"
+    }
+  ]
+}

@@ -1,0 +1,396 @@
+{
+  "atlas_version": "v8",
+  "scope": "Unified contradictions map merging micro contradictions (v1\u2013v4) with structural/systemic expansions (v7).",
+  "contradictions": [
+    {
+      "id": "BF-CONTRA-CHAIRMAN-MANDATE",
+      "source": "Chairmans_Mandate_Crisis_of_Confidence_2023.docx",
+      "date": "Sept 2023",
+      "claim": "Chair acted neutrally in CEO recruitment",
+      "reality": "Duncan\u2019s Sept 2023 report was a vote of no confidence; new CEO mandate = 'seize every commercial opportunity'",
+      "laws": [
+        "Charities Act 2011",
+        "Companies Act 2006"
+      ],
+      "damages": [
+        "Strategic",
+        "Financial"
+      ]
+    },
+    {
+      "id": "BF-CONTRA-FINANCIAL-MOTIVE",
+      "source": "Financial_Mismanagement_Ben_Carter_Target.docx",
+      "date_range": "2023\u201325",
+      "claim": "Takeover was a safeguarding intervention",
+      "reality": "CEO job spec mandated seizing commercial opportunities; budget targeted 10 venues; Ben delivered expansion",
+      "laws": [
+        "Charities Act 2011",
+        "Fraud Act 2006"
+      ],
+      "damages": [
+        "Financial",
+        "Reputational",
+        "Strategic"
+      ]
+    },
+    {
+      "id": "BF-CONTRA-CONFESSION-OF-SUCCESS",
+      "source": "Chairmans_Praise_Sept_18_2023.docx",
+      "date": "18 Sept 2023",
+      "claim": "Ben was overextended/failing",
+      "reality": "Chairman email: 'Ben Carter is to be congratulated in securing 6 venues' contradicts later smear",
+      "laws": [
+        "Defamation Act 2013"
+      ],
+      "damages": [
+        "Reputational"
+      ]
+    },
+    {
+      "id": "BF-CONTRA-SAFEGUARDING-PASSIVITY",
+      "source": "recent_disclosure_deepdive_writeup.txt",
+      "date": "2 Apr 2025",
+      "claim": "Fringe offered proactive safeguarding after disclosure",
+      "reality": "Acknowledged police involvement but refused to act without instruction; stayed passive",
+      "laws": [
+        "Care Act 2014 s.42",
+        "Charities Act 2011"
+      ],
+      "damages": [
+        "Emotional",
+        "Reputational",
+        "Strategic"
+      ]
+    },
+    {
+      "id": "BF-CONTRA-SAFEGUARDING-MEETING-FAILURE",
+      "source": "01_april_safeguarding_sequence_deepdive_writeup.txt",
+      "date": "8 Apr 2025",
+      "claim": "Safeguarding meeting addressed suicide risk",
+      "reality": "Disclosure ('Saturday night I tried to kill myself') met with silence, then admin focus",
+      "laws": [
+        "Care Act 2014",
+        "Charities Act 2011"
+      ],
+      "damages": [
+        "Emotional",
+        "Medical"
+      ]
+    },
+    {
+      "id": "BF-CONTRA-SAFEGUARDING-BURDEN-SHIFT",
+      "source": "What_Do_You_Want_From_Us.docx",
+      "date": "9 Apr 2025",
+      "claim": "Chair applied safeguarding policy",
+      "reality": "Opening line: 'WHAT do you want from us' \u2014 abdicated Care Act duty, placed burden on victim",
+      "laws": [
+        "Care Act 2014"
+      ],
+      "damages": [
+        "Emotional",
+        "Medical"
+      ]
+    },
+    {
+      "id": "BF-CONTRA-COORDINATED-ATTACK",
+      "source": "One_Month_Post-Crisis_Coordinated_Attack.docx",
+      "date": "8 May 2025",
+      "claim": "Fringe supported Ben on May 8",
+      "reality": "Same day: hostile takeover executed + GP email sent labelling Ben 'paranoid/delusional'",
+      "laws": [
+        "Defamation Act 2013",
+        "Care Act 2014",
+        "GDPR/DPA 2018"
+      ],
+      "damages": [
+        "Financial",
+        "Reputational",
+        "Medical"
+      ]
+    },
+    {
+      "id": "BF-CONTRA-MEDICAL-GASLIGHTING",
+      "source": "Medical_Damages_Causation.docx",
+      "date": "8 May 2025",
+      "claim": "Fringe safeguarded Ben\u2019s health",
+      "reality": "Managing Director emailed GP without consent, framing disclosures as 'paranoia/delusions'",
+      "laws": [
+        "GDPR/DPA 2018",
+        "Care Act 2014"
+      ],
+      "damages": [
+        "Medical",
+        "Reputational"
+      ]
+    },
+    {
+      "id": "BF-CONTRA-MEDICAL-HISTORY-REWRITE",
+      "source": "Medical_Damages_Causation.docx",
+      "date_range": "May\u2013Jul 2025",
+      "claim": "Medical records accurate",
+      "reality": "Fringe framing led to false 'psychosis' diagnosis",
+      "laws": [
+        "GDPR/DPA 2018"
+      ],
+      "damages": [
+        "Medical",
+        "Reputational"
+      ]
+    },
+    {
+      "id": "BF-CONTRA-FORCED-MEDICATION",
+      "source": "Medical_Damages_Causation.docx",
+      "date": "Post-May 2025",
+      "claim": "Treatment remained intact",
+      "reality": "Effective ADHD meds replaced with antipsychotics; permanent harm",
+      "laws": [
+        "Equality Act 2010"
+      ],
+      "damages": [
+        "Medical"
+      ]
+    },
+    {
+      "id": "BF-CONTRA-DUNCAN-COMPLAINT-POLICE",
+      "source": "Duncan_Complaint_29_June_2025.docx",
+      "date": "29 Jun 2025",
+      "claim": "Police provided evidence mechanism",
+      "reality": "Victim email: no NICE link; proactive offers ignored",
+      "laws": [
+        "Victims\u2019 Code"
+      ],
+      "damages": [
+        "Strategic"
+      ]
+    },
+    {
+      "id": "BF-CONTRA-GDPR-GASLIGHTING",
+      "source": "Duncan_Complaint_29_June_2025.docx",
+      "date": "29 Jun 2025",
+      "claim": "Police GDPR limits blocked info",
+      "reality": "Ben pre-empted excuse ('you can\u2019t prove who I am\u2026 GDPR'); obstruction tactic",
+      "laws": [
+        "GDPR/DPA 2018"
+      ],
+      "damages": [
+        "Strategic"
+      ]
+    },
+    {
+      "id": "BF-CONTRA-CONFESSION-INCOMPETENCE-JUL20-2025",
+      "source": "Confession_of_Incompetence.docx",
+      "date": "20 Jul 2025",
+      "claim": "Board governance complied with law",
+      "reality": "Chair admitted minutes 'yet to be written'; denied access",
+      "laws": [
+        "Charities Act 2011"
+      ],
+      "damages": [
+        "Strategic"
+      ]
+    },
+    {
+      "id": "BF-CONTRA-LIBEL-FINAL-ACT",
+      "source": "A_Final_Act_of_Public_Libel.docx",
+      "date": "18 Jul 2025",
+      "claim": "Libel email was neutral",
+      "reality": "Mass email = final execution of takeover narrative, defaming Ben to 160+ clients",
+      "laws": [
+        "Defamation Act 2013"
+      ],
+      "damages": [
+        "Reputational",
+        "Financial"
+      ]
+    },
+    {
+      "id": "BF-CONTRA-REFUSED-SUPPORT-MYTH",
+      "source": "A_Final_Act_of_Public_Libel.docx",
+      "date": "18 Jul 2025",
+      "claim": "Ben refused offers of support",
+      "reality": "Refusal misrepresented; actual evidence shows coercive offers rejected, not genuine support",
+      "laws": [
+        "Defamation Act 2013"
+      ],
+      "damages": [
+        "Reputational"
+      ]
+    },
+    {
+      "id": "BF-CONTRA-FINANCIAL-MISCONDUCT-LIE",
+      "source": "A_Final_Act_of_Public_Libel.docx",
+      "date": "18 Jul 2025",
+      "claim": "Ben misused artist payments",
+      "reality": "Brochure delay caused by Fringe\u2019s unsafe ticketing system making insurance impossible",
+      "laws": [
+        "Defamation Act 2013"
+      ],
+      "damages": [
+        "Reputational",
+        "Financial"
+      ]
+    },
+    {
+      "id": "BF-CONTRA-MULTIAGENCY-EVASION",
+      "source": "Who_Knew_What_When_Analysis.docx",
+      "date_range": "Mar\u2013May 2025",
+      "claim": "Institutions acted in isolation",
+      "reality": "Police, Fringe, perpetrator all aware; each used others to evade responsibility",
+      "laws": [
+        "Care Act 2014"
+      ],
+      "damages": [
+        "Strategic"
+      ]
+    },
+    {
+      "id": "BF-CONTRA-PLAYBOOK-SHARED",
+      "source": "Shared_Abuse_Playbook.docx",
+      "date_range": "2024\u20132025",
+      "claim": "Police & Fringe acted independently",
+      "reality": "Both followed identical four-stage coercive playbook: silence \u2192 weaponising distress \u2192 narrative inversion \u2192 medical discrediting",
+      "laws": [
+        "Care Act 2014"
+      ],
+      "damages": [
+        "Reputational",
+        "Emotional"
+      ]
+    },
+    {
+      "id": "BF-CONTRA-FORCED-INVESTIGATOR",
+      "source": "From_Victim_to_Investigator.docx",
+      "date_range": "2024\u20132025",
+      "claim": "Case failures due to lack of victim persistence",
+      "reality": "Ben was forced into role of own investigator, archivist, and advocate due to institutional collapse",
+      "laws": [
+        "Care Act 2014"
+      ],
+      "damages": [
+        "Emotional",
+        "Strategic"
+      ]
+    },
+    {
+      "id": "BF-CONTRA-SAFEGUARDING-BURDEN-SHIFT-2025-04-09",
+      "source": "16_A_Confession_of_Incompetence_master.txt",
+      "date": "2025-04-09",
+      "claim": "Chair applied safeguarding policy at crisis meeting",
+      "reality": "Duncan Lustig-Prean opened with 'What are you expecting from us?' \u2014 abdicating Care Act duties and shifting safeguarding burden onto the victim",
+      "laws": [
+        "Care Act 2014 s.42",
+        "Human Rights Act 1998 Art.2",
+        "Human Rights Act 1998 Art.3"
+      ],
+      "damages": [
+        "Emotional",
+        "Medical"
+      ]
+    },
+    {
+      "id": "BF-CONTRA-LIBEL-EMAIL-APOLOGY-2025-07-18",
+      "source": "09_Post-Takeover_Consolidating_Control_Withholding_Evidence_master.txt",
+      "date": "2025-07-18",
+      "claim": "Mass email of 18 July 2025 was an apology to artists",
+      "reality": "The email defamed Ben Carter as dishonest and abusive, circulated to 160+ artists and clients, cementing reputational erasure",
+      "laws": [
+        "Defamation Act 2013",
+        "Charities Act 2011",
+        "Human Rights Act 1998 Art.6"
+      ],
+      "damages": [
+        "Reputational",
+        "Financial",
+        "Emotional"
+      ]
+    },
+    {
+      "id": "BF-CONTRA-IGNORE-EMAILS-2024-05-27",
+      "cluster": [
+        "Brighton Fringe",
+        "Duncan Lustig-Prean"
+      ],
+      "claim": "We support venues and follow safeguarding best practice.",
+      "reality": "Chair ordered staff to ignore all emails from the venue lead, invoking 'poor mental health', while live risks persisted.",
+      "evidence_citations": [
+        "11",
+        "12"
+      ],
+      "laws_breached": [
+        "Charities Act 2011 (trustee duties: care, prudence, compliance)",
+        "UK GDPR/DPA 2018 (special category data: health \u2014 fairness/necessity)",
+        "Safeguarding guidance for charities (duty to act on risk)"
+      ],
+      "damages": [
+        "Emotional",
+        "Medical",
+        "Reputational"
+      ]
+    },
+    {
+      "id": "BF-CONTRA-DEFAMATION-SEED-2024-05",
+      "cluster": [
+        "Brighton Fringe",
+        "Duncan Lustig-Prean"
+      ],
+      "claim": "Communications correct misinformation fairly.",
+      "reality": "2024 threats framed your complaints as 'libellous', then 18 Jul 2025 mass email smeared you to ~160 recipients as 'abusive/unfit'.",
+      "evidence_citations": [
+        "13",
+        "14",
+        "15"
+      ],
+      "laws_breached": [
+        "Defamation Act 2013 (serious harm)"
+      ],
+      "damages": [
+        "Reputational",
+        "Financial",
+        "Emotional"
+      ]
+    },
+    {
+      "id": "BF-CONTRA-MEDICAL-RETALIATION-2025-05-08",
+      "cluster": [
+        "Brighton Fringe",
+        "Managing Director"
+      ],
+      "claim": "Health\u2011related contacts were proportionate safeguarding.",
+      "reality": "Day after whistleblowing, MD emailed your GP misrepresenting disclosures as paranoia/delusions; used special category data with no lawful basis.",
+      "evidence_citations": [
+        "16",
+        "17"
+      ],
+      "laws_breached": [
+        "UK GDPR/DPA 2018 (Art. 9 special category; lawfulness/necessity)",
+        "Care Act 2014 (wellbeing/safeguarding principles)"
+      ],
+      "damages": [
+        "Medical",
+        "Emotional",
+        "Reputational"
+      ]
+    },
+    {
+      "id": "BF-CONTRA-PREMEDITATED-TAKEOVER-2025-05-08",
+      "cluster": [
+        "Brighton Fringe"
+      ],
+      "claim": "Intervention was necessary due to your contractual non\u2011performance.",
+      "reality": "Takeover was pre\u2011planned; brochure was placed/paid/printed; sanctions relied on an outdated contract while Fringe ops failures created the crisis.",
+      "evidence_citations": [
+        "18",
+        "19"
+      ],
+      "laws_breached": [
+        "Charities Act 2011 (fairness/transparency; proper decision\u2011making)",
+        "Contract law \u2014 implied duty of good faith (contextual)"
+      ],
+      "damages": [
+        "Financial",
+        "Reputational",
+        "Emotional"
+      ]
+    }
+  ]
+}

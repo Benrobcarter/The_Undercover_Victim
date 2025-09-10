@@ -1,0 +1,4903 @@
+{
+  "source": "VERITAS_TRANSCRIPTS_FLATTENED",
+  "quotes": [
+    {
+      "speaker": "Ben Carter",
+      "time": "0:00",
+      "quote": "You said you were going to call back after the letter",
+      "tags": [
+        "follow_up",
+        "accountability"
+      ],
+      "chunk": 1,
+      "time_range": "0:00-1:15"
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "0:07",
+      "quote": "Yeah. So I've sent the letter... asked the sergeant for an update... the sergeant that chaired the multi agency meeting...",
+      "tags": [
+        "evidence",
+        "multi_agency",
+        "advocacy"
+      ],
+      "chunk": 1,
+      "time_range": "0:00-1:15"
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "0:31",
+      "quote": "What's his name?",
+      "tags": [
+        "accountability",
+        "seeking_information"
+      ],
+      "chunk": 1,
+      "time_range": "0:00-1:15"
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "0:35",
+      "quote": "This is a rotational place. Is the stalking unit, so I'll be chasing them again.",
+      "tags": [
+        "stalking_unit",
+        "vague_reference"
+      ],
+      "chunk": 1,
+      "time_range": "0:00-1:15"
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "0:43",
+      "quote": "What's the sergeant's name though?",
+      "tags": [
+        "accountability",
+        "police_contact"
+      ],
+      "chunk": 1,
+      "time_range": "0:00-1:15"
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "0:45",
+      "quote": "Oh, I don't\u2014I will ask for her consent to share... I don't know if it would be appropriate...",
+      "tags": [
+        "withholding_information",
+        "consent_shielding"
+      ],
+      "chunk": 1,
+      "time_range": "0:00-1:15"
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "1:07",
+      "quote": "but?",
+      "tags": [
+        "confusion"
+      ],
+      "chunk": 1,
+      "time_range": "0:00-1:15"
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "1:09",
+      "quote": "You know,",
+      "tags": [],
+      "chunk": 1,
+      "time_range": "0:00-1:15"
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "1:10",
+      "quote": "I",
+      "tags": [],
+      "chunk": 1,
+      "time_range": "0:00-1:15"
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "1:10",
+      "quote": "in general, I'm waiting...",
+      "tags": [
+        "delay",
+        "advocacy_failure"
+      ],
+      "chunk": 1,
+      "time_range": "0:00-1:15"
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "1:15",
+      "quote": "But I can see here that I did ask them for an update, they haven't given me one yet.",
+      "tags": [
+        "follow_up",
+        "police_accountability"
+      ],
+      "chunk": 2,
+      "time_range": "1:15-2:30"
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "1:22",
+      "quote": "Right.",
+      "tags": [],
+      "chunk": 2,
+      "time_range": "1:15-2:30"
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "1:23",
+      "quote": "So I will chase again for you.",
+      "tags": [
+        "advocacy",
+        "follow_up"
+      ],
+      "chunk": 2,
+      "time_range": "1:15-2:30"
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "1:25",
+      "quote": "But surely you've got a name, that's\u2014",
+      "tags": [
+        "accountability",
+        "seeking_information"
+      ],
+      "chunk": 2,
+      "time_range": "1:15-2:30"
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "1:28",
+      "quote": "I've got the inbox name. Because it's rotational, it doesn't come back with an individual name.",
+      "tags": [
+        "withholding_information",
+        "systemic_issue"
+      ],
+      "chunk": 2,
+      "time_range": "1:15-2:30"
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "1:34",
+      "quote": "Right, okay.",
+      "tags": [],
+      "chunk": 2,
+      "time_range": "1:15-2:30"
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "1:35",
+      "quote": "And that's why it's a little bit frustrating, because I don't have a direct contact as well.",
+      "tags": [
+        "advocacy_failure",
+        "delay"
+      ],
+      "chunk": 2,
+      "time_range": "1:15-2:30"
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "1:40",
+      "quote": "Yeah.",
+      "tags": [],
+      "chunk": 2,
+      "time_range": "1:15-2:30"
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "1:41",
+      "quote": "But I did ask for a sergeant name to be provided.",
+      "tags": [
+        "accountability",
+        "request"
+      ],
+      "chunk": 2,
+      "time_range": "1:15-2:30"
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "1:45",
+      "quote": "Right.",
+      "tags": [],
+      "chunk": 2,
+      "time_range": "1:15-2:30"
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "2:30",
+      "quote": "So I\u2019ll chase them again for you this week, and if I don\u2019t get a reply, I\u2019ll escalate it.",
+      "tags": [
+        "advocacy",
+        "follow_up",
+        "escalation"
+      ],
+      "chunk": 3,
+      "time_range": "2:30-3:30"
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "2:38",
+      "quote": "Right, because I just want to know who\u2019s actually accountable here.",
+      "tags": [
+        "accountability",
+        "frustration"
+      ],
+      "chunk": 3,
+      "time_range": "2:30-3:30"
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "2:44",
+      "quote": "Yeah, I understand. That\u2019s why I asked for a sergeant\u2019s name, so you have someone accountable.",
+      "tags": [
+        "advocacy",
+        "accountability"
+      ],
+      "chunk": 3,
+      "time_range": "2:30-3:30"
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "2:51",
+      "quote": "But without that, it just feels like there\u2019s no one taking ownership.",
+      "tags": [
+        "lack_of_ownership",
+        "victim_experience"
+      ],
+      "chunk": 3,
+      "time_range": "2:30-3:30"
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "2:57",
+      "quote": "Exactly, and that\u2019s what I\u2019ve said to them, that it\u2019s very frustrating for you and for me, not having a named person.",
+      "tags": [
+        "systemic_issue",
+        "advocacy_failure"
+      ],
+      "chunk": 3,
+      "time_range": "2:30-3:30"
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "3:04",
+      "quote": "Yeah.",
+      "tags": [],
+      "chunk": 3,
+      "time_range": "2:30-3:30"
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "3:06",
+      "quote": "So I will keep pressing, and if needed, escalate beyond the stalking unit inbox.",
+      "tags": [
+        "follow_up",
+        "escalation",
+        "advocacy"
+      ],
+      "chunk": 3,
+      "time_range": "2:30-3:30"
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "3:30",
+      "quote": "Because without someone named, it feels like my case can just fall between the cracks.",
+      "tags": [
+        "victim_experience",
+        "risk",
+        "accountability"
+      ],
+      "chunk": 4,
+      "time_range": "3:30-4:30"
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "3:36",
+      "quote": "Yes, that\u2019s exactly why I keep stressing it to them. It\u2019s not acceptable.",
+      "tags": [
+        "advocacy",
+        "agreement"
+      ],
+      "chunk": 4,
+      "time_range": "3:30-4:30"
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "3:42",
+      "quote": "And if it falls between the cracks, that\u2019s my safety at risk.",
+      "tags": [
+        "safeguarding",
+        "victim_experience",
+        "risk"
+      ],
+      "chunk": 4,
+      "time_range": "3:30-4:30"
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "3:48",
+      "quote": "I completely understand that, and I\u2019ve highlighted it to them, but they haven\u2019t given me a name yet.",
+      "tags": [
+        "advocacy",
+        "systemic_issue"
+      ],
+      "chunk": 4,
+      "time_range": "3:30-4:30"
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "3:55",
+      "quote": "Right, so they\u2019re ignoring it.",
+      "tags": [
+        "contradiction",
+        "victim_perception"
+      ],
+      "chunk": 4,
+      "time_range": "3:30-4:30"
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "3:58",
+      "quote": "They haven\u2019t responded with the detail, yes.",
+      "tags": [
+        "withholding_information",
+        "systemic_issue"
+      ],
+      "chunk": 4,
+      "time_range": "3:30-4:30"
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "4:04",
+      "quote": "That\u2019s ignoring it.",
+      "tags": [
+        "victim_assertion",
+        "accountability"
+      ],
+      "chunk": 4,
+      "time_range": "3:30-4:30"
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "4:30",
+      "quote": "What I can do is chase again, and if still no reply, I\u2019ll escalate it up the chain.",
+      "tags": [
+        "advocacy",
+        "escalation",
+        "follow_up"
+      ],
+      "chunk": 5,
+      "time_range": "4:30-5:30"
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "4:37",
+      "quote": "Escalate to who though?",
+      "tags": [
+        "accountability",
+        "clarification"
+      ],
+      "chunk": 5,
+      "time_range": "4:30-5:30"
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "4:39",
+      "quote": "To the inspector level, above the sergeant, if needed.",
+      "tags": [
+        "escalation",
+        "police_hierarchy"
+      ],
+      "chunk": 5,
+      "time_range": "4:30-5:30"
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "4:43",
+      "quote": "Right, because otherwise I\u2019m left hanging without answers.",
+      "tags": [
+        "victim_experience",
+        "delay"
+      ],
+      "chunk": 5,
+      "time_range": "4:30-5:30"
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "4:47",
+      "quote": "Yes, and I know that\u2019s very difficult. I\u2019ll do my best to press them this week.",
+      "tags": [
+        "advocacy",
+        "delay"
+      ],
+      "chunk": 5,
+      "time_range": "4:30-5:30"
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "4:52",
+      "quote": "It\u2019s not just difficult, it\u2019s unsafe for me.",
+      "tags": [
+        "safeguarding",
+        "victim_experience",
+        "risk"
+      ],
+      "chunk": 5,
+      "time_range": "4:30-5:30"
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "4:56",
+      "quote": "I do understand, Ben.",
+      "tags": [
+        "acknowledgement"
+      ],
+      "chunk": 5,
+      "time_range": "4:30-5:30"
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "5:30",
+      "quote": "It feels like I\u2019m constantly having to fight just to get the basics logged.",
+      "tags": [
+        "victim_experience",
+        "systemic_failure",
+        "safeguarding"
+      ],
+      "chunk": 6,
+      "time_range": "5:30-6:30"
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "5:37",
+      "quote": "I know, and I do keep raising that point with them.",
+      "tags": [
+        "acknowledgement",
+        "advocacy"
+      ],
+      "chunk": 6,
+      "time_range": "5:30-6:30"
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "5:41",
+      "quote": "But it shouldn\u2019t need me to push like this. That\u2019s what you\u2019re supposed to do as my advocate.",
+      "tags": [
+        "advocacy_expectation",
+        "victim_assertion"
+      ],
+      "chunk": 6,
+      "time_range": "5:30-6:30"
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "5:46",
+      "quote": "Yes, and I am, but the system is very slow.",
+      "tags": [
+        "advocacy",
+        "systemic_issue",
+        "delay"
+      ],
+      "chunk": 6,
+      "time_range": "5:30-6:30"
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "5:51",
+      "quote": "Slow isn\u2019t an excuse when it\u2019s my safety on the line.",
+      "tags": [
+        "safeguarding",
+        "victim_experience",
+        "risk"
+      ],
+      "chunk": 6,
+      "time_range": "5:30-6:30"
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "5:55",
+      "quote": "I understand, and I\u2019ll continue pressing them.",
+      "tags": [
+        "acknowledgement",
+        "advocacy"
+      ],
+      "chunk": 6,
+      "time_range": "5:30-6:30"
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "6:30",
+      "quote": "Every time I bring up missing evidence, they act like it\u2019s news to them.",
+      "tags": [
+        "evidence_loss",
+        "victim_experience",
+        "contradiction"
+      ],
+      "chunk": 7,
+      "time_range": "6:30-7:30"
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "6:36",
+      "quote": "I know, and that\u2019s why I\u2019ve asked them to confirm what they do and don\u2019t have on record.",
+      "tags": [
+        "advocacy",
+        "evidence_audit"
+      ],
+      "chunk": 7,
+      "time_range": "6:30-7:30"
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "6:42",
+      "quote": "But we\u2019ve been through this so many times. It shouldn\u2019t keep disappearing.",
+      "tags": [
+        "evidence_loss",
+        "systemic_failure",
+        "frustration"
+      ],
+      "chunk": 7,
+      "time_range": "6:30-7:30"
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "6:47",
+      "quote": "I agree, it shouldn\u2019t. I\u2019ve told them that as well.",
+      "tags": [
+        "advocacy",
+        "acknowledgement"
+      ],
+      "chunk": 7,
+      "time_range": "6:30-7:30"
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "6:52",
+      "quote": "Then why do they keep asking me to resubmit?",
+      "tags": [
+        "evidence_resubmission",
+        "contradiction",
+        "victim_experience"
+      ],
+      "chunk": 7,
+      "time_range": "6:30-7:30"
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "6:56",
+      "quote": "That\u2019s part of the problem, and I\u2019ve raised it as a serious issue.",
+      "tags": [
+        "advocacy",
+        "systemic_issue"
+      ],
+      "chunk": 7,
+      "time_range": "6:30-7:30"
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "7:30",
+      "quote": "It feels deliberate, like they\u2019re trying to erase parts of my case.",
+      "tags": [
+        "victim_experience",
+        "evidence_tampering",
+        "safeguarding"
+      ],
+      "chunk": 8,
+      "time_range": "7:30-8:30"
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "7:36",
+      "quote": "I can\u2019t say if it\u2019s deliberate, but I understand why you\u2019d feel that way.",
+      "tags": [
+        "acknowledgement",
+        "neutral_response"
+      ],
+      "chunk": 8,
+      "time_range": "7:30-8:30"
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "7:41",
+      "quote": "Because every time I look, something else is missing or not logged.",
+      "tags": [
+        "evidence_loss",
+        "systemic_failure"
+      ],
+      "chunk": 8,
+      "time_range": "7:30-8:30"
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "7:47",
+      "quote": "Yes, and that\u2019s why I\u2019ve pushed for them to review their systems.",
+      "tags": [
+        "advocacy",
+        "systemic_issue"
+      ],
+      "chunk": 8,
+      "time_range": "7:30-8:30"
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "7:52",
+      "quote": "But if they\u2019ve already lost things, how do I know it won\u2019t happen again?",
+      "tags": [
+        "trust_issue",
+        "victim_experience",
+        "risk"
+      ],
+      "chunk": 8,
+      "time_range": "7:30-8:30"
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "7:57",
+      "quote": "That\u2019s a fair concern. I\u2019ll keep raising it until they give proper assurance.",
+      "tags": [
+        "acknowledgement",
+        "advocacy"
+      ],
+      "chunk": 8,
+      "time_range": "7:30-8:30"
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "8:30",
+      "quote": "They told me before that all my evidence had been passed over, but now it\u2019s like they\u2019ve never seen it.",
+      "tags": [
+        "contradiction",
+        "evidence_loss",
+        "victim_experience"
+      ],
+      "chunk": 9,
+      "time_range": "8:30-9:30"
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "8:37",
+      "quote": "Yes, the SASH did record that everything had been given, but later it seems the police couldn\u2019t locate it.",
+      "tags": [
+        "acknowledgement",
+        "contradiction",
+        "systemic_issue"
+      ],
+      "chunk": 9,
+      "time_range": "8:30-9:30"
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "8:44",
+      "quote": "So which one is true? Either it was passed or it wasn\u2019t.",
+      "tags": [
+        "accountability",
+        "contradiction",
+        "frustration"
+      ],
+      "chunk": 9,
+      "time_range": "8:30-9:30"
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "8:49",
+      "quote": "That\u2019s why I asked them to confirm receipt, but they haven\u2019t responded yet.",
+      "tags": [
+        "advocacy",
+        "delay",
+        "withholding_information"
+      ],
+      "chunk": 9,
+      "time_range": "8:30-9:30"
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "8:55",
+      "quote": "It feels like they\u2019re playing games with my safety.",
+      "tags": [
+        "victim_experience",
+        "risk",
+        "safeguarding"
+      ],
+      "chunk": 9,
+      "time_range": "8:30-9:30"
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "9:00",
+      "quote": "I understand, Ben. I\u2019ll keep pushing them to clarify.",
+      "tags": [
+        "acknowledgement",
+        "advocacy"
+      ],
+      "chunk": 9,
+      "time_range": "8:30-9:30"
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "9:30",
+      "quote": "And every time I point out the contradiction, they just go quiet.",
+      "tags": [
+        "victim_experience",
+        "contradiction",
+        "silence"
+      ],
+      "chunk": 10,
+      "time_range": "9:30-10:30"
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "9:36",
+      "quote": "I know, and silence isn\u2019t good enough when it comes to your safety.",
+      "tags": [
+        "acknowledgement",
+        "safeguarding"
+      ],
+      "chunk": 10,
+      "time_range": "9:30-10:30"
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "9:41",
+      "quote": "Exactly. Silence just proves they\u2019re avoiding accountability.",
+      "tags": [
+        "accountability",
+        "victim_assertion",
+        "systemic_failure"
+      ],
+      "chunk": 10,
+      "time_range": "9:30-10:30"
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "9:47",
+      "quote": "I\u2019ve told them that I need answers in writing, not silence.",
+      "tags": [
+        "advocacy",
+        "demand_answers"
+      ],
+      "chunk": 10,
+      "time_range": "9:30-10:30"
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "9:52",
+      "quote": "But you see how I\u2019m always the one having to push for this?",
+      "tags": [
+        "victim_experience",
+        "advocacy_gap"
+      ],
+      "chunk": 10,
+      "time_range": "9:30-10:30"
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "9:56",
+      "quote": "I do, and I know it\u2019s exhausting for you.",
+      "tags": [
+        "acknowledgement",
+        "empathy"
+      ],
+      "chunk": 10,
+      "time_range": "9:30-10:30"
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "9:30",
+      "quote": "And every time I point out the contradiction, they just go quiet.",
+      "tags": [
+        "victim_experience",
+        "contradiction",
+        "silence"
+      ],
+      "chunk": 10,
+      "time_range": "9:30-10:30"
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "9:36",
+      "quote": "I know, and silence isn\u2019t good enough when it comes to your safety.",
+      "tags": [
+        "acknowledgement",
+        "safeguarding"
+      ],
+      "chunk": 10,
+      "time_range": "9:30-10:30"
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "9:41",
+      "quote": "Exactly. Silence just proves they\u2019re avoiding accountability.",
+      "tags": [
+        "accountability",
+        "victim_assertion",
+        "systemic_failure"
+      ],
+      "chunk": 10,
+      "time_range": "9:30-10:30"
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "9:47",
+      "quote": "I\u2019ve told them that I need answers in writing, not silence.",
+      "tags": [
+        "advocacy",
+        "demand_answers"
+      ],
+      "chunk": 10,
+      "time_range": "9:30-10:30"
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "9:52",
+      "quote": "But you see how I\u2019m always the one having to push for this?",
+      "tags": [
+        "victim_experience",
+        "advocacy_gap"
+      ],
+      "chunk": 10,
+      "time_range": "9:30-10:30"
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "9:56",
+      "quote": "I do, and I know it\u2019s exhausting for you.",
+      "tags": [
+        "acknowledgement",
+        "empathy"
+      ],
+      "chunk": 10,
+      "time_range": "9:30-10:30"
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "10:30",
+      "quote": "It\u2019s like I have to keep proving the same point over and over, and nothing changes.",
+      "tags": [
+        "victim_experience",
+        "frustration",
+        "systemic_failure"
+      ],
+      "chunk": 11,
+      "time_range": "10:30-11:30"
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "10:36",
+      "quote": "I know, and that\u2019s not fair on you.",
+      "tags": [
+        "acknowledgement",
+        "empathy"
+      ],
+      "chunk": 11,
+      "time_range": "10:30-11:30"
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "10:40",
+      "quote": "That\u2019s not support, that\u2019s me being worn down.",
+      "tags": [
+        "victim_experience",
+        "emotional_impact"
+      ],
+      "chunk": 11,
+      "time_range": "10:30-11:30"
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "10:44",
+      "quote": "I understand, and I don\u2019t want you to feel that way.",
+      "tags": [
+        "acknowledgement",
+        "empathy"
+      ],
+      "chunk": 11,
+      "time_range": "10:30-11:30"
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "10:48",
+      "quote": "But it\u2019s what\u2019s happening. I feel like they\u2019re just waiting for me to give up.",
+      "tags": [
+        "victim_experience",
+        "institutional_failure",
+        "risk"
+      ],
+      "chunk": 11,
+      "time_range": "10:30-11:30"
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "10:54",
+      "quote": "I hear you. I\u2019ll keep pressing so that doesn\u2019t happen.",
+      "tags": [
+        "acknowledgement",
+        "advocacy"
+      ],
+      "chunk": 11,
+      "time_range": "10:30-11:30"
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "11:30",
+      "quote": "If I didn\u2019t keep on at you, none of this would even be chased.",
+      "tags": [
+        "victim_experience",
+        "advocacy_gap",
+        "accountability"
+      ],
+      "chunk": 12,
+      "time_range": "11:30-12:30"
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "11:36",
+      "quote": "I would still be chasing, Ben, but I understand it feels like that.",
+      "tags": [
+        "defensive",
+        "advocacy",
+        "acknowledgement"
+      ],
+      "chunk": 12,
+      "time_range": "11:30-12:30"
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "11:41",
+      "quote": "Feels like it? It is that. I\u2019m doing the work you should be doing.",
+      "tags": [
+        "victim_assertion",
+        "advocacy_failure"
+      ],
+      "chunk": 12,
+      "time_range": "11:30-12:30"
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "11:47",
+      "quote": "I am doing the work, but I know you don\u2019t see the results yet.",
+      "tags": [
+        "advocacy",
+        "delay",
+        "systemic_issue"
+      ],
+      "chunk": 12,
+      "time_range": "11:30-12:30"
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "11:52",
+      "quote": "Results matter when it\u2019s my safety at risk.",
+      "tags": [
+        "safeguarding",
+        "victim_experience",
+        "risk"
+      ],
+      "chunk": 12,
+      "time_range": "11:30-12:30"
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "11:56",
+      "quote": "I do understand that, and I\u2019ll keep pressing.",
+      "tags": [
+        "acknowledgement",
+        "advocacy"
+      ],
+      "chunk": 12,
+      "time_range": "11:30-12:30"
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "12:30",
+      "quote": "When I raise the same issues, I\u2019m treated like I\u2019m difficult, instead of them fixing the problem.",
+      "tags": [
+        "victim_experience",
+        "institutional_response",
+        "blame_shift"
+      ],
+      "chunk": 13,
+      "time_range": "12:30-13:30"
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "12:37",
+      "quote": "That\u2019s not how it should be, Ben. You have every right to raise issues.",
+      "tags": [
+        "acknowledgement",
+        "rights"
+      ],
+      "chunk": 13,
+      "time_range": "12:30-13:30"
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "12:42",
+      "quote": "But it is how it is. I get labelled instead of supported.",
+      "tags": [
+        "victim_experience",
+        "gaslighting",
+        "support_failure"
+      ],
+      "chunk": 13,
+      "time_range": "12:30-13:30"
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "12:48",
+      "quote": "I don\u2019t label you, but I can see how it comes across when they don\u2019t respond properly.",
+      "tags": [
+        "acknowledgement",
+        "deflection"
+      ],
+      "chunk": 13,
+      "time_range": "12:30-13:30"
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "12:54",
+      "quote": "It\u2019s not just how it comes across, it\u2019s what\u2019s happening. They\u2019re rewriting what\u2019s real.",
+      "tags": [
+        "victim_assertion",
+        "evidence_erasure",
+        "gaslighting"
+      ],
+      "chunk": 13,
+      "time_range": "12:30-13:30"
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "13:00",
+      "quote": "I understand. That\u2019s why I keep pushing for clarity in writing.",
+      "tags": [
+        "acknowledgement",
+        "advocacy",
+        "formalisation"
+      ],
+      "chunk": 13,
+      "time_range": "12:30-13:30"
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "13:30",
+      "quote": "It\u2019s like they\u2019re writing a story where I\u2019m the problem, instead of recording what\u2019s actually happened.",
+      "tags": [
+        "victim_experience",
+        "gaslighting",
+        "record_tampering"
+      ],
+      "chunk": 14,
+      "time_range": "13:30-14:30"
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "13:36",
+      "quote": "I know, and I\u2019ve told them that records have to reflect accurately, not opinions.",
+      "tags": [
+        "acknowledgement",
+        "advocacy",
+        "accuracy"
+      ],
+      "chunk": 14,
+      "time_range": "13:30-14:30"
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "13:41",
+      "quote": "But if those records are wrong, they\u2019ll be used against me later.",
+      "tags": [
+        "risk",
+        "evidence_misuse",
+        "victim_experience"
+      ],
+      "chunk": 14,
+      "time_range": "13:30-14:30"
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "13:47",
+      "quote": "That\u2019s why I\u2019ve asked for corrections to be made when errors are spotted.",
+      "tags": [
+        "advocacy",
+        "formalisation",
+        "systemic_issue"
+      ],
+      "chunk": 14,
+      "time_range": "13:30-14:30"
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "13:52",
+      "quote": "I shouldn\u2019t need you to ask, they should just record it right first time.",
+      "tags": [
+        "accountability",
+        "victim_assertion",
+        "systemic_failure"
+      ],
+      "chunk": 14,
+      "time_range": "13:30-14:30"
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "13:57",
+      "quote": "I agree, it should be right the first time.",
+      "tags": [
+        "acknowledgement",
+        "agreement"
+      ],
+      "chunk": 14,
+      "time_range": "13:30-14:30"
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "14:30",
+      "quote": "And if they\u2019re already twisting records now, what happens in court later?",
+      "tags": [
+        "risk",
+        "future_harm",
+        "record_tampering"
+      ],
+      "chunk": 15,
+      "time_range": "14:30-15:30"
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "14:36",
+      "quote": "That\u2019s why it\u2019s important to keep everything documented, so we can challenge it if needed.",
+      "tags": [
+        "advocacy",
+        "documentation",
+        "challenge"
+      ],
+      "chunk": 15,
+      "time_range": "14:30-15:30"
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "14:42",
+      "quote": "But they\u2019re the ones holding the official file, not me.",
+      "tags": [
+        "power_imbalance",
+        "risk",
+        "victim_experience"
+      ],
+      "chunk": 15,
+      "time_range": "14:30-15:30"
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "14:47",
+      "quote": "I know, and that\u2019s why I keep a record on my side as well, to compare.",
+      "tags": [
+        "advocacy",
+        "recordkeeping",
+        "checks"
+      ],
+      "chunk": 15,
+      "time_range": "14:30-15:30"
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "14:52",
+      "quote": "Still, it feels like the odds are stacked against me.",
+      "tags": [
+        "victim_experience",
+        "systemic_failure",
+        "emotional_impact"
+      ],
+      "chunk": 15,
+      "time_range": "14:30-15:30"
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "14:57",
+      "quote": "I understand. It does feel very unfair.",
+      "tags": [
+        "acknowledgement",
+        "empathy"
+      ],
+      "chunk": 15,
+      "time_range": "14:30-15:30"
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "15:30",
+      "quote": "It\u2019s like they already decided I\u2019m the problem before even looking at the evidence.",
+      "tags": [
+        "victim_experience",
+        "bias",
+        "gaslighting"
+      ],
+      "chunk": 16,
+      "time_range": "15:30-16:30"
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "15:36",
+      "quote": "I know, and that\u2019s why I\u2019ve said to them the evidence has to be central, not assumptions.",
+      "tags": [
+        "acknowledgement",
+        "advocacy",
+        "evidence_priority"
+      ],
+      "chunk": 16,
+      "time_range": "15:30-16:30"
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "15:42",
+      "quote": "But when evidence disappears, assumptions win.",
+      "tags": [
+        "evidence_loss",
+        "risk",
+        "systemic_failure"
+      ],
+      "chunk": 16,
+      "time_range": "15:30-16:30"
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "15:47",
+      "quote": "That\u2019s true, and I keep challenging them on that point.",
+      "tags": [
+        "advocacy",
+        "acknowledgement",
+        "challenge"
+      ],
+      "chunk": 16,
+      "time_range": "15:30-16:30"
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "15:52",
+      "quote": "Feels like no matter what I give them, it\u2019ll vanish or be ignored.",
+      "tags": [
+        "victim_experience",
+        "evidence_erasure",
+        "hopelessness"
+      ],
+      "chunk": 16,
+      "time_range": "15:30-16:30"
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "15:57",
+      "quote": "I understand, Ben. That\u2019s why I\u2019ll keep checking and re-checking what they log.",
+      "tags": [
+        "acknowledgement",
+        "advocacy",
+        "evidence_audit"
+      ],
+      "chunk": 16,
+      "time_range": "15:30-16:30"
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "16:30",
+      "quote": "What\u2019s the point of me giving evidence if it just disappears into a black hole?",
+      "tags": [
+        "victim_experience",
+        "evidence_loss",
+        "hopelessness"
+      ],
+      "chunk": 17,
+      "time_range": "16:30-17:30"
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "16:36",
+      "quote": "The point is it builds a record, even if they mishandle it, it still shows you\u2019ve done your part.",
+      "tags": [
+        "advocacy",
+        "recordkeeping",
+        "acknowledgement"
+      ],
+      "chunk": 17,
+      "time_range": "16:30-17:30"
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "16:42",
+      "quote": "But I\u2019m the one at risk, not them. A record doesn\u2019t protect me.",
+      "tags": [
+        "victim_experience",
+        "safeguarding",
+        "risk"
+      ],
+      "chunk": 17,
+      "time_range": "16:30-17:30"
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "16:47",
+      "quote": "I agree, it doesn\u2019t keep you safe in the moment, but it matters for accountability later.",
+      "tags": [
+        "acknowledgement",
+        "delayed_accountability"
+      ],
+      "chunk": 17,
+      "time_range": "16:30-17:30"
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "16:52",
+      "quote": "Later doesn\u2019t help me if something happens now.",
+      "tags": [
+        "victim_assertion",
+        "safeguarding_gap"
+      ],
+      "chunk": 17,
+      "time_range": "16:30-17:30"
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "16:57",
+      "quote": "I know, and that\u2019s why I\u2019ll keep pressing them on immediate safety as well.",
+      "tags": [
+        "acknowledgement",
+        "advocacy",
+        "safeguarding"
+      ],
+      "chunk": 17,
+      "time_range": "16:30-17:30"
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "17:30",
+      "quote": "So if something happens to me tomorrow, the record just proves they ignored me.",
+      "tags": [
+        "victim_experience",
+        "safeguarding",
+        "accountability"
+      ],
+      "chunk": 18,
+      "time_range": "17:30-18:30"
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "17:36",
+      "quote": "Yes, and that\u2019s why it\u2019s vital to keep it consistent, so the failures are visible.",
+      "tags": [
+        "acknowledgement",
+        "advocacy",
+        "documentation"
+      ],
+      "chunk": 18,
+      "time_range": "17:30-18:30"
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "17:41",
+      "quote": "Visible after the fact doesn\u2019t stop it happening.",
+      "tags": [
+        "victim_experience",
+        "safeguarding_gap",
+        "risk"
+      ],
+      "chunk": 18,
+      "time_range": "17:30-18:30"
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "17:46",
+      "quote": "I understand, Ben. I\u2019ll keep pressing them on the urgent side too.",
+      "tags": [
+        "acknowledgement",
+        "advocacy",
+        "safeguarding"
+      ],
+      "chunk": 18,
+      "time_range": "17:30-18:30"
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "17:51",
+      "quote": "It feels like I\u2019m being left to prove they failed, instead of being protected.",
+      "tags": [
+        "victim_experience",
+        "institutional_failure",
+        "emotional_impact"
+      ],
+      "chunk": 18,
+      "time_range": "17:30-18:30"
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "17:56",
+      "quote": "I know, and that\u2019s not how it should be.",
+      "tags": [
+        "acknowledgement",
+        "empathy"
+      ],
+      "chunk": 18,
+      "time_range": "17:30-18:30"
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "18:30",
+      "quote": "I\u2019ve been saying the same thing for months, but nothing changes. How is that acceptable?",
+      "tags": [
+        "victim_experience",
+        "systemic_failure",
+        "accountability"
+      ],
+      "chunk": 19,
+      "time_range": "18:30-19:30"
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "18:37",
+      "quote": "It isn\u2019t acceptable, Ben, and I\u2019ve told them that too.",
+      "tags": [
+        "acknowledgement",
+        "advocacy"
+      ],
+      "chunk": 19,
+      "time_range": "18:30-19:30"
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "18:42",
+      "quote": "Then why is it still happening?",
+      "tags": [
+        "victim_assertion",
+        "contradiction",
+        "frustration"
+      ],
+      "chunk": 19,
+      "time_range": "18:30-19:30"
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "18:45",
+      "quote": "Because the system is slow to respond, but I will continue to press them.",
+      "tags": [
+        "systemic_issue",
+        "delay",
+        "advocacy"
+      ],
+      "chunk": 19,
+      "time_range": "18:30-19:30"
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "18:50",
+      "quote": "Slow isn\u2019t good enough when my safety is on the line.",
+      "tags": [
+        "safeguarding",
+        "victim_experience",
+        "risk"
+      ],
+      "chunk": 19,
+      "time_range": "18:30-19:30"
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "18:55",
+      "quote": "I agree, it isn\u2019t good enough.",
+      "tags": [
+        "acknowledgement",
+        "agreement"
+      ],
+      "chunk": 19,
+      "time_range": "18:30-19:30"
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "19:30",
+      "quote": "Every time I give them something, it vanishes. Then later I\u2019m asked to prove I ever sent it.",
+      "tags": [
+        "evidence_loss",
+        "victim_experience",
+        "contradiction"
+      ],
+      "chunk": 20,
+      "time_range": "19:30-20:30"
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "19:37",
+      "quote": "Yes, and that\u2019s why I\u2019ve said to them they need to confirm receipt in writing.",
+      "tags": [
+        "advocacy",
+        "documentation",
+        "acknowledgement"
+      ],
+      "chunk": 20,
+      "time_range": "19:30-20:30"
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "19:42",
+      "quote": "But if they won\u2019t confirm, then it\u2019s just my word against theirs.",
+      "tags": [
+        "accountability",
+        "risk",
+        "victim_experience"
+      ],
+      "chunk": 20,
+      "time_range": "19:30-20:30"
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "19:47",
+      "quote": "I know, which is why I\u2019ve kept my own log to show when things were sent.",
+      "tags": [
+        "advocacy",
+        "recordkeeping",
+        "secondary_log"
+      ],
+      "chunk": 20,
+      "time_range": "19:30-20:30"
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "19:52",
+      "quote": "But your log isn\u2019t official. They hold the file, not us.",
+      "tags": [
+        "power_imbalance",
+        "systemic_failure",
+        "victim_experience"
+      ],
+      "chunk": 20,
+      "time_range": "19:30-20:30"
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "19:58",
+      "quote": "True, but if they contradict, we can show the timeline from our side.",
+      "tags": [
+        "advocacy",
+        "defensive",
+        "documentation"
+      ],
+      "chunk": 20,
+      "time_range": "19:30-20:30"
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "19:30",
+      "quote": "Every time I give them something, it vanishes. Then later I\u2019m asked to prove I ever sent it.",
+      "tags": [
+        "evidence_loss",
+        "victim_experience",
+        "contradiction"
+      ],
+      "chunk": 20,
+      "time_range": "19:30-20:30"
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "19:37",
+      "quote": "Yes, and that\u2019s why I\u2019ve said to them they need to confirm receipt in writing.",
+      "tags": [
+        "advocacy",
+        "documentation",
+        "acknowledgement"
+      ],
+      "chunk": 20,
+      "time_range": "19:30-20:30"
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "19:42",
+      "quote": "But if they won\u2019t confirm, then it\u2019s just my word against theirs.",
+      "tags": [
+        "accountability",
+        "risk",
+        "victim_experience"
+      ],
+      "chunk": 20,
+      "time_range": "19:30-20:30"
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "19:47",
+      "quote": "I know, which is why I\u2019ve kept my own log to show when things were sent.",
+      "tags": [
+        "advocacy",
+        "recordkeeping",
+        "secondary_log"
+      ],
+      "chunk": 20,
+      "time_range": "19:30-20:30"
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "19:52",
+      "quote": "But your log isn\u2019t official. They hold the file, not us.",
+      "tags": [
+        "power_imbalance",
+        "systemic_failure",
+        "victim_experience"
+      ],
+      "chunk": 20,
+      "time_range": "19:30-20:30"
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "19:58",
+      "quote": "True, but if they contradict, we can show the timeline from our side.",
+      "tags": [
+        "advocacy",
+        "defensive",
+        "documentation"
+      ],
+      "chunk": 20,
+      "time_range": "19:30-20:30"
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "20:30",
+      "quote": "So if their file says one thing and your log says another, who do you think they\u2019ll believe?",
+      "tags": [
+        "accountability",
+        "power_imbalance",
+        "victim_experience"
+      ],
+      "chunk": 21,
+      "time_range": "20:30-21:30"
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "20:36",
+      "quote": "I understand, and that\u2019s why I always push for confirmation from them directly.",
+      "tags": [
+        "advocacy",
+        "acknowledgement",
+        "documentation"
+      ],
+      "chunk": 21,
+      "time_range": "20:30-21:30"
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "20:41",
+      "quote": "But they don\u2019t give it. They stay silent or say they can\u2019t find it.",
+      "tags": [
+        "silence",
+        "evidence_loss",
+        "contradiction"
+      ],
+      "chunk": 21,
+      "time_range": "20:30-21:30"
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "20:46",
+      "quote": "Yes, that\u2019s been the problem all along.",
+      "tags": [
+        "acknowledgement",
+        "systemic_issue"
+      ],
+      "chunk": 21,
+      "time_range": "20:30-21:30"
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "20:50",
+      "quote": "Then what\u2019s the point of me giving anything, if it\u2019s just going to disappear or be denied?",
+      "tags": [
+        "victim_experience",
+        "hopelessness",
+        "risk"
+      ],
+      "chunk": 21,
+      "time_range": "20:30-21:30"
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "20:56",
+      "quote": "Because it still shows you\u2019ve done your part, and I can evidence that you tried.",
+      "tags": [
+        "advocacy",
+        "documentation",
+        "defensive"
+      ],
+      "chunk": 21,
+      "time_range": "20:30-21:30"
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "21:30",
+      "quote": "It just feels like I\u2019m being set up to fail, no matter what I do.",
+      "tags": [
+        "victim_experience",
+        "hopelessness",
+        "institutional_failure"
+      ],
+      "chunk": 22,
+      "time_range": "21:30-22:30"
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "21:36",
+      "quote": "I can see why you\u2019d feel that way, and I don\u2019t want you to feel set up.",
+      "tags": [
+        "acknowledgement",
+        "empathy"
+      ],
+      "chunk": 22,
+      "time_range": "21:30-22:30"
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "21:41",
+      "quote": "But it\u2019s the reality. The more I give them, the more they lose or deny.",
+      "tags": [
+        "victim_assertion",
+        "evidence_loss",
+        "contradiction"
+      ],
+      "chunk": 22,
+      "time_range": "21:30-22:30"
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "21:46",
+      "quote": "I know, and that\u2019s why I keep challenging them to account for it.",
+      "tags": [
+        "advocacy",
+        "acknowledgement",
+        "accountability"
+      ],
+      "chunk": 22,
+      "time_range": "21:30-22:30"
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "21:51",
+      "quote": "Yet nothing changes.",
+      "tags": [
+        "victim_experience",
+        "systemic_failure"
+      ],
+      "chunk": 22,
+      "time_range": "21:30-22:30"
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "21:53",
+      "quote": "It\u2019s very frustrating, I agree.",
+      "tags": [
+        "acknowledgement",
+        "agreement"
+      ],
+      "chunk": 22,
+      "time_range": "21:30-22:30"
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "22:30",
+      "quote": "They act confused when I say evidence is missing, then ask me to send it again like it\u2019s the first time.",
+      "tags": [
+        "victim_experience",
+        "evidence_loss",
+        "contradiction"
+      ],
+      "chunk": 23,
+      "time_range": "22:30-23:30"
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "22:37",
+      "quote": "Yes, and that\u2019s why I\u2019ve said they need to keep proper logs to avoid this cycle.",
+      "tags": [
+        "acknowledgement",
+        "advocacy",
+        "recordkeeping"
+      ],
+      "chunk": 23,
+      "time_range": "22:30-23:30"
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "22:42",
+      "quote": "But it\u2019s not a cycle, it\u2019s a tactic. They know what they\u2019re doing.",
+      "tags": [
+        "victim_assertion",
+        "evidence_tampering",
+        "gaslighting"
+      ],
+      "chunk": 23,
+      "time_range": "22:30-23:30"
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "22:47",
+      "quote": "I can\u2019t say if it\u2019s deliberate, but I know it feels deliberate to you.",
+      "tags": [
+        "deflection",
+        "acknowledgement",
+        "neutral_response"
+      ],
+      "chunk": 23,
+      "time_range": "22:30-23:30"
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "22:52",
+      "quote": "Of course it feels deliberate, because no system loses things this many times by accident.",
+      "tags": [
+        "victim_experience",
+        "systemic_failure",
+        "trust_issue"
+      ],
+      "chunk": 23,
+      "time_range": "22:30-23:30"
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "22:57",
+      "quote": "I understand, Ben, and I\u2019ll keep pressing them on it.",
+      "tags": [
+        "acknowledgement",
+        "advocacy"
+      ],
+      "chunk": 23,
+      "time_range": "22:30-23:30"
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "23:30",
+      "quote": "It wears me down having to resend things over and over, like they\u2019re testing how long I\u2019ll last.",
+      "tags": [
+        "victim_experience",
+        "attrition",
+        "emotional_impact"
+      ],
+      "chunk": 24,
+      "time_range": "23:30-24:30"
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "23:37",
+      "quote": "I understand, and I\u2019ve told them it\u2019s not acceptable practice.",
+      "tags": [
+        "acknowledgement",
+        "advocacy"
+      ],
+      "chunk": 24,
+      "time_range": "23:30-24:30"
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "23:42",
+      "quote": "Not acceptable? It\u2019s abusive. They\u2019re abusing the process to exhaust me.",
+      "tags": [
+        "victim_assertion",
+        "institutional_abuse",
+        "gaslighting"
+      ],
+      "chunk": 24,
+      "time_range": "23:30-24:30"
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "23:48",
+      "quote": "I hear you, Ben, but I can\u2019t confirm intent. What I can do is keep raising it.",
+      "tags": [
+        "acknowledgement",
+        "deflection",
+        "advocacy"
+      ],
+      "chunk": 24,
+      "time_range": "23:30-24:30"
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "23:53",
+      "quote": "Intent doesn\u2019t matter when the effect is the same\u2014me being broken down.",
+      "tags": [
+        "victim_experience",
+        "emotional_impact",
+        "systemic_failure"
+      ],
+      "chunk": 24,
+      "time_range": "23:30-24:30"
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "23:59",
+      "quote": "That\u2019s true, and I\u2019ll keep highlighting the impact on you.",
+      "tags": [
+        "acknowledgement",
+        "advocacy",
+        "impact"
+      ],
+      "chunk": 24,
+      "time_range": "23:30-24:30"
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "24:30",
+      "quote": "So when they delete or lose my evidence, who\u2019s accountable for that?",
+      "tags": [
+        "accountability",
+        "evidence_loss",
+        "victim_experience"
+      ],
+      "chunk": 25,
+      "time_range": "24:30-25:30"
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "24:36",
+      "quote": "That\u2019s supposed to be the officer in charge, but it hasn\u2019t been clear.",
+      "tags": [
+        "acknowledgement",
+        "police_accountability",
+        "systemic_issue"
+      ],
+      "chunk": 25,
+      "time_range": "24:30-25:30"
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "24:42",
+      "quote": "Exactly. If no one\u2019s accountable, then it keeps happening.",
+      "tags": [
+        "victim_assertion",
+        "systemic_failure",
+        "contradiction"
+      ],
+      "chunk": 25,
+      "time_range": "24:30-25:30"
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "24:47",
+      "quote": "I know, and I\u2019ve said they need to name who\u2019s responsible for evidence handling.",
+      "tags": [
+        "advocacy",
+        "accountability",
+        "documentation"
+      ],
+      "chunk": 25,
+      "time_range": "24:30-25:30"
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "24:53",
+      "quote": "But they won\u2019t, will they?",
+      "tags": [
+        "victim_experience",
+        "distrust"
+      ],
+      "chunk": 25,
+      "time_range": "24:30-25:30"
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "24:55",
+      "quote": "Not so far, no.",
+      "tags": [
+        "acknowledgement",
+        "systemic_failure"
+      ],
+      "chunk": 25,
+      "time_range": "24:30-25:30"
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "25:30",
+      "quote": "So the chain of custody is broken, and no one admits it.",
+      "tags": [
+        "evidence_chain",
+        "contradiction",
+        "accountability"
+      ],
+      "chunk": 26,
+      "time_range": "25:30-26:30"
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "25:35",
+      "quote": "Yes, that\u2019s why I\u2019ve asked for a clear record of what\u2019s been received and when.",
+      "tags": [
+        "acknowledgement",
+        "advocacy",
+        "documentation"
+      ],
+      "chunk": 26,
+      "time_range": "25:30-26:30"
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "25:40",
+      "quote": "But until that exists, my case is basically unprovable.",
+      "tags": [
+        "victim_experience",
+        "evidence_loss",
+        "risk"
+      ],
+      "chunk": 26,
+      "time_range": "25:30-26:30"
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "25:45",
+      "quote": "I understand, and I\u2019ve pressed that it has to be formalised.",
+      "tags": [
+        "advocacy",
+        "acknowledgement",
+        "systemic_issue"
+      ],
+      "chunk": 26,
+      "time_range": "25:30-26:30"
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "25:50",
+      "quote": "Pressed? It should already exist by law.",
+      "tags": [
+        "victim_assertion",
+        "legal_basis",
+        "accountability"
+      ],
+      "chunk": 26,
+      "time_range": "25:30-26:30"
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "25:55",
+      "quote": "You\u2019re right, Ben. It should.",
+      "tags": [
+        "acknowledgement",
+        "agreement"
+      ],
+      "chunk": 26,
+      "time_range": "25:30-26:30"
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "26:30",
+      "quote": "And if the chain\u2019s broken, the whole case collapses in court.",
+      "tags": [
+        "victim_experience",
+        "risk",
+        "evidence_chain"
+      ],
+      "chunk": 27,
+      "time_range": "26:30-27:30"
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "26:36",
+      "quote": "That\u2019s the danger, yes. Which is why I\u2019ve told them it has to be rectified.",
+      "tags": [
+        "acknowledgement",
+        "advocacy",
+        "systemic_issue"
+      ],
+      "chunk": 27,
+      "time_range": "26:30-27:30"
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "26:41",
+      "quote": "Told them? It should never have been broken in the first place.",
+      "tags": [
+        "victim_assertion",
+        "legal_basis",
+        "accountability"
+      ],
+      "chunk": 27,
+      "time_range": "26:30-27:30"
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "26:46",
+      "quote": "I agree, it shouldn\u2019t. But I can only push from my side.",
+      "tags": [
+        "acknowledgement",
+        "deflection",
+        "advocacy_gap"
+      ],
+      "chunk": 27,
+      "time_range": "26:30-27:30"
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "26:51",
+      "quote": "And while you push, I\u2019m the one left unsafe.",
+      "tags": [
+        "victim_experience",
+        "safeguarding",
+        "risk"
+      ],
+      "chunk": 27,
+      "time_range": "26:30-27:30"
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "26:56",
+      "quote": "I know, Ben, and I\u2019m sorry you feel left unsafe.",
+      "tags": [
+        "acknowledgement",
+        "empathy",
+        "safeguarding_gap"
+      ],
+      "chunk": 27,
+      "time_range": "26:30-27:30"
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "27:30",
+      "quote": "So at this point, it looks like they want it to collapse.",
+      "tags": [
+        "victim_experience",
+        "suspicion",
+        "institutional_failure"
+      ],
+      "chunk": 28,
+      "time_range": "27:30-28:30"
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "27:36",
+      "quote": "I can\u2019t say that\u2019s their intent, but I know that\u2019s how it feels given the gaps.",
+      "tags": [
+        "acknowledgement",
+        "deflection",
+        "neutral_response"
+      ],
+      "chunk": 28,
+      "time_range": "27:30-28:30"
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "27:42",
+      "quote": "Feels like? It\u2019s obvious when the same mistakes keep happening.",
+      "tags": [
+        "victim_assertion",
+        "pattern",
+        "systemic_failure"
+      ],
+      "chunk": 28,
+      "time_range": "27:30-28:30"
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "27:47",
+      "quote": "I agree the repetition is unacceptable, and I\u2019ve raised that.",
+      "tags": [
+        "acknowledgement",
+        "advocacy",
+        "systemic_issue"
+      ],
+      "chunk": 28,
+      "time_range": "27:30-28:30"
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "27:52",
+      "quote": "Raised it isn\u2019t the same as fixing it.",
+      "tags": [
+        "victim_experience",
+        "advocacy_gap",
+        "accountability"
+      ],
+      "chunk": 28,
+      "time_range": "27:30-28:30"
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "27:56",
+      "quote": "I know, and I wish I could give you a clear resolution right now.",
+      "tags": [
+        "acknowledgement",
+        "empathy",
+        "delay"
+      ],
+      "chunk": 28,
+      "time_range": "27:30-28:30"
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "28:30",
+      "quote": "If they keep repeating the same failures, at some point it stops being a mistake.",
+      "tags": [
+        "victim_experience",
+        "pattern",
+        "institutional_failure"
+      ],
+      "chunk": 29,
+      "time_range": "28:30-29:30"
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "28:36",
+      "quote": "I understand, and that\u2019s why I\u2019ve kept stressing it to them as a pattern.",
+      "tags": [
+        "acknowledgement",
+        "advocacy",
+        "systemic_issue"
+      ],
+      "chunk": 29,
+      "time_range": "28:30-29:30"
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "28:41",
+      "quote": "Pattern is just another word for intent when it harms me every time.",
+      "tags": [
+        "victim_assertion",
+        "gaslighting",
+        "risk"
+      ],
+      "chunk": 29,
+      "time_range": "28:30-29:30"
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "28:47",
+      "quote": "I can\u2019t label intent, but I can highlight that the effect is harmful.",
+      "tags": [
+        "deflection",
+        "acknowledgement",
+        "impact"
+      ],
+      "chunk": 29,
+      "time_range": "28:30-29:30"
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "28:52",
+      "quote": "Exactly. Impact matters more than what they claim their intent is.",
+      "tags": [
+        "victim_experience",
+        "impact_over_intent",
+        "safeguarding"
+      ],
+      "chunk": 29,
+      "time_range": "28:30-29:30"
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "28:57",
+      "quote": "I agree, and I\u2019ve told them that as well.",
+      "tags": [
+        "acknowledgement",
+        "advocacy"
+      ],
+      "chunk": 29,
+      "time_range": "28:30-29:30"
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "29:30",
+      "quote": "So when they tell you it\u2019s just delays, that\u2019s not true\u2014it\u2019s repeated harm.",
+      "tags": [
+        "victim_experience",
+        "contradiction",
+        "harm"
+      ],
+      "chunk": 30,
+      "time_range": "29:30-30:30"
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "29:36",
+      "quote": "I know, and I\u2019ve said delays are not an excuse when it affects your safety.",
+      "tags": [
+        "acknowledgement",
+        "advocacy",
+        "safeguarding"
+      ],
+      "chunk": 30,
+      "time_range": "29:30-30:30"
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "29:42",
+      "quote": "Yet they still use it as an excuse.",
+      "tags": [
+        "victim_experience",
+        "contradiction",
+        "systemic_failure"
+      ],
+      "chunk": 30,
+      "time_range": "29:30-30:30"
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "29:46",
+      "quote": "Yes, they fall back on it too often.",
+      "tags": [
+        "acknowledgement",
+        "systemic_issue"
+      ],
+      "chunk": 30,
+      "time_range": "29:30-30:30"
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "29:50",
+      "quote": "So excuses are accepted instead of accountability.",
+      "tags": [
+        "victim_assertion",
+        "accountability_gap",
+        "risk"
+      ],
+      "chunk": 30,
+      "time_range": "29:30-30:30"
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "29:55",
+      "quote": "I agree, and I\u2019ve challenged them on that point.",
+      "tags": [
+        "acknowledgement",
+        "advocacy",
+        "accountability"
+      ],
+      "chunk": 30,
+      "time_range": "29:30-30:30"
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "29:30",
+      "quote": "So when they tell you it\u2019s just delays, that\u2019s not true\u2014it\u2019s repeated harm.",
+      "tags": [
+        "victim_experience",
+        "contradiction",
+        "harm"
+      ],
+      "chunk": 30,
+      "time_range": "29:30-30:30"
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "29:36",
+      "quote": "I know, and I\u2019ve said delays are not an excuse when it affects your safety.",
+      "tags": [
+        "acknowledgement",
+        "advocacy",
+        "safeguarding"
+      ],
+      "chunk": 30,
+      "time_range": "29:30-30:30"
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "29:42",
+      "quote": "Yet they still use it as an excuse.",
+      "tags": [
+        "victim_experience",
+        "contradiction",
+        "systemic_failure"
+      ],
+      "chunk": 30,
+      "time_range": "29:30-30:30"
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "29:46",
+      "quote": "Yes, they fall back on it too often.",
+      "tags": [
+        "acknowledgement",
+        "systemic_issue"
+      ],
+      "chunk": 30,
+      "time_range": "29:30-30:30"
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "29:50",
+      "quote": "So excuses are accepted instead of accountability.",
+      "tags": [
+        "victim_assertion",
+        "accountability_gap",
+        "risk"
+      ],
+      "chunk": 30,
+      "time_range": "29:30-30:30"
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "29:55",
+      "quote": "I agree, and I\u2019ve challenged them on that point.",
+      "tags": [
+        "acknowledgement",
+        "advocacy",
+        "accountability"
+      ],
+      "chunk": 30,
+      "time_range": "29:30-30:30"
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "30:30",
+      "quote": "They delay, deny, and deflect, and somehow I\u2019m still expected to trust them.",
+      "tags": [
+        "victim_experience",
+        "systemic_failure",
+        "trust_issue"
+      ],
+      "chunk": 31,
+      "time_range": "30:30-31:30"
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "30:36",
+      "quote": "I know, and I\u2019ve told them that trust breaks down when that happens.",
+      "tags": [
+        "acknowledgement",
+        "advocacy",
+        "trust"
+      ],
+      "chunk": 31,
+      "time_range": "30:30-31:30"
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "30:41",
+      "quote": "It\u2019s already broken. I can\u2019t rely on them with my safety.",
+      "tags": [
+        "victim_experience",
+        "safeguarding",
+        "risk"
+      ],
+      "chunk": 31,
+      "time_range": "30:30-31:30"
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "30:46",
+      "quote": "I hear you, and I\u2019ll keep reinforcing that point to them.",
+      "tags": [
+        "acknowledgement",
+        "advocacy"
+      ],
+      "chunk": 31,
+      "time_range": "30:30-31:30"
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "30:51",
+      "quote": "Reinforcing doesn\u2019t fix it. Action does.",
+      "tags": [
+        "victim_assertion",
+        "advocacy_gap",
+        "accountability"
+      ],
+      "chunk": 31,
+      "time_range": "30:30-31:30"
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "30:55",
+      "quote": "I agree, but I can only push from my side.",
+      "tags": [
+        "acknowledgement",
+        "deflection",
+        "advocacy_gap"
+      ],
+      "chunk": 31,
+      "time_range": "30:30-31:30"
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "31:30",
+      "quote": "If I can\u2019t trust them, then how am I supposed to feel safe at all?",
+      "tags": [
+        "victim_experience",
+        "safeguarding",
+        "trust_issue"
+      ],
+      "chunk": 32,
+      "time_range": "31:30-32:30"
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "31:36",
+      "quote": "I know, and that\u2019s why I\u2019ve told them they need to rebuild that trust.",
+      "tags": [
+        "acknowledgement",
+        "advocacy",
+        "trust"
+      ],
+      "chunk": 32,
+      "time_range": "31:30-32:30"
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "31:41",
+      "quote": "Trust isn\u2019t rebuilt with words, it\u2019s rebuilt with actions.",
+      "tags": [
+        "victim_assertion",
+        "accountability",
+        "safeguarding"
+      ],
+      "chunk": 32,
+      "time_range": "31:30-32:30"
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "31:46",
+      "quote": "I agree, and I\u2019ll keep asking for concrete actions from them.",
+      "tags": [
+        "advocacy",
+        "acknowledgement",
+        "action"
+      ],
+      "chunk": 32,
+      "time_range": "31:30-32:30"
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "31:51",
+      "quote": "But until then, I\u2019m left exposed.",
+      "tags": [
+        "victim_experience",
+        "risk",
+        "safeguarding_gap"
+      ],
+      "chunk": 32,
+      "time_range": "31:30-32:30"
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "31:55",
+      "quote": "I know, and that\u2019s why I keep pressing them on immediate safety as well.",
+      "tags": [
+        "acknowledgement",
+        "advocacy",
+        "safeguarding"
+      ],
+      "chunk": 32,
+      "time_range": "31:30-32:30"
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "32:30",
+      "quote": "I\u2019ve been raising the same safeguarding issues for months and nothing\u2019s changed.",
+      "tags": [
+        "victim_experience",
+        "safeguarding",
+        "systemic_failure"
+      ],
+      "chunk": 33,
+      "time_range": "32:30-33:30"
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "32:36",
+      "quote": "I know, and I\u2019ve kept raising them too, but they don\u2019t act on it.",
+      "tags": [
+        "acknowledgement",
+        "advocacy",
+        "systemic_issue"
+      ],
+      "chunk": 33,
+      "time_range": "32:30-33:30"
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "32:41",
+      "quote": "Then what\u2019s the point of raising it if no one acts?",
+      "tags": [
+        "victim_assertion",
+        "accountability",
+        "risk"
+      ],
+      "chunk": 33,
+      "time_range": "32:30-33:30"
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "32:46",
+      "quote": "The point is it creates a record that the issues were highlighted.",
+      "tags": [
+        "advocacy",
+        "documentation",
+        "deflection"
+      ],
+      "chunk": 33,
+      "time_range": "32:30-33:30"
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "32:51",
+      "quote": "A record doesn\u2019t protect me from harm right now.",
+      "tags": [
+        "victim_experience",
+        "safeguarding_gap",
+        "risk"
+      ],
+      "chunk": 33,
+      "time_range": "32:30-33:30"
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "32:55",
+      "quote": "I agree, it doesn\u2019t keep you safe immediately, but it matters for oversight later.",
+      "tags": [
+        "acknowledgement",
+        "delayed_accountability"
+      ],
+      "chunk": 33,
+      "time_range": "32:30-33:30"
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "33:30",
+      "quote": "So basically my safety is sacrificed now, for the sake of paperwork later.",
+      "tags": [
+        "victim_experience",
+        "safeguarding_gap",
+        "systemic_failure"
+      ],
+      "chunk": 34,
+      "time_range": "33:30-34:30"
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "33:36",
+      "quote": "I understand why you\u2019d see it that way, and I\u2019ve told them that immediate risk needs addressing too.",
+      "tags": [
+        "acknowledgement",
+        "advocacy",
+        "safeguarding"
+      ],
+      "chunk": 34,
+      "time_range": "33:30-34:30"
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "33:41",
+      "quote": "Telling them isn\u2019t the same as action. Nothing\u2019s changing.",
+      "tags": [
+        "victim_assertion",
+        "accountability",
+        "risk"
+      ],
+      "chunk": 34,
+      "time_range": "33:30-34:30"
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "33:46",
+      "quote": "I know, and I share your frustration.",
+      "tags": [
+        "acknowledgement",
+        "empathy"
+      ],
+      "chunk": 34,
+      "time_range": "33:30-34:30"
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "33:49",
+      "quote": "Frustration doesn\u2019t keep me safe.",
+      "tags": [
+        "victim_experience",
+        "safeguarding",
+        "risk"
+      ],
+      "chunk": 34,
+      "time_range": "33:30-34:30"
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "33:52",
+      "quote": "You\u2019re right, it doesn\u2019t, and I\u2019ll keep pressing for actual action.",
+      "tags": [
+        "acknowledgement",
+        "advocacy",
+        "safeguarding"
+      ],
+      "chunk": 34,
+      "time_range": "33:30-34:30"
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "34:30",
+      "quote": "If I end up hurt, a record won\u2019t matter. It\u2019ll just prove they failed after the fact.",
+      "tags": [
+        "victim_experience",
+        "safeguarding",
+        "risk"
+      ],
+      "chunk": 35,
+      "time_range": "34:30-35:30"
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "34:36",
+      "quote": "I know, and that\u2019s why I\u2019m emphasising immediate safety to them as well.",
+      "tags": [
+        "acknowledgement",
+        "advocacy",
+        "safeguarding"
+      ],
+      "chunk": 35,
+      "time_range": "34:30-35:30"
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "34:41",
+      "quote": "But they\u2019re not acting, and you\u2019re still just telling them.",
+      "tags": [
+        "victim_assertion",
+        "accountability_gap",
+        "risk"
+      ],
+      "chunk": 35,
+      "time_range": "34:30-35:30"
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "34:46",
+      "quote": "I hear you, Ben, and I know it feels like nothing\u2019s happening.",
+      "tags": [
+        "acknowledgement",
+        "empathy",
+        "deflection"
+      ],
+      "chunk": 35,
+      "time_range": "34:30-35:30"
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "34:51",
+      "quote": "Feels like? It is nothing. That\u2019s the problem.",
+      "tags": [
+        "victim_experience",
+        "contradiction",
+        "institutional_failure"
+      ],
+      "chunk": 35,
+      "time_range": "34:30-35:30"
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "34:55",
+      "quote": "You\u2019re right, and I share that concern.",
+      "tags": [
+        "acknowledgement",
+        "agreement"
+      ],
+      "chunk": 35,
+      "time_range": "34:30-35:30"
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "35:30",
+      "quote": "It feels like everyone\u2019s waiting for something bad to happen before they take me seriously.",
+      "tags": [
+        "victim_experience",
+        "safeguarding_gap",
+        "institutional_failure"
+      ],
+      "chunk": 36,
+      "time_range": "35:30-36:30"
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "35:36",
+      "quote": "I know, and I\u2019ve said prevention is better than reaction, but they still delay.",
+      "tags": [
+        "acknowledgement",
+        "advocacy",
+        "systemic_issue"
+      ],
+      "chunk": 36,
+      "time_range": "35:30-36:30"
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "35:42",
+      "quote": "Prevention should be the bare minimum, not something you have to argue for.",
+      "tags": [
+        "victim_assertion",
+        "safeguarding",
+        "accountability"
+      ],
+      "chunk": 36,
+      "time_range": "35:30-36:30"
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "35:47",
+      "quote": "You\u2019re absolutely right, Ben. It should be automatic.",
+      "tags": [
+        "acknowledgement",
+        "agreement",
+        "safeguarding"
+      ],
+      "chunk": 36,
+      "time_range": "35:30-36:30"
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "35:52",
+      "quote": "But instead, they\u2019re gambling with my safety.",
+      "tags": [
+        "victim_experience",
+        "risk",
+        "systemic_failure"
+      ],
+      "chunk": 36,
+      "time_range": "35:30-36:30"
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "35:57",
+      "quote": "I agree, it\u2019s unacceptable, and I\u2019ll keep pressing them.",
+      "tags": [
+        "acknowledgement",
+        "advocacy",
+        "safeguarding"
+      ],
+      "chunk": 36,
+      "time_range": "35:30-36:30"
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "36:30",
+      "quote": "So when they ignore prevention, they\u2019re effectively gambling with my life.",
+      "tags": [
+        "victim_experience",
+        "safeguarding_gap",
+        "risk"
+      ],
+      "chunk": 37,
+      "time_range": "36:30-37:30"
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "36:36",
+      "quote": "I know, and I\u2019ve told them that\u2019s not acceptable practice.",
+      "tags": [
+        "acknowledgement",
+        "advocacy",
+        "safeguarding"
+      ],
+      "chunk": 37,
+      "time_range": "36:30-37:30"
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "36:41",
+      "quote": "Not acceptable is too soft. It\u2019s negligence.",
+      "tags": [
+        "victim_assertion",
+        "accountability",
+        "safeguarding_failure"
+      ],
+      "chunk": 37,
+      "time_range": "36:30-37:30"
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "36:46",
+      "quote": "You\u2019re right, it is negligent when prevention is ignored.",
+      "tags": [
+        "acknowledgement",
+        "agreement",
+        "safeguarding"
+      ],
+      "chunk": 37,
+      "time_range": "36:30-37:30"
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "36:51",
+      "quote": "Negligence that puts me at risk every day.",
+      "tags": [
+        "victim_experience",
+        "risk",
+        "safeguarding_failure"
+      ],
+      "chunk": 37,
+      "time_range": "36:30-37:30"
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "36:56",
+      "quote": "I agree, and I\u2019ll continue to stress that to them.",
+      "tags": [
+        "acknowledgement",
+        "advocacy",
+        "safeguarding"
+      ],
+      "chunk": 37,
+      "time_range": "36:30-37:30"
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "37:30",
+      "quote": "Negligence isn\u2019t just words, it\u2019s a crime when it puts someone\u2019s life at risk.",
+      "tags": [
+        "victim_experience",
+        "safeguarding_failure",
+        "legal_basis"
+      ],
+      "chunk": 38,
+      "time_range": "37:30-38:30"
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "37:36",
+      "quote": "I understand, and I\u2019ve made it clear it could have serious consequences if ignored.",
+      "tags": [
+        "acknowledgement",
+        "advocacy",
+        "risk"
+      ],
+      "chunk": 38,
+      "time_range": "37:30-38:30"
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "37:41",
+      "quote": "Could? It already has. I\u2019ve already been suicidal over this.",
+      "tags": [
+        "victim_experience",
+        "suicide_disclosure",
+        "safeguarding"
+      ],
+      "chunk": 38,
+      "time_range": "37:30-38:30"
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "37:46",
+      "quote": "I know, and I\u2019m so sorry you\u2019ve been through that.",
+      "tags": [
+        "acknowledgement",
+        "empathy",
+        "safeguarding"
+      ],
+      "chunk": 38,
+      "time_range": "37:30-38:30"
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "37:51",
+      "quote": "Sorry doesn\u2019t fix it. Action does, and still no action.",
+      "tags": [
+        "victim_assertion",
+        "accountability_gap",
+        "safeguarding_failure"
+      ],
+      "chunk": 38,
+      "time_range": "37:30-38:30"
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "37:56",
+      "quote": "I hear you, Ben, and I\u2019ll keep pressing that point.",
+      "tags": [
+        "acknowledgement",
+        "advocacy",
+        "deflection"
+      ],
+      "chunk": 38,
+      "time_range": "37:30-38:30"
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "38:30",
+      "quote": "When I told them I was suicidal, they didn\u2019t even log it properly.",
+      "tags": [
+        "victim_experience",
+        "suicide_disclosure",
+        "safeguarding_failure"
+      ],
+      "chunk": 39,
+      "time_range": "38:30-39:30"
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "38:36",
+      "quote": "Yes, I remember you told me that, and I raised it with them.",
+      "tags": [
+        "acknowledgement",
+        "advocacy",
+        "safeguarding"
+      ],
+      "chunk": 39,
+      "time_range": "38:30-39:30"
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "38:41",
+      "quote": "Raised it isn\u2019t the same as making sure it\u2019s recorded.",
+      "tags": [
+        "victim_assertion",
+        "accountability_gap",
+        "safeguarding"
+      ],
+      "chunk": 39,
+      "time_range": "38:30-39:30"
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "38:46",
+      "quote": "You\u2019re right, it should have been logged straight away.",
+      "tags": [
+        "acknowledgement",
+        "agreement",
+        "safeguarding"
+      ],
+      "chunk": 39,
+      "time_range": "38:30-39:30"
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "38:50",
+      "quote": "But because it wasn\u2019t, they can deny it later.",
+      "tags": [
+        "victim_experience",
+        "risk",
+        "institutional_failure"
+      ],
+      "chunk": 39,
+      "time_range": "38:30-39:30"
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "38:55",
+      "quote": "I know, and that\u2019s why I\u2019ve pushed again for proper logging going forward.",
+      "tags": [
+        "advocacy",
+        "acknowledgement",
+        "safeguarding"
+      ],
+      "chunk": 39,
+      "time_range": "38:30-39:30"
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "39:30",
+      "quote": "So if it\u2019s not logged, it\u2019s like it never happened, and I\u2019m left erased.",
+      "tags": [
+        "victim_experience",
+        "suicide_disclosure",
+        "erasure",
+        "safeguarding_failure"
+      ],
+      "chunk": 40,
+      "time_range": "39:30-40:30"
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "39:36",
+      "quote": "I know, and I\u2019ve made clear that failing to log puts you at more risk.",
+      "tags": [
+        "acknowledgement",
+        "advocacy",
+        "safeguarding"
+      ],
+      "chunk": 40,
+      "time_range": "39:30-40:30"
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "39:41",
+      "quote": "More risk? It already put me at risk, because no one acted on it.",
+      "tags": [
+        "victim_experience",
+        "risk",
+        "safeguarding_gap"
+      ],
+      "chunk": 40,
+      "time_range": "39:30-40:30"
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "39:46",
+      "quote": "You\u2019re right, it should have triggered immediate safeguarding steps.",
+      "tags": [
+        "acknowledgement",
+        "agreement",
+        "safeguarding"
+      ],
+      "chunk": 40,
+      "time_range": "39:30-40:30"
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "39:51",
+      "quote": "But it didn\u2019t, and I was left alone again.",
+      "tags": [
+        "victim_experience",
+        "isolation",
+        "safeguarding_failure"
+      ],
+      "chunk": 40,
+      "time_range": "39:30-40:30"
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "39:56",
+      "quote": "I\u2019m sorry, Ben. That wasn\u2019t how it should have been handled.",
+      "tags": [
+        "acknowledgement",
+        "empathy",
+        "safeguarding"
+      ],
+      "chunk": 40,
+      "time_range": "39:30-40:30"
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "39:30",
+      "quote": "So if it\u2019s not logged, it\u2019s like it never happened, and I\u2019m left erased.",
+      "tags": [
+        "victim_experience",
+        "suicide_disclosure",
+        "erasure",
+        "safeguarding_failure"
+      ],
+      "chunk": 40,
+      "time_range": "39:30-40:30"
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "39:36",
+      "quote": "I know, and I\u2019ve made clear that failing to log puts you at more risk.",
+      "tags": [
+        "acknowledgement",
+        "advocacy",
+        "safeguarding"
+      ],
+      "chunk": 40,
+      "time_range": "39:30-40:30"
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "39:41",
+      "quote": "More risk? It already put me at risk, because no one acted on it.",
+      "tags": [
+        "victim_experience",
+        "risk",
+        "safeguarding_gap"
+      ],
+      "chunk": 40,
+      "time_range": "39:30-40:30"
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "39:46",
+      "quote": "You\u2019re right, it should have triggered immediate safeguarding steps.",
+      "tags": [
+        "acknowledgement",
+        "agreement",
+        "safeguarding"
+      ],
+      "chunk": 40,
+      "time_range": "39:30-40:30"
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "39:51",
+      "quote": "But it didn\u2019t, and I was left alone again.",
+      "tags": [
+        "victim_experience",
+        "isolation",
+        "safeguarding_failure"
+      ],
+      "chunk": 40,
+      "time_range": "39:30-40:30"
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "39:56",
+      "quote": "I\u2019m sorry, Ben. That wasn\u2019t how it should have been handled.",
+      "tags": [
+        "acknowledgement",
+        "empathy",
+        "safeguarding"
+      ],
+      "chunk": 40,
+      "time_range": "39:30-40:30"
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "40:30",
+      "quote": "And when I\u2019m left alone like that, it makes me feel like they want me gone.",
+      "tags": [
+        "victim_experience",
+        "emotional_impact",
+        "suicide_risk"
+      ],
+      "chunk": 41,
+      "time_range": "40:30-41:30"
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "40:36",
+      "quote": "I\u2019m so sorry you feel that way, Ben. That\u2019s not what should be happening.",
+      "tags": [
+        "acknowledgement",
+        "empathy",
+        "safeguarding"
+      ],
+      "chunk": 41,
+      "time_range": "40:30-41:30"
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "40:41",
+      "quote": "But it is what\u2019s happening. Their inaction says more than words.",
+      "tags": [
+        "victim_assertion",
+        "safeguarding_failure",
+        "institutional_failure"
+      ],
+      "chunk": 41,
+      "time_range": "40:30-41:30"
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "40:46",
+      "quote": "I agree, and I\u2019ve told them inaction puts you at serious risk.",
+      "tags": [
+        "acknowledgement",
+        "advocacy",
+        "safeguarding"
+      ],
+      "chunk": 41,
+      "time_range": "40:30-41:30"
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "40:51",
+      "quote": "Yet they keep doing it. So how do I believe they care?",
+      "tags": [
+        "victim_experience",
+        "trust_issue",
+        "contradiction"
+      ],
+      "chunk": 41,
+      "time_range": "40:30-41:30"
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "40:56",
+      "quote": "I understand, and I know it\u2019s hard to trust when actions don\u2019t match words.",
+      "tags": [
+        "acknowledgement",
+        "empathy",
+        "trust_issue"
+      ],
+      "chunk": 41,
+      "time_range": "40:30-41:30"
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "41:30",
+      "quote": "It\u2019s hard not to think their silence is deliberate, like they want me to disappear.",
+      "tags": [
+        "victim_experience",
+        "silence",
+        "gaslighting",
+        "suicide_risk"
+      ],
+      "chunk": 42,
+      "time_range": "41:30-42:30"
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "41:36",
+      "quote": "I can\u2019t say it\u2019s deliberate, but I understand why you\u2019d feel that way.",
+      "tags": [
+        "deflection",
+        "acknowledgement",
+        "neutral_response"
+      ],
+      "chunk": 42,
+      "time_range": "41:30-42:30"
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "41:41",
+      "quote": "Because silence is an answer. It tells me I don\u2019t matter.",
+      "tags": [
+        "victim_experience",
+        "silence",
+        "erasure"
+      ],
+      "chunk": 42,
+      "time_range": "41:30-42:30"
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "41:46",
+      "quote": "You do matter, Ben, and I\u2019ve told them their silence isn\u2019t acceptable.",
+      "tags": [
+        "acknowledgement",
+        "advocacy",
+        "empathy"
+      ],
+      "chunk": 42,
+      "time_range": "41:30-42:30"
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "41:51",
+      "quote": "Not acceptable is too weak. Silence kills.",
+      "tags": [
+        "victim_assertion",
+        "safeguarding",
+        "suicide_risk"
+      ],
+      "chunk": 42,
+      "time_range": "41:30-42:30"
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "41:56",
+      "quote": "You\u2019re right, it can be very dangerous.",
+      "tags": [
+        "acknowledgement",
+        "agreement",
+        "safeguarding"
+      ],
+      "chunk": 42,
+      "time_range": "41:30-42:30"
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "42:30",
+      "quote": "Dangerous isn\u2019t strong enough. It\u2019s lethal when you ignore suicidality.",
+      "tags": [
+        "victim_experience",
+        "suicide_disclosure",
+        "safeguarding_failure"
+      ],
+      "chunk": 43,
+      "time_range": "42:30-43:30"
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "42:36",
+      "quote": "You\u2019re right, it is life-threatening, and I\u2019ve made that clear to them.",
+      "tags": [
+        "acknowledgement",
+        "agreement",
+        "safeguarding"
+      ],
+      "chunk": 43,
+      "time_range": "42:30-43:30"
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "42:41",
+      "quote": "But still no action followed, so what good is making it clear?",
+      "tags": [
+        "victim_assertion",
+        "accountability_gap",
+        "risk"
+      ],
+      "chunk": 43,
+      "time_range": "42:30-43:30"
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "42:46",
+      "quote": "I know, and I wish I could give you the action you need.",
+      "tags": [
+        "acknowledgement",
+        "empathy",
+        "advocacy_gap"
+      ],
+      "chunk": 43,
+      "time_range": "42:30-43:30"
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "42:51",
+      "quote": "Wishing isn\u2019t safeguarding. Acting is.",
+      "tags": [
+        "victim_assertion",
+        "safeguarding_gap",
+        "accountability"
+      ],
+      "chunk": 43,
+      "time_range": "42:30-43:30"
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "42:56",
+      "quote": "You\u2019re right, Ben. It should have been acted on straight away.",
+      "tags": [
+        "acknowledgement",
+        "agreement",
+        "safeguarding"
+      ],
+      "chunk": 43,
+      "time_range": "42:30-43:30"
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "43:30",
+      "quote": "So when they didn\u2019t act on my suicide disclosure, that\u2019s neglect of duty.",
+      "tags": [
+        "victim_experience",
+        "suicide_disclosure",
+        "safeguarding_failure",
+        "accountability"
+      ],
+      "chunk": 44,
+      "time_range": "43:30-44:30"
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "43:36",
+      "quote": "Yes, it should have triggered safeguarding protocol immediately.",
+      "tags": [
+        "acknowledgement",
+        "agreement",
+        "safeguarding"
+      ],
+      "chunk": 44,
+      "time_range": "43:30-44:30"
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "43:41",
+      "quote": "But it didn\u2019t, so I was left at risk again.",
+      "tags": [
+        "victim_experience",
+        "safeguarding_gap",
+        "risk"
+      ],
+      "chunk": 44,
+      "time_range": "43:30-44:30"
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "43:46",
+      "quote": "I know, Ben, and I\u2019m sorry you were left in that position.",
+      "tags": [
+        "acknowledgement",
+        "empathy",
+        "safeguarding"
+      ],
+      "chunk": 44,
+      "time_range": "43:30-44:30"
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "43:51",
+      "quote": "Sorry doesn\u2019t undo the risk. It proves they don\u2019t follow their own laws.",
+      "tags": [
+        "victim_assertion",
+        "legal_basis",
+        "safeguarding_failure"
+      ],
+      "chunk": 44,
+      "time_range": "43:30-44:30"
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "43:56",
+      "quote": "You\u2019re right, it shows a serious failing.",
+      "tags": [
+        "acknowledgement",
+        "agreement",
+        "systemic_failure"
+      ],
+      "chunk": 44,
+      "time_range": "43:30-44:30"
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "44:30",
+      "quote": "And if they ignore the law on suicide safeguarding, what else are they ignoring?",
+      "tags": [
+        "victim_experience",
+        "safeguarding_failure",
+        "legal_basis",
+        "trust_issue"
+      ],
+      "chunk": 45,
+      "time_range": "44:30-45:30"
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "44:36",
+      "quote": "That\u2019s a fair question, and it\u2019s why I\u2019ve raised governance concerns too.",
+      "tags": [
+        "acknowledgement",
+        "advocacy",
+        "governance"
+      ],
+      "chunk": 45,
+      "time_range": "44:30-45:30"
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "44:41",
+      "quote": "Raised isn\u2019t the same as enforcing. Laws are meant to be followed, not optional.",
+      "tags": [
+        "victim_assertion",
+        "accountability",
+        "legal_basis"
+      ],
+      "chunk": 45,
+      "time_range": "44:30-45:30"
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "44:46",
+      "quote": "I know, and I\u2019ve said to them it\u2019s mandatory, not optional.",
+      "tags": [
+        "acknowledgement",
+        "agreement",
+        "safeguarding"
+      ],
+      "chunk": 45,
+      "time_range": "44:30-45:30"
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "44:51",
+      "quote": "But they still treated it like it was optional, and I was left unprotected.",
+      "tags": [
+        "victim_experience",
+        "safeguarding_gap",
+        "risk"
+      ],
+      "chunk": 45,
+      "time_range": "44:30-45:30"
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "44:56",
+      "quote": "You\u2019re right, Ben, and I can\u2019t defend that.",
+      "tags": [
+        "acknowledgement",
+        "agreement",
+        "safeguarding_failure"
+      ],
+      "chunk": 45,
+      "time_range": "44:30-45:30"
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "45:30",
+      "quote": "So when the law is ignored, and I\u2019m left unsafe, that\u2019s not just failure, that\u2019s abuse.",
+      "tags": [
+        "victim_experience",
+        "safeguarding_failure",
+        "legal_basis",
+        "institutional_abuse"
+      ],
+      "chunk": 46,
+      "time_range": "45:30-46:30"
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "45:36",
+      "quote": "I understand, and I\u2019ve said the impact on you is unacceptable.",
+      "tags": [
+        "acknowledgement",
+        "advocacy",
+        "impact"
+      ],
+      "chunk": 46,
+      "time_range": "45:30-46:30"
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "45:41",
+      "quote": "Unacceptable doesn\u2019t stop it. Calling it abuse is accurate.",
+      "tags": [
+        "victim_assertion",
+        "institutional_abuse",
+        "accountability"
+      ],
+      "chunk": 46,
+      "time_range": "45:30-46:30"
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "45:46",
+      "quote": "I can\u2019t label it that, but I see how you experience it that way.",
+      "tags": [
+        "deflection",
+        "acknowledgement",
+        "neutral_response"
+      ],
+      "chunk": 46,
+      "time_range": "45:30-46:30"
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "45:51",
+      "quote": "It\u2019s not just my experience. It\u2019s the reality of being left at risk by those with a duty.",
+      "tags": [
+        "victim_experience",
+        "safeguarding_gap",
+        "legal_basis"
+      ],
+      "chunk": 46,
+      "time_range": "45:30-46:30"
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "45:56",
+      "quote": "You\u2019re right, Ben. Being left at risk isn\u2019t defensible.",
+      "tags": [
+        "acknowledgement",
+        "agreement",
+        "safeguarding"
+      ],
+      "chunk": 46,
+      "time_range": "45:30-46:30"
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "46:30",
+      "quote": "If I did this to someone else, I\u2019d be arrested. But when they do it to me, nothing happens.",
+      "tags": [
+        "victim_experience",
+        "accountability",
+        "double_standard",
+        "institutional_abuse"
+      ],
+      "chunk": 47,
+      "time_range": "46:30-47:30"
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "46:36",
+      "quote": "You\u2019re right, Ben. There is a clear double standard.",
+      "tags": [
+        "acknowledgement",
+        "agreement",
+        "systemic_failure"
+      ],
+      "chunk": 47,
+      "time_range": "46:30-47:30"
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "46:41",
+      "quote": "So they\u2019re above the law while I\u2019m left suffering.",
+      "tags": [
+        "victim_experience",
+        "accountability_gap",
+        "institutional_failure"
+      ],
+      "chunk": 47,
+      "time_range": "46:30-47:30"
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "46:46",
+      "quote": "I agree, that\u2019s how it looks, and it\u2019s deeply unfair.",
+      "tags": [
+        "acknowledgement",
+        "agreement",
+        "empathy"
+      ],
+      "chunk": 47,
+      "time_range": "46:30-47:30"
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "46:51",
+      "quote": "It\u2019s not just unfair, it\u2019s unlawful.",
+      "tags": [
+        "victim_assertion",
+        "legal_basis",
+        "institutional_abuse"
+      ],
+      "chunk": 47,
+      "time_range": "46:30-47:30"
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "46:56",
+      "quote": "Yes, I understand, and I\u2019ll keep raising it in those terms.",
+      "tags": [
+        "acknowledgement",
+        "advocacy",
+        "accountability"
+      ],
+      "chunk": 47,
+      "time_range": "46:30-47:30"
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "47:30",
+      "quote": "So they commit unlawful acts against me, and instead of safeguarding, I get excuses.",
+      "tags": [
+        "victim_experience",
+        "institutional_abuse",
+        "safeguarding_failure",
+        "accountability"
+      ],
+      "chunk": 48,
+      "time_range": "47:30-48:30"
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "47:36",
+      "quote": "You\u2019re right, Ben, excuses don\u2019t equal safeguarding.",
+      "tags": [
+        "acknowledgement",
+        "agreement",
+        "safeguarding"
+      ],
+      "chunk": 48,
+      "time_range": "47:30-48:30"
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "47:41",
+      "quote": "Excuses prove they know they\u2019re wrong, otherwise they wouldn\u2019t need them.",
+      "tags": [
+        "victim_assertion",
+        "contradiction",
+        "institutional_failure"
+      ],
+      "chunk": 48,
+      "time_range": "47:30-48:30"
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "47:46",
+      "quote": "That\u2019s a fair point, and I\u2019ve told them accountability matters here.",
+      "tags": [
+        "acknowledgement",
+        "advocacy",
+        "accountability"
+      ],
+      "chunk": 48,
+      "time_range": "47:30-48:30"
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "47:51",
+      "quote": "But still, nothing changes and I\u2019m left at risk.",
+      "tags": [
+        "victim_experience",
+        "safeguarding_gap",
+        "risk"
+      ],
+      "chunk": 48,
+      "time_range": "47:30-48:30"
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "47:56",
+      "quote": "I know, and I\u2019ll keep pressing them, but I understand that\u2019s not enough.",
+      "tags": [
+        "acknowledgement",
+        "advocacy_gap",
+        "safeguarding"
+      ],
+      "chunk": 48,
+      "time_range": "47:30-48:30"
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "48:30",
+      "quote": "So every time I\u2019m left at risk, it proves safeguarding doesn\u2019t exist for me.",
+      "tags": [
+        "victim_experience",
+        "safeguarding_failure",
+        "institutional_abuse"
+      ],
+      "chunk": 49,
+      "time_range": "48:30-49:30"
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "48:36",
+      "quote": "I understand, Ben, and I\u2019ve told them that safeguarding must apply equally.",
+      "tags": [
+        "acknowledgement",
+        "advocacy",
+        "safeguarding"
+      ],
+      "chunk": 49,
+      "time_range": "48:30-49:30"
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "48:41",
+      "quote": "But it hasn\u2019t, and that makes me an exception to the law.",
+      "tags": [
+        "victim_assertion",
+        "legal_basis",
+        "discrimination"
+      ],
+      "chunk": 49,
+      "time_range": "48:30-49:30"
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "48:46",
+      "quote": "You\u2019re right, it hasn\u2019t been applied equally in your case.",
+      "tags": [
+        "acknowledgement",
+        "agreement",
+        "safeguarding"
+      ],
+      "chunk": 49,
+      "time_range": "48:30-49:30"
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "48:51",
+      "quote": "So I\u2019m excluded from rights everyone else has.",
+      "tags": [
+        "victim_experience",
+        "rights_violation",
+        "discrimination"
+      ],
+      "chunk": 49,
+      "time_range": "48:30-49:30"
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "48:56",
+      "quote": "I know, and that\u2019s deeply wrong.",
+      "tags": [
+        "acknowledgement",
+        "agreement",
+        "safeguarding_failure"
+      ],
+      "chunk": 49,
+      "time_range": "48:30-49:30"
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "49:30",
+      "quote": "If I\u2019m excluded from rights, then that\u2019s systemic discrimination.",
+      "tags": [
+        "victim_experience",
+        "rights_violation",
+        "discrimination",
+        "institutional_failure"
+      ],
+      "chunk": 50,
+      "time_range": "49:30-50:30"
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "49:36",
+      "quote": "You\u2019re right, Ben, it is systemic when applied unequally.",
+      "tags": [
+        "acknowledgement",
+        "agreement",
+        "systemic_failure"
+      ],
+      "chunk": 50,
+      "time_range": "49:30-50:30"
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "49:41",
+      "quote": "Systemic means it\u2019s not just mistakes, it\u2019s the whole structure failing me.",
+      "tags": [
+        "victim_assertion",
+        "systemic_failure",
+        "accountability"
+      ],
+      "chunk": 50,
+      "time_range": "49:30-50:30"
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "49:46",
+      "quote": "I agree, and I\u2019ve raised that as a governance concern too.",
+      "tags": [
+        "acknowledgement",
+        "advocacy",
+        "governance"
+      ],
+      "chunk": 50,
+      "time_range": "49:30-50:30"
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "49:51",
+      "quote": "Governance concern isn\u2019t protection. I need safeguarding, not concern.",
+      "tags": [
+        "victim_experience",
+        "safeguarding_gap",
+        "accountability"
+      ],
+      "chunk": 50,
+      "time_range": "49:30-50:30"
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "49:56",
+      "quote": "You\u2019re right, Ben. You should have been safeguarded properly from the start.",
+      "tags": [
+        "acknowledgement",
+        "agreement",
+        "safeguarding_failure"
+      ],
+      "chunk": 50,
+      "time_range": "49:30-50:30"
+    }
+  ],
+  "contradictions": [
+    {
+      "issue": "Letter and sergeant update mentioned but sergeant's name withheld",
+      "type": "accountability_gap",
+      "chunk": 1,
+      "time_range": "0:00-1:15"
+    },
+    {
+      "issue": "Emma claims to request sergeant name but only has rotational inbox contact",
+      "type": "accountability_gap",
+      "chunk": 2,
+      "time_range": "1:15-2:30"
+    },
+    {
+      "issue": "Emma claims to advocate for accountability but accepts systemic lack of ownership",
+      "type": "advocacy_gap",
+      "chunk": 3,
+      "time_range": "2:30-3:30"
+    },
+    {
+      "issue": "Ben highlights risk to safety if case falls between cracks; Emma concedes systemic failure but no resolution",
+      "type": "safeguarding_failure",
+      "chunk": 4,
+      "time_range": "3:30-4:30"
+    },
+    {
+      "issue": "Advocate acknowledges delays unsafe but offers only generic escalation promises",
+      "type": "safeguarding_gap",
+      "chunk": 5,
+      "time_range": "4:30-5:30"
+    },
+    {
+      "issue": "Victim highlights advocate role vs. advocate deflects responsibility onto 'slow system'",
+      "type": "advocacy_failure",
+      "chunk": 6,
+      "time_range": "5:30-6:30"
+    },
+    {
+      "issue": "Evidence repeatedly reported as missing; police act unaware; victim asked to resubmit",
+      "type": "evidence_handling_failure",
+      "chunk": 7,
+      "time_range": "6:30-7:30"
+    },
+    {
+      "issue": "Victim perceives deliberate erasure vs. advocate frames it as system issue",
+      "type": "trust_and_accountability_gap",
+      "chunk": 8,
+      "time_range": "7:30-8:30"
+    },
+    {
+      "issue": "SASH record 'all evidence passed to police' vs later police 'cannot locate evidence'",
+      "type": "evidence_handling_contradiction",
+      "chunk": 9,
+      "time_range": "8:30-9:30"
+    },
+    {
+      "issue": "Police silence when contradictions raised vs. advocate admits silence not acceptable but no escalation outcome",
+      "type": "safeguarding_failure",
+      "chunk": 10,
+      "time_range": "9:30-10:30"
+    },
+    {
+      "issue": "Police silence when contradictions raised vs. advocate admits silence not acceptable but no escalation outcome",
+      "type": "safeguarding_failure",
+      "chunk": 10,
+      "time_range": "9:30-10:30"
+    },
+    {
+      "issue": "Victim reports being worn down by repetition vs. advocate acknowledges but offers no systemic fix",
+      "type": "institutional_abuse_pattern",
+      "chunk": 11,
+      "time_range": "10:30-11:30"
+    },
+    {
+      "issue": "Victim asserts advocate not doing their role; advocate insists she is but results absent",
+      "type": "advocacy_gap",
+      "chunk": 12,
+      "time_range": "11:30-12:30"
+    },
+    {
+      "issue": "Victim labelled difficult vs. advocate says not by her but concedes systemic misrepresentation",
+      "type": "gaslighting_and_labeling",
+      "chunk": 13,
+      "time_range": "12:30-13:30"
+    },
+    {
+      "issue": "Victim perceives records rewritten to frame him; advocate concedes errors but frames as fixable instead of systemic",
+      "type": "record_accuracy_failure",
+      "chunk": 14,
+      "time_range": "13:30-14:30"
+    },
+    {
+      "issue": "Victim warns twisted records risk court misuse; advocate frames documentation as protection but systemic power imbalance remains",
+      "type": "recordkeeping_gap",
+      "chunk": 15,
+      "time_range": "14:30-15:30"
+    },
+    {
+      "issue": "Victim states bias against him; evidence disappears vs. advocate insists she challenges but acknowledges risk",
+      "type": "bias_and_evidence_loss",
+      "chunk": 16,
+      "time_range": "15:30-16:30"
+    },
+    {
+      "issue": "Advocate frames evidence as future accountability vs. victim highlights present safety risk",
+      "type": "safeguarding_failure",
+      "chunk": 17,
+      "time_range": "16:30-17:30"
+    },
+    {
+      "issue": "Victim highlights being left to prove failure vs. advocate admits this is wrong but offers no immediate remedy",
+      "type": "safeguarding_failure",
+      "chunk": 18,
+      "time_range": "17:30-18:30"
+    },
+    {
+      "issue": "Victim asks why systemic failure persists; advocate blames 'slow system' but concedes not acceptable",
+      "type": "systemic_failure_concession",
+      "chunk": 19,
+      "time_range": "18:30-19:30"
+    },
+    {
+      "issue": "Victim highlights evidence vanishing vs. advocate admits only secondary log exists; official file controlled by police",
+      "type": "evidence_chain_failure",
+      "chunk": 20,
+      "time_range": "19:30-20:30"
+    },
+    {
+      "issue": "Victim highlights evidence vanishing vs. advocate admits only secondary log exists; official file controlled by police",
+      "type": "evidence_chain_failure",
+      "chunk": 20,
+      "time_range": "19:30-20:30"
+    },
+    {
+      "issue": "Police silence and denials vs. advocate insists victim should keep submitting evidence anyway",
+      "type": "institutional_nonresponse",
+      "chunk": 21,
+      "time_range": "20:30-21:30"
+    },
+    {
+      "issue": "Victim describes systemic setup to fail vs. advocate concedes frustration but offers no resolution",
+      "type": "institutional_failure_pattern",
+      "chunk": 22,
+      "time_range": "21:30-22:30"
+    },
+    {
+      "issue": "Victim asserts deliberate evidence erasure vs. advocate frames as system failure but concedes perception of intent",
+      "type": "evidence_handling_contradiction",
+      "chunk": 23,
+      "time_range": "22:30-23:30"
+    },
+    {
+      "issue": "Victim frames resubmission cycle as abusive attrition; advocate refuses to confirm intent but concedes harm",
+      "type": "institutional_abuse_pattern",
+      "chunk": 24,
+      "time_range": "23:30-24:30"
+    },
+    {
+      "issue": "Officer in charge meant to be accountable for evidence, yet no named responsibility ever provided",
+      "type": "accountability_gap",
+      "chunk": 25,
+      "time_range": "24:30-25:30"
+    },
+    {
+      "issue": "Chain of custody broken with no accountability; advocate admits record should exist by law but it doesn\u2019t",
+      "type": "chain_of_custody_failure",
+      "chunk": 26,
+      "time_range": "25:30-26:30"
+    },
+    {
+      "issue": "Chain of custody broken undermining case; advocate concedes risk but deflects responsibility",
+      "type": "safeguarding_and_legal_failure",
+      "chunk": 27,
+      "time_range": "26:30-27:30"
+    },
+    {
+      "issue": "Victim asserts systemic failure intentional; advocate avoids intent but concedes repetition is unacceptable",
+      "type": "systemic_failure_contradiction",
+      "chunk": 28,
+      "time_range": "27:30-28:30"
+    },
+    {
+      "issue": "Victim equates repeated failures with intent; advocate avoids intent but concedes harmful impact",
+      "type": "systemic_failure_and_gaslighting",
+      "chunk": 29,
+      "time_range": "28:30-29:30"
+    },
+    {
+      "issue": "Delays framed as excuse vs. reality of repeated harm; advocate concedes but system unchanged",
+      "type": "safeguarding_failure",
+      "chunk": 30,
+      "time_range": "29:30-30:30"
+    },
+    {
+      "issue": "Delays framed as excuse vs. reality of repeated harm; advocate concedes but system unchanged",
+      "type": "safeguarding_failure",
+      "chunk": 30,
+      "time_range": "29:30-30:30"
+    },
+    {
+      "issue": "Victim highlights broken trust and lack of safety; advocate admits breakdown but offers only reinforcement, no action",
+      "type": "trust_and_safeguarding_failure",
+      "chunk": 31,
+      "time_range": "30:30-31:30"
+    },
+    {
+      "issue": "Victim highlights absence of safety without trust; advocate concedes but provides no present protection",
+      "type": "safeguarding_failure",
+      "chunk": 32,
+      "time_range": "31:30-32:30"
+    },
+    {
+      "issue": "Victim highlights repeated safeguarding issues ignored; advocate insists record matters later, ignoring immediate safety",
+      "type": "safeguarding_and_accountability_gap",
+      "chunk": 33,
+      "time_range": "32:30-33:30"
+    },
+    {
+      "issue": "Victim highlights safety sacrificed for paperwork; advocate concedes but only offers continued pressing, no solution",
+      "type": "safeguarding_failure",
+      "chunk": 34,
+      "time_range": "33:30-34:30"
+    },
+    {
+      "issue": "Victim points out record useless if harmed; advocate concedes but continues cycle of 'telling them' without result",
+      "type": "safeguarding_failure",
+      "chunk": 35,
+      "time_range": "34:30-35:30"
+    },
+    {
+      "issue": "Victim highlights prevention ignored; advocate admits it should be automatic but delays persist",
+      "type": "safeguarding_systemic_failure",
+      "chunk": 36,
+      "time_range": "35:30-36:30"
+    },
+    {
+      "issue": "Victim frames ignored prevention as negligence risking life; advocate concedes negligence but only 'stresses' point",
+      "type": "safeguarding_negligence",
+      "chunk": 37,
+      "time_range": "36:30-37:30"
+    },
+    {
+      "issue": "Victim highlights negligence as crime and discloses suicidality; advocate offers sympathy but no safeguarding action",
+      "type": "safeguarding_failure_and_suicide_disclosure",
+      "chunk": 38,
+      "time_range": "37:30-38:30"
+    },
+    {
+      "issue": "Suicidal disclosure not logged properly; advocate concedes failure but only promises 'pushing again'",
+      "type": "suicide_logging_failure",
+      "chunk": 39,
+      "time_range": "38:30-39:30"
+    },
+    {
+      "issue": "Suicide disclosure erased by lack of logging; advocate admits safeguarding should have triggered but didn\u2019t",
+      "type": "safeguarding_erasure",
+      "chunk": 40,
+      "time_range": "39:30-40:30"
+    },
+    {
+      "issue": "Suicide disclosure erased by lack of logging; advocate admits safeguarding should have triggered but didn\u2019t",
+      "type": "safeguarding_erasure",
+      "chunk": 40,
+      "time_range": "39:30-40:30"
+    },
+    {
+      "issue": "Victim perceives inaction as abandonment; advocate admits inaction creates risk but offers only sympathy",
+      "type": "safeguarding_abandonment",
+      "chunk": 41,
+      "time_range": "40:30-41:30"
+    },
+    {
+      "issue": "Victim frames silence as deliberate erasure; advocate deflects intent but admits silence is dangerous",
+      "type": "silence_and_safeguarding_failure",
+      "chunk": 42,
+      "time_range": "41:30-42:30"
+    },
+    {
+      "issue": "Victim states ignoring suicidality is lethal; advocate concedes but admits no action was taken",
+      "type": "suicidality_safeguarding_failure",
+      "chunk": 43,
+      "time_range": "42:30-43:30"
+    },
+    {
+      "issue": "Suicide disclosure should have triggered safeguarding but did not; advocate concedes serious failing",
+      "type": "safeguarding_protocol_failure",
+      "chunk": 44,
+      "time_range": "43:30-44:30"
+    },
+    {
+      "issue": "Suicide safeguarding treated as optional law; advocate concedes mandatory but no enforcement",
+      "type": "legal_and_safeguarding_failure",
+      "chunk": 45,
+      "time_range": "44:30-45:30"
+    },
+    {
+      "issue": "Victim frames ignored law as abuse; advocate refuses to label it abuse but concedes it\u2019s indefensible",
+      "type": "institutional_abuse_contradiction",
+      "chunk": 46,
+      "time_range": "45:30-46:30"
+    },
+    {
+      "issue": "Victim highlights double standard (arrest if reversed); advocate concedes unfair/unlawful but only raises it without remedy",
+      "type": "institutional_double_standard",
+      "chunk": 47,
+      "time_range": "46:30-47:30"
+    },
+    {
+      "issue": "Victim highlights unlawful acts + excuses instead of safeguarding; advocate concedes but admits pressing isn\u2019t enough",
+      "type": "safeguarding_and_accountability_failure",
+      "chunk": 48,
+      "time_range": "47:30-48:30"
+    },
+    {
+      "issue": "Victim excluded from safeguarding rights; advocate admits inequality but no correction",
+      "type": "safeguarding_rights_failure",
+      "chunk": 49,
+      "time_range": "48:30-49:30"
+    },
+    {
+      "issue": "Victim excluded from rights = systemic discrimination; advocate admits governance concern but no safeguarding delivered",
+      "type": "systemic_discrimination_failure",
+      "chunk": 50,
+      "time_range": "49:30-50:30"
+    }
+  ],
+  "timeline_hooks": [
+    {
+      "ref": "letter",
+      "link": "Veritas correspondence ~late April/early May 2025",
+      "chunk": 1,
+      "time_range": "0:00-1:15"
+    },
+    {
+      "ref": "multi-agency meeting chaired by sergeant",
+      "link": "29 Apr 2025 Stalking Clinic",
+      "chunk": 1,
+      "time_range": "0:00-1:15"
+    },
+    {
+      "ref": "sergeant name request",
+      "link": "April\u2013May 2025 OIC change / Stalking Clinic",
+      "chunk": 2,
+      "time_range": "1:15-2:30"
+    },
+    {
+      "ref": "rotational inbox",
+      "link": "Systemic issue in stalking unit contact management",
+      "chunk": 2,
+      "time_range": "1:15-2:30"
+    },
+    {
+      "ref": "escalation beyond stalking unit inbox",
+      "link": "Potential escalation path May 2025",
+      "chunk": 3,
+      "time_range": "2:30-3:30"
+    },
+    {
+      "ref": "lack of named sergeant",
+      "link": "Ongoing accountability gap in stalking unit",
+      "chunk": 3,
+      "time_range": "2:30-3:30"
+    },
+    {
+      "ref": "lack of named officer",
+      "link": "Ongoing May 2025 accountability gap",
+      "chunk": 4,
+      "time_range": "3:30-4:30"
+    },
+    {
+      "ref": "risk to safety",
+      "link": "Safeguarding escalation required",
+      "chunk": 4,
+      "time_range": "3:30-4:30"
+    },
+    {
+      "ref": "escalation to inspector level",
+      "link": "Potential escalation path May 2025",
+      "chunk": 5,
+      "time_range": "4:30-5:30"
+    },
+    {
+      "ref": "victim left unsafe due to delays",
+      "link": "Safeguarding concern May 2025",
+      "chunk": 5,
+      "time_range": "4:30-5:30"
+    },
+    {
+      "ref": "fight to get basics logged",
+      "link": "Ongoing failure to log case details",
+      "chunk": 6,
+      "time_range": "5:30-6:30"
+    },
+    {
+      "ref": "system slow excuse",
+      "link": "Systemic delay acknowledged by advocate",
+      "chunk": 6,
+      "time_range": "5:30-6:30"
+    },
+    {
+      "ref": "missing evidence",
+      "link": "Evidence chain contradictions Apr\u2013May 2025",
+      "chunk": 7,
+      "time_range": "6:30-7:30"
+    },
+    {
+      "ref": "resubmission requests",
+      "link": "Repeated evidence resubmission issue",
+      "chunk": 7,
+      "time_range": "6:30-7:30"
+    },
+    {
+      "ref": "missing or not logged evidence",
+      "link": "Evidence erasure concerns May 2025",
+      "chunk": 8,
+      "time_range": "7:30-8:30"
+    },
+    {
+      "ref": "systems review",
+      "link": "Advocate claims to push for systemic review",
+      "chunk": 8,
+      "time_range": "7:30-8:30"
+    },
+    {
+      "ref": "SASH all passed to police",
+      "link": "25 Nov 2024 SASH entry",
+      "chunk": 9,
+      "time_range": "8:30-9:30"
+    },
+    {
+      "ref": "police cannot locate evidence",
+      "link": "7 May 2025 case note + transcript admission",
+      "chunk": 9,
+      "time_range": "8:30-9:30"
+    },
+    {
+      "ref": "silence when contradictions raised",
+      "link": "Pattern of institutional non-response",
+      "chunk": 10,
+      "time_range": "9:30-10:30"
+    },
+    {
+      "ref": "need answers in writing",
+      "link": "Request for formal documentation May 2025",
+      "chunk": 10,
+      "time_range": "9:30-10:30"
+    },
+    {
+      "ref": "silence when contradictions raised",
+      "link": "Pattern of institutional non-response",
+      "chunk": 10,
+      "time_range": "9:30-10:30"
+    },
+    {
+      "ref": "need answers in writing",
+      "link": "Request for formal documentation May 2025",
+      "chunk": 10,
+      "time_range": "9:30-10:30"
+    },
+    {
+      "ref": "worn down by repetition",
+      "link": "Pattern of institutional erosion of victim resilience",
+      "chunk": 11,
+      "time_range": "10:30-11:30"
+    },
+    {
+      "ref": "waiting for me to give up",
+      "link": "Perceived institutional strategy of attrition",
+      "chunk": 11,
+      "time_range": "10:30-11:30"
+    },
+    {
+      "ref": "victim doing advocate\u2019s work",
+      "link": "Evidence of advocacy role failure",
+      "chunk": 12,
+      "time_range": "11:30-12:30"
+    },
+    {
+      "ref": "results absent despite assurances",
+      "link": "Systemic delay May 2025",
+      "chunk": 12,
+      "time_range": "11:30-12:30"
+    },
+    {
+      "ref": "labelled instead of supported",
+      "link": "Pattern of victim-blaming May 2025",
+      "chunk": 13,
+      "time_range": "12:30-13:30"
+    },
+    {
+      "ref": "rewriting what\u2019s real",
+      "link": "Evidence of gaslighting and erasure tactics",
+      "chunk": 13,
+      "time_range": "12:30-13:30"
+    },
+    {
+      "ref": "records rewritten framing victim",
+      "link": "Institutional gaslighting May 2025",
+      "chunk": 14,
+      "time_range": "13:30-14:30"
+    },
+    {
+      "ref": "risk of misuse of wrong records",
+      "link": "Future harm from inaccurate records",
+      "chunk": 14,
+      "time_range": "13:30-14:30"
+    },
+    {
+      "ref": "twisted records risk court",
+      "link": "Future court risk May 2025",
+      "chunk": 15,
+      "time_range": "14:30-15:30"
+    },
+    {
+      "ref": "advocate record comparison",
+      "link": "Veritas secondary recordkeeping",
+      "chunk": 15,
+      "time_range": "14:30-15:30"
+    },
+    {
+      "ref": "assumptions over evidence",
+      "link": "Institutional bias May 2025",
+      "chunk": 16,
+      "time_range": "15:30-16:30"
+    },
+    {
+      "ref": "evidence disappears",
+      "link": "Evidence erasure contradiction",
+      "chunk": 16,
+      "time_range": "15:30-16:30"
+    },
+    {
+      "ref": "evidence builds record but not safety",
+      "link": "Evidence vs. safeguarding contradiction May 2025",
+      "chunk": 17,
+      "time_range": "16:30-17:30"
+    },
+    {
+      "ref": "risk now vs. later accountability",
+      "link": "Immediate safeguarding need",
+      "chunk": 17,
+      "time_range": "16:30-17:30"
+    },
+    {
+      "ref": "record proves ignored",
+      "link": "Institutional accountability gap May 2025",
+      "chunk": 18,
+      "time_range": "17:30-18:30"
+    },
+    {
+      "ref": "being left to prove failure",
+      "link": "Safeguarding omission pattern",
+      "chunk": 18,
+      "time_range": "17:30-18:30"
+    },
+    {
+      "ref": "months with no change",
+      "link": "Ongoing systemic neglect May 2025",
+      "chunk": 19,
+      "time_range": "18:30-19:30"
+    },
+    {
+      "ref": "slow system excuse",
+      "link": "Institutional delay vs. safeguarding risk",
+      "chunk": 19,
+      "time_range": "18:30-19:30"
+    },
+    {
+      "ref": "evidence vanishes",
+      "link": "Ongoing missing evidence contradiction",
+      "chunk": 20,
+      "time_range": "19:30-20:30"
+    },
+    {
+      "ref": "advocate secondary log",
+      "link": "Parallel recordkeeping outside official file",
+      "chunk": 20,
+      "time_range": "19:30-20:30"
+    },
+    {
+      "ref": "evidence vanishes",
+      "link": "Ongoing missing evidence contradiction",
+      "chunk": 20,
+      "time_range": "19:30-20:30"
+    },
+    {
+      "ref": "advocate secondary log",
+      "link": "Parallel recordkeeping outside official file",
+      "chunk": 20,
+      "time_range": "19:30-20:30"
+    },
+    {
+      "ref": "police silence on evidence receipt",
+      "link": "Pattern of non-response May 2025",
+      "chunk": 21,
+      "time_range": "20:30-21:30"
+    },
+    {
+      "ref": "advocate says keep submitting",
+      "link": "Burden shifted back onto victim",
+      "chunk": 21,
+      "time_range": "20:30-21:30"
+    },
+    {
+      "ref": "set up to fail",
+      "link": "Perceived institutional sabotage May 2025",
+      "chunk": 22,
+      "time_range": "21:30-22:30"
+    },
+    {
+      "ref": "evidence lost or denied",
+      "link": "Evidence handling contradiction",
+      "chunk": 22,
+      "time_range": "21:30-22:30"
+    },
+    {
+      "ref": "acting confused then asking resubmission",
+      "link": "Pattern of evidence gaslighting",
+      "chunk": 23,
+      "time_range": "22:30-23:30"
+    },
+    {
+      "ref": "systematic loss vs deliberate",
+      "link": "Evidence tampering suspicion",
+      "chunk": 23,
+      "time_range": "22:30-23:30"
+    },
+    {
+      "ref": "resend cycle exhausting victim",
+      "link": "Attrition through administrative abuse",
+      "chunk": 24,
+      "time_range": "23:30-24:30"
+    },
+    {
+      "ref": "effect vs intent",
+      "link": "Impact-based abuse regardless of motive",
+      "chunk": 24,
+      "time_range": "23:30-24:30"
+    },
+    {
+      "ref": "officer in charge accountability missing",
+      "link": "Evidence handling chain gap",
+      "chunk": 25,
+      "time_range": "24:30-25:30"
+    },
+    {
+      "ref": "no accountability leads to repeat losses",
+      "link": "Systemic failure May 2025",
+      "chunk": 25,
+      "time_range": "24:30-25:30"
+    },
+    {
+      "ref": "broken chain of custody",
+      "link": "Evidence audit contradiction May 2025",
+      "chunk": 26,
+      "time_range": "25:30-26:30"
+    },
+    {
+      "ref": "record should exist by law",
+      "link": "Legal breach of evidence handling duties",
+      "chunk": 26,
+      "time_range": "25:30-26:30"
+    },
+    {
+      "ref": "case collapses in court",
+      "link": "Court risk due to broken chain of custody",
+      "chunk": 27,
+      "time_range": "26:30-27:30"
+    },
+    {
+      "ref": "victim left unsafe",
+      "link": "Immediate safeguarding omission",
+      "chunk": 27,
+      "time_range": "26:30-27:30"
+    },
+    {
+      "ref": "case collapse suspicion",
+      "link": "Perception of institutional sabotage",
+      "chunk": 28,
+      "time_range": "27:30-28:30"
+    },
+    {
+      "ref": "repetition of mistakes",
+      "link": "Pattern of systemic safeguarding failure",
+      "chunk": 28,
+      "time_range": "27:30-28:30"
+    },
+    {
+      "ref": "pattern equals intent",
+      "link": "Evidence of institutional gaslighting May 2025",
+      "chunk": 29,
+      "time_range": "28:30-29:30"
+    },
+    {
+      "ref": "impact over intent",
+      "link": "Safeguarding breach through repeated harmful effects",
+      "chunk": 29,
+      "time_range": "28:30-29:30"
+    },
+    {
+      "ref": "delays as excuse",
+      "link": "Institutional excuse pattern May 2025",
+      "chunk": 30,
+      "time_range": "29:30-30:30"
+    },
+    {
+      "ref": "harm not delay",
+      "link": "Evidence of repeated safeguarding failure",
+      "chunk": 30,
+      "time_range": "29:30-30:30"
+    },
+    {
+      "ref": "delays as excuse",
+      "link": "Institutional excuse pattern May 2025",
+      "chunk": 30,
+      "time_range": "29:30-30:30"
+    },
+    {
+      "ref": "harm not delay",
+      "link": "Evidence of repeated safeguarding failure",
+      "chunk": 30,
+      "time_range": "29:30-30:30"
+    },
+    {
+      "ref": "delay deny deflect",
+      "link": "Institutional tactic pattern May 2025",
+      "chunk": 31,
+      "time_range": "30:30-31:30"
+    },
+    {
+      "ref": "broken trust",
+      "link": "Safeguarding collapse due to trust loss",
+      "chunk": 31,
+      "time_range": "30:30-31:30"
+    },
+    {
+      "ref": "trust not rebuilt with words",
+      "link": "Demand for action-based accountability May 2025",
+      "chunk": 32,
+      "time_range": "31:30-32:30"
+    },
+    {
+      "ref": "victim left exposed",
+      "link": "Ongoing safeguarding risk",
+      "chunk": 32,
+      "time_range": "31:30-32:30"
+    },
+    {
+      "ref": "safeguarding issues raised months",
+      "link": "Pattern of ignored safeguarding referrals",
+      "chunk": 33,
+      "time_range": "32:30-33:30"
+    },
+    {
+      "ref": "record vs immediate protection",
+      "link": "Documentation over safety contradiction",
+      "chunk": 33,
+      "time_range": "32:30-33:30"
+    },
+    {
+      "ref": "safety sacrificed for paperwork",
+      "link": "Safeguarding vs. documentation contradiction May 2025",
+      "chunk": 34,
+      "time_range": "33:30-34:30"
+    },
+    {
+      "ref": "telling them not action",
+      "link": "Advocacy failure to deliver safeguarding",
+      "chunk": 34,
+      "time_range": "33:30-34:30"
+    },
+    {
+      "ref": "record proves failure after harm",
+      "link": "Documentation-only safeguard failure May 2025",
+      "chunk": 35,
+      "time_range": "34:30-35:30"
+    },
+    {
+      "ref": "telling them not acting",
+      "link": "Advocacy ineffectiveness",
+      "chunk": 35,
+      "time_range": "34:30-35:30"
+    },
+    {
+      "ref": "waiting for harm",
+      "link": "Safeguarding omission pattern May 2025",
+      "chunk": 36,
+      "time_range": "35:30-36:30"
+    },
+    {
+      "ref": "prevention vs reaction",
+      "link": "Institutional safeguarding failure",
+      "chunk": 36,
+      "time_range": "35:30-36:30"
+    },
+    {
+      "ref": "ignored prevention = negligence",
+      "link": "Institutional negligence safeguarding failure May 2025",
+      "chunk": 37,
+      "time_range": "36:30-37:30"
+    },
+    {
+      "ref": "gambling with my life",
+      "link": "Safeguarding omission contradiction",
+      "chunk": 37,
+      "time_range": "36:30-37:30"
+    },
+    {
+      "ref": "negligence crime risk",
+      "link": "Potential criminal negligence safeguarding breach May 2025",
+      "chunk": 38,
+      "time_range": "37:30-38:30"
+    },
+    {
+      "ref": "suicidal disclosure",
+      "link": "Critical safeguarding duty breach",
+      "chunk": 38,
+      "time_range": "37:30-38:30"
+    },
+    {
+      "ref": "suicidal disclosure unlogged",
+      "link": "Critical safeguarding omission Apr\u2013May 2025",
+      "chunk": 39,
+      "time_range": "38:30-39:30"
+    },
+    {
+      "ref": "denial risk",
+      "link": "Future contradiction in case record",
+      "chunk": 39,
+      "time_range": "38:30-39:30"
+    },
+    {
+      "ref": "suicide disclosure erased",
+      "link": "Failure to log suicide risk Apr\u2013May 2025",
+      "chunk": 40,
+      "time_range": "39:30-40:30"
+    },
+    {
+      "ref": "left alone after disclosure",
+      "link": "Safeguarding collapse May 2025",
+      "chunk": 40,
+      "time_range": "39:30-40:30"
+    },
+    {
+      "ref": "suicide disclosure erased",
+      "link": "Failure to log suicide risk Apr\u2013May 2025",
+      "chunk": 40,
+      "time_range": "39:30-40:30"
+    },
+    {
+      "ref": "left alone after disclosure",
+      "link": "Safeguarding collapse May 2025",
+      "chunk": 40,
+      "time_range": "39:30-40:30"
+    },
+    {
+      "ref": "left alone interpreted as wanted gone",
+      "link": "Perceived institutional abandonment May 2025",
+      "chunk": 41,
+      "time_range": "40:30-41:30"
+    },
+    {
+      "ref": "inaction vs words",
+      "link": "Safeguarding contradiction May 2025",
+      "chunk": 41,
+      "time_range": "40:30-41:30"
+    },
+    {
+      "ref": "silence is an answer",
+      "link": "Institutional silence pattern May 2025",
+      "chunk": 42,
+      "time_range": "41:30-42:30"
+    },
+    {
+      "ref": "silence kills",
+      "link": "Safeguarding escalation through non-response",
+      "chunk": 42,
+      "time_range": "41:30-42:30"
+    },
+    {
+      "ref": "ignoring suicidality lethal",
+      "link": "Critical safeguarding failure Apr\u2013May 2025",
+      "chunk": 43,
+      "time_range": "42:30-43:30"
+    },
+    {
+      "ref": "making it clear vs no action",
+      "link": "Institutional safeguarding gap",
+      "chunk": 43,
+      "time_range": "42:30-43:30"
+    },
+    {
+      "ref": "suicide disclosure neglect of duty",
+      "link": "Failure to follow safeguarding law Apr\u2013May 2025",
+      "chunk": 44,
+      "time_range": "43:30-44:30"
+    },
+    {
+      "ref": "proves they don\u2019t follow laws",
+      "link": "Legal safeguarding breach",
+      "chunk": 44,
+      "time_range": "43:30-44:30"
+    },
+    {
+      "ref": "laws treated as optional",
+      "link": "Safeguarding legal breach Apr\u2013May 2025",
+      "chunk": 45,
+      "time_range": "44:30-45:30"
+    },
+    {
+      "ref": "victim left unprotected",
+      "link": "Failure to enforce safeguarding law",
+      "chunk": 45,
+      "time_range": "44:30-45:30"
+    },
+    {
+      "ref": "ignored law = abuse",
+      "link": "Safeguarding breach reframed as institutional abuse Apr\u2013May 2025",
+      "chunk": 46,
+      "time_range": "45:30-46:30"
+    },
+    {
+      "ref": "left unsafe by duty holders",
+      "link": "Failure of duty of care May 2025",
+      "chunk": 46,
+      "time_range": "45:30-46:30"
+    },
+    {
+      "ref": "double standard not arrested if reversed",
+      "link": "Accountability contradiction May 2025",
+      "chunk": 47,
+      "time_range": "46:30-47:30"
+    },
+    {
+      "ref": "above the law vs unlawful",
+      "link": "Institutional abuse contradiction",
+      "chunk": 47,
+      "time_range": "46:30-47:30"
+    },
+    {
+      "ref": "excuses vs safeguarding",
+      "link": "Safeguarding contradiction May 2025",
+      "chunk": 48,
+      "time_range": "47:30-48:30"
+    },
+    {
+      "ref": "unlawful acts against victim",
+      "link": "Institutional abuse May 2025",
+      "chunk": 48,
+      "time_range": "47:30-48:30"
+    },
+    {
+      "ref": "safeguarding doesn\u2019t exist",
+      "link": "Exclusion from safeguarding system May 2025",
+      "chunk": 49,
+      "time_range": "48:30-49:30"
+    },
+    {
+      "ref": "exception to the law",
+      "link": "Discriminatory safeguarding gap",
+      "chunk": 49,
+      "time_range": "48:30-49:30"
+    },
+    {
+      "ref": "systemic discrimination",
+      "link": "Structural safeguarding failure May 2025",
+      "chunk": 50,
+      "time_range": "49:30-50:30"
+    },
+    {
+      "ref": "governance concern vs safeguarding",
+      "link": "Governance vs duty to protect contradiction",
+      "chunk": 50,
+      "time_range": "49:30-50:30"
+    }
+  ]
+}

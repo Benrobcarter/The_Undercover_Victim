@@ -1,0 +1,2822 @@
+{
+  "meta": {
+    "source_file_name": "04-07-25  14.05 PC Gassin (1).txt",
+    "source_sha256": "e449734a4656260bce10e84270684effcc5a0a851d5651168bd0c2a97f6458d1",
+    "created_at": "2025-08-25T22:31:20.239417Z",
+    "event_id": "A07",
+    "assumed_date_flag": true,
+    "crime_refs_mentioned": [
+      "4724",
+      "47240141246",
+      "47240214305",
+      "4725"
+    ],
+    "actors_detected": [
+      "ACTOR::BEN_CARTER",
+      "ACTOR::DIXON",
+      "ACTOR::GASSON"
+    ],
+    "summary_counts": {
+      "lines": 210,
+      "contradiction_hits": 0,
+      "logged_mentions": 8,
+      "november_mentions": 3
+    },
+    "recommended_next_actions": [
+      "Request audit/chronology export (create/modify/link actions) for relevant crime refs",
+      "Obtain CAD/event IDs for dates mentioned (22 Jun 2025; 24 Jul 2024; 2 Nov 2024)",
+      "Confirm OIC assignment via .eml with full headers",
+      "Preserve/attach original audio WAV + hashes aligned to transcript"
+    ]
+  },
+  "entries": [
+    {
+      "line_index": 1,
+      "quote": "\ufeffSussex Police Mishandling of Stalking Case \u2013 Ben Carter",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 2,
+      "quote": "Complainant:",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 3,
+      "quote": "Ben Carter",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 4,
+      "quote": "Subject of Complaint:",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 5,
+      "quote": "Systemic failure by Sussex Police to safeguard the victim in a high-risk stalking case involving Alanna O\u2019Hare. Misconduct includes failure to notify the victim of case decisions, mishandling of evidence, provision of false or inconsistent crime references, and obstruction of the Victim\u2019s Right to Review process.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 6,
+      "quote": "________________",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 7,
+      "quote": "Key Allegations:",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 8,
+      "quote": "1.  No Notification of No Further Action Decision",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 9,
+      "quote": "* On 9 May 2025, my stalker Alanna O\u2019Hare contacted me directly with threats that implied she had been told her bail had ended and there would be no further action.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 10,
+      "quote": "* I was never informed of this decision by Sussex Police.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 11,
+      "quote": "* This breach caused immediate escalation in psychological harm, undermining my safety and preventing timely invocation of the Victim\u2019s Right to Review (VRR).",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 12,
+      "quote": "2.  Contradictory Crime References and Obstruction",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 13,
+      "quote": "   * On 4 July 2025, in a recorded 101 call, I had to confirm multiple crime reference numbers myself:",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 14,
+      "quote": "      * 47240141246 (Original stalking complaint)",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER",
+        "TIMELINE::CRIME_REF_NUM"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 15,
+      "quote": "      * 47240214305 (New incident \u2013 May 2025 threats, reported 16 May)",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER",
+        "TIMELINE::CRIME_REF_NUM"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 16,
+      "quote": "         * I was told both were active and under the same officer (PC Gasson) \u2014 despite being given no formal case update or safeguarding follow-up.",
+      "speaker": "Ben Carter",
+      "tags": [
+        "ACTOR::BEN_CARTER",
+        "ACTOR::GASSON"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 17,
+      "quote": "         * The 101 handler acknowledged that these were \u201ctwo separate crimes\u201d, but also claimed \u201cthis is nothing for you to worry about,\u201d dismissing my confusion over conflicting records.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 18,
+      "quote": "3. \ud83e\uddfe False Recordkeeping and SAR Breach",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 19,
+      "quote": "            * I submitted a Subject Access Request on 9 April 2025, days before a suicide attempt triggered by ongoing inaction and institutional gaslighting.",
+      "speaker": "Ben Carter",
+      "tags": [
+        "ACTOR::BEN_CARTER",
+        "RISK::SUICIDE_REF"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 20,
+      "quote": "            * Despite confirmation that a new rape threat was logged on 22 June 2025, I was given no updates, violating my rights as a data subject and as a victim of crime.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER",
+        "TIMELINE::DATE_JUN22_2025",
+        "TIMELINE::LOGGED_ENTRY"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [
+        {
+          "type": "logged_confirmation",
+          "details": "22 Jun 2025 report logged"
+        }
+      ],
+      "emotions": {},
+      "legal_refs": [
+        "Recording & audit accuracy"
+      ],
+      "notes": []
+    },
+    {
+      "line_index": 21,
+      "quote": "4. \ud83e\uddd1\u200d\u2696\ufe0f Obstruction of CPS Oversight and Misuse of Stalking Clinic",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 22,
+      "quote": "               * Veritas Justice informed me that the CPS attended a Sussex Police Stalking Clinic on 29 April 2025 where my case was discussed and interest was shown.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 23,
+      "quote": "               * However, I was not contacted either by Sussex Police or the CPS.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 24,
+      "quote": "               * This sequence reveals that Sussex Police notified the perpetrator of an NFA before this safeguarding review even took place \u2014 violating policy and undermining external scrutiny.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 25,
+      "quote": "5. \ud83d\udcde 45+ Calls Ignored \u2013 Pattern of Dismissal",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 26,
+      "quote": "                  * I have made over 45 calls seeking updates or officer contact. No adequate response has been provided.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 27,
+      "quote": "                  * A virtual meeting was offered (22 June), then ignored.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 28,
+      "quote": "                  * At no stage was I informed that PC Gasson had taken over \u2014 I only found out by chasing this information myself on a recorded line.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER",
+        "ACTOR::GASSON"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 29,
+      "quote": "________________",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 30,
+      "quote": "Officers Named in Complaint:",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 31,
+      "quote": "                     * PC Jonathan Dixon \u2013 informed suspect of NFA prematurely",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER",
+        "ACTOR::DIXON"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 32,
+      "quote": "                     * PC Gasson \u2013 currently handling the case but failed to contact me",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER",
+        "ACTOR::GASSON"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 33,
+      "quote": "                     * PC Russell and PC Clarke \u2013 named in earlier case interactions",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 34,
+      "quote": "                     * 101 Call Handler (04 July 2025) \u2013 dismissive and obstructive during a safeguarding query",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 35,
+      "quote": "________________",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 36,
+      "quote": "Outcome Sought:",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 37,
+      "quote": "                        * Full investigation into the systemic failure to log, notify, and act on stalking-related threats and disclosures.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 38,
+      "quote": "                        * Confirmation of when, how, and why the NFA decision was made \u2014 and whether CPS actually reviewed the evidence.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 39,
+      "quote": "                        * Disciplinary action for officers involved in obstructing safeguarding, including those who misled or failed to engage with CPS protocols.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 40,
+      "quote": "                        * Re-opening of the VRR opportunity and acknowledgment that Sussex Police unlawfully denied me access to justice.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 41,
+      "quote": "[Ben Carter: 00:02.8] Hi. I was just wondering if I could find out about,which officer. I've got, I've been told that I've got a new one.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 42,
+      "quote": "[Ben Carter: 00:15.6] I've got quite a few.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 43,
+      "quote": "[Triage] Oh, okay,",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 44,
+      "quote": "[Ben Carter] So it's 472-401-412-41246.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 45,
+      "quote": "[Ben Carter: 00:35.0] Oh, sorry, 4 6. Sorry.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 46,
+      "quote": "[Triage : 00:39.2] 426.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 47,
+      "quote": "[Ben Carter: 00:40.4] Sorry. So 472-401-41246. Sorry about that.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 48,
+      "quote": "[Triage: 00:53.7] I will say Please.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 49,
+      "quote": "[Ben Carter: 00:55.9] My name's Benjamin Robert Carter.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 50,
+      "quote": "[Triage 01:05.3] All right, let me put you through to the contact centre, see if I can help you. It's less than a Minute away.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 51,
+      "quote": "[Ben Carter: 01:10.2] Yeah, yeah, yeah, yeah.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 52,
+      "quote": "[Triage: 01:11.6] Thank you.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 53,
+      "quote": "[Automated: 01:13.7] Your call will be recorded for training and monitoring purposes. We are connecting you to an advisor who will be with you as soon as they are free.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 54,
+      "quote": "[Automated: 01:51.6] If you want to skip the wait, you can hold your place in the queue by using our callback service, which will save you time. Please press 1 now to take advantage of this.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 55,
+      "quote": "[101 call handler: 02:11.6] Celtics. Please. How can I help you?",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 56,
+      "quote": "[Ben Carter: 02:13.1] Hi, I'm just checking. This is 101. I'm not wasting, like, any time, like, for emergencies, am I?",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 57,
+      "quote": "[101 call handler: 02:25.2] No, this is 101.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 58,
+      "quote": "[Ben Carter: 02:26.4] Oh, brilliant. Could I just ask a couple of questions? Because I've been told I've been assigned a new officer.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 59,
+      "quote": "[Ben Carter: 02:40.8] Would you like my crime reference or did you get it from triage? Okay, so it's 4 7.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 60,
+      "quote": "[101 call handler: 02:49.6] Yeah, just read it out in full.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 61,
+      "quote": "[Ben Carter: 02:51.1] Okay. 474-021-4305.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 62,
+      "quote": "[101 call handler: 03:02.8] That's not a Sussex reference. Did you report this somewhere else?",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 63,
+      "quote": "[Ben Carter: 03:07.6] It's not. It's not a Sussex reference?",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 64,
+      "quote": "[101 call handler: 03:10.6] No.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 65,
+      "quote": "[Ben Carter: 03:11.9] Can I. Can I.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 66,
+      "quote": "[101 call handler: 03:13.1] Not enough numbers.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 67,
+      "quote": "[Ben Carter: 03:14.7] Can I read it again? Just make sure.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 68,
+      "quote": "[101 call handler: 03:17.5] I'll read it back. 47402.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 69,
+      "quote": "[Ben Carter: 03:20.1] No, no, sorry. 4724.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER",
+        "TIMELINE::CRIME_REF_NUM"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 70,
+      "quote": "[101 call handler: 03:23.5] Oh, okay. 4724. So that was last year, was it?",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER",
+        "TIMELINE::CRIME_REF_NUM"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 71,
+      "quote": "[Ben Carter: 03:29.8] No, it. No, it was, in May.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 72,
+      "quote": "[101 call handler: 03:32.3] So.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 73,
+      "quote": "[Ben Carter: 03:32.6] So it's 474-724-021. 4305.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 74,
+      "quote": "[101 call handler: 03:42.7] What's your name?",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 75,
+      "quote": "[Ben Carter: 03:43.5] My name's Benjamin Robert Carter.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 76,
+      "quote": "[101 call handler: 03:48.4] Yeah, okay, so, yeah, it was last year. It says that's when it was initially reported.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 77,
+      "quote": "[Ben Carter: 03:53.8] No, no, this one was in May. Is for Ian Russell.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 78,
+      "quote": "[101 call handler: 04:02.2] It's what?",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 79,
+      "quote": "[Ben Carter: 04:02.8] Sorry, I reported this one on the 16th of May.",
+      "speaker": "Ben Carter",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 80,
+      "quote": "[101 call handler: 04:08.5] So this one is the 2nd of November, 2024.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER",
+        "TIMELINE::MONTH_NOV"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 81,
+      "quote": "[Ben Carter: 04:13.2] Oh, no, no, no. That one's, 47240.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 82,
+      "quote": "[101 call handler: 04:21.9] That reference number you just gave me. That's for an incident that happened second. Well, it was reported to us on the 2nd of November, 2024.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER",
+        "TIMELINE::MONTH_NOV"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 83,
+      "quote": "[Ben Carter: 04:29.8] Oh, okay.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 84,
+      "quote": "[101 call handler: 04:30.6] Robert Carter.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 85,
+      "quote": "[Ben Carter: 04:31.8] Oh, okay, sorry. Maybe I've got the mix up. Could I give you another. Another one, which was for the, Which was for May.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 86,
+      "quote": "[101 call handler: 04:40.3] Okay, so that one should be 4725.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER",
+        "TIMELINE::CRIME_REF_NUM"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 87,
+      "quote": "[Ben Carter: 04:46.1] So it's 4700.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 88,
+      "quote": "[101 call handler: 04:50.8] So that 4724 is last year. So 4725 is this year.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER",
+        "TIMELINE::CRIME_REF_NUM"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 89,
+      "quote": "[Ben Carter: 04:57.9] Oh, I didn't realise that because, like I've got the email saying, like, Yeah, it may be.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 90,
+      "quote": "[101 call handler: 05:07.9] If it progressed as an investigation, we may have given you the same reference number. But if you've added updates.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 91,
+      "quote": "[Ben Carter: 05:14.3] Okay. Like, I don't really know, like, how the crime number. Could I just give you this one to find out? Which is the one for me?",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER",
+        "TIMELINE::CRIME_REF_NUM"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 92,
+      "quote": "[101 call handler: 05:27.0] The one you just gave me. That's the most updated one. There's updates on here from like a few days ago, so I'm assuming that that is the right one.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 93,
+      "quote": "[Ben Carter: 05:35.6] Okay. What, What? The updates?",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 94,
+      "quote": "[101 call handler: 05:38.9] I won't be able to tell you that, I'm afraid, over the phone. But what is it I can help you with?",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 95,
+      "quote": "[Ben Carter: 05:44.2] So with the other. Because I've got another crime reference. Could I give you that one, please?",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 96,
+      "quote": "[101 call handler: 05:50.3] What's that one for?",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 97,
+      "quote": "[Ben Carter: 05:53.3] So it's 47240. Okay. 472-401-41246.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 98,
+      "quote": "[101 call handler: 06:12.4] Okay, so that's linked. I can see. Yeah. So how can I help you?",
+      "speaker": "Sussex Police 101 Call Handler",
+      "tags": [
+        "ACTOR::BEN_CARTER",
+        "RECORDS::LINKED_CASES"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [
+        "Recording & audit accuracy"
+      ],
+      "notes": []
+    },
+    {
+      "line_index": 99,
+      "quote": "[Ben Carter: 06:23.6] What are the two crime. So I've got two crime numbers. What's the difference in them?",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 100,
+      "quote": "[101 call handler: 06:32.6] They're just two different incidents.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 101,
+      "quote": "[Ben Carter: 06:35.7] Two different. No, that should be a cad if it's a, different incident, like two separate crime numbers. Surely, two completely different crimes.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 102,
+      "quote": "[101 call handler: 06:51.5] Yep, yeah, that's correct, yeah.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 103,
+      "quote": "[Ben Carter: 06:54.3] So could you please tell me the officer for that one?",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 104,
+      "quote": "[101 call handler: 06:59.2] For what one? Sorry?",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 105,
+      "quote": "[Ben Carter: 07:01.4] The one I just gave. The one I just gave you the officer. Yeah.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 106,
+      "quote": "[101 call handler: 07:13.4] It's PC Gasson.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER",
+        "ACTOR::GASSON"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 107,
+      "quote": "[Ben Carter: 07:15.1] PC who?",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 108,
+      "quote": "[101 call handler: 07:16.9] Gasson.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER",
+        "ACTOR::GASSON"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 109,
+      "quote": "[Ben Carter: 07:18.2] Could you spell that, please? G A double S, O, N, G A. Oh, okay. And for the. The other crime. Who's that?",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 110,
+      "quote": "[101 call handler: 07:30.7] Yeah, it's the same officer.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 111,
+      "quote": "[Ben Carter: 07:32.3] Oh, okay. So they're dealing with, both crimes which are the same crime.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 112,
+      "quote": "[Ben Carter: 07:41.5] Sorry, I'm just a bit confused. Is that.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {
+        "ben_emotion": "frustration/anger"
+      },
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 113,
+      "quote": "[101 call handler: 07:45.0] Well, what is it that you've rung to kind of get information for today?",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 114,
+      "quote": "[Ben Carter: 07:51.4] So I asked at the start, just because you can see my confusion, I have two crime numbers and I'm just trying to find out.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 115,
+      "quote": "[Ben Carter: 08:09.8] What's Going on, if that's okay.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 116,
+      "quote": "[101 call handler: 08:13.6] You want an update on the case or.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 117,
+      "quote": "[Ben Carter: 08:17.4] I wouldn't know. Why there's two crime numbers for the same crime, and if the same officers, assigned to both, it's nothing for.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 118,
+      "quote": "[101 call handler: 08:27.6] You to worry about. It's literally just how we record it.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 119,
+      "quote": "[Ben Carter: 08:30.4] So depending on what happened.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 120,
+      "quote": "[101 call handler: 08:34.1] Sorry, you've asked me a question and now you're interrupting me.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 121,
+      "quote": "[Ben Carter: 08:38.9] I apologise. Go on.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 122,
+      "quote": "[101 call handler: 08:42.1] So, yeah, it's nothing for you to worry about as, like, a victim. It's basically just how we record crime. So if someone reports something, and there's five crimes, for example, or we may need to record more than one crime. So. I don't know anything about your case, but, yeah, they've obviously just needed to record something else.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 123,
+      "quote": "[101 call handler: 09:03.7] That's literally it. That's why there's the same officer dealing with both.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 124,
+      "quote": "[Ben Carter: 09:08.2] Okay. Can I talk?",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 125,
+      "quote": "[101 call handler: 09:12.8] Sorry?",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 126,
+      "quote": "[Ben Carter: 09:14.0] Can I talk now? I don't want to be interrupting you.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 127,
+      "quote": "[101 call handler: 09:17.8] Oh, no, just. You asked me a question then you were just talking over me. It's a bit confusing.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 128,
+      "quote": "[Ben Carter: 09:22.9] I apologise.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 129,
+      "quote": "[101 call handler: 09:24.4] Okay. What is it that you need from police today?",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 130,
+      "quote": "[Ben Carter: 09:27.4] Well, so, I just want to know, if anything's been logged recently. Like, since the 22nd, anything's been logged.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER",
+        "TIMELINE::LOGGED_ENTRY"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [
+        "Recording & audit accuracy"
+      ],
+      "notes": []
+    },
+    {
+      "line_index": 131,
+      "quote": "[101 call handler: 09:39.8] What do you mean by logged?",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER",
+        "TIMELINE::LOGGED_ENTRY"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [
+        "Recording & audit accuracy"
+      ],
+      "notes": []
+    },
+    {
+      "line_index": 132,
+      "quote": "[Ben Carter: 09:42.8] Any updates to the crime?",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 133,
+      "quote": "[101 call handler: 09:45.3] Oh, okay. Since the 22nd of June.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 134,
+      "quote": "[Ben Carter: 09:51.4] Yeah.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 135,
+      "quote": "[101 call handler: 09:56.5] Yeah. We can't give you updates over the phone because of data.",
+      "speaker": "Sussex Police 101 Call Handler",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 136,
+      "quote": "[Ben Carter: 09:59.4] No, no, no, no, that's fine. Just, just say anything like, yeah, I.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 137,
+      "quote": "[101 call handler: 10:04.9] Can ask the officer to get in touch with you if that's what you prefer. I'm not able to kind of disclose anything. I.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER",
+        "ASK::REQUEST_CONTACT"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [
+        "Victims\u2019 Code \u2013 right to updates"
+      ],
+      "notes": []
+    },
+    {
+      "line_index": 138,
+      "quote": "[Ben Carter: 10:11.5] You're able to disclose? Yes or no? If, because I, I, I'm the data subject, like, I am entitled to know what information I've given you. You, you don't have to go into what. But the calls I made on the 22nd, was that, was that added to my case, file for, For Eve.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 139,
+      "quote": "[Ben Carter: 10:39.3] For both of the crimes that are one crime.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 140,
+      "quote": "[101 call handler: 10:41.8] What did you call about on the 22nd?",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 141,
+      "quote": "[Ben Carter: 10:44.8] Because my abuser, phoned me up accusing me of rape again.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 142,
+      "quote": "[101 call handler: 10:51.4] Oh, okay. And you reported that, did you?",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 143,
+      "quote": "[Ben Carter: 10:53.5] Yeah, and I was told on the 23rd that it was logged.",
+      "speaker": "Ben Carter",
+      "tags": [
+        "ACTOR::BEN_CARTER",
+        "TIMELINE::LOGGED_ENTRY"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [
+        "Recording & audit accuracy"
+      ],
+      "notes": []
+    },
+    {
+      "line_index": 144,
+      "quote": "[101 call handler: 10:59.9] Okay. So, yeah, if you've already been told it's been logged, then it would have been logged.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER",
+        "TIMELINE::LOGGED_ENTRY"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [
+        "Recording & audit accuracy"
+      ],
+      "notes": []
+    },
+    {
+      "line_index": 145,
+      "quote": "[Ben Carter: 11:06.0] Can you confirm it has been logged?",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER",
+        "TIMELINE::LOGGED_ENTRY"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [
+        "Recording & audit accuracy"
+      ],
+      "notes": []
+    },
+    {
+      "line_index": 146,
+      "quote": "[101 call handler: 11:20.2] So what day did you call in to report that?",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 147,
+      "quote": "[Ben Carter: 11:23.6] The 22nd. And I was confirmed it was logged on the 23rd.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER",
+        "TIMELINE::LOGGED_ENTRY"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [
+        "Recording & audit accuracy"
+      ],
+      "notes": []
+    },
+    {
+      "line_index": 148,
+      "quote": "[101 call handler: 11:34.4] Yes. It has been locked.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 149,
+      "quote": "[Ben Carter: 11:35.6] I can see it has been logged. And when am I able to send in the evidence?",
+      "speaker": "Sussex Police 101 Call Handler",
+      "tags": [
+        "ACTOR::BEN_CARTER",
+        "TIMELINE::LOGGED_ENTRY"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [
+        "Recording & audit accuracy"
+      ],
+      "notes": []
+    },
+    {
+      "line_index": 150,
+      "quote": "[101 call handler: 11:45.0] I'm not too sure. Yeah, it'll be, My colleague has updated the officer, so, they will be aware that there's this further report made.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 151,
+      "quote": "[Ben Carter: 11:55.2] So, yeah, I'm sure they'll be in.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 152,
+      "quote": "[101 call handler: 11:58.3] Touch with you shortly to kind of discuss it all.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 153,
+      "quote": "[Ben Carter: 12:00.9] It's just. It's been. It's been a week and is my Officer, working today by any chance?",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 154,
+      "quote": "[101 call handler: 12:29.9] Yes, they're actually working later today, yeah.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 155,
+      "quote": "[Ben Carter: 12:32.6] Oh, brilliant. If I called up, is there any chance I could, be put through?",
+      "speaker": "Ben Carter",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 156,
+      "quote": "[101 call handler: 12:42.8] Yeah, we can try. They work in the investigations team, so.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 157,
+      "quote": "[Ben Carter: 12:47.7] Yeah, yeah, we could always try, but, it's just, This is the first I've heard that I have a different officer, so, it would just be nice to chat to my ooc, really.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 158,
+      "quote": "[101 call handler: 13:06.5] Okay. Yeah. Yeah, I mean, throughout. Throughout a case, officers change all the time. That's very normal. Two cases, one person, then, you know, go sc.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 159,
+      "quote": "[101 call handler: 13:21.5] Then it might get past someone else for investigations.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 160,
+      "quote": "[Ben Carter: 13:24.1] It's not going to be the same.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 161,
+      "quote": "[101 call handler: 13:25.1] Officer all the way through. So that's very normal that you may have had a slightly different officer. Now it's been sent to investigations.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 162,
+      "quote": "[Ben Carter: 13:31.8] Yeah. Yeah. Can I just ask also, like, at what point are the Crown Prosecution Service, like, made aware of the crime? Is it from the start or like, what.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 163,
+      "quote": "[101 call handler: 13:47.4] Once the. Once the investigate, like a case has been made.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 164,
+      "quote": "[Ben Carter: 13:50.5] Yeah.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 165,
+      "quote": "[101 call handler: 13:51.5] Then the investigators go to CPS and say, here is the, Here's the incident. This is the evidence we have that these are the circumstances. And then the CPS review it and they either go yes or no, basically.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 166,
+      "quote": "[Ben Carter: 14:05.9] Oh, okay, so that's not done. Like, right. Right away that. That's done. But they have to build a.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 167,
+      "quote": "[101 call handler: 14:14.6] Case to take to the CPS.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 168,
+      "quote": "[Ben Carter: 14:16.3] Okay. It's just on the 29th, there was a meeting, It was like a Sussex Police stalking meeting, about, about my case.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 169,
+      "quote": "[Ben Carter: 14:31.5] And apparently the, like Veritas Justice. I don't know. Yeah, They said that the CPS were there, so they would know about the crime, wouldn't they, if they were there?",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 170,
+      "quote": "[101 call handler: 14:50.8] Yeah. I'm not an officer myself, so I don't know, you know, exactly how it works. I just have a very basic understanding.",
+      "speaker": "Sussex Police 101 Call Handler",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {
+        "handler_tone": "deflective / limited authority"
+      },
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 171,
+      "quote": "[Ben Carter: 14:56.4] Yeah, no, no, no, I understand.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 172,
+      "quote": "[101 call handler: 14:58.8] Yeah. I'm not too sure. If they're saying that they were at the meeting, then. Yeah, perhaps there was someone from CPS there.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 173,
+      "quote": "[Ben Carter: 15:05.0] Yeah, it's Just I contacted the cps, about it, and they had no idea, like, who I was, which I found a bit strange.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 174,
+      "quote": "[101 call handler: 15:19.4] Why did you contact the cps?",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 175,
+      "quote": "[Ben Carter: 15:23.6] For my victim's right to review. Because, my, PC Dixon, PC Dixon emailed my abuser no further action two days before this meeting.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER",
+        "ACTOR::DIXON"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 176,
+      "quote": "[101 call handler: 15:39.4] Right.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 177,
+      "quote": "[Ben Carter: 15:40.5] So. So I. I just wanted to check that, like, Sussex police were doing everything, you know, like, legally.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 178,
+      "quote": "[101 call handler: 15:53.3] Yep. I mean, I can, as I said, pass this over to the officer and get them to give you a call. Then they can kind of break it down exactly what's been going on and what actions they've taken, etc.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 179,
+      "quote": "[Ben Carter: 16:05.0] Yeah, yeah, yeah. Okay. Would you like my phone number?",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 180,
+      "quote": "[101 call handler: 16:10.0] Is it the one you're calling from?",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 181,
+      "quote": "[Ben Carter: 16:11.6] Yeah, yeah, I've got it here. Yeah, I've got an updated email as well.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 182,
+      "quote": "[101 call handler: 16:19.5] Okay. What would you prefer?",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 183,
+      "quote": "[Ben Carter: 16:22.8] So it's. No.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 184,
+      "quote": "[101 call handler: 16:26.4] Oh, sorry. Do you want us to email you or call you?",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 185,
+      "quote": "[Ben Carter: 16:31.3] Just for your records, really.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 186,
+      "quote": "[101 call handler: 16:34.3] Okay, go ahead. What is it?",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 187,
+      "quote": "[Ben Carter: 16:37.7] No.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 188,
+      "quote": "[101 call handler: 16:39.3] So, mother. Oscar.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 189,
+      "quote": "[Ben Carter: 16:42.0] Sorry. November. Oscar.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER",
+        "TIMELINE::MONTH_NOV"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 190,
+      "quote": "[101 call handler: 16:44.5] Yeah.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 191,
+      "quote": "[Ben Carter: 16:45.2] Dot.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 192,
+      "quote": "[101 call handler: 16:46.7] Yeah.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 193,
+      "quote": "[Ben Carter: 16:47.3] Romeo, Echo, Papa, Lima. Yoghurt@policeplease.com.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 194,
+      "quote": "[Ben Carter: 17:06.7] policeplease.com.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 195,
+      "quote": "[101 call handler: 17:11.5] Police. Please.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 196,
+      "quote": "[Ben Carter: 17:13.3] Police. Please.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 197,
+      "quote": "[101 call handler: 17:15.5] Can you spell it?",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 198,
+      "quote": "[Ben Carter: 17:17.7] P. O. Sorry. Papa, Oscar. Lima. Igloo.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 199,
+      "quote": "[Ben Carter: 17:33.1] Crayon. Echo, Puppa.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 200,
+      "quote": "[Ben Carter: 17:43.1] Police. Like. Like, please. Like Sussex please. And then like, please.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 201,
+      "quote": "[101 call handler: 17:51.5] What was the second word? Please.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 202,
+      "quote": "[Ben Carter: 17:55.0] Please. Like, please and thank you.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 203,
+      "quote": "[101 call handler: 17:58.3] Please. Please. That's your email address?",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 204,
+      "quote": "[Ben Carter: 18:01.9] Yeah. Yeah, yeah, yeah.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 205,
+      "quote": "[101 call handler: 18:05.7] Okay.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 206,
+      "quote": "[Ben Carter: 18:06.8] Dot. Com.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 207,
+      "quote": "[Ben Carter: 18:11.7] I've already had an email from Sussex Police saying that I can have a, I can have a virtual meeting, to log my new complaint. This was on the 22nd?",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 208,
+      "quote": "[Ben Carter: 18:29.6] Yeah, this was on the 22nd. And they emailed that from no Reply at Sussex Place. So. So, yeah, the fact it says no reply is kind of just satire, really.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 209,
+      "quote": "[Ben Carter: 18:46.0] You can reply.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 210,
+      "quote": "[101 call handler: 18:48.6] Okay. Yeah. I mean, that's up to you if you want to have that email address, but, I. Yeah, I'll contact the officer and let them know that you're, like, keen to speak to them.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    }
+  ]
+}

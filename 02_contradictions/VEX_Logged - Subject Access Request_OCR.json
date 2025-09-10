@@ -1,0 +1,26 @@
+{
+  "id": "VEX_Logged - Subject Access Request_OCR",
+  "type": "evidence",
+  "source": "Smart OCR Ingest",
+  "date": "DATE_NOT_FOUND",
+  "summary": "Auto-ingested from file: Logged - Subject Access Request.pdf",
+  "meta": {
+    "original_filename": "Logged - Subject Access Request.pdf",
+    "ocr_pdf_file": "Logged - Subject Access Request_ocr.pdf",
+    "ocr_text_file": "Logged - Subject Access Request.txt",
+    "sha256": "ee850d46ad5d3060e40695621848e849b384395978cb76e9a9b521ef58f1eb35",
+    "source_folder": ".",
+    "ingested_on": "2025-09-06T14:16:59.729827",
+    "ingest_method": "ocr_smart"
+  },
+  "links": {
+    "source_file_original": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_unprocessed/Logged - Subject Access Request.pdf",
+    "ocr_pdf_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_ocrd/Logged - Subject Access Request_ocr.pdf",
+    "ocr_text_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/text/Logged - Subject Access Request.txt"
+  },
+  "tags": [
+    "auto_ocr",
+    "logged ",
+    " subject access request"
+  ]
+}

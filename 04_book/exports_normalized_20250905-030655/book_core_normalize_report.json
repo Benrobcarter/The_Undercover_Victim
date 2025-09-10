@@ -1,0 +1,27 @@
+{
+  "master_chapter_count": 8,
+  "by_bucket": {
+    "sec1": 0,
+    "sec2": 5,
+    "sec3": 2,
+    "appendices": 0,
+    "misc": 1
+  },
+  "shards_written": [
+    {
+      "section": "sec2",
+      "file": "book_core_sec2.json",
+      "count": 5
+    },
+    {
+      "section": "sec3",
+      "file": "book_core_sec3.json",
+      "count": 2
+    },
+    {
+      "section": "misc",
+      "file": "book_core_chapters_misc.json",
+      "count": 1
+    }
+  ]
+}

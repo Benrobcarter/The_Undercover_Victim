@@ -1,0 +1,27 @@
+[PATCH LOG: Gasson + NICE Thread Blocked Replies – v6.2]
+Date: 2025-09-10
+Patch Version: v6.2
+Scope: Sussex Police (Tokenisation, Communication Obstruction)
+
+✅ Contradiction Added:
+ID: CONTRA_SUSSEX_POLICE_ASSIGNED_OFFICER_THAT_BLOCKED_REPLIES
+Title: PC Gasson assigned as officer, then blocked replies and failed to follow up
+Evidence:
+- Pc Gasson Yeah Right.PNG
+- PC Gasson? 1.PNG
+- PC Gasson? 2.PNG
+
+📅 Timeline Event Added:
+ID: TLN_2025-07-06_GASSON_ASSIGNED_THEN_DISAPPEARED
+Date: 2025-07-06
+Summary: PC Gasson was introduced as the officer, said “I will contact you shortly”, then replies were blocked and questions ignored.
+
+🔗 Clusters:
+- CLUSTER_SUSSEX_POLICE_TOKEN_OFFICER_GASSON
+- CLUSTER_SUSSEX_POLICE_TIMELINE_MANIPULATION
+
+📁 Patch Files:
+- CONTRA_PATCH_v6.2_GASSON_SMS_BLOCKED.json
+- TIMELINE_PATCH_v6.2_GASSON_SMS_BLOCKED.json
+
+✅ Status: Patch complete and ready for merge.

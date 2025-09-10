@@ -1,0 +1,81 @@
+{
+  "chunk": 34,
+  "time_range": "33:30-34:30",
+  "quotes": [
+    {
+      "speaker": "Ben Carter",
+      "time": "33:30",
+      "quote": "So basically my safety is sacrificed now, for the sake of paperwork later.",
+      "tags": [
+        "victim_experience",
+        "safeguarding_gap",
+        "systemic_failure"
+      ]
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "33:36",
+      "quote": "I understand why you’d see it that way, and I’ve told them that immediate risk needs addressing too.",
+      "tags": [
+        "acknowledgement",
+        "advocacy",
+        "safeguarding"
+      ]
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "33:41",
+      "quote": "Telling them isn’t the same as action. Nothing’s changing.",
+      "tags": [
+        "victim_assertion",
+        "accountability",
+        "risk"
+      ]
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "33:46",
+      "quote": "I know, and I share your frustration.",
+      "tags": [
+        "acknowledgement",
+        "empathy"
+      ]
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "33:49",
+      "quote": "Frustration doesn’t keep me safe.",
+      "tags": [
+        "victim_experience",
+        "safeguarding",
+        "risk"
+      ]
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "33:52",
+      "quote": "You’re right, it doesn’t, and I’ll keep pressing for actual action.",
+      "tags": [
+        "acknowledgement",
+        "advocacy",
+        "safeguarding"
+      ]
+    }
+  ],
+  "contradictions": [
+    {
+      "issue": "Victim highlights safety sacrificed for paperwork; advocate concedes but only offers continued pressing, no solution",
+      "type": "safeguarding_failure"
+    }
+  ],
+  "timeline_hooks": [
+    {
+      "ref": "safety sacrificed for paperwork",
+      "link": "Safeguarding vs. documentation contradiction May 2025"
+    },
+    {
+      "ref": "telling them not action",
+      "link": "Advocacy failure to deliver safeguarding"
+    }
+  ]
+}

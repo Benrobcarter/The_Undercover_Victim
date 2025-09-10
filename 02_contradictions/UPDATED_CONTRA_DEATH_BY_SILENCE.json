@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "contradiction_id": "CONTRA_DEATH_BY_SILENCE",
+    "title": "Death by Silence — Sussex Police Systemic Non-Contact",
+    "created_at": "2025-06-07T09:30:00",
+    "version": "1.0.0",
+    "tags": [
+      "SAFEGUARDING_FAILURE",
+      "SUPERVISORY_FAILURE",
+      "DEATH_BY_SILENCE"
+    ]
+  },
+  "links": {
+    "contradiction_threads": [
+      "SAFEGUARDING_FAILURE",
+      "SUPERVISORY_FAILURE"
+    ],
+    "related_entities": [
+      "Sussex Police",
+      "Inspector David Palmer",
+      "PC Jon Dixon",
+      "PC Gasson"
+    ],
+    "linked_contradictions": [
+      "CONTRA_2025-08-14_Holiday_Alibi_Proven"
+    ]
+  }
+}

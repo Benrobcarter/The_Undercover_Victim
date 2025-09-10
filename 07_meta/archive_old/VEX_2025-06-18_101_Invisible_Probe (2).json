@@ -1,0 +1,33 @@
+{
+  "filename": "VEX_2025-06-18_101_Invisible_Probe.json",
+  "date": "2025-06-18",
+  "source": "101 Triage Call",
+  "participants": [
+    "Ben Carter",
+    "Sussex Police 101 Triage"
+  ],
+  "transcript_tags": [
+    "SAFEGUARDING_FAILURE",
+    "COVERT_VALIDATION",
+    "DECOY_CASE_SPLIT",
+    "VERIFICATION_FAILURE",
+    "SYSTEMIC_RECORD_ACCESS",
+    "INSTITUTIONAL_CONTINUITY_DENIAL",
+    "PC_RUSSELL_DIVERSION"
+  ],
+  "timeline_reference": {
+    "timeline_id": "t1_sussex_police_chronology",
+    "event_id": "invisible_probe",
+    "date": "2025-06-18"
+  },
+  "contradictions": [
+    "PC_RUSSELL_DIVERSION",
+    "DECOY_CASE_SPLIT",
+    "FRACTURED_TIMELINE",
+    "REVERSAL_AFTER_PROBE",
+    "JULY_VS_NOVEMBER",
+    "WEAK_VERIFICATION"
+  ],
+  "entries": [],
+  "vex_format_version": "1.1"
+}

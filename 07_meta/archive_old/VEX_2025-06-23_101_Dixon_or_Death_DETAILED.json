@@ -1,0 +1,473 @@
+[
+  {
+    "quote": "23-06-25_10.14_Dixon or Death \u2013 101 Call Failure to Escalate Officer Conflict",
+    "tags": [
+      "OFFICER_CONFLICT_UNESCALATED"
+    ]
+  },
+  {
+    "quote": "Summary:\nBen Carter calls 101 requesting the name of his newly assigned officer following repeated failed contact since April 6th. He is told, yet again, that PC Dixon is his assigned officer\u2014despite Dixon having blocked him on WhatsApp, failed to log a suicide disclosure, and being the subject of an IOPC investigation. Ben pleads for help, but is repeatedly told his case is closed, that there are no updates, and that reporting anything further would be futile. The call handler\u2019s dismissiveness escalates Ben\u2019s emotional distress and solidifies the contradiction that Sussex Police has no working safeguarding mechanism.",
+    "tags": [
+      "SUICIDE_DISCLOSURE_IGNORED",
+      "OFFICER_CONFLICT_UNESCALATED",
+      "VICTIM_BLOCKED",
+      "FAKE_CASE_STATUS"
+    ]
+  },
+  {
+    "quote": "Key Contradictions & Systemic Failures",
+    "tags": []
+  },
+  {
+    "quote": "\ud83d\udd39 Officer Still Assigned Despite Blocking Victim",
+    "tags": []
+  },
+  {
+    "quote": "\u201cHe\u2019s blocked me.\u201d \u2013 Ben Carter\nImplication: A police officer under IOPC investigation remains assigned to a vulnerable victim he has deliberately cut off communication with.",
+    "tags": [
+      "VICTIM_BLOCKED"
+    ]
+  },
+  {
+    "quote": "\ud83d\udd39 Case Declared Closed Despite Ongoing Risk",
+    "tags": []
+  },
+  {
+    "quote": "\u201cThere isn\u2019t any updates. There isn\u2019t any outstanding.\u201d \u2013 101 Operator\nImplication: This directly contradicts other Sussex Police confirmations that Ben\u2019s case is under investigation, and that Alanna is a named suspect.",
+    "tags": []
+  },
+  {
+    "quote": "\ud83d\udd39 Suicide Risk Ignored",
+    "tags": [
+      "SUICIDE_DISCLOSURE_IGNORED"
+    ]
+  },
+  {
+    "quote": "\u201cI told Sussex Police I was suicidal and if no one got back to me by June 1st I\u2019d end my life.\u201d \u2013 Ben Carter\nImplication: No callback occurred. This implies willful institutional neglect, in violation of safeguarding protocols and the Care Act.",
+    "tags": []
+  },
+  {
+    "quote": "\ud83d\udd39 No Officer Reassigned Despite Repeated Requests",
+    "tags": []
+  },
+  {
+    "quote": "\u201cI\u2019ve asked since April 6th for a new officer.\u201d \u2013 Ben Carter\nImplication: Sussex Police has failed to act upon clear victim requests, despite legal obligations to provide updates and respect victim wishes under the Victims\u2019 Code.",
+    "tags": []
+  },
+  {
+    "quote": "\ud83d\udd39 Falsely Claimed Updates & Contact",
+    "tags": []
+  },
+  {
+    "quote": "\u201cThe last thing someone got in touch with you about was last month.\u201d \u2013 101 Operator\n\u201cNo one did.\u201d \u2013 Ben Carter\nImplication: This mismatch indicates a fabricated case record or misrepresented activity from Sussex Police.",
+    "tags": []
+  },
+  {
+    "quote": "\ud83d\udd39 Report Blockage and 101 Gaslighting",
+    "tags": []
+  },
+  {
+    "quote": "\u201cIf you're not reporting anything now I'm going to have to end this call.\u201d \u2013 101 Operator\nImplication: A systemic pattern of coercing silence through bureaucracy. Ben is not permitted to update the case if the case is falsely marked \u2018closed.\u2019",
+    "tags": []
+  },
+  {
+    "quote": "Themes:",
+    "tags": []
+  },
+  {
+    "quote": "POST_BAIL_NO_WARNING_EXPOSURE",
+    "tags": []
+  },
+  {
+    "quote": "OFFICER_CONFLICT_UNRESOLVED",
+    "tags": []
+  },
+  {
+    "quote": "SUICIDE_NOT_LOGGED",
+    "tags": [
+      "SUICIDE_DISCLOSURE_IGNORED"
+    ]
+  },
+  {
+    "quote": "SAFEGUARDING_FAILURE",
+    "tags": []
+  },
+  {
+    "quote": "POLICE_GASLIGHTING",
+    "tags": []
+  },
+  {
+    "quote": "CASE_CLOSED_MISREPRESENTATION",
+    "tags": []
+  },
+  {
+    "quote": "101_CALL_HANDLER_CONTRADICTIONS",
+    "tags": []
+  },
+  {
+    "quote": "Legal & Policy Breaches:",
+    "tags": []
+  },
+  {
+    "quote": "Victims\u2019 Code \u2013 Failure to provide timely officer updates and respect conflict-of-interest concerns.",
+    "tags": []
+  },
+  {
+    "quote": "Care Act 2014 \u2013 Ignoring repeated suicide disclosures.",
+    "tags": [
+      "SUICIDE_DISCLOSURE_IGNORED"
+    ]
+  },
+  {
+    "quote": "Mental Health Crisis Protocols \u2013 Dismissive tone and no triage escalation.",
+    "tags": []
+  },
+  {
+    "quote": "GDPR Breach (Data Subject Access Conflict) \u2013 Ben denied clarity on crime files tied to his identity.",
+    "tags": []
+  },
+  {
+    "quote": "Emotional Collapse & Forensic Impact:",
+    "tags": []
+  },
+  {
+    "quote": "Ben refers to having contacted police 45+ times with no callback.",
+    "tags": []
+  },
+  {
+    "quote": "He is told nothing is outstanding despite known new threats.",
+    "tags": []
+  },
+  {
+    "quote": "He is denied knowledge of the status of his abuser (bail, risk status).",
+    "tags": []
+  },
+  {
+    "quote": "The call ends with a complete emotional collapse: \u201cHung off a fucking gain.\u201d",
+    "tags": []
+  },
+  {
+    "quote": "Contradiction Threads Cross-Referenced:",
+    "tags": []
+  },
+  {
+    "quote": "CROWBARRING_MYSELF_JUSTICE",
+    "tags": []
+  },
+  {
+    "quote": "SUICIDE_NOT_LOGGED",
+    "tags": [
+      "SUICIDE_DISCLOSURE_IGNORED"
+    ]
+  },
+  {
+    "quote": "POLICE_GASLIGHTING",
+    "tags": []
+  },
+  {
+    "quote": "LOST_EVIDENCE_SUSSEX_POLICE",
+    "tags": []
+  },
+  {
+    "quote": "DEATH_BY_SILENCE",
+    "tags": []
+  },
+  {
+    "quote": "POST_BAIL_NO_WARNING_EXPOSURE",
+    "tags": []
+  },
+  {
+    "quote": "CRIME_REF_47240214305_THREAD",
+    "tags": []
+  },
+  {
+    "quote": "101 triage: [00:15.1] Sussex Police  how can i help",
+    "tags": []
+  },
+  {
+    "quote": "Ben Carter: [00:17.7] Hi I just need to find out my new. I've got a new police officer. I just need to find out who he is.",
+    "tags": []
+  },
+  {
+    "quote": "101 triage: [00:27.2] What's your name?",
+    "tags": []
+  },
+  {
+    "quote": "Ben Carter: [00:28.3] My name is Ben Carter.",
+    "tags": []
+  },
+  {
+    "quote": "101 triage: [00:30.9] Carter?",
+    "tags": []
+  },
+  {
+    "quote": "Ben Carter: [00:31.6] Yeah.",
+    "tags": []
+  },
+  {
+    "quote": "101 triage: [00:36.4] What's your date? Birth, Ben.",
+    "tags": []
+  },
+  {
+    "quote": "Ben Carter: [00:37.8] It's the 15-4-87.",
+    "tags": []
+  },
+  {
+    "quote": "101 triage: [00:59.8] And what is it concerning, Ben? What. What's the officer involved in with you?",
+    "tags": []
+  },
+  {
+    "quote": "101 triage: [01:05.7] Well, it's been going on since November and there's four. There's four crime numbers and I don't Know which one..",
+    "tags": []
+  },
+  {
+    "quote": "101 triage: [01:15.7] Oh, it must be this one under investigation with the crime number ending 305. Second of November.",
+    "tags": []
+  },
+  {
+    "quote": "Ben Carter: [01:23.7] Yeah. Yeah, relating to an ex partner. Yeah. Who's the officer?",
+    "tags": []
+  },
+  {
+    "quote": "101 triage: [01:29.5] Bear with me Just going into that,",
+    "tags": []
+  },
+  {
+    "quote": "101 triage: [01:37.8] it's, Officer Dixon. D, I, X, O, N.",
+    "tags": [
+      "OFFICER_CONFLICT_UNESCALATED"
+    ]
+  },
+  {
+    "quote": "Ben Carter: [01:41.9] Oh, he's blocked me. Can. Like I. I've said time and time again, can I please have an officer call, me. Since April 6th, my suicide and no one has called me and PC Dixon is still my officer. He's blocked me.",
+    "tags": [
+      "SUICIDE_DISCLOSURE_IGNORED",
+      "OFFICER_CONFLICT_UNESCALATED",
+      "VICTIM_BLOCKED"
+    ]
+  },
+  {
+    "quote": "101 triage: [02:00.5] All right, I'm going to put you.",
+    "tags": []
+  },
+  {
+    "quote": "101 triage: [02:03.7] Through to the concept sensor. Look into it further for you. One second.",
+    "tags": []
+  },
+  {
+    "quote": "Ben Carter: [02:14.5] Hiya. Since April 6th, I haven't had a police officer and PC Dixon has had hold on to my crime the whole time. I've not been able to give any updates and he still, So PC Dixon didn't log my suicide and I asked for a new officer.",
+    "tags": [
+      "SUICIDE_DISCLOSURE_IGNORED",
+      "OFFICER_CONFLICT_UNESCALATED"
+    ]
+  },
+  {
+    "quote": "Ben Carter: [02:45.3] I was promised. I've been promised since April 6, but he's still my officer, and he's blocked me on WhatsApp all right.",
+    "tags": [
+      "VICTIM_BLOCKED",
+      "REPLACEMENT_OFFICER_BROKEN_PROMISE"
+    ]
+  },
+  {
+    "quote": "101 Operator: [02:56.1] So you. You've got an ongoing case, have you?",
+    "tags": []
+  },
+  {
+    "quote": "Ben Carter: [02:59.3] Yeah, and he's still clinging on to it. And I, I never, I never get. I never get a call back. I haven't had, like.",
+    "tags": []
+  },
+  {
+    "quote": "101 Operator: [03:09.7] What's your name, please?",
+    "tags": []
+  },
+  {
+    "quote": "Ben Carter: [03:10.8] Ben Carter.",
+    "tags": []
+  },
+  {
+    "quote": "101 Operator: [03:12.9] Sorry, I didn't catch.",
+    "tags": []
+  },
+  {
+    "quote": "Ben Carter: [03:14.1] Ben Carter.",
+    "tags": []
+  },
+  {
+    "quote": "101 Operator: [03:15.9] Carter.",
+    "tags": []
+  },
+  {
+    "quote": "Ben Carter: [03:16.5] Yeah.",
+    "tags": []
+  },
+  {
+    "quote": "101 Operator: [03:17.4] Thank you. And what's your first name?",
+    "tags": []
+  },
+  {
+    "quote": "Ben Carter: [03:19.0] Ben.",
+    "tags": []
+  },
+  {
+    "quote": "101 Operator: [03:20.6] Ben. Let's have a look, Ben. Okay. What's your date of birth, please?",
+    "tags": []
+  },
+  {
+    "quote": "Ben Carter: [03:24.3] It's the 15th of April. 87:50.",
+    "tags": []
+  },
+  {
+    "quote": "101 Operator: [03:44.2] Okay. What. What do you believe you got outstanding?",
+    "tags": []
+  },
+  {
+    "quote": "Ben Carter: [03:47.8] I haven't. He's blocked me on, on WhatsApp on March 27th. I told Sussex police that I was suicidal. And if an officer didn't get back to me by June 1st, like, I'd end my life.",
+    "tags": [
+      "VICTIM_BLOCKED"
+    ]
+  },
+  {
+    "quote": "Ben Carter: [04:06.8] And I, I, I've got a, A, recording of a 101 officer saying he'll ring me or you can contact him. He's blocked me.",
+    "tags": [
+      "VICTIM_BLOCKED"
+    ]
+  },
+  {
+    "quote": "101 Operator: [04:16.9] Yeah i haven't .  got anything outstanding At the Moment",
+    "tags": []
+  },
+  {
+    "quote": "Ben Carter: [04:17.7] Sussex Police. Sussex police want me dead.",
+    "tags": [
+      "INSTITUTIONAL_FATALISM"
+    ]
+  },
+  {
+    "quote": "101 Operator: [04:22.9] What is it for you calling for today Ben? Are you reporting anything new today?",
+    "tags": []
+  },
+  {
+    "quote": "Ben Carter: [04:28.2] I've never. I haven't been able to report anything at any point. There's so much I need to report. But no officer.",
+    "tags": []
+  },
+  {
+    "quote": "101 Operator: [04:35.0] Ok you let me know",
+    "tags": []
+  },
+  {
+    "quote": "Ben Carter: [04:35.8] You can tell me?",
+    "tags": []
+  },
+  {
+    "quote": "101 Operator: [04:36.9] I can report it now for you",
+    "tags": []
+  },
+  {
+    "quote": "Ben Carter: [04:40.3] Yeah, but it, will go to PC Dixon. It won't do anything with it.",
+    "tags": [
+      "OFFICER_CONFLICT_UNESCALATED"
+    ]
+  },
+  {
+    "quote": "101 Operator: [04:43.7] No i don't know who's making that allegation",
+    "tags": []
+  },
+  {
+    "quote": "Ben Carter: [04:47.0] What updates are there on my file?",
+    "tags": []
+  },
+  {
+    "quote": "101 Operator: [04:51.6] There isn't any updates there isn't any outstanding",
+    "tags": []
+  },
+  {
+    "quote": "Ben Carter: [04:53.3] See what I mean? I. I have called.",
+    "tags": []
+  },
+  {
+    "quote": "101 Operator: [04:55.9] Ben If you're not reporting anything now I'm going to have to end this call",
+    "tags": []
+  },
+  {
+    "quote": "Ben Carter: [04:57.9] No, no. I'm stating that everything I have reported hasn't been reported.",
+    "tags": []
+  },
+  {
+    "quote": "101 Operator: [05:04.8] It has been reported and it's all closed. There isn't any outstanding.",
+    "tags": []
+  },
+  {
+    "quote": "Ben Carter: [05:08.4] Oh.",
+    "tags": []
+  },
+  {
+    "quote": "Ben Carter: [05:08.7] So.",
+    "tags": []
+  },
+  {
+    "quote": "Ben Carter: [05:09.1] So what was the last. What was the last thing reported?",
+    "tags": []
+  },
+  {
+    "quote": "101 Operator: [05:12.3] The last thing that you reported? Yeah.  When was the last thing someone an officer got in touch with you about? It was last month.",
+    "tags": []
+  },
+  {
+    "quote": "Ben Carter: [05:20.9] Right. What was it about?",
+    "tags": []
+  },
+  {
+    "quote": "101 Operator: [05:24.5] Well, Ben, I can't discuss that on the phone to you. I can't verify who you are.",
+    "tags": []
+  },
+  {
+    "quote": "Ben Carter: [05:28.1] Okay, that's fine.",
+    "tags": []
+  },
+  {
+    "quote": "101 Operator: [05:31.7] If you've got nothing to report, I'm gonna have to end this call Cos there's lots of call waiting",
+    "tags": []
+  },
+  {
+    "quote": "Ben Carter: [05:35.3] Can. Can what? What I wanted to report the other day. The fact that my abuser, is called, me up the other day, saying that I raped her and had a whole scenario. I told, I told everyone that, and I got told.",
+    "tags": [
+      "ALANNA_FALSE_ACCUSATION_BLOCKED"
+    ]
+  },
+  {
+    "quote": "101 Operator: [05:49.9] You've told us?",
+    "tags": []
+  },
+  {
+    "quote": "Ben Carter: [05:50.9] Huh?",
+    "tags": []
+  },
+  {
+    "quote": "101 Operator: [05:51.7] 'Ok you've told us You've told us that you say?",
+    "tags": []
+  },
+  {
+    "quote": "Ben Carter: [05:54.4] Yeah, I told. I told you that yesterday.",
+    "tags": []
+  },
+  {
+    "quote": "101 Operator: [05:57.4] Okay. All right.",
+    "tags": []
+  },
+  {
+    "quote": "Ben Carter: [05:59.2] See what I mean?",
+    "tags": []
+  },
+  {
+    "quote": "101 Operator: [06:00.0] I'm going to end this now because that has been reported, like you said if you've told us about it thankyou",
+    "tags": []
+  },
+  {
+    "quote": "Ben Carter: [06:02.6] No, you've just told me it's not",
+    "tags": []
+  },
+  {
+    "quote": "Ben Carter: [06:08.3] hung off a fucking gain.",
+    "tags": []
+  }
+]

@@ -1,0 +1,19 @@
+{
+  "timeline": [
+    {
+      "id": "t2_brighton_fringe_consequences#2025-05-07",
+      "title": "Public Caller Mistakes Personal Number for Fringe Hotline",
+      "date": "2025-05-07",
+      "event": "A member of the public called Ben Carter's personal number, believing it to be the official Brighton Fringe box office line. The call exposes systemic failure by the Fringe to manage performer contact and ticketing details. Carter was left absorbing collapse and confusion while being blamed for it.",
+      "tags": [
+        "OPERATIONAL_BREAKDOWN",
+        "UNLAWFUL_BURDEN_SHIFT",
+        "SAFEGUARDING_DEFLECTION",
+        "INSTITUTIONAL_ABANDONMENT"
+      ],
+      "linked_evidence": [
+        "VEX_2025-05-07_Public_Call_Reveals_Box_Office_Collapse"
+      ]
+    }
+  ]
+}

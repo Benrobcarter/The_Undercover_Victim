@@ -1,0 +1,26 @@
+{
+  "id": "VEX_28-05-2024 - Father john_OCR",
+  "type": "evidence",
+  "source": "Smart OCR Ingest",
+  "date": "DATE_NOT_FOUND",
+  "summary": "Auto-ingested from file: 28-05-2024 - Father john.pdf",
+  "meta": {
+    "original_filename": "28-05-2024 - Father john.pdf",
+    "ocr_pdf_file": "28-05-2024 - Father john_ocr.pdf",
+    "ocr_text_file": "28-05-2024 - Father john.txt",
+    "sha256": "fa7b7e7f1c714427300e7a9b88a5d3ef802992d8ed7e19b0eca464cf59b075cb",
+    "source_folder": ".",
+    "ingested_on": "2025-09-06T14:30:36.446249",
+    "ingest_method": "ocr_smart"
+  },
+  "links": {
+    "source_file_original": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_unprocessed/28-05-2024 - Father john.pdf",
+    "ocr_pdf_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_ocrd/28-05-2024 - Father john_ocr.pdf",
+    "ocr_text_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/text/28-05-2024 - Father john.txt"
+  },
+  "tags": [
+    "auto_ocr",
+    " father john",
+    "2024 "
+  ]
+}

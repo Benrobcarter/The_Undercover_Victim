@@ -1,0 +1,60 @@
+{
+  "meta": {
+    "analysis_id": "ANALYSIS_3.43_DECEMBER_EMAIL_2024-12-10",
+    "title": "3.43: The December Email: A Time Capsule of Systemic Chaos (10 December 2024)",
+    "created_at": "2025-08-25T23:43:15.345613Z",
+    "updated_at": "2025-08-25T23:43:15.345613Z",
+    "artifact_type": "analysis/write-up",
+    "is_evidence": false,
+    "source_file_name": "3.43_ The December Email_ A Time Capsule of Systemic Chaos (10 December 2024).txt",
+    "source_path": "/mnt/data/3.43_ The December Email_ A Time Capsule of Systemic Chaos (10 December 2024).txt",
+    "date_context": "2024-12-10",
+    "parties": [
+      "Ben Carter",
+      "Cordell & Co (Carolyn Whiting)"
+    ],
+    "linked_clusters": [
+      "CRIME_REF_47240214305_THREAD",
+      "DEATH_BY_SILENCE",
+      "LOST_EVIDENCE_SUSSEX_POLICE",
+      "INJURY_CLAIM_IMPACT",
+      "COURSE_OF_CONDUCT_TIMELINE_MISMATCH"
+    ],
+    "related_evidence_ids": [
+      "EVID_2024-12-12_to_19_Cordell_EmailThread_Re_converstion"
+    ],
+    "status": "draft",
+    "version": "0.1.0"
+  },
+  "narrative": {
+    "summary": "Contextual write-up explaining the use of reference 701211 and documenting the cascading impact (incl. surgery decision) amid fractured records.",
+    "highlights": [
+      {
+        "text": "I decided I couldn't have an operation which involved me being bed bound for months.",
+        "provenance": "self-authored write-up",
+        "note": "Health and civil-claim impact linked to unresolved stalking and safeguarding failures."
+      }
+    ],
+    "sections": [
+      {
+        "heading": "Why 701211?",
+        "content": "Explains the legacy reference usage and attempts to maintain continuity across fractured police records."
+      },
+      {
+        "heading": "Immediate Aftermath",
+        "content": "Points to 12–19 Dec 2024 Cordell email thread (witness, scheduling) that followed this position."
+      },
+      {
+        "heading": "Impact",
+        "content": "Details practical harms — e.g., surgery decision — and links to civil-claim consequences."
+      }
+    ]
+  },
+  "append_log": [
+    {
+      "added_at": "2025-08-25T23:43:15.345613Z",
+      "by": "system",
+      "change": "Initial creation of 3.43 analysis entry as non-evidence."
+    }
+  ]
+}

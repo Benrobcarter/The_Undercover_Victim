@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "evidence_id": "VEX_2025-05-16_101_Social_Engineering",
+    "title": "16-05-2025 — 101 Call (Social‑Engineering Method) — Pending Sourcing",
+    "created_at": "2025-08-26T00:41:49.835223Z",
+    "type": "Phone call — pending source",
+    "date_local": "2025-05-16",
+    "status": "pending_sourcing",
+    "clusters": [
+      "SUSSEX_POLICE",
+      "INFOSEC_VULNERABILITIES"
+    ]
+  },
+  "claim_summary": "Operator provided OIC name after narrative of neglect, invocation of Veritas, and emotional disclosure.",
+  "sourcing_queue": [
+    {
+      "prio": 1,
+      "need": "Raw audio/transcript + handler ID",
+      "target": "audio/CAD"
+    },
+    {
+      "prio": 2,
+      "need": "Exact quotes for disclosure moment",
+      "target": "transcript line refs"
+    }
+  ]
+}

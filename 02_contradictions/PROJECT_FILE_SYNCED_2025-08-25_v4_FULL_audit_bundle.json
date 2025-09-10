@@ -1,0 +1,75 @@
+{
+  "embedded_files": [
+    {
+      "filename": "CROSSWALK_DIGPOL_2024-12-13_batchB.json",
+      "content": {
+        "generated_at": "2025-08-25T01:44:18.419528Z",
+        "batch_label": "DigitalPolicing_Batch_2024-12-13_B",
+        "entries": [
+          {
+            "email_id": "email-2024-12-13-1303-digitalpolicing-ben",
+            "json_file": "2024-12-13_Digital-Policing_to_Ben_Jonathan-Dixon-Request_Email-7.json",
+            "pdf_target": "CRN-47240214305_DigitalPolicing_to_Ben_2024-12-13_Email-7.pdf",
+            "attachment_count": 0
+          },
+          {
+            "email_id": "email-2025-03-18-digitalpolicing-ben",
+            "json_file": "2025-03-18_Digital-Policing_to_Ben_Jonathan-Dixon-Request_Email-8.json",
+            "pdf_target": "CRN-47240214305_DigitalPolicing_to_Ben_2025-03-18_Email-8.pdf",
+            "attachment_count": 0
+          },
+          {
+            "email_id": "email-2025-04-07-1-digitalpolicing-ben",
+            "json_file": "2025-04-07_Digital-Policing_to_Ben_Jonathan-Dixon-Request_Email-9.json",
+            "pdf_target": "CRN-47240214305_DigitalPolicing_to_Ben_2025-04-07_Email-9.pdf",
+            "attachment_count": 0
+          },
+          {
+            "email_id": "email-2025-04-07-2-digitalpolicing-ben",
+            "json_file": "2025-04-07_Digital-Policing_to_Ben_Jonathan-Dixon-Request_Email-10.json",
+            "pdf_target": "CRN-47240214305_DigitalPolicing_to_Ben_2025-04-07_Email-10.pdf",
+            "attachment_count": 0
+          },
+          {
+            "email_id": "thread-2025-04-07-crn47240214305",
+            "json_file": "CRN-47240214305_DigitalPolicing_to_Ben_2025-04-07_THREAD.json",
+            "pdf_target": null,
+            "attachment_count": 0
+          }
+        ]
+      }
+    },
+    {
+      "filename": "BATCHB_consolidation_audit.json",
+      "content": {
+        "generated_at": "2025-08-25T01:44:18.419528Z",
+        "sanity": {
+          "latest_row_count": 5,
+          "consolidated_row_count": 5,
+          "missing_from_consolidated_email_ids": []
+        },
+        "notes": [
+          "Batch B includes Emails 7-10 + THREAD.",
+          "Tracker rows consolidated across Email-7 to Email-10.",
+          "PDF targets listed for each except thread JSON (no PDF)."
+        ]
+      }
+    }
+  ],
+  "last_updated": "2025-08-25T01:44:48.534488Z",
+  "errors": [
+    {
+      "file": "CROSSWALK_DIGPOL_2024-12-13_batchB.json",
+      "error": "'embeds'",
+      "trace": "Traceback (most recent call last):\n  File \"/tmp/ipykernel_11/4116941200.py\", line 40, in <module>\n    bundle[\"embeds\"][key] = content\n    ~~~~~~^^^^^^^^^^\nKeyError: 'embeds'\n"
+    },
+    {
+      "file": "BATCHB_consolidation_audit.json",
+      "error": "'embeds'",
+      "trace": "Traceback (most recent call last):\n  File \"/tmp/ipykernel_11/4116941200.py\", line 40, in <module>\n    bundle[\"embeds\"][key] = content\n    ~~~~~~^^^^^^^^^^\nKeyError: 'embeds'\n"
+    }
+  ],
+  "meta": {
+    "last_modified_at": "2025-08-25T01:44:56.839825Z"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "generated_at": "2025-08-25T01:44:18.419528Z",
+  "sanity": {
+    "latest_row_count": 5,
+    "consolidated_row_count": 5,
+    "missing_from_consolidated_email_ids": []
+  },
+  "notes": [
+    "Batch B includes Emails 7-10 + THREAD.",
+    "Tracker rows consolidated across Email-7 to Email-10.",
+    "PDF targets listed for each except thread JSON (no PDF)."
+  ]
+}

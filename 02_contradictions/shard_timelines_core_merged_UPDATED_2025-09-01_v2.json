@@ -1,0 +1,167 @@
+{
+  "timeline": [
+    {
+      "id": "t2_brighton_fringe_consequences#2025-05-07",
+      "title": "Logging Admission by Amy Keogh",
+      "date": "2025-05-07",
+      "event": "Brighton Fringe confirmed it had been logging all police reports and emails from Ben, without disclosing this previously.",
+      "linked_evidence": [
+        "EMAIL_2025-05-07_LOGGING_ADMISSION"
+      ],
+      "tags": [
+        "SAFEHARMING_LOG",
+        "SAR_STRUCTURAL_ABSENCE",
+        "SUICIDE_DISCLOSURE_USED_FOR_REMOVAL"
+      ]
+    },
+    {
+      "id": "t2_brighton_fringe_consequences#2025-05-08",
+      "title": "Unlawful Disclosure to NHS",
+      "date": "2025-05-08",
+      "event": "Brighton Fringe emailed the complainant's GP without consent, citing mental health instability and internal justifications for removal.",
+      "linked_evidence": [
+        "EMAIL_2025-05-08_GP_DISCLOSURE"
+      ],
+      "tags": [
+        "UNLAWFUL_THIRD_PARTY_HEALTH_DISCLOSURE",
+        "SUICIDE_DISCLOSURE_USED_FOR_REMOVAL"
+      ]
+    },
+    {
+      "id": "t2_brighton_fringe_consequences#2025-07-18",
+      "title": "Mass Libel Email to Artists and Clients",
+      "date": "2025-07-18",
+      "event": "Brighton Fringe emailed 160+ stakeholders to remove Ben Carter without acknowledging prior safeguarding disclosures or allowing rebuttal.",
+      "linked_evidence": [
+        "EMAIL_2025-07-18_LIBEL_EMAIL"
+      ],
+      "tags": [
+        "LIBEL_ACTION_DISGUISED_AS_NEUTRAL_UPDATE",
+        "REPUTATIONAL_HARM"
+      ]
+    },
+    {
+      "id": "t4_nhs_data_rights#2025-07-14",
+      "title": "SAR Initiated to Seven Dials Medical Centre",
+      "date": "2025-07-14",
+      "event": "Ben Carter submits a formal Subject Access Request to Seven Dials GP surgery regarding medical record manipulation and third-party disclosures.",
+      "linked_evidence": [
+        "EXHIBIT_NHS_SCREENRECORDING_0714"
+      ],
+      "tags": [
+        "RECORD_MANIPULATION_POST_DISCLOSURE",
+        "SAR_NON_RESPONSE_NHS"
+      ]
+    },
+    {
+      "id": "t4_nhs_data_rights#2025-07-16",
+      "title": "SAR Scope Clarified",
+      "date": "2025-07-16",
+      "event": "Ben clarifies that he is requesting all communication logs, edit histories, and third-party contact records. Legal SAR clock begins.",
+      "linked_evidence": [
+        "EXHIBIT_NHS_CLARIFICATION_EMAIL"
+      ],
+      "tags": [
+        "SAR_NON_RESPONSE_NHS"
+      ]
+    },
+    {
+      "id": "t4_nhs_data_rights#2025-08-16",
+      "title": "SAR Deadline Breached – No Response",
+      "date": "2025-08-16",
+      "event": "No disclosure or lawful extension notice is received. Seven Dials is now in breach of GDPR Art. 12(3) and 15.",
+      "linked_evidence": [],
+      "tags": [
+        "SAR_NON_RESPONSE_NHS"
+      ]
+    },
+    {
+      "id": "t4_nhs_data_rights#2025-08-31",
+      "title": "Final Warning + Litigation Hold Issued",
+      "date": "2025-08-31",
+      "event": "Ben issues a preservation notice and 7-day final deadline, referencing Brighton Fringe and coercion pattern.",
+      "linked_evidence": [
+        "EXHIBIT_NHS_FINAL_ESCALATION"
+      ],
+      "tags": [
+        "HEALTH_NOTE_REDACTION_FOR_COVER",
+        "THIRD_PARTY_SUPPRESSION_CHAIN"
+      ]
+    },
+    {
+      "id": "t2_brighton_fringe_consequences#2025-05-23",
+      "title": "Members of the public began calling Ben Carter directly due to Brighton Fringe’s ticketing system failure, believing his personal number was the official Fringe contact line.",
+      "date": "2025-05-23",
+      "event": "Members of the public began calling Ben Carter directly due to Brighton Fringe’s ticketing system failure, believing his personal number was the official Fringe contact line.",
+      "tags": [
+        "OPERATIONAL_BREAKDOWN",
+        "UNLAWFUL_BURDEN_SHIFT",
+        "SAFEGUARDING_DEFLECTION",
+        "INSTITUTIONAL_ABANDONMENT"
+      ],
+      "linked_evidence": [
+        "VEX_2025-05-23_Public_Confusion_Ticketing_Collapse"
+      ]
+    },
+    {
+      "id": "t2_brighton_fringe_consequences#2025-05-26",
+      "title": "Ben Carter met with the Puck venue owner to find a solution for Public Liability Insurance.",
+      "date": "2025-05-26",
+      "event": "Ben Carter met with the Puck venue owner to find a solution for Public Liability Insurance. Fringe's failure to track audience numbers made proper risk assessment impossible, undermining insurance procurement.",
+      "tags": [
+        "RISK_MANAGEMENT_BLOCKED",
+        "PLI_INACCESSIBLE",
+        "UNINSURABLE_EVENT",
+        "VENUE_SUPPORT_FAILURE"
+      ],
+      "linked_evidence": [
+        "VEX_2025-05-26_PLI_Uninsurable_Unticketed_Shows"
+      ]
+    },
+    {
+      "id": "t2_brighton_fringe_consequences#2025-05-10",
+      "title": "Screenshot from the Brighton Fringe registration portal shows Ben Carter selected 'No' to operating his own box office.",
+      "date": "2025-05-10",
+      "event": "Screenshot from the Brighton Fringe registration portal shows Ben Carter selected 'No' to operating his own box office. The system confirmed 'No further information is required,' binding Brighton Fringe to this responsibility.",
+      "tags": [
+        "CONTRACTUAL_CONFIRMATION",
+        "SYSTEMIC_BREACH_OF_DUTY",
+        "FRAUDULENT_BLAME_SHIFT",
+        "TRUST_COLLAPSE"
+      ],
+      "linked_evidence": [
+        "VEX_2025-05-10_Box_Office_Agreement_Breach"
+      ]
+    },
+    {
+      "id": "t2_brighton_fringe_consequences#2025-03-27",
+      "title": "Station Poster Co-Branding Finalised",
+      "date": "2025-03-27",
+      "event": "Ben Carter confirmed final artwork for a Brighton Station co-branded poster campaign promoting Half a Camel and Brighton Fringe. This promotional investment was later erased from institutional narrative.",
+      "tags": [
+        "COBRAND_EXPLOITATION",
+        "GOOD_FAITH_USED_AS_TRAP",
+        "REPUTATIONAL_HARM",
+        "NARRATIVE_REPLACEMENT"
+      ],
+      "linked_evidence": [
+        "VEX_2025-03-27_CoBranded_Station_Poster_Proof"
+      ]
+    },
+    {
+      "id": "t2_brighton_fringe_consequences#2025-04-23",
+      "title": "Box Office Admits System Cannot Track Capacity",
+      "date": "2025-04-23",
+      "event": "Elin Eaton, Fringe Box Office Manager, confirmed that capacity tracking was impossible for unticketed events, directly undermining risk assessments and insurance.",
+      "tags": [
+        "SYSTEMIC_FAILURE_CONFESSION",
+        "RISK_MANAGEMENT_BLOCKED",
+        "SAFEGUARDING_DEFLECTION",
+        "UNINSURABLE_EVENT"
+      ],
+      "linked_evidence": [
+        "VEX_2025-04-23_Ticketing_Admission_Elin_Eaton"
+      ]
+    }
+  ]
+}

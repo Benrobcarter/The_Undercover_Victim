@@ -1,0 +1,27 @@
+{
+  "id": "VEX_2025-05-01 verification that our venues were liable Gmail - Show changes_OCR",
+  "type": "evidence",
+  "source": "Smart OCR Ingest",
+  "date": "2025-05-01",
+  "summary": "Auto-ingested from file: 2025-05-01 verification that our venues were liable Gmail - Show changes.pdf",
+  "meta": {
+    "original_filename": "2025-05-01 verification that our venues were liable Gmail - Show changes.pdf",
+    "ocr_pdf_file": "2025-05-01 verification that our venues were liable Gmail - Show changes_ocr.pdf",
+    "ocr_text_file": "2025-05-01 verification that our venues were liable Gmail - Show changes.txt",
+    "sha256": "f12c2737112020d299667720fae0cd6fe93201c7d1ef362d20e9320aab9845be",
+    "source_folder": ".",
+    "ingested_on": "2025-09-06T22:56:13.454170",
+    "ingest_method": "ocr_smart"
+  },
+  "links": {
+    "source_file_original": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_unprocessed/2025-05-01 verification that our venues were liable Gmail - Show changes.pdf",
+    "ocr_pdf_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_ocrd/2025-05-01 verification that our venues were liable Gmail - Show changes_ocr.pdf",
+    "ocr_text_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/text/2025-05-01 verification that our venues were liable Gmail - Show changes.txt"
+  },
+  "tags": [
+    "auto_ocr",
+    "2025",
+    " show changes",
+    "01 verification that our venues were liable gmail "
+  ]
+}

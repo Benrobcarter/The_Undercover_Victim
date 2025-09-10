@@ -1,0 +1,82 @@
+{
+  "chunk": 28,
+  "time_range": "27:30-28:30",
+  "quotes": [
+    {
+      "speaker": "Ben Carter",
+      "time": "27:30",
+      "quote": "So at this point, it looks like they want it to collapse.",
+      "tags": [
+        "victim_experience",
+        "suspicion",
+        "institutional_failure"
+      ]
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "27:36",
+      "quote": "I can’t say that’s their intent, but I know that’s how it feels given the gaps.",
+      "tags": [
+        "acknowledgement",
+        "deflection",
+        "neutral_response"
+      ]
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "27:42",
+      "quote": "Feels like? It’s obvious when the same mistakes keep happening.",
+      "tags": [
+        "victim_assertion",
+        "pattern",
+        "systemic_failure"
+      ]
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "27:47",
+      "quote": "I agree the repetition is unacceptable, and I’ve raised that.",
+      "tags": [
+        "acknowledgement",
+        "advocacy",
+        "systemic_issue"
+      ]
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "27:52",
+      "quote": "Raised it isn’t the same as fixing it.",
+      "tags": [
+        "victim_experience",
+        "advocacy_gap",
+        "accountability"
+      ]
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "27:56",
+      "quote": "I know, and I wish I could give you a clear resolution right now.",
+      "tags": [
+        "acknowledgement",
+        "empathy",
+        "delay"
+      ]
+    }
+  ],
+  "contradictions": [
+    {
+      "issue": "Victim asserts systemic failure intentional; advocate avoids intent but concedes repetition is unacceptable",
+      "type": "systemic_failure_contradiction"
+    }
+  ],
+  "timeline_hooks": [
+    {
+      "ref": "case collapse suspicion",
+      "link": "Perception of institutional sabotage"
+    },
+    {
+      "ref": "repetition of mistakes",
+      "link": "Pattern of systemic safeguarding failure"
+    }
+  ]
+}

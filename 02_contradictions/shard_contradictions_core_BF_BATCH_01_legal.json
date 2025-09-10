@@ -1,0 +1,72 @@
+{
+  "contradictions": [
+    {
+      "id": "BF-CONTRA-ERASURE-BY-DESIGN-LEGAL-2025",
+      "title": "Erasure by Design – Legal Summary of Violations",
+      "claim": "Brighton Fringe acted reasonably and legally in managing a safeguarding complaint.",
+      "reality": "Brighton Fringe failed in its statutory safeguarding duty, engaged in public defamation via mass email, withheld evidence in SARs, and replaced the complainant without due governance. These actions constitute legal breaches across five statutes.",
+      "actors": [
+        "Brighton Fringe Ltd",
+        "Duncan Lustig-Prean",
+        "Amy Keogh",
+        "Alice Wright",
+        "Board of Trustees"
+      ],
+      "laws": [
+        {
+          "act": "Defamation Act 2013",
+          "section": "Serious Harm"
+        },
+        {
+          "act": "Care Act 2014",
+          "section": "42"
+        },
+        {
+          "act": "GDPR / DPA 2018",
+          "section": "Articles 5, 12, 15"
+        },
+        {
+          "act": "Charities Act 2011",
+          "section": "CC3, CC9"
+        },
+        {
+          "act": "Equality Act 2010",
+          "section": "s.15, s.26"
+        }
+      ],
+      "damages": {
+        "reputational": [
+          "Mass libel, defamatory narrative replacing safeguarding truth"
+        ],
+        "emotional": [
+          "Institutional abandonment following suicide risk disclosure"
+        ],
+        "financial": [
+          "Loss of venue access, income, brand reputation"
+        ],
+        "legal": [
+          "Basis for multiple civil and regulatory claims"
+        ]
+      },
+      "timeline_hooks": [
+        "t2_brighton_fringe_consequences#2025-07-18",
+        "t2_brighton_fringe_consequences#2025-06-09"
+      ],
+      "evidence_refs": [
+        "18-07-25_Mass_Libel_Email.pdf",
+        "The_Safeharming_Log",
+        "IC-415467-W5D3.pdf",
+        "SAR_Response_Alice_Missing.pdf"
+      ],
+      "vex_tags": [
+        "SAFEHARMING_LOG",
+        "REPUTATIONAL_HARM",
+        "DPA_GDPR",
+        "SUBSTITUTION_ERASURE",
+        "RECORD_ERASURE_AFTER_ACKNOWLEDGEMENT",
+        "PERFORMATIVE_SAFEGUARDING_ARCHIVE"
+      ],
+      "created_at": "2025-08-31T16:01:01.491545Z"
+    }
+  ]
+}

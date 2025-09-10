@@ -1,0 +1,117 @@
+{
+  "meta": {
+    "evidence_id": "VEX_2025-05-16_101_Social_Engineering_NoCrimeRef",
+    "title": "16-05-2025 — 101 Call: Leave-a-Note (No Crime Number Strategy)",
+    "created_at": "2025-08-26T00:44:26.941569Z",
+    "source_file_name": "16-05-25_02-31_101_CALL_No crime-number-strategy.txt",
+    "source_path": "/mnt/data/16-05-25_02-31_101_CALL_No crime-number-strategy.txt",
+    "source_sha256": "bb5366e94d15a986cb0c9bf0d36da0fc67abdba50dece4a4a6bd9973af148dbe",
+    "type": "Phone call transcript (101)",
+    "date_local": "2025-05-16",
+    "assumed_date_flag": false,
+    "time_local": "02:31",
+    "parties": [
+      "Ben Carter",
+      "Sussex Police 101 Call Handler (Ayrton 42755)"
+    ],
+    "clusters": [
+      "SUSSEX_POLICE",
+      "INFOSEC_VULNERABILITIES",
+      "DEATH_BY_SILENCE"
+    ],
+    "legal_mapping": [
+      "Victims’ Code — right to contact the police about the case",
+      "DPA 2018 / UK GDPR — verification when accessing case information"
+    ],
+    "undated_policy": "flag",
+    "version": "1.0.0"
+  },
+  "summary": "Caller avoids supplying a crime number and instead provides name and DOB to leave a note for the officer. The handler proceeds without a reference, illustrating a path to interaction and potential disclosure without strict record verification.",
+  "police_position": {
+    "handler_id": "Ayrton 42755",
+    "action": "Agrees to leave note for OIC using name + DOB without immediate crime reference"
+  },
+  "contradictions": [
+    {
+      "code": "WEAK_VERIFICATION",
+      "claim": "Handler accepts name and DOB in lieu of a crime reference to progress call actions.",
+      "impact": [
+        "Potential bypass of reference-based verification",
+        "Inconsistent access control"
+      ]
+    }
+  ],
+  "key_quotes": [
+    {
+      "idx": 1,
+      "line_no": 19,
+      "time": "1:41",
+      "speaker": "101 Ayrton 42755",
+      "text": ""
+    },
+    {
+      "idx": 2,
+      "line_no": 20,
+      "time": null,
+      "speaker": "Unknown",
+      "text": "Sussex police, what are you reporting?"
+    },
+    {
+      "idx": 3,
+      "line_no": 22,
+      "time": "1:43",
+      "speaker": "Ben Carter",
+      "text": ""
+    },
+    {
+      "idx": 4,
+      "line_no": 25,
+      "time": "1:47",
+      "speaker": "Ben Carter",
+      "text": ""
+    },
+    {
+      "idx": 5,
+      "line_no": 26,
+      "time": null,
+      "speaker": "Unknown",
+      "text": "leave like a note for my officer and my crime reference?"
+    },
+    {
+      "idx": 6,
+      "line_no": 28,
+      "time": "1:50",
+      "speaker": "101 Ayrton 42755",
+      "text": ""
+    },
+    {
+      "idx": 7,
+      "line_no": 31,
+      "time": "1:53",
+      "speaker": "Ben Carter",
+      "text": ""
+    },
+    {
+      "idx": 8,
+      "line_no": 32,
+      "time": null,
+      "speaker": "Unknown",
+      "text": "I can't remember it was, can I give you my name and date of birth?"
+    }
+  ],
+  "timeline_hooks": [
+    {
+      "when": "2025-05-16T02:31:00",
+      "tag": "CALL_101_NOTE_LEFT",
+      "note": "Name + DOB used to leave note without crime number"
+    }
+  ],
+  "links": {
+    "related_analysis": [
+      "/mnt/data/ANALYSIS_101_InfoSec_Vulnerabilities_SussexPolice_2025-08-26.json"
+    ],
+    "related_vex": [
+      "/mnt/data/VEX_2025-05-26_101_Strategic_Confusion.json"
+    ]
+  }
+}

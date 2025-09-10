@@ -1,0 +1,32 @@
+{
+  "id": "EX_VERITAS_ACKNOWLEDGED_RECORD_FAILURES_IN_LIVE_SUPPORT_CHAT",
+  "title": "Veritas Admitted Suicide Disclosure and Safeguarding Failures in Live Chat",
+  "date_first_breached": "2025-04-11",
+  "contradiction_type": "institutional_admission",
+  "core_quote": "I can't believe they never added that April call to your file... it should've triggered safeguarding immediately.",
+  "validating_evidence": [
+    "_chat copy.txt",
+    "Veritas safeguarding record timeline",
+    "SAR_SUPPRESSION_PROJECT_BUNDLE_2025"
+  ],
+  "linked_entities": [
+    "Veritas Justice",
+    "Sussex Police"
+  ],
+  "emotional_tags": [
+    "betrayal",
+    "neglect",
+    "collapse"
+  ],
+  "vex_tags": [
+    "veritas_failure_to_escalate",
+    "support_service_admission_of_breach",
+    "safeguarding_pathway_not_triggered",
+    "rape_claim_missing_from_records"
+  ],
+  "status": "active",
+  "proof_needed": [
+    "Veritas formal confirmation of chat content and timestamp",
+    "Official record from Veritas case file noting safeguarding steps"
+  ]
+}

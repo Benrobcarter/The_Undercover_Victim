@@ -1,0 +1,45 @@
+{
+  "project_name": "Half A Camel Forensic Evidence Archive",
+  "last_update": "2025-05-31T18:00:00Z",
+  "archives_processed": [
+    "evidence bundle a.zip",
+    "Archive 3.zip",
+    "Archive 4.zip",
+    "Archive 5.zip",
+    "project over seeer 31:05:25.zip"
+  ],
+  "evidence_counts": {
+    "contradictions": 285,
+    "safeguarding_breaches": 114,
+    "timeline_events": 231,
+    "SARs_or_disclosures": 23
+  },
+  "files_flagged_manual_review": [
+    {
+      "filename": "Letter added on 6 April 2025 (1).pdf",
+      "reason": "Safeguarding context, needs OCR/manual check"
+    },
+    {
+      "filename": "contradiction_breach_timeline_filtered.png",
+      "reason": "Possible contradiction visual, manual review required"
+    }
+  ],
+  "inventory_by_archive": {
+    "Archive 3.zip": [
+      "ALL_CONTRADICTIONS_FULL.json",
+      "distilled_transcript_evidence.json",
+      "Master_Combined_Case.json"
+    ],
+    "Archive 4.zip": [
+      "converted.json",
+      "Duncan .json"
+    ]
+  },
+  "script_version_used": "evidence_overseer_sweep_v1.0",
+  "project_integrity_notes": "All bundles cross-referenced, deduplicated. Manual review list up to date.",
+  "next_actions": [
+    "Run OCR on all flagged PDFs/images",
+    "Update the oversight file after each major evidence drop",
+    "Send oversight file to Evidence Overseer for immediate session restore"
+  ]
+}

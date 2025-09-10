@@ -1,0 +1,26 @@
+{
+  "id": "VEX_2025 04-27 at 14.24 Zoe PUCK And conditions_OCR",
+  "type": "evidence",
+  "source": "Smart OCR Ingest",
+  "date": "DATE_NOT_FOUND",
+  "summary": "Auto-ingested from file: 2025 04-27 at 14.24 Zoe PUCK And conditions.pdf",
+  "meta": {
+    "original_filename": "2025 04-27 at 14.24 Zoe PUCK And conditions.pdf",
+    "ocr_pdf_file": "2025 04-27 at 14.24 Zoe PUCK And conditions_ocr.pdf",
+    "ocr_text_file": "2025 04-27 at 14.24 Zoe PUCK And conditions.txt",
+    "sha256": "47c40a4dbe41095f42878cfa32bab08cae3215d6b5d3334dcdadf6d53f8eba65",
+    "source_folder": ".",
+    "ingested_on": "2025-09-06T23:11:55.070645",
+    "ingest_method": "ocr_smart"
+  },
+  "links": {
+    "source_file_original": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_unprocessed/2025 04-27 at 14.24 Zoe PUCK And conditions.pdf",
+    "ocr_pdf_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_ocrd/2025 04-27 at 14.24 Zoe PUCK And conditions_ocr.pdf",
+    "ocr_text_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/text/2025 04-27 at 14.24 Zoe PUCK And conditions.txt"
+  },
+  "tags": [
+    "auto_ocr",
+    "2025 04",
+    "27 at 14.24 zoe puck and conditions"
+  ]
+}

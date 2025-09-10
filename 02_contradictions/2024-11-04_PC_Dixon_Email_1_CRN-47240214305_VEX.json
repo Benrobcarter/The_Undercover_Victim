@@ -1,0 +1,151 @@
+{
+  "meta": {
+    "filename": "2024-11-04_PC_Dixon_Email_1_CRN-47240214305_VEX.json",
+    "case_reference": "47240214305",
+    "thread_label": "CRIME_REF_47240214305_THREAD",
+    "actor_cluster": [
+      "Sussex Police",
+      "PC Jon Dixon (EA817)",
+      "Ben Carter"
+    ],
+    "date_range": {
+      "start": "2024-11-04T15:31:00",
+      "end": "2024-11-04T15:31:00"
+    },
+    "source_provenance": "Email from PC Jon Dixon to Ben Carter on 4 Nov 2024 at 15:31 (provided by user)",
+    "created_at_utc": "2025-08-24T17:04:41.800267Z",
+    "vex_schema_version": "1.1"
+  },
+  "emails": [
+    {
+      "id": "email-2024-11-04-1531-dixon-ben",
+      "date": "2024-11-04T15:31:00",
+      "from": {
+        "name": "PC Jon Dixon",
+        "email": "Jon.Dixon@sussex.police.uk",
+        "badge": "EA817"
+      },
+      "to": [
+        {
+          "name": "Ben Carter",
+          "email": "benrobcarter@gmail.com"
+        }
+      ],
+      "subject_summary": "Officer in charge; bail conditions; evidence request; NICE link offer",
+      "body": "Hi Ben\nI am the officer in charge for your case with Sussex Police, ref 47240214305\nTo update you, the suspect was interviewed (they denied the allegation). They have been released with conditions not\nto contact you directly or indirectly and not to go to your address. Obviously, this works both ways so please refrain\nfrom contacting her as well.\nI will update you as the case progresses, but for the next month or two at least we will be awaiting results of the\nsuspect’s seized mobile phone examination.\nI contacted you and left a voicemail earlier in regard to yourself sending across evidence that had been requested by\nattending officers. Can you confirm you can still do this and then I can send a NICE upload link across to you.\nRegards\nPC DIXON\nEA817",
+      "attachments": [],
+      "labels": [
+        "Police Communication",
+        "Bail Conditions",
+        "Evidence Intake",
+        "NICE Link (promised)"
+      ]
+    }
+  ],
+  "vex": [
+    {
+      "email_id": "email-2024-11-04-1531-dixon-ben",
+      "sentence_tags": [
+        {
+          "text": "I am the officer in charge for your case with Sussex Police, ref 47240214305",
+          "tags": [
+            "AUTHORITY_ASSERTION",
+            "CASE_REFERENCE_CONFIRMATION"
+          ],
+          "notes": "Confirms OIC and anchors to CRN."
+        },
+        {
+          "text": "To update you, the suspect was interviewed (they denied the allegation).",
+          "tags": [
+            "STATUS_UPDATE",
+            "SUSPECT_DENIAL_RECORDED"
+          ],
+          "notes": "Procedural status."
+        },
+        {
+          "text": "They have been released with conditions not to contact you directly or indirectly and not to go to your address.",
+          "tags": [
+            "BAIL_CONDITIONS",
+            "VICTIM_PROTECTION_ASSERTED"
+          ]
+        },
+        {
+          "text": "Obviously, this works both ways so please refrain from contacting her as well.",
+          "tags": [
+            "RECIPROCITY_LANGUAGE",
+            "POTENTIAL_VICTIM_NEUTRALISATION"
+          ],
+          "notes": "Frames parity; track later misuse to neutralise victim reports."
+        },
+        {
+          "text": "I will update you as the case progresses, but for the next month or two at least we will be awaiting results of the suspect’s seized mobile phone examination.",
+          "tags": [
+            "PROMISE_TO_UPDATE",
+            "FORECAST_DELAY",
+            "EVIDENCE_PROCESSING_DELAY"
+          ]
+        },
+        {
+          "text": "I contacted you and left a voicemail earlier in regard to yourself sending across evidence that had been requested by attending officers.",
+          "tags": [
+            "EVIDENCE_REQUEST",
+            "CONTACT_ATTEMPT"
+          ]
+        },
+        {
+          "text": "Can you confirm you can still do this and then I can send a NICE upload link across to you.",
+          "tags": [
+            "NICE_LINK_PROMISED",
+            "EVIDENCE_INTAKE_PROCESS"
+          ],
+          "notes": "This becomes a contradiction anchor if links fail/are limited later."
+        }
+      ]
+    }
+  ],
+  "contradiction_links": [
+    {
+      "id": "SP-CONTRA-NICE-LINK-INTAKE-BARRIERS-2024-11",
+      "claim": "Police facilitated smooth evidence upload via NICE link.",
+      "reality": "Later emails show size/limit barriers and repeated requests for additional links.",
+      "laws_breached": [
+        "Victims’ Code 2020 (Right to supply evidence; clear communication)"
+      ],
+      "damages": [
+        "Emotional",
+        "Strategic"
+      ],
+      "status": "Provisional (anchor created by this email)"
+    },
+    {
+      "id": "SP-CONTRA-PROMISE-TO-UPDATE-DELAY-2024-11",
+      "claim": "Police would update victim during forensic wait.",
+      "reality": "Subsequent chain evidences long periods without updates, requiring the victim to chase.",
+      "laws_breached": [
+        "Victims’ Code 2020 (Right to be kept informed)"
+      ],
+      "damages": [
+        "Emotional"
+      ]
+    }
+  ],
+  "timeline_hooks": [
+    {
+      "phase": "Investigation Start / Evidence Intake",
+      "date": "2024-11-04",
+      "events": [
+        "OIC confirmation and bail conditions set out.",
+        "NICE link promised for evidence intake.",
+        "Expectation of forensic delay communicated."
+      ],
+      "related_threads": [
+        "CRIME_REF_47240214305_THREAD",
+        "DEATH_BY_SILENCE"
+      ]
+    }
+  ],
+  "damages_summary": {
+    "emotional": "Reciprocity line risks victim-neutralising tone; uncertainty introduced by long forensic wait.",
+    "strategic": "Evidence handoff contingent on functioning NICE link; later barriers could impair case."
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "contradiction_clusters": [
+    {
+      "id": "CLUSTER_SUSSEX_POLICE_TIMELINE_MANIPULATION",
+      "title": "Sussex Police Timeline Manipulation & Institutional Record Tampering",
+      "cluster_type": "contradiction_cluster",
+      "date_range": {
+        "start": "2025-04-17",
+        "end": "2025-08-25"
+      },
+      "tags": [
+        "timeline_manipulation",
+        "record_erasure",
+        "cover_up",
+        "psd_misconduct",
+        "suicide_disclosure_reframed",
+        "death_by_silence",
+        "data_protection_failure"
+      ],
+      "timelines_linked": [
+        "DEATH_BY_SILENCE",
+        "INSTITUTIONAL_ALIGNMENT",
+        "LOST_EVIDENCE_SUSSEX_POLICE",
+        "PSD_ERASURE",
+        "CROWBARRING_MYSELF_JUSTICE",
+        "CRIME_REF_47240214305_THREAD",
+        "FRACTURED_TIMELINE",
+        "PREPARING_FOR_WAR"
+      ],
+      "summary": "This cluster consolidates forensic proof that Sussex Police systematically altered or erased timeline events, case ownerships, and safeguarding records between April and August 2025. The manipulation includes: assigning a decoy officer to misdirect oversight (PC Russell), issuing false closure statuses while retaining conflicted OICs (Dixon), suppressing victim safeguarding disclosures, and relying on alibis, absences, and VRR deflection to obstruct review. Multiple 101 calls and emails reveal a strategic erasure of responsibility, culminating in emotional collapse and a provable safeguarding failure.",
+      "primary_evidence": [
+        "VEX_2025-06-18_INVISIBLE_PROBE",
+        "VEX_2025-07-05_2141_Jesse_101_Call",
+        "CONTRA_2025-06-22_HUMILIATION_PROTOCOL",
+        "VEX_2025-06-23_DIXON_OR_DEATH",
+        "CROWBARRING_MYSELF_JUSTICE_MASTER_ENTRY",
+        "CONTRA_PROBE_RUSSELL_DIVERSION",
+        "CONTRA_HOLIDAY_ALIBI_FULL",
+        "VEX_2025-07-04_StJohnStreet_FrontDesk",
+        "VEX_VERITAS_WHATSAPP_A10",
+        "VEX_2025-05-12_VERITAS_BAIL_SUPPORT_LETTER",
+        "CONTRA_VERITAS_SAR_2025-08-25"
+      ],
+      "implications": {
+        "victims_code_breach": true,
+        "gdpr_failure": true,
+        "psd_obstruction": true,
+        "evidence_suppression": true,
+        "safeguarding_omission": true
+      },
+      "status": "active",
+      "last_updated": "2025-09-09",
+      "created_by": "ben.carter",
+      "linked_cluster_files": [
+        "SUSSEX_POLICE_TIMELINE_MANIPULATION_PACK_v1.9.json",
+        "STATUS_REPORT_2025-09-05.json",
+        "merge_log_2025-09-05_11-59-29.txt"
+      ]
+    }
+  ]
+}

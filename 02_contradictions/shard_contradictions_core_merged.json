@@ -1,0 +1,237 @@
+{
+  "contradictions": [
+    {
+      "id": "BF-CONTRA-SAR-GDPR-BREACH-2025",
+      "title": "SAR Submission & Anticipated GDPR Breaches",
+      "claim": "Brighton Fringe is processing personal data lawfully and transparently in compliance with GDPR.",
+      "reality": "Subject Access Request submitted 19 August 2025 includes documented health breaches, logging without consent, unlawful disclosure to NHS, and withheld trustee records. Fringe is expected to omit named actors like Alice Wright and decision trails that justify removal.",
+      "actors": [
+        "Brighton Fringe Trustees",
+        "Amy Keogh",
+        "Alice Wright",
+        "Duncan Lustig-Prean"
+      ],
+      "laws": [
+        {
+          "act": "UK GDPR",
+          "section": "Article 5(1)(a)",
+          "why": "Breach of lawfulness, fairness, and transparency"
+        },
+        {
+          "act": "UK GDPR",
+          "section": "Article 15",
+          "why": "Failure to provide data upon request"
+        },
+        {
+          "act": "Data Protection Act 2018",
+          "section": "s.45",
+          "why": "Subject Access Request statute"
+        },
+        {
+          "act": "Data Protection Act 2018",
+          "section": "s.173",
+          "why": "Criminal offence to destroy/alter post-SAR"
+        }
+      ],
+      "damages": {
+        "emotional": [
+          "Data used to justify removal",
+          "Health info shared without consent"
+        ],
+        "legal": [
+          "SAR may expose concealment pattern across governance"
+        ]
+      },
+      "timeline_hooks": [
+        "t2_brighton_fringe_consequences#2025-08-19"
+      ],
+      "evidence_refs": [
+        "SAR_2025-08-19_BF_MAIN_SUBMISSION",
+        "EXHIBIT_A_LOGGING_ADMISSION",
+        "EXHIBIT_D_GP_DISCLOSURE"
+      ],
+      "vex_tags": [
+        "UNLAWFUL_THIRD_PARTY_HEALTH_DISCLOSURE",
+        "SUICIDE_DISCLOSURE_USED_FOR_REMOVAL",
+        "SAR_STRUCTURAL_ABSENCE",
+        "GOVERNANCE_ERASURE"
+      ],
+      "created_at": "2025-08-31T16:01:01.491545Z"
+    },
+    {
+      "id": "BF-CONTRA-SAR-GDPR-BREACH-2025",
+      "title": "SAR Submission & Anticipated GDPR Breaches",
+      "claim": "Brighton Fringe is processing personal data lawfully and transparently in compliance with GDPR.",
+      "reality": "Subject Access Request submitted 19 August 2025 includes documented health breaches, logging without consent, unlawful disclosure to NHS, and withheld trustee records. Fringe is expected to omit named actors like Alice Wright and decision trails that justify removal.",
+      "actors": [
+        "Brighton Fringe Trustees",
+        "Amy Keogh",
+        "Alice Wright",
+        "Duncan Lustig-Prean"
+      ],
+      "laws": [
+        {
+          "act": "UK GDPR",
+          "section": "Article 5(1)(a)",
+          "why": "Breach of lawfulness, fairness, and transparency"
+        },
+        {
+          "act": "UK GDPR",
+          "section": "Article 15",
+          "why": "Failure to provide data upon request"
+        },
+        {
+          "act": "Data Protection Act 2018",
+          "section": "s.45",
+          "why": "Subject Access Request statute"
+        },
+        {
+          "act": "Data Protection Act 2018",
+          "section": "s.173",
+          "why": "Criminal offence to destroy/alter post-SAR"
+        }
+      ],
+      "damages": {
+        "emotional": [
+          "Data used to justify removal",
+          "Health info shared without consent"
+        ],
+        "legal": [
+          "SAR may expose concealment pattern across governance"
+        ]
+      },
+      "timeline_hooks": [
+        "t2_brighton_fringe_consequences#2025-08-19"
+      ],
+      "evidence_refs": [
+        "SAR_2025-08-19_BF_MAIN_SUBMISSION",
+        "EXHIBIT_A_LOGGING_ADMISSION",
+        "EXHIBIT_D_GP_DISCLOSURE"
+      ],
+      "vex_tags": [
+        "UNLAWFUL_THIRD_PARTY_HEALTH_DISCLOSURE",
+        "SUICIDE_DISCLOSURE_USED_FOR_REMOVAL",
+        "SAR_STRUCTURAL_ABSENCE",
+        "GOVERNANCE_ERASURE"
+      ],
+      "created_at": "2025-08-31T16:01:01.491545Z"
+    },
+    {
+      "id": "BF-CONTRA-LIBEL-REPLACEMENT-INTENT-2025",
+      "title": "Libel Broadcast and 'Finding Someone New' \u2014 Replacement Intent",
+      "claim": "Brighton Fringe sent a neutral update to stakeholders regarding venue operations.",
+      "reality": "On 18 July 2025, Brighton Fringe sent a mass email libelling Ben Carter as \u201cabusive,\u201d \u201cunfit,\u201d and \u201cnot a safe person to work with,\u201d while simultaneously signalling a replacement. This email was sent to over 160+ artists, misrepresented safeguarding disclosures, and omitted legal context.",
+      "actors": [
+        "Brighton Fringe",
+        "Duncan Lustig-Prean"
+      ],
+      "laws": [
+        {
+          "act": "Defamation Act 2013",
+          "section": "Serious Harm",
+          "why": "Mass publication of libel"
+        },
+        {
+          "act": "Charities Act 2011",
+          "section": "CC9",
+          "why": "Misuse of board authority"
+        }
+      ],
+      "damages": {
+        "reputational": [
+          "Severe damage to professional standing across client base"
+        ],
+        "emotional": [
+          "Distress following public invalidation of safeguarding claims"
+        ],
+        "financial": [
+          "Loss of future bookings and venue collapse"
+        ]
+      },
+      "timeline_hooks": [
+        "t2_brighton_fringe_consequences#0718"
+      ],
+      "evidence_refs": [
+        "18-07-25_Mass_Libel_Email",
+        "Index_01_All_July\u2019s_Email_Claims_Disputed"
+      ],
+      "created_at": "2025-08-31T16:01:01.491545Z"
+    },
+    {
+      "id": "BF-CONTRA-LOGGED-WORSE-THAN-NOT-LOGGED-2025",
+      "title": "Safeharming \u2014 Logging the Risk, Choosing Inaction",
+      "claim": "Brighton Fringe could not have known Ben Carter was at risk.",
+      "reality": "Duncan Lustig-Prean and Amy Keogh confirmed they had been logging all messages, including those disclosing mental health crisis and suicidal thoughts. Yet no action was taken. This turns silence into intent.",
+      "actors": [
+        "Brighton Fringe",
+        "Trustees"
+      ],
+      "laws": [
+        {
+          "act": "Care Act 2014",
+          "section": "42",
+          "why": "Safeguarding risk not acted upon"
+        },
+        {
+          "act": "Human Rights Act 1998",
+          "section": "Art.2",
+          "why": "Failure to uphold right to life"
+        }
+      ],
+      "damages": {
+        "medical": [
+          "Exacerbated suicide risk due to inaction"
+        ],
+        "emotional": [
+          "Feelings of abandonment and betrayal by institution"
+        ]
+      },
+      "timeline_hooks": [
+        "t2_brighton_fringe_consequences#0609"
+      ],
+      "evidence_refs": [
+        "fringe_safeguarding_meeting_deepdive_writeup",
+        "The_Safeharming_Log"
+      ],
+      "created_at": "2025-08-31T16:01:01.491545Z"
+    },
+    {
+      "id": "BF-CONTRA-NO-RECORD-OF-ALLEGATIONS-2025",
+      "title": "No Record of Allegations \u2014 Governance Gaslighting",
+      "claim": "Brighton Fringe had no record of safeguarding allegations.",
+      "reality": "After receiving forwarded emails, police screenshots, and disclosures, Brighton Fringe still claimed to have 'no record of allegations' from the victim. This appears to be a deflection strategy and contradiction of internal knowledge.",
+      "actors": [
+        "Brighton Fringe",
+        "Amy Keogh"
+      ],
+      "laws": [
+        {
+          "act": "Data Protection Act 2018",
+          "section": "Art.5",
+          "why": "Failure to accurately process safeguarding data"
+        },
+        {
+          "act": "Care Act 2014",
+          "section": "42",
+          "why": "Omission of risk disclosures"
+        }
+      ],
+      "damages": {
+        "reputational": [
+          "Discrediting of victim\u2019s account"
+        ],
+        "legal": [
+          "Potential breach of data transparency obligations"
+        ]
+      },
+      "timeline_hooks": [
+        "t2_brighton_fringe_consequences#0712"
+      ],
+      "evidence_refs": [
+        "IC-415467-W5D3",
+        "recent_disclosure_deepdive_writeup"
+      ],
+      "created_at": "2025-08-31T16:01:01.491545Z"
+    }
+  ]
+}

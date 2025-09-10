@@ -1,0 +1,30 @@
+{
+  "brighton_fringe": {
+    "created_at": "2025-08-31T16:01:01.491545Z",
+    "contradictions": [],
+    "evidence": [
+      {
+        "id": "SAR_2025-08-19_BF_MAIN_SUBMISSION",
+        "title": "Formal SAR – Brighton Fringe Ltd. (19 Aug 2025)",
+        "path": "/mnt/data/BF_SAR_INGESTED_2025/sar_tracker_brighton_fringe.json",
+        "sha256": "532674afdccd5fc13be139462166869242531af2d40d4f1283e29b8c23f97543",
+        "notes": "Full scope SAR citing GDPR Art. 15, DPA s.45, includes Annex A"
+      },
+      {
+        "id": "EXHIBIT_A_LOGGING_ADMISSION",
+        "title": "All Communications Logged – Admission Email",
+        "path": "/mnt/data/BF_SAR_INGESTED_2025/exhibit_manifest_BF_SAR.json",
+        "sha256": "253e1c59341d9281b22dbea72e88bfda4d02f0864d451883633f7ea78a6f453e",
+        "notes": "Logged safeguarding disclosures without action"
+      },
+      {
+        "id": "EXHIBIT_D_GP_DISCLOSURE",
+        "title": "Confidential GP Disclosure Email – Amy Keogh (8 May 2025)",
+        "path": "/mnt/data/BF_SAR_INGESTED_2025/exhibit_manifest_BF_SAR.json",
+        "sha256": "253e1c59341d9281b22dbea72e88bfda4d02f0864d451883633f7ea78a6f453e",
+        "notes": "Unlawful third-party disclosure of health data"
+      }
+    ],
+    "timelines": []
+  }
+}

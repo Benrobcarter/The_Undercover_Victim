@@ -1,0 +1,55 @@
+{
+  "id": "SUSSEX_POLICE_SAFEGUARDING_BREAKDOWN_MAY_2025",
+  "submitted_by": "Ben Carter",
+  "date_submitted": "2025-05-09",
+  "linked_case_ids": [
+    "CIT1201684",
+    "47240214305",
+    "SAR_SUSSEXPOLICE_20250408"
+  ],
+  "key_failures": {
+    "victim_notification": {
+      "description": "Victim was not informed of No Further Action (NFA) decision. Learned via perpetrator.",
+      "breach": "Victims' Code Chapter 2.11 & 3.3",
+      "offender": "PC Jon Dixon",
+      "date_discovered": "2025-04-27"
+    },
+    "suicide_logging": {
+      "description": "No record of suicide attempt on April 6 was logged or responded to by Sussex Police.",
+      "breach": "Safeguarding duty; possible breach of Article 2 and 8 of ECHR",
+      "date_reported": "2025-04-08"
+    },
+    "sar_obstruction": {
+      "description": "SAR submitted on April 8 still unfulfilled; no lawful extension issued.",
+      "breach": "UK GDPR Articles 12(3), 15; Human Rights Act 1998",
+      "linked_json": "SAR_SUSSEXPOLICE_OBSTRUCTION_20250408.json"
+    },
+    "case_timeline_tampering": {
+      "description": "User was asked to resubmit July 2024 call evidence, but then told case only covers post-November 2024.",
+      "implication": "Evidence manipulation or deletion suspected",
+      "notes": "Conflict between verbal request and internal case record boundaries"
+    },
+    "officer_reassignment_ignored": {
+      "description": "Repeated safeguarding-based requests for reassignment from PC Dixon and Sgt Duffy ignored.",
+      "breach": "Safeguarding & misconduct oversight failure",
+      "note": "Reported by both user and Veritas Justice"
+    }
+  },
+  "public_statement_summary": "Sussex Police failed to notify Ben Carter of an NFA decision in a case where he was the victim, allowing the perpetrator to deliver the news. No contact was made after a suicide attempt. A SAR was obstructed, and evidence was reportedly lost, then excluded from the timeline entirely. All attempts to reassign officers involved in misconduct were ignored.",
+  "safeguarding_tags": [
+    "SAFEGUARDING_BREAKDOWN",
+    "NFA_WITHOUT_NOTIFICATION",
+    "SUICIDE_DISCLOSURE_MISSED",
+    "IOPC_ESCALATION",
+    "EVIDENCE_SUPPRESSION",
+    "DIXON_CONTINUED_INVOLVEMENT"
+  ],
+  "related_contacts": [
+    "Veritas Justice",
+    "Jon Dixon",
+    "Sussex Police SAR Unit",
+    "Sussex Police Professional Standards"
+  ],
+  "status": "Escalated \u2013 Awaiting IOPC response",
+  "created_at": "2025-06-03T22:13:58.290412"
+}

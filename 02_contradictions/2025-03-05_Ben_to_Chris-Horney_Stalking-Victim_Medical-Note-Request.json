@@ -1,0 +1,181 @@
+{
+  "meta": {
+    "filename": "2025-03-05_Ben_to_Chris-Horney_Stalking-Victim_Medical-Note-Request.json",
+    "case_reference": "47240214305",
+    "thread_label": "CRIME_REF_47240214305_THREAD/MEDICAL_EVIDENCE_REQUEST",
+    "actor_cluster": [
+      "Ben Carter",
+      "PC Jon Dixon (EA817)",
+      "NHS (Allied Medical Practice, Seven Dials Medical Centre)",
+      "Chris Horney",
+      "Hayley Wood"
+    ],
+    "date_range": {
+      "start": "2025-03-05T23:39:00",
+      "end": "2025-03-06T11:34:00"
+    },
+    "source_provenance": "Email thread: Ben Carter → Chris Horney (05 Mar 2025 23:39), reply from Chris Horney (06 Mar 2025 11:34, CC Hayley Wood).",
+    "created_at_utc": "2025-08-24T20:41:53Z",
+    "vex_schema_version": "1.1",
+    "human_exhibit_name": "CRN-47240214305_Ben_to_Chris-Horney_05-Mar-2025_Email-TBD.pdf"
+  },
+  "emails": [
+    {
+      "id": "email-2025-03-05-2339-ben-horney",
+      "date": "2025-03-05T23:39:00",
+      "from": {
+        "name": "Ben Carter",
+        "email": "benrobcarter@gmail.com"
+      },
+      "to": [
+        {
+          "name": "Chris Horney (Seven Dials/School House Surgery)",
+          "email": "chris.horney1@nhs.net"
+        }
+      ],
+      "subject_summary": "Stalking Victim — request for mental health notes or doctor's letter with timeline",
+      "body": "Hey Chris I’ve been the victim of a stalker for the past year, prior to that we were off and on together since lockdown ended. I’ve been asked if you’d be able to provide evidence of any mental health–based write-ups from this time. They need some sort of official doctor’s note preferably with a timeline, or if I could just have all my medical notes. It’s become a very serious case. I’m really unwell from all this and have become completely isolated. I don’t think I’m allowed or really want to go into detail, but just anything that’s mental health based and signed off officially I guess is what they’re after. It’s finally going to court after all this time and they’re just collecting everything I guess to prove the effect it’s had on me and for the timeline I have provided.\n\nThank you in advance\nBen Carter\nDOB: 15/04/10987\nTel: 07812766495\nAddress: 26 Old Shoreham Road, BN1 5DD",
+      "attachments": [],
+      "labels": [
+        "Medical Evidence Request",
+        "Victim Isolation",
+        "Court Preparation",
+        "Mental Health Documentation"
+      ]
+    },
+    {
+      "id": "email-2025-03-06-1134-horney-ben",
+      "date": "2025-03-06T11:34:00",
+      "from": {
+        "name": "Chris Horney",
+        "email": "chris.horney1@nhs.net"
+      },
+      "to": [
+        {
+          "name": "Ben Carter",
+          "email": "benrobcarter@gmail.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Hayley Wood (Seven Dials Medical Centre - Ops Manager)",
+          "email": "hayley.wood19@nhs.net"
+        }
+      ],
+      "subject_summary": "Re: Stalking Victim — redirect to operations manager / admin team",
+      "body": "Good Morning Ben.\nI am sorry to hear about your situation. I no longer work at Seven Dials Medical Centre so I would be able to assist you with this request. I have CC’d in the new operations manager who is best suited to assist you with your request.\n\nI would suggest you reach out directly to Hayley Wood (cc’d) or you could email Seven Dials admin team; Sxicb-bh.sevendialsmedicalcentre@nhs.net.\n\nKind Regards,\nChris Horney\nPractice Manager, Allied Medical Practice (School House Surgery and Church Surgery)\nwww.alliedmedicalpractice.org.uk\n[Standard NHSmail disclaimer follows]",
+      "attachments": [],
+      "labels": [
+        "NHS Referral/Redirection",
+        "Contact Update",
+        "Operations Manager Escalation"
+      ]
+    }
+  ],
+  "vex": [
+    {
+      "email_id": "email-2025-03-05-2339-ben-horney",
+      "sentence_tags": [
+        {
+          "text": "I’ve been asked if you’d be able to provide evidence of any mental health–based write-ups from this time.",
+          "tags": [
+            "MEDICAL_NOTE_REQUEST",
+            "EVIDENCE_SOURCE_MEDICAL"
+          ],
+          "notes": "Establishes that an external requestor (police/court) is seeking medical evidence."
+        },
+        {
+          "text": "They need some sort of official doctor’s note preferably with a timeline, or if I could just have all my medical notes.",
+          "tags": [
+            "TIMELINE_REQUEST",
+            "FULL_MEDICAL_NOTES_REQUEST"
+          ],
+          "notes": "Scope is potentially very broad; risk of over-collection."
+        },
+        {
+          "text": "I’m really unwell from all this and have become completely isolated.",
+          "tags": [
+            "VICTIM_HARM",
+            "VICTIM_ISOLATION"
+          ],
+          "notes": "Harm/impact statement relevant to damages."
+        },
+        {
+          "text": "It’s finally going to court after all this time and they’re just collecting everything.",
+          "tags": [
+            "COURT_PREPARATION",
+            "EVIDENCE_COLLECTION_BROAD"
+          ],
+          "notes": "Signals breadth of collection, echoing prior issues with overbroad asks."
+        }
+      ]
+    },
+    {
+      "email_id": "email-2025-03-06-1134-horney-ben",
+      "sentence_tags": [
+        {
+          "text": "I no longer work at Seven Dials Medical Centre… I have CC’d the new operations manager.",
+          "tags": [
+            "CONTACT_CHANGE",
+            "NHS_ESCALATION_PATH"
+          ],
+          "notes": "Provides correct route for medical records requests."
+        }
+      ]
+    }
+  ],
+  "contradiction_links": [
+    {
+      "id": "SP-CONTRA-RESUB-4Y-2025-03",
+      "claim": "Police required focused, relevant evidence only.",
+      "reality": "Victim is prompted to request broad medical records/timeline from GP (consistent with 4-year scope in adjacent emails), despite earlier claims that narrow, recent material was sufficient.",
+      "laws_breached": [
+        "Victims' Code 2020 (Right to information & proportionate requests)"
+      ],
+      "damages": [
+        "Emotional",
+        "Strategic"
+      ]
+    },
+    {
+      "id": "SP-CONTRA-NICE-LINK-LIMITS-CASCADE-2024-11_to_2025-03",
+      "claim": "Evidence intake systems were adequate and timely.",
+      "reality": "Earlier NICE-link capacity issues forced alternative routes (e.g., Google Drive), while broader medical requests continued; creates impression of shifting burdens onto victim.",
+      "laws_breached": [
+        "Victims' Code 2020 (Right to supply evidence without obstruction)"
+      ],
+      "damages": [
+        "Emotional",
+        "Strategic"
+      ]
+    }
+  ],
+  "timeline_hooks": [
+    {
+      "phase": "Investigation – Medical Evidence Sourcing",
+      "date": "2025-03-05",
+      "events": [
+        "Ben requests mental-health documentation and/or full notes from GP for court/investigation timeline.",
+        "Next-day response redirects him to Operations Manager/Admin team at Seven Dials Medical Centre."
+      ],
+      "related_threads": [
+        "CRIME_REF_47240214305_THREAD",
+        "MEDICAL_EVIDENCE_REQUEST"
+      ]
+    }
+  ],
+  "damages_summary": {
+    "emotional": "Stress from sourcing sensitive medical information while isolated.",
+    "strategic": "Broad requests risk over-collection and delays, especially after prior intake barriers.",
+    "reputational": "Sensitive health data circulation increases exposure risk without clear minimisation."
+  },
+  "qa": {
+    "checks": [
+      "date_present",
+      "case_ref_present",
+      "exhibit_named",
+      "attachments_indexed"
+    ],
+    "status": "pending"
+  }
+}

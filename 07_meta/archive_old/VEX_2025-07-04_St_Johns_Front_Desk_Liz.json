@@ -1,0 +1,4565 @@
+{
+  "meta": {
+    "source_file_name": "4 July 2025 (Two Interactions).txt",
+    "source_sha256": "0202b4682e25b1fb78721beacbafc912c41b80c10495165028c5373dcbb4c7d2",
+    "created_at": "2025-08-25T22:31:20.258500Z",
+    "event_id": "A08",
+    "assumed_date_flag": true,
+    "crime_refs_mentioned": [
+      "47240141246",
+      "47240214305"
+    ],
+    "actors_detected": [
+      "ACTOR::BEN_CARTER",
+      "ACTOR::DIXON",
+      "ACTOR::DUFFY",
+      "ACTOR::FRONT_DESK_LIZ",
+      "ACTOR::GASSON",
+      "ACTOR::PALMER"
+    ],
+    "summary_counts": {
+      "lines": 331,
+      "contradiction_hits": 0,
+      "logged_mentions": 5,
+      "november_mentions": 4
+    },
+    "recommended_next_actions": [
+      "Request audit/chronology export (create/modify/link actions) for relevant crime refs",
+      "Obtain CAD/event IDs for dates mentioned (22 Jun 2025; 24 Jul 2024; 2 Nov 2024)",
+      "Confirm OIC assignment via .eml with full headers",
+      "Preserve/attach original audio WAV + hashes aligned to transcript"
+    ]
+  },
+  "entries": [
+    {
+      "line_index": 1,
+      "quote": "\ufeff4 July 2025 (Two Interactions)",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 2,
+      "quote": "1. \ud83d\udcde 101 Call \u2013 Crime Number Confusion & Obstruction",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER",
+        "TIMELINE::CRIME_REF_NUM"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 3,
+      "quote": "* Sussex Police confirmed two active crime numbers involving Alanna:",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 4,
+      "quote": "   * 47240141246 \u2013 Original stalking case",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER",
+        "TIMELINE::CRIME_REF_NUM"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 5,
+      "quote": "   * 47240214305 \u2013 New threats, reported May 2025",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER",
+        "TIMELINE::CRIME_REF_NUM"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 6,
+      "quote": "      * Officer in charge confirmed as PC Aaron Gasson \u2014 but I was never notified.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER",
+        "ACTOR::GASSON"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 7,
+      "quote": "      * I had to chase and identify my own case details and was told contradictory things about case status, dates, and whether updates were logged.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER",
+        "TIMELINE::LOGGED_ENTRY"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [
+        "Recording & audit accuracy"
+      ],
+      "notes": []
+    },
+    {
+      "line_index": 8,
+      "quote": "      * Police admitted a threat reported on 22 June 2025 was logged but refused to provide any update \u2014 breaching my data rights as the victim.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER",
+        "TIMELINE::DATE_JUN22_2025",
+        "TIMELINE::LOGGED_ENTRY"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [
+        {
+          "type": "logged_confirmation",
+          "details": "22 Jun 2025 report logged"
+        }
+      ],
+      "emotions": {},
+      "legal_refs": [
+        "Recording & audit accuracy"
+      ],
+      "notes": []
+    },
+    {
+      "line_index": 9,
+      "quote": "      * I was also told the CPS would only be involved after a case is built \u2014 despite being informed by Veritas that CPS attended the 29 April Stalking Clinic, two days after Alanna was told \"no further action\".",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 10,
+      "quote": "2. \ud83c\udfe2 In-Person Visit \u2013 St John's Street Front Desk (Liz)",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER",
+        "ACTOR::FRONT_DESK_LIZ"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 11,
+      "quote": "         * I brought ID (passport) to verify myself, having been repeatedly blocked by GDPR excuses on 101.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 12,
+      "quote": "         * Liz confirmed:",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER",
+        "ACTOR::FRONT_DESK_LIZ"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 13,
+      "quote": "            * 4 crime numbers are active",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 14,
+      "quote": "            * One was improperly filed without follow-up",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 15,
+      "quote": "            * I\u2019ve had multiple changes in OIC without being notified",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 16,
+      "quote": "            * Sergeant Duffy is supervising PC Gasson, just as he did with PC Dixon \u2014 the officer who failed to log my suicide",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER",
+        "ACTOR::DIXON",
+        "ACTOR::DUFFY",
+        "ACTOR::GASSON",
+        "RISK::SUICIDE_REF"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 17,
+      "quote": "            * Case dates are being manipulated: police now claim my first report was 18 November 2024, when I have evidence it was 2 November (\u201cX Won\u2019t Leave Me Alone\u201d \u2013 NICE link)",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER",
+        "RECORDS::LINKED_CASES",
+        "TIMELINE::MONTH_NOV"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [
+        "Recording & audit accuracy"
+      ],
+      "notes": []
+    },
+    {
+      "line_index": 18,
+      "quote": "               * I explicitly requested help lodging my Victim\u2019s Right to Review. Liz confirmed this could not be done at the desk and that I needed to speak to my OIC \u2014 who has never called me since April.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER",
+        "ACTOR::FRONT_DESK_LIZ"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 19,
+      "quote": "               * Liz acknowledged no officer has responded since my April 6 suicide attempt. When I explained I had been trying to reach someone ever since, she apologized but was unable to explain the pattern of silence.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER",
+        "ACTOR::FRONT_DESK_LIZ",
+        "RISK::SUICIDE_REF"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 20,
+      "quote": "________________",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 21,
+      "quote": "\u26a0\ufe0f Ongoing Misconduct Themes",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 22,
+      "quote": "Allegation",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 23,
+      "quote": "\tDescription",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 24,
+      "quote": "\tWithholding Case Updates",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 25,
+      "quote": "\tI was never informed of No Further Action. I only learned of it through threats made by my abuser.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 26,
+      "quote": "\tEvidence Obstruction",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 27,
+      "quote": "\tAudio, videos, and major events (like the 22 June rape accusation) have not been acknowledged or reviewed.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 28,
+      "quote": "\tOIC Misdirection",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 29,
+      "quote": "\tOfficers keep changing (Dixon, Russell, Gasson), yet I am never informed of these transitions or given any continuity of contact.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER",
+        "ACTOR::DIXON",
+        "ACTOR::GASSON"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 30,
+      "quote": "\tSafeguarding Neglect",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 31,
+      "quote": "\tNo contact from any officer since my suicide attempt on 6 April 2025. Police did not act on known suicide risk.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER",
+        "RISK::SUICIDE_REF"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 32,
+      "quote": "\tSupervisor Looping",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 33,
+      "quote": "\tSergeant Duffy is repeatedly involved in all cases, despite being directly responsible for prior failures.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER",
+        "ACTOR::DUFFY"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 34,
+      "quote": "\tStart Date Manipulation",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 35,
+      "quote": "\tThe crime is now logged as starting on 18 Nov \u2014 excluding my original 2 Nov report and the threats that followed.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER",
+        "TIMELINE::LOGGED_ENTRY"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [
+        "Recording & audit accuracy"
+      ],
+      "notes": []
+    },
+    {
+      "line_index": 36,
+      "quote": "\tVRR Blockage",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 37,
+      "quote": "\tI have been unable to submit a Victim\u2019s Right to Review, despite multiple attempts via phone, station visit, and email.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 38,
+      "quote": "\t________________",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 39,
+      "quote": "\ud83c\udfaf Relief Requested from the IOPC",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 40,
+      "quote": "                  1. Immediate investigation into why Sussex Police withheld NFA notification from me as the victim.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 41,
+      "quote": "                  2. Clarification of which crime numbers are live, which have been improperly filed, and why dates have been manipulated.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 42,
+      "quote": "                  3. Confirmation of when and how CPS was briefed, and why I was denied access to VRR.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 43,
+      "quote": "                  4. Disciplinary review of officers involved in obstructing contact and failing to follow up on suicide risk.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER",
+        "RISK::SUICIDE_REF"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 44,
+      "quote": "                  5. Intervention to secure proper Victim's Right to Review with CPS for the original and ongoing cases.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 45,
+      "quote": "[Ben Carter: 00:00.5] Hi. I popped in because I keep ringing 101, but they can't tell who I am due to GDPR And I bought my passport and things.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 46,
+      "quote": "[LIz Front Desk St Johns Street: 00:12.0] Right.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER",
+        "ACTOR::FRONT_DESK_LIZ"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 47,
+      "quote": "[Ben Carter: 00:12.5] So just so you can tell, like.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 48,
+      "quote": "[LIz Front Desk St Johns Street: 00:14.9] What is it you need from me?",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER",
+        "ACTOR::FRONT_DESK_LIZ"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 49,
+      "quote": "[Ben Carter: 00:17.2] So I've got a new officer. And I just need to talk to them or talk to someone about,",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 50,
+      "quote": "[LIz Front Desk St Johns Street: 00:27.1] Someone you can talk to me.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER",
+        "ACTOR::FRONT_DESK_LIZ"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 51,
+      "quote": "[Ben Carter: 00:28.3] Oh, yeah, yeah. Brilliant. So I've, That's my details. Ben Carter.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 52,
+      "quote": "[LIz Front Desk St Johns Street: 00:34.1] Yeah. Well, I can see you anyway.",
+      "speaker": "Sussex Police Front Desk (Liz)",
+      "tags": [
+        "ACTOR::BEN_CARTER",
+        "ACTOR::FRONT_DESK_LIZ"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 53,
+      "quote": "[Ben Carter: 00:35.6] Yeah, yeah, yeah, yeah. It's weird not doing it on gdpr. It's hard to prove you are",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 54,
+      "quote": "[LIz Front Desk St Johns Street: 00:40.6] So is it Ben? Benjamin?",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER",
+        "ACTOR::FRONT_DESK_LIZ"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 55,
+      "quote": "[Ben Carter: 00:43.1] Benjamin. Yeah.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 56,
+      "quote": "[LIz Front Desk St Johns Street: 00:45.1] You like Benjamin, do you?",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER",
+        "ACTOR::FRONT_DESK_LIZ"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 57,
+      "quote": "[Ben Carter: 00:46.4] No, I wanted to change my name to Benedick, but.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 58,
+      "quote": "[LIz Front Desk St Johns Street: 00:51.3] That's nice I like Benadic",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER",
+        "ACTOR::FRONT_DESK_LIZ"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 59,
+      "quote": "[Ben Carter: 00:51.3] It fits",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 60,
+      "quote": "[LIz Front Desk St Johns Street: 00:53.9] [laughs]",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER",
+        "ACTOR::FRONT_DESK_LIZ"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 61,
+      "quote": "[Ben Carter: 00:58.9] My mom said. Yeah, do what you like.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 62,
+      "quote": "[LIz Front Desk St Johns Street: 01:02.3] Okay, so we know that's you. What do you want from us?",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER",
+        "ACTOR::FRONT_DESK_LIZ"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 63,
+      "quote": "[Ben Carter: 01:05.1] That's. That's my crime.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 64,
+      "quote": "[LIz Front Desk St Johns Street: 01:06.7] Okay.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER",
+        "ACTOR::FRONT_DESK_LIZ"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 65,
+      "quote": "[Ben Carter: 01:10.7] But I spoke to someone earlier because that's may, the 19th Yeah, but see that, See that number?",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 66,
+      "quote": "[LIz Front Desk St Johns Street: 01:21.0] Yeah.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER",
+        "ACTOR::FRONT_DESK_LIZ"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 67,
+      "quote": "[Ben Carter: 01:21.4] That stated last year.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 68,
+      "quote": "[LIz Front Desk St Johns Street: 01:24.3] What number?",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER",
+        "ACTOR::FRONT_DESK_LIZ"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 69,
+      "quote": "[Ben Carter: 01:25.5] The 474725. Oh, no. Is this. Yeah, sorry. It's just for some reason I've got a new officer and there's two crime numbers.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 70,
+      "quote": "[LIz Front Desk St Johns Street: 01:37.8] Okay.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER",
+        "ACTOR::FRONT_DESK_LIZ"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 71,
+      "quote": "[Ben Carter: 01:38.3] But there wasn't, what's it called? C.A.D You know, when there's any.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 72,
+      "quote": "[LIz Front Desk St Johns Street: 01:45.5] Yeah, yeah, yeah, yeah. So what's your question today, Ben?",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER",
+        "ACTOR::FRONT_DESK_LIZ"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 73,
+      "quote": "[Ben Carter: 01:49.2] Well, I just want to know what's going on, really, because I. I keep calling 101 and there seems to be a lot.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 74,
+      "quote": "[LIz Front Desk St Johns Street: 01:56.8] So you ask for an update and they can't give it to you.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER",
+        "ACTOR::FRONT_DESK_LIZ"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 75,
+      "quote": "[Ben Carter: 01:58.1] Yeah. So I've come all the way here just to sort of like,",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 76,
+      "quote": "[LIz Front Desk St Johns Street: 02:02.5] Oh dear",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER",
+        "ACTOR::FRONT_DESK_LIZ"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 77,
+      "quote": "[Ben Carter: 02:03.2] they said I might be able to, speak to something like. Yeah, I don't have to speak to the officer because, like, I forget their name. Starts with a G.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 78,
+      "quote": "[LIz Front Desk St Johns Street: 02:14.6] Don't worry. I can look all that up.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER",
+        "ACTOR::FRONT_DESK_LIZ"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 79,
+      "quote": "[Ben Carter: 02:16.4] Oh, thank you.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 80,
+      "quote": "[LIz Front Desk St Johns Street: 02:17.1] So you just need an update, don't you?",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER",
+        "ACTOR::FRONT_DESK_LIZ"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 81,
+      "quote": "[Ben Carter: 02:18.8] Yeah. There's also another crime. But apparently they're both the same, even though.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 82,
+      "quote": "[LIz Front Desk St Johns Street: 02:25.2] So they're linked.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER",
+        "ACTOR::FRONT_DESK_LIZ",
+        "RECORDS::LINKED_CASES"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [
+        "Recording & audit accuracy"
+      ],
+      "notes": []
+    },
+    {
+      "line_index": 83,
+      "quote": "[Ben Carter: 02:26.6] Yeah, but they shouldn't be linked to me then.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER",
+        "RECORDS::LINKED_CASES"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [
+        "Recording & audit accuracy"
+      ],
+      "notes": []
+    },
+    {
+      "line_index": 84,
+      "quote": "[LIz Front Desk St Johns Street: 02:29.0] Yeah that would be obvious to me On the system.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER",
+        "ACTOR::FRONT_DESK_LIZ"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 85,
+      "quote": "[Ben Carter: 02:31.4] I just thought they shouldn't be linked because that one's, a different crime. That one's a different crime.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER",
+        "RECORDS::LINKED_CASES"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [
+        "Recording & audit accuracy"
+      ],
+      "notes": []
+    },
+    {
+      "line_index": 86,
+      "quote": "[LIz Front Desk St Johns Street: 02:38.2] What is this?",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER",
+        "ACTOR::FRONT_DESK_LIZ"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 87,
+      "quote": "[Ben Carter: 02:39.8] That one's for, this guy called Duncan. I can never pronounce his name. It's stalking and harassment. They both are.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 88,
+      "quote": "[LIz Front Desk St Johns Street: 02:48.5] Right. By the same person.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER",
+        "ACTOR::FRONT_DESK_LIZ"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 89,
+      "quote": "[Ben Carter: 02:50.8] No, different people. Yeah, I know. Please don't stalk me. Everyone does.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 90,
+      "quote": "[LIz Front Desk St Johns Street: 02:55.9] Yeah, sorry to hear that. Let me go and have a look at this.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER",
+        "ACTOR::FRONT_DESK_LIZ"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 91,
+      "quote": "[Ben Carter: 02:59.8] Yeah. Thank you. Cheers.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 92,
+      "quote": "[LIz Front Desk St Johns Street: 03:25.4] So I've had a really quick look through this case that you give Me. The number for. I can see that that's been filed pending if there was more evidence in the future.",
+      "speaker": "Sussex Police Front Desk (Liz)",
+      "tags": [
+        "ACTOR::BEN_CARTER",
+        "ACTOR::FRONT_DESK_LIZ"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 93,
+      "quote": "[Ben Carter: 03:37.5] Oh, okay.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 94,
+      "quote": "[LIz Front Desk St Johns Street: 03:38.5] So.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER",
+        "ACTOR::FRONT_DESK_LIZ"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 95,
+      "quote": "[Ben Carter: 03:39.1] Yeah. Okay.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 96,
+      "quote": "[LIz Front Desk St Johns Street: 03:40.4] I noticed you've been dealing with Alan Russell.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER",
+        "ACTOR::FRONT_DESK_LIZ"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 97,
+      "quote": "[Ben Carter: 03:42.8] No, I've never met him.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 98,
+      "quote": "[LIz Front Desk St Johns Street: 03:44.3] Okay, so he signed your letter.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER",
+        "ACTOR::FRONT_DESK_LIZ"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 99,
+      "quote": "[Ben Carter: 03:47.2] Yeah, that's what I thought was really strange. I had a video call.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 100,
+      "quote": "[LIz Front Desk St Johns Street: 03:52.4] Yeah.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER",
+        "ACTOR::FRONT_DESK_LIZ"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 101,
+      "quote": "[Ben Carter: 03:52.9] And then,",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 102,
+      "quote": "[Ben Carter: 03:57.3] So my original one. So who. Who's the, officer on my, like, ongoing case, which.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 103,
+      "quote": "[LIz Front Desk St Johns Street: 04:07.8] Because there is a. There's a few there. Which. Which is it? Which one is it that you think is,",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER",
+        "ACTOR::FRONT_DESK_LIZ"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 104,
+      "quote": "[Ben Carter: 04:12.8] I'm asking, you like, I've tried so many times. 101. I'm here now. Could you please tell me?",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 105,
+      "quote": "[LIz Front Desk St Johns Street: 04:17.5] Yeah, I'll go and have another look.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER",
+        "ACTOR::FRONT_DESK_LIZ"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 106,
+      "quote": "[Ben Carter: 04:18.8] Yeah, please. Thank you.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 107,
+      "quote": "[Ben Carter: 04:41.2] Yeah, yeah.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 108,
+      "quote": "[LIz Front Desk St Johns Street: 04:42.9] That's the right reference number for the conversation you have with that call taker.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER",
+        "ACTOR::FRONT_DESK_LIZ"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 109,
+      "quote": "[Ben Carter: 04:47.8] What, the cad?",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 110,
+      "quote": "[LIz Front Desk St Johns Street: 04:48.9] Yeah. No, well, no, the crime reference.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER",
+        "ACTOR::FRONT_DESK_LIZ"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 111,
+      "quote": "[Ben Carter: 04:51.2] Oh, so I've got a new one.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 112,
+      "quote": "[LIz Front Desk St Johns Street: 04:53.7] No, that's the case. The stalking case.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER",
+        "ACTOR::FRONT_DESK_LIZ"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 113,
+      "quote": "[Ben Carter: 04:59.6] It's not my original one. The original one with.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 114,
+      "quote": "[LIz Front Desk St Johns Street: 05:02.2] That's what I'm looking at now. That's what you were talking about with the court.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER",
+        "ACTOR::FRONT_DESK_LIZ"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 115,
+      "quote": "[Ben Carter: 05:05.9] How. How many have I got then? How many crimes?",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 116,
+      "quote": "[LIz Front Desk St Johns Street: 05:10.7] That's the one that's being investigated.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER",
+        "ACTOR::FRONT_DESK_LIZ"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 117,
+      "quote": "[Ben Carter: 05:13.2] Okay, so who's the suspect?",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 118,
+      "quote": "[LIz Front Desk St Johns Street: 05:16.2] What's happened? That call taker. I know they probably told you they couldn't tell you anything, but actually, he. Or she.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER",
+        "ACTOR::FRONT_DESK_LIZ"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 119,
+      "quote": "[Ben Carter: 05:24.2] She",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 120,
+      "quote": "[LIz Front Desk St Johns Street: 05:24.9] She. Yeah, she did quite a lot of work on it, so.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER",
+        "ACTOR::FRONT_DESK_LIZ"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 121,
+      "quote": "[Ben Carter: 05:28.9] Oh, did she? Oh, okay.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 122,
+      "quote": "[LIz Front Desk St Johns Street: 05:30.3] And one of the things she did.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER",
+        "ACTOR::FRONT_DESK_LIZ"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 123,
+      "quote": "[Ben Carter: 05:31.8] Yeah.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 124,
+      "quote": "[LIz Front Desk St Johns Street: 05:33.6] Something called sending a task Sending a task through our system.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER",
+        "ACTOR::FRONT_DESK_LIZ"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 125,
+      "quote": "[Ben Carter: 05:35.6] Right. Okay.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 126,
+      "quote": "[LIz Front Desk St Johns Street: 05:36.6] You can tak officers Task officers. Which is us being really bossy. Yeah. To do this, mate. And she's done that to the officer in charge of this case.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER",
+        "ACTOR::FRONT_DESK_LIZ"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 127,
+      "quote": "[Ben Carter: 05:45.5] Oh, okay.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 128,
+      "quote": "[LIz Front Desk St Johns Street: 05:46.2] Seeming as you had lots of questions. She wasn't able to help you. Can this officer call you? And she's given them number of 078-12-766495.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER",
+        "ACTOR::FRONT_DESK_LIZ"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 129,
+      "quote": "[Ben Carter: 05:57.8] Oh, a phone number.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 130,
+      "quote": "[LIz Front Desk St Johns Street: 05:59.2] That's your number.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER",
+        "ACTOR::FRONT_DESK_LIZ"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 131,
+      "quote": "[Ben Carter: 06:00.4] Okay. Yeah. So who. Who's the.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 132,
+      "quote": "[Ben Carter: 06:10.9] Who's the. I'm the victim.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 133,
+      "quote": "[LIz Front Desk St Johns Street: 06:14.7] Do you want to know who's the suspect?",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER",
+        "ACTOR::FRONT_DESK_LIZ"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 134,
+      "quote": "[Ben Carter: 06:15.8] Yeah, yeah, yeah, yeah. And if She's on bail because I haven't been told",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 135,
+      "quote": "[LIz Front Desk St Johns Street: 06:29.6] It.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER",
+        "ACTOR::FRONT_DESK_LIZ"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 136,
+      "quote": "[LIz Front Desk St Johns Street: 06:46.3] So, that's Alanna.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER",
+        "ACTOR::FRONT_DESK_LIZ"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 137,
+      "quote": "[Ben Carter: 06:47.2] Alanna. Yeah. Yeah.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 138,
+      "quote": "[LIz Front Desk St Johns Street: 06:49.2] So the officer in charge will contact.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER",
+        "ACTOR::FRONT_DESK_LIZ"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 139,
+      "quote": "[Ben Carter: 06:51.9] You, but is she on bail?",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 140,
+      "quote": "[LIz Front Desk St Johns Street: 06:55.8] I'm afraid. Can't tell you anything about another person. The officer in charge needs to give you that information.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER",
+        "ACTOR::FRONT_DESK_LIZ"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 141,
+      "quote": "[Ben Carter: 07:01.6] Oh, okay. Can you tell me why this one was filed when the investigation. The Investigating officer will be in contact, and they never were.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 142,
+      "quote": "[LIz Front Desk St Johns Street: 07:12.0] Right. So I need To also get that OIC to contact you, don't I?",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER",
+        "ACTOR::FRONT_DESK_LIZ"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 143,
+      "quote": "[Ben Carter: 07:16.2] Yeah.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 144,
+      "quote": "[LIz Front Desk St Johns Street: 07:16.6] So they haven't been in touch?",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER",
+        "ACTOR::FRONT_DESK_LIZ"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 145,
+      "quote": "[Ben Carter: 07:18.0] No. Like,",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 146,
+      "quote": "[LIz Front Desk St Johns Street: 07:19.0] I'm sorry about that.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER",
+        "ACTOR::FRONT_DESK_LIZ"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 147,
+      "quote": "[Ben Carter: 07:20.5] And, so",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 148,
+      "quote": "[LIz Front Desk St Johns Street: 07:21.5] maybe they haven't got around.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER",
+        "ACTOR::FRONT_DESK_LIZ"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 149,
+      "quote": "[Ben Carter: 07:24.4] Could I also. Can I. Can I do it here? My victim's right to review.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 150,
+      "quote": "[LIz Front Desk St Johns Street: 07:32.1] No, you need to speak to the officer. You need to speak.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER",
+        "ACTOR::FRONT_DESK_LIZ"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 151,
+      "quote": "[Ben Carter: 07:34.9] Yeah, but they won't ring me. Since April 6th, I, haven't had a call from anyone.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 152,
+      "quote": "[LIz Front Desk St Johns Street: 07:40.6] They haven't had an ear bashing from me yet",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER",
+        "ACTOR::FRONT_DESK_LIZ"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 153,
+      "quote": "[Ben Carter: 07:42.1] Yeah, well, what's your name?",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 154,
+      "quote": "[LIz Front Desk St Johns Street: 07:43.5] My name's Liz.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER",
+        "ACTOR::FRONT_DESK_LIZ"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 155,
+      "quote": "[Ben Carter: 07:44.2] Oh, you're lovely, Liz.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER",
+        "ACTOR::FRONT_DESK_LIZ"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 156,
+      "quote": "[LIz Front Desk St Johns Street: 07:46.6] Don't worry. We'll get to the bottom of this.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER",
+        "ACTOR::FRONT_DESK_LIZ"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 157,
+      "quote": "[Ben Carter: 07:48.3] But honestly, since my suicide on April 6, no one's called me.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER",
+        "RISK::SUICIDE_REF"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 158,
+      "quote": "[LIz Front Desk St Johns Street: 07:51.9] I saw about that. I'm so sorry. How are you?",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER",
+        "ACTOR::FRONT_DESK_LIZ"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 159,
+      "quote": "[Ben Carter: 07:55.7] I'm good.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 160,
+      "quote": "[LIz Front Desk St Johns Street: 07:56.6] Still worried,",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER",
+        "ACTOR::FRONT_DESK_LIZ"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 161,
+      "quote": "[Ben Carter: 07:57.6] like. Yeah. But like, it's really nice. And like, I'm not saying, like. I know you'll do the best you can.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 162,
+      "quote": "[LIz Front Desk St Johns Street: 08:11.2] I will.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER",
+        "ACTOR::FRONT_DESK_LIZ"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 163,
+      "quote": "[Ben Carter: 08:12.5] But I. I know. Oh, could I ask who, their supervisor is?",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 164,
+      "quote": "[LIz Front Desk St Johns Street: 08:17.2] Yeah. Of this case.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER",
+        "ACTOR::FRONT_DESK_LIZ"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 165,
+      "quote": "[Ben Carter: 08:22.6] Yeah, I know the other ones.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 166,
+      "quote": "[LIz Front Desk St Johns Street: 08:26.3] Or give me the letter.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER",
+        "ACTOR::FRONT_DESK_LIZ"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 167,
+      "quote": "[Ben Carter: 08:27.4] Yeah.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 168,
+      "quote": "[LIz Front Desk St Johns Street: 08:27.7] And I'll write.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER",
+        "ACTOR::FRONT_DESK_LIZ"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 169,
+      "quote": "[Ben Carter: 08:35.8] a 1, 2 ,3 [I wrote sergant Duffy on a bit of paper she saw it]",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER",
+        "ACTOR::DUFFY"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 170,
+      "quote": "[LIz Front Desk St Johns Street: 08:37.1] This Alan mentioned here.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER",
+        "ACTOR::FRONT_DESK_LIZ"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 171,
+      "quote": "[Ben Carter: 08:39.8] Yeah.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 172,
+      "quote": "[LIz Front Desk St Johns Street: 08:40.3] Is the officer in charge of that case and his.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER",
+        "ACTOR::FRONT_DESK_LIZ"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 173,
+      "quote": "[Ben Carter: 08:44.3] I was told that was, Sergeant Duffy.",
+      "speaker": "Ben Carter",
+      "tags": [
+        "ACTOR::BEN_CARTER",
+        "ACTOR::DUFFY"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 174,
+      "quote": "[LIz Front Desk St Johns Street: 08:47.5] No, I've just checked.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER",
+        "ACTOR::FRONT_DESK_LIZ"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 175,
+      "quote": "[Ben Carter: 08:48.7] Oh, okay. But, but, but what about,",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 176,
+      "quote": "[LIz Front Desk St Johns Street: 08:51.4] The the OIC can can change throughout.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER",
+        "ACTOR::FRONT_DESK_LIZ"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 177,
+      "quote": "[08:53.1] [a letter from PC Russell, saying he'd be in touch, no follow up but a change of OIC for a case that's been filed, due to no follow up, it's not even coecion any more, someone give me a call arrange to meet up and talk about, I understand why it was originally covered up, they know I know everything, it's almost as bad as the Brighton Fringe, I take that back that was mean]",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 178,
+      "quote": "[Ben Carter: 08:53.7] Yeah, yeah, yeah, yeah.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 179,
+      "quote": "[LIz Front Desk St Johns Street: 08:54.5] But supervisor for Alex. For Alan Russell is Alexis Whittake. [Lie]",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER",
+        "ACTOR::FRONT_DESK_LIZ"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 180,
+      "quote": "[Ben Carter: 08:59.5] But. But that one's finished.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 181,
+      "quote": "[LIz Front Desk St Johns Street: 09:01.4] Yeah.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER",
+        "ACTOR::FRONT_DESK_LIZ"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 182,
+      "quote": "[Ben Carter: 09:01.8] Who's the supervisor for the one we.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 183,
+      "quote": "[LIz Front Desk St Johns Street: 09:03.7] Were just talking about?",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER",
+        "ACTOR::FRONT_DESK_LIZ"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 184,
+      "quote": "[Ben Carter: 09:04.5] Well, for the one that's still going. On,",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 185,
+      "quote": "[LIz Front Desk St Johns Street: 09:06.8] I'll write it on there. Information to listen.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER",
+        "ACTOR::FRONT_DESK_LIZ"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 186,
+      "quote": "[Ben Carter: 09:09.1] I've already written it. I think I know who it is. [Sergeabt Duffy note]",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER",
+        "ACTOR::DUFFY"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 187,
+      "quote": "[LIz Front Desk St Johns Street: 09:31.7] Okay. So the OIC for this case. So this is the person I'm going to email.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER",
+        "ACTOR::FRONT_DESK_LIZ"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 188,
+      "quote": "[Ben Carter: 09:36.0] Oh, wow. I've got different one is Aaron Guessing.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 189,
+      "quote": "[LIz Front Desk St Johns Street: 09:40.0] Aaron Gaston's supervisor is Sergeant Duffy, but Aaron Gasson is the officer in charge.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER",
+        "ACTOR::DUFFY",
+        "ACTOR::FRONT_DESK_LIZ",
+        "ACTOR::GASSON"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 190,
+      "quote": "[Ben Carter: 09:48.6] Right.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 191,
+      "quote": "[LIz Front Desk St Johns Street: 09:49.2] So that's who I'm going to email tonight.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER",
+        "ACTOR::FRONT_DESK_LIZ"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 192,
+      "quote": "[Ben Carter: 09:52.0] Is there any other. Like, is Sussex Police just Sergeant Duffy and Inspector Palmer?",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER",
+        "ACTOR::DUFFY",
+        "ACTOR::PALMER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 193,
+      "quote": "[LIz Front Desk St Johns Street: 10:03.6] Nope There are hundreds of them",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER",
+        "ACTOR::FRONT_DESK_LIZ"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 194,
+      "quote": "[Ben Carter: 10:05.6] Could I please have a different one?",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 195,
+      "quote": "[LIz Front Desk St Johns Street: 10:09.5] ahhh No, that's not how it works.So",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER",
+        "ACTOR::FRONT_DESK_LIZ"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 196,
+      "quote": "[Ben Carter: 10:12.4] it's just randomly. It's always them. Because, PC Dixon didn't log my suicide. So I. I got a new officer.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER",
+        "ACTOR::DIXON",
+        "RISK::SUICIDE_REF"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 197,
+      "quote": "[LIz Front Desk St Johns Street: 10:21.7] Okay.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER",
+        "ACTOR::FRONT_DESK_LIZ"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 198,
+      "quote": "[Ben Carter: 10:22.2] He works with Sergeant Duffy.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER",
+        "ACTOR::DUFFY"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 199,
+      "quote": "[LIz Front Desk St Johns Street: 10:23.9] Right. Which is a seperate supervisor.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER",
+        "ACTOR::FRONT_DESK_LIZ"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 200,
+      "quote": "[Ben Carter: 10:27.0] Yeah. So it's the same person saying. Yes. Okay. Yes. They're working together now I've got someone else. Like, it's I. I can. I know exactly what's going on.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 201,
+      "quote": "[LIz Front Desk St Johns Street: 10:38.5] I know Aaron Gibson.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER",
+        "ACTOR::FRONT_DESK_LIZ"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 202,
+      "quote": "[Ben Carter: 10:40.2] Yeah, yeah, yeah, I'm sure he is, but,",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 203,
+      "quote": "[Ben Carter: 10:46.8] Sergeant Duffy hasn't, called me since April 6th.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER",
+        "ACTOR::DUFFY"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 204,
+      "quote": "[LIz Front Desk St Johns Street: 10:51.7] He wouldn't get involved.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER",
+        "ACTOR::FRONT_DESK_LIZ"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 205,
+      "quote": "[Ben Carter: 10:53.6] Generally, Sussex. Sussex police haven't got involved.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 206,
+      "quote": "[LIz Front Desk St Johns Street: 10:57.9] Yeah, but that's Aaron Gasson that you need to speak to. And that's who I'm going to email now. Give me a chance to sort this out for you. You're willing to give that a go?",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER",
+        "ACTOR::FRONT_DESK_LIZ",
+        "ACTOR::GASSON"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 207,
+      "quote": "[Ben Carter: 11:07.0] If it goes through Sergeant Duffy. He's ignored every single cry for help.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER",
+        "ACTOR::DUFFY"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 208,
+      "quote": "[LIz Front Desk St Johns Street: 11:13.8] It doesn't go through him. Well, he's the guy who sits at the top. He doesn't individually.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER",
+        "ACTOR::FRONT_DESK_LIZ"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 209,
+      "quote": "[Ben Carter: 11:18.3] No, Inspector Palmer sits at the top.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER",
+        "ACTOR::PALMER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 210,
+      "quote": "[LIz Front Desk St Johns Street: 11:21.0] He doesn't individually look at these cases.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER",
+        "ACTOR::FRONT_DESK_LIZ"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 211,
+      "quote": "[Ben Carter: 11:22.7] Yes, he does. Yes, he does. It goes OIC to the sergeant. They say it's okay, and then it goes back to the oic. If the OIC is a different one, it goes straight back up to Inspector Palmer, like Alan Russell was.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER",
+        "ACTOR::PALMER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 212,
+      "quote": "[LIz Front Desk St Johns Street: 11:35.5] Let me speak to Aaron Gasson on your behalf.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER",
+        "ACTOR::FRONT_DESK_LIZ",
+        "ACTOR::GASSON"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 213,
+      "quote": "[Ben Carter: 11:38.7] Okay, thank you.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 214,
+      "quote": "[LIz Front Desk St Johns Street: 11:39.5] Ask him to call you. Leave it with me. Let me have a go at least have a go",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER",
+        "ACTOR::FRONT_DESK_LIZ"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 215,
+      "quote": "[Ben Carter: 11:44.6] Also, do you know when the, crime's starting from?",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 216,
+      "quote": "[LIz Front Desk St Johns Street: 11:47.6] Like, the date that you reported, do you mean?",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER",
+        "ACTOR::FRONT_DESK_LIZ"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 217,
+      "quote": "[Ben Carter: 11:51.4] Yeah. July. Thank you.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 218,
+      "quote": "[Ben Carter: 11:57.7] Could you also see the last thing I logged, please? The last thing I logged the lot. Thank you.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER",
+        "TIMELINE::LOGGED_ENTRY"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [
+        "Recording & audit accuracy"
+      ],
+      "notes": []
+    },
+    {
+      "line_index": 219,
+      "quote": "[Ben Carter: 12:15.0] And. And also, if I've uploaded any videos or audio, please see",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 220,
+      "quote": "[LIz Front Desk St Johns Street: 12:20.4] that. I'm afraid I can't",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER",
+        "ACTOR::FRONT_DESK_LIZ"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 221,
+      "quote": "[Ben Carter: 12:26.1] Who can.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 222,
+      "quote": "[LIz Front Desk St Johns Street: 12:31.6] Okay, Ben, so the last thing that you reported was on the 16th of May this year. And that's the reference number for it.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER",
+        "ACTOR::FRONT_DESK_LIZ"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 223,
+      "quote": "[Ben Carter: 12:39.3] What. What did.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 224,
+      "quote": "[LIz Front Desk St Johns Street: 12:40.2] I was about the people that you were working with at the Fringe?",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER",
+        "ACTOR::FRONT_DESK_LIZ"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 225,
+      "quote": "[Ben Carter: 12:44.3] No, that. That. That was for the one that's now been finished",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 226,
+      "quote": "[LIz Front Desk St Johns Street: 12:47.1] Okay, that was the last thing you reported, which is what you asked me to find out.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER",
+        "ACTOR::FRONT_DESK_LIZ"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 227,
+      "quote": "[Ben Carter: 12:51.6] Okay.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 228,
+      "quote": "[LIz Front Desk St Johns Street: 12:52.5] Okay.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER",
+        "ACTOR::FRONT_DESK_LIZ"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 229,
+      "quote": "[Ben Carter: 12:53.2] And. And the first thing.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 230,
+      "quote": "[LIz Front Desk St Johns Street: 12:56.3] The first thing what? The first thing this year or the first.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER",
+        "ACTOR::FRONT_DESK_LIZ"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 231,
+      "quote": "[Ben Carter: 12:59.1] The first ever.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 232,
+      "quote": "[LIz Front Desk St Johns Street: 13:00.2] Ever. Let's have a look.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER",
+        "ACTOR::FRONT_DESK_LIZ"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 233,
+      "quote": "[Ben Carter: 13:01.4] Thank you.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 234,
+      "quote": "[LIz Front Desk St Johns Street: 13:06.8] I'm fairly sure the first thing you reported was a domestic incident on the 18th of November last year.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER",
+        "ACTOR::FRONT_DESK_LIZ",
+        "TIMELINE::MONTH_NOV"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 235,
+      "quote": "[Ben Carter: 13:15.9] The domestic?",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 236,
+      "quote": "[LIz Front Desk St Johns Street: 13:17.3] Yeah.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER",
+        "ACTOR::FRONT_DESK_LIZ"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 237,
+      "quote": "[Ben Carter: 13:18.2] On the 18th???",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 238,
+      "quote": "[LIz Front Desk St Johns Street: 13:19.3] Yeah.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER",
+        "ACTOR::FRONT_DESK_LIZ"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 239,
+      "quote": "[Ben Carter: 13:21.9] My crime started on the 2nd",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 240,
+      "quote": "[LIz Front Desk St Johns Street: 13:24.8] of",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER",
+        "ACTOR::FRONT_DESK_LIZ"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 241,
+      "quote": "[Ben Carter: 13:25.9] November last year. Yeah.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER",
+        "TIMELINE::MONTH_NOV"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 242,
+      "quote": "[LIz Front Desk St Johns Street: 13:28.0] Okay, well, okay, maybe you didn't report until the 18th.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER",
+        "ACTOR::FRONT_DESK_LIZ"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 243,
+      "quote": "[Ben Carter: 13:32.3] No, it wasn't. No, I've got a nice link",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER",
+        "RECORDS::LINKED_CASES"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [
+        "Recording & audit accuracy"
+      ],
+      "notes": []
+    },
+    {
+      "line_index": 244,
+      "quote": "[LIz Front Desk St Johns Street: 13:34.4] [Suddenly changed tone] until the 18th. Why do you need this information from me?",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER",
+        "ACTOR::FRONT_DESK_LIZ"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 245,
+      "quote": "[Ben Carter: 13:39.6] Because there's obviously a lot of confusion, as I know when I logged it and now it's the 18th.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER",
+        "TIMELINE::LOGGED_ENTRY"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [
+        "Recording & audit accuracy"
+      ],
+      "notes": []
+    },
+    {
+      "line_index": 246,
+      "quote": "[LIz Front Desk St Johns Street: 13:44.8] Okay, well, I'm going to have another look?",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER",
+        "ACTOR::FRONT_DESK_LIZ"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 247,
+      "quote": "[Ben Carter: 13:47.1] Could I have that?",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 248,
+      "quote": "[LIz Front Desk St Johns Street: 13:48.0] There's. Well, let me check first. There's just. Yeah, you're right.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER",
+        "ACTOR::FRONT_DESK_LIZ"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 249,
+      "quote": "[Ben Carter: 13:50.9] There's a lot of stuff to troll.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 250,
+      "quote": "[LIz Front Desk St Johns Street: 13:52.6] Through, and it's not really my job to be trawling through.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER",
+        "ACTOR::FRONT_DESK_LIZ"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 251,
+      "quote": "[Ben Carter: 13:55.3] Whose job is it? I'm the victim and I",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 252,
+      "quote": "[LIz Front Desk St Johns Street: 14:43.8] Okay, do we need to take reference number anything for it?",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER",
+        "ACTOR::FRONT_DESK_LIZ"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 253,
+      "quote": "[Ben Carter: 14:46.1] Yeah, I won't be doing that now. What I will do is I will take your name.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 254,
+      "quote": "[LIz Front Desk St Johns Street: 14:51.1] Perfect.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER",
+        "ACTOR::FRONT_DESK_LIZ"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 255,
+      "quote": "[Ben Carter: 14:56.2] So 2nd of November. Yeah, I think we've already talked about this one, haven't we? 246. Yeah, th at's the reference number for that.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER",
+        "TIMELINE::MONTH_NOV"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 256,
+      "quote": "[LIz Front Desk St Johns Street: 15:05.0] Right. It's just I've got two nice links",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER",
+        "ACTOR::FRONT_DESK_LIZ"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 257,
+      "quote": "[Ben Carter: 15:09.3] Right. So those are now the correct dates and reference numbers.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 258,
+      "quote": "[LIz Front Desk St Johns Street: 15:12.4] So I think for two different crimes.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER",
+        "ACTOR::FRONT_DESK_LIZ"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 259,
+      "quote": "[Ben Carter: 15:15.0] You'Ve got the whole chain of events.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 260,
+      "quote": "[LIz Front Desk St Johns Street: 15:17.0] But for two different.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER",
+        "ACTOR::FRONT_DESK_LIZ"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 261,
+      "quote": "[Ben Carter: 15:18.1] Two different reference numbers. Yeah.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 262,
+      "quote": "[LIz Front Desk St Johns Street: 15:20.1] Two different crime numbers for the same person.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER",
+        "ACTOR::FRONT_DESK_LIZ"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 263,
+      "quote": "[Ben Carter: 15:22.2] They're all linked but they're two different crime numbers.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER",
+        "RECORDS::LINKED_CASES"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [
+        "Recording & audit accuracy"
+      ],
+      "notes": []
+    },
+    {
+      "line_index": 264,
+      "quote": "[LIz Front Desk St Johns Street: 15:26.4] Do you know why they're linked?",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER",
+        "ACTOR::FRONT_DESK_LIZ",
+        "RECORDS::LINKED_CASES"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [
+        "Recording & audit accuracy"
+      ],
+      "notes": []
+    },
+    {
+      "line_index": 265,
+      "quote": "[Ben Carter: 15:28.8] Because everything's, it's you know, one, one crime, one report. So if it's a different crime, it's going to be a different report.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 266,
+      "quote": "[LIz Front Desk St Johns Street: 15:36.8] It's. It's not a different crime though.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER",
+        "ACTOR::FRONT_DESK_LIZ"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 267,
+      "quote": "[Ben Carter: 15:42.9] What was this crime? What is it that you think this was?",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 268,
+      "quote": "[LIz Front Desk St Johns Street: 15:46.0] Well, that you're saying one one's been filed",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER",
+        "ACTOR::FRONT_DESK_LIZ"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 269,
+      "quote": "[Ben Carter: 15:51.7] one reported crime. yep",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 270,
+      "quote": "[LIz Front Desk St Johns Street: 15:53.7] Yeah, yeah, yeah,",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER",
+        "ACTOR::FRONT_DESK_LIZ"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 271,
+      "quote": "[Ben Carter: 15:54.7] that's how it works.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 272,
+      "quote": "[LIz Front Desk St Johns Street: 15:55.5] Okay, so. So both of these are are the ones. These don't include the ones that spin filed. Am I correct? Sorry,",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER",
+        "ACTOR::FRONT_DESK_LIZ"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 273,
+      "quote": "[LIz Front Desk St Johns Street: 16:19.0] Sorry,I'm annoying youbv",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER",
+        "ACTOR::FRONT_DESK_LIZ"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 274,
+      "quote": "[Ben Carter: 17:11.3] It.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 275,
+      "quote": "[Ben Carter: 17:51.8] This one?",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 276,
+      "quote": "[LIz Front Desk St Johns Street: 17:52.6] Yeah.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER",
+        "ACTOR::FRONT_DESK_LIZ"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 277,
+      "quote": "[Ben Carter: 17:56.1] That one on the second you reported. The title of your report was X Won't leave me alone. And this one, that was your ex Alana again trying to get into your home.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 278,
+      "quote": "[LIz Front Desk St Johns Street: 18:09.3] Yep. But the, it's the same crime number. It's the same crime. It's the same person.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER",
+        "ACTOR::FRONT_DESK_LIZ",
+        "TIMELINE::CRIME_REF_NUM"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 279,
+      "quote": "[Ben Carter: 18:15.5] No, they're different crimes. Okay, One of them you reported that Alana wouldn't leave you alone. That's a crime. The next one you.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 280,
+      "quote": "[LIz Front Desk St Johns Street: 18:24.3] No, that's a CAD align.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER",
+        "ACTOR::FRONT_DESK_LIZ"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 281,
+      "quote": "[Ben Carter: 18:26.2] A cad?",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 282,
+      "quote": "[LIz Front Desk St Johns Street: 18:27.0] Yeah, that's a CAD within the same.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER",
+        "ACTOR::FRONT_DESK_LIZ"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 283,
+      "quote": "[Ben Carter: 18:29.1] Crime report then we crime it.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 284,
+      "quote": "[LIz Front Desk St Johns Street: 18:32.0] Okay, so you can is when you.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER",
+        "ACTOR::FRONT_DESK_LIZ"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 285,
+      "quote": "[Ben Carter: 18:34.6] Ring up and the call taker with the headset on like this information, then it's crime.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 286,
+      "quote": "[LIz Front Desk St Johns Street: 18:41.0] Okay, and both, and both of these crimes are for the same officer?",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER",
+        "ACTOR::FRONT_DESK_LIZ"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 287,
+      "quote": "[Ben Carter: 18:47.5] No, there'll be different OICs, but they're filed so.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 288,
+      "quote": "[LIz Front Desk St Johns Street: 18:50.8] So can I know which one's which?",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER",
+        "ACTOR::FRONT_DESK_LIZ"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 289,
+      "quote": "[Ben Carter: 18:53.8] You want to know all the oics for all the crimes.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 290,
+      "quote": "[LIz Front Desk St Johns Street: 18:57.6] I don't understand why there's so many crimes. Look, I've come in because This is what you've reported Ben",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER",
+        "ACTOR::FRONT_DESK_LIZ"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 291,
+      "quote": "[Ben Carter: 19:02.9] What?",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 292,
+      "quote": "[LIz Front Desk St Johns Street: 19:02.9] Each one will be crimed individually.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER",
+        "ACTOR::FRONT_DESK_LIZ"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 293,
+      "quote": "[Ben Carter: 19:05.2] Well, they're all different crimes.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 294,
+      "quote": "[LIz Front Desk St Johns Street: 19:07.2] Well My last statement was on the 22nd, and I haven't been able to log it. You're telling me, the last one was, like, on the, what, 20s?",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER",
+        "ACTOR::FRONT_DESK_LIZ"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 295,
+      "quote": "[Ben Carter: 19:18.4] Do you know what then? I think you need to speak to this officer. Yeah, I think that's what needs to happen.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 296,
+      "quote": "[LIz Front Desk St Johns Street: 19:23.8] Could I have that?",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER",
+        "ACTOR::FRONT_DESK_LIZ"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 297,
+      "quote": "[Ben Carter: 19:24.5] Yeah, absolutely. Because those are all your reference numbers.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 298,
+      "quote": "[LIz Front Desk St Johns Street: 19:28.0] 7424.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER",
+        "ACTOR::FRONT_DESK_LIZ"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 299,
+      "quote": "[Ben Carter: 19:30.2] Yeah.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 300,
+      "quote": "[LIz Front Desk St Johns Street: 19:30.6] 029. Yeah, sorry. 0209-160. That started, on the 26th. The 10th, 25th.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER",
+        "ACTOR::FRONT_DESK_LIZ"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 301,
+      "quote": "[Ben Carter: 19:39.0] That was the date you reported.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 302,
+      "quote": "[LIz Front Desk St Johns Street: 19:40.6] And that's.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER",
+        "ACTOR::FRONT_DESK_LIZ"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 303,
+      "quote": "[Ben Carter: 19:42.7] They're all to do with alana.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 304,
+      "quote": "[LIz Front Desk St Johns Street: 19:44.3] Okay. And 472-4-0141. 246.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER",
+        "ACTOR::FRONT_DESK_LIZ"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 305,
+      "quote": "[Ben Carter: 19:49.5] Yeah.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 306,
+      "quote": "[LIz Front Desk St Johns Street: 19:50.2] Is the new officer.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER",
+        "ACTOR::FRONT_DESK_LIZ"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 307,
+      "quote": "[Ben Carter: 19:53.6] They're all different oics. They're different crimes.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 308,
+      "quote": "[LIz Front Desk St Johns Street: 19:57.1] Right, but, but, but you said. Said I had a new one. Okay.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER",
+        "ACTOR::FRONT_DESK_LIZ"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 309,
+      "quote": "[Ben Carter: 20:01.5] If it's a different crime you get assigned an officer in charge and that can change in the process.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 310,
+      "quote": "[LIz Front Desk St Johns Street: 20:06.0] So. So which one's going to call me?",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER",
+        "ACTOR::FRONT_DESK_LIZ"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 311,
+      "quote": "[Ben Carter: 20:08.3] Who is going to call you? I'm going to be contacting Alan Russell.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 312,
+      "quote": "[LIz Front Desk St Johns Street: 20:13.2] Alan Russell?",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER",
+        "ACTOR::FRONT_DESK_LIZ"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 313,
+      "quote": "[Ben Carter: 20:14.1] Yeah, that's the person I'm contacting.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 314,
+      "quote": "[LIz Front Desk St Johns Street: 20:16.2] You told me earlier it was Gambit or Gam.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER",
+        "ACTOR::FRONT_DESK_LIZ"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 315,
+      "quote": "[Ben Carter: 20:21.7] Oh, Gasson.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER",
+        "ACTOR::GASSON"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 316,
+      "quote": "[LIz Front Desk St Johns Street: 20:22.5] Gasson.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER",
+        "ACTOR::FRONT_DESK_LIZ",
+        "ACTOR::GASSON"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 317,
+      "quote": "[Ben Carter: 20:23.1] Yeah. That's the other one you were asking about.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 318,
+      "quote": "[LIz Front Desk St Johns Street: 20:24.8] Oh, okay. So two things. So which one's Russell and which one's Gambit?",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER",
+        "ACTOR::FRONT_DESK_LIZ"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 319,
+      "quote": "[Ben Carter: 20:29.7] They're not those ones. They're previous ones. You asked me which were the first things.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 320,
+      "quote": "[LIz Front Desk St Johns Street: 20:34.3] Okay, so I have four. Four crime number. Do I have four crime numbers?",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER",
+        "ACTOR::FRONT_DESK_LIZ",
+        "TIMELINE::CRIME_REF_NUM"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 321,
+      "quote": "[Ben Carter: 20:38.8] Yes.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 322,
+      "quote": "[LIz Front Desk St Johns Street: 20:39.2] Okay. Could I have all four?",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER",
+        "ACTOR::FRONT_DESK_LIZ"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 323,
+      "quote": "[Ben Carter: 20:42.8] Do you want to leave it with me? We need to shut the office. I'm sorry, Ben.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 324,
+      "quote": "[LIz Front Desk St Johns Street: 20:47.7] Yeah. Okay.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER",
+        "ACTOR::FRONT_DESK_LIZ"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 325,
+      "quote": "[Ben Carter: 20:48.6] You're gonna have to trust me a little bit.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 326,
+      "quote": "[LIz Front Desk St Johns Street: 20:50.6] Yeah. Yeah.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER",
+        "ACTOR::FRONT_DESK_LIZ"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 327,
+      "quote": "[Ben Carter: 20:51.5] I'm gonna deal with this for you. I promise I will.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 328,
+      "quote": "[LIz Front Desk St Johns Street: 20:53.7] Okay. Thank you.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER",
+        "ACTOR::FRONT_DESK_LIZ"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 329,
+      "quote": "[LIz Front Desk St Johns Street: 21:02.1] Oh, yeah.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER",
+        "ACTOR::FRONT_DESK_LIZ"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 330,
+      "quote": "[Ben Carter: 21:02.7] Thank you.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    },
+    {
+      "line_index": 331,
+      "quote": "[LIz Front Desk St Johns Street: 21:07.0] There.",
+      "speaker": "Unknown",
+      "tags": [
+        "ACTOR::BEN_CARTER",
+        "ACTOR::FRONT_DESK_LIZ"
+      ],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "emotions": {},
+      "legal_refs": [],
+      "notes": []
+    }
+  ]
+}

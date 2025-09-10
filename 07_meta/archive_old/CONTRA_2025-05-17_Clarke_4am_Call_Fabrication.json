@@ -1,0 +1,49 @@
+{
+  "meta": {
+    "contradiction_id": "CONTRA_2025-05-17_Clarke_4am_Call_Fabrication",
+    "title": "The 4am Call That Never Was — Clarke Silence vs. Screenshot Proof",
+    "created_at": "2025-08-30T23:08:11",
+    "version": "1.0.0",
+    "tags": [
+      "FABRICATED_WELFARE_CONTACTS",
+      "DEATH_BY_SILENCE",
+      "VICTIM_CREDIBILITY_ERASURE",
+      "SAFEGUARDING_FAILURE",
+      "NO_OFFICER_ASSIGNED"
+    ]
+  },
+  "narrative": {
+    "summary": "On 17 May 2025, PC Clarke messaged Ben Carter about welfare concerns. Sussex Police later claimed that welfare contact had taken place at 4am on 18 June 2025. Ben challenged this fabrication directly, asking what the procedure was for false crimes being made up and stating 'I am not having this.' He also asked Clarke 'Are you my officer?', revealing that no officer in charge had been assigned to him at that stage. Clarke failed to respond. Ben’s phone logs/screenshot confirm no 4am call was made by him.",
+    "context": [
+      "Sussex Police falsely claimed that Ben had contacted them at 4am as part of a welfare check log.",
+      "Ben’s contemporaneous screenshot shows no such call was made.",
+      "Ben directly challenged Clarke: 'What’s the procedure for false crimes being made up? I am not having this.'",
+      "Clarke did not respond — a silence that functions as admission by avoidance.",
+      "Ben asked 'Are you my officer?', proving that no officer in charge had been assigned even months into the case."
+    ],
+    "contradiction_points": [
+      "Police fabricated a 4am welfare contact call that did not exist.",
+      "Ben produced timestamped proof (screenshot) contradicting Sussex Police’s narrative.",
+      "Clarke’s silence when challenged underscores avoidance and lack of accountability.",
+      "Lack of an assigned officer undermines claims of continuous safeguarding support."
+    ],
+    "emotional_impact": "The fabrication of a 4am call not only erased Ben’s credibility but compounded his sense of abandonment. By forcing Clarke into silence with evidence and law, Ben reclaimed agency, exposing both dishonesty and lack of officer accountability.",
+    "legal_analysis": [
+      "Protection from Harassment Act 1997 – false attribution of 999 calls risks imputing criminality.",
+      "Data Protection Act 2018 / UK GDPR – accuracy principle breached by maintaining false welfare logs.",
+      "Victims’ Code – failure to assign a clear OIC and provide accurate updates.",
+      "Misconduct in Public Office – knowingly fabricating or maintaining false contact records."
+    ]
+  },
+  "links": {
+    "contradiction_threads": [
+      "DEATH_BY_SILENCE",
+      "FABRICATED_WELFARE_CONTACTS",
+      "IOPC_COMPLAINT_BLOCKED"
+    ],
+    "related_entities": [
+      "Sussex Police",
+      "PC Clarke"
+    ]
+  }
+}

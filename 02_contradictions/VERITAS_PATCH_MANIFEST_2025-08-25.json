@@ -1,0 +1,22 @@
+{
+  "patch_name": "VERITAS_PATCH",
+  "version": "2025-08-25",
+  "generated_at": "2025-08-25T04:15:32.399967Z",
+  "drop_into_root_of": "PROJECT_FILE_SYNCED_2025-08-25_v4_FULL_SKELETON/",
+  "files_added": [
+    "01_evidence/veritas/VERITAS_ASSERTIONS_INDEX_2025-08-25.csv",
+    "01_evidence/veritas/VERITAS_MASTER_BUNDLE_2025-08-25.json",
+    "01_evidence/veritas/VERITAS_MERGED_2025-08-25.json",
+    "01_evidence/veritas/VERITAS_MERGED_2025-08-25_SCHEMA.md",
+    "01_evidence/veritas/VERITAS_MERGED_2025-08-25_summary.csv",
+    "01_evidence/veritas/VERITAS_README_2025-08-25.md",
+    "01_evidence/veritas/VERITAS_SPLIT_ASSERTIONS_2025-08-25.json",
+    "01_evidence/veritas/VERITAS_SPLIT_CLASHES_2025-08-25.json",
+    "01_evidence/veritas/VERITAS_SPLIT_MASTERS_2025-08-25.json",
+    "01_evidence/veritas/VERITAS_SPLIT_MODULES_META_2025-08-25.json",
+    "01_evidence/veritas/VERITAS_SPLIT_README_2025-08-25.md",
+    "01_evidence/veritas/VERITAS_SPLIT_STATS_2025-08-25.json",
+    "01_evidence/veritas/VERITAS_SPLIT_UID_INDEX_2025-08-25.json"
+  ],
+  "notes": "Extract at the ROOT of your project. It will create/update files under 01_evidence/veritas/."
+}

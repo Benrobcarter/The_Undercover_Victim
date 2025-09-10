@@ -1,0 +1,123 @@
+{
+  "meta": {
+    "name": "SECTION_3.1_FromVictimToInvestigator",
+    "generated_utc": "2025-08-31T14:56:22.937243Z",
+    "source_files": [
+      "SECTION_3_SKELETON_v1.1.json",
+      "VEX_2024-11-07_Dixon_Deletion_Log.json",
+      "VEX_CROWBARRING_MYSELF_JUSTICE_BUNDLE_v1.1.json",
+      "ONE_LINERS_CARDS_v1.md",
+      "UNDERCOVER_VICTIM_QUOTE_BANK_v1.json"
+    ],
+    "notes": "Seed extract for 3.1 integrating Dixon deletion log, Crowbarring bundle, and two approved quotes."
+  },
+  "entries": [
+    {
+      "id": "3.1-EPIGRAPH-Q0112",
+      "date": null,
+      "section": "3.1 From Victim to Investigator",
+      "text": "“I, the victim, was forced to become the chief investigator, auditor, and archivist of my own case.” — Ben Carter",
+      "vex_tags": [
+        "CHIEF_INVESTIGATOR",
+        "ONUS_PROBANDI_LOGIC"
+      ],
+      "contradictions": [
+        "DEATH_BY_SILENCE"
+      ],
+      "timeline_hooks": [
+        "PersonalEvidence"
+      ],
+      "sources": [
+        "ONE_LINERS_CARDS_v1.md (Q-UV-0112)"
+      ]
+    },
+    {
+      "id": "3.1-EPIGRAPH-Q0001",
+      "date": null,
+      "section": "3.1 From Victim to Investigator",
+      "text": "“It’s my story — but it’s been written by someone else.” — Ben Carter",
+      "vex_tags": [
+        "REPUTATIONAL_HARM",
+        "ONUS_PROBANDI_LOGIC"
+      ],
+      "contradictions": [
+        "DEATH_BY_SILENCE"
+      ],
+      "timeline_hooks": [
+        "PersonalEvidence"
+      ],
+      "sources": [
+        "UNDERCOVER_VICTIM_QUOTE_BANK_v1.json (Q-UV-0001)"
+      ]
+    },
+    {
+      "id": "3.1-EVID-2024-11-07-DELETION",
+      "date": "2024-11-07",
+      "section": "3.1 From Victim to Investigator",
+      "text": "Dixon log entry: key July call recording marked as 'listened to & deleted'.",
+      "vex_tags": [
+        "EVIDENCE_SUPPRESSION",
+        "RECORD_INTEGRITY"
+      ],
+      "contradictions": [
+        "EVIDENCE_DELETION",
+        "LOST_EVIDENCE_SUSSEX_POLICE"
+      ],
+      "timeline_hooks": [
+        "SussexPolice"
+      ],
+      "sources": [
+        "VEX_2024-11-07_Dixon_Deletion_Log.json"
+      ]
+    },
+    {
+      "id": "3.1-EVID-2025-04-11-CROWBARRING",
+      "date": "2025-04-11",
+      "section": "3.1 From Victim to Investigator",
+      "text": "Crowbarring Myself Justice — 101 call. Operator asks: 'You’re talking to me, so you didn’t actually commit suicide?' Ben replies angrily: 'Google suicide — people survive it.'",
+      "vex_tags": [
+        "SAFEGUARDING_FAILURE",
+        "DEATH_BY_SILENCE",
+        "VICTIMS_CODE"
+      ],
+      "contradictions": [
+        "SUICIDE_NOT_LOGGED",
+        "JULY_VS_NOVEMBER_START_DATE"
+      ],
+      "timeline_hooks": [
+        "SussexPolice",
+        "PersonalEvidence"
+      ],
+      "sources": [
+        "VEX_CROWBARRING_MYSELF_JUSTICE_BUNDLE_v1.1.json"
+      ]
+    },
+    {
+      "id": "3.1-EVID-2025-04-11-CROWBARRING2",
+      "date": "2025-04-11",
+      "section": "3.1 From Victim to Investigator",
+      "text": "Crowbarring Myself Justice — escalation: Ben cites corruption, refusal to give crime ref to protect against cover-up, and states: 'I tried to kill myself… snorted the medication.'",
+      "vex_tags": [
+        "SAFEGUARDING_FAILURE",
+        "DEATH_BY_SILENCE",
+        "EVIDENCE_SUPPRESSION"
+      ],
+      "contradictions": [
+        "SUICIDE_NOT_LOGGED",
+        "SAFETY_ESCALATION_REFUSED_OR_DEFLECTED"
+      ],
+      "timeline_hooks": [
+        "SussexPolice",
+        "PersonalEvidence"
+      ],
+      "sources": [
+        "VEX_CROWBARRING_MYSELF_JUSTICE_BUNDLE_v1.1.json"
+      ]
+    }
+  ],
+  "delta_findings": [
+    "Add SAR refusal (25-06-2025) once processed.",
+    "Attach ambulance call transcript (27-05-2025) with hashes.",
+    "Include Brighton Fringe minutes refusal (20-07-2025) at close of 3.1."
+  ]
+}

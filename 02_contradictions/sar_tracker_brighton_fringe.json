@@ -1,0 +1,33 @@
+{
+  "recipient": "Brighton Fringe Ltd",
+  "submitted_on": "2025-08-19",
+  "legal_due_date": "2025-09-18",
+  "extension_possible": true,
+  "known_expected_entities": [
+    "Duncan Lustig-Prean",
+    "Amy Keogh",
+    "Alice Wright",
+    "Board minutes (July 2025)",
+    "Libel Email Drafts (18 July 2025)",
+    "GP Disclosure (8 May 2025)",
+    "Safeguarding Discussions (April–May 2025)",
+    "Venue Observer Role Comms"
+  ],
+  "flags_to_watch": [
+    "Absence of Alice Wright",
+    "No trustee notes on suicide disclosures",
+    "No metadata for libel email",
+    "No logs of who approved 8 May GP email",
+    "No board approval of removal decision",
+    "No record of Venue Observer announcement",
+    "No audit trail of artist email list"
+  ],
+  "exhibits_attached": [
+    "SAR_Brighton_Fringe_with_AnnexA_and_ExhibitB.pdf",
+    "Exhibit A – All Communications Logged Admission.pdf",
+    "Exhibit B – Venue Observer Role Disclosure.pdf",
+    "18 July 2025 Libel Email (Forwarded by Jessica)",
+    "8 May 2025 GP Disclosure Email from Amy Keogh",
+    "May 6–7 Email Exchange (Internal Logging Admission)"
+  ]
+}

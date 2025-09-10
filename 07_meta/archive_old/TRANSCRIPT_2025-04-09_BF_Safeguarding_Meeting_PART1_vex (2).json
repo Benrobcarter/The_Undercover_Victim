@@ -1,0 +1,2721 @@
+{
+  "evidence_id": "TRANSCRIPT_2025-04-09_BF_Safeguarding_Meeting_PART1",
+  "file_version": "1.1",
+  "schema": "VEX_TRANSCRIPT_v1",
+  "date": "2025-04-09",
+  "location": "Brighton Fringe Office (Safeguarding Meeting)",
+  "participants": [
+    {
+      "name": "Ben Carter",
+      "role": "Venue Manager / Comedian (Half a Camel)"
+    },
+    {
+      "name": "Duncan Lustig-Prean",
+      "role": "Chair, Brighton Fringe"
+    },
+    {
+      "name": "Amy Keogh",
+      "role": "Managing Director, Brighton Fringe"
+    }
+  ],
+  "related_evidence_ids": [
+    "POLICY_2025-02-17_BRIGHTON_FRINGE_SAFEGUARDING"
+  ],
+  "vex": {
+    "actor_clusters": [
+      "Brighton Fringe",
+      "Ben Carter",
+      "Sussex Police",
+      "Alanna O'Hare"
+    ],
+    "global_tags": [
+      "SAFEGUARDING_MEETING",
+      "POLICY_VS_PRACTICE",
+      "2024_ERASURE",
+      "VENUE_TAKEOVER_THREAT",
+      "LOST_EVIDENCE_SUSSEX_POLICE",
+      "SUICIDE_MINIMISATION",
+      "INSTITUTIONAL_GASLIGHTING",
+      "SAFEHARMING_LOG_PARALLEL",
+      "BOX_OFFICE_FORCED_ROLE",
+      "HATE_TURNAROUND",
+      "PICKED_AND_CHOSEN",
+      "CHARITY_DUTY_OF_CARE_BREACH",
+      "VENUE_TAKEOVER_ESCALATION",
+      "ERASURE_AS_SAFEGUARDING",
+      "LIFE_OR_DEATH_LOGGED"
+    ],
+    "contradiction_links": [
+      "BF-CONTRA-2024_ERASURE-2025-04-09",
+      "BF-CONTRA-SUICIDE_MINIMISATION-2025-04-09",
+      "VENUE_TAKEOVER_THREAT",
+      "DUNCAN_ASSISTED_ERASURE",
+      "REFRAMING_ABUSE",
+      "JULY_CALL_LOST",
+      "DIXON_OR_DEATH",
+      "BF-CONTRA-LOGGED-AND-AGREED-2025",
+      "BF-CONTRA-YOU-WANT-ME-DEAD-LOGGED-2025",
+      "BF-CONTRA-HATE-TURNAROUND-2025",
+      "BF-CONTRA-PICKED-AND-CHOSEN-LOGGING-2025",
+      "BF-CONTRA-LOGGED-BUSINESS-VS-HELP-2025",
+      "BF-CONTRA-LOGGED-NON-CONSENT-2025"
+    ],
+    "legal_references": [
+      "Care Act 2014 (Adult Safeguarding)",
+      "Charities Act 2011 (CC3/CC9)",
+      "UK GDPR / Data Protection Act 2018",
+      "Protection from Harassment Act 1997",
+      "Public Order Act 1986 s4A (context)",
+      "Fraud Act 2006 (abuse of position)",
+      "Human Rights Act 1998 (Articles 2 and 3)",
+      "Defamation Act 2013 (serious harm requirement)"
+    ],
+    "timeline_hooks": [
+      "SAFEGUARDING_MEETING_2025-04-09",
+      "CRIME_REF_47240214305_THREAD",
+      "CROWBARRING_MYSELF_JUSTICE",
+      "JULY_CALL_LOST",
+      "SOBER_VENUE_INITIATIVE"
+    ]
+  },
+  "entries": [
+    {
+      "timestamp": "0:16",
+      "speaker": "Duncan Lustig-Prean",
+      "quote": "What are you expecting from us here?",
+      "tags": [
+        "SAFEGUARDING_CONTEXT",
+        "INITIAL_SCOPE",
+        "FRINGE_DEFLECTION_TACTIC"
+      ],
+      "contradiction_links": [
+        "DUNCAN_ASSISTED_ERASURE"
+      ],
+      "timeline_hooks": [
+        "SAFEGUARDING_MEETING_2025-04-09"
+      ]
+    },
+    {
+      "timestamp": "0:24",
+      "speaker": "Ben Carter",
+      "quote": "I need, like, to make you aware of sort of, Yeah, like, like, my mental health stuff,saturday night i tried to kill myself. all because like",
+      "tags": [
+        "SUICIDE_DISCLOSURE",
+        "TRAUMA_SIGNAL",
+        "SAFEGUARDING_TRIGGER",
+        "DUTY_OF_CARE",
+        "LIFE_OR_DEATH_LOGGED",
+        "SAFEHARMING_LOG_PARALLEL"
+      ],
+      "contradiction_links": [
+        "BF-CONTRA-SUICIDE_MINIMISATION-2025-04-09",
+        "DEATH_BY_SILENCE",
+        "CROWBARRING_MYSELF_JUSTICE",
+        "BF-CONTRA-YOU-WANT-ME-DEAD-LOGGED-2025"
+      ],
+      "timeline_hooks": [
+        "SAFEGUARDING_MEETING_2025-04-09"
+      ]
+    },
+    {
+      "timestamp": "0:51",
+      "speaker": "Ben Carter",
+      "quote": "Sets things up yeah and yeah.",
+      "tags": [
+        "DISLOSURE_CONTEXT_CONTINUATION",
+        "EMOTIONAL_FRAGMENT"
+      ],
+      "contradiction_links": [],
+      "timeline_hooks": [
+        "SAFEGUARDING_MEETING_2025-04-09"
+      ]
+    },
+    {
+      "timestamp": "1:02",
+      "speaker": "Ben Carter",
+      "quote": "So i was all sort of have a plan already, and then she knows how to, like, just do stuff at",
+      "tags": [
+        "VICTIM_SAFETY_PLANNING",
+        "COERCIVE_CONTROL_PATTERN",
+        "STALKING_BEHAVIOUR"
+      ],
+      "contradiction_links": [],
+      "timeline_hooks": [
+        "SAFEGUARDING_MEETING_2025-04-09"
+      ]
+    },
+    {
+      "timestamp": "1:13",
+      "speaker": "Ben Carter",
+      "quote": "perfect the time to fuck with me",
+      "tags": [
+        "ABUSE_IMPACT",
+        "COERCION_TRAUMA",
+        "STALKING_TERROR"
+      ],
+      "contradiction_links": [
+        "NO_SAFEGUARDING_PROTOCOL_EXISTS"
+      ],
+      "timeline_hooks": [
+        "SAFEGUARDING_MEETING_2025-04-09"
+      ]
+    },
+    {
+      "timestamp": "1:17",
+      "speaker": "Duncan Lustig-Prean",
+      "quote": "but she's suspposed to have no contact at all",
+      "tags": [
+        "BAIL_CONDITIONS_ACKNOWLEDGED",
+        "NO_CONTACT_CONDITION"
+      ],
+      "contradiction_links": [
+        "POST_BAIL_NO_WARNING_EXPOSURE"
+      ],
+      "timeline_hooks": [
+        "CRIME_REF_47240214305_THREAD",
+        "SAFEGUARDING_MEETING_2025-04-09"
+      ]
+    },
+    {
+      "timestamp": "1:20",
+      "speaker": "Ben Carter",
+      "quote": "I know but Instagram so you can Put threats and and yeah",
+      "tags": [
+        "ONLINE_HARASSMENT",
+        "POTENTIAL_BAIL_BREACH",
+        "THREAT_VIA_SOCIAL_MEDIA"
+      ],
+      "contradiction_links": [
+        "POST_BAIL_NO_WARNING_EXPOSURE"
+      ],
+      "timeline_hooks": [
+        "CRIME_REF_47240214305_THREAD"
+      ]
+    },
+    {
+      "timestamp": "1:34",
+      "speaker": "Duncan Lustig-Prean",
+      "quote": "Have you reported this?",
+      "tags": [
+        "REPORTING_PROMPT",
+        "SAFEGUARDING_PROCESS_CHECK"
+      ],
+      "contradiction_links": [],
+      "timeline_hooks": [
+        "SAFEGUARDING_MEETING_2025-04-09"
+      ]
+    },
+    {
+      "timestamp": "1:36",
+      "speaker": "Ben Carter",
+      "quote": "Yeah it's now, it's it's now going to see key CPS, because basically, it all started in July, like, but Prior to that, it was three years of like, yeah, like, gaslight, and then just coercive control, and the police lost the main bit of evidence from July, and are only going from like November, so,",
+      "tags": [
+        "CPS_ESCALATION",
+        "COERCIVE_CONTROL_HISTORY",
+        "LOST_EVIDENCE",
+        "TIMELINE_MANIPULATION",
+        "2024_ERASURE"
+      ],
+      "contradiction_links": [
+        "LOST_EVIDENCE_SUSSEX_POLICE",
+        "JULY_CALL_LOST"
+      ],
+      "timeline_hooks": [
+        "JULY_CALL_LOST",
+        "SAFEGUARDING_MEETING_2025-04-09"
+      ]
+    },
+    {
+      "timestamp": "2:25",
+      "speaker": "Amy Keogh",
+      "quote": "This November?",
+      "tags": [
+        "TIMELINE_NARROWING_PROMPT",
+        "2024_ERASURE"
+      ],
+      "contradiction_links": [
+        "BF-CONTRA-2024_ERASURE-2025-04-09"
+      ],
+      "timeline_hooks": [
+        "SAFEGUARDING_MEETING_2025-04-09"
+      ]
+    },
+    {
+      "timestamp": "2:27",
+      "speaker": "Ben Carter",
+      "quote": "yeah. So like, basically it's gone like, yeah, yeah. And now I have to provide replace filings as well.",
+      "tags": [
+        "EVIDENCE_RETRAUMATISATION",
+        "REPLACEMENT_FILINGS_REQUEST",
+        "ADMIN_BURDEN"
+      ],
+      "contradiction_links": [
+        "LOST_EVIDENCE_SUSSEX_POLICE"
+      ],
+      "timeline_hooks": [
+        "SAFEGUARDING_MEETING_2025-04-09"
+      ]
+    },
+    {
+      "timestamp": "3:06",
+      "speaker": "Ben Carter",
+      "quote": "But from the Fringe?, I kinf of had a plan but",
+      "tags": [
+        "FRINGE_SUPPORT_REQUEST",
+        "VENUE_PLAN_PRESENT"
+      ],
+      "contradiction_links": [],
+      "timeline_hooks": [
+        "SAFEGUARDING_MEETING_2025-04-09"
+      ]
+    },
+    {
+      "timestamp": "3:08",
+      "speaker": "Ben Carter",
+      "quote": "Did you speak to Veritas?",
+      "tags": [
+        "VERITAS_JUSTICE_REFERENCE",
+        "SUPPORT_SERVICES_CHECK"
+      ],
+      "contradiction_links": [],
+      "timeline_hooks": [
+        "SAFEGUARDING_MEETING_2025-04-09"
+      ]
+    },
+    {
+      "timestamp": "3:09",
+      "speaker": "Ben Carter",
+      "quote": "Yeah it was part of an ongoing thing to help, and a way of getting me to do the fringe and like I wanted to do a show on Saturday at the venue, where's erm, like, bascially",
+      "tags": [
+        "SUPPORT_NETWORK",
+        "RETURN_TO_WORK_CONTEXT",
+        "VENUE_OPERATIONS"
+      ],
+      "contradiction_links": [],
+      "timeline_hooks": [
+        "SAFEGUARDING_MEETING_2025-04-09"
+      ]
+    },
+    {
+      "timestamp": "3:32",
+      "speaker": "Ben Carter",
+      "quote": "going through all this evidence. When I provided November's evidence, I was numb. It didn't matter I was used to it I Was numb, I've been asked to go back through all of it, and then her posting like something like, that.... She lives two minutes down the road, and posting that whilst I'm going through all the evidence that brings up all this pain and everything, and yeah, it's it's actually been escalated through yes  Sussex police and like their failings, because I've been told to provide all this evidence, which they're not even going to use. Like, yeah, I've sold Yeah, I was told on monday, yeah, yesterday, they're not gonna use all the Evidence. Basically, they want that file they've lost and made out that they were going back to the original time, but because it could have been. Stop. Then they want the file, but they've they think I'm like, either not smart enough or not like, yeah, to know that.",
+      "tags": [
+        "TRIGGERING_EVIDENCE_REVIEW",
+        "NUMBNESS",
+        "ONLINE_HARASSMENT",
+        "POLICE_FAILINGS",
+        "EVIDENCE_NOT_USED",
+        "LOST_EVIDENCE",
+        "TIMELINE_MANIPULATION"
+      ],
+      "contradiction_links": [
+        "LOST_EVIDENCE_SUSSEX_POLICE",
+        "JULY_CALL_LOST",
+        "DIXON_OR_DEATH"
+      ],
+      "timeline_hooks": [
+        "JULY_CALL_LOST",
+        "DEATH_BY_SILENCE"
+      ]
+    },
+    {
+      "timestamp": "5:14",
+      "speaker": "Ben Carter",
+      "quote": "Yeah, I know,",
+      "tags": [
+        "EMOTIONAL_EXHAUSTION"
+      ],
+      "contradiction_links": [],
+      "timeline_hooks": [
+        "SAFEGUARDING_MEETING_2025-04-09"
+      ]
+    },
+    {
+      "timestamp": "5:17",
+      "speaker": "Amy Keogh",
+      "quote": "Is that the file they lost originally?",
+      "tags": [
+        "ACKNOWLEDGEMENT_LOST_EVIDENCE",
+        "PROCESS_AWARENESS"
+      ],
+      "contradiction_links": [
+        "LOST_EVIDENCE_SUSSEX_POLICE"
+      ],
+      "timeline_hooks": [
+        "JULY_CALL_LOST"
+      ]
+    },
+    {
+      "timestamp": "5:21",
+      "speaker": "Ben Carter",
+      "quote": "yeah, basically, and the text messages, so what that file contains is like, yeah, and the text message is, I got saying, \"we've seen, seen the pictures\". It was a voice call. So they didn't listen to it originally, and I sent it. I got proof of I've sent it and, like, basically just, like, almost I can waste in place time, because without a bit of evidence, none of was in context",
+      "tags": [
+        "LOST_EVIDENCE_DETAILS",
+        "VOICE_CALL_EVIDENCE",
+        "PROOF_OF_SUBMISSION",
+        "CONTEXT_ERASURE"
+      ],
+      "contradiction_links": [
+        "LOST_EVIDENCE_SUSSEX_POLICE",
+        "JULY_CALL_LOST"
+      ],
+      "timeline_hooks": [
+        "JULY_CALL_LOST"
+      ]
+    },
+    {
+      "timestamp": "5:57",
+      "speaker": "Duncan Lustig-Prean",
+      "quote": "Can you recreate that evidence?",
+      "tags": [
+        "EVIDENCE_RECREATION_PROMPT",
+        "PROCESS_DEFLECTION"
+      ],
+      "contradiction_links": [],
+      "timeline_hooks": [
+        "SAFEGUARDING_MEETING_2025-04-09"
+      ]
+    },
+    {
+      "timestamp": "6:00",
+      "speaker": "Ben Carter",
+      "quote": "Yeah, yeah, I've got it. I'm sending it to CPS yes or say yeah. It could have all been stopped then like, because that was like, on the phone, and everything to the police, so, like, Yeah, she'll be arrested right now and all this, like, all the threats that were made. And then me being told, basically, like, why are you sending us WhatsApps of an argument? You know?",
+      "tags": [
+        "CPS_ESCALATION",
+        "POLICE_FAILINGS",
+        "THREATS_REPORTED",
+        "DISMISSIVE_RESPONSE_FROM_POLICE"
+      ],
+      "contradiction_links": [
+        "DIXON_OR_DEATH",
+        "CROWBARRING_MYSELF_JUSTICE"
+      ],
+      "timeline_hooks": [
+        "CROWBARRING_MYSELF_JUSTICE"
+      ]
+    },
+    {
+      "timestamp": "6:36",
+      "speaker": "Ben Carter",
+      "quote": "it's like, no, that was leading up to the phone call, like, which I mentioned in the statement, why didn't you ask? Like, why didn't you ask about that phone call?",
+      "tags": [
+        "EVIDENCE_CONTEXT",
+        "STATEMENT_REFERENCE",
+        "INVESTIGATIVE_OMISSION"
+      ],
+      "contradiction_links": [
+        "LOST_EVIDENCE_SUSSEX_POLICE"
+      ],
+      "timeline_hooks": [
+        "JULY_CALL_LOST"
+      ]
+    },
+    {
+      "timestamp": "6:50",
+      "speaker": "Amy Keogh",
+      "quote": "So is that with PD Dixon?",
+      "tags": [
+        "POLICE_OFFICER_REFERENCE",
+        "CASE_HANDLER_DIXON"
+      ],
+      "contradiction_links": [
+        "DIXON_OR_DEATH"
+      ],
+      "timeline_hooks": [
+        "SAFEGUARDING_MEETING_2025-04-09"
+      ]
+    },
+    {
+      "timestamp": "6:55",
+      "speaker": "Ben Carter",
+      "quote": "Yeah, so he So, and whenever I mentioned like yesterday, I called him and I told him about what happened Saturday and he said \"well you shouldn't have gone on her instagram anyway\" so for me, going out the house, We said the same Co Op. She's either been hiding in Northern Ireland or in Brighton. For me, it's nice to know when going outside, which one you know? and also, I think they might fucking want. I'm not on. I don't have any bail charges.",
+      "tags": [
+        "VICTIM_BLAMING_POLICE",
+        "SAFETY_PLANNING",
+        "LOCATION_AWARENESS",
+        "BAIL_CONTEXT"
+      ],
+      "contradiction_links": [
+        "DIXON_OR_DEATH",
+        "DEATH_BY_SILENCE"
+      ],
+      "timeline_hooks": [
+        "CROWBARRING_MYSELF_JUSTICE"
+      ]
+    },
+    {
+      "timestamp": "6:56",
+      "speaker": "Amy Keogh",
+      "quote": "So so",
+      "tags": [
+        "TOPIC_SHIFT",
+        "INTERRUPTION"
+      ],
+      "contradiction_links": [],
+      "timeline_hooks": [
+        "SAFEGUARDING_MEETING_2025-04-09"
+      ]
+    },
+    {
+      "timestamp": "6:56",
+      "speaker": "Amy Keogh",
+      "quote": "moving into fringe,",
+      "tags": [
+        "TOPIC_SHIFT_TO_OPERATIONS",
+        "FRINGE_DEFLECTION_TACTIC"
+      ],
+      "contradiction_links": [
+        "BF-CONTRA-2024_ERASURE-2025-04-09"
+      ],
+      "timeline_hooks": [
+        "SAFEGUARDING_MEETING_2025-04-09"
+      ]
+    },
+    {
+      "timestamp": "6:56",
+      "speaker": "Amy Keogh",
+      "quote": "because we're so close now as well.",
+      "tags": [
+        "TIME_PRESSURE_JUSTIFICATION",
+        "DEFLECTION_SUPPORT_LIMITS"
+      ],
+      "contradiction_links": [],
+      "timeline_hooks": [
+        "SAFEGUARDING_MEETING_2025-04-09"
+      ]
+    },
+    {
+      "timestamp": "6:56",
+      "speaker": "Amy Keogh",
+      "quote": "I think how Duncan was saying",
+      "tags": [
+        "ALIGNMENT_WITH_CHAIR",
+        "INSTITUTIONAL_ALIGNMENT"
+      ],
+      "contradiction_links": [
+        "DUNCAN_ASSISTED_ERASURE"
+      ],
+      "timeline_hooks": [
+        "SAFEGUARDING_MEETING_2025-04-09"
+      ]
+    },
+    {
+      "timestamp": "6:56",
+      "speaker": "Amy Keogh",
+      "quote": "so you spoken to",
+      "tags": [
+        "SUPPORT_SERVICES_CHECK"
+      ],
+      "contradiction_links": [],
+      "timeline_hooks": [
+        "SAFEGUARDING_MEETING_2025-04-09"
+      ]
+    },
+    {
+      "timestamp": "6:56",
+      "speaker": "Amy Keogh",
+      "quote": "Veritas? or Did you",
+      "tags": [
+        "VERITAS_JUSTICE_REFERENCE"
+      ],
+      "contradiction_links": [],
+      "timeline_hooks": [
+        "SAFEGUARDING_MEETING_2025-04-09"
+      ]
+    },
+    {
+      "timestamp": "6:56",
+      "speaker": "Ben Carter",
+      "quote": "and what was that? are you able to share? Are you supporting yourself?",
+      "tags": [
+        "SUPPORT_NETWORK_DISCUSSION",
+        "INFORMATION_REQUEST"
+      ],
+      "contradiction_links": [],
+      "timeline_hooks": [
+        "SAFEGUARDING_MEETING_2025-04-09"
+      ]
+    },
+    {
+      "timestamp": "7:39",
+      "speaker": "Amy Keogh",
+      "quote": "yeah, like i don't know what happened last year or why, but can you not do that again?",
+      "tags": [
+        "2024_ERASURE",
+        "BLAME_SHIFTING",
+        "INSTITUTIONAL_GASLIGHTING",
+        "ERASURE_AS_SAFEGUARDING",
+        "CHARITY_DUTY_OF_CARE_BREACH"
+      ],
+      "contradiction_links": [
+        "BF-CONTRA-2024_ERASURE-2025-04-09",
+        "BF-CONTRA-LOGGED-AND-AGREED-2025",
+        "BF-CONTRA-LOGGED-NON-CONSENT-2025"
+      ],
+      "timeline_hooks": [
+        "SAFEGUARDING_MEETING_2025-04-09"
+      ]
+    },
+    {
+      "timestamp": "8:27",
+      "speaker": "Duncan Lustig-Prean",
+      "quote": "Do what?",
+      "tags": [
+        "CLARIFICATION_PROMPT"
+      ],
+      "contradiction_links": [],
+      "timeline_hooks": [
+        "SAFEGUARDING_MEETING_2025-04-09"
+      ]
+    },
+    {
+      "timestamp": "8:26",
+      "speaker": "Ben Carter",
+      "quote": "Do what? so under venue managers, so give timely ammount of time to sort issues, emailing me then emailing me again, saying being forceful with these acts, get them on terms and conditions, when acts would cry, You let them through, but you're still saying, Yeah, I've got the emails, shall we see the emails? should we go through them?",
+      "tags": [
+        "VENUE_MANAGEMENT_PRACTICE",
+        "EMAIL_RESPONSE_TIMELINE",
+        "ACCOUNTABILITY_REQUEST",
+        "EVIDENCE_OFFER"
+      ],
+      "contradiction_links": [
+        "FRINGE_DEFLECTION_TACTIC"
+      ],
+      "timeline_hooks": [
+        "SAFEGUARDING_MEETING_2025-04-09",
+        "2024_ERASURE"
+      ]
+    },
+    {
+      "timestamp": "9:06",
+      "speaker": "Duncan Lustig-Prean",
+      "quote": "No no we're talking about the venues",
+      "tags": [
+        "TOPIC_CONTAINMENT",
+        "DEFLECTION"
+      ],
+      "contradiction_links": [
+        "BF-CONTRA-2024_ERASURE-2025-04-09"
+      ],
+      "timeline_hooks": [
+        "SAFEGUARDING_MEETING_2025-04-09"
+      ]
+    },
+    {
+      "timestamp": "9:11",
+      "speaker": "Amy Keogh",
+      "quote": "We're talking about",
+      "tags": [
+        "ALIGNMENT_WITH_CHAIR",
+        "DEFLECTION"
+      ],
+      "contradiction_links": [
+        "DUNCAN_ASSISTED_ERASURE"
+      ],
+      "timeline_hooks": [
+        "SAFEGUARDING_MEETING_2025-04-09"
+      ]
+    },
+    {
+      "timestamp": "9:12",
+      "speaker": "Ben Carter",
+      "quote": "No No You said, what? you said What am I talking about? Do you want the answer, or do you want to hide it?",
+      "tags": [
+        "REQUEST_FOR_ACCOUNTABILITY",
+        "GASLIGHTING_CALLOUT"
+      ],
+      "contradiction_links": [
+        "BF-CONTRA-2024_ERASURE-2025-04-09"
+      ],
+      "timeline_hooks": [
+        "SAFEGUARDING_MEETING_2025-04-09",
+        "2024_ERASURE"
+      ]
+    },
+    {
+      "timestamp": "9:21",
+      "speaker": "Duncan Lustig-Prean",
+      "quote": "Ben we're talking about this year we don't have to go over last year",
+      "tags": [
+        "2024_ERASURE",
+        "SAFEGUARDING_FAILURE",
+        "FRINGE_DEFLECTION_TACTIC",
+        "ERASURE_AS_SAFEGUARDING",
+        "CHARITY_DUTY_OF_CARE_BREACH"
+      ],
+      "contradiction_links": [
+        "BF-CONTRA-2024_ERASURE-2025-04-09",
+        "BF-CONTRA-LOGGED-AND-AGREED-2025",
+        "BF-CONTRA-LOGGED-NON-CONSENT-2025"
+      ],
+      "timeline_hooks": [
+        "SAFEGUARDING_MEETING_2025-04-09",
+        "2024_ERASURE"
+      ]
+    },
+    {
+      "timestamp": "9:27",
+      "speaker": "Ben Carter",
+      "quote": "Why did why did you ask me>",
+      "tags": [
+        "VICTIM_RETRAUMATISATION",
+        "INCONSISTENT_FRAMING_CALLOUT"
+      ],
+      "contradiction_links": [
+        "BF-CONTRA-2024_ERASURE-2025-04-09"
+      ],
+      "timeline_hooks": [
+        "SAFEGUARDING_MEETING_2025-04-09",
+        "2024_ERASURE"
+      ]
+    },
+    {
+      "timestamp": "9:29",
+      "speaker": "Duncan Lustig-Prean",
+      "quote": "Ben we hadve 800 performance.",
+      "tags": [
+        "WORKLOAD_JUSTIFICATION",
+        "DEFLECTION"
+      ],
+      "contradiction_links": [],
+      "timeline_hooks": [
+        "SAFEGUARDING_MEETING_2025-04-09"
+      ]
+    },
+    {
+      "timestamp": "9:31",
+      "speaker": "Ben Carter",
+      "quote": "Yeah you told me that before you hung up on me when my mate (liam) died",
+      "tags": [
+        "HARM_DISCLOSURE",
+        "PAST_SAFEGUARDING_FAILURE",
+        "EMOTIONAL_HARM"
+      ],
+      "contradiction_links": [
+        "BF-CONTRA-2024_ERASURE-2025-04-09"
+      ],
+      "timeline_hooks": [
+        "SAFEGUARDING_MEETING_2025-04-09",
+        "2024_ERASURE"
+      ]
+    },
+    {
+      "timestamp": "9:31",
+      "speaker": "Ben Carter",
+      "quote": "You did did.",
+      "tags": [
+        "EMPHASIS"
+      ],
+      "contradiction_links": [],
+      "timeline_hooks": [
+        "SAFEGUARDING_MEETING_2025-04-09"
+      ]
+    },
+    {
+      "timestamp": "9:31",
+      "speaker": "Amy Keogh",
+      "quote": "Ben this isn't what we're talking about",
+      "tags": [
+        "DEFLECTION",
+        "TOPIC_CONTAINMENT"
+      ],
+      "contradiction_links": [
+        "BF-CONTRA-2024_ERASURE-2025-04-09"
+      ],
+      "timeline_hooks": [
+        "SAFEGUARDING_MEETING_2025-04-09"
+      ]
+    },
+    {
+      "timestamp": "9:31",
+      "speaker": "Duncan Lustig-Prean",
+      "quote": "We're talking about",
+      "tags": [
+        "DEFLECTION",
+        "ALIGNMENT_WITH_CHAIR"
+      ],
+      "contradiction_links": [
+        "DUNCAN_ASSISTED_ERASURE"
+      ],
+      "timeline_hooks": [
+        "SAFEGUARDING_MEETING_2025-04-09"
+      ]
+    },
+    {
+      "timestamp": "9:31",
+      "speaker": "Ben Carter",
+      "quote": "you asked me what?",
+      "tags": [
+        "ACCOUNTABILITY_REQUEST"
+      ],
+      "contradiction_links": [],
+      "timeline_hooks": [
+        "SAFEGUARDING_MEETING_2025-04-09"
+      ]
+    },
+    {
+      "timestamp": "9:31",
+      "speaker": "Duncan Lustig-Prean",
+      "quote": "Ben",
+      "tags": [
+        "INTERRUPTION"
+      ],
+      "contradiction_links": [],
+      "timeline_hooks": [
+        "SAFEGUARDING_MEETING_2025-04-09"
+      ]
+    },
+    {
+      "timestamp": "9:31",
+      "speaker": "Ben Carter",
+      "quote": "I said, I can't have a repeat of last year. And you said,",
+      "tags": [
+        "2024_ERASURE_CONTEXT",
+        "ERASURE_AS_SAFEGUARDING",
+        "CHARITY_DUTY_OF_CARE_BREACH"
+      ],
+      "contradiction_links": [
+        "BF-CONTRA-2024_ERASURE-2025-04-09",
+        "BF-CONTRA-LOGGED-AND-AGREED-2025",
+        "BF-CONTRA-LOGGED-NON-CONSENT-2025"
+      ],
+      "timeline_hooks": [
+        "SAFEGUARDING_MEETING_2025-04-09",
+        "2024_ERASURE"
+      ]
+    },
+    {
+      "timestamp": "9:32",
+      "speaker": "Ben Carter",
+      "quote": "what",
+      "tags": [
+        "EMPHASIS"
+      ],
+      "contradiction_links": [],
+      "timeline_hooks": [
+        "SAFEGUARDING_MEETING_2025-04-09"
+      ]
+    },
+    {
+      "timestamp": "9:32",
+      "speaker": "Amy Keogh",
+      "quote": "Ben we don't want a repeat of last year",
+      "tags": [
+        "2024_ERASURE",
+        "FOCUS_ON_BEHAVIOUR_NOT_FAILURES",
+        "ERASURE_AS_SAFEGUARDING",
+        "CHARITY_DUTY_OF_CARE_BREACH"
+      ],
+      "contradiction_links": [
+        "BF-CONTRA-2024_ERASURE-2025-04-09",
+        "BF-CONTRA-LOGGED-AND-AGREED-2025",
+        "BF-CONTRA-LOGGED-NON-CONSENT-2025"
+      ],
+      "timeline_hooks": [
+        "SAFEGUARDING_MEETING_2025-04-09",
+        "2024_ERASURE"
+      ]
+    },
+    {
+      "timestamp": "9:54",
+      "speaker": "Ben Carter",
+      "quote": "happened and why? Because what?",
+      "tags": [
+        "ACCOUNTABILITY_REQUEST",
+        "CLARITY_DEMAND"
+      ],
+      "contradiction_links": [],
+      "timeline_hooks": [
+        "SAFEGUARDING_MEETING_2025-04-09"
+      ]
+    },
+    {
+      "timestamp": "9:59",
+      "speaker": "Duncan Lustig-Prean",
+      "quote": "Ben Do you. Want the Fringe to support you in your problem with this woman?. And do you want us to support you as a venue manager with your acts throughout this fringe?",
+      "tags": [
+        "REFRAME_TO_OPERATIONS",
+        "VENUE_SUPPORT_OFFER_LIMITED",
+        "FOCUS_SHIFT_FROM_SAFEGUARDING"
+      ],
+      "contradiction_links": [
+        "VENUE_TAKEOVER_THREAT"
+      ],
+      "timeline_hooks": [
+        "SAFEGUARDING_MEETING_2025-04-09"
+      ]
+    },
+    {
+      "timestamp": "10:11",
+      "speaker": "Ben Carter",
+      "quote": "The way you did it last year? Then no",
+      "tags": [
+        "2024_REFERENCE",
+        "REJECTION_OF_INADEQUATE_SUPPORT",
+        "ERASURE_AS_SAFEGUARDING",
+        "CHARITY_DUTY_OF_CARE_BREACH"
+      ],
+      "contradiction_links": [
+        "BF-CONTRA-2024_ERASURE-2025-04-09",
+        "BF-CONTRA-LOGGED-AND-AGREED-2025",
+        "BF-CONTRA-LOGGED-NON-CONSENT-2025"
+      ],
+      "timeline_hooks": [
+        "SAFEGUARDING_MEETING_2025-04-09",
+        "2024_ERASURE"
+      ]
+    },
+    {
+      "timestamp": "10:13",
+      "speaker": "Duncan Lustig-Prean",
+      "quote": "I'm talking abou this year",
+      "tags": [
+        "2024_ERASURE",
+        "DEFLECTION"
+      ],
+      "contradiction_links": [
+        "BF-CONTRA-2024_ERASURE-2025-04-09"
+      ],
+      "timeline_hooks": [
+        "SAFEGUARDING_MEETING_2025-04-09"
+      ]
+    },
+    {
+      "timestamp": "10:11",
+      "speaker": "Ben Carter",
+      "quote": "No no no I'm saying when you offered support last year,",
+      "tags": [
+        "2024_REFERENCE",
+        "SUPPORT_HISTORY",
+        "ERASURE_AS_SAFEGUARDING",
+        "CHARITY_DUTY_OF_CARE_BREACH"
+      ],
+      "contradiction_links": [
+        "BF-CONTRA-LOGGED-AND-AGREED-2025",
+        "BF-CONTRA-LOGGED-NON-CONSENT-2025"
+      ],
+      "timeline_hooks": [
+        "SAFEGUARDING_MEETING_2025-04-09",
+        "2024_ERASURE"
+      ]
+    },
+    {
+      "timestamp": "10:20",
+      "speaker": "Ben Carter",
+      "quote": "any expectations that we have as a fringe offering managers, we will try our best to respond to emails outside of the fringe within 24 hours That's the venue managers agreement.",
+      "tags": [
+        "EMAIL_RESPONSE_POLICY",
+        "VENUE_MANAGER_EXPECTATIONS",
+        "CONTRACTUAL_REFERENCES"
+      ],
+      "contradiction_links": [],
+      "timeline_hooks": [
+        "SAFEGUARDING_MEETING_2025-04-09"
+      ]
+    },
+    {
+      "timestamp": "10:34",
+      "speaker": "Duncan Lustig-Prean",
+      "quote": "We do not respond to emails, at 2 oclock in the morning, there's no one there",
+      "tags": [
+        "SERVICE_LIMITATION_STATEMENT"
+      ],
+      "contradiction_links": [],
+      "timeline_hooks": [
+        "SAFEGUARDING_MEETING_2025-04-09"
+      ]
+    },
+    {
+      "timestamp": "10:40",
+      "speaker": "Ben Carter",
+      "quote": "You don't have to respond at six in the morning, but you couldn't when you're at work",
+      "tags": [
+        "RESPONSE_TIME_REASONABLENESS",
+        "ACCOUNTABILITY_REQUEST"
+      ],
+      "contradiction_links": [],
+      "timeline_hooks": [
+        "SAFEGUARDING_MEETING_2025-04-09"
+      ]
+    },
+    {
+      "timestamp": "10:45",
+      "speaker": "Duncan Lustig-Prean",
+      "quote": "24 the next hours the next working day, we don't expect to be hassled with two or three emails by 12 o'clock the next morning. That's not 24 hours. Suddenly, you're filling up our email box where there are hundreds of other emails to deal with. So. We have artists and venue services during the course of the Fringe right the way through, Monday through to Sunday. If there's an urgent problem, they're there. The professionals are there. For you to come in and say hey i've got this problem, if you can't wait if you can't wait for up to 48 hours, which is what it would be during the running of the fringe.",
+      "tags": [
+        "SERVICE_LIMITATION_STATEMENT",
+        "WORKLOAD_JUSTIFICATION",
+        "RESPONSE_WINDOW_48H"
+      ],
+      "contradiction_links": [],
+      "timeline_hooks": [
+        "SAFEGUARDING_MEETING_2025-04-09"
+      ]
+    },
+    {
+      "timestamp": "11:23",
+      "speaker": "Ben Carter",
+      "quote": "It was",
+      "tags": [
+        "EMOTIONAL_FRAGMENT"
+      ],
+      "contradiction_links": [],
+      "timeline_hooks": [
+        "SAFEGUARDING_MEETING_2025-04-09"
+      ]
+    },
+    {
+      "timestamp": "11:24",
+      "speaker": "Duncan Lustig-Prean",
+      "quote": "Come in and talk to them",
+      "tags": [
+        "DIRECTIVE_TO_HUB",
+        "PROCESS_ADVICE"
+      ],
+      "contradiction_links": [],
+      "timeline_hooks": [
+        "SAFEGUARDING_MEETING_2025-04-09"
+      ]
+    },
+    {
+      "timestamp": "11:26",
+      "speaker": "Ben Carter",
+      "quote": "it was too weeks. Of me having to be at bleach you've seen the the video?",
+      "tags": [
+        "BLEACH_VENUE_PROBLEM",
+        "DOCUMENTATION_VIDEO_REFERENCE",
+        "OPERATIONS_FAILURE_2024"
+      ],
+      "contradiction_links": [
+        "BF-CONTRA-2024_ERASURE-2025-04-09"
+      ],
+      "timeline_hooks": [
+        "2024_ERASURE"
+      ]
+    },
+    {
+      "timestamp": "11:30",
+      "speaker": "Ben Carter",
+      "quote": ". Yes,",
+      "tags": [
+        "EMOTIONAL_FRAGMENT"
+      ],
+      "contradiction_links": [],
+      "timeline_hooks": [
+        "SAFEGUARDING_MEETING_2025-04-09"
+      ]
+    },
+    {
+      "timestamp": "11:30",
+      "speaker": "Amy Keogh",
+      "quote": "We did act on that though",
+      "tags": [
+        "ACTION_CLAIM"
+      ],
+      "contradiction_links": [
+        "BF-CONTRA-2024_ERASURE-2025-04-09"
+      ],
+      "timeline_hooks": [
+        "2024_ERASURE"
+      ]
+    },
+    {
+      "timestamp": "11:31",
+      "speaker": "Ben Carter",
+      "quote": "No Every single day, people were there with tickets",
+      "tags": [
+        "REFUND_TICKET_IMPACT",
+        "CUSTOMER_CONFUSION",
+        "ACTION_DISPUTE"
+      ],
+      "contradiction_links": [
+        "BF-CONTRA-2024_ERASURE-2025-04-09"
+      ],
+      "timeline_hooks": [
+        "2024_ERASURE"
+      ]
+    },
+    {
+      "timestamp": "11:44",
+      "speaker": "Amy Keogh",
+      "quote": "Yeah but people still... were on the website We made the changes.",
+      "tags": [
+        "WEBSITE_CHANGE_CLAIM",
+        "PARTIAL_ACTION"
+      ],
+      "contradiction_links": [],
+      "timeline_hooks": [
+        "2024_ERASURE"
+      ]
+    },
+    {
+      "timestamp": "11:54",
+      "speaker": "Ben Carter",
+      "quote": "No one got an email. I got them all to go through the phones. No one had an email",
+      "tags": [
+        "EMAIL_NOTIFICATION_FAILURE",
+        "CUSTOMER_SERVICE_WORKAROUND"
+      ],
+      "contradiction_links": [
+        "BF-CONTRA-2024_ERASURE-2025-04-09"
+      ],
+      "timeline_hooks": [
+        "2024_ERASURE"
+      ]
+    },
+    {
+      "timestamp": "11:59",
+      "speaker": "Duncan Lustig-Prean",
+      "quote": "Ben",
+      "tags": [
+        "INTERRUPTION"
+      ],
+      "contradiction_links": [],
+      "timeline_hooks": [
+        "SAFEGUARDING_MEETING_2025-04-09"
+      ]
+    },
+    {
+      "timestamp": "12:00",
+      "speaker": "Duncan Lustig-Prean",
+      "quote": "We called everyone",
+      "tags": [
+        "ACTION_CLAIM"
+      ],
+      "contradiction_links": [],
+      "timeline_hooks": [
+        "2024_ERASURE"
+      ]
+    },
+    {
+      "timestamp": "12:01",
+      "speaker": "Ben Carter",
+      "quote": "after the video. or?",
+      "tags": [
+        "ACTION_TIMING_CHALLENGE",
+        "DOCUMENTATION_VIDEO_REFERENCE"
+      ],
+      "contradiction_links": [],
+      "timeline_hooks": [
+        "2024_ERASURE"
+      ]
+    },
+    {
+      "timestamp": "12:01",
+      "speaker": "Amy Keogh",
+      "quote": "What video?",
+      "tags": [
+        "KNOWLEDGE_DISPUTE",
+        "DOCUMENTATION_QUERY"
+      ],
+      "contradiction_links": [],
+      "timeline_hooks": [
+        "2024_ERASURE"
+      ]
+    },
+    {
+      "timestamp": "12:02",
+      "speaker": "Ben Carter",
+      "quote": "The video",
+      "tags": [
+        "DOCUMENTATION_VIDEO_REFERENCE"
+      ],
+      "contradiction_links": [],
+      "timeline_hooks": [
+        "2024_ERASURE"
+      ]
+    },
+    {
+      "timestamp": "12:02",
+      "speaker": "Amy Keogh",
+      "quote": "You're not to share that with everybody",
+      "tags": [
+        "CONDITIONAL_SUPPORT_THREAT",
+        "PUBLICATION_WARNING",
+        "REPUTATION_MANAGEMENT"
+      ],
+      "contradiction_links": [
+        "REFRAMING_ABUSE",
+        "DUNCAN_ASSISTED_ERASURE"
+      ],
+      "timeline_hooks": [
+        "SAFEGUARDING_MEETING_2025-04-09"
+      ]
+    },
+    {
+      "timestamp": "12:03",
+      "speaker": "Ben Carter",
+      "quote": "I didn't share, When did I When did I was or you were going to share that?",
+      "tags": [
+        "MISCHARACTERISATION_DISPUTE",
+        "RETRAUMATISATION"
+      ],
+      "contradiction_links": [],
+      "timeline_hooks": [
+        "SAFEGUARDING_MEETING_2025-04-09"
+      ]
+    },
+    {
+      "timestamp": "12:04",
+      "speaker": "Amy Keogh",
+      "quote": "You just said after the video?",
+      "tags": [
+        "INTERPRETATION_DISPUTE"
+      ],
+      "contradiction_links": [],
+      "timeline_hooks": [
+        "SAFEGUARDING_MEETING_2025-04-09"
+      ]
+    },
+    {
+      "timestamp": "12:09",
+      "speaker": "Ben Carter",
+      "quote": "highlighting what it was,",
+      "tags": [
+        "EVIDENCE_INTENT_CLARIFICATION"
+      ],
+      "contradiction_links": [],
+      "timeline_hooks": [
+        "2024_ERASURE"
+      ]
+    },
+    {
+      "timestamp": "12:12",
+      "speaker": "Duncan Lustig-Prean",
+      "quote": "Ben we're going round it circles, we're getting nowhere",
+      "tags": [
+        "MEETING_CONTROL",
+        "DISMISSIVE_TONE"
+      ],
+      "contradiction_links": [
+        "DUNCAN_ASSISTED_ERASURE"
+      ],
+      "timeline_hooks": [
+        "SAFEGUARDING_MEETING_2025-04-09"
+      ]
+    },
+    {
+      "timestamp": "12:26",
+      "speaker": "Ben Carter",
+      "quote": "No we're not",
+      "tags": [
+        "DISPUTE_DISMISSAL"
+      ],
+      "contradiction_links": [],
+      "timeline_hooks": [
+        "SAFEGUARDING_MEETING_2025-04-09"
+      ]
+    },
+    {
+      "timestamp": "12:28",
+      "speaker": "Amy Keogh",
+      "quote": "What i will say",
+      "tags": [
+        "MEETING_PIVOT"
+      ],
+      "contradiction_links": [],
+      "timeline_hooks": [
+        "SAFEGUARDING_MEETING_2025-04-09"
+      ]
+    },
+    {
+      "timestamp": "12:28",
+      "speaker": "Duncan Lustig-Prean",
+      "quote": "I'm a senior manager and the senior manager",
+      "tags": [
+        "AUTHORITY_ASSERTION"
+      ],
+      "contradiction_links": [],
+      "timeline_hooks": [
+        "SAFEGUARDING_MEETING_2025-04-09"
+      ]
+    },
+    {
+      "timestamp": "12:28",
+      "speaker": "Ben Carter",
+      "quote": "Yeah yeah yeah you're a busy man",
+      "tags": [
+        "SARCASM",
+        "POWER_DYNAMICS"
+      ],
+      "contradiction_links": [],
+      "timeline_hooks": [
+        "SAFEGUARDING_MEETING_2025-04-09"
+      ]
+    },
+    {
+      "timestamp": "12:28",
+      "speaker": "Duncan Lustig-Prean",
+      "quote": "I don't have time",
+      "tags": [
+        "TIME_CONSTRAINT_ASSERTION",
+        "SAFEGUARDING_TONE_FAILURE"
+      ],
+      "contradiction_links": [
+        "NO_SAFEGUARDING_PROTOCOL_EXISTS"
+      ],
+      "timeline_hooks": [
+        "SAFEGUARDING_MEETING_2025-04-09"
+      ]
+    },
+    {
+      "timestamp": "12:29",
+      "speaker": "Ben Carter",
+      "quote": "not for me. I'm off (walk out)",
+      "tags": [
+        "MEETING_BREAKDOWN",
+        "EMOTIONAL_COLLAPSE"
+      ],
+      "contradiction_links": [],
+      "timeline_hooks": [
+        "SAFEGUARDING_MEETING_2025-04-09"
+      ]
+    },
+    {
+      "timestamp": "12:29",
+      "speaker": "Duncan Lustig-Prean",
+      "quote": "Ben sit",
+      "tags": [
+        "ATTEMPT_TO_RETAIN"
+      ],
+      "contradiction_links": [],
+      "timeline_hooks": [
+        "SAFEGUARDING_MEETING_2025-04-09"
+      ]
+    },
+    {
+      "timestamp": "12:21",
+      "speaker": "Ben Carter",
+      "quote": "No i can't be fucked",
+      "tags": [
+        "EMOTIONAL_OVERLOAD"
+      ],
+      "contradiction_links": [],
+      "timeline_hooks": [
+        "SAFEGUARDING_MEETING_2025-04-09"
+      ]
+    },
+    {
+      "timestamp": "12:30",
+      "speaker": "Duncan Lustig-Prean",
+      "quote": "what support do you need in respect of this woman?",
+      "tags": [
+        "REFRAME_TO_SINGLE_ISSUE",
+        "NARROWING_SCOPE"
+      ],
+      "contradiction_links": [
+        "BF-CONTRA-2024_ERASURE-2025-04-09",
+        "VENUE_TAKEOVER_THREAT"
+      ],
+      "timeline_hooks": [
+        "SAFEGUARDING_MEETING_2025-04-09"
+      ]
+    },
+    {
+      "timestamp": "12:34",
+      "speaker": "Duncan Lustig-Prean",
+      "quote": "That's the question,",
+      "tags": [
+        "MEETING_CONTROL"
+      ],
+      "contradiction_links": [],
+      "timeline_hooks": [
+        "SAFEGUARDING_MEETING_2025-04-09"
+      ]
+    },
+    {
+      "timestamp": "12:36",
+      "speaker": "Ben Carter",
+      "quote": "ok nothing in respect of this woman nothing and in respect of me, just leave it alone.",
+      "tags": [
+        "BOUNDARY_SETTING",
+        "DECLINING_SUPPORT"
+      ],
+      "contradiction_links": [],
+      "timeline_hooks": [
+        "SAFEGUARDING_MEETING_2025-04-09"
+      ]
+    },
+    {
+      "timestamp": "12:49",
+      "speaker": "Amy Keogh",
+      "quote": "Ben you've got a lot of shows have you got support?",
+      "tags": [
+        "OPERATIONS_FOCUS",
+        "SUPPORT_CHECK"
+      ],
+      "contradiction_links": [],
+      "timeline_hooks": [
+        "SAFEGUARDING_MEETING_2025-04-09"
+      ]
+    },
+    {
+      "timestamp": "12:51",
+      "speaker": "Ben Carter",
+      "quote": "last year, I could have done it if I was left alone.",
+      "tags": [
+        "2024_REFERENCE",
+        "INDEPENDENCE_ASSERTION",
+        "ERASURE_AS_SAFEGUARDING",
+        "CHARITY_DUTY_OF_CARE_BREACH"
+      ],
+      "contradiction_links": [
+        "BF-CONTRA-2024_ERASURE-2025-04-09",
+        "BF-CONTRA-LOGGED-AND-AGREED-2025",
+        "BF-CONTRA-LOGGED-NON-CONSENT-2025"
+      ],
+      "timeline_hooks": [
+        "2024_ERASURE"
+      ]
+    },
+    {
+      "timestamp": "12:52",
+      "speaker": "Amy Keogh",
+      "quote": "That's not what i'm saying i'm saying have you employed someone?",
+      "tags": [
+        "OPERATIONS_FOCUS",
+        "TEAM_SUPPORT_QUERY"
+      ],
+      "contradiction_links": [],
+      "timeline_hooks": [
+        "SAFEGUARDING_MEETING_2025-04-09"
+      ]
+    },
+    {
+      "timestamp": "12:53",
+      "speaker": "Ben Carter",
+      "quote": "Yeah, yeah",
+      "tags": [
+        "CONFIRMATION"
+      ],
+      "contradiction_links": [],
+      "timeline_hooks": [
+        "SAFEGUARDING_MEETING_2025-04-09"
+      ]
+    },
+    {
+      "timestamp": "12:54",
+      "speaker": "Ben Carter",
+      "quote": "James onions,",
+      "tags": [
+        "TEAM_MEMBER_NAMED"
+      ],
+      "contradiction_links": [],
+      "timeline_hooks": [
+        "SAFEGUARDING_MEETING_2025-04-09"
+      ]
+    },
+    {
+      "timestamp": "12:54",
+      "speaker": "Ben Carter",
+      "quote": "James onions (notebook out)",
+      "tags": [
+        "TEAM_MEMBER_NAMED",
+        "LOGGING_ACTION"
+      ],
+      "contradiction_links": [],
+      "timeline_hooks": [
+        "SAFEGUARDING_MEETING_2025-04-09"
+      ]
+    },
+    {
+      "timestamp": "12:54",
+      "speaker": "Amy Keogh",
+      "quote": "is he another",
+      "tags": [
+        "CLARIFICATION_PROMPT"
+      ],
+      "contradiction_links": [],
+      "timeline_hooks": [
+        "SAFEGUARDING_MEETING_2025-04-09"
+      ]
+    },
+    {
+      "timestamp": "12:55",
+      "speaker": "Amy Keogh",
+      "quote": "comedian?",
+      "tags": [
+        "CLARIFICATION_PROMPT"
+      ],
+      "contradiction_links": [],
+      "timeline_hooks": [
+        "SAFEGUARDING_MEETING_2025-04-09"
+      ]
+    },
+    {
+      "timestamp": "12:55",
+      "speaker": "Ben Carter",
+      "quote": "Yeah, and Riggs.",
+      "tags": [
+        "TEAM_MEMBER_NAMED"
+      ],
+      "contradiction_links": [],
+      "timeline_hooks": [
+        "SAFEGUARDING_MEETING_2025-04-09"
+      ]
+    },
+    {
+      "timestamp": "13:11",
+      "speaker": "Amy Keogh",
+      "quote": "Riggs. Riggs.",
+      "tags": [
+        "ACKNOWLEDGEMENT"
+      ],
+      "contradiction_links": [],
+      "timeline_hooks": [
+        "SAFEGUARDING_MEETING_2025-04-09"
+      ]
+    },
+    {
+      "timestamp": "13:13",
+      "speaker": "Ben Carter",
+      "quote": "and Amy",
+      "tags": [
+        "TEAM_MEMBER_NAMED_AMBIG"
+      ],
+      "contradiction_links": [],
+      "timeline_hooks": [
+        "SAFEGUARDING_MEETING_2025-04-09"
+      ]
+    },
+    {
+      "timestamp": "13:14",
+      "speaker": "Ben Carter",
+      "quote": "I mean emma",
+      "tags": [
+        "CORRECTION",
+        "TEAM_MEMBER_NAMED"
+      ],
+      "contradiction_links": [],
+      "timeline_hooks": [
+        "SAFEGUARDING_MEETING_2025-04-09"
+      ]
+    },
+    {
+      "timestamp": "13:16",
+      "speaker": "Amy Keogh",
+      "quote": "emma, and they're gonna help? It's on't because you've got so many shows ben",
+      "tags": [
+        "OPERATIONS_FOCUS",
+        "TEAM_CAPACITY_CONCERN"
+      ],
+      "contradiction_links": [],
+      "timeline_hooks": [
+        "SAFEGUARDING_MEETING_2025-04-09"
+      ]
+    },
+    {
+      "timestamp": "13:21",
+      "speaker": "Duncan Lustig-Prean",
+      "quote": "And you've got a show a day your self",
+      "tags": [
+        "WORKLOAD_CONCERN"
+      ],
+      "contradiction_links": [],
+      "timeline_hooks": [
+        "SAFEGUARDING_MEETING_2025-04-09"
+      ]
+    },
+    {
+      "timestamp": "13:24",
+      "speaker": "Ben Carter",
+      "quote": "Ahh i might not do that",
+      "tags": [
+        "FLEX_PLAN"
+      ],
+      "contradiction_links": [],
+      "timeline_hooks": [
+        "SAFEGUARDING_MEETING_2025-04-09"
+      ]
+    },
+    {
+      "timestamp": "13:26",
+      "speaker": "Ben Carter",
+      "quote": "It doesn't matter",
+      "tags": [
+        "DEPRIORITISATION"
+      ],
+      "contradiction_links": [],
+      "timeline_hooks": [
+        "SAFEGUARDING_MEETING_2025-04-09"
+      ]
+    },
+    {
+      "timestamp": "13:27",
+      "speaker": "Amy Keogh",
+      "quote": "It's in the brochure though ben",
+      "tags": [
+        "MARKETING_IMPLICATION",
+        "PROGRAMME_FIXITY"
+      ],
+      "contradiction_links": [],
+      "timeline_hooks": [
+        "SAFEGUARDING_MEETING_2025-04-09"
+      ]
+    },
+    {
+      "timestamp": "13:29",
+      "speaker": "Ben Carter",
+      "quote": "I'm gonna be there anyway. I So",
+      "tags": [
+        "AVAILABILITY_ASSERTION"
+      ],
+      "contradiction_links": [],
+      "timeline_hooks": [
+        "SAFEGUARDING_MEETING_2025-04-09"
+      ]
+    },
+    {
+      "timestamp": "13:32",
+      "speaker": "Amy Keogh",
+      "quote": "how do these three support",
+      "tags": [
+        "SUPPORT_STRUCTURE_QUERY"
+      ],
+      "contradiction_links": [],
+      "timeline_hooks": [
+        "SAFEGUARDING_MEETING_2025-04-09"
+      ]
+    },
+    {
+      "timestamp": "13:33",
+      "speaker": "Amy Keogh",
+      "quote": "you? They support you with your admin and supporting with emails, emails and stuff like that. Is it worth doing its own to us, where we can send stuff to them, as well as to you? Because artists do come to us. They naturally gravitate to us. They come to artist services, ask questions. But if we can, if you're busy doing something else, can we send an email to James or to riggs or to Emma instead or copy you all in our group emails?",
+      "tags": [
+        "OPERATIONS_COORDINATION",
+        "CC_TEAM_PROPOSAL",
+        "VENUE_TAKEOVER_PRESSURE_RISK"
+      ],
+      "contradiction_links": [
+        "VENUE_TAKEOVER_THREAT"
+      ],
+      "timeline_hooks": [
+        "SAFEGUARDING_MEETING_2025-04-09"
+      ]
+    },
+    {
+      "timestamp": "14:16",
+      "speaker": "Ben Carter",
+      "quote": "thing is people can tell I'm hurting, and I try and hide it. So I've got a I'm not able to talk about an ongoing police thing, but like so I can't let the acts know",
+      "tags": [
+        "EMOTIONAL_VULNERABILITY",
+        "CONFIDENTIALITY_CONSTRAINT",
+        "ONGOING_POLICE_CASE"
+      ],
+      "contradiction_links": [
+        "POLICE_DISCLOSURE_FAILURE"
+      ],
+      "timeline_hooks": [
+        "SAFEGUARDING_MEETING_2025-04-09"
+      ]
+    },
+    {
+      "timestamp": "15:16",
+      "speaker": "Ben Carter",
+      "quote": "the it's just when they see, me i've hit burnout. Now and it's like my fringe",
+      "tags": [
+        "BURNOUT",
+        "CAPACITY_RISK"
+      ],
+      "contradiction_links": [],
+      "timeline_hooks": [
+        "SAFEGUARDING_MEETING_2025-04-09"
+      ]
+    },
+    {
+      "timestamp": "15:01",
+      "speaker": "Amy Keogh",
+      "quote": "And that's what we're concerenced about we don't want you to burnout",
+      "tags": [
+        "WELFARE_EXPRESSED",
+        "SAFEGUARDING_LANGUAGE"
+      ],
+      "contradiction_links": [],
+      "timeline_hooks": [
+        "SAFEGUARDING_MEETING_2025-04-09"
+      ]
+    },
+    {
+      "timestamp": "15:04",
+      "speaker": "Amy Keogh",
+      "quote": "if you can't do your show that's fine",
+      "tags": [
+        "ACCOMMODATION_OFFER"
+      ],
+      "contradiction_links": [],
+      "timeline_hooks": [
+        "SAFEGUARDING_MEETING_2025-04-09"
+      ]
+    },
+    {
+      "timestamp": "15:06",
+      "speaker": "Duncan Lustig-Prean",
+      "quote": "Just take it off,",
+      "tags": [
+        "ACCOMMODATION_DIRECTIVE",
+        "PROGRAMME_CHANGE_SUGGESTION"
+      ],
+      "contradiction_links": [],
+      "timeline_hooks": [
+        "SAFEGUARDING_MEETING_2025-04-09"
+      ]
+    },
+    {
+      "timestamp": "15:07",
+      "speaker": "Amy Keogh",
+      "quote": "if it's too stressful for you just say.",
+      "tags": [
+        "ACCOMMODATION_OFFER",
+        "WELFARE_EXPRESSED"
+      ],
+      "contradiction_links": [],
+      "timeline_hooks": [
+        "SAFEGUARDING_MEETING_2025-04-09"
+      ]
+    },
+    {
+      "timestamp": "15:09",
+      "speaker": "Ben Carter",
+      "quote": "It's not I'm was gonna be there, so last year, like, I'm still sober, and it was surreal like someone giving up alcohol waiting outside for the pubs to open, but like Pucks a Coffee Shop, so I'm gonna be there.",
+      "tags": [
+        "SOBRIETY_CONTEXT",
+        "2024_REFERENCE",
+        "VENUE_AVAILABILITY",
+        "ERASURE_AS_SAFEGUARDING",
+        "CHARITY_DUTY_OF_CARE_BREACH"
+      ],
+      "contradiction_links": [
+        "BF-CONTRA-LOGGED-AND-AGREED-2025",
+        "BF-CONTRA-LOGGED-NON-CONSENT-2025"
+      ],
+      "timeline_hooks": [
+        "2024_ERASURE"
+      ]
+    },
+    {
+      "timestamp": "15:38",
+      "speaker": "Amy Keogh",
+      "quote": "That's the sober place isn't it?",
+      "tags": [
+        "CLARIFICATION_PROMPT",
+        "SOBER_VENUE_REFERENCE"
+      ],
+      "contradiction_links": [],
+      "timeline_hooks": [
+        "SAFEGUARDING_MEETING_2025-04-09"
+      ]
+    },
+    {
+      "timestamp": "15:40",
+      "speaker": "Ben Carter",
+      "quote": "Yeah. Yeah. But I really, like, I really want to steamroll the sober movement, because that was what, that's what took me so long to give up, like, the idea of AA meetings and all ends  sober meet ups. It seemed like a different world, but I've created something synonymous with alcohol that people can go see for the sober curious. And it works. It really works. And I wanna to show it works, because people doubt it until they do it. Like performers, the public love it,",
+      "tags": [
+        "SOBER_VENUE_INITIATIVE",
+        "RECOVERY_ADVOCACY",
+        "COMMUNITY_RESILIENCE"
+      ],
+      "contradiction_links": [],
+      "timeline_hooks": [
+        "SOBER_VENUE_INITIATIVE"
+      ]
+    },
+    {
+      "timestamp": "16:29",
+      "speaker": "Amy Keogh",
+      "quote": "Yeah",
+      "tags": [
+        "ACKNOWLEDGEMENT"
+      ],
+      "contradiction_links": [],
+      "timeline_hooks": [
+        "SAFEGUARDING_MEETING_2025-04-09"
+      ]
+    },
+    {
+      "timestamp": "16:29",
+      "speaker": "Ben Carter",
+      "quote": "but performers think people need to be drunk.",
+      "tags": [
+        "INDUSTRY_ATTITUDE",
+        "SOBER_VENUE_ADVOCACY"
+      ],
+      "contradiction_links": [],
+      "timeline_hooks": [
+        "SOBER_VENUE_INITIATIVE"
+      ]
+    },
+    {
+      "timestamp": "16:33",
+      "speaker": "Amy Keogh",
+      "quote": "Yeah",
+      "tags": [
+        "ACKNOWLEDGEMENT"
+      ],
+      "contradiction_links": [],
+      "timeline_hooks": [
+        "SOBER_VENUE_INITIATIVE"
+      ]
+    },
+    {
+      "timestamp": "16:34",
+      "speaker": "Ben Carter",
+      "quote": "They don't like they really don't. A good example was the last one we did. Someone snuck in boot, and they're at the front, heckling and stuff, and the first half until i got rid of her was awful, because the idea that that person's sober and like that, \"does she have a weapon?\" You know, like, if someone's pissed off, their face, but people think they're sober. That's terrifying, you know? but a collective group of sober people, it's amazing, absolutely the best gigs I've ever done, like and like, next year I want to add two more sober venues. I wouldn't Yeah, like,",
+      "tags": [
+        "SOBER_VENUE_EXAMPLE",
+        "AUDIENCE_SAFETY",
+        "PERFORMANCE_QUALITY"
+      ],
+      "contradiction_links": [],
+      "timeline_hooks": [
+        "SOBER_VENUE_INITIATIVE"
+      ]
+    },
+    {
+      "timestamp": "17:20",
+      "speaker": "Amy Keogh",
+      "quote": "And you've been doing these at PUCK Rock,",
+      "tags": [
+        "SOBER_VENUE_REFERENCE",
+        "PUCK_ROCK"
+      ],
+      "contradiction_links": [],
+      "timeline_hooks": [
+        "SOBER_VENUE_INITIATIVE"
+      ]
+    },
+    {
+      "timestamp": "17:28",
+      "speaker": "Ben Carter",
+      "quote": "Yeah yeah",
+      "tags": [
+        "CONFIRMATION"
+      ],
+      "contradiction_links": [],
+      "timeline_hooks": [
+        "SOBER_VENUE_INITIATIVE"
+      ]
+    },
+    {
+      "timestamp": "17:31",
+      "speaker": "Amy Keogh",
+      "quote": "they're not just new to the fringe then?",
+      "tags": [
+        "SCOPE_CLARIFICATION"
+      ],
+      "contradiction_links": [],
+      "timeline_hooks": [
+        "SOBER_VENUE_INITIATIVE"
+      ]
+    },
+    {
+      "timestamp": "17:34",
+      "speaker": "Ben Carter",
+      "quote": "No no",
+      "tags": [
+        "NEGATION"
+      ],
+      "contradiction_links": [],
+      "timeline_hooks": [
+        "SOBER_VENUE_INITIATIVE"
+      ]
+    },
+    {
+      "timestamp": "17:36",
+      "speaker": "Ben Carter",
+      "quote": "And so when I gave up, like, drinking and stuff. I became a CGL (Change Grow Live), mentor, just I wanted to help, like, and Alanna had been like, as part of her (coercive control) you can't even fucking, like, oh, you can't even do that and all this shit. And I was like, setting up a sober  venue, and I make it easier for the sober curious,",
+      "tags": [
+        "CGL_MENTORSHIP",
+        "COERCIVE_CONTROL_REFERENCE",
+        "SOBER_VENUE_INITIATIVE"
+      ],
+      "contradiction_links": [],
+      "timeline_hooks": [
+        "SOBER_VENUE_INITIATIVE"
+      ]
+    },
+    {
+      "timestamp": "18:12",
+      "speaker": "Amy Keogh",
+      "quote": "hmm",
+      "tags": [
+        "ACKNOWLEDGEMENT"
+      ],
+      "contradiction_links": [],
+      "timeline_hooks": [
+        "SOBER_VENUE_INITIATIVE"
+      ]
+    },
+    {
+      "timestamp": "18:13",
+      "speaker": "Ben Carter",
+      "quote": "like, if there's no alcohol there, they won't be tempted. Everyone else is sober so they won't feel at a pub that sort of, like, it took me a while to sort of feel comfortable in a pub,",
+      "tags": [
+        "RECOVERY_BARRIERS",
+        "SOBER_SPACE_BENEFITS"
+      ],
+      "contradiction_links": [],
+      "timeline_hooks": [
+        "SOBER_VENUE_INITIATIVE"
+      ]
+    },
+    {
+      "timestamp": "18:29",
+      "speaker": "Amy Keogh",
+      "quote": "hmm",
+      "tags": [
+        "ACKNOWLEDGEMENT"
+      ],
+      "contradiction_links": [],
+      "timeline_hooks": [
+        "SOBER_VENUE_INITIATIVE"
+      ]
+    },
+    {
+      "timestamp": "18:29",
+      "speaker": "Ben Carter",
+      "quote": "like, but knowing everyone else is sober too,",
+      "tags": [
+        "SOBER_SPACE_BENEFITS"
+      ],
+      "contradiction_links": [],
+      "timeline_hooks": [
+        "SOBER_VENUE_INITIATIVE"
+      ]
+    },
+    {
+      "timestamp": "18:32",
+      "speaker": "Amy Keogh",
+      "quote": "yeah",
+      "tags": [
+        "ACKNOWLEDGEMENT"
+      ],
+      "contradiction_links": [],
+      "timeline_hooks": [
+        "SOBER_VENUE_INITIATIVE"
+      ]
+    },
+    {
+      "timestamp": "18:32",
+      "speaker": "Ben Carter",
+      "quote": "like, that's where I want half a camel to go",
+      "tags": [
+        "HALF_A_CAMEL_VISION",
+        "SOBER_VENUE_STRATEGY"
+      ],
+      "contradiction_links": [],
+      "timeline_hooks": [
+        "SOBER_VENUE_INITIATIVE"
+      ]
+    },
+    {
+      "timestamp": "18:39",
+      "speaker": "Amy Keogh",
+      "quote": ", yeah. ok",
+      "tags": [
+        "ACKNOWLEDGEMENT",
+        "MEETING_PIVOT"
+      ],
+      "contradiction_links": [],
+      "timeline_hooks": [
+        "SAFEGUARDING_MEETING_2025-04-09"
+      ]
+    },
+    {
+      "timestamp": "18:43",
+      "speaker": "Ben Carter",
+      "quote": "I just wanna help people, but",
+      "tags": [
+        "ALTRUISTIC_INTENT",
+        "EMOTIONAL_TONE"
+      ],
+      "contradiction_links": [],
+      "timeline_hooks": [
+        "SAFEGUARDING_MEETING_2025-04-09"
+      ]
+    },
+    {
+      "timestamp": "18:47",
+      "speaker": "Amy Keogh",
+      "quote": "Okay, so just moving forward, then",
+      "tags": [
+        "MEETING_PIVOT",
+        "FUTURE_FOCUS"
+      ],
+      "contradiction_links": [],
+      "timeline_hooks": [
+        "SAFEGUARDING_MEETING_2025-04-09"
+      ]
+    },
+    {
+      "timestamp": "18:55",
+      "speaker": "Amy Keogh",
+      "quote": "I think we're trying to get that collective emails. Then for those who will support",
+      "tags": [
+        "OPERATIONS_COORDINATION",
+        "TEAM_EMAIL_PROPOSAL",
+        "VENUE_TAKEOVER_PRESSURE_RISK"
+      ],
+      "contradiction_links": [
+        "VENUE_TAKEOVER_THREAT"
+      ],
+      "timeline_hooks": [
+        "SAFEGUARDING_MEETING_2025-04-09"
+      ]
+    },
+    {
+      "timestamp": "19:00",
+      "speaker": "Amy Keogh",
+      "quote": "network for half a camel",
+      "tags": [
+        "OPERATIONS_COORDINATION"
+      ],
+      "contradiction_links": [],
+      "timeline_hooks": [
+        "SAFEGUARDING_MEETING_2025-04-09"
+      ]
+    },
+    {
+      "timestamp": "19:03",
+      "speaker": "Ben Carter",
+      "quote": "I'm getting a lot of so I'm trying, at the moment to help acts that aren't getting ticket sales.",
+      "tags": [
+        "ARTIST_SUPPORT",
+        "TICKET_SALES_STRESS"
+      ],
+      "contradiction_links": [],
+      "timeline_hooks": [
+        "SAFEGUARDING_MEETING_2025-04-09"
+      ]
+    },
+    {
+      "timestamp": "19:16",
+      "speaker": "Amy Keogh",
+      "quote": "right",
+      "tags": [
+        "ACKNOWLEDGEMENT"
+      ],
+      "contradiction_links": [],
+      "timeline_hooks": [
+        "SAFEGUARDING_MEETING_2025-04-09"
+      ]
+    },
+    {
+      "timestamp": "19:19",
+      "speaker": "Ben Carter",
+      "quote": "And I've started like, I've got all these pages on the site, which is, like, to  help",
+      "tags": [
+        "RESOURCE_CREATION",
+        "ARTIST_SUPPORT"
+      ],
+      "contradiction_links": [],
+      "timeline_hooks": [
+        "SAFEGUARDING_MEETING_2025-04-09"
+      ]
+    },
+    {
+      "timestamp": "19:27",
+      "speaker": "Amy Keogh",
+      "quote": "mmhmm",
+      "tags": [
+        "ACKNOWLEDGEMENT"
+      ],
+      "contradiction_links": [],
+      "timeline_hooks": [
+        "SAFEGUARDING_MEETING_2025-04-09"
+      ]
+    },
+    {
+      "timestamp": "19:27",
+      "speaker": "Ben Carter",
+      "quote": "and like, yeah, like, what websites to go on to like, get more awareness. Like, how to structure Instagram posts, how to. Like, yeah. Like, the advantage of hash tags, and how they work. But like, if someone still isn't so still isn't selling, like, I. I'll speak to them, like, personally and like, come up with a plan with them.",
+      "tags": [
+        "MARKETING_COACHING",
+        "ARTIST_MENTORING"
+      ],
+      "contradiction_links": [],
+      "timeline_hooks": [
+        "SAFEGUARDING_MEETING_2025-04-09"
+      ]
+    },
+    {
+      "timestamp": "20:08",
+      "speaker": "Amy Keogh",
+      "quote": "ok.... So are you? Are you talking to people? How many shows have you got 150?",
+      "tags": [
+        "CAPACITY_CHECK",
+        "OPERATIONS_FOCUS"
+      ],
+      "contradiction_links": [],
+      "timeline_hooks": [
+        "SAFEGUARDING_MEETING_2025-04-09"
+      ]
+    },
+    {
+      "timestamp": "20:19",
+      "speaker": "Ben Carter",
+      "quote": "Acts",
+      "tags": [
+        "CLARIFICATION"
+      ],
+      "contradiction_links": [],
+      "timeline_hooks": [
+        "SAFEGUARDING_MEETING_2025-04-09"
+      ]
+    },
+    {
+      "timestamp": "20:20",
+      "speaker": "Amy Keogh",
+      "quote": "Yeah,",
+      "tags": [
+        "ACKNOWLEDGEMENT"
+      ],
+      "contradiction_links": [],
+      "timeline_hooks": [
+        "SAFEGUARDING_MEETING_2025-04-09"
+      ]
+    },
+    {
+      "timestamp": "20:24",
+      "speaker": "Ben Carter",
+      "quote": "but like, Do you reckon the shows that aren't like, selling, like, maybe, like an email or something,",
+      "tags": [
+        "REQUEST_FOR_FRINGE_SUPPORT",
+        "PUBLICITY_ASK"
+      ],
+      "contradiction_links": [],
+      "timeline_hooks": [
+        "SAFEGUARDING_MEETING_2025-04-09"
+      ]
+    },
+    {
+      "timestamp": "20:42",
+      "speaker": "Amy Keogh",
+      "quote": "What from us?",
+      "tags": [
+        "SCOPE_QUERY"
+      ],
+      "contradiction_links": [],
+      "timeline_hooks": [
+        "SAFEGUARDING_MEETING_2025-04-09"
+      ]
+    },
+    {
+      "timestamp": "20:45",
+      "speaker": "Ben Carter",
+      "quote": "yeah or just or just a bit publicity, cos that that's, that's this, that's what I'll be getting from them",
+      "tags": [
+        "PUBLICITY_REQUEST"
+      ],
+      "contradiction_links": [],
+      "timeline_hooks": [
+        "SAFEGUARDING_MEETING_2025-04-09"
+      ]
+    },
+    {
+      "timestamp": "20:57",
+      "speaker": "Amy Keogh",
+      "quote": "So with our,",
+      "tags": [
+        "RESPONSE_PREAMBLE"
+      ],
+      "contradiction_links": [],
+      "timeline_hooks": [
+        "SAFEGUARDING_MEETING_2025-04-09"
+      ]
+    },
+    {
+      "timestamp": "21:01",
+      "speaker": "Amy Keogh",
+      "quote": "with our marketing, obviously, we were sharing",
+      "tags": [
+        "MARKETING_SUPPORT_OUTLINE"
+      ],
+      "contradiction_links": [],
+      "timeline_hooks": [
+        "SAFEGUARDING_MEETING_2025-04-09"
+      ]
+    },
+    {
+      "timestamp": "21:09",
+      "speaker": "Amy Keogh",
+      "quote": "various ways",
+      "tags": [
+        "MARKETING_SUPPORT_OUTLINE"
+      ],
+      "contradiction_links": [],
+      "timeline_hooks": [
+        "SAFEGUARDING_MEETING_2025-04-09"
+      ]
+    },
+    {
+      "timestamp": "21:11",
+      "speaker": "Amy Keogh",
+      "quote": "of marketing during daily, shout outs",
+      "tags": [
+        "SHOUT_OUTS_PAID",
+        "MARKETING_CHANNELS"
+      ],
+      "contradiction_links": [],
+      "timeline_hooks": [
+        "SAFEGUARDING_MEETING_2025-04-09"
+      ]
+    },
+    {
+      "timestamp": "21:13",
+      "speaker": "Amy Keogh",
+      "quote": "Yeah by email (you have to pay for)  daily also, if you include it on your help page, others as collaborators on their Instagram posts. So that's great.",
+      "tags": [
+        "PAID_EMAIL_SHOUTOUTS",
+        "INSTAGRAM_COLLABS"
+      ],
+      "contradiction_links": [],
+      "timeline_hooks": [
+        "SAFEGUARDING_MEETING_2025-04-09"
+      ]
+    },
+    {
+      "timestamp": "21:35",
+      "speaker": "Amy Keogh",
+      "quote": "Definitely",
+      "tags": [
+        "ACKNOWLEDGEMENT"
+      ],
+      "contradiction_links": [],
+      "timeline_hooks": [
+        "SAFEGUARDING_MEETING_2025-04-09"
+      ]
+    },
+    {
+      "timestamp": "21:39",
+      "speaker": "Amy Keogh",
+      "quote": "shows it is a bit of you know, there is a bit of financial investiment but that will help to move tickets,",
+      "tags": [
+        "FINANCIAL_COST_NUDGE",
+        "PAY_TO_PROMOTE_HINT"
+      ],
+      "contradiction_links": [],
+      "timeline_hooks": [
+        "SAFEGUARDING_MEETING_2025-04-09"
+      ]
+    },
+    {
+      "timestamp": "21:47",
+      "speaker": "Ben Carter",
+      "quote": "Yeah",
+      "tags": [
+        "ACKNOWLEDGEMENT"
+      ],
+      "contradiction_links": [],
+      "timeline_hooks": [
+        "SAFEGUARDING_MEETING_2025-04-09"
+      ]
+    },
+    {
+      "timestamp": "21:42",
+      "speaker": "Amy Keogh",
+      "quote": "but we can't give out personal shout outs, we just can't do that sort of investment for free",
+      "tags": [
+        "SUPPORT_LIMITATION",
+        "NO_FREE_SHOUTOUTS"
+      ],
+      "contradiction_links": [],
+      "timeline_hooks": [
+        "SAFEGUARDING_MEETING_2025-04-09"
+      ]
+    },
+    {
+      "timestamp": "21:54",
+      "speaker": "Ben Carter",
+      "quote": "Is there something I can do as a shout out which last year it was like that promo code thing, Like the cheaper tickets. We did that like, Yeah,",
+      "tags": [
+        "PROMO_CODE_IDEA",
+        "2024_REFERENCE",
+        "ERASURE_AS_SAFEGUARDING",
+        "CHARITY_DUTY_OF_CARE_BREACH"
+      ],
+      "contradiction_links": [
+        "BF-CONTRA-LOGGED-AND-AGREED-2025",
+        "BF-CONTRA-LOGGED-NON-CONSENT-2025"
+      ],
+      "timeline_hooks": [
+        "2024_ERASURE"
+      ]
+    },
+    {
+      "timestamp": "22:20",
+      "speaker": "Amy Keogh",
+      "quote": "have you  got people approaching you already",
+      "tags": [
+        "DEMAND_SIGNAL_QUERY"
+      ],
+      "contradiction_links": [],
+      "timeline_hooks": [
+        "SAFEGUARDING_MEETING_2025-04-09"
+      ]
+    },
+    {
+      "timestamp": "22:25",
+      "speaker": "Amy Keogh",
+      "quote": "saying, selling tickets there?",
+      "tags": [
+        "DEMAND_SIGNAL_QUERY"
+      ],
+      "contradiction_links": [],
+      "timeline_hooks": [
+        "SAFEGUARDING_MEETING_2025-04-09"
+      ]
+    },
+    {
+      "timestamp": "22:28",
+      "speaker": "Ben Carter",
+      "quote": "Yeah.",
+      "tags": [
+        "CONFIRMATION"
+      ],
+      "contradiction_links": [],
+      "timeline_hooks": [
+        "SAFEGUARDING_MEETING_2025-04-09"
+      ]
+    },
+    {
+      "timestamp": "22:29",
+      "speaker": "Duncan Lustig-Prean",
+      "quote": "errrrm",
+      "tags": [
+        "PAUSE_FILLER"
+      ],
+      "contradiction_links": [],
+      "timeline_hooks": [
+        "SAFEGUARDING_MEETING_2025-04-09"
+      ]
+    },
+    {
+      "timestamp": "22:29",
+      "speaker": "Amy Keogh",
+      "quote": "I mean, those are the things I",
+      "tags": [
+        "MARKETING_SUPPORT_OUTLINE"
+      ],
+      "contradiction_links": [],
+      "timeline_hooks": [
+        "SAFEGUARDING_MEETING_2025-04-09"
+      ]
+    },
+    {
+      "timestamp": "22:33",
+      "speaker": "Amy Keogh",
+      "quote": "can think of, marketing we'll go through",
+      "tags": [
+        "MARKETING_SUPPORT_OUTLINE"
+      ],
+      "contradiction_links": [],
+      "timeline_hooks": [
+        "SAFEGUARDING_MEETING_2025-04-09"
+      ]
+    },
+    {
+      "timestamp": "22:38",
+      "speaker": "Ben Carter",
+      "quote": "If I just had some like something that like would be like, sort of this show isn't like. They're emailing me because of stress, i feel their stress like you.",
+      "tags": [
+        "ARTIST_STRESS_RELAY",
+        "REQUEST_FOR_STANDARD_SUPPORT_PACKAGE"
+      ],
+      "contradiction_links": [],
+      "timeline_hooks": [
+        "SAFEGUARDING_MEETING_2025-04-09"
+      ]
+    },
+    {
+      "timestamp": "23:01",
+      "speaker": "Amy Keogh",
+      "quote": "we could say the fringe could make some recommendations.",
+      "tags": [
+        "SUPPORT_TEMPLATE_SUGGESTION"
+      ],
+      "contradiction_links": [],
+      "timeline_hooks": [
+        "SAFEGUARDING_MEETING_2025-04-09"
+      ]
+    },
+    {
+      "timestamp": "23:09",
+      "speaker": "Ben Carter",
+      "quote": "Yeah?",
+      "tags": [
+        "PROMPT_TO_DETAIL"
+      ],
+      "contradiction_links": [],
+      "timeline_hooks": [
+        "SAFEGUARDING_MEETING_2025-04-09"
+      ]
+    },
+    {
+      "timestamp": "23:09",
+      "speaker": "Amy Keogh",
+      "quote": "We can't fix it, we can't force people to go, hyou know that as well as we do",
+      "tags": [
+        "LIMITATION_STATEMENT"
+      ],
+      "contradiction_links": [],
+      "timeline_hooks": [
+        "SAFEGUARDING_MEETING_2025-04-09"
+      ]
+    },
+    {
+      "timestamp": "23:17",
+      "speaker": "Ben Carter",
+      "quote": "Do I?",
+      "tags": [
+        "CHALLENGE_TO_LIMITATION"
+      ],
+      "contradiction_links": [],
+      "timeline_hooks": [
+        "SAFEGUARDING_MEETING_2025-04-09"
+      ]
+    },
+    {
+      "timestamp": "23:18",
+      "speaker": "Amy Keogh",
+      "quote": "We can certainly tell you what we're available to do but we can't do ad hoc",
+      "tags": [
+        "BOUNDARIES_SET",
+        "SUPPORT_FRAMEWORK_ONLY"
+      ],
+      "contradiction_links": [],
+      "timeline_hooks": [
+        "SAFEGUARDING_MEETING_2025-04-09"
+      ]
+    },
+    {
+      "timestamp": "23:25",
+      "speaker": "Ben Carter",
+      "quote": "yeah, okay, but I can.",
+      "tags": [
+        "SELF_HELP_ASSERTION"
+      ],
+      "contradiction_links": [],
+      "timeline_hooks": [
+        "SAFEGUARDING_MEETING_2025-04-09"
+      ]
+    },
+    {
+      "timestamp": "23:27",
+      "speaker": "Amy Keogh",
+      "quote": "You can yeah",
+      "tags": [
+        "ACKNOWLEDGEMENT"
+      ],
+      "contradiction_links": [],
+      "timeline_hooks": [
+        "SAFEGUARDING_MEETING_2025-04-09"
+      ]
+    },
+    {
+      "timestamp": "23:28",
+      "speaker": "Ben Carter",
+      "quote": "But, like, in that, could include, like, it could be like a standard one we set up like a promo code that is just to get cheaper tickets.",
+      "tags": [
+        "PROMO_CODE_IDEA",
+        "STANDARD_PACKAGE_IDEA"
+      ],
+      "contradiction_links": [],
+      "timeline_hooks": [
+        "SAFEGUARDING_MEETING_2025-04-09"
+      ]
+    },
+    {
+      "timestamp": "24:10",
+      "speaker": "Amy Keogh",
+      "quote": "I think if we say that, then if you do get any emails with",
+      "tags": [
+        "SUPPORT_TEMPLATE_SUGGESTION"
+      ],
+      "contradiction_links": [],
+      "timeline_hooks": [
+        "SAFEGUARDING_MEETING_2025-04-09"
+      ]
+    },
+    {
+      "timestamp": "24:13",
+      "speaker": "Amy Keogh",
+      "quote": "event. If you do get any emails concerned that they haven't sold tickets, if you just forward that straight on to me and my team, that would alieviate some of that stress",
+      "tags": [
+        "FORWARD_TO_TEAM",
+        "STRESS_ALLEVIATION_OFFER"
+      ],
+      "contradiction_links": [],
+      "timeline_hooks": [
+        "SAFEGUARDING_MEETING_2025-04-09"
+      ]
+    },
+    {
+      "timestamp": "24:21",
+      "speaker": "Ben Carter",
+      "quote": "would that be? What contact that be?",
+      "tags": [
+        "PROCESS_CLARIFICATION_REQUEST"
+      ],
+      "contradiction_links": [],
+      "timeline_hooks": [
+        "SAFEGUARDING_MEETING_2025-04-09"
+      ]
+    },
+    {
+      "timestamp": "24:22",
+      "speaker": "Ben Carter",
+      "quote": "So the takepart@brightonfringe..org one",
+      "tags": [
+        "CONTACT_POINT_CONFIRMATION"
+      ],
+      "contradiction_links": [],
+      "timeline_hooks": [
+        "SAFEGUARDING_MEETING_2025-04-09"
+      ]
+    },
+    {
+      "timestamp": "24:22",
+      "speaker": "Ben Carter",
+      "quote": "No What was so they they email me, but what would like? What would you provide? What was your email back be?",
+      "tags": [
+        "OUTCOME_CLARIFICATION_REQUEST"
+      ],
+      "contradiction_links": [],
+      "timeline_hooks": [
+        "SAFEGUARDING_MEETING_2025-04-09"
+      ]
+    },
+    {
+      "timestamp": "24:22",
+      "speaker": "Ben Carter",
+      "quote": "So we would let them know what we've got available that's free of charge",
+      "tags": [
+        "BEN_REPHRASES_THEIR_POSITION"
+      ],
+      "contradiction_links": [],
+      "timeline_hooks": [
+        "SAFEGUARDING_MEETING_2025-04-09"
+      ]
+    },
+    {
+      "timestamp": "24:37",
+      "speaker": "Ben Carter",
+      "quote": "Whats that?",
+      "tags": [
+        "DETAIL_REQUEST"
+      ],
+      "contradiction_links": [],
+      "timeline_hooks": [
+        "SAFEGUARDING_MEETING_2025-04-09"
+      ]
+    },
+    {
+      "timestamp": "24:42",
+      "speaker": "Amy Keogh",
+      "quote": ", Instagram stories that will share, posting as collaborators. They can also flyer in certain areas. We've got 10 flyering licenses that we give out for free for four hours at a time, the only thing we ask for is something valuable to keep as a deposit, so that we know people are going to bring their licence back.",
+      "tags": [
+        "SUPPORT_MENU",
+        "INSTAGRAM_STORIES",
+        "FLYERING_LICENSES",
+        "DEPOSIT_REQUIREMENT"
+      ],
+      "contradiction_links": [],
+      "timeline_hooks": [
+        "SAFEGUARDING_MEETING_2025-04-09"
+      ]
+    },
+    {
+      "timestamp": "25:08",
+      "speaker": "Ben Carter",
+      "quote": "Yeah they know all that I've got",
+      "tags": [
+        "ALREADY_PROVIDED_INFO"
+      ],
+      "contradiction_links": [],
+      "timeline_hooks": [
+        "SAFEGUARDING_MEETING_2025-04-09"
+      ]
+    },
+    {
+      "timestamp": "25:18",
+      "speaker": "Ben Carter",
+      "quote": "pages of everything like for I've got friends like, go to page, which includes all information. It's just",
+      "tags": [
+        "RESOURCE_REFERENCE",
+        "DOCS_ALREADY_EXIST"
+      ],
+      "contradiction_links": [],
+      "timeline_hooks": [
+        "SAFEGUARDING_MEETING_2025-04-09"
+      ]
+    },
+    {
+      "timestamp": "25:34",
+      "speaker": "Amy Keogh",
+      "quote": "something, a reminder of something that some",
+      "tags": [
+        "SUGGESTION_PREAMBLE"
+      ],
+      "contradiction_links": [],
+      "timeline_hooks": [
+        "SAFEGUARDING_MEETING_2025-04-09"
+      ]
+    },
+    {
+      "timestamp": "25:38",
+      "speaker": "Amy Keogh",
+      "quote": "top line items that they can just do",
+      "tags": [
+        "CHECKLIST_SUGGESTION"
+      ],
+      "contradiction_links": [],
+      "timeline_hooks": [
+        "SAFEGUARDING_MEETING_2025-04-09"
+      ]
+    },
+    {
+      "timestamp": "25:41",
+      "speaker": "Ben Carter",
+      "quote": "quickly. Maybe",
+      "tags": [
+        "AGREEMENT_PREAMBLE"
+      ],
+      "contradiction_links": [],
+      "timeline_hooks": [
+        "SAFEGUARDING_MEETING_2025-04-09"
+      ]
+    },
+    {
+      "timestamp": "25:42",
+      "speaker": "Ben Carter",
+      "quote": "I've got it.",
+      "tags": [
+        "RESOLUTION_HINT"
+      ],
+      "contradiction_links": [],
+      "timeline_hooks": [
+        "SAFEGUARDING_MEETING_2025-04-09"
+      ]
+    },
+    {
+      "timestamp": "25:42",
+      "speaker": "Amy Keogh",
+      "quote": "Yeah,",
+      "tags": [
+        "ACKNOWLEDGEMENT"
+      ],
+      "contradiction_links": [],
+      "timeline_hooks": [
+        "SAFEGUARDING_MEETING_2025-04-09"
+      ]
+    },
+    {
+      "timestamp": "25:43",
+      "speaker": "Ben Carter",
+      "quote": "I'm just, I'm just saying that, yeah, with this information that is still stressed,",
+      "tags": [
+        "STRESS_SIGNAL",
+        "ARTIST_STRESS_RELAY"
+      ],
+      "contradiction_links": [],
+      "timeline_hooks": [
+        "SAFEGUARDING_MEETING_2025-04-09"
+      ]
+    },
+    {
+      "timestamp": "25:56",
+      "speaker": "Amy Keogh",
+      "quote": "yeah. erm",
+      "tags": [
+        "ACKNOWLEDGEMENT"
+      ],
+      "contradiction_links": [],
+      "timeline_hooks": [
+        "SAFEGUARDING_MEETING_2025-04-09"
+      ]
+    },
+    {
+      "timestamp": "26:02",
+      "speaker": "Amy Keogh",
+      "quote": "But they won't be the only ones that will be that worrieed about that",
+      "tags": [
+        "NORMALISATION_OF_STRESS"
+      ],
+      "contradiction_links": [],
+      "timeline_hooks": [
+        "SAFEGUARDING_MEETING_2025-04-09"
+      ]
+    },
+    {
+      "timestamp": "26:06",
+      "speaker": "Amy Keogh",
+      "quote": "be first time, and understanding how it works, and you have to do a lot to sell tickets you have to get out there to sell tickets",
+      "tags": [
+        "ARTIST_RESPONSIBILITY_NUDGE",
+        "MARKETING_EFFORT_EXPECTATION"
+      ],
+      "contradiction_links": [],
+      "timeline_hooks": [
+        "SAFEGUARDING_MEETING_2025-04-09"
+      ]
+    },
+    {
+      "timestamp": "26:14",
+      "speaker": "Amy Keogh",
+      "quote": "you know that ben surely as an an artist as well,",
+      "tags": [
+        "RESPONSIBILITY_NORMATIVE"
+      ],
+      "contradiction_links": [],
+      "timeline_hooks": [
+        "SAFEGUARDING_MEETING_2025-04-09"
+      ]
+    },
+    {
+      "timestamp": "26:20",
+      "speaker": "Amy Keogh",
+      "quote": "especially new artists as well, people don't really",
+      "tags": [
+        "MARKET_REALITY_NUDGE"
+      ],
+      "contradiction_links": [],
+      "timeline_hooks": [
+        "SAFEGUARDING_MEETING_2025-04-09"
+      ]
+    },
+    {
+      "timestamp": "26:22",
+      "speaker": "Duncan Lustig-Prean",
+      "quote": "know about them. Discussion. We've got",
+      "tags": [
+        "PIVOT_TO_ACCESS",
+        "TOPIC_SHIFT"
+      ],
+      "contradiction_links": [],
+      "timeline_hooks": [
+        "SAFEGUARDING_MEETING_2025-04-09"
+      ]
+    },
+    {
+      "timestamp": "26:35",
+      "speaker": "Duncan Lustig-Prean",
+      "quote": "Access.",
+      "tags": [
+        "TOPIC_SHIFT",
+        "CLOSING_NOTE"
+      ],
+      "contradiction_links": [],
+      "timeline_hooks": [
+        "SAFEGUARDING_MEETING_2025-04-09"
+      ]
+    }
+  ],
+  "created_utc": "2025-08-28T22:25:28.569294Z",
+  "hashes": {
+    "sha256": "058e788ae7169e385de29e2b7274bb75b876e3bdf3fc6c3f87ba354841933119",
+    "sha1": "b9262b3163b44080297d2acf44fc787a468dc35a",
+    "md5": "7c7c3ade13b78cd850a07fd3650370dd"
+  },
+  "updated_utc": "2025-08-28T22:35:34.894880Z"
+}

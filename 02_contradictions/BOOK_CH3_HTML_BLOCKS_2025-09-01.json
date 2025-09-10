@@ -1,0 +1,17 @@
+[
+  {
+    "chapter_id": "sec3_suicide_logged_late",
+    "title": "3.1 \u2014 The Suicide That Was Logged Late",
+    "html": "<div id=\"ch3-suicide-logged-late\" class=\"book-chapter\">\n  <h2>3.1 \u2014 The Suicide That Was Logged Late</h2>\n  <blockquote>\u201cThis wasn\u2019t just a missed call. It was a missed life.\u201d</blockquote>\n  <ul class=\"tags\">\n    <li>SUICIDE_ATTEMPT</li> <li>SUICIDE_LOG_DELAY</li> <li>DEATH_BY_SILENCE</li>\n  </ul>\n  <div class=\"contradictions\">\n    Contradictions:\n    SUICIDE_LOG_DELAY; DEATH_BY_SILENCE\n  </div>\n</div>"
+  },
+  {
+    "chapter_id": "sec3_role_rewritten",
+    "title": "3.2 \u2014 How My Role Was Rewritten",
+    "html": "<div id=\"ch3-role-rewritten\" class=\"book-chapter\">\n  <h2>3.2 \u2014 How My Role Was Rewritten</h2>\n  <blockquote>\u201cWe didn\u2019t mean to erase you. We just didn\u2019t include you.\u201d</blockquote>\n  <ul class=\"tags\">\n    <li>VENUE_OBSERVER_ROLE_MANIPULATION</li> <li>NARRATIVE_CONTROL</li> <li>DUNCAN_ASSISTED_ERASURE</li>\n  </ul>\n  <div class=\"contradictions\">\n    Contradictions:\n    DUNCAN_ASSISTED_ERASURE\n  </div>\n</div>"
+  },
+  {
+    "chapter_id": "sec3_sar_strategy",
+    "title": "3.3 \u2014 Deny, Delay, Delete \u2014 The SAR Strategy",
+    "html": "<div id=\"ch3-sar-strategy\" class=\"book-chapter\">\n  <h2>3.3 \u2014 Deny, Delay, Delete \u2014 The SAR Strategy</h2>\n  <blockquote>\u201cThey were building the paperwork of plausible deniability.\u201d</blockquote>\n  <ul class=\"tags\">\n    <li>SAR_STRUCTURAL_ABSENCE</li> <li>INSTITUTIONAL_GASLIGHTING</li> <li>DPA_GDPR</li>\n  </ul>\n  <div class=\"contradictions\">\n    Contradictions:\n    BF-CONTRA-SAR-GDPR-BREACH-2025; BF-CONTRA-NO-RECORD-OF-ALLEGATIONS-2025\n  </div>\n</div>"
+  }
+]

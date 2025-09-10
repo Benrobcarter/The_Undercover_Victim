@@ -1,0 +1,63 @@
+🚀 Starting Undercover Victim Full Merge – 2025-09-05_15-45-48
+📄 Step 0: OCR ingest with folder tagging...
+/Library/Developer/CommandLineTools/usr/bin/python3: can't open file '/Users/bencarter/Documents/The_Undercover_Victim/06_scripts/ocr_ingest_with_folder_awareness.py': [Errno 2] No such file or directory
+📌 Step 1: Patching new VEX and contradictions...
+✅ Shards patched into:
+  • /Users/bencarter/Documents/The_Undercover_Victim/01_evidence/vex/shard_evidence_vex_merged_v3.json
+  • /Users/bencarter/Documents/The_Undercover_Victim/02_contradictions/shard_contradictions_core_merged_v3.json
+  • /Users/bencarter/Documents/The_Undercover_Victim/03_timelines/shard_timelines_core_merged_UPDATED_2025-09-01_v3.json
+  • /Users/bencarter/Documents/The_Undercover_Victim/07_meta/contradiction_cluster_index_2025-09-01.json
+🔐 Step 2: Hashing audio (if any)...
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+Traceback (most recent call last):
+  File "/Users/bencarter/Documents/The_Undercover_Victim/06_scripts/hash_audio.py", line 12, in <module>
+    audio_rel = data.get("links", {}).get("audio_local_path")
+AttributeError: 'list' object has no attribute 'get'
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+SHA-256: fa8d8aebd8bdf0655aedff8b345bfc8ba92eb37a79aedebe6a8e2a3597b366e7
+Updated /Users/bencarter/Documents/The_Undercover_Victim/01_evidence/vex/VEX_2025-06-22_0037_101_Alanna_New_Call_Not_Dead.json with audio_sha256.
+No links.audio_local_path in JSON
+🧠 Step 3: Merging shards via atlas.json...
+🔍 Loading shard: shard_contradictions_core → /Users/bencarter/Documents/The_Undercover_Victim/02_contradictions/shard_contradictions_core_merged_v3.json
+🔍 Loading shard: shard_evidence_vex → /Users/bencarter/Documents/The_Undercover_Victim/01_evidence/vex/shard_evidence_vex_merged_v3.json
+🔍 Loading shard: shard_timelines_core → /Users/bencarter/Documents/The_Undercover_Victim/03_timelines/shard_timelines_core_merged_UPDATED_2025-09-01_v3.json
+🔍 Loading shard: shard_manifest_meta → /Users/bencarter/Documents/The_Undercover_Victim/07_meta/shard_manifest_meta.json
+🔍 Loading shard: shard_contradictions_vex → /Users/bencarter/Documents/The_Undercover_Victim/07_meta/contradictions_vex.json
+🔍 Loading shard: contradictions_holiday_alibi → /Users/bencarter/Documents/The_Undercover_Victim/07_meta/CONTRADICTION_PACK_HOLIDAY_ALIBI_FULL_BUNDLE.json
+🔍 Loading shard: contradictions_duncan_patch → /Users/bencarter/Documents/The_Undercover_Victim/07_meta/DUNCAN_ATTEMPTED_MURDER_CONTRADICTION_PATCH.json
+🔍 Loading shard: contradictions_veritas_chat → /Users/bencarter/Documents/The_Undercover_Victim/07_meta/EX_VERITAS_CHAT_CONTRADICTION_2025.json
+✅ Wrote consolidated files to: ['08_audit', 'dashboard/data']
+📊 Step 4: Running final audit...
+✅ Status report generated: /Users/bencarter/Documents/the_undercover_victim/08_audit/STATUS_REPORT_2025-09-05.json
+📦 Step 5: Zipping audit report...
+  adding: STATUS_REPORT_2025-09-05.json (deflated 41%)
+📂 Step 6: Opening audit folder...
+✅ Merge + Audit complete – 2025-09-05_15-45-48

@@ -1,0 +1,34 @@
+{
+  "id": "CONTRA_2025-05-07_Public_Calls_Prove_Operational_Collapse",
+  "title": "Brighton Fringe Used My Personal Phone for Box Office, Then Blamed Me for Collapse",
+  "claim": "Brighton Fringe intervened to protect the public and their reputation because I was no longer operational.",
+  "reality": "A member of the public called me, believing my number was the official Brighton Fringe support line. This proves the Brighton Fringe ticketing and performer tracking system had failed. I was fielding customer service calls, describing visible collapse, trying to salvage their reputation, and contemplating going rogue to ensure the shows could go ahead — while being blamed and erased.",
+  "actors": [
+    "Brighton Fringe"
+  ],
+  "laws": [
+    {
+      "act": "Consumer Protection from Unfair Trading Regulations 2008",
+      "section": "Misleading omissions",
+      "why": "The public had no access to performer or event contact details."
+    },
+    {
+      "act": "Charities Act 2011",
+      "section": "s.177",
+      "why": "Failure to act transparently and protect public safety."
+    }
+  ],
+  "tags": [
+    "OPERATIONAL_BREAKDOWN",
+    "UNLAWFUL_BURDEN_SHIFT",
+    "SAFEGUARDING_DEFLECTION",
+    "INSTITUTIONAL_ABANDONMENT"
+  ],
+  "timeline_hooks": [
+    "t2_brighton_fringe_consequences#2025-05-07"
+  ],
+  "evidence_refs": [
+    "TRANSCRIPT_2025-05-07_Public_Call_Box_Office_Collapse"
+  ],
+  "created_at": "2025-08-31T20:30:21.529696Z"
+}

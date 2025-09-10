@@ -1,0 +1,155 @@
+{
+  "meta": {
+    "filename": "2025-03-08_Ben_to_PC-Dixon_Medical-Report-Guidance-and-Statement-Preference.json",
+    "case_reference": "47240214305",
+    "thread_label": "CRIME_REF_47240214305_THREAD",
+    "actor_cluster": [
+      "Ben Carter",
+      "PC Jon Dixon (EA817)",
+      "Sussex Police"
+    ],
+    "date_range": {
+      "start": "2025-03-08T19:00:00",
+      "end": "2025-03-08T19:00:00"
+    },
+    "source_provenance": "Email from Ben Carter to PC Jon Dixon on 8 Mar 2025 at 19:00 (provided by user)",
+    "created_at_utc": "2025-08-24T20:46:14Z",
+    "vex_schema_version": "1.1",
+    "human_exhibit_name": "CRN-47240214305_Ben_to_PC-Dixon_08-Mar-2025_Email-TBD.pdf",
+    "export_profile": "PUBLIC_SANITIZED_V1",
+    "export_timestamp_utc": "2025-08-24T20:55:02Z"
+  },
+  "emails": [
+    {
+      "id": "email-2025-03-08-1900-ben-dixon",
+      "date": "2025-03-08T19:00:00",
+      "from": {
+        "name": "Ben Carter",
+        "email": "benrobcarter@gmail.com",
+        "badge": ""
+      },
+      "to": [
+        {
+          "name": "PC Jon Dixon",
+          "email": "Jon.Dixon@sussex.police.uk",
+          "badge": "EA817"
+        }
+      ],
+      "subject_summary": "Statement preference, mental health impact, medical report guidance request",
+      "body": "Statement preference (face-to-face) and request for guidance on medical letter; mental health impact acknowledged.",
+      "attachments": [],
+      "labels": [
+        "Statement Preference (Face-to-Face)",
+        "Pre-Notice for Calls Requested",
+        "Mental Health Impact (Triggering Evidence Review)",
+        "Doctor Letter (Fee) — Guidance Requested",
+        "Email Retention Concern (90 days)",
+        "Debt/Financial Strain"
+      ]
+    }
+  ],
+  "vex": [
+    {
+      "email_id": "email-2025-03-08-1900-ben-dixon",
+      "sentence_tags": [
+        {
+          "text": "[Sanitized public summary]",
+          "tags": [
+            "SENSITIVE_IMPACT_SUMMARY"
+          ],
+          "notes": "Details minimized for public sharing; see internal exhibit for full context."
+        },
+        {
+          "text": "[Sanitized public summary]",
+          "tags": [
+            "SENSITIVE_IMPACT_SUMMARY"
+          ],
+          "notes": "Details minimized for public sharing; see internal exhibit for full context."
+        },
+        {
+          "text": "[Sanitized public summary]",
+          "tags": [
+            "SENSITIVE_IMPACT_SUMMARY"
+          ],
+          "notes": "Details minimized for public sharing; see internal exhibit for full context."
+        },
+        {
+          "text": "[Sanitized public summary]",
+          "tags": [
+            "SENSITIVE_IMPACT_SUMMARY"
+          ],
+          "notes": "Details minimized for public sharing; see internal exhibit for full context."
+        },
+        {
+          "text": "[Sanitized public summary]",
+          "tags": [
+            "SENSITIVE_IMPACT_SUMMARY"
+          ],
+          "notes": "Details minimized for public sharing; see internal exhibit for full context."
+        },
+        {
+          "text": "[Sanitized public summary]",
+          "tags": [
+            "SENSITIVE_IMPACT_SUMMARY"
+          ],
+          "notes": "Details minimized for public sharing; see internal exhibit for full context."
+        }
+      ]
+    }
+  ],
+  "contradiction_links": [
+    {
+      "id": "SP-CONTRA-GUIDANCE-GAP-STATEMENT-AND-MEDICAL-2025-03-08",
+      "claim": "Police provided clear guidance on statement method and medical evidence scope.",
+      "reality": "Victim requests in-person statement and explicit guidance on paid medical letter scope.",
+      "laws_breached": [
+        "Victims' Code 2020 (Right to be provided with information)",
+        "Victims' Code 2020 (Special measures consideration)"
+      ],
+      "damages": [
+        "Emotional",
+        "Strategic"
+      ]
+    },
+    {
+      "id": "SP-CONTRA-EVIDENCE-PRESERVATION-EMAILS-90DAYS-2025-03-08",
+      "claim": "Evidence preservation pathways were clear and timely.",
+      "reality": "Victim warns emails may be purged after ~90 days and seeks direction to avoid loss.",
+      "laws_breached": [
+        "Victims' Code 2020 (Right to support & information)"
+      ],
+      "damages": [
+        "Strategic"
+      ]
+    }
+  ],
+  "timeline_hooks": [
+    {
+      "phase": "Investigation – Statements & Medical Evidence",
+      "date": "2025-03-08",
+      "events": [
+        "Victim requests face-to-face statement and advance scheduling to mitigate harm.",
+        "Seeks precise guidance for paid GP letter; notes email retention limit (~90 days)."
+      ],
+      "related_threads": [
+        "CRIME_REF_47240214305_THREAD",
+        "MEDICAL_EVIDENCE_REQUEST"
+      ]
+    }
+  ],
+  "damages_summary": {
+    "emotional": "Sleep disruption, distress when revisiting evidence; fear the system won’t listen.",
+    "strategic": "Unclear guidance on medical letter; risk of email loss; potential delay to statement.",
+    "reputational": "None explicit; sensitivity around mental health and stalking context."
+  },
+  "qa": {
+    "checks": [
+      "date_present",
+      "case_ref_present",
+      "exhibit_named",
+      "attachments_indexed"
+    ],
+    "status": "pending"
+  },
+  "redaction_notes": "Sanitized for public sharing: removed method/clinical specifics; preserved chronology."
+}

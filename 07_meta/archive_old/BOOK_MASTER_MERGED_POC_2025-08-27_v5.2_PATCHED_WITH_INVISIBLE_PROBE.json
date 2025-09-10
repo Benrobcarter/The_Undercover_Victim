@@ -1,0 +1,47 @@
+{
+  "chapters": [
+    {
+      "id": "sec3_33",
+      "title": "3.33 — The Invisible Probe: Covert Verification of the ‘PC Russell’ Diversion (18 June 2025)",
+      "order": 333,
+      "paragraphs": [
+        {
+          "text": "On 18 June 2025, a triage-level 101 call was used as an ‘invisible probe’. By staying at triage, Ben confirmed the existence of a decoy case (…93423) under ‘PC Russell’, running in parallel to the original stalking case (…305). Four days later, the Russell case disappeared and control reverted to PC Dixon — exposing a pre‑prepared deception dismantled after detection.",
+          "allegations": [
+            "Evidence tampering and data suppression",
+            "Catastrophic safeguarding breaches by Sussex Police"
+          ],
+          "contradictions": [
+            "DECOY_CASE_SPLIT",
+            "FRACTURED_TIMELINE",
+            "REVERSAL_AFTER_PROBE",
+            "MISLEADING_IOPC_NARRATIVE"
+          ],
+          "timeline_refs": [
+            "t1_sussex_police_chronology#invisible_probe"
+          ],
+          "vex_tags": [
+            "DEATH_BY_SILENCE",
+            "CROWBARRING_MYSELF_JUSTICE",
+            "CRIME_REF_47240214305_THREAD"
+          ]
+        }
+      ]
+    }
+  ],
+  "timelines": {
+    "t1_sussex_police_chronology": [
+      {
+        "id": "invisible_probe",
+        "date": "2025-06-18",
+        "title": "Invisible Probe — triage call confirms ‘PC Russell’ decoy (…93423)",
+        "tag": "INVISIBLE_PROBE_CALL",
+        "links": {
+          "evidence_id": "VEX_2025-06-18_101_Invisible_Probe",
+          "vex_file": "VEX_2025-06-18_101_Invisible_Probe.json"
+        },
+        "notes": "Decoy confirmed at triage; reversed on 2025-06-22 with consolidation to Dixon."
+      }
+    ]
+  }
+}

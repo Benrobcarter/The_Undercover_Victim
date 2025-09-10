@@ -1,0 +1,28 @@
+{
+  "id": "VEX_Gmail - FW_ Hannah Henderson_ Application for CEO of Brighton Fringe_OCR",
+  "type": "evidence",
+  "source": "Smart OCR Ingest",
+  "date": "DATE_NOT_FOUND",
+  "summary": "Auto-ingested from file: Gmail - FW_ Hannah Henderson_ Application for CEO of Brighton Fringe.pdf",
+  "meta": {
+    "original_filename": "Gmail - FW_ Hannah Henderson_ Application for CEO of Brighton Fringe.pdf",
+    "ocr_pdf_file": "Gmail - FW_ Hannah Henderson_ Application for CEO of Brighton Fringe_ocr.pdf",
+    "ocr_text_file": "Gmail - FW_ Hannah Henderson_ Application for CEO of Brighton Fringe.txt",
+    "sha256": "127ea0830402ad402514a8f0928ffd2e5157046ff0da54013fef002e5c9a4ab3",
+    "source_folder": ".",
+    "ingested_on": "2025-09-06T14:33:33.327529",
+    "ingest_method": "ocr_smart"
+  },
+  "links": {
+    "source_file_original": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_unprocessed/Gmail - FW_ Hannah Henderson_ Application for CEO of Brighton Fringe.pdf",
+    "ocr_pdf_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_ocrd/Gmail - FW_ Hannah Henderson_ Application for CEO of Brighton Fringe_ocr.pdf",
+    "ocr_text_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/text/Gmail - FW_ Hannah Henderson_ Application for CEO of Brighton Fringe.txt"
+  },
+  "tags": [
+    "auto_ocr",
+    "gmail ",
+    " fw",
+    " hannah henderson",
+    " application for ceo of brighton fringe"
+  ]
+}

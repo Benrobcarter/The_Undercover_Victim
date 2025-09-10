@@ -1,0 +1,95 @@
+{
+  "generated_utc": "2025-08-26T17:09:38Z",
+  "schema": "contradictions_core.schema.json",
+  "contradictions": [
+    {
+      "id": "BF-CONTRA-HOSTILE-TAKEOVER-2025-05-08",
+      "folder_id": 2,
+      "title": "Hostile takeover of Half a Camel operations",
+      "claim": "Ben failed to meet contractual obligations; Fringe had to assume control.",
+      "reality": "Fringe unilaterally took control despite ongoing compliance and active management by Ben.",
+      "date_of_claim": "2025-07-18",
+      "actors": [
+        "Brighton Fringe",
+        "Duncan Lustig-Prean",
+        "Ben Carter"
+      ],
+      "laws": [
+        "Charities Act 2011",
+        "Breach of Contract (civil cause)",
+        "UK GDPR / DPA 2018"
+      ],
+      "damages": [
+        "Financial",
+        "Reputational"
+      ],
+      "evidence_ids": [],
+      "notes": "Seeded entry; add July email contradictions next."
+    },
+    {
+      "id": "BF-CONTRA-REFUSAL-MISREPRESENTED-2025-07-18",
+      "folder_id": 1,
+      "title": "“Refused offers of support” — misrepresentation",
+      "claim": "Ben refused offers of support from Brighton Fringe.",
+      "reality": "April–May safeguarding records show engagement, meetings, an action plan, and NHS appointment — not refusal.",
+      "date_of_claim": "2025-07-18",
+      "actors": [
+        "Brighton Fringe",
+        "Duncan Lustig-Prean",
+        "Ben Carter"
+      ],
+      "laws": [
+        "Defamation Act 2013",
+        "Charities Act 2011",
+        "Care Act 2014",
+        "UK GDPR / DPA 2018"
+      ],
+      "damages": [
+        "Reputational",
+        "Emotional",
+        "Medical"
+      ],
+      "evidence_ids": [
+        "EVID-DATE_NEEDED-APRIL-SAFEGUARDING-SEQUENCE-DEEPDIVE-01",
+        "EVID-DATE_NEEDED-APRIL-SAFEGUARDING-SEQUENCE-RECEIPT-01",
+        "EVID-DATE_NEEDED-SAFEGUARDING-MEETING-DEEPDIVE-01",
+        "EVID-DATE_NEEDED-SAFEGUARDING-MEETING-RECEIPT-01",
+        "EVID-DATE_NEEDED-FRINGE-SAFEGUARDING-MEETING-DEEPDIVE-01",
+        "EVID-DATE_NEEDED-ACTION-PLAN-MEETING-NOTES-DEEPDIVE-01",
+        "EVID-DATE_NEEDED-RECENT-DISCLOSURE-DEEPDIVE-01",
+        "EVID-DATE_NEEDED-WEST-ATS-APPOINTMENT-RECEIPT-01"
+      ]
+    },
+    {
+      "id": "BF-CONTRA-SUPPORT-WAS-COERCION-2025-07-18",
+      "folder_id": 7,
+      "title": "Safeguarding framed as coercive compliance",
+      "claim": "Fringe’s safeguarding process was reasonable and supportive.",
+      "reality": "Records indicate pressure and misframing of cooperation; support offered in a way that risked coercion and reputational harm.",
+      "date_of_claim": "2025-07-18",
+      "actors": [
+        "Brighton Fringe",
+        "Duncan Lustig-Prean",
+        "Ben Carter"
+      ],
+      "laws": [
+        "Care Act 2014",
+        "Equality Act 2010",
+        "UK GDPR / DPA 2018"
+      ],
+      "damages": [
+        "Emotional",
+        "Medical",
+        "Reputational"
+      ],
+      "evidence_ids": [
+        "EVID-DATE_NEEDED-APRIL-SAFEGUARDING-SEQUENCE-DEEPDIVE-01",
+        "EVID-DATE_NEEDED-APRIL-SAFEGUARDING-SEQUENCE-RECEIPT-01",
+        "EVID-DATE_NEEDED-SAFEGUARDING-MEETING-DEEPDIVE-01",
+        "EVID-DATE_NEEDED-SAFEGUARDING-MEETING-RECEIPT-01",
+        "EVID-DATE_NEEDED-FRINGE-SAFEGUARDING-MEETING-DEEPDIVE-01",
+        "EVID-DATE_NEEDED-ACTION-PLAN-MEETING-NOTES-DEEPDIVE-01"
+      ]
+    }
+  ]
+}

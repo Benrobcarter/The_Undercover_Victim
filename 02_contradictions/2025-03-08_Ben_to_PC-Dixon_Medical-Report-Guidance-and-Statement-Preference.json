@@ -1,0 +1,158 @@
+{
+  "meta": {
+    "filename": "2025-03-08_Ben_to_PC-Dixon_Medical-Report-Guidance-and-Statement-Preference.json",
+    "case_reference": "47240214305",
+    "thread_label": "CRIME_REF_47240214305_THREAD",
+    "actor_cluster": [
+      "Ben Carter",
+      "PC Jon Dixon (EA817)",
+      "Sussex Police"
+    ],
+    "date_range": {
+      "start": "2025-03-08T19:00:00",
+      "end": "2025-03-08T19:00:00"
+    },
+    "source_provenance": "Email from Ben Carter to PC Jon Dixon on 8 Mar 2025 at 19:00 (provided by user)",
+    "created_at_utc": "2025-08-24T20:46:14Z",
+    "vex_schema_version": "1.1",
+    "human_exhibit_name": "CRN-47240214305_Ben_to_PC-Dixon_08-Mar-2025_Email-TBD.pdf"
+  },
+  "emails": [
+    {
+      "id": "email-2025-03-08-1900-ben-dixon",
+      "date": "2025-03-08T19:00:00",
+      "from": {
+        "name": "Ben Carter",
+        "email": "benrobcarter@gmail.com",
+        "badge": ""
+      },
+      "to": [
+        {
+          "name": "PC Jon Dixon",
+          "email": "Jon.Dixon@sussex.police.uk",
+          "badge": "EA817"
+        }
+      ],
+      "subject_summary": "Statement preference, mental health impact, medical report guidance request",
+      "body": "Hello mate, I'd rather give a statement face to face, it was your call that woke me up today, I'm not sleeping well. If you could let me know in advance, mentally a phone call out the blue at the moment you could get me in any of my up and down manic or depressed states; if I know in advance the time and date, I can prepare myself for going through it. Every time I have to go through the evidence I go on a downward spiral; it brings up so much pain. I've contacted the doctor to call me back and I'm going to arrange an appointment too.\n\nThe doctor has said for a fee they will provide whatever you need, could you please highlight what to really concentrate on, what I should say to them when creating/writing up this medical report so as not to miss anything. A lot of it is emails which they don't keep hold of for longer than 90 days; I could send them all the emails and they could confirm these have been received, etc...\n\nHappy to pay whatever; I'm already in so much debt due to her, I might as well go in more debt if it's going to help my case and the justice I deserve. I took your advice—I got out. I felt like I let down the speed of the investigation by not providing a statement and am seeing a friend tonight to start the process of confidence again as I need to be strong now.\n\nThanks so much for taking this seriously. I still have all the words she's said about me in my head and doubt the system as she told me they won't listen, and stalking cases are harder when the gender are this way round. Thank you.\n\nBen Carter",
+      "attachments": [],
+      "labels": [
+        "Statement Preference (Face-to-Face)",
+        "Pre-Notice for Calls Requested",
+        "Mental Health Impact (Triggering Evidence Review)",
+        "Doctor Letter (Fee) — Guidance Requested",
+        "Email Retention Concern (90 days)",
+        "Debt/Financial Strain"
+      ]
+    }
+  ],
+  "vex": [
+    {
+      "email_id": "email-2025-03-08-1900-ben-dixon",
+      "sentence_tags": [
+        {
+          "text": "I'd rather give a statement face to face… please let me know in advance.",
+          "tags": [
+            "STATEMENT_MODE_PREFERENCE",
+            "PREFER_SCHEDULED_CONTACT"
+          ],
+          "notes": "Seeks in-person statement and scheduled contact to avoid harm."
+        },
+        {
+          "text": "Every time I have to go through the evidence I go on a downward spiral; it brings up so much pain.",
+          "tags": [
+            "MENTAL_HEALTH_IMPACT",
+            "TRAUMA_TRIGGER"
+          ],
+          "notes": "Describes adverse effect of repeated evidence reviews."
+        },
+        {
+          "text": "The doctor has said for a fee they will provide whatever you need… what to really concentrate on…",
+          "tags": [
+            "PAID_MEDICAL_LETTER",
+            "GUIDANCE_REQUEST"
+          ],
+          "notes": "Asks officer to specify scope and content to avoid omissions."
+        },
+        {
+          "text": "A lot of it is emails which they don't keep hold of for longer than 90 days…",
+          "tags": [
+            "EMAIL_RETENTION_LIMIT",
+            "EVIDENCE_PRESERVATION_CONCERN"
+          ],
+          "notes": "Raises risk of loss if not captured promptly."
+        },
+        {
+          "text": "I'm already in so much debt… might as well go in more debt if it's going to help my case.",
+          "tags": [
+            "FINANCIAL_STRAIN",
+            "ACCESS_TO_JUSTICE_BARRIER"
+          ],
+          "notes": "Cost burden to obtain medical evidence."
+        },
+        {
+          "text": "Stalking cases are harder when the gender are this way round.",
+          "tags": [
+            "SYSTEM_CONFIDENCE_ISSUE",
+            "PERCEIVED_BIAS_CONCERN"
+          ],
+          "notes": "Expresses fear the system may not listen."
+        }
+      ]
+    }
+  ],
+  "contradiction_links": [
+    {
+      "id": "SP-CONTRA-GUIDANCE-GAP-STATEMENT-AND-MEDICAL-2025-03-08",
+      "claim": "Police provided clear guidance on statement method and medical evidence scope.",
+      "reality": "Victim requests in-person statement and explicit guidance on paid medical letter scope.",
+      "laws_breached": [
+        "Victims' Code 2020 (Right to be provided with information)",
+        "Victims' Code 2020 (Special measures consideration)"
+      ],
+      "damages": [
+        "Emotional",
+        "Strategic"
+      ]
+    },
+    {
+      "id": "SP-CONTRA-EVIDENCE-PRESERVATION-EMAILS-90DAYS-2025-03-08",
+      "claim": "Evidence preservation pathways were clear and timely.",
+      "reality": "Victim warns emails may be purged after ~90 days and seeks direction to avoid loss.",
+      "laws_breached": [
+        "Victims' Code 2020 (Right to support & information)"
+      ],
+      "damages": [
+        "Strategic"
+      ]
+    }
+  ],
+  "timeline_hooks": [
+    {
+      "phase": "Investigation – Statements & Medical Evidence",
+      "date": "2025-03-08",
+      "events": [
+        "Victim requests face-to-face statement and advance scheduling to mitigate harm.",
+        "Seeks precise guidance for paid GP letter; notes email retention limit (~90 days)."
+      ],
+      "related_threads": [
+        "CRIME_REF_47240214305_THREAD",
+        "MEDICAL_EVIDENCE_REQUEST"
+      ]
+    }
+  ],
+  "damages_summary": {
+    "emotional": "Sleep disruption, distress when revisiting evidence; fear the system won’t listen.",
+    "strategic": "Unclear guidance on medical letter; risk of email loss; potential delay to statement.",
+    "reputational": "None explicit; sensitivity around mental health and stalking context."
+  },
+  "qa": {
+    "checks": [
+      "date_present",
+      "case_ref_present",
+      "exhibit_named",
+      "attachments_indexed"
+    ],
+    "status": "pending"
+  }
+}

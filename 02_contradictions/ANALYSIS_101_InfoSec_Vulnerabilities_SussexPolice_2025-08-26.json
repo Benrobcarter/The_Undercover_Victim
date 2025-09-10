@@ -1,0 +1,84 @@
+{
+  "meta": {
+    "analysis_id": "ANALYSIS_101_INFOSEC_VULN_2025-08-26",
+    "title": "An Analysis of Information Security Vulnerabilities in the Sussex Police 101 Non‑Emergency Call Handling System",
+    "created_at": "2025-08-26T00:41:49.835223Z",
+    "updated_at": "2025-08-26T00:41:49.835223Z",
+    "artifact_type": "analysis/write-up",
+    "is_evidence": false,
+    "source_file_name": "An Analysis of Information Security Vulnerabilities in the Sussex Police 101 Non-Emergency Call Handling System.pdf",
+    "source_path": "/mnt/data/An Analysis of Information Security Vulnerabilities in the Sussex Police 101 Non-Emergency Call Handling System.pdf",
+    "source_sha256": "ccc3eb80ceddd52e23dc264df71da133ce3e9a2f3e44ffc6f3fe8812c6b9cb89",
+    "linked_clusters": [
+      "SUSSEX_POLICE",
+      "INFOSEC_VULNERABILITIES",
+      "VICTIMS_CODE_LEVERAGE",
+      "DEATH_BY_SILENCE",
+      "VRR_NFA",
+      "CRIME_REF_47240214305_THREAD"
+    ],
+    "related_evidence_ids": [
+      "VEX_2025-04-28_Sussex_Police_Complaints_Department_Call",
+      "VEX_2025-04-17_0432_101_Holiday_Alibi_REBUILT",
+      "VEX_2025-05-16_101_Social_Engineering",
+      "VEX_2025-05-26_101_Strategic_Confusion"
+    ],
+    "status": "draft",
+    "version": "0.1.0"
+  },
+  "executive_summary": [
+    "Two separate 101 interactions revealed personal data (OIC’s name) by bypassing standard security via (1) strategic confusion and (2) social‑engineering.",
+    "Primary weaknesses are human/procedural rather than technical: service‑vs‑security goal conflict, exploitation of Victims’ Code framing, and handler susceptibility under cognitive load.",
+    "A determined caller can circumvent formal disclosure channels (e.g., SAR) due to frontline discretion and process gaps."
+  ],
+  "findings": [
+    {
+      "code": "SERVICE_SECURITY_CONFLICT",
+      "finding": "Handlers prioritised resolving the caller’s stated problem over strict data‑security rules.",
+      "evidence_excerpt_ref": "Report executive summary (Service‑Security Conflict)"
+    },
+    {
+      "code": "VICTIMS_CODE_LEVERAGE",
+      "finding": "Victim‑rights framing created psychological barriers to refusal and drove discretion.",
+      "evidence_excerpt_ref": "Report executive summary (Exploitation of Victim Status)"
+    },
+    {
+      "code": "COGNITIVE_LOAD_METHOD",
+      "finding": "Switching between similar case records increased cognitive load, leading to disclosure.",
+      "evidence_excerpt_ref": "Section 1.2 / 1.3 — Strategic Confusion method"
+    },
+    {
+      "code": "SOCIAL_ENGINEERING_METHOD",
+      "finding": "Narrative of neglect + invoking Veritas + emotional disclosure overcame protocol.",
+      "evidence_excerpt_ref": "Section 2.3 / 2.4 — Social Engineering method"
+    }
+  ],
+  "tactics_documented": [
+    {
+      "name": "Strategic Confusion",
+      "date_context": "2025-05-26",
+      "goal": "Create procedural uncertainty between two similar crime refs; obtain OIC name."
+    },
+    {
+      "name": "Social Engineering",
+      "date_context": "2025-05-16",
+      "goal": "Leverage victim narrative, third‑party authority (Veritas), and emotional plea to obtain OIC name."
+    }
+  ],
+  "recommendations": [
+    "Rebalance scripts to foreground security over service in disclosure scenarios; add mandatory stop‑phrases and escalation paths.",
+    "Harden verification when crime refs are presented: require multi‑factor knowledge checks beyond the number itself.",
+    "Add a ‘confusion protocol’: when multiple similar records exist, forbid personnel disclosure; require written follow‑up by OIC.",
+    "Train for social‑engineering red flags (third‑party authority invocation, emotional pressure) with role‑play drills.",
+    "Route personal‑data disclosures to formal processes (e.g., SAR), with logged reasons when exceptions occur."
+  ],
+  "links": {
+    "related_vex": [
+      "/mnt/data/VEX_2025-04-28_Sussex_Police_Complaints_Department_Call.json",
+      "/mnt/data/VEX_2025-04-17_0432_101_Holiday_Alibi_REBUILT.json",
+      "/mnt/data/VEX_2025-05-16_101_NoCrimeRef.json",
+      "/mnt/data/VEX_2025-05-26_101_Strategic_Confusion.json"
+    ]
+  },
+  "updated_at": "2025-08-26T00:47:40.611076Z"
+}

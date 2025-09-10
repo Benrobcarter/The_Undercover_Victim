@@ -1,0 +1,108 @@
+{
+  "meta": {
+    "filename": "2024-12-13_Digital-Policing_to_Ben_Jonathan-Dixon-Request.json",
+    "case_reference": "47240214305",
+    "thread_label": "NICE_LINK_BATCH_B",
+    "actor_cluster": [
+      "Digital Policing",
+      "PC Jonathan Dixon",
+      "Ben Carter"
+    ],
+    "date_range": {
+      "start": "2024-12-13T13:03:00Z",
+      "end": "2024-12-27T23:59:59Z"
+    },
+    "source_provenance": "Email from noreply-public@digital-policing.co.uk to Ben Carter on 2024-12-13 (issued on behalf of PC Jonathan Dixon, Sussex Police)",
+    "created_at_utc": "2025-08-24T23:39:29Z",
+    "vex_schema_version": "1.2",
+    "human_exhibit_name": "CRN-47240214305_DigitalPolicing_to_Ben_2024-12-13_Email-7.pdf",
+    "export_profile": "INTERNAL",
+    "email_sequence": 7
+  },
+  "emails": [
+    {
+      "id": "email-2024-12-13-1303-digitalpolicing-ben",
+      "date": "2024-12-13T13:03:00Z",
+      "from": {
+        "name": "Digital Policing (noreply)",
+        "email": "noreply-public@digital-policing.co.uk",
+        "badge": ""
+      },
+      "to": [
+        {
+          "name": "Ben Carter",
+          "email": "benrobcarter@gmail.com",
+          "badge": ""
+        }
+      ],
+      "subject_summary": "Jonathan Dixon requires your assistance in a police investigation",
+      "body_raw": "You have been requested by Jonathan Dixon a Police Officer or member of Police Staff*, to provide data to assist with a police investigation/enquiry.\nPlease click here to respond to this request.\nThe link to the request will expire on 27/12/2024\n*This email has been issued by a member of one of the following police forces: Hampshire Constabulary; Thames Valley Police, Surrey Police or Sussex Police\nConfidentiality: This communication and any attachments are intended for the above-named persons only and may be confidential and/or legally privileged. If this communication has come to you in error you must take no action based on it, nor must you copy or show it to anyone; please delete/destroy and inform the sender by e-mail immediately.\nFor details of force Privacy Notices, please visit the relevant website.",
+      "body": "Digital evidence-portal request via Digital Policing issued on behalf of PC Jonathan Dixon with expiry 27/12/2024.",
+      "attachments": [],
+      "labels": [
+        "Evidence Intake",
+        "Digital Policing Portal Link"
+      ],
+      "allegations": []
+    }
+  ],
+  "vex": [
+    {
+      "email_id": "email-2024-12-13-1303-digitalpolicing-ben",
+      "sentence_tags": [
+        {
+          "text": "The link to the request will expire on 27/12/2024.",
+          "tags": [
+            "EVIDENCE_PROVIDED",
+            "NICE_LINK_EXPIRED"
+          ],
+          "notes": "Time-limited portal link sets hard deadline."
+        }
+      ]
+    }
+  ],
+  "contradiction_links": [
+    {
+      "id": "LOST_EVIDENCE_SUSSEX_POLICE",
+      "claim": "Prior evidence submissions were properly retained and actioned.",
+      "reality": "New portal request follows earlier alleged 'lost' evidence.",
+      "damages": [
+        "Strategic",
+        "Emotional"
+      ]
+    },
+    {
+      "id": "CROWBARRING_MYSELF_JUSTICE",
+      "claim": "Victim needs only submit evidence once for action.",
+      "reality": "Repeated requests require re-submission without accountability for earlier uploads.",
+      "damages": [
+        "Strategic"
+      ]
+    }
+  ],
+  "timeline_hooks": [
+    {
+      "phase": "Investigation Stage",
+      "date": "2024-12-13",
+      "events": [
+        "PC Jonathan Dixon requested digital evidence via portal; expiry 27/12/2024."
+      ],
+      "related_threads": [
+        "NICE_LINK_BATCH_B",
+        "DEATH_BY_SILENCE"
+      ]
+    }
+  ],
+  "damages_summary": {
+    "emotional": "Impersonal, institutional tone and pressure to comply.",
+    "strategic": "Evidence loop risk: repeated portal submissions without confirmation of action.",
+    "reputational": "Failure to act on prior evidence could be reframed as victim non-cooperation."
+  },
+  "qa": {
+    "checks": [
+      "date_present",
+      "exhibit_named"
+    ],
+    "status": "needs-case-ref"
+  }
+}

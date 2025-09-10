@@ -1,0 +1,136 @@
+{
+  "meta": {
+    "filename": "2025-02-12_PC_Dixon_Email_14_CRN-47240214305_VEX.json",
+    "case_reference": "47240214305",
+    "thread_label": "CRIME_REF_47240214305_THREAD",
+    "actor_cluster": [
+      "Sussex Police",
+      "PC Jon Dixon (EA817)",
+      "Ben Carter",
+      "PUCK (venue)",
+      "Tethis"
+    ],
+    "date_range": {
+      "start": "2025-02-12T11:30:00",
+      "end": "2025-02-12T11:30:00"
+    },
+    "source_provenance": "Email from Ben Carter to PC Jon Dixon on 12 Feb 2025 at 11:30 (provided by user)",
+    "created_at_utc": "2025-08-24T18:14:19.335961Z",
+    "vex_schema_version": "1.1"
+  },
+  "emails": [
+    {
+      "id": "email-2025-02-12-1130-ben-dixon",
+      "date": "2025-02-12T11:30:00",
+      "from": {
+        "name": "Ben Carter",
+        "email": "benrobcarter@gmail.com"
+      },
+      "to": [
+        {
+          "name": "PC Jon Dixon",
+          "email": "Jon.Dixon@sussex.police.uk",
+          "badge": "EA817"
+        }
+      ],
+      "subject_summary": "Request for official confirmation to reassure venue; reputational harm concerns",
+      "body": "Hey PC Dixon\nI need a way to demonstrate to one of my venues that I have police support and that I am the victim in this situation. I understand you cannot disclose much due to the ongoing investigation, and it’s best I don’t provide extensive evidence at this stage.\n\nGiven that Alanna is on bail and her statement was not followed up, I’m struggling with the perception of 'no smoke without fire'. I would appreciate any form of official confirmation that acknowledges:\n• She is on bail.\n• I am recognised as the victim.\n• The police are supporting and protecting me.\n\nThe venue is PUCK (a coffee shop on her road). I need to reassure them of my position to protect my reputation and livelihood. If there is anything you can provide—within legal/procedural limits—that could help clarify the situation (without me having to provide my own evidence), I’d be grateful.\n\nThis is the worst bit — fear of not being believed. Tethis has said that if needed she would comply with anything to help proceedings. My ex-partners would also act as character witnesses. I’m slowly piecing my life back together, but the chaos and lies have been terrifying. If there’s anything you can legally provide I can use, my business solely relies on my reputation.\n\nThanks,\nBen Carter",
+      "attachments": [],
+      "labels": [
+        "Victim Support Request",
+        "Reputation Protection",
+        "Venue Assurance",
+        "Character Witnesses"
+      ]
+    }
+  ],
+  "vex": [
+    {
+      "email_id": "email-2025-02-12-1130-ben-dixon",
+      "sentence_tags": [
+        {
+          "text": "I need a way to demonstrate to one of my venues that I have police support and that I am the victim in this situation.",
+          "tags": [
+            "VICTIM_STATUS_CONFIRMATION_REQUEST",
+            "REPUTATION_PROTECTION",
+            "THIRD_PARTY_ASSURANCE"
+          ],
+          "notes": "Seeks official wording to reassure venue without disclosing case details."
+        },
+        {
+          "text": "Given that Alanna is on bail and her statement was not followed up, I’m struggling with the perception of 'no smoke without fire'.",
+          "tags": [
+            "BAIL_CONTEXT",
+            "FEAR_OF_STIGMA",
+            "INVESTIGATION_GAP"
+          ],
+          "notes": "Points to reputational harm due to lack of visible follow-up."
+        },
+        {
+          "text": "I would appreciate any form of official confirmation that acknowledges: She is on bail; I am recognised as the victim; The police are supporting and protecting me.",
+          "tags": [
+            "REQUEST_OFFICIAL_CONFIRMATION",
+            "SAFEGUARDING_ACK_REQUEST"
+          ]
+        },
+        {
+          "text": "The venue is PUCK (a coffee shop on her road). I need to reassure them of my position to protect my reputation and livelihood.",
+          "tags": [
+            "BUSINESS_IMPACT",
+            "VENUE_RELATIONSHIP",
+            "REPUTATIONAL_DAMAGE"
+          ]
+        },
+        {
+          "text": "Tethis has said that if needed she would comply with anything to help proceedings.",
+          "tags": [
+            "WITNESS_SUPPORT_OFFER",
+            "THIRD_PARTY_COOPERATION"
+          ]
+        },
+        {
+          "text": "My ex-partners would also act as character witnesses.",
+          "tags": [
+            "CHARACTER_WITNESSES",
+            "COMMUNITY_SUPPORT"
+          ]
+        }
+      ]
+    }
+  ],
+  "contradiction_links": [
+    {
+      "id": "SP-CONTRA-REPUTATION-PROTECTION-UNADDRESSED-2025-02",
+      "claim": "Police supported the victim to mitigate reputational harm during investigation.",
+      "reality": "Victim explicitly requested official confirmation to reassure a venue; earlier emails show delays and reluctance.",
+      "laws_breached": [
+        "Victims’ Code 2020 (Right to be referred to services and receive information)",
+        "Common law duty of care (contextual)"
+      ],
+      "damages": [
+        "Reputational",
+        "Financial",
+        "Emotional"
+      ]
+    }
+  ],
+  "timeline_hooks": [
+    {
+      "phase": "Investigation – Reputation & Safeguarding",
+      "date": "2025-02-12",
+      "events": [
+        "Ben requests a police statement he can show to venue PUCK confirming bail status and that he is the recognised victim.",
+        "Offers witnesses (Tethis, ex-partners) and explains business reliance on reputation."
+      ],
+      "related_threads": [
+        "CRIME_REF_47240214305_THREAD",
+        "REPUTATION_REPAIR"
+      ]
+    }
+  ],
+  "damages_summary": {
+    "reputational": "Venue relations jeopardised by lack of official confirmation.",
+    "financial": "Business risk due to venue uncertainty.",
+    "emotional": "Fear of not being believed; ongoing anxiety."
+  }
+}

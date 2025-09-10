@@ -1,0 +1,16 @@
+{
+  "filename": "EVID_2025-05-01_BrightonFringe_BoxOffice_ShowChange_Response.json",
+  "date": "2025-05-01",
+  "from": "Elin Eaton <boxoffice@brightonfringe.org>",
+  "to": "Ben Carter <benrobcarter@gmail.com>",
+  "subject": "Show changes",
+  "body": "Hi Ben,\n\nJo paid the difference in reg fees and her show was changed to offer free tickets instead.\n\nIn regard to unticketed events, that is up to the venue to manage their capacity for these.\n\nMany thanks,\n\nElin Eaton (she/her)\nBox Office Manager\nA: Office 4 at The Old Court House, 118 Church Street, Brighton, BN1 1UD\nP: 01273 91 72 72\nW: www.brightonfringe.org",
+  "tags": [
+    "SHOW_REGISTRATION_CHANGE",
+    "TICKET_POLICY_CLARIFICATION",
+    "VENUE_CAPACITY_MANAGEMENT",
+    "BRIGHTON_FRINGE_ADMIN"
+  ],
+  "location": "/01_evidence/brighton_fringe/",
+  "notes": "Confirms administrative change to show ticketing and venue responsibility for unticketed events."
+}

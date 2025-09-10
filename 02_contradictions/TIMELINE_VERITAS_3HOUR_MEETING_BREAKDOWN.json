@@ -1,0 +1,33 @@
+{
+  "id": "TIMELINE_VERITAS_3HOUR_MEETING_BREAKDOWN",
+  "title": "Veritas 3-Hour Meeting Breakdown Timeline",
+  "source": "Emails, call transcripts, and meeting prep statements from Veritas Justice",
+  "events": [
+    {
+      "date": "2025-04-22",
+      "event_type": "pre_meeting_statement",
+      "evidence_files": [
+        "22-04-25_Veritas_pre_3_hour_meeting_part_one.docx.txt"
+      ],
+      "actors": [
+        "Veritas Justice",
+        "Ben Carter"
+      ],
+      "timeline_hooks": [
+        "SafeguardingConcerns",
+        "InstitutionalKnowledge"
+      ],
+      "notes": "Veritas confirms they already had concerns about Sussex Police handling of Ben's case. Language suggests passive alignment while framing the issue as systemic, foreshadowing their retreat during the actual safeguarding meeting.",
+      "quoted_lines": [
+        "We do have concerns about the handling of your case and how you're being treated.",
+        "We can't tell the police what to do, but we can support you if things go wrong."
+      ],
+      "source_refs": [
+        "250"
+      ],
+      "contradiction_clusters": [
+        "CROWBARRING_MYSELF_JUSTICE"
+      ]
+    }
+  ]
+}

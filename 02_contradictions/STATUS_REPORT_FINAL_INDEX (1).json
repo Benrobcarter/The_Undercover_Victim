@@ -1,0 +1,22 @@
+{
+  "audits": [
+    {
+      "id": "AUDIT_SUSSEX_POLICE_TIMELINE_MANIPULATION_2025-09-09",
+      "bundle_file": "AUDIT_SUSSEX_POLICE_TIMELINE_MANIPULATION_2025-09-09.zip",
+      "files": [
+        "CLUSTER_SUSSEX_POLICE_TIMELINE_MANIPULATION.json",
+        "shard_contradictions_core_merged_v3_UPDATED.json"
+      ],
+      "type": "contradiction_cluster + updated shard",
+      "focus": "Timeline manipulation and safeguarding erasure by Sussex Police",
+      "date_created": "2025-09-09",
+      "linked_threads": [
+        "DEATH_BY_SILENCE",
+        "INSTITUTIONAL_ALIGNMENT",
+        "CROWBARRING_MYSELF_JUSTICE",
+        "LOST_EVIDENCE_SUSSEX_POLICE",
+        "PSD_ERASURE"
+      ]
+    }
+  ]
+}

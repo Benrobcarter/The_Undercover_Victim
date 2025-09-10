@@ -1,0 +1,80 @@
+{
+  "meta": {
+    "evidence_id": "VEX_2025-03_HomeVisit_No_BWV",
+    "title": "March 2025 — Home Visit to Take Statement (Body‑Worn Video not activated)",
+    "created_at": "2025-08-26T00:16:34.586882Z",
+    "type": "Visit/statement (police) — pending source",
+    "date_local": "2025-03-01",
+    "approximate_date": true,
+    "parties": [
+      "Ben Carter",
+      "Sussex Police (PC Jon Dixon)"
+    ],
+    "clusters": [
+      "MASTER_COMPLAINT",
+      "SUSSEX_POLICE",
+      "BWV_POLICY_BREACH",
+      "TIMELINE_SYNTHESIS"
+    ],
+    "status": "pending_sourcing",
+    "source_hint": "Master Complaint — Timeline 1.2 / §3.x 'BWV'",
+    "undated_policy": "ok_date_present",
+    "version": "1.0.0"
+  },
+  "claim_summary": "PC Jon Dixon attended the home address to take a statement in March 2025, but did not activate Body‑Worn Video (BWV), contrary to guidance for evidential and safeguarding encounters.",
+  "key_points": [
+    "Encounter type: statement-taking at the victim’s home.",
+    "BWV status: not activated (alleged).",
+    "Risk context: ongoing stalking investigation; safeguarding relevance; later disputes over continuity and content of statement."
+  ],
+  "policy_context": [
+    "College of Policing — BWV guidance: use in evidence-gathering and when it would provide transparency and public confidence.",
+    "Force policy (to be attached) — operational triggers for BWV activation during statement-taking in domestic/stalking contexts."
+  ],
+  "contradictions": [
+    {
+      "code": "BWV_NOT_USED",
+      "claim": "Failure to activate BWV during a key evidential interaction.",
+      "impact": [
+        "Transparency gap",
+        "Dispute over statement accuracy",
+        "Loss of contemporaneous record"
+      ],
+      "needs_quotes_idx": []
+    }
+  ],
+  "key_quotes": [],
+  "timeline_hooks": [
+    {
+      "when": "2025-03-01T12:00:00",
+      "tag": "HOME_VISIT_NO_BWV",
+      "note": "Exact date/time TBD — use email/calendar/sms to pin down."
+    }
+  ],
+  "sourcing_queue": [
+    {
+      "prio": 1,
+      "need": "Calendar/email confirming appointment + arrival time",
+      "target": "email/calendar export"
+    },
+    {
+      "prio": 2,
+      "need": "Any text/WhatsApp arranging the visit",
+      "target": "Dixon WhatsApp A09/A10 or SMS"
+    },
+    {
+      "prio": 3,
+      "need": "Force BWV policy extract covering statement‑taking contexts",
+      "target": "policy PDF"
+    },
+    {
+      "prio": 4,
+      "need": "Any acknowledgement by Dixon about BWV not being used",
+      "target": "email/WhatsApp/call notes"
+    }
+  ],
+  "links": {
+    "analysis": [],
+    "evidence": []
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "chunk": 45,
+  "time_range": "44:30-45:30",
+  "quotes": [
+    {
+      "speaker": "Ben Carter",
+      "time": "44:30",
+      "quote": "And if they ignore the law on suicide safeguarding, what else are they ignoring?",
+      "tags": [
+        "victim_experience",
+        "safeguarding_failure",
+        "legal_basis",
+        "trust_issue"
+      ]
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "44:36",
+      "quote": "That’s a fair question, and it’s why I’ve raised governance concerns too.",
+      "tags": [
+        "acknowledgement",
+        "advocacy",
+        "governance"
+      ]
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "44:41",
+      "quote": "Raised isn’t the same as enforcing. Laws are meant to be followed, not optional.",
+      "tags": [
+        "victim_assertion",
+        "accountability",
+        "legal_basis"
+      ]
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "44:46",
+      "quote": "I know, and I’ve said to them it’s mandatory, not optional.",
+      "tags": [
+        "acknowledgement",
+        "agreement",
+        "safeguarding"
+      ]
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "44:51",
+      "quote": "But they still treated it like it was optional, and I was left unprotected.",
+      "tags": [
+        "victim_experience",
+        "safeguarding_gap",
+        "risk"
+      ]
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "44:56",
+      "quote": "You’re right, Ben, and I can’t defend that.",
+      "tags": [
+        "acknowledgement",
+        "agreement",
+        "safeguarding_failure"
+      ]
+    }
+  ],
+  "contradictions": [
+    {
+      "issue": "Suicide safeguarding treated as optional law; advocate concedes mandatory but no enforcement",
+      "type": "legal_and_safeguarding_failure"
+    }
+  ],
+  "timeline_hooks": [
+    {
+      "ref": "laws treated as optional",
+      "link": "Safeguarding legal breach Apr–May 2025"
+    },
+    {
+      "ref": "victim left unprotected",
+      "link": "Failure to enforce safeguarding law"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+[
+  {
+    "id": "CHAPTER_AUTOMATION_V5_RELEASE",
+    "title": "The Day the Machine Started Writing Back",
+    "summary": "Version 5 marked the first fully functioning forensic automation pipeline \u2014 including patching, hashing, timeline injection, audit verification, ZIP archiving, and quote sync. This was not just a technical milestone, but a strategic moment where the system could maintain itself.",
+    "date": "2025-09-05",
+    "tags": [
+      "system_event",
+      "automation_verified",
+      "self-authorship",
+      "forensic_milestone",
+      "timeline_synced"
+    ],
+    "linked_files": [
+      "08_audit/V5_MILESTONE_BUNDLE_2025-09-05.zip",
+      "quote_cards_UPDATED_2025-09-05_with_v5.json",
+      "shard_timelines_core_merged_UPDATED_2025-09-05_with_milestone.json",
+      "shard_manifest_meta_UPDATED_2025-09-05_with_milestone.json"
+    ],
+    "quote_hook": "The day the machine started writing back."
+  }
+]

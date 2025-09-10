@@ -1,0 +1,26 @@
+{
+  "id": "VEX_Logged - Working ticket link__OCR",
+  "type": "evidence",
+  "source": "Smart OCR Ingest",
+  "date": "DATE_NOT_FOUND",
+  "summary": "Auto-ingested from file: Logged - Working ticket link_.pdf",
+  "meta": {
+    "original_filename": "Logged - Working ticket link_.pdf",
+    "ocr_pdf_file": "Logged - Working ticket link__ocr.pdf",
+    "ocr_text_file": "Logged - Working ticket link_.txt",
+    "sha256": "b2dc109f3fe7fb4436f16a57453bd7d82f5d4005a1c2a6bcde430ae784d60ba7",
+    "source_folder": ".",
+    "ingested_on": "2025-09-06T14:46:50.388278",
+    "ingest_method": "ocr_smart"
+  },
+  "links": {
+    "source_file_original": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_unprocessed/Logged - Working ticket link_.pdf",
+    "ocr_pdf_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_ocrd/Logged - Working ticket link__ocr.pdf",
+    "ocr_text_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/text/Logged - Working ticket link_.txt"
+  },
+  "tags": [
+    "auto_ocr",
+    "logged ",
+    " working ticket link"
+  ]
+}

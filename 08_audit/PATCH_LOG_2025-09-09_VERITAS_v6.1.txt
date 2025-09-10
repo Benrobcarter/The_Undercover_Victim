@@ -1,0 +1,36 @@
+[PATCH LOG: VERITAS CONTRADICTIONS + TIMELINE EXPANSION]
+Date Executed: 2025-09-09 13:08:28
+Patch Version: v6.1
+Script: merge_veritas_contradictions_and_timeline_patch.command
+
+✅ Applied:
+- 3 new contradiction entries:
+    • Fabricated welfare contacts (18 & 22 June 2025)
+    • PC Dixon confirmed still active post-suicide
+    • NICE link submissions denied
+- 3 new timeline entries:
+    • Veritas call misdirection (25 June 2025)
+    • Case timeline backdating (July vs November)
+    • Advocacy relaying misinformation to victim
+
+📁 Files Touched:
+- 02_contradictions/sussex_police/CLUSTER_SUSSEX_POLICE_TIMELINE_MANIPULATION.json
+- 01_evidence/timelines/sussex_police_timeline.json
+
+📌 Backups Created:
+- CLUSTER_SUSSEX_POLICE_TIMELINE_MANIPULATION.json.bak.[timestamp]
+- sussex_police_timeline.json.bak.[timestamp]
+
+SHA256 Reference:
+- Patch: CONTRA_PATCH_VERITAS_EXPANSION_2025-09-09.json
+- Timeline: TIMELINE_PATCH_VERITAS_EXPANSION_2025-09-09.json
+
+Patch linked to:
+- CONTRA_VERITAS_WELFARE_FABRICATION
+- CONTRA_CASE_BACKDATED
+- CONTRA_DIXON_NOT_REMOVED
+- TLN_2025-06-25_VERITAS_CALL_MISLED
+- TLN_2025-06-25_DIXON_STILL_INVOLVED
+- TLN_2025-06-25_NICE_LINKS_DISMISSED
+
+✅ Status: Patch completed successfully.

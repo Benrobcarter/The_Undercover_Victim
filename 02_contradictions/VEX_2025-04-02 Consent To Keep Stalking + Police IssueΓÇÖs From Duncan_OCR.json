@@ -1,0 +1,26 @@
+{
+  "id": "VEX_2025-04-02 Consent To Keep Stalking + Police Issue\u2019s From Duncan_OCR",
+  "type": "evidence",
+  "source": "Smart OCR Ingest",
+  "date": "2025-04-02",
+  "summary": "Auto-ingested from file: 2025-04-02 Consent To Keep Stalking + Police Issue\u2019s From Duncan.pdf",
+  "meta": {
+    "original_filename": "2025-04-02 Consent To Keep Stalking + Police Issue\u2019s From Duncan.pdf",
+    "ocr_pdf_file": "2025-04-02 Consent To Keep Stalking + Police Issue\u2019s From Duncan_ocr.pdf",
+    "ocr_text_file": "2025-04-02 Consent To Keep Stalking + Police Issue\u2019s From Duncan.txt",
+    "sha256": "d7502eb48198d4e726b0e3ad7513ac6384153c1c2bec384febc153f406d8bcc3",
+    "source_folder": ".",
+    "ingested_on": "2025-09-06T23:14:57.797068",
+    "ingest_method": "ocr_smart"
+  },
+  "links": {
+    "source_file_original": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_unprocessed/2025-04-02 Consent To Keep Stalking + Police Issue\u2019s From Duncan.pdf",
+    "ocr_pdf_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_ocrd/2025-04-02 Consent To Keep Stalking + Police Issue\u2019s From Duncan_ocr.pdf",
+    "ocr_text_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/text/2025-04-02 Consent To Keep Stalking + Police Issue\u2019s From Duncan.txt"
+  },
+  "tags": [
+    "auto_ocr",
+    "2025",
+    "02 consent to keep stalking + police issue\u2019s from duncan"
+  ]
+}

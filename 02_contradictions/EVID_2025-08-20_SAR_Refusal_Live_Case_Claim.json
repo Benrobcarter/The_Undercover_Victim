@@ -1,0 +1,37 @@
+{
+  "meta": {
+    "evidence_id": "EVID_2025-08-20_SAR_Refusal_Live_Case_Claim",
+    "title": "SAR Refusal — 'Ongoing Investigation' & Misstated Crime Ref (Right of Access Request 1567/25)",
+    "created_at": "2025-08-30T23:37:55",
+    "type": "Email",
+    "from": "Information Access Team <Subject.Access1@sussex.police.uk>",
+    "to": [
+      "Ben Carter <benrobcarter@gmail.com>"
+    ],
+    "date": "2025-08-20T12:58:00",
+    "tags": [
+      "SAR_AS_ACCESS_BARRIER",
+      "SCHRODINGERS_CASE",
+      "TIMELINE_MANIPULATION",
+      "ICO_LINKED"
+    ],
+    "version": "1.0.0"
+  },
+  "content": {
+    "subject": "RE: Article 12 – UK-GDPR – Right of Access Request 1567/25",
+    "body": "SAR refusal citing 'ongoing investigation' and stating the 2024 case 47240141246 was 'overtaken by 47230214305' (a 2023-formatted reference). Indicates material cannot be disclosed until conclusion."
+  },
+  "links": {
+    "contradiction_threads": [
+      "SAR_AS_ACCESS_BARRIER",
+      "SCHRODINGERS_CASE"
+    ],
+    "related_entities": [
+      "Sussex Police Information Access Team",
+      "ICO"
+    ],
+    "external_refs": [
+      "IC-386797-G0L4"
+    ]
+  }
+}

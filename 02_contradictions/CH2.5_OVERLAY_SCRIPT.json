@@ -1,0 +1,68 @@
+{
+  "chapter": "2.5 — The Meeting That Ignored My Suicide",
+  "blocks": [
+    {
+      "block_id": "2.5-01",
+      "text": "This was supposed to be a safeguarding meeting.",
+      "tone": "calm → flat",
+      "visual": "soft fade-in → sharp text pop",
+      "quote_card": true
+    },
+    {
+      "block_id": "2.5-02",
+      "text": "Not a disciplinary. Not a deflection. Not an erasure in motion.",
+      "tone": "deliberate pause after each clause",
+      "visual": "layered red text building from each phrase",
+      "quote_card": true
+    },
+    {
+      "block_id": "2.5-03",
+      "text": "On April 9th, 2025, I walked into that room having already tried to end my life just three days earlier. I told them that. I said the words plainly: ‘Saturday night I tried to kill myself.’ There was no stutter, no ambiguity.",
+      "tone": "steady → exposed → cracked",
+      "visual": "glitch flicker on date, soft zoom on italic quote",
+      "quote_card": true
+    },
+    {
+      "block_id": "2.5-04",
+      "text": "And they changed the subject.",
+      "tone": "flat / cold",
+      "visual": "text zooms out while background mutes — silence overlay",
+      "quote_card": true
+    },
+    {
+      "block_id": "2.5-05",
+      "text": "Amy Keogh didn’t stop the meeting. Duncan didn’t check in. No safeguarding officer took over.",
+      "tone": "steady list → accusatory",
+      "visual": "names flicker in sequence, red underline on 'didn’t'",
+      "quote_card": false
+    },
+    {
+      "block_id": "2.5-06",
+      "text": "No emergency protocol triggered — even though, just two months earlier, Brighton Fringe had published a safeguarding policy…",
+      "tone": "clipped / deliberate",
+      "visual": "background shows document flicker or PDF redaction motion",
+      "quote_card": false
+    },
+    {
+      "block_id": "2.5-07",
+      "text": "That policy said suicide disclosures must be taken seriously. That policy said emotional risk mattered. That policy lied.",
+      "tone": "steady → sharper → broken",
+      "visual": "bold keyword callouts (“suicide”, “emotional risk”, “lied”)",
+      "quote_card": true
+    },
+    {
+      "block_id": "2.5-08",
+      "text": "Instead of support, I got theatre. Instead of compassion, I got a script.",
+      "tone": "bitter / poetic",
+      "visual": "theatrical curtain overlay → drops into plain text",
+      "quote_card": true
+    },
+    {
+      "block_id": "2.5-09",
+      "text": "‘We’re talking about this year.’",
+      "tone": "mocking / quoted",
+      "visual": "sarcastic voice dub / glitch repeat",
+      "quote_card": true
+    }
+  ]
+}

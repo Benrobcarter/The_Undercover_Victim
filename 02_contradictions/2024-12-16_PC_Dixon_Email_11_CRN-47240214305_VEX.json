@@ -1,0 +1,108 @@
+{
+  "meta": {
+    "filename": "2024-12-16_PC_Dixon_Email_11_CRN-47240214305_VEX.json",
+    "case_reference": "47240214305",
+    "thread_label": "CRIME_REF_47240214305_THREAD",
+    "actor_cluster": [
+      "Sussex Police",
+      "PC Jon Dixon (EA817)",
+      "Ben Carter"
+    ],
+    "date_range": {
+      "start": "2024-12-16T22:43:00",
+      "end": "2024-12-16T22:43:00"
+    },
+    "source_provenance": "Email from Ben Carter to PC Jon Dixon on 16 Dec 2024 at 22:43 (provided by user)",
+    "created_at_utc": "2025-08-24T18:08:46.882330Z",
+    "vex_schema_version": "1.1"
+  },
+  "emails": [
+    {
+      "id": "email-2024-12-16-2243-ben-dixon",
+      "date": "2024-12-16T22:43:00",
+      "from": {
+        "name": "Ben Carter",
+        "email": "benrobcarter@gmail.com"
+      },
+      "to": [
+        {
+          "name": "PC Jon Dixon",
+          "email": "Jon.Dixon@sussex.police.uk",
+          "badge": "EA817"
+        }
+      ],
+      "subject_summary": "Follow-up on music misuse relevance to stalking case",
+      "body": "Just thought as you're building a case against her and posting a song about someone online they're on bail for stalking charges would be relevant to the case?\nI know you can't update me, so I don't know what's going on, but if you feel this is irrelevant or you have enough stalking evidence already then no problem.\nI don't know the law or how it applies to this case only you do. I'll let you know whenever something comes up though I just hate not knowing and now know there's been accusation against me. It's horrible.\nThanks Ben",
+      "attachments": [],
+      "labels": [
+        "Victim Cooperation",
+        "Evidence Submission",
+        "Relevance Query"
+      ]
+    }
+  ],
+  "vex": [
+    {
+      "email_id": "email-2024-12-16-2243-ben-dixon",
+      "sentence_tags": [
+        {
+          "text": "Just thought as you're building a case against her and posting a song about someone online they're on bail for stalking charges would be relevant to the case?",
+          "tags": [
+            "EVIDENCE_RELEVANCE_QUERY",
+            "MUSIC_ABUSE_REPORT"
+          ],
+          "notes": "Ben argues that suspect's online posts are relevant to ongoing stalking investigation."
+        },
+        {
+          "text": "I know you can't update me, so I don't know what's going on, but if you feel this is irrelevant or you have enough stalking evidence already then no problem.",
+          "tags": [
+            "VICTIM_UNCERTAINTY",
+            "DEFERRAL_TO_POLICE"
+          ],
+          "notes": "Shows Ben’s lack of confidence in process and reliance on police discretion."
+        },
+        {
+          "text": "I just hate not knowing and now know there's been accusation against me. It's horrible.",
+          "tags": [
+            "VICTIM_DISTRESS",
+            "FALSE_ACCUSATION_HARM"
+          ],
+          "notes": "Highlights emotional impact of false accusation and being kept in the dark."
+        }
+      ]
+    }
+  ],
+  "contradiction_links": [
+    {
+      "id": "SP-CONTRA-DISMISSAL-OF-MUSIC-EVIDENCE-2024-12",
+      "claim": "Police considered all harassment behaviour as part of stalking case.",
+      "reality": "Ben explicitly highlighted online song posts as relevant, but prior email shows Dixon dismissing them as 'civil law'.",
+      "laws_breached": [
+        "Protection from Harassment Act 1997",
+        "Victims’ Code 2020"
+      ],
+      "damages": [
+        "Emotional",
+        "Reputational"
+      ]
+    }
+  ],
+  "timeline_hooks": [
+    {
+      "phase": "Investigation – Evidence Minimisation",
+      "date": "2024-12-16",
+      "events": [
+        "Ben follows up to argue that suspect posting songs online should be relevant evidence while on bail.",
+        "Expresses distress at not being updated and the weight of accusations against him."
+      ],
+      "related_threads": [
+        "CRIME_REF_47240214305_THREAD",
+        "DEATH_BY_SILENCE"
+      ]
+    }
+  ],
+  "damages_summary": {
+    "emotional": "Demonstrates despair at being left uninformed and facing false accusations.",
+    "reputational": "Highlights ongoing damage caused by suspect’s online harassment while victim left unsupported."
+  }
+}

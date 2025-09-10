@@ -1,0 +1,53 @@
+[
+  {
+    "id": "TLN_2025-06-25_VERITAS_CALL_MISLED",
+    "date": "2025-06-25T10:22:00+01:00",
+    "title": "Veritas repeats fabricated Sussex Police claims during safeguarding call",
+    "summary": "Emma Jones references supposed welfare checks on 18 & 22 June 2025, but victim confirms no such contact ever occurred. Veritas also fails to recognise NICE link submissions and incorrect crime reference is mentioned.",
+    "themes": [
+      "safeguarding_simulation",
+      "iopc_obstruction",
+      "timeline_fabrication",
+      "advocacy_breakdown"
+    ],
+    "evidence": [
+      "EVID_2025-06-25_1022_Veritas_Call_WriteUp.json",
+      "VERITAS_MERGED_2025-08-25.json"
+    ],
+    "death_by_silence": {
+      "anchor": "2025-04-06",
+      "days_elapsed": 80
+    }
+  },
+  {
+    "id": "TLN_2025-06-25_DIXON_STILL_INVOLVED",
+    "date": "2025-06-25",
+    "title": "PC Dixon still finalising case months after suicide disclosure",
+    "summary": "Despite prior removal from the case, Sussex Police informed Veritas that PC Dixon was still handling the investigation \u2014 contradicting previous records. Victim states this retraumatises them.",
+    "themes": [
+      "decoy_officer_strategy",
+      "institutional_erasure",
+      "safeguarding_failure"
+    ],
+    "evidence": [
+      "VERITAS_MERGED_2025-08-25.json"
+    ],
+    "quote": "I never want to see PC Dixon again \u2014 that would retraumatise me."
+  },
+  {
+    "id": "TLN_2025-06-25_NICE_LINKS_DISMISSED",
+    "date": "2025-06-25",
+    "title": "Veritas claims NICE Links not used \u2014 contradicts submission records",
+    "summary": "Despite having sent several NICE links with suicide-related evidence and call recordings, Sussex Police told Veritas they weren\u2019t used. Veritas repeated this falsehood back to the victim.",
+    "themes": [
+      "evidence_erasure",
+      "gaslighting",
+      "external_corruption"
+    ],
+    "evidence": [
+      "VERITAS_MERGED_2025-08-25.json",
+      "EVID_2025-06-25_1022_Veritas_Call_WriteUp.json"
+    ],
+    "quote": "No, no, no \u2014 I sent that via a NICE link\u2026"
+  }
+]

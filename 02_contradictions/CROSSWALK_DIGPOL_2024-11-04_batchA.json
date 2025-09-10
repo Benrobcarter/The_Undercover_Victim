@@ -1,0 +1,42 @@
+{
+  "generated_at": "2025-08-24T22:27:47Z",
+  "batch_label": "DigitalPolicing_Batch_2024-11-04_A",
+  "entries": [
+    {
+      "email_id": "email-2024-11-04-0536-digitalpolicing-ben",
+      "json_file": "2024-11-04_Digital-Policing_to_Ben_Evidence-Portal-Request.json",
+      "pdf_target": "CRN-47240214305_Digital-Policing_to_Ben_04-Nov-2024_Email-NL1.pdf",
+      "attachment_count": 0
+    },
+    {
+      "email_id": "email-2024-11-04-1539-digitalpolicing-ben",
+      "json_file": "2024-11-04_Digital-Policing_to_Ben_Jonathan-Dixon-Request.json",
+      "pdf_target": "CRN-47240214305_DigitalPolicing_to_Ben_2024-11-04_Email-2.pdf",
+      "attachment_count": 0
+    },
+    {
+      "email_id": "email-2024-11-13-1339-digitalpolicing-ben",
+      "json_file": "2024-11-13_Digital-Policing_to_Ben_Jonathan-Dixon-Request.json",
+      "pdf_target": "CRN-47240214305_DigitalPolicing_to_Ben_2024-11-13_Email-3.pdf",
+      "attachment_count": 0
+    },
+    {
+      "email_id": "email-2024-11-13-1340-digitalpolicing-ben",
+      "json_file": "2024-11-13_Digital-Policing_to_Ben_Jonathan-Dixon-Request-1340.json",
+      "pdf_target": "CRN-47240214305_DigitalPolicing_to_Ben_2024-11-13_Email-4.pdf",
+      "attachment_count": 0
+    },
+    {
+      "email_id": "email-2024-11-14-1158-digitalpolicing-ben",
+      "json_file": "2024-11-14_Digital-Policing_to_Ben_Jonathan-Dixon-Request-1158.json",
+      "pdf_target": "CRN-47240214305_DigitalPolicing_to_Ben_2024-11-14_Email-5.pdf",
+      "attachment_count": 0
+    },
+    {
+      "email_id": "email-2024-11-14-1159-digitalpolicing-ben",
+      "json_file": "2024-11-14_Digital-Policing_to_Ben_Jonathan-Dixon-Request-1159.json",
+      "pdf_target": "CRN-47240214305_DigitalPolicing_to_Ben_2024-11-14_Email-6.pdf",
+      "attachment_count": 0
+    }
+  ]
+}

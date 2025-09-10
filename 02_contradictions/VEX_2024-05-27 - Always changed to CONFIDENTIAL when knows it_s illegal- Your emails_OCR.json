@@ -1,0 +1,29 @@
+{
+  "id": "VEX_2024-05-27 - Always changed to CONFIDENTIAL when knows it_s illegal- Your emails_OCR",
+  "type": "evidence",
+  "source": "Smart OCR Ingest",
+  "date": "2024-05-27",
+  "summary": "Auto-ingested from file: 2024-05-27 - Always changed to CONFIDENTIAL when knows it_s illegal- Your emails.pdf",
+  "meta": {
+    "original_filename": "2024-05-27 - Always changed to CONFIDENTIAL when knows it_s illegal- Your emails.pdf",
+    "ocr_pdf_file": "2024-05-27 - Always changed to CONFIDENTIAL when knows it_s illegal- Your emails_ocr.pdf",
+    "ocr_text_file": "2024-05-27 - Always changed to CONFIDENTIAL when knows it_s illegal- Your emails.txt",
+    "sha256": "4ddf600e4909adcc2cc5a0abf4e3f8174af6050ca02b5da2135f8167ce8431fd",
+    "source_folder": ".",
+    "ingested_on": "2025-09-06T23:12:46.165968",
+    "ingest_method": "ocr_smart"
+  },
+  "links": {
+    "source_file_original": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_unprocessed/2024-05-27 - Always changed to CONFIDENTIAL when knows it_s illegal- Your emails.pdf",
+    "ocr_pdf_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_ocrd/2024-05-27 - Always changed to CONFIDENTIAL when knows it_s illegal- Your emails_ocr.pdf",
+    "ocr_text_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/text/2024-05-27 - Always changed to CONFIDENTIAL when knows it_s illegal- Your emails.txt"
+  },
+  "tags": [
+    "auto_ocr",
+    "2024",
+    " always changed to confidential when knows it",
+    " your emails",
+    "27 ",
+    "s illegal"
+  ]
+}

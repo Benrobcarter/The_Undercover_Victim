@@ -1,0 +1,391 @@
+{
+  "id": "VEX_2025-03_to_07_Veritas_EmmaJones_WhatsApp_A10",
+  "source_label": "Police Handling of Harassment Complaint Notebook LM",
+  "thread_title": "Veritas Justice – Emma Jones (WhatsApp)",
+  "date_range_start": "2025-03-27",
+  "date_range_end": "2025-07-08",
+  "participants": [
+    "Ben Carter",
+    "Emma Jones (Veritas)"
+  ],
+  "related_evidence_ids": [
+    "EVID_2025-06-25_1022_Veritas_Call_WriteUp",
+    "EMAIL_2025-06-25_1107_Veritas_EmmaJones_Your_Support",
+    "EMAIL_2025-06-25_1121_Veritas_EmmaJones_Your_Safety_Plan",
+    "EVID_2025-06-25_1121_Safety_Plan_BC"
+  ],
+  "extracted_dates": [
+    "2025-03-27",
+    "2025-04-14",
+    "2025-04-22",
+    "2025-04-23",
+    "2025-05-07",
+    "2025-05-09",
+    "2025-05-11",
+    "2025-05-12",
+    "2025-06-04",
+    "2025-06-09",
+    "2025-06-21",
+    "2025-06-23",
+    "2025-06-25",
+    "2025-07-08"
+  ],
+  "events": [
+    {
+      "date": "2025-03-27",
+      "time": null,
+      "sender": "System",
+      "kind": "notice",
+      "duration": null,
+      "text": "Chat header + E2E encryption notice.",
+      "tags": []
+    },
+    {
+      "date": "2025-04-14",
+      "time": null,
+      "sender": "Ben Carter",
+      "kind": "voice_call",
+      "duration": "7m",
+      "text": null,
+      "tags": [
+        "APR14_CORROBORATION",
+        "CALL_LOG_ANCHOR"
+      ]
+    },
+    {
+      "date": "2025-04-14",
+      "time": null,
+      "sender": "Ben Carter",
+      "kind": "voice_call",
+      "duration": "16m",
+      "text": null,
+      "tags": [
+        "APR14_CORROBORATION",
+        "CALL_LOG_ANCHOR"
+      ]
+    },
+    {
+      "date": "2025-04-14",
+      "time": null,
+      "sender": "Ben Carter",
+      "kind": "voice_call",
+      "duration": "25m",
+      "text": null,
+      "tags": [
+        "APR14_CORROBORATION",
+        "CALL_LOG_ANCHOR"
+      ]
+    },
+    {
+      "date": "2025-04-14",
+      "time": "12:53",
+      "sender": "Ben Carter",
+      "kind": "voice_call",
+      "duration": null,
+      "text": null,
+      "tags": [
+        "APR14_CORROBORATION",
+        "CALL_LOG_ANCHOR",
+        "NO_ANSWER"
+      ]
+    },
+    {
+      "date": "2025-04-22",
+      "time": "14:18",
+      "sender": "System",
+      "kind": "missed_call",
+      "duration": null,
+      "text": null,
+      "tags": []
+    },
+    {
+      "date": "2025-04-22",
+      "time": null,
+      "sender": "Emma Jones",
+      "kind": "message",
+      "duration": null,
+      "text": "Intro; returning your call.",
+      "tags": [
+        "INTRO_MESSAGE",
+        "SERVICE_CONTACT"
+      ]
+    },
+    {
+      "date": "2025-04-23",
+      "time": "16:22",
+      "sender": "System",
+      "kind": "missed_call",
+      "duration": null,
+      "text": null,
+      "tags": []
+    },
+    {
+      "date": "2025-04-23",
+      "time": null,
+      "sender": "Ben Carter",
+      "kind": "voice_call",
+      "duration": "44m",
+      "text": null,
+      "tags": []
+    },
+    {
+      "date": "2025-05-07",
+      "time": null,
+      "sender": "Ben Carter",
+      "kind": "voice_call",
+      "duration": "15m",
+      "text": null,
+      "tags": []
+    },
+    {
+      "date": "2025-05-07",
+      "time": "14:35",
+      "sender": "System",
+      "kind": "meta",
+      "duration": null,
+      "text": "Email shown: emma.jones@veritas-justice.co.uk",
+      "tags": []
+    },
+    {
+      "date": "2025-05-09",
+      "time": "15:44",
+      "sender": "Ben Carter",
+      "kind": "voice_call",
+      "duration": null,
+      "text": null,
+      "tags": [
+        "NO_ANSWER"
+      ]
+    },
+    {
+      "date": "2025-05-09",
+      "time": null,
+      "sender": "Ben Carter",
+      "kind": "voice_call",
+      "duration": "0:53",
+      "text": null,
+      "tags": [
+        "NO_ANSWER"
+      ]
+    },
+    {
+      "date": "2025-05-11",
+      "time": "20:29",
+      "sender": "Ben Carter",
+      "kind": "message",
+      "duration": null,
+      "text": "Please confirm she is still on bail... claims of photoshopping off bail.",
+      "tags": [
+        "BAIL_STATUS_REQUESTS"
+      ]
+    },
+    {
+      "date": "2025-05-12",
+      "time": "13:02",
+      "sender": "Emma Jones",
+      "kind": "message",
+      "duration": null,
+      "text": "Written to supervisor to confirm bail/investigation; request Google Drive access.",
+      "tags": [
+        "SUPERVISOR_ESCALATION",
+        "DATA_REQUEST"
+      ]
+    },
+    {
+      "date": "2025-05-12",
+      "time": "14:22",
+      "sender": "Ben Carter",
+      "kind": "message",
+      "duration": null,
+      "text": "No way PC Dixon is still my officer.",
+      "tags": [
+        "OIC_OBJECTION"
+      ]
+    },
+    {
+      "date": "2025-06-04",
+      "time": "08:58",
+      "sender": "Ben Carter",
+      "kind": "message",
+      "duration": null,
+      "text": "What's going on?",
+      "tags": []
+    },
+    {
+      "date": "2025-06-04",
+      "time": "09:12",
+      "sender": "Ben Carter",
+      "kind": "message",
+      "duration": null,
+      "text": "Asks about MARAC; expresses suicidal despair; 'no disputing silence by death'",
+      "tags": [
+        "MARAC_REFERENCES",
+        "SUICIDE_RISK_DISCLOSURE"
+      ]
+    },
+    {
+      "date": "2025-06-09",
+      "time": "10:57",
+      "sender": "Emma Jones",
+      "kind": "message",
+      "duration": null,
+      "text": "No update; supervisor reviewing; new officer to be appointed; no bail info yet.",
+      "tags": [
+        "NO_UPDATE_FROM_POLICE",
+        "NEW_OFFICER_PENDING"
+      ]
+    },
+    {
+      "date": "2025-06-09",
+      "time": "13:39",
+      "sender": "Emma Jones",
+      "kind": "message",
+      "duration": null,
+      "text": "Better to have confirmation/certainty on bail; new officer should clarify.",
+      "tags": [
+        "BAIL_CERTAINTY_ADVICE"
+      ]
+    },
+    {
+      "date": "2025-06-09",
+      "time": "13:45",
+      "sender": "Emma Jones",
+      "kind": "message",
+      "duration": null,
+      "text": "Still no update from police.",
+      "tags": [
+        "NO_UPDATE_FROM_POLICE"
+      ]
+    },
+    {
+      "date": "2025-06-09",
+      "time": "13:58",
+      "sender": "Ben Carter",
+      "kind": "message",
+      "duration": null,
+      "text": "Right to be safeguarded; no contact since suicide.",
+      "tags": [
+        "RIGHTS_ASSERTION",
+        "POST_SUICIDE_NO_CONTACT"
+      ]
+    },
+    {
+      "date": "2025-06-09",
+      "time": "14:07",
+      "sender": "Emma Jones",
+      "kind": "message",
+      "duration": null,
+      "text": "PC Dixon did not attend due to OIC change request; delays occur; asks for incidents/support.",
+      "tags": [
+        "OIC_CHANGE_EFFECT",
+        "SAFETY_CHECK_IN"
+      ]
+    },
+    {
+      "date": "2025-06-09",
+      "time": "14:13",
+      "sender": "Emma Jones",
+      "kind": "message",
+      "duration": null,
+      "text": "Sergeant from police stalking unit 'DS Burtup'.",
+      "tags": [
+        "MARAC_REFERENCES"
+      ]
+    },
+    {
+      "date": "2025-06-21",
+      "time": "13:53",
+      "sender": "Ben Carter",
+      "kind": "message",
+      "duration": null,
+      "text": "Call me when you can",
+      "tags": []
+    },
+    {
+      "date": "2025-06-23",
+      "time": "19:06",
+      "sender": "Ben Carter",
+      "kind": "message",
+      "duration": null,
+      "text": "Shared Google Drive link to video.",
+      "tags": [
+        "EVIDENCE_LINK_SHARED"
+      ]
+    },
+    {
+      "date": "2025-06-23",
+      "time": "19:23",
+      "sender": "Ben Carter",
+      "kind": "message",
+      "duration": null,
+      "text": "Severe distress statement.",
+      "tags": [
+        "SEVERE_DISTRESS"
+      ]
+    },
+    {
+      "date": "2025-06-25",
+      "time": "10:22",
+      "sender": "Ben Carter",
+      "kind": "voice_call",
+      "duration": "4m",
+      "text": null,
+      "tags": [
+        "LINKED_TO_WRITEUP:EVID_2025-06-25_1022_Veritas_Call_WriteUp"
+      ]
+    },
+    {
+      "date": "2025-07-08",
+      "time": "00:01",
+      "sender": "System",
+      "kind": "notice",
+      "duration": null,
+      "text": "Timeline marker (OCR residual).",
+      "tags": []
+    }
+  ],
+  "vex_tags": [
+    "APR14_CORROBORATION",
+    "BAIL_STATUS_REQUESTS",
+    "CALL_LOG_CORROBORATION",
+    "DEATH_BY_SILENCE",
+    "EVIDENCE_LINK_SHARED",
+    "MARAC_REFERENCES",
+    "NO_UPDATE_FROM_POLICE",
+    "OIC_CHANGE_EFFECT",
+    "SUICIDE_RISK_DISCLOSURE",
+    "VERITAS_WHATSAPP"
+  ],
+  "contradiction_hooks": [
+    {
+      "hook": "ATTACHMENT_CLAIM_MISMATCH",
+      "context": "Safety plan claimed in 11:07 email vs delivered 11:21 (email thread)."
+    },
+    {
+      "hook": "BAIL_STATUS_UNCONFIRMED",
+      "context": "Repeated bail confirmation requests without clarity from police."
+    },
+    {
+      "hook": "MARAC_ATTENDANCE_AMBIGUITY",
+      "context": "Attendance names/roles unclear (e.g., 'DS Burtup')"
+    },
+    {
+      "hook": "POST_SUICIDE_NO_CONTACT",
+      "context": "User reports no contact since suicide attempt; risk escalates."
+    },
+    {
+      "hook": "APR14_ONLY_LOGGED_CORROBORATION",
+      "context": "14 Apr WhatsApp call(s) with Emma cited to corroborate separate 'only being logged on the 14th' evidence/log."
+    }
+  ],
+  "timeline_hooks": [
+    "VeritasWhatsApp",
+    "ExternalConfirmations",
+    "DeathBySilence",
+    "BailStatus"
+  ],
+  "legal_refs": [
+    "VictimsCode"
+  ],
+  "notes": "Structured from uploaded PDF; detailed OCR text can be attached once cleaned to avoid unicode parsing issues."
+}

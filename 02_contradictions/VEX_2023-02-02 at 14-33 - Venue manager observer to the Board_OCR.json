@@ -1,0 +1,28 @@
+{
+  "id": "VEX_2023-02-02 at 14-33 - Venue manager observer to the Board_OCR",
+  "type": "evidence",
+  "source": "Smart OCR Ingest",
+  "date": "2023-02-02",
+  "summary": "Auto-ingested from file: 2023-02-02 at 14-33 - Venue manager observer to the Board.pdf",
+  "meta": {
+    "original_filename": "2023-02-02 at 14-33 - Venue manager observer to the Board.pdf",
+    "ocr_pdf_file": "2023-02-02 at 14-33 - Venue manager observer to the Board_ocr.pdf",
+    "ocr_text_file": "2023-02-02 at 14-33 - Venue manager observer to the Board.txt",
+    "sha256": "b37492ad0005984d38fce6b67cadbc216da83f38db90ebae1e98f746e7fc71bd",
+    "source_folder": ".",
+    "ingested_on": "2025-09-06T22:57:50.379629",
+    "ingest_method": "ocr_smart"
+  },
+  "links": {
+    "source_file_original": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_unprocessed/2023-02-02 at 14-33 - Venue manager observer to the Board.pdf",
+    "ocr_pdf_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_ocrd/2023-02-02 at 14-33 - Venue manager observer to the Board_ocr.pdf",
+    "ocr_text_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/text/2023-02-02 at 14-33 - Venue manager observer to the Board.txt"
+  },
+  "tags": [
+    "auto_ocr",
+    "33 ",
+    " venue manager observer to the board",
+    "2023",
+    "02 at 14"
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "meta": {
+    "filename": "2025-03-06_Ben_to_PC-Dixon_Medical-Report-4-years.json",
+    "case_reference": "47240214305",
+    "thread_label": "CRIME_REF_47240214305_THREAD",
+    "actor_cluster": [
+      "Ben Carter",
+      "Sussex Police",
+      "PC Jon Dixon (EA817)"
+    ],
+    "date_range": {
+      "start": "2025-03-06T12:51:00",
+      "end": "2025-03-06T12:51:00"
+    },
+    "source_provenance": "Email from Ben Carter to PC Jon Dixon on 06 Mar 2025 at 12:51 (provided by user)",
+    "created_at_utc": "2025-08-24T18:40:00Z",
+    "vex_schema_version": "1.1",
+    "human_exhibit_name": "CRN-47240214305_Ben_to_PC-Dixon_06-Mar-2025_Email-TBD.pdf"
+  },
+  "emails": [
+    {
+      "id": "email-2025-03-06-1251-ben-dixon",
+      "date": "2025-03-06T12:51:00",
+      "from": {
+        "name": "Ben Carter",
+        "email": "benrobcarter@gmail.com"
+      },
+      "to": [
+        {
+          "name": "PC Jon Dixon",
+          "email": "Jon.Dixon@sussex.police.uk",
+          "badge": "EA817"
+        }
+      ],
+      "subject_summary": "Medical report (4 years) + evidence intake status",
+      "body": "That's 4 years 🤷‍♂️ it's a basic one doesn't include email correspondence which has more my side, i have to pay for that which includes the dr writing it up how i want? Weird. I'd rather the dr didn't get involved or be seen to pay a doctor for an agenda, thought this was strange, as someone could base a whole case on a medical report they've paid for to embellish, i'm still in the dark about whats going on and the extent of it all, my reality was not mine from the time i met her, fell out with everyone didnt see my family for a year, i thought this would be the hard bit to process, haven't had a chance, no idea how far back its going and what evidence you do have.. The dr's don't make a note of what's said in emails so i can provide this though if you like? Thanks ben\nHere’s the link with the phone calls and leading up to it. If there’s anything you need that’ll help the investigation let me know, is there any update i can have? Thanks Ben\nhttps://drive.google.com/drive/folders/1iJjhdS3LV4gVbSmjOpB3xfkffmbf08vu?usp=drive_link\n",
+      "attachments": [
+        {
+          "filename": "BC - PT RECORD.pdf"
+        }
+      ],
+      "labels": [
+        "Medical Records Provided (4Y window)",
+        "Evidence Intake",
+        "Lost Evidence Concern",
+        "Victim Cooperation"
+      ]
+    }
+  ],
+  "vex": [
+    {
+      "email_id": "email-2025-03-06-1251-ben-dixon",
+      "sentence_tags": [
+        {
+          "text": "That's 4 years 🤷‍♂️",
+          "tags": [
+            "MEDICAL_SCOPE_4Y",
+            "EVIDENCE_COMPLIANCE"
+          ],
+          "notes": "GP printout indicates 'Only clinical data after 01 Jan 2021 is included', i.e., ~4 years up to 06 Mar 2025."
+        },
+        {
+          "text": "i'm still in the dark about whats going on and the extent of it all",
+          "tags": [
+            "LACK_OF_UPDATES",
+            "VICTIM_UNINFORMED"
+          ],
+          "notes": "Expresses uncertainty about case progress and scope."
+        },
+        {
+          "text": "Here’s the link with the phone calls and leading up to it.",
+          "tags": [
+            "EVIDENCE_PROVIDED",
+            "GOOGLE_DRIVE_LINK"
+          ],
+          "notes": "Supplies alternative evidence route after issues with NICE link capacity."
+        }
+      ]
+    }
+  ],
+  "contradiction_links": [
+    {
+      "id": "SP-CONTRA-RESUB-4Y-2025-03",
+      "claim": "Police guidance limited evidence to a narrow window (e.g., post no-contact / Nov 2024), implying broader history unnecessary.",
+      "reality": "Victim provides a GP record covering ~4 years and asks what to prioritise for a paid medical letter while still awaiting clarity on evidence scope.",
+      "laws_breached": [
+        "Victims' Code 2020 (Right to clear information)"
+      ],
+      "damages": [
+        "Emotional",
+        "Strategic"
+      ]
+    },
+    {
+      "id": "SP-CONTRA-NICE-LINK-UPLOAD-LIMIT-2024-11",
+      "claim": "Systems were adequate for evidence intake from the outset.",
+      "reality": "Earlier emails show upload limits on NICE link; victim had to propose Google Drive to deliver evidence.",
+      "laws_breached": [
+        "Victims' Code 2020 (Right to supply evidence without obstruction)"
+      ],
+      "damages": [
+        "Strategic",
+        "Emotional"
+      ]
+    }
+  ],
+  "timeline_hooks": [
+    {
+      "phase": "Investigation – Medical Information & Evidence Resubmission",
+      "date": "2025-03-06",
+      "events": [
+        "GP Patient Record (post-01 Jan 2021) supplied to officer.",
+        "Google Drive link shared for calls and context.",
+        "Victim asks for update and clarity on scope/usage."
+      ],
+      "related_threads": [
+        "CRIME_REF_47240214305_THREAD"
+      ]
+    }
+  ],
+  "damages_summary": {
+    "emotional": "Prolonged uncertainty and perception of being made to 'prove' history to resubmit lost evidence.",
+    "strategic": "Time and resource diverted to procure broad medical material instead of targeted evidential items.",
+    "reputational": "Sharing sensitive medical data increases exposure risk without clear necessity rationale."
+  }
+}

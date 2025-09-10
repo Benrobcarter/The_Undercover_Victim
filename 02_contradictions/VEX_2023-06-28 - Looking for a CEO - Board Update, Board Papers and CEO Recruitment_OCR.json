@@ -1,0 +1,28 @@
+{
+  "id": "VEX_2023-06-28 - Looking for a CEO - Board Update, Board Papers and CEO Recruitment_OCR",
+  "type": "evidence",
+  "source": "Smart OCR Ingest",
+  "date": "2023-06-28",
+  "summary": "Auto-ingested from file: 2023-06-28 - Looking for a CEO - Board Update, Board Papers and CEO Recruitment.pdf",
+  "meta": {
+    "original_filename": "2023-06-28 - Looking for a CEO - Board Update, Board Papers and CEO Recruitment.pdf",
+    "ocr_pdf_file": "2023-06-28 - Looking for a CEO - Board Update, Board Papers and CEO Recruitment_ocr.pdf",
+    "ocr_text_file": "2023-06-28 - Looking for a CEO - Board Update, Board Papers and CEO Recruitment.txt",
+    "sha256": "d3024233b4275ca738da8352afc23fc441b50f765ad20b6fc280aa1e7b9726e3",
+    "source_folder": ".",
+    "ingested_on": "2025-09-06T22:54:23.937326",
+    "ingest_method": "ocr_smart"
+  },
+  "links": {
+    "source_file_original": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_unprocessed/2023-06-28 - Looking for a CEO - Board Update, Board Papers and CEO Recruitment.pdf",
+    "ocr_pdf_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_ocrd/2023-06-28 - Looking for a CEO - Board Update, Board Papers and CEO Recruitment_ocr.pdf",
+    "ocr_text_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/text/2023-06-28 - Looking for a CEO - Board Update, Board Papers and CEO Recruitment.txt"
+  },
+  "tags": [
+    "auto_ocr",
+    " looking for a ceo ",
+    " board update, board papers and ceo recruitment",
+    "28 ",
+    "2023"
+  ]
+}

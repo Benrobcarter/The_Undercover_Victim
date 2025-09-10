@@ -1,0 +1,145 @@
+{
+  "generated_utc": "2025-08-26T17:09:38Z",
+  "schema": "evidence_core.schema.json",
+  "items": [
+    {
+      "id": "EVID-DATE_NEEDED-APRIL-SAFEGUARDING-SEQUENCE-DEEPDIVE-01",
+      "title": "April safeguarding sequence — deep-dive writeup",
+      "date": "DATE_NEEDED",
+      "type": "text/deepdive",
+      "file_path": "03_analysis/folders/07_Safeguarding/01_april_safeguarding_sequence_deepdive_writeup.txt",
+      "actors": [
+        "Brighton Fringe",
+        "Ben Carter"
+      ],
+      "notes": "Spans early April; confirm anchor date.",
+      "contradiction_ids": [
+        "BF-CONTRA-REFUSAL-MISREPRESENTED-2025-07-18",
+        "BF-CONTRA-SUPPORT-WAS-COERCION-2025-07-18"
+      ],
+      "status": "PENDING_UPLOAD",
+      "expected_filename": "01_april_safeguarding_sequence_deepdive_writeup.txt"
+    },
+    {
+      "id": "EVID-DATE_NEEDED-APRIL-SAFEGUARDING-SEQUENCE-RECEIPT-01",
+      "title": "April safeguarding sequence — file receipt",
+      "date": "DATE_NEEDED",
+      "type": "text/receipt",
+      "file_path": "03_analysis/folders/07_Safeguarding/01_april_safeguarding_sequence_file_receipt.txt",
+      "actors": [
+        "Brighton Fringe",
+        "Ben Carter"
+      ],
+      "notes": "Receipt paired with the deep-dive writeup.",
+      "contradiction_ids": [
+        "BF-CONTRA-REFUSAL-MISREPRESENTED-2025-07-18"
+      ],
+      "status": "PENDING_UPLOAD",
+      "expected_filename": "01_april_safeguarding_sequence_file_receipt.txt"
+    },
+    {
+      "id": "EVID-DATE_NEEDED-SAFEGUARDING-MEETING-DEEPDIVE-01",
+      "title": "Safeguarding meeting — deep-dive writeup",
+      "date": "DATE_NEEDED",
+      "type": "text/deepdive",
+      "file_path": "03_analysis/folders/07_Safeguarding/safeguarding_meeting_deepdive_writeup.txt",
+      "actors": [
+        "Brighton Fringe",
+        "Ben Carter"
+      ],
+      "notes": "Confirm meeting date.",
+      "contradiction_ids": [
+        "BF-CONTRA-REFUSAL-MISREPRESENTED-2025-07-18"
+      ],
+      "status": "PENDING_UPLOAD",
+      "expected_filename": "safeguarding_meeting_deepdive_writeup.txt"
+    },
+    {
+      "id": "EVID-DATE_NEEDED-SAFEGUARDING-MEETING-RECEIPT-01",
+      "title": "Safeguarding meeting — file receipt",
+      "date": "DATE_NEEDED",
+      "type": "text/receipt",
+      "file_path": "03_analysis/folders/07_Safeguarding/safeguarding_meeting_file_receipt.txt",
+      "actors": [
+        "Brighton Fringe",
+        "Ben Carter"
+      ],
+      "notes": "Paired with deep-dive; date to confirm.",
+      "contradiction_ids": [
+        "BF-CONTRA-REFUSAL-MISREPRESENTED-2025-07-18"
+      ],
+      "status": "PENDING_UPLOAD",
+      "expected_filename": "safeguarding_meeting_file_receipt.txt"
+    },
+    {
+      "id": "EVID-DATE_NEEDED-FRINGE-SAFEGUARDING-MEETING-DEEPDIVE-01",
+      "title": "Fringe safeguarding meeting — deep-dive writeup",
+      "date": "DATE_NEEDED",
+      "type": "text/deepdive",
+      "file_path": "03_analysis/folders/07_Safeguarding/fringe_safeguarding_meeting_deepdive_writeup.txt",
+      "actors": [
+        "Brighton Fringe",
+        "Ben Carter",
+        "Duncan Lustig-Prean"
+      ],
+      "notes": "Likely early April; confirm exact date.",
+      "contradiction_ids": [
+        "BF-CONTRA-REFUSAL-MISREPRESENTED-2025-07-18",
+        "BF-CONTRA-SUPPORT-WAS-COERCION-2025-07-18"
+      ],
+      "status": "PENDING_UPLOAD",
+      "expected_filename": "fringe_safeguarding_meeting_deepdive_writeup.txt"
+    },
+    {
+      "id": "EVID-DATE_NEEDED-ACTION-PLAN-MEETING-NOTES-DEEPDIVE-01",
+      "title": "Action plan meeting notes — deep-dive writeup",
+      "date": "DATE_NEEDED",
+      "type": "text/deepdive",
+      "file_path": "03_analysis/folders/07_Safeguarding/action_plan_meeting_notes_deepdive_writeup.txt",
+      "actors": [
+        "Brighton Fringe",
+        "Ben Carter"
+      ],
+      "notes": "Action plan derived from safeguarding meeting(s); confirm date.",
+      "contradiction_ids": [
+        "BF-CONTRA-REFUSAL-MISREPRESENTED-2025-07-18"
+      ],
+      "status": "PENDING_UPLOAD",
+      "expected_filename": "action_plan_meeting_notes_deepdive_writeup.txt"
+    },
+    {
+      "id": "EVID-DATE_NEEDED-RECENT-DISCLOSURE-DEEPDIVE-01",
+      "title": "Recent disclosure — deep-dive writeup",
+      "date": "DATE_NEEDED",
+      "type": "text/deepdive",
+      "file_path": "03_analysis/folders/07_Safeguarding/recent_disclosure_deepdive_writeup.txt",
+      "actors": [
+        "Brighton Fringe",
+        "Ben Carter"
+      ],
+      "notes": "Disclosure sequence; confirm date.",
+      "contradiction_ids": [
+        "BF-CONTRA-REFUSAL-MISREPRESENTED-2025-07-18"
+      ],
+      "status": "PENDING_UPLOAD",
+      "expected_filename": "recent_disclosure_deepdive_writeup.txt"
+    },
+    {
+      "id": "EVID-DATE_NEEDED-WEST-ATS-APPOINTMENT-RECEIPT-01",
+      "title": "West ATS appointment — file receipt",
+      "date": "DATE_NEEDED",
+      "type": "text/receipt",
+      "file_path": "03_analysis/folders/07_Safeguarding/west_ats_appointment_file_receipt.txt",
+      "actors": [
+        "NHS West ATS",
+        "Ben Carter"
+      ],
+      "notes": "Appointment notice; confirm date.",
+      "contradiction_ids": [
+        "BF-CONTRA-REFUSAL-MISREPRESENTED-2025-07-18"
+      ],
+      "status": "PENDING_UPLOAD",
+      "expected_filename": "west_ats_appointment_file_receipt.txt"
+    }
+  ]
+}

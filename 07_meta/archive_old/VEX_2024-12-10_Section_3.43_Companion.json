@@ -1,0 +1,41 @@
+{
+  "meta": {
+    "evidence_id": "VEX_2024-12-10_Section_3.43_Companion",
+    "title": "Companion VEX to Section 3.43 — December emails",
+    "created_at": "2025-08-26T00:00:00Z",
+    "type": "Analysis companion",
+    "date_local": "2024-12-10",
+    "parties": [
+      "Ben Carter",
+      "Sussex Police"
+    ],
+    "clusters": [
+      "DEATH_BY_SILENCE"
+    ],
+    "source_files": [
+      "ANALYSIS_3.43_DECEMBER_EMAIL_2024-12-10.json"
+    ]
+  },
+  "summary": "Short companion entry turning Section 3.43 into a VEX link node. Points to 10 Dec email and 12–19 Dec thread for quotes.",
+  "police_position": "To be confirmed from individual emails; this companion only connects the pieces.",
+  "contradictions": [
+    "CASE_CHRONOLOGY_ERASURE"
+  ],
+  "key_quotes": [],
+  "timeline_hooks": [
+    {
+      "date": "2024-12-10",
+      "title": "Section 3.43 companion live"
+    }
+  ],
+  "links": [
+    {
+      "title": "Cordell email",
+      "target": "VEX_2024-12-10_Cordell_Email_701211"
+    },
+    {
+      "title": "December thread",
+      "target": "VEX_2024-12-12_to_12-19_Email_Thread"
+    }
+  ]
+}

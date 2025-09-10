@@ -1,0 +1,26 @@
+{
+  "id": "VEX_Gmail - Board Update, Board Papers and CEO Recruitment_OCR",
+  "type": "evidence",
+  "source": "Smart OCR Ingest",
+  "date": "DATE_NOT_FOUND",
+  "summary": "Auto-ingested from file: Gmail - Board Update, Board Papers and CEO Recruitment.pdf",
+  "meta": {
+    "original_filename": "Gmail - Board Update, Board Papers and CEO Recruitment.pdf",
+    "ocr_pdf_file": "Gmail - Board Update, Board Papers and CEO Recruitment_ocr.pdf",
+    "ocr_text_file": "Gmail - Board Update, Board Papers and CEO Recruitment.txt",
+    "sha256": "28a092bf455ea9b8e66f6fca9ae616b9c0ca9ed9a6d2aafe7f18deb4ceddbdf9",
+    "source_folder": ".",
+    "ingested_on": "2025-09-06T14:41:28.567033",
+    "ingest_method": "ocr_smart"
+  },
+  "links": {
+    "source_file_original": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_unprocessed/Gmail - Board Update, Board Papers and CEO Recruitment.pdf",
+    "ocr_pdf_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_ocrd/Gmail - Board Update, Board Papers and CEO Recruitment_ocr.pdf",
+    "ocr_text_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/text/Gmail - Board Update, Board Papers and CEO Recruitment.txt"
+  },
+  "tags": [
+    "auto_ocr",
+    "gmail ",
+    " board update, board papers and ceo recruitment"
+  ]
+}

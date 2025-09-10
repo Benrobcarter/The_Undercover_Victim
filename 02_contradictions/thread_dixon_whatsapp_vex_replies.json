@@ -1,0 +1,92 @@
+{
+  "items": [
+    {
+      "id": "thread_dixon_whatsapp_2025_reply_001",
+      "type": "evidence",
+      "source": "Reply Split: Dixon WhatsApp Thread",
+      "date": "DATE_NOT_FOUND",
+      "summary": "[PC Dixon] ( 67 \n+ Pc Dixon \nSat 8 Mar \ni Messages and calls are end-to-end \nencrypted. Only people in this chat can read, \nlisten to, or share them. L",
+      "meta": {
+        "thread_id": "thread_dixon_whatsapp_2025",
+        "original_filename": "PC_Dixon_Whatsapp.pdf",
+        "reply_index": 1,
+        "speaker": "PC Dixon",
+        "ingested_on": "2025-09-05T20:41:31.901840"
+      },
+      "links": {
+        "source_pdf": "PC_Dixon_Whatsapp.pdf"
+      },
+      "tags": [
+        "reply_split",
+        "auto_ocr",
+        "dixon_thread"
+      ]
+    },
+    {
+      "id": "thread_dixon_whatsapp_2025_reply_002",
+      "type": "evidence",
+      "source": "Reply Split: Dixon WhatsApp Thread",
+      "date": "2025-06-23",
+      "summary": "[unknown] 27 May 2025 at 18:19 \n\u2022 o:oo \nTranscription CD \n-0:54 \n''Hello, this is a message for Ben. It's Sussex police \nBen as I was trying to explai",
+      "meta": {
+        "thread_id": "thread_dixon_whatsapp_2025",
+        "original_filename": "PC_Dixon_Whatsapp.pdf",
+        "reply_index": 2,
+        "speaker": "unknown",
+        "ingested_on": "2025-09-05T20:41:31.902443"
+      },
+      "links": {
+        "source_pdf": "PC_Dixon_Whatsapp.pdf"
+      },
+      "tags": [
+        "reply_split",
+        "auto_ocr",
+        "dixon_thread"
+      ]
+    },
+    {
+      "id": "thread_dixon_whatsapp_2025_reply_003",
+      "type": "evidence",
+      "source": "Reply Split: Dixon WhatsApp Thread",
+      "date": "2025-06-23",
+      "summary": "[unknown] ii Archive h Move -m Delete 0 Spam \nOPFICIAI.-SeNsrnvE .., -a. \n\u2022\u2022\u2022 \n,$ Sun APf 27 at 4.56 P\"4 \nFollowing a supervisory review the matter in",
+      "meta": {
+        "thread_id": "thread_dixon_whatsapp_2025",
+        "original_filename": "PC_Dixon_Whatsapp.pdf",
+        "reply_index": 3,
+        "speaker": "unknown",
+        "ingested_on": "2025-09-05T20:41:31.902553"
+      },
+      "links": {
+        "source_pdf": "PC_Dixon_Whatsapp.pdf"
+      },
+      "tags": [
+        "reply_split",
+        "auto_ocr",
+        "dixon_thread"
+      ]
+    },
+    {
+      "id": "thread_dixon_whatsapp_2025_reply_004",
+      "type": "evidence",
+      "source": "Reply Split: Dixon WhatsApp Thread",
+      "date": "2025-06-23",
+      "summary": "[unknown] CRIME MANAG EMENT UNIT ......... \u2022 \u2022 \nc!J \\ttti \n\ufffd -\nMr BEN CARTER \n26 OLD SHOREHAM ROAD \nBRIGHTON \nBNlSDD i,,,\ufffd\ufffd \nHeadquarters \nChurch Lane",
+      "meta": {
+        "thread_id": "thread_dixon_whatsapp_2025",
+        "original_filename": "PC_Dixon_Whatsapp.pdf",
+        "reply_index": 4,
+        "speaker": "unknown",
+        "ingested_on": "2025-09-05T20:41:31.902717"
+      },
+      "links": {
+        "source_pdf": "PC_Dixon_Whatsapp.pdf"
+      },
+      "tags": [
+        "reply_split",
+        "auto_ocr",
+        "dixon_thread"
+      ]
+    }
+  ]
+}

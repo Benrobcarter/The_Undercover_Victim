@@ -1,0 +1,46 @@
+{
+  "meta": {
+    "evidence_id": "VEX_EMAIL_2025-02-12_1412_Re_Bail_confirmation_conditions_17",
+    "thread_id": "EMAIL_THREAD_47240214305_DIXON_Carter",
+    "created_utc": "2025-08-30T02:12:33Z",
+    "date_local": "2025-02-12",
+    "time_local": "14:12",
+    "from": "Ben Carter <benrobcarter@gmail.com>",
+    "to": "Dixon, Jon EA817 <Jon.Dixon@sussex.police.uk>",
+    "cc": [],
+    "subject": "Re: Bail confirmation & conditions",
+    "attachments": [],
+    "clusters": [
+      "CRIME_REF_47240214305_THREAD",
+      "DEATH_BY_SILENCE",
+      "ACCESS_BARRIER",
+      "CROWBARRING_MYSELF_JUSTICE"
+    ],
+    "status": "verbatim_ingested",
+    "project_paths": {
+      "evidence_dst": "01_evidence/vex/email/"
+    }
+  },
+  "claim_summary": "Email preserved verbatim as part of 47240214305 thread.",
+  "key_points": [],
+  "contradictions": [],
+  "timeline_hooks": [
+    {
+      "when": "2025-02-12T14:12:00",
+      "tag": "EMAIL_THREAD_ACTIVITY",
+      "note": "Email: Re: Bail confirmation & conditions"
+    }
+  ],
+  "cue_alignment": {
+    "status": "complete_from_user_text"
+  },
+  "cues": [
+    {
+      "index": 1,
+      "start": null,
+      "end": null,
+      "speaker": "Ben Carter <benrobcarter@gmail.com>",
+      "quote": "Thanks mate the last bit does say they apply to me though, could you please send it again?? Just so i can forward it"
+    }
+  ]
+}

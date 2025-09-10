@@ -1,0 +1,57 @@
+{
+  "meta": {
+    "contradiction_id": "CONTRA_CLUSTER_2025-08-30_PALMER_SUPERVISORY_FAILURE_BUNDLE",
+    "title": "Palmer’s Chain of Command – Safeguarding Failures",
+    "created_at": "2025-08-30T23:41:05.480867",
+    "version": "1.0.0",
+    "tags": [
+      "SUPERVISORY_FAILURE",
+      "ACCOUNTABILITY_CHAIN",
+      "SAFEGUARDING_FAILURE",
+      "MISCONDUCT_PUBLIC_OFFICE",
+      "VRR_VPS_SUPPRESSED",
+      "FABRICATED_WELFARE_CONTACTS",
+      "DEATH_BY_SILENCE",
+      "SCHRODINGERS_CASE",
+      "VICTIM_CREDIBILITY_ERASURE",
+      "VICTIMS_CODE_BREACH",
+      "WHATSAPP_VERITAS_ESCALATION",
+      "SUICIDE_DISCLOSURE_NO_CONTACT",
+      "VERITAS_POLICE_SUPERVISOR_LOOP"
+    ]
+  },
+  "description": "This contradiction cluster consolidates all files and narratives linking Inspector David Palmer to a network of institutional failures. These include VRR obstruction, fabricated welfare contact logs, safeguarding neglect, and data protection breaches. The combined evidence places Palmer at the supervisory centre of Sussex Police’s misconduct, through both action and omission.",
+  "linked_files": [
+    "UPDATED_CONTRA_2025-08-30_All_Roads_Lead_to_Palmer.json",
+    "CONTRA_2025-08-14_Holiday_Alibi_Proven.json",
+    "CONTRA_2025-08-26_Schrodingers_Case_Live_vs_NFA.json",
+    "EVID_2025-08-26_VRR_Response_Ben_to_SussexPSD.json",
+    "EVID_2025-08-26_SussexPolice_VRR_Refusal_PublicConfidence.json",
+    "EVID_2025-08-23_VPS_Request_Formal_SussexPolice.json",
+    "EVID_2025-06-22_SussexPolice_NoReply_CAD_0050.pdf",
+    "CONTRA_2025-05-17_Clarke_4am_Call_Fabrication.json",
+    "EVID_2025-04_to_07_Veritas_WhatsApp_Emma_VEX.json"
+  ],
+  "entities_named": [
+    "Inspector David Palmer",
+    "PC Jon Dixon",
+    "PC Clarke",
+    "PC Gasson",
+    "Sergeant Duffy",
+    "DC Mark Butcher",
+    "Public Confidence Team",
+    "Sussex Police PSD"
+  ],
+  "timeline_injection": {
+    "timeline_title": "Palmer’s Chain of Command – Safeguarding Failures",
+    "tags": [
+      "SUPERVISORY_FAILURE",
+      "SAFEGUARDING_FAILURE",
+      "DEATH_BY_SILENCE"
+    ]
+  },
+  "book_entry": {
+    "section_title": "Section 3.X – All Roads Lead to Palmer: Institutional Betrayal by Oversight",
+    "summary": "This section of the book explores how Inspector David Palmer’s inaction—while being repeatedly notified of escalating safeguarding breaches—demonstrates institutional betrayal at the supervisory level. It maps the failures of every officer under his command and shows how silence was weaponized against the victim."
+  }
+}

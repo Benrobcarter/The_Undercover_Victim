@@ -1,0 +1,302 @@
+{
+  "contradictions": [
+    {
+      "id": "BF-CONTRA-ALICE-EMAIL-COERCION-2025",
+      "meta": {
+        "title": "Alice Wright Used as Tactical Email Coercion Agent During Fringe Takeover",
+        "tags": [
+          "SAFEGUARDING_DEFLECTION",
+          "TRUST_EXPLOITATION",
+          "COERCIVE_STRUCTURE",
+          "SCRIPTED_COMMUNICATION",
+          "CROWBARRING_MYSELF_JUSTICE",
+          "DUNCAN_ASSISTED_ERASURE"
+        ],
+        "created_at": "2025-08-31T23:50:43.373279",
+        "source_file": "Email_Chain_Alice_Coercion_2025-05-06_to_2025-05-09.txt",
+        "source_description": "Alice Wright offers 'support' by managing Ben's artists; Fringe uses vulnerable reply to coordinate manipulative PR response"
+      },
+      "summary": "Between 6–9 May 2025, Alice Wright positioned herself as a supporter offering 'help' with ticketing and cancellations, but her email was in fact an operational handover pitch that framed the Fringe’s takeover as supportive care. After a vulnerable email from Ben Carter that day, Brighton Fringe responded with a carefully coordinated message containing phrasing Alice had seeded ('we’re so relieved you don’t hate us'). By May 9, Ben confronted the Fringe directly for coercing Alice and exploiting emotional disclosures. This exchange proves Brighton Fringe leveraged Alice’s relationship with Ben to manipulate trust and communication boundaries during a critical safeguarding period."
+    }
+  ],
+  "timeline_entries": [
+    {
+      "date": "2025-05-06",
+      "summary": "Alice Wright begins 'support' narrative in morning email, masking the setup of takeover infrastructure.",
+      "tags": [
+        "BF-CONTRA-ALICE-EMAIL-COERCION-2025",
+        "INTEGRATION_CONTROL",
+        "COERCION_INITIATION"
+      ],
+      "linked_documents": [
+        "Email_Alice_Support_Start_2025-05-06.txt"
+      ]
+    },
+    {
+      "date": "2025-05-06",
+      "summary": "Alice Wright offers to handle 'ticketing problems' and show cancellations, implying takeover of Half a Camel's operations.",
+      "tags": [
+        "BF-CONTRA-ALICE-EMAIL-COERCION-2025",
+        "VENUE_TAKEOVER_THREAT",
+        "SAFEGUARDING_DEFLECTION"
+      ]
+    },
+    {
+      "date": "2025-05-06",
+      "summary": "Ben sends emotional email to Fringe seeking reconciliation and shared goals. Email later used as setup for manipulative reply.",
+      "tags": [
+        "TRUST_EXPLOITATION",
+        "CROWBARRING_MYSELF_JUSTICE",
+        "VULNERABILITY_LEVERAGED"
+      ]
+    },
+    {
+      "date": "2025-05-07",
+      "summary": "Fringe replies with 'we’re so relieved you don’t hate us' — a phrase Alice admitted planting. Reply weaponised Ben’s vulnerability.",
+      "tags": [
+        "SCRIPTED_COMMUNICATION",
+        "PR_MANIPULATION",
+        "TRUST_EXPLOITATION"
+      ]
+    },
+    {
+      "date": "2025-05-09",
+      "summary": "Ben accuses Fringe of coercion and demands reputation restored. Direct quote: 'You coerced Alice into this, you are evil.'",
+      "tags": [
+        "COERCION_CONFIRMED",
+        "CROWBARRING_MYSELF_JUSTICE",
+        "TRUST_BREAKDOWN"
+      ]
+    },
+    {
+      "date": "2025-05-06",
+      "summary": "Alice Wright begins infrastructure-level control of Half a Camel’s ticketing and API sync under the guise of support.",
+      "tags": [
+        "BF-CONTRA-ALICE-EMAIL-COERCION-2025",
+        "VENUE_TAKEOVER_THREAT",
+        "INTEGRATION_CONTROL",
+        "SAFEGUARDING_DEFLECTION"
+      ],
+      "linked_documents": [
+        "Email_Alice_API_Ticketing_2025-05-06.txt"
+      ]
+    },
+    {
+      "date": "2025-05-07",
+      "summary": "Ben sends solicitor-style safeguarding letter documenting suicide risk, emotional distress, and lack of response from Brighton Fringe. Alice confirms she is scripting their reply and downplaying responsibility, saying: 'You didn’t need to apologise but I am encouraging them to tell you they don’t hate you.'",
+      "tags": [
+        "SAFEGUARDING_DEFLECTION",
+        "INSTITUTIONAL_GASLIGHTING",
+        "DEATH_BY_SILENCE",
+        "CARE_ACT_BREACH",
+        "BF-CONTRA-ALICE-EMAIL-COERCION-2025"
+      ],
+      "linked_documents": [
+        "Email_Solicitor_Tone_Response_Alice_2025-05-07.txt"
+      ]
+    },
+    {
+      "date": "2025-05-07",
+      "summary": "Alice Wright discloses she works for Brighton Fringe on communications, exits personal role, and declares she no longer has a contract with Ben. Ben replies that Duncan is now part of his suicide timeline and must be held accountable. Alice tries to manage this split while maintaining control of messaging.",
+      "tags": [
+        "BF-CONTRA-ALICE-EMAIL-COERCION-2025",
+        "SUICIDE_ESCALATION_LOG",
+        "CROWBARRING_MYSELF_JUSTICE",
+        "INSTITUTIONAL_GASLIGHTING",
+        "ROLE_MANIPULATION"
+      ],
+      "linked_documents": [
+        "Email_Chain_Alice_Duncan_Suicide_Accountability_2025-05-07.txt"
+      ]
+    },
+    {
+      "date": "2025-05-07",
+      "summary": "Brighton Fringe confirms it has been logging all of Ben Carter’s communications, including police reports. Ben asks directly: 'What has Alice told you then?' and discloses venue abuse due to Voodoo's cooperation with his abuser. Fringe does not respond to key safeguarding questions.",
+      "tags": [
+        "GDPR_SPECIAL_CATEGORY_DATA_BREACH",
+        "CROWBARRING_MYSELF_JUSTICE",
+        "SAFEGUARDING_DEFLECTION",
+        "TRUST_EXPLOITATION",
+        "BF-CONTRA-ALICE-EMAIL-COERCION-2025"
+      ],
+      "linked_documents": [
+        "Email_BF_Alice_Backchannel_AbuseLog_2025-05-07.txt"
+      ]
+    }
+  ],
+  "quote_cards": [
+    {
+      "id": "BC-Q-0509-COERCED-ALICE",
+      "meta": {
+        "title": "You coerced Alice into this, you are evil.",
+        "author": "Ben Carter",
+        "tags": [
+          "BF-CONTRA-ALICE-EMAIL-COERCION-2025",
+          "COERCION_CONFIRMED"
+        ],
+        "source_file": "Email_Chain_Alice_Coercion_2025-05-09.txt",
+        "added_at": "2025-08-31T23:50:43.373293"
+      },
+      "text": "You coerced Alice into this, you are evil."
+    },
+    {
+      "id": "AW-Q-0506-HELP-TICKETING",
+      "meta": {
+        "title": "If anyone has questions about ticketing problems, they can just email me directly.",
+        "author": "Alice Wright",
+        "tags": [
+          "VENUE_TAKEOVER_THREAT",
+          "OPERATIONAL_HANDOVER"
+        ],
+        "source_file": "Email_AliceWright_2025-05-06.txt",
+        "added_at": "2025-08-31T23:50:43.373296"
+      },
+      "text": "If anyone has questions about ticketing problems, they can just email me directly."
+    },
+    {
+      "id": "AW-Q-0506-DEVELOPER-ACCESS",
+      "meta": {
+        "title": "Are you happy for me to speak to your web developer directly?",
+        "author": "Alice Wright",
+        "tags": [
+          "INTEGRATION_CONTROL",
+          "BF-CONTRA-ALICE-EMAIL-COERCION-2025"
+        ],
+        "source_file": "Email_Alice_API_Ticketing_2025-05-06.txt",
+        "added_at": "2025-08-31T23:51:47.624915"
+      },
+      "text": "Are you happy for me to speak to your web developer directly?"
+    },
+    {
+      "id": "AW-Q-0506-SUPPORT-PRIORITY",
+      "meta": {
+        "title": "I'm working on how I can support you and Half a Camel, and it's my top priority.",
+        "author": "Alice Wright",
+        "tags": [
+          "BF-CONTRA-ALICE-EMAIL-COERCION-2025",
+          "COERCION_INITIATION"
+        ],
+        "source_file": "Email_Alice_Support_Start_2025-05-06.txt",
+        "added_at": "2025-08-31T23:52:37.071981"
+      },
+      "text": "I'm working on how I can support you and Half a Camel, and it's my top priority."
+    },
+    {
+      "id": "AW-Q-0507-ENCOURAGING-THEM",
+      "meta": {
+        "title": "I am encouraging them to tell you they don’t hate you.",
+        "author": "Alice Wright",
+        "tags": [
+          "SCRIPTED_COMMUNICATION",
+          "INSTITUTIONAL_GASLIGHTING"
+        ],
+        "source_file": "Email_Solicitor_Tone_Response_Alice_2025-05-07.txt",
+        "added_at": "2025-08-31T23:53:48.535019"
+      },
+      "text": "I am encouraging them to tell you they don’t hate you."
+    },
+    {
+      "id": "BC-Q-0507-DO-THEY-HATE-ME",
+      "meta": {
+        "title": "Do the Brighton Fringe not hate me?",
+        "author": "Ben Carter",
+        "tags": [
+          "TRUST_EXPLOITATION",
+          "DEATH_BY_SILENCE"
+        ],
+        "source_file": "Email_Solicitor_Tone_Response_Alice_2025-05-07.txt",
+        "added_at": "2025-08-31T23:53:48.535103"
+      },
+      "text": "Do the Brighton Fringe not hate me?"
+    },
+    {
+      "id": "BC-Q-0507-DUNCAN-SUICIDE-TIMELINE",
+      "meta": {
+        "title": "Duncan is who I want out of the Fringe, held accountable for my pursuit of my life.",
+        "author": "Ben Carter",
+        "tags": [
+          "SUICIDE_ESCALATION_LOG",
+          "CROWBARRING_MYSELF_JUSTICE"
+        ],
+        "source_file": "Email_Chain_Alice_Duncan_Suicide_Accountability_2025-05-07.txt",
+        "added_at": "2025-08-31T23:54:47.469201"
+      },
+      "text": "Duncan is who I want out of the Fringe, held accountable for my pursuit of my life."
+    },
+    {
+      "id": "AW-Q-0507-WORK-HAPPENING-BEHIND-SCENES",
+      "meta": {
+        "title": "Sometimes the work I do doesn’t actively show from the outside — but it is happening.",
+        "author": "Alice Wright",
+        "tags": [
+          "INSTITUTIONAL_GASLIGHTING",
+          "ROLE_MANIPULATION"
+        ],
+        "source_file": "Email_Chain_Alice_Duncan_Suicide_Accountability_2025-05-07.txt",
+        "added_at": "2025-08-31T23:54:47.469322"
+      },
+      "text": "Sometimes the work I do doesn’t actively show from the outside — but it is happening."
+    },
+    {
+      "id": "BF-Q-0507-LOGGING-POLICE",
+      "meta": {
+        "title": "We have also been logging all of your communications with us, including all of the police reports you’ve only sent to Duncan.",
+        "author": "Brighton Fringe",
+        "tags": [
+          "GDPR_SPECIAL_CATEGORY_DATA_BREACH",
+          "SAFEGUARDING_DEFLECTION"
+        ],
+        "source_file": "Email_BF_Alice_Backchannel_AbuseLog_2025-05-07.txt",
+        "added_at": "2025-08-31T23:56:07.921248"
+      },
+      "text": "We have also been logging all of your communications with us, including all of the police reports you’ve only sent to Duncan."
+    },
+    {
+      "id": "BC-Q-0507-WHAT-DID-ALICE-SAY",
+      "meta": {
+        "title": "What has Alice told you then?",
+        "author": "Ben Carter",
+        "tags": [
+          "TRUST_BREACH",
+          "GASLIGHTING_CONFIRMATION"
+        ],
+        "source_file": "Email_BF_Alice_Backchannel_AbuseLog_2025-05-07.txt",
+        "added_at": "2025-08-31T23:56:07.921272"
+      },
+      "text": "What has Alice told you then?"
+    },
+    {
+      "id": "BC-Q-0507-CANT-RUN-VENUES",
+      "meta": {
+        "title": "I can't run my venues now… Just more abuse from him.",
+        "author": "Ben Carter",
+        "tags": [
+          "CROWBARRING_MYSELF_JUSTICE",
+          "SUICIDE_ESCALATION_LOG"
+        ],
+        "source_file": "Email_BF_Alice_Backchannel_AbuseLog_2025-05-07.txt",
+        "added_at": "2025-08-31T23:56:07.921275"
+      },
+      "text": "I can't run my venues now… Just more abuse from him."
+    }
+  ],
+  "book_crosswalk": {
+    "chapter_id": "sec3_8_duncan_accountable",
+    "chapter_title": "3.8 — I Want Duncan Held Accountable",
+    "timeline_refs": [
+      "2025-05-06",
+      "2025-05-07",
+      "2025-05-09"
+    ],
+    "vex_tags": [
+      "BF-CONTRA-ALICE-EMAIL-COERCION-2025",
+      "SCRIPTED_COMMUNICATION",
+      "SAFEGUARDING_DEFLECTION"
+    ],
+    "contradictions": [
+      {
+        "code": "BF-CONTRA-ALICE-EMAIL-COERCION-2025"
+      }
+    ]
+  }
+}

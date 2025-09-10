@@ -1,0 +1,166 @@
+{
+  "thread_id": "EMAIL_THREAD_47240214305_DIXON_Carter",
+  "created_utc": "2025-08-30T02:12:33Z",
+  "case_ref": "47240214305",
+  "count": 19,
+  "cluster_tags": [
+    "CRIME_REF_47240214305_THREAD",
+    "DEATH_BY_SILENCE",
+    "ACCESS_BARRIER",
+    "CROWBARRING_MYSELF_JUSTICE"
+  ],
+  "items": [
+    {
+      "evidence_id": "VEX_EMAIL_2024-11-04_1531_47240214305_1",
+      "file": "/mnt/data/VEX_EMAIL_2024-11-04_1531_47240214305_1.json",
+      "dt": "2024-11-04 15:31",
+      "from": "Dixon, Jon EA817 <Jon.Dixon@sussex.police.uk>",
+      "to": "Ben Carter <benrobcarter@gmail.com>",
+      "subject": "47240214305"
+    },
+    {
+      "evidence_id": "VEX_EMAIL_2024-11-04_1535_Re_47240214305_2",
+      "file": "/mnt/data/VEX_EMAIL_2024-11-04_1535_Re_47240214305_2.json",
+      "dt": "2024-11-04 15:35",
+      "from": "Ben Carter <benrobcarter@gmail.com>",
+      "to": "Dixon, Jon EA817 <Jon.Dixon@sussex.police.uk>",
+      "subject": "Re: 47240214305"
+    },
+    {
+      "evidence_id": "VEX_EMAIL_2024-11-04_1539_Re_47240214305_3",
+      "file": "/mnt/data/VEX_EMAIL_2024-11-04_1539_Re_47240214305_3.json",
+      "dt": "2024-11-04 15:39",
+      "from": "Dixon, Jon EA817 <Jon.Dixon@sussex.police.uk>",
+      "to": "Ben Carter <benrobcarter@gmail.com>",
+      "subject": "Re: 47240214305"
+    },
+    {
+      "evidence_id": "VEX_EMAIL_2024-11-04_1542_Re_47240214305_4",
+      "file": "/mnt/data/VEX_EMAIL_2024-11-04_1542_Re_47240214305_4.json",
+      "dt": "2024-11-04 15:42",
+      "from": "Ben Carter <benrobcarter@gmail.com>",
+      "to": "Dixon, Jon EA817 <Jon.Dixon@sussex.police.uk>",
+      "subject": "Re: 47240214305"
+    },
+    {
+      "evidence_id": "VEX_EMAIL_2024-11-04_2052_Re_47240214305_5",
+      "file": "/mnt/data/VEX_EMAIL_2024-11-04_2052_Re_47240214305_5.json",
+      "dt": "2024-11-04 20:52",
+      "from": "Ben Carter <benrobcarter@gmail.com>",
+      "to": "Dixon, Jon EA817 <Jon.Dixon@sussex.police.uk>",
+      "subject": "Re: 47240214305"
+    },
+    {
+      "evidence_id": "VEX_EMAIL_2024-11-07_1906_Re_47240214305_6",
+      "file": "/mnt/data/VEX_EMAIL_2024-11-07_1906_Re_47240214305_6.json",
+      "dt": "2024-11-07 19:06",
+      "from": "Dixon, Jon EA817 <Jon.Dixon@sussex.police.uk>",
+      "to": "Ben Carter <benrobcarter@gmail.com>",
+      "subject": "Re: 47240214305"
+    },
+    {
+      "evidence_id": "VEX_EMAIL_2024-11-07_1919_Re_47240214305_7",
+      "file": "/mnt/data/VEX_EMAIL_2024-11-07_1919_Re_47240214305_7.json",
+      "dt": "2024-11-07 19:19",
+      "from": "Ben Carter <benrobcarter@gmail.com>",
+      "to": "Dixon, Jon EA817 <Jon.Dixon@sussex.police.uk>",
+      "subject": "Re: 47240214305"
+    },
+    {
+      "evidence_id": "VEX_EMAIL_2024-11-09_1847_Re_47240214305_8",
+      "file": "/mnt/data/VEX_EMAIL_2024-11-09_1847_Re_47240214305_8.json",
+      "dt": "2024-11-09 18:47",
+      "from": "Ben Carter <benrobcarter@gmail.com>",
+      "to": "Dixon, Jon EA817 <Jon.Dixon@sussex.police.uk>",
+      "subject": "Re: 47240214305"
+    },
+    {
+      "evidence_id": "VEX_EMAIL_2024-12-16_0437_NICE_link_new_online_posts_9",
+      "file": "/mnt/data/VEX_EMAIL_2024-12-16_0437_NICE_link_new_online_posts_9.json",
+      "dt": "2024-12-16 04:37",
+      "from": "Ben Carter <benrobcarter@gmail.com>",
+      "to": "Dixon, Jon EA817 <Jon.Dixon@sussex.police.uk>",
+      "subject": "NICE link + new online posts"
+    },
+    {
+      "evidence_id": "VEX_EMAIL_2024-12-16_1301_Re_NICE_link_new_online_posts_10",
+      "file": "/mnt/data/VEX_EMAIL_2024-12-16_1301_Re_NICE_link_new_online_posts_10.json",
+      "dt": "2024-12-16 13:01",
+      "from": "Dixon, Jon EA817 <Jon.Dixon@sussex.police.uk>",
+      "to": "Ben Carter <benrobcarter@gmail.com>",
+      "subject": "Re: NICE link + new online posts"
+    },
+    {
+      "evidence_id": "VEX_EMAIL_2024-12-16_2243_Re_NICE_link_new_online_posts_11",
+      "file": "/mnt/data/VEX_EMAIL_2024-12-16_2243_Re_NICE_link_new_online_posts_11.json",
+      "dt": "2024-12-16 22:43",
+      "from": "Ben Carter <benrobcarter@gmail.com>",
+      "to": "Dixon, Jon EA817 <Jon.Dixon@sussex.police.uk>",
+      "subject": "Re: NICE link + new online posts"
+    },
+    {
+      "evidence_id": "VEX_EMAIL_2025-02-06_2153_Bail_breach_update_12",
+      "file": "/mnt/data/VEX_EMAIL_2025-02-06_2153_Bail_breach_update_12.json",
+      "dt": "2025-02-06 21:53",
+      "from": "Ben Carter <benrobcarter@gmail.com>",
+      "to": "Dixon, Jon EA817 <Jon.Dixon@sussex.police.uk>",
+      "subject": "Bail breach update?"
+    },
+    {
+      "evidence_id": "VEX_EMAIL_2025-02-11_1232_Re_Bail_timeline_13",
+      "file": "/mnt/data/VEX_EMAIL_2025-02-11_1232_Re_Bail_timeline_13.json",
+      "dt": "2025-02-11 12:32",
+      "from": "Ben Carter <benrobcarter@gmail.com>",
+      "to": "Dixon, Jon EA817 <Jon.Dixon@sussex.police.uk>",
+      "subject": "Re: Bail & timeline"
+    },
+    {
+      "evidence_id": "VEX_EMAIL_2025-02-12_1130_Request_for_official_wording_I_c_14",
+      "file": "/mnt/data/VEX_EMAIL_2025-02-12_1130_Request_for_official_wording_I_c_14.json",
+      "dt": "2025-02-12 11:30",
+      "from": "Ben Carter <benrobcarter@gmail.com>",
+      "to": "Dixon, Jon EA817 <Jon.Dixon@sussex.police.uk>",
+      "subject": "Request for official wording I can show a venue"
+    },
+    {
+      "evidence_id": "VEX_EMAIL_2025-02-12_1409_Bail_confirmation_conditions_15",
+      "file": "/mnt/data/VEX_EMAIL_2025-02-12_1409_Bail_confirmation_conditions_15.json",
+      "dt": "2025-02-12 14:09",
+      "from": "Dixon, Jon EA817 <Jon.Dixon@sussex.police.uk>",
+      "to": "Ben Carter <benrobcarter@gmail.com>",
+      "subject": "Bail confirmation & conditions"
+    },
+    {
+      "evidence_id": "VEX_EMAIL_2025-02-12_1036_Paul_DOUBLE_16",
+      "file": "/mnt/data/VEX_EMAIL_2025-02-12_1036_Paul_DOUBLE_16.json",
+      "dt": "2025-02-12 10:36",
+      "from": "Arran SHAVE <Arran.SHAVE1@norfolk.police.uk>",
+      "to": "Dixon, Jon EA817 <Jon.Dixon@sussex.police.uk>",
+      "subject": "Paul DOUBLE"
+    },
+    {
+      "evidence_id": "VEX_EMAIL_2025-02-12_1412_Re_Bail_confirmation_conditions_17",
+      "file": "/mnt/data/VEX_EMAIL_2025-02-12_1412_Re_Bail_confirmation_conditions_17.json",
+      "dt": "2025-02-12 14:12",
+      "from": "Ben Carter <benrobcarter@gmail.com>",
+      "to": "Dixon, Jon EA817 <Jon.Dixon@sussex.police.uk>",
+      "subject": "Re: Bail confirmation & conditions"
+    },
+    {
+      "evidence_id": "VEX_EMAIL_2025-02-12_1417_Bail_confirmation_conditions_ame_18",
+      "file": "/mnt/data/VEX_EMAIL_2025-02-12_1417_Bail_confirmation_conditions_ame_18.json",
+      "dt": "2025-02-12 14:17",
+      "from": "Dixon, Jon EA817 <Jon.Dixon@sussex.police.uk>",
+      "to": "Ben Carter <benrobcarter@gmail.com>",
+      "subject": "Bail confirmation & conditions (amended wording)"
+    },
+    {
+      "evidence_id": "VEX_EMAIL_2025-03-13_0514_NICE_links_statement_GP_letter_t_19",
+      "file": "/mnt/data/VEX_EMAIL_2025-03-13_0514_NICE_links_statement_GP_letter_t_19.json",
+      "dt": "2025-03-13 05:14",
+      "from": "Ben Carter <benrobcarter@gmail.com>",
+      "to": "Dixon, Jon EA817 <Jon.Dixon@sussex.police.uk>",
+      "subject": "NICE links + statement + GP letter timing"
+    }
+  ]
+}

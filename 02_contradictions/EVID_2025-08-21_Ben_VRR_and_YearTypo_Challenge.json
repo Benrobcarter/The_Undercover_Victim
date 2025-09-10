@@ -1,0 +1,40 @@
+{
+  "meta": {
+    "evidence_id": "EVID_2025-08-21_Ben_VRR_and_YearTypo_Challenge",
+    "title": "VRR Demand + Crime-Ref Year Typo Challenge to Disclosure Unit (cc ICO)",
+    "created_at": "2025-08-30T23:37:55",
+    "type": "Email",
+    "from": "Ben Carter <benrobcarter@gmail.com>",
+    "to": [
+      "Information Access Team <Subject.Access1@sussex.police.uk>",
+      "icocasework@ico.org.uk"
+    ],
+    "cc": [
+      "sian.berry.mp@parliament.uk"
+    ],
+    "date": "2025-08-21T15:16:00",
+    "tags": [
+      "VRR_REQUEST",
+      "YEAR_TYP0_CALLED_OUT",
+      "ICO_LINKED",
+      "GDPR_BREACH_FLAGGED"
+    ],
+    "version": "1.0.0"
+  },
+  "content": {
+    "subject": "Re: Right of Access Request 1567/25 — VRR Request and Crime-Ref Query",
+    "body": "Demands VRR for NFA on 47240141246; questions how 47230214305 (2023) could 'overtake' a 2024 case; reports unredacted data disclosure by PC Jon Dixon (Paul Double). Attaches proof of start date."
+  },
+  "links": {
+    "contradiction_threads": [
+      "VRR_VPS_SUPPRESSED",
+      "SAR_AS_ACCESS_BARRIER",
+      "ICO_LINKED"
+    ],
+    "related_entities": [
+      "Sussex Police Information Access Team",
+      "ICO",
+      "PC Jon Dixon"
+    ]
+  }
+}

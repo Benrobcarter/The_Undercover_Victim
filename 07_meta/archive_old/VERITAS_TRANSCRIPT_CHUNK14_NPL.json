@@ -1,0 +1,81 @@
+{
+  "chunk": 14,
+  "time_range": "13:30-14:30",
+  "quotes": [
+    {
+      "speaker": "Ben Carter",
+      "time": "13:30",
+      "quote": "It’s like they’re writing a story where I’m the problem, instead of recording what’s actually happened.",
+      "tags": [
+        "victim_experience",
+        "gaslighting",
+        "record_tampering"
+      ]
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "13:36",
+      "quote": "I know, and I’ve told them that records have to reflect accurately, not opinions.",
+      "tags": [
+        "acknowledgement",
+        "advocacy",
+        "accuracy"
+      ]
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "13:41",
+      "quote": "But if those records are wrong, they’ll be used against me later.",
+      "tags": [
+        "risk",
+        "evidence_misuse",
+        "victim_experience"
+      ]
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "13:47",
+      "quote": "That’s why I’ve asked for corrections to be made when errors are spotted.",
+      "tags": [
+        "advocacy",
+        "formalisation",
+        "systemic_issue"
+      ]
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "13:52",
+      "quote": "I shouldn’t need you to ask, they should just record it right first time.",
+      "tags": [
+        "accountability",
+        "victim_assertion",
+        "systemic_failure"
+      ]
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "13:57",
+      "quote": "I agree, it should be right the first time.",
+      "tags": [
+        "acknowledgement",
+        "agreement"
+      ]
+    }
+  ],
+  "contradictions": [
+    {
+      "issue": "Victim perceives records rewritten to frame him; advocate concedes errors but frames as fixable instead of systemic",
+      "type": "record_accuracy_failure"
+    }
+  ],
+  "timeline_hooks": [
+    {
+      "ref": "records rewritten framing victim",
+      "link": "Institutional gaslighting May 2025"
+    },
+    {
+      "ref": "risk of misuse of wrong records",
+      "link": "Future harm from inaccurate records"
+    }
+  ]
+}

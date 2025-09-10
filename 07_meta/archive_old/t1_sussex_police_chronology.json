@@ -1,0 +1,13 @@
+[
+  {
+    "id": "invisible_probe",
+    "date": "2025-06-18",
+    "title": "Invisible Probe \u2014 triage call confirms \u2018PC Russell\u2019 decoy (\u202693423)",
+    "tag": "INVISIBLE_PROBE_CALL",
+    "links": {
+      "evidence_id": "VEX_2025-06-18_101_Invisible_Probe",
+      "vex_file": "VEX_2025-06-18_101_Invisible_Probe.json"
+    },
+    "notes": "Decoy confirmed at triage; reversed on 2025-06-22 with consolidation to Dixon."
+  }
+]

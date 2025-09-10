@@ -1,0 +1,83 @@
+{
+  "chunk": 40,
+  "time_range": "39:30-40:30",
+  "quotes": [
+    {
+      "speaker": "Ben Carter",
+      "time": "39:30",
+      "quote": "So if it’s not logged, it’s like it never happened, and I’m left erased.",
+      "tags": [
+        "victim_experience",
+        "suicide_disclosure",
+        "erasure",
+        "safeguarding_failure"
+      ]
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "39:36",
+      "quote": "I know, and I’ve made clear that failing to log puts you at more risk.",
+      "tags": [
+        "acknowledgement",
+        "advocacy",
+        "safeguarding"
+      ]
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "39:41",
+      "quote": "More risk? It already put me at risk, because no one acted on it.",
+      "tags": [
+        "victim_experience",
+        "risk",
+        "safeguarding_gap"
+      ]
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "39:46",
+      "quote": "You’re right, it should have triggered immediate safeguarding steps.",
+      "tags": [
+        "acknowledgement",
+        "agreement",
+        "safeguarding"
+      ]
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "39:51",
+      "quote": "But it didn’t, and I was left alone again.",
+      "tags": [
+        "victim_experience",
+        "isolation",
+        "safeguarding_failure"
+      ]
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "39:56",
+      "quote": "I’m sorry, Ben. That wasn’t how it should have been handled.",
+      "tags": [
+        "acknowledgement",
+        "empathy",
+        "safeguarding"
+      ]
+    }
+  ],
+  "contradictions": [
+    {
+      "issue": "Suicide disclosure erased by lack of logging; advocate admits safeguarding should have triggered but didn’t",
+      "type": "safeguarding_erasure"
+    }
+  ],
+  "timeline_hooks": [
+    {
+      "ref": "suicide disclosure erased",
+      "link": "Failure to log suicide risk Apr–May 2025"
+    },
+    {
+      "ref": "left alone after disclosure",
+      "link": "Safeguarding collapse May 2025"
+    }
+  ]
+}

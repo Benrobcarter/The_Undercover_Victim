@@ -1,0 +1,128 @@
+{
+  "meta": {
+    "filename": "2025-03-13_Ben_Email_18_CRN-47240214305_VEX.json",
+    "case_reference": "47240214305",
+    "thread_label": "CRIME_REF_47240214305_THREAD",
+    "actor_cluster": [
+      "Sussex Police",
+      "PC Jon Dixon (EA817)",
+      "Ben Carter"
+    ],
+    "date_range": {
+      "start": "2025-03-13T05:14:00",
+      "end": "2025-03-13T05:14:00"
+    },
+    "source_provenance": "Email from Ben Carter to PC Jon Dixon on 13 Mar 2025 at 05:14 (provided by user)",
+    "created_at_utc": "2025-08-24T18:23:38.701016Z",
+    "vex_schema_version": "1.1"
+  },
+  "emails": [
+    {
+      "id": "email-2025-03-13-0514-ben-dixon",
+      "date": "2025-03-13T05:14:00",
+      "from": {
+        "name": "Ben Carter",
+        "email": "benrobcarter@gmail.com"
+      },
+      "to": [
+        {
+          "name": "PC Jon Dixon",
+          "email": "Jon.Dixon@sussex.police.uk",
+          "badge": "EA817"
+        }
+      ],
+      "subject_summary": "Chasing NICE links and statement; seeking medical support clarification",
+      "body": "Hello mate I haven't heard back re NICE links or for the statement, I also really need to speak to the doctor, I'm finding it hard to get on with day to day tasks. I am happy to pay the doctor for a letter, as I am paying I expect I will be able to have a longer talk about my current situation and how I'm coping, which I'm not really.\n\nMy family has me under private health care, I called them in October as I was at my worst and had to go to my parents for 2 months, basically to stay alive. Would it be better just to arrange an appointment with them, would they be able to see my records and write me something up, or is it better to go through the NHS?\n\nI want to co-operate, and at the moment my timeline has to be very structured as I have a lot of pressure to make out I'm ok, and fake confidence as I have 120 acts booked across 6 venues for May 2nd until June 1st for the Brighton Fringe, that's 50 shows I am promoting. It's the run up now so if you could please give me dates of when the statement will be taken, the NICE links. Also please tell me what it is exactly I am asking for from the doctor as my doctor is rubbish, I'd prefer to go private but I find just getting an appointment impossible even when I was able to live, without someone doing everything they can to make sure I don't.",
+      "attachments": [],
+      "labels": [
+        "Victim Support Request",
+        "Medical Support",
+        "Statement Request",
+        "Evidence Submission"
+      ]
+    }
+  ],
+  "vex": [
+    {
+      "email_id": "email-2025-03-13-0514-ben-dixon",
+      "sentence_tags": [
+        {
+          "text": "I haven't heard back re NICE links or for the statement.",
+          "tags": [
+            "FOLLOW_UP",
+            "NO_RESPONSE",
+            "DEATH_BY_SILENCE"
+          ],
+          "notes": "Shows continued lack of response on critical uploads and statement-taking."
+        },
+        {
+          "text": "I also really need to speak to the doctor, I'm finding it hard to get on with day to day tasks.",
+          "tags": [
+            "VICTIM_DISTRESS",
+            "MEDICAL_SUPPORT_REQUEST"
+          ]
+        },
+        {
+          "text": "My family has me under private health care… had to go to my parents for 2 months, basically to stay alive.",
+          "tags": [
+            "SUICIDE_RISK_HISTORY",
+            "PRIVATE_HEALTHCARE_CONTEXT"
+          ],
+          "notes": "Highlights previous near-lethal crisis and need for structured support."
+        },
+        {
+          "text": "I have 120 acts booked across 6 venues for May 2nd until June 1st for the Brighton Fringe.",
+          "tags": [
+            "BUSINESS_PRESSURE",
+            "FRINGE_CONTEXT",
+            "REPUTATIONAL_STAKES"
+          ]
+        },
+        {
+          "text": "Please tell me what it is exactly I am asking for from the doctor.",
+          "tags": [
+            "CLARITY_REQUEST",
+            "MEDICAL_EVIDENCE_INSTRUCTION"
+          ],
+          "notes": "Victim requests clarity on what medical evidence police require."
+        }
+      ]
+    }
+  ],
+  "contradiction_links": [
+    {
+      "id": "SP-CONTRA-NO-RESPONSE-NICE-STATEMENT-2025-03",
+      "claim": "Police engaged with the victim’s upload requests and facilitated statement-taking.",
+      "reality": "Despite repeated requests, victim still had no NICE link or statement scheduled by March 2025.",
+      "laws_breached": [
+        "Victims’ Code 2020 (Right to updates and statement)",
+        "Care Act 2014 (s.42 safeguarding duty)"
+      ],
+      "damages": [
+        "Emotional",
+        "Medical",
+        "Financial"
+      ]
+    }
+  ],
+  "timeline_hooks": [
+    {
+      "phase": "Investigation – Ongoing Silence",
+      "date": "2025-03-13",
+      "events": [
+        "Ben chases again for NICE links and statement date.",
+        "Reports health deterioration and reliance on private healthcare to stay alive.",
+        "Requests clarity on what medical evidence police require from doctor."
+      ],
+      "related_threads": [
+        "CRIME_REF_47240214305_THREAD",
+        "DEATH_BY_SILENCE"
+      ]
+    }
+  ],
+  "damages_summary": {
+    "emotional": "Shows deep frustration, ongoing silence, and mental health impact.",
+    "medical": "Evidence of prior suicide risk and ongoing need for medical intervention.",
+    "financial": "Pressure of Brighton Fringe workload and costs compounded by lack of police clarity."
+  }
+}

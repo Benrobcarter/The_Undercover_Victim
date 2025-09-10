@@ -1,0 +1,57 @@
+{
+  "id": "SHARD_TIMELINES_CORE",
+  "title": "Core Timelines Shard v6.0",
+  "events": [
+    {
+      "date": "2025-05-14T11:28:00+01:00",
+      "evidence_files": [
+        "Veritas_14_05_25-11-28_Transcript.txt"
+      ],
+      "actors": [
+        "Ben Carter",
+        "Emma Veritas"
+      ],
+      "event_type": "call_transcript",
+      "contradiction_clusters": [
+        "CROWBARRING_MYSELF_JUSTICE",
+        "DEATH_BY_SILENCE"
+      ],
+      "timeline_hooks": [
+        "PoliceHandling",
+        "Safeguarding",
+        "LostCallEvidence"
+      ],
+      "notes": "Ben details Dixon’s failures (suicide not logged, still listed as OIC after NFA, Brighton Fringe damage). Emma acknowledges contradictions, promises to chase stalking unit, and discusses IOPC link confusion.",
+      "source_refs": [
+        "135"
+      ]
+    },
+    {
+      "date": "2025-06-25T11:21:00+01:00",
+      "evidence_files": [
+        "EVID_2025-06-25_1121_Safety_Plan_BC.json",
+        "EVID_2025-06-25_1121_Safety_Plan_BC.pdf"
+      ],
+      "actors": [
+        "Veritas Justice Support Team",
+        "Ben Carter"
+      ],
+      "event_type": "safety_plan",
+      "contradiction_clusters": [
+        "INVISIBLE_PROBE",
+        "SAFEGUARDING_SUPPRESSION"
+      ],
+      "timeline_hooks": [
+        "EmailAttachment",
+        "ExternalConfirmations"
+      ],
+      "legal_refs": [
+        "VictimsCode"
+      ],
+      "notes": "External anchor confirming risk state. Formal safety plan provided as email attachment, creating independent confirmation of safeguarding duties.",
+      "source_refs": [
+        "134"
+      ]
+    }
+  ]
+}

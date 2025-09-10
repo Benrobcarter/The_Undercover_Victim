@@ -1,0 +1,27 @@
+{
+  "id": "VEX_27-05-2024 - CONFIDENTIAL - Your emails_OCR",
+  "type": "evidence",
+  "source": "Smart OCR Ingest",
+  "date": "DATE_NOT_FOUND",
+  "summary": "Auto-ingested from file: 27-05-2024 - CONFIDENTIAL - Your emails.pdf",
+  "meta": {
+    "original_filename": "27-05-2024 - CONFIDENTIAL - Your emails.pdf",
+    "ocr_pdf_file": "27-05-2024 - CONFIDENTIAL - Your emails_ocr.pdf",
+    "ocr_text_file": "27-05-2024 - CONFIDENTIAL - Your emails.txt",
+    "sha256": "17ad870e6158bdf5d8fc021715262f281c04fdbced313bbe4c52f8907494c879",
+    "source_folder": ".",
+    "ingested_on": "2025-09-06T14:03:39.411415",
+    "ingest_method": "ocr_smart"
+  },
+  "links": {
+    "source_file_original": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_unprocessed/27-05-2024 - CONFIDENTIAL - Your emails.pdf",
+    "ocr_pdf_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_ocrd/27-05-2024 - CONFIDENTIAL - Your emails_ocr.pdf",
+    "ocr_text_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/text/27-05-2024 - CONFIDENTIAL - Your emails.txt"
+  },
+  "tags": [
+    "auto_ocr",
+    " your emails",
+    " confidential ",
+    "2024 "
+  ]
+}

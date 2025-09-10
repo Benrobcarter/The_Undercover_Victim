@@ -1,0 +1,70 @@
+{
+  "vex_evidence": [
+    {
+      "id": "VEX_2025-05-05_Eventotron_Payment_For_Mirror_System",
+      "date": "2025-05-05",
+      "source_path": "06e. Proof of Full Payment During Crisis (2025)/RECEIPT_2025-05-05_Eventotron_Payment.pdf",
+      "summary": "Ben Carter paid £250 to Eventotron to enable a mirrored ticketing setup for Half a Camel venues, under the guidance and approval of Alice Wright. This was done to preserve show continuity and meet insurance requirements. The partnership framing was later used to delay brochure production and create a false narrative of separation.",
+      "tags": [
+        "COLLABORATION_AS_DEFLECTION",
+        "STALLED_IN_GOOD_FAITH",
+        "SAFEGUARDING_DEFLECTION",
+        "GOOD_FAITH_USED_AS_TRAP"
+      ],
+      "linked_contradictions": [
+        "CONTRA_2025-05-05_Eventotron_Payment_Based_On_Manipulated_Partnership_Promise"
+      ],
+      "linked_timelines": [
+        "t2_brighton_fringe_consequences#2025-05-05"
+      ],
+      "quoted_text": [
+        "£250 payment confirmed to Eventotron on May 5, 2025.",
+        "We’ll work as partners — just make sure the system mirrors ours."
+      ]
+    },
+    {
+      "id": "VEX_2025-05-06_Ongoing_Registration_Under_Suppression",
+      "date": "2025-05-06",
+      "source_path": "06e. Proof of Full Payment During Crisis (2025)/EVENTOTRON_2025-05-06_Maris_And_Alec.pdf",
+      "summary": "Despite being told operational continuity was in jeopardy, Half a Camel was onboarding new venues (Maris & Otter) and shows (Alec Crane). These registrations show clear ongoing delivery while Carter was being subtly deflected from publishing.",
+      "tags": [
+        "ONGOING_ACTIVITY_PROVEN_ERASURE",
+        "SAFEGUARDING_DEFLECTION",
+        "STALLED_IN_GOOD_FAITH",
+        "NARRATIVE_REPLACEMENT"
+      ],
+      "linked_contradictions": [
+        "CONTRA_2025-05-06_Shows_Were_Still_Growing_But_I_Was_Being_Blocked"
+      ],
+      "linked_timelines": [
+        "t2_brighton_fringe_consequences#2025-05-06"
+      ],
+      "quoted_text": [
+        "Alec Crane: An Hour of Controlling The Dead — Registered 6 May 2025",
+        "Maris & Otter venue approved on Half a Camel platform"
+      ]
+    },
+    {
+      "id": "VEX_2025-07-18_Brochure_Proof_Used_Against_Me",
+      "date": "2025-07-18",
+      "source_path": "06e. Proof of Full Payment During Crisis (2025)/BROCHURE_PROOF_2025.pdf",
+      "summary": "The Half a Camel 2025 brochure was fully designed and ready to print. Fringe delays and contradictory guidance created legal uncertainty about logo use and branding. This suppressed publication — then was weaponised in the July 18 libel email.",
+      "tags": [
+        "BROCHURE_ERASURE_VIA_DELAY_STRATEGY",
+        "DEFAMATION_THROUGH_OMISSION",
+        "GOOD_FAITH_USED_AS_TRAP",
+        "LIBEL_ACTION_DISGUISED_AS_NEUTRAL_UPDATE"
+      ],
+      "linked_contradictions": [
+        "CONTRA_2025-07-18_Brochure_Erased_After_Strategic_Delay"
+      ],
+      "linked_timelines": [
+        "t2_brighton_fringe_consequences#2025-07-18"
+      ],
+      "quoted_text": [
+        "Brochure file delivered and archived prior to erasure.",
+        "Alice confirmed mirror system would be fine — then used lack of printed material as accusation."
+      ]
+    }
+  ]
+}

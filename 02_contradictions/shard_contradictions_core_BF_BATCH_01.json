@@ -1,0 +1,121 @@
+{
+  "contradictions": [
+    {
+      "id": "BF-CONTRA-LIBEL-REPLACEMENT-INTENT-2025",
+      "title": "Libel Broadcast and 'Finding Someone New' — Replacement Intent",
+      "claim": "Brighton Fringe sent a neutral update to stakeholders regarding venue operations.",
+      "reality": "On 18 July 2025, Brighton Fringe sent a mass email libelling Ben Carter as “abusive,” “unfit,” and “not a safe person to work with,” while simultaneously signalling a replacement. This email was sent to over 160+ artists, misrepresented safeguarding disclosures, and omitted legal context.",
+      "actors": [
+        "Brighton Fringe",
+        "Duncan Lustig-Prean"
+      ],
+      "laws": [
+        {
+          "act": "Defamation Act 2013",
+          "section": "Serious Harm",
+          "why": "Mass publication of libel"
+        },
+        {
+          "act": "Charities Act 2011",
+          "section": "CC9",
+          "why": "Misuse of board authority"
+        }
+      ],
+      "damages": {
+        "reputational": [
+          "Severe damage to professional standing across client base"
+        ],
+        "emotional": [
+          "Distress following public invalidation of safeguarding claims"
+        ],
+        "financial": [
+          "Loss of future bookings and venue collapse"
+        ]
+      },
+      "timeline_hooks": [
+        "t2_brighton_fringe_consequences#0718"
+      ],
+      "evidence_refs": [
+        "18-07-25_Mass_Libel_Email",
+        "Index_01_All_July’s_Email_Claims_Disputed"
+      ],
+      "created_at": "2025-08-31T16:01:01.491545Z"
+    },
+    {
+      "id": "BF-CONTRA-LOGGED-WORSE-THAN-NOT-LOGGED-2025",
+      "title": "Safeharming — Logging the Risk, Choosing Inaction",
+      "claim": "Brighton Fringe could not have known Ben Carter was at risk.",
+      "reality": "Duncan Lustig-Prean and Amy Keogh confirmed they had been logging all messages, including those disclosing mental health crisis and suicidal thoughts. Yet no action was taken. This turns silence into intent.",
+      "actors": [
+        "Brighton Fringe",
+        "Trustees"
+      ],
+      "laws": [
+        {
+          "act": "Care Act 2014",
+          "section": "42",
+          "why": "Safeguarding risk not acted upon"
+        },
+        {
+          "act": "Human Rights Act 1998",
+          "section": "Art.2",
+          "why": "Failure to uphold right to life"
+        }
+      ],
+      "damages": {
+        "medical": [
+          "Exacerbated suicide risk due to inaction"
+        ],
+        "emotional": [
+          "Feelings of abandonment and betrayal by institution"
+        ]
+      },
+      "timeline_hooks": [
+        "t2_brighton_fringe_consequences#0609"
+      ],
+      "evidence_refs": [
+        "fringe_safeguarding_meeting_deepdive_writeup",
+        "The_Safeharming_Log"
+      ],
+      "created_at": "2025-08-31T16:01:01.491545Z"
+    },
+    {
+      "id": "BF-CONTRA-NO-RECORD-OF-ALLEGATIONS-2025",
+      "title": "No Record of Allegations — Governance Gaslighting",
+      "claim": "Brighton Fringe had no record of safeguarding allegations.",
+      "reality": "After receiving forwarded emails, police screenshots, and disclosures, Brighton Fringe still claimed to have 'no record of allegations' from the victim. This appears to be a deflection strategy and contradiction of internal knowledge.",
+      "actors": [
+        "Brighton Fringe",
+        "Amy Keogh"
+      ],
+      "laws": [
+        {
+          "act": "Data Protection Act 2018",
+          "section": "Art.5",
+          "why": "Failure to accurately process safeguarding data"
+        },
+        {
+          "act": "Care Act 2014",
+          "section": "42",
+          "why": "Omission of risk disclosures"
+        }
+      ],
+      "damages": {
+        "reputational": [
+          "Discrediting of victim’s account"
+        ],
+        "legal": [
+          "Potential breach of data transparency obligations"
+        ]
+      },
+      "timeline_hooks": [
+        "t2_brighton_fringe_consequences#0712"
+      ],
+      "evidence_refs": [
+        "IC-415467-W5D3",
+        "recent_disclosure_deepdive_writeup"
+      ],
+      "created_at": "2025-08-31T16:01:01.491545Z"
+    }
+  ]
+}

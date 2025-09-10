@@ -1,0 +1,109 @@
+{
+  "meta": {
+    "filename": "2024-11-04_PC_Dixon_Email_4_CRN-47240214305_VEX.json",
+    "case_reference": "47240214305",
+    "thread_label": "CRIME_REF_47240214305_THREAD",
+    "actor_cluster": [
+      "Sussex Police",
+      "PC Jon Dixon (EA817)",
+      "Ben Carter"
+    ],
+    "date_range": {
+      "start": "2024-11-04T15:42:00",
+      "end": "2024-11-04T15:42:00"
+    },
+    "source_provenance": "Email from Ben Carter to PC Jon Dixon on 4 Nov 2024 at 15:42 (provided by user)",
+    "created_at_utc": "2025-08-24T17:11:18.484293Z",
+    "vex_schema_version": "1.1"
+  },
+  "emails": [
+    {
+      "id": "email-2024-11-04-1542-ben-dixon",
+      "date": "2024-11-04T15:42:00",
+      "from": {
+        "name": "Ben Carter",
+        "email": "benrobcarter@gmail.com"
+      },
+      "to": [
+        {
+          "name": "PC Jon Dixon",
+          "email": "Jon.Dixon@sussex.police.uk",
+          "badge": "EA817"
+        }
+      ],
+      "subject_summary": "Query about scope of evidence required",
+      "body": "Is this evidence since last week when the police went round to hers? I already sent a lot of evidence back in June, I can provide more evidence in between June and then but if it's not really needed it'd save a lot of sifting through everything.\nThanks Ben",
+      "attachments": [],
+      "labels": [
+        "Victim Cooperation",
+        "Evidence Clarification",
+        "Prior Submissions"
+      ]
+    }
+  ],
+  "vex": [
+    {
+      "email_id": "email-2024-11-04-1542-ben-dixon",
+      "sentence_tags": [
+        {
+          "text": "Is this evidence since last week when the police went round to hers?",
+          "tags": [
+            "EVIDENCE_SCOPE_QUERY",
+            "TIMELINE_CLARIFICATION"
+          ],
+          "notes": "Ben seeks clarity on what timeframe of evidence is required."
+        },
+        {
+          "text": "I already sent a lot of evidence back in June,",
+          "tags": [
+            "EVIDENCE_ALREADY_PROVIDED",
+            "VICTIM_PROACTIVE"
+          ],
+          "notes": "Shows evidence was submitted months earlier; contradicts any claim of non-cooperation."
+        },
+        {
+          "text": "I can provide more evidence in between June and then but if it's not really needed it'd save a lot of sifting through everything.",
+          "tags": [
+            "VICTIM_COOPERATION",
+            "BURDEN_OF_PROOF_SHIFT",
+            "EFFICIENCY_REQUEST"
+          ],
+          "notes": "Ben demonstrates willingness but highlights heavy burden imposed by unclear requests."
+        }
+      ]
+    }
+  ],
+  "contradiction_links": [
+    {
+      "id": "SP-CONTRA-EVIDENCE-ALREADY-PROVIDED-2024-11",
+      "claim": "Police lacked evidence because victim had not supplied it.",
+      "reality": "Victim states evidence was already provided in June; also offers to provide more.",
+      "laws_breached": [
+        "Victims’ Code 2020 (Right to have evidence taken into account)"
+      ],
+      "damages": [
+        "Emotional",
+        "Strategic"
+      ]
+    }
+  ],
+  "timeline_hooks": [
+    {
+      "phase": "Investigation Start / Evidence Intake",
+      "date": "2024-11-04",
+      "events": [
+        "Ben queries scope of requested evidence.",
+        "Notes he had already sent substantial evidence in June.",
+        "Offers to provide additional evidence but highlights difficulty of re-sifting."
+      ],
+      "related_threads": [
+        "CRIME_REF_47240214305_THREAD",
+        "DEATH_BY_SILENCE"
+      ]
+    }
+  ],
+  "damages_summary": {
+    "emotional": "Frustration and fatigue from repeatedly having to clarify and resubmit evidence.",
+    "strategic": "Police requests appear duplicative, risking delay while victim had already complied."
+  }
+}

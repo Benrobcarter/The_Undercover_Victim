@@ -1,0 +1,16 @@
+{
+  "type": "book_meta",
+  "generated_at": "2025-09-05T03:30:09.767932",
+  "meta": {},
+  "file_index": [
+    {
+      "name": "book_core_sec2.json"
+    },
+    {
+      "name": "book_core_sec3.json"
+    },
+    {
+      "name": "book_core_chapters_misc.json"
+    }
+  ]
+}

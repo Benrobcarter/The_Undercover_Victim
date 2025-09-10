@@ -1,0 +1,99 @@
+{
+  "meta": {
+    "filename": "2024-11-04_PC_Dixon_Email_3_CRN-47240214305_VEX.json",
+    "case_reference": "47240214305",
+    "thread_label": "CRIME_REF_47240214305_THREAD",
+    "actor_cluster": [
+      "Sussex Police",
+      "PC Jon Dixon (EA817)",
+      "Ben Carter"
+    ],
+    "date_range": {
+      "start": "2024-11-04T15:39:00",
+      "end": "2024-11-04T15:39:00"
+    },
+    "source_provenance": "Email from PC Jon Dixon to Ben Carter on 4 Nov 2024 at 15:39 (provided by user)",
+    "created_at_utc": "2025-08-24T17:09:51.075188Z",
+    "vex_schema_version": "1.1"
+  },
+  "emails": [
+    {
+      "id": "email-2024-11-04-1539-dixon-ben",
+      "date": "2024-11-04T15:39:00",
+      "from": {
+        "name": "PC Jon Dixon",
+        "email": "Jon.Dixon@sussex.police.uk",
+        "badge": "EA817"
+      },
+      "to": [
+        {
+          "name": "Ben Carter",
+          "email": "benrobcarter@gmail.com"
+        }
+      ],
+      "subject_summary": "Follow-up: NICE link already sent; promises to resend",
+      "body": "Hi Ben\nChecking our systems it’s showing that a link has already been sent to you. I will send a further one, please check your spam box if you can’t find either.\nRegards\nPC DIXON EA817",
+      "attachments": [],
+      "labels": [
+        "Police Communication",
+        "NICE Link",
+        "Evidence Upload Process"
+      ]
+    }
+  ],
+  "vex": [
+    {
+      "email_id": "email-2024-11-04-1539-dixon-ben",
+      "sentence_tags": [
+        {
+          "text": "Checking our systems it’s showing that a link has already been sent to you.",
+          "tags": [
+            "NICE_LINK_STATUS",
+            "EVIDENCE_UPLOAD_ASSUMPTION"
+          ],
+          "notes": "Police system shows link sent, but unclear if victim received or could use it."
+        },
+        {
+          "text": "I will send a further one, please check your spam box if you can’t find either.",
+          "tags": [
+            "PROMISE_TO_RESEND",
+            "EVIDENCE_UPLOAD_PROCESS"
+          ],
+          "notes": "Promise of resolution; later failures to deliver links contradict this assurance."
+        }
+      ]
+    }
+  ],
+  "contradiction_links": [
+    {
+      "id": "SP-CONTRA-NICE-LINK-RESEND-FAILURE-2024-11",
+      "claim": "Police provided victim with adequate means to submit evidence.",
+      "reality": "Despite promise to resend links, Ben later reports upload limits and missing links.",
+      "laws_breached": [
+        "Victims’ Code 2020 (Right to supply evidence)"
+      ],
+      "damages": [
+        "Emotional",
+        "Strategic"
+      ]
+    }
+  ],
+  "timeline_hooks": [
+    {
+      "phase": "Investigation Start / Evidence Intake",
+      "date": "2024-11-04",
+      "events": [
+        "Police claim NICE link already sent; promise to send another.",
+        "Marks beginning of recurring issue with evidence upload barriers."
+      ],
+      "related_threads": [
+        "CRIME_REF_47240214305_THREAD",
+        "DEATH_BY_SILENCE"
+      ]
+    }
+  ],
+  "damages_summary": {
+    "emotional": "Ben left uncertain if police systems aligned with his access to upload evidence.",
+    "strategic": "Promise to resend link sets expectation of smooth process; later failures heighten contradiction."
+  }
+}

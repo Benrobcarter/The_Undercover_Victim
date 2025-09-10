@@ -1,0 +1,207 @@
+{
+  "batch": "PHHC_EMAILS_COMBINED_FULL",
+  "validated_on": "2025-06-08T08:06:49.561910Z",
+  "emails": [
+    {
+      "date": "2024-03-18",
+      "time": "13:14",
+      "source_ref": [
+        "104"
+      ],
+      "event": "Ignored Suicide Disclosure and IOPC Escalation",
+      "description": "Ben Carter reported no police response following stalking, threats, medical data breach, and suicidal disclosure. He reiterated the risk in writing and escalated to the IOPC.",
+      "vex_tags": [
+        "police_inaction",
+        "safeguarding_failure",
+        "suicide_disclosure",
+        "stalking_case",
+        "delay_reporting",
+        "breach_of_duty",
+        "ignored_evidence",
+        "iopc_escalation",
+        "emotional_exhaustion",
+        "institutional_accountability"
+      ],
+      "contradiction_ids": [
+        "EX_PHHC_SUICIDE_DISCLOSURE_IGNORED"
+      ],
+      "linked_evidence": [
+        {
+          "type": "email",
+          "filename": "EMAIL_PHHC_2024-03-18_SUICIDE_ESCALATION_IOPC.json",
+          "status": "injected"
+        }
+      ],
+      "emotional_tone": "collapse",
+      "timeline_layers": [
+        "PHHC_SMART_TIMELINE",
+        "DEATH_BY_SILENCE",
+        "EMOTIONAL_TRAJECTORY",
+        "INSTITUTIONAL_ALIGNMENT",
+        "SUICIDE_DISCLOSURE_TRACK",
+        "SAFEGUARDING_BREACHES",
+        "DUTY_OF_CARE_FAILURES",
+        "LIVE_VEX_TIMELINE"
+      ]
+    },
+    {
+      "date": "2024-03-20",
+      "time": "15:17",
+      "source_ref": [
+        "108"
+      ],
+      "event": "Stalking Report Delayed for 7 Days Despite Suicide Disclosure",
+      "description": "Ben Carter documented that Sussex Police failed to return two urgent stalking-related calls (March 5 & 6), despite suicide risk being disclosed. He was only contacted on March 12 and forced to re-explain the situation.",
+      "vex_tags": [
+        "police_inaction",
+        "safeguarding_failure",
+        "suicide_disclosure",
+        "broken_promise",
+        "repeated_neglect",
+        "trauma_repetition",
+        "institutional_delay",
+        "accountability_failure"
+      ],
+      "contradiction_ids": [
+        "EX_PHHC_STALKING_CALL_DELAY_SUICIDE_RISK"
+      ],
+      "linked_evidence": [
+        {
+          "type": "email",
+          "filename": "EMAIL_PHHC_2024-03-20_STALKING_DELAY_DISCLOSURE.json",
+          "status": "injected"
+        }
+      ],
+      "emotional_tone": "moral_collapse",
+      "timeline_layers": [
+        "PHHC_SMART_TIMELINE",
+        "DEATH_BY_SILENCE",
+        "EMOTIONAL_TRAJECTORY",
+        "INSTITUTIONAL_ALIGNMENT",
+        "SUICIDE_DISCLOSURE_TRACK",
+        "SAFEGUARDING_BREACHES",
+        "DUTY_OF_CARE_FAILURES",
+        "LIVE_VEX_TIMELINE"
+      ]
+    },
+    {
+      "date": "2024-03-23",
+      "time": "09:49",
+      "source_ref": [
+        "117"
+      ],
+      "event": "Medical Statement Submission with Request for Confirmation",
+      "description": "Ben Carter submitted a formal written statement and medical support to PC Jon Dixon, noting the emotional toll involved. He requested confirmation that it was added to the case file.",
+      "vex_tags": [
+        "evidence_submission",
+        "medical_support",
+        "trauma_disclosure",
+        "emotional_cost",
+        "duty_to_log",
+        "safeguarding_context",
+        "case_file_integrity"
+      ],
+      "contradiction_ids": [
+        "EX_PHHC_EVIDENCE_LOGGING_UNCONFIRMED"
+      ],
+      "linked_evidence": [
+        {
+          "type": "email",
+          "filename": "EMAIL_PHHC_2024-03-23_STATEMENT_SUPPORT_REQUEST.json",
+          "status": "injected"
+        }
+      ],
+      "emotional_tone": "vulnerability",
+      "timeline_layers": [
+        "PHHC_SMART_TIMELINE",
+        "EMOTIONAL_TRAJECTORY",
+        "INSTITUTIONAL_ALIGNMENT",
+        "EVIDENCE_SUPPRESSION",
+        "SAFEGUARDING_BREACHES",
+        "DUTY_OF_CARE_FAILURES"
+      ]
+    },
+    {
+      "date": "2024-03-27",
+      "time": "UNKNOWN",
+      "source_ref": [
+        "121"
+      ],
+      "event": "Call Recordings with Suicide Disclosure Submitted \u2013 Safeguarding Review Requested",
+      "description": "Ben Carter sent Sussex Police call recordings including his suicide disclosure. He requested safeguarding review, expressed anxiety about missing disclosures, and attached a cover letter.",
+      "vex_tags": [
+        "suicide_disclosure",
+        "safeguarding_escalation",
+        "audio_evidence",
+        "evidence_submission",
+        "accountability_request",
+        "institutional_duty",
+        "case_file_integrity",
+        "suppression_concern",
+        "emotional_exhaustion",
+        "safeguarding_failure",
+        "supporting_documentation"
+      ],
+      "contradiction_ids": [
+        "EX_PHHC_CALL_RECORDINGS_SAFEGUARDING_OMISSION"
+      ],
+      "linked_evidence": [
+        {
+          "type": "email",
+          "filename": "EMAIL_PHHC_2024-03-27_CALL_RECORDINGS_SAFEGUARDING.json",
+          "status": "injected"
+        }
+      ],
+      "emotional_tone": "anxiety",
+      "timeline_layers": [
+        "PHHC_SMART_TIMELINE",
+        "DEATH_BY_SILENCE",
+        "EMOTIONAL_TRAJECTORY",
+        "INSTITUTIONAL_ALIGNMENT",
+        "SUICIDE_DISCLOSURE_TRACK",
+        "EVIDENCE_SUPPRESSION",
+        "SAFEGUARDING_BREACHES",
+        "DUTY_OF_CARE_FAILURES",
+        "LIVE_VEX_TIMELINE"
+      ]
+    },
+    {
+      "date": "2024-03-28",
+      "time": "UNKNOWN",
+      "source_ref": [
+        "122"
+      ],
+      "event": "Evidence Resent for Third Time \u2013 Logging Unconfirmed",
+      "description": "Ben Carter resent call evidence link to PC Jon Dixon for the third time, noting he missed a call and received no confirmation of logging. He highlighted the need for safeguarding oversight and expressed concern over record-keeping.",
+      "vex_tags": [
+        "evidence_submission",
+        "record_request",
+        "safeguarding_failure",
+        "communication_gap",
+        "redundancy_due_to_neglect",
+        "police_inaction",
+        "duty_to_log"
+      ],
+      "contradiction_ids": [
+        "EX_PHHC_EVIDENCE_SENT_MULTIPLE_TIMES_NOT_LOGGED"
+      ],
+      "linked_evidence": [
+        {
+          "type": "email",
+          "filename": "EMAIL_PHHC_2024-03-28_EVIDENCE_RESUBMISSION.json",
+          "status": "injected"
+        }
+      ],
+      "emotional_tone": "burnout",
+      "timeline_layers": [
+        "PHHC_SMART_TIMELINE",
+        "DEATH_BY_SILENCE",
+        "INSTITUTIONAL_ALIGNMENT",
+        "EVIDENCE_SUPPRESSION",
+        "SAFEGUARDING_BREACHES",
+        "DUTY_OF_CARE_FAILURES",
+        "LIVE_VEX_TIMELINE"
+      ]
+    }
+  ]
+}

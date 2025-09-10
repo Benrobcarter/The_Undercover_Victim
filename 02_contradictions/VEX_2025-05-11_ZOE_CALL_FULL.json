@@ -1,0 +1,542 @@
+{
+  "id": "VEX_2025-05-11_ZOE_CALL_FULL",
+  "meta": {
+    "date": "2025-05-11",
+    "source": "Full call with Zoe (Puck venue owner)",
+    "tags": [
+      "BF-CONTRA-TAKEOVER-PREMEDITATED-2025",
+      "BF-CONTRA-VENUE-PARTNER-DEFENDS-HAC-2025",
+      "BF-CONTRA-GP-DEFAMATION-NARRATIVE-2025",
+      "CROWBARRING_MYSELF_JUSTICE",
+      "DUNCAN_ASSISTED_ERASURE",
+      "DEATH_BY_SILENCE",
+      "SAFEGUARDING_DEFLECTION",
+      "INSTITUTIONAL_ERASURE",
+      "CHARITIES_ACT_FAILURE",
+      "VENUE_TAKEOVER_THREAT"
+    ],
+    "source_file": "11-05-25 Zoe (Owner of Puck) Insight.txt"
+  },
+  "lines": [
+    {
+      "timestamp": "00:00",
+      "speaker": "Zoe",
+      "text": "Business over personal issues and circumstances, no matter how grave they are...",
+      "tags": [
+        "VENUE_TAKEOVER_NORMALISATION"
+      ],
+      "tone": "neutral → formal concern"
+    },
+    {
+      "timestamp": "00:00",
+      "speaker": "Zoe",
+      "text": "I haven't had any correspondence whatsoever with the Fringe in terms of emails. I haven't been told that they're taking over your company.",
+      "tags": [
+        "TAKEOVER_NO_NOTICE_TO_PARTNERS",
+        "THIRD_PARTY_VERIFICATION",
+        "BF-CONTRA-TAKEOVER-WITHOUT-NOTICE-2025"
+      ],
+      "tone": "factual / clear"
+    },
+    {
+      "timestamp": "00:00",
+      "speaker": "Zoe",
+      "text": "We're having to do a lot more than we thought we would…",
+      "tags": [
+        "UNDECLARED_WORKLOAD_SHIFT",
+        "VENUE_TAKEOVER_THREAT"
+      ],
+      "tone": "strained / revealing"
+    },
+    {
+      "timestamp": "01:06",
+      "speaker": "Ben",
+      "text": "If you’re taking over a vulnerable person’s company… my company is based on my acts being happy.",
+      "tags": [
+        "CROWBARRING_MYSELF_JUSTICE",
+        "DISABLED_OWNER_ERASURE"
+      ],
+      "tone": "protective / urgent"
+    },
+    {
+      "timestamp": "01:33",
+      "speaker": "Zoe",
+      "text": "I totally agree with you… but that’s where there’s disparity.",
+      "tags": [
+        "VENUE_ALLY_CONFIRMATION",
+        "INSTITUTIONAL_CONFLICT_ACKNOWLEDGED"
+      ],
+      "tone": "supportive / reflective"
+    },
+    {
+      "timestamp": "01:38",
+      "speaker": "Ben",
+      "text": "They told me they are responsible… That’s all I knew up until today.",
+      "tags": [
+        "CONTRADICTORY_OPERATIONS",
+        "TAKEOVER_ADMISSION_BY_FRINGE"
+      ],
+      "tone": "confused / reactive"
+    },
+    {
+      "timestamp": "02:24",
+      "speaker": "Zoe",
+      "text": "You don’t have to justify anything to me. I’d hate you to lose your reputation.",
+      "tags": [
+        "PARTNER_REJECTION",
+        "REPUTATION_HARM_VALIDATION"
+      ],
+      "tone": "empathetic / confirming"
+    },
+    {
+      "timestamp": "02:39",
+      "speaker": "Ben",
+      "text": "I said there would be a brochure. I didn’t know what to put in it when the Fringe weren’t getting back to me...",
+      "tags": [
+        "COMMUNICATION_BREAKDOWN",
+        "TAKEOVER_INCOMMUNICATION"
+      ],
+      "tone": "resigned / factual"
+    },
+    {
+      "timestamp": "04:30",
+      "speaker": "Zoe",
+      "text": "I think you just have to run your company. From the Fringe aspect, they're not trying to take over your company. They’re trying to ease your load.",
+      "tags": [
+        "FRIENDLY_MINIMISATION",
+        "INSTITUTIONAL_NARRATIVE_RELAY",
+        "INTERNAL_CONFLICT_ACKNOWLEDGED"
+      ]
+    },
+    {
+      "timestamp": "04:45",
+      "speaker": "Ben",
+      "text": "They haven’t spoken to me since May the second... apart from just: we’re taking over due to you being vulnerable. That’s all I’ve had.",
+      "tags": [
+        "SAFEGUARDING_USED_AS_REMOVAL",
+        "TAKEOVER_AS_VULNERABILITY_EXCUSE",
+        "DEATH_BY_SILENCE"
+      ]
+    },
+    {
+      "timestamp": "05:00",
+      "speaker": "Ben",
+      "text": "They told me I was vulnerable. I didn’t tell them I was. They made that up... The whole thing's fucked.",
+      "tags": [
+        "COERCED_NARRATIVE",
+        "GP_DEFAMATION_PRECURSOR",
+        "INSTITUTIONAL_GASLIGHTING"
+      ]
+    },
+    {
+      "timestamp": "05:25",
+      "speaker": "Zoe",
+      "text": "If there’s any way that you can look at what you had agreed to give the acts…",
+      "tags": [
+        "VENUE_REFOCUS_ON_RESTORATION",
+        "THIRD_PARTY_SOLUTIONING"
+      ]
+    },
+    {
+      "timestamp": "05:32",
+      "speaker": "Zoe",
+      "text": "That would be a good place to start. Some of the acts already aren’t playing anymore. You can’t do anything about those shows…",
+      "tags": [
+        "DAMAGE_ALREADY_DONE",
+        "VENUE_POSITIONING",
+        "FESTIVAL_COLLAPSE_COLLATERAL"
+      ]
+    },
+    {
+      "timestamp": "05:49",
+      "speaker": "Ben",
+      "text": "I’ve got the camera... I could get that set up. So there’s not gonna be any shows for a few days.",
+      "tags": [
+        "RECLAMATION_MOMENT",
+        "FIGHTBACK_MOBILISING",
+        "OPERATIONAL_SCRAMBLE"
+      ]
+    },
+    {
+      "timestamp": "06:05",
+      "speaker": "Ben",
+      "text": "I assumed the Fringe would be apologising and rectifying the chaos they created... But no. They’ve told me nothing. Just let Half a Camel die at the hands of them.",
+      "tags": [
+        "CROWBARRING_MYSELF_JUSTICE",
+        "INSTITUTIONAL_NEGLECT",
+        "ORCHESTRATED_COLLAPSE"
+      ]
+    },
+    {
+      "timestamp": "06:43",
+      "speaker": "Zoe",
+      "text": "Like I said, you can still claw it back.",
+      "tags": [
+        "ALLY_VALIDATION",
+        "SURVIVAL_RECOGNITION",
+        "POTENTIAL_RECOVERY"
+      ]
+    },
+    {
+      "timestamp": "06:45",
+      "speaker": "Ben",
+      "text": "Yeah, I can. I can now... because I now know what the acts are thinking.",
+      "tags": [
+        "STRATEGIC_RECLARITY",
+        "REPUTATION_CORRECTION",
+        "COMMUNICATION_RECLAMATION"
+      ]
+    },
+    {
+      "timestamp": "06:57",
+      "speaker": "Ben",
+      "text": "I’m not the spokesperson for the acts, you know.",
+      "tags": [
+        "ENFORCED_DISTANCE",
+        "INSTITUTIONAL_ERASURE"
+      ]
+    },
+    {
+      "timestamp": "07:01",
+      "speaker": "Ben",
+      "text": "Brighton Fringe created that and gave me no plan, like… it was just a statement, no plan going forward…",
+      "tags": [
+        "INSTITUTIONAL_ABANDONMENT",
+        "OPERATIONAL_ERASURE",
+        "VENUE_CONFUSION_TACTIC"
+      ]
+    },
+    {
+      "timestamp": "07:01",
+      "speaker": "Ben",
+      "text": "…at the same time, I had PC Dixon working with Alanna…",
+      "tags": [
+        "POLICE_AND_FRINGE_COMPLICITY",
+        "POST_BAIL_NO_WARNING_EXPOSURE",
+        "CROWBARRING_MYSELF_JUSTICE"
+      ]
+    },
+    {
+      "timestamp": "07:01",
+      "speaker": "Ben",
+      "text": "…I now have to sort out my business… just knowing what it is I’m dealing with…",
+      "tags": [
+        "DISINFORMATION_TACTIC",
+        "BUSINESS_COLLAPSE_MANAGED"
+      ]
+    },
+    {
+      "timestamp": "08:11",
+      "speaker": "Zoe",
+      "text": "I don’t know if you want to talk to all your other venues… they might have more insight…",
+      "tags": [
+        "VENUE_SOLIDARITY_SCOUTING",
+        "THIRD_PARTY_VALIDATION_SUPPORT",
+        "SITUATIONAL_REBUILDING"
+      ]
+    },
+    {
+      "timestamp": "08:22",
+      "speaker": "Ben",
+      "text": "Yeah… yeah.",
+      "tags": [
+        "EXHAUSTED_ACKNOWLEDGEMENT",
+        "EMOTIONAL_DEPLETION",
+        "ALLY_DEPENDENCE"
+      ]
+    },
+    {
+      "timestamp": "08:25",
+      "speaker": "Zoe",
+      "text": "Everything that’s happening that’s negative — this needn’t be one of them.",
+      "tags": [
+        "RECLAMATION_VALIDATION",
+        "ALLY_ENCOURAGEMENT",
+        "COLLAPSE_DOESNT_MEAN_END"
+      ]
+    },
+    {
+      "timestamp": "08:25",
+      "speaker": "Zoe",
+      "text": "If it can be rectified… then okay, it’s not wrong anymore.",
+      "tags": [
+        "VENUE_EMOTIONAL_REPAIR_FRAMING",
+        "ALTERNATIVE_OUTCOME_MODELING"
+      ]
+    },
+    {
+      "timestamp": "08:36",
+      "speaker": "Zoe",
+      "text": "That would be my main priority… just getting this sort of… this weekend’s done.",
+      "tags": [
+        "VENUE_RESET_LOGIC",
+        "PRACTICAL_REBUILD_PLAN",
+        "TIME_ANCHOR_CLARITY"
+      ]
+    },
+    {
+      "timestamp": "08:55",
+      "speaker": "Zoe",
+      "text": "The beginning of the shows was this weekend?",
+      "tags": [
+        "OPERATIONAL_CONTEXT_QUERY",
+        "SCHEDULE_CORROBORATION"
+      ]
+    },
+    {
+      "timestamp": "09:00",
+      "speaker": "Ben",
+      "text": "Them taking over… like, the weekends are the big ones.",
+      "tags": [
+        "STRATEGIC_TAKEOVER_WINDOW",
+        "FRAUDULENT_TIMING",
+        "SHOW_WEEKEND_CONTRADICTION"
+      ]
+    },
+    {
+      "timestamp": "09:12",
+      "speaker": "Ben",
+      "text": "I think it was Thursday that we were told.",
+      "tags": [
+        "TAKEOVER_TIMESTAMP_CONFIRMATION",
+        "NOTICE_PERIOD_CONTRADICTION",
+        "EVIDENCE_ANCHOR_DATE"
+      ]
+    },
+    {
+      "timestamp": "09:19",
+      "speaker": "Zoe",
+      "text": "I’ve been doing online tutorials at uni… meeting at the care home… comedy as well.",
+      "tags": [
+        "VENUE_STAFF_CAPACITY_VALIDATOR",
+        "LIMITED_ENGAGEMENT_EXPLANATION"
+      ]
+    },
+    {
+      "timestamp": "09:25",
+      "speaker": "Ben",
+      "text": "If I was allowed… and they hadn’t been cooperating with fucking my ex…",
+      "tags": [
+        "INSTITUTIONAL_TRAUMA_TRIGGER",
+        "ENABLED_ABUSE_EXPOSURE",
+        "POLICE_COLLUSION_AFTER_DISCLOSURE"
+      ]
+    },
+    {
+      "timestamp": "09:25",
+      "speaker": "Ben",
+      "text": "They knew that. I asked them plenty of times — have you had any communication with my abuser?",
+      "tags": [
+        "SAFEGUARDING_DISCLOSURE_REPEATED",
+        "POLICE_AND_FRINGE_GASLIGHTING"
+      ]
+    },
+    {
+      "timestamp": "09:27",
+      "speaker": "Zoe",
+      "text": "Yeah… that sounds really weird. I don’t understand that.",
+      "tags": [
+        "THIRD_PARTY_DISBELIEF_VALIDATION",
+        "SAFEGUARDING_BREAK_CORROBORATION"
+      ]
+    },
+    {
+      "timestamp": "10:02",
+      "speaker": "Ben",
+      "text": "I’ve now had confirmation from an act… they’re talking about separating me as if it’s a civil matter.",
+      "tags": [
+        "INSTITUTIONAL_ERASURE",
+        "EMOTIONAL_DISPOSAL",
+        "RECORD_SANITISATION"
+      ]
+    },
+    {
+      "timestamp": "10:18",
+      "speaker": "Ben",
+      "text": "Yeah, but… thank you. I just honestly… haven’t been told anything. I don’t know what’s going on.",
+      "tags": [
+        "INFORMATION_WITHHOLDING",
+        "OPERATIONAL_ISOLATION",
+        "INSTITUTIONAL_CONFUSION_STRATEGY"
+      ]
+    },
+    {
+      "timestamp": "10:39",
+      "speaker": "Zoe",
+      "text": "If you can make your acts happy, even though technically the Fringe has taken over the shows, they’re still your acts.",
+      "tags": [
+        "PARTNER_LOYALTY_VALIDATION",
+        "TAKEOVER_ACKNOWLEDGEMENT_THIRD_PARTY",
+        "RECLAMATION_POSSIBLE"
+      ]
+    },
+    {
+      "timestamp": "10:50",
+      "speaker": "Ben",
+      "text": "They haven’t talked… They’ve told me I’m vulnerable… no plan… I just thought all liability, all refunds, any complaints would be done by them.",
+      "tags": [
+        "SAFEGUARDING_USED_AS_REMOVAL",
+        "OPERATIONAL_DISPOSAL",
+        "LEGAL_LIABILITY_DUMPING"
+      ]
+    },
+    {
+      "timestamp": "10:50",
+      "speaker": "Ben",
+      "text": "Alan is now abusing me again… I’m trying to gauge what to prioritise.",
+      "tags": [
+        "ENABLED_RETRAUMATISATION",
+        "POST_BAIL_NO_WARNING_EXPOSURE",
+        "SAFEGUARDING_ABANDONMENT"
+      ]
+    },
+    {
+      "timestamp": "11:58",
+      "speaker": "Ben",
+      "text": "Well, I would say you said you've got a handle on the other stuff… prioritize your business and damage limitations.",
+      "tags": [
+        "DAMAGE_CONTAINMENT_LOGIC",
+        "FOCUS_RECALIBRATION",
+        "OPERATIONAL_RECOVERY"
+      ]
+    },
+    {
+      "timestamp": "12:10",
+      "speaker": "Ben",
+      "text": "Yeah, I’m gonna have to.",
+      "tags": [
+        "FORCED_ACCEPTANCE",
+        "RESIGNED_FOCUS",
+        "TRIAGE_MINDSET"
+      ]
+    },
+    {
+      "timestamp": "12:11",
+      "speaker": "Zoe",
+      "text": "You almost don’t need to think about the Fringe. It’s all about Half a Camel.",
+      "tags": [
+        "ALLY_VALIDATION",
+        "INSTITUTIONAL_DETACHMENT_ADVICE",
+        "BRAND_RECLAMATION"
+      ]
+    },
+    {
+      "timestamp": "12:24",
+      "speaker": "Zoe",
+      "text": "If artists are angry, what do you do? You try to solve the problems.",
+      "tags": [
+        "ALLY_ENCOURAGEMENT",
+        "VENUE_DAMAGE_CONTROL_FRAME",
+        "RESPONSIVE_MANAGEMENT_MODEL"
+      ]
+    },
+    {
+      "timestamp": "12:27",
+      "speaker": "Zoe",
+      "text": "Because you want their repeat business, for example.",
+      "tags": [
+        "VENUE_ECONOMIC_VALIDATOR",
+        "LOYALTY_RESTORATION_MODEL"
+      ]
+    },
+    {
+      "timestamp": "12:34",
+      "speaker": "Zoe",
+      "text": "They’re mainly angry from what they’ve said about the filming that isn’t happening.",
+      "tags": [
+        "ACTUAL_VENUE_COMPLAINT_SURFACING",
+        "MISCOMMUNICATION_DAMAGE",
+        "FRINGE_OR_CHAOS_CREATION"
+      ]
+    },
+    {
+      "timestamp": "12:35",
+      "speaker": "Zoe",
+      "text": "You don’t have to think about everything at once… just make Half a Camel a little bit happier.",
+      "tags": [
+        "RECOVERY_STRATEGY",
+        "VENUE_REFOCUS_SUPPORT",
+        "CONTAINMENT_MINDSET"
+      ]
+    },
+    {
+      "timestamp": "12:49",
+      "speaker": "Zoe",
+      "text": "Yeah.",
+      "tags": []
+    },
+    {
+      "timestamp": "12:50–14:00",
+      "speaker": "Zoe / Ben",
+      "text": "Zoe urges focus on the acts; Ben expresses regret and confusion, confirms he was unaware of operational status.",
+      "tags": [
+        "REPUTATION_RECOVERY",
+        "CONFUSION_CAUSED_BY_SILENCE",
+        "PARTNER_REASSURANCE"
+      ]
+    },
+    {
+      "timestamp": "14:03–15:00",
+      "speaker": "Zoe / Ben",
+      "text": "Zoe invites Ben to do what he feels necessary; Ben explains how he believed the company had been taken and that all refunds were now Fringe responsibility.",
+      "tags": [
+        "OPERATIONAL_DISPOSAL",
+        "INSTITUTIONAL_ERASURE",
+        "LEGAL_LIABILITY_DUMPING"
+      ]
+    },
+    {
+      "timestamp": "15:00–16:46",
+      "speaker": "Ben / Zoe",
+      "text": "Ben reaffirms legal intention to hold the Fringe accountable. Zoe insists Fringe cannot take the company.",
+      "tags": [
+        "LEGAL_RECLARITY",
+        "ERASURE_CONFESSION",
+        "SAFEGUARDING_USED_AS_REMOVAL",
+        "GP_DEFAMATION"
+      ]
+    },
+    {
+      "timestamp": "17:10–18:50",
+      "speaker": "Ben",
+      "text": "Ben outlines a formal legal framework for the case: 'I will be stepping back in… they breached every charity law… they’re in deep.'",
+      "tags": [
+        "LEGAL_RECLARITY",
+        "CHARITIES_ACT_FAILURE",
+        "INTENT_TO_LITIGATE",
+        "FRAUDULENT_NARRATIVE"
+      ]
+    },
+    {
+      "timestamp": "19:00–20:00",
+      "speaker": "Zoe / Audience Member",
+      "text": "Live venue interaction occurs; Zoe juggles artist-facing work while continuing emotional support for Ben.",
+      "tags": [
+        "VENUE_MOMENT_REALITY",
+        "MUTUAL_RESPECT",
+        "PERSISTENT_SUPPORT"
+      ]
+    },
+    {
+      "timestamp": "20:54–22:22",
+      "speaker": "Ben / Zoe",
+      "text": "Ben: 'They made the decision for me… I wasn’t allowed to operate.' Zoe reinforces that Half a Camel still exists. Ben affirms full court plan.",
+      "tags": [
+        "ENABLED_ERASURE",
+        "DISABLED_OWNER_ERASURE",
+        "COURTROOM_PREPARATION",
+        "VENUE_OWNERSHIP_RECLARITY"
+      ]
+    },
+    {
+      "timestamp": "22:22–23:50",
+      "speaker": "Zoe / Ben",
+      "text": "Zoe: 'Take care. Concentrate on your business.' Ben: 'I now know what I’m dealing with.'",
+      "tags": [
+        "RECLAMATION_COMPLETE",
+        "ALLY_FINAL_VALIDATION",
+        "SURVIVAL_MODE_ACTIVATED"
+      ]
+    }
+  ]
+}

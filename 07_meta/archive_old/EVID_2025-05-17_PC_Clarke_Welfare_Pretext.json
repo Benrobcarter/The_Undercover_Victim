@@ -1,0 +1,60 @@
+{
+  "id": "EVID_2025-05-17_PC_CLARKE_WELFARE_PRETEXT",
+  "filename_suggested": "EVID_2025-05-17_PC_Clarke_Welfare_Pretext.json",
+  "title": "PC Clarke \u2014 \u2018Concern for your welfare\u2019 texts preceding unannounced visit",
+  "datetime_span_local": {
+    "start": "2025-05-17T11:56:00+01:00",
+    "end": "2025-05-17T16:17:00+01:00",
+    "timezone": "Europe/London"
+  },
+  "participants": [
+    "PC Clarke (Sussex Police)",
+    "Ben Carter"
+  ],
+  "source": {
+    "type": "pdf_screenshot_thread",
+    "file": "Pc Clarke - nice try mate.pdf",
+    "sha256": "0f464a6ffa58b137bc4fe10bf6114b9763001a001c1116fdb53435d0ba96e6d2",
+    "size_bytes": 439129,
+    "key_quotes": [
+      "Hi ben, its PC Clarke from sussex police. Can you give me a call?",
+      "Yes, we havent met before i just want to have a chat and see how you are doing. Theres been a concern for your welfare.",
+      "When did this become apparent? \u2014 Today. Can i call you shortly?",
+      "One of my colleagues was supposed to contact you, did they not?",
+      "Like i explained previously, they were supposed to contact you regarding your welfare",
+      "Glad they contacted you",
+      "I told the police members you'd sent out there was no point calling 999 as i had since april 6th and 101 constantly and your message was the first i'd had any contact with",
+      "Are you my new officer?"
+    ]
+  },
+  "vex_tags": [
+    "WELFARE_CHECK",
+    "CONCERN_FOR_WELFARE_PRETEXT",
+    "NO_CASE_OWNERSHIP",
+    "DAMAGE_CONTROL_VISIT",
+    "DEATH_BY_SILENCE"
+  ],
+  "links": {
+    "related_evidence": [
+      "EVID_2025-05-17_1733_Welfare_Check_SussexPolice.json"
+    ],
+    "event_join": {
+      "welfare_check_local": "2025-05-17T17:33:00",
+      "delta_minutes_pre_to_attendance": 76
+    }
+  },
+  "metrics": {
+    "delta_minutes_16_17_to_17_33": 76,
+    "days_since_2025_04_06": 41
+  },
+  "notes": "Text thread uses welfare language minutes before the unannounced visit. Acknowledges colleague was supposed to contact earlier; suggests pretext/damage control rather than case ownership.",
+  "datetime_span_utc": {
+    "start": "2025-05-17T10:56:00+00:00",
+    "end": "2025-05-17T15:17:00+00:00"
+  },
+  "status": "active",
+  "proof_needed": [
+    "CAD/dispatch linking texts to 17:33 attendance",
+    "Named case owner assignment record"
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "meta": {
+    "contradiction_id": "CONTRA_2024-09-05_HAC_Independent_Extravaganza",
+    "title": "Half a Camel ran a fully independent November festival — not a one-off Fringe venue",
+    "date_local": "2024-09-05",
+    "parties": ["Half a Camel Productions", "Brighton Fringe Ltd."],
+    "clusters": [
+      "BRIGHTON_FRINGE",
+      "BF-CONTRA-VENUE-MANAGER-CONTRACT-BREACHES-2025",
+      "BF-CONTRA-PROMOTIONAL-SUPPORT-BREACH",
+      "BF-CONTRA-VENUE-SUPPORT-BREACH",
+      "GOVERNANCE_ERASURE",
+      "INDEPENDENCE_DENIED"
+    ],
+    "status": "open",
+    "links": {
+      "evidence": [
+        "01_evidence/vex/brighton_fringe/EVID_2024-09-05_Half_A_Camel_November_Comedy_Extravaganza_Announcement.json"
+      ],
+      "provenance": [
+        "07_meta/VENUE_MANAGER_CONTRACT_CLAUSE_ANCHORS_2025.json",
+        "07_meta/VENUE_MANAGER_CONTRACT_BREACH_CROSSWALK.json",
+        "07_meta/STATUS_REPORT_PATCH_2025-09-01_VENUE_CONTRACT_INJECTION.json"
+      ]
+    }
+  },
+  "assertions": [
+    {
+      "code": "INDEPENDENCE_DENIED",
+      "desc": "Fringe narrative minimized HAC to ‘just a Fringe venue’, despite HAC running an independent November 2024 multi-venue festival.",
+      "evidence_refs": [
+        "EVID_2024-09-05_Half_A_Camel_November_Comedy_Extravaganza_Announcement"
+      ],
+      "implications": [
+        "Misrepresentation of business scope",
+        "Erasure pattern in later governance communications"
+      ]
+    },
+    {
+      "code": "BF-CONTRA-PROMOTIONAL-SUPPORT-BREACH",
+      "desc": "Fringe failed to provide adequate promotional support while HAC independently marketed a city-wide comedy fortnight.",
+      "contract_anchor": "PROMOTION_AND_MATERIALS",
+      "provenance_notes": "Mapped via clause anchors/crosswalk.",
+      "policy_refs": ["Contract: promotion, website & materials obligations"]
+    },
+    {
+      "code": "BF-CONTRA-VENUE-SUPPORT-BREACH",
+      "desc": "Fringe failed to maintain constructive venue dialogue/groups as HAC expanded independently.",
+      "contract_anchor": "VENUE_SUPPORT_DIALOGUE",
+      "policy_refs": ["Networking/groups/meetings obligations"]
+    },
+    {
+      "code": "GOVERNANCE_ERASURE",
+      "desc": "Later comms/board posture erase or downplay HAC’s independent November programme to justify later actions.",
+      "policy_refs": ["Governance transparency / minutes & chair updates"]
+    }
+  ],
+  "vex_tags": [
+    "INDEPENDENT_FRINGE_EXPANSION",
+    "VENUE_SCALING_PROOF",
+    "BOXOFFICE_AUTONOMY",
+    "EMAIL_ANNOUNCEMENT_PROOF",
+    "NARRATIVE_REPLACEMENT",
+    "MISREPRESENTED_HISTORY"
+  ],
+  "timeline_hooks": [
+    {
+      "when": "2024-09-05",
+      "tag": "ANNOUNCEMENT",
+      "note": "HAC announces independent November Comedy Extravaganza (four venues)."
+    },
+    {
+      "when": "2024-11-01",
+      "tag": "DELIVERY",
+      "note": "Two-week independent programme runs across the city."
+    }
+  ]
+}

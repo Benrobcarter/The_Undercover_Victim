@@ -1,0 +1,83 @@
+{
+  "chunk": 50,
+  "time_range": "49:30-50:30",
+  "quotes": [
+    {
+      "speaker": "Ben Carter",
+      "time": "49:30",
+      "quote": "If I’m excluded from rights, then that’s systemic discrimination.",
+      "tags": [
+        "victim_experience",
+        "rights_violation",
+        "discrimination",
+        "institutional_failure"
+      ]
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "49:36",
+      "quote": "You’re right, Ben, it is systemic when applied unequally.",
+      "tags": [
+        "acknowledgement",
+        "agreement",
+        "systemic_failure"
+      ]
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "49:41",
+      "quote": "Systemic means it’s not just mistakes, it’s the whole structure failing me.",
+      "tags": [
+        "victim_assertion",
+        "systemic_failure",
+        "accountability"
+      ]
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "49:46",
+      "quote": "I agree, and I’ve raised that as a governance concern too.",
+      "tags": [
+        "acknowledgement",
+        "advocacy",
+        "governance"
+      ]
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "49:51",
+      "quote": "Governance concern isn’t protection. I need safeguarding, not concern.",
+      "tags": [
+        "victim_experience",
+        "safeguarding_gap",
+        "accountability"
+      ]
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "49:56",
+      "quote": "You’re right, Ben. You should have been safeguarded properly from the start.",
+      "tags": [
+        "acknowledgement",
+        "agreement",
+        "safeguarding_failure"
+      ]
+    }
+  ],
+  "contradictions": [
+    {
+      "issue": "Victim excluded from rights = systemic discrimination; advocate admits governance concern but no safeguarding delivered",
+      "type": "systemic_discrimination_failure"
+    }
+  ],
+  "timeline_hooks": [
+    {
+      "ref": "systemic discrimination",
+      "link": "Structural safeguarding failure May 2025"
+    },
+    {
+      "ref": "governance concern vs safeguarding",
+      "link": "Governance vs duty to protect contradiction"
+    }
+  ]
+}

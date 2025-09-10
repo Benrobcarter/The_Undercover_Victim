@@ -1,0 +1,82 @@
+{
+  "meta": {
+    "evidence_id": "VEX_2025-02-12_Dixon_GDPR_Forward_PaulDouble",
+    "title": "12-02-2025 — Forwarded Unredacted Internal Email incl. Third‑Party Data (Paul Double)",
+    "created_at": "2025-08-26T00:14:54.897427Z",
+    "type": "Email forward (potential data breach)",
+    "date_local": "2025-02-12",
+    "parties": [
+      "Ben Carter",
+      "Sussex Police (PC Jon Dixon)",
+      "Third party: Paul Double"
+    ],
+    "clusters": [
+      "MASTER_COMPLAINT",
+      "SUSSEX_POLICE",
+      "GDPR_BREACH",
+      "TIMELINE_SYNTHESIS"
+    ],
+    "status": "pending_sourcing",
+    "source_hint": "Master Complaint §3.8 (consolidated)",
+    "source_file": "/mnt/data/Master Complaint.txt",
+    "source_sha256": "a15de9db5f7a952b5c61619788299664cfe7f705681c43c07e7823aadb7420d2",
+    "undated_policy": "ok_date_present",
+    "version": "1.0.0"
+  },
+  "claim_summary": "On 12 Feb 2025, the OIC is alleged to have forwarded an internal police email without appropriate redaction, exposing third‑party personal data (Paul Double).",
+  "key_points": [
+    "Nature of issue: forwarding of an internal police email externally without redaction.",
+    "Third‑party named: Paul Double (personal data included).",
+    "Potential harms: unlawful disclosure, loss of confidence, evidential contamination risk."
+  ],
+  "alleged_breaches": [
+    "UK GDPR / DPA 2018 — lawfulness, fairness, transparency (Art 5(1)(a)); purpose limitation (5(1)(b)); data minimisation (5(1)(c)); integrity/confidentiality (5(1)(f))",
+    "DPA 2018 Part 3 (Law Enforcement Processing) — s.35 principles, s.44 security of processing"
+  ],
+  "contradictions": [
+    {
+      "code": "UNREDACTED_FORWARD",
+      "claim": "Internal email forwarded externally with third‑party personal data unredacted.",
+      "impact": [
+        "Privacy breach",
+        "Process/professional standards failure",
+        "Disclosure handling risk"
+      ],
+      "needs_quotes_idx": []
+    }
+  ],
+  "key_quotes": [],
+  "timeline_hooks": [
+    {
+      "when": "2025-02-12T12:00:00",
+      "tag": "DATA_BREACH",
+      "note": "Unredacted internal email forwarded externally (time placeholder — confirm exact time from headers)"
+    }
+  ],
+  "sourcing_queue": [
+    {
+      "prio": 1,
+      "need": "Forwarded email chain with full headers and attachments",
+      "target": "Inbox export (EML/MSG + PDF)"
+    },
+    {
+      "prio": 2,
+      "need": "Identify data fields relating to Paul Double",
+      "target": "Line‑by‑line redaction audit"
+    },
+    {
+      "prio": 3,
+      "need": "Policy reference for external disclosure/redaction rules",
+      "target": "Force disclosure policy; PSD guidance"
+    },
+    {
+      "prio": 4,
+      "need": "Any acknowledgment/correction from OIC post‑event",
+      "target": "Follow‑up emails or notes"
+    }
+  ],
+  "links": {
+    "analysis": [],
+    "evidence": []
+  }
+}

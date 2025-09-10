@@ -1,0 +1,53 @@
+{
+  "id": "EVID_2025-09-08_SussexPolice_ComplaintConfirmation_CO-01732-25",
+  "title": "Sussex Police Complaint Confirmation \u2013 CO/01732/25",
+  "type": "email",
+  "date": "2025-09-08",
+  "from": "Public Confidence Team <Public.Confidence@sussex.police.uk>",
+  "to": "benrobcarter@gmail.com",
+  "sent_time": "07:51",
+  "received_time": null,
+  "subject": "Complaint Confirmation \u2013 CO/01732/25",
+  "summary": "Email from Sussex Police confirming receipt of formal complaint submitted on 01/09/2025. The complaint is assigned to Detective Sergeant Winter (EA705) and logged under reference CO/01732/25. Confirmation sent by PC Norman (CN561), Public Confidence Team.",
+  "tags": [
+    "complaint_confirmation",
+    "psd_tracking",
+    "public_confidence_team",
+    "CO/01732/25",
+    "det_sgt_winter",
+    "pc_norman",
+    "email",
+    "formal_acknowledgment"
+  ],
+  "timeline": [
+    {
+      "timeline_id": "COMPLAINT_ESCALATION_CHAIN",
+      "summary": "Complaint logged under reference CO/01732/25 and allocated to Det Sgt Winter.",
+      "date": "2025-09-08"
+    },
+    {
+      "timeline_id": "PSD_COMPLAINT_TRACKING",
+      "summary": "Public Confidence Team acknowledges complaint and provides internal reference and allocation.",
+      "date": "2025-09-08"
+    },
+    {
+      "timeline_id": "POST_VEX_SUBMISSION_CONFIRMATION",
+      "summary": "Complaint confirmation received after submission of multiple contradiction bundles, including Veritas x Sussex cluster.",
+      "date": "2025-09-08"
+    }
+  ],
+  "links": {
+    "source_email": "EVID_2025-09-08_SussexPolice_ComplaintConfirmation_CO-01732-25.eml",
+    "html_render": null
+  },
+  "meta": {
+    "source": "manual_entry",
+    "entered_by": "chatgpt_assistant",
+    "ingested_on": "2025-09-09T00:00:00Z"
+  },
+  "status": "verified",
+  "related_refs": [
+    "CLUSTER_VERITAS_X_SUSSEX_COVERUP_AUG2025",
+    "STATUS_REPORT_2025-09-09_v8.json"
+  ]
+}

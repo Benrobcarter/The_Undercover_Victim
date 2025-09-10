@@ -1,0 +1,45 @@
+{
+  "evidence": [
+    {
+      "id": "EMAIL_2025-05-07_LOGGING_ADMISSION",
+      "quote": "We have also been logging all of your communications with us, including all of the police reports you\u2019ve only sent to Duncan.",
+      "source": "Email from Amy Keogh to Ben Carter (7 May 2025)",
+      "tags": [
+        "SUICIDE_DISCLOSURE_USED_FOR_REMOVAL",
+        "SAFEHARMING_LOG",
+        "SAR_STRUCTURAL_ABSENCE"
+      ],
+      "date": "2025-05-07",
+      "linked_to": [
+        "BF-CONTRA-SAR-GDPR-BREACH-2025"
+      ]
+    },
+    {
+      "id": "EMAIL_2025-05-08_GP_DISCLOSURE",
+      "quote": "We have made the decision to take over the management of his venues... to alleviate the stress on him.",
+      "source": "Email from Amy Keogh to NHS GP surgery (8 May 2025)",
+      "tags": [
+        "UNLAWFUL_THIRD_PARTY_HEALTH_DISCLOSURE",
+        "SUICIDE_DISCLOSURE_USED_FOR_REMOVAL"
+      ],
+      "date": "2025-05-08",
+      "linked_to": [
+        "BF-CONTRA-SAR-GDPR-BREACH-2025",
+        "BF-CONTRA-ERASURE-BY-DESIGN-LEGAL-2025"
+      ]
+    },
+    {
+      "id": "EMAIL_2025-07-18_LIBEL_EMAIL",
+      "quote": "The board has removed Ben Carter and Half a Camel from their list of approved venues.",
+      "source": "Mass email signed by Duncan Lustig-Prean (18 July 2025)",
+      "tags": [
+        "LIBEL_ACTION_DISGUISED_AS_NEUTRAL_UPDATE",
+        "REPUTATIONAL_HARM"
+      ],
+      "date": "2025-07-18",
+      "linked_to": [
+        "BF-CONTRA-LIBEL-REPLACEMENT-INTENT-2025"
+      ]
+    }
+  ]
+}

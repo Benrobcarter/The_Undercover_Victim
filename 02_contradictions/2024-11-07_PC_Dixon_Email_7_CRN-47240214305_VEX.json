@@ -1,0 +1,107 @@
+{
+  "meta": {
+    "filename": "2024-11-07_PC_Dixon_Email_7_CRN-47240214305_VEX.json",
+    "case_reference": "47240214305",
+    "thread_label": "CRIME_REF_47240214305_THREAD",
+    "actor_cluster": [
+      "Sussex Police",
+      "PC Jon Dixon (EA817)",
+      "Ben Carter"
+    ],
+    "date_range": {
+      "start": "2024-11-07T19:19:00",
+      "end": "2024-11-07T19:19:00"
+    },
+    "source_provenance": "Email from Ben Carter to PC Jon Dixon on 7 Nov 2024 at 19:19 (provided by user)",
+    "created_at_utc": "2025-08-24T17:27:24.362945Z",
+    "vex_schema_version": "1.1"
+  },
+  "emails": [
+    {
+      "id": "email-2024-11-07-1919-ben-dixon",
+      "date": "2024-11-07T19:19:00",
+      "from": {
+        "name": "Ben Carter",
+        "email": "benrobcarter@gmail.com"
+      },
+      "to": [
+        {
+          "name": "PC Jon Dixon",
+          "email": "Jon.Dixon@sussex.police.uk",
+          "badge": "EA817"
+        }
+      ],
+      "subject_summary": "Query about re-uploading evidence via Google Drive due to NICE link limit",
+      "body": "How can I re-upload anything? I had over 100 screenshots and videos but it had a limit, would a Google Drive link be alright if I sent you the link?",
+      "attachments": [],
+      "labels": [
+        "Victim Cooperation",
+        "Evidence Upload Barriers",
+        "Google Drive Suggestion"
+      ]
+    }
+  ],
+  "vex": [
+    {
+      "email_id": "email-2024-11-07-1919-ben-dixon",
+      "sentence_tags": [
+        {
+          "text": "How can I re-upload anything?",
+          "tags": [
+            "UPLOAD_DIFFICULTY",
+            "EVIDENCE_SUBMISSION_BARRIER"
+          ],
+          "notes": "Ben signals issue with existing system."
+        },
+        {
+          "text": "I had over 100 screenshots and videos but it had a limit,",
+          "tags": [
+            "EVIDENCE_VOLUME_HIGH",
+            "NICE_LINK_LIMITATION"
+          ],
+          "notes": "Shows scale of evidence and systemic limit in police intake system."
+        },
+        {
+          "text": "Would a Google Drive link be alright if I sent you the link?",
+          "tags": [
+            "ALTERNATIVE_METHOD_SUGGESTED",
+            "VICTIM_COOPERATION"
+          ],
+          "notes": "Proactively suggests workaround to upload barrier."
+        }
+      ]
+    }
+  ],
+  "contradiction_links": [
+    {
+      "id": "SP-CONTRA-NICE-LINK-UPLOAD-LIMIT-2024-11",
+      "claim": "Police systems were adequate to receive all victim evidence.",
+      "reality": "Victim highlights NICE link upload limit after attempting to send 100+ items; suggests workaround.",
+      "laws_breached": [
+        "Victims’ Code 2020 (Right to supply evidence without obstruction)"
+      ],
+      "damages": [
+        "Strategic",
+        "Emotional"
+      ]
+    }
+  ],
+  "timeline_hooks": [
+    {
+      "phase": "Investigation Start / Evidence Intake",
+      "date": "2024-11-07",
+      "events": [
+        "Ben reports hitting NICE link upload limits with 100+ screenshots/videos.",
+        "Asks if Google Drive link can be used to share remaining evidence."
+      ],
+      "related_threads": [
+        "CRIME_REF_47240214305_THREAD",
+        "DEATH_BY_SILENCE"
+      ]
+    }
+  ],
+  "damages_summary": {
+    "strategic": "Upload system limited evidence submission; victim forced to propose workaround.",
+    "emotional": "Victim demonstrates cooperation yet faces repeated procedural barriers."
+  }
+}

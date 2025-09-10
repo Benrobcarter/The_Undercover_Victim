@@ -1,0 +1,79 @@
+{
+  "chunk": 7,
+  "time_range": "6:30-7:30",
+  "quotes": [
+    {
+      "speaker": "Ben Carter",
+      "time": "6:30",
+      "quote": "Every time I bring up missing evidence, they act like it’s news to them.",
+      "tags": [
+        "evidence_loss",
+        "victim_experience",
+        "contradiction"
+      ]
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "6:36",
+      "quote": "I know, and that’s why I’ve asked them to confirm what they do and don’t have on record.",
+      "tags": [
+        "advocacy",
+        "evidence_audit"
+      ]
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "6:42",
+      "quote": "But we’ve been through this so many times. It shouldn’t keep disappearing.",
+      "tags": [
+        "evidence_loss",
+        "systemic_failure",
+        "frustration"
+      ]
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "6:47",
+      "quote": "I agree, it shouldn’t. I’ve told them that as well.",
+      "tags": [
+        "advocacy",
+        "acknowledgement"
+      ]
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "6:52",
+      "quote": "Then why do they keep asking me to resubmit?",
+      "tags": [
+        "evidence_resubmission",
+        "contradiction",
+        "victim_experience"
+      ]
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "6:56",
+      "quote": "That’s part of the problem, and I’ve raised it as a serious issue.",
+      "tags": [
+        "advocacy",
+        "systemic_issue"
+      ]
+    }
+  ],
+  "contradictions": [
+    {
+      "issue": "Evidence repeatedly reported as missing; police act unaware; victim asked to resubmit",
+      "type": "evidence_handling_failure"
+    }
+  ],
+  "timeline_hooks": [
+    {
+      "ref": "missing evidence",
+      "link": "Evidence chain contradictions Apr–May 2025"
+    },
+    {
+      "ref": "resubmission requests",
+      "link": "Repeated evidence resubmission issue"
+    }
+  ]
+}

@@ -1,0 +1,168 @@
+{
+  "contradictions": [
+    {
+      "id": "BF-CONTRA-TAKEOVER-DENIAL-2025",
+      "meta": {
+        "title": "Fringe Denied Takeover Despite Clear Operational Control",
+        "tags": [
+          "DUNCAN_ASSISTED_ERASURE",
+          "CROWBARRING_MYSELF_JUSTICE",
+          "VENUE_TAKEOVER_THREAT",
+          "SAFEGUARDING_DEFLECTION",
+          "FRAUDULENT_CONDUCT",
+          "DEATH_BY_SILENCE"
+        ],
+        "created_at": "2025-08-31T23:41:03.639415",
+        "source_file": "08a_May9-12_Backtracking_Safeguarding.pdf",
+        "source_description": "Email from Brighton Fringe denying takeover despite acting as operator of Half a Camel"
+      },
+      "summary": "On 11 May 2025, Brighton Fringe stated: 'We are not taking over your company, Half a Camel Productions Ltd', while simultaneously taking on artist communications, marketing, technical coordination, and operational control. This contradicts third-party evidence, venue partner statements, and Fringe’s own actions in taking over Ben Carter’s programme without consent."
+    },
+    {
+      "id": "BF-CONTRA-SAFEGUARDING-NOTICE-IGNORED-2025",
+      "meta": {
+        "title": "Formal Safeguarding Disclosure and Third-Party Contact Cease Request Ignored",
+        "tags": [
+          "SAFEGUARDING_DEFLECTION",
+          "GDPR_SPECIAL_CATEGORY_DATA_BREACH",
+          "CROWBARRING_MYSELF_JUSTICE",
+          "DUNCAN_ASSISTED_ERASURE",
+          "MENTAL_HEALTH_DEFAMATION"
+        ],
+        "created_at": "2025-08-31T23:41:03.639427",
+        "source_file": "08a_May9-12_Backtracking_Safeguarding.pdf",
+        "source_description": "Formal safeguarding disclosure and legal boundaries sent to Brighton Fringe on 11 May"
+      },
+      "summary": "Ben Carter issued a formal safeguarding notice on 11 May 2025 demanding Brighton Fringe cease communication with named police officers and the alleged abuser, and alleging internal mental health narratives were being spread. The Fringe did not respond or act on this warning, escalating emotional harm and exposure. This marks a breach of safeguarding and GDPR responsibilities."
+    },
+    {
+      "id": "BF-CONTRA-VERITAS-LETTER-IGNORED-2025",
+      "meta": {
+        "title": "Brighton Fringe Ignored Third-Party Evidence from Veritas Justice",
+        "tags": [
+          "SAFEGUARDING_DEFLECTION",
+          "GP_DEFAMATION",
+          "CROWBARRING_MYSELF_JUSTICE",
+          "DEATH_BY_SILENCE",
+          "DUTY_OF_CARE_BREACH",
+          "CHARITIES_ACT_FAILURE"
+        ],
+        "created_at": "2025-08-31T23:41:03.639429",
+        "source_file": "08a_May9-12_Backtracking_Safeguarding.pdf",
+        "source_description": "Veritas Justice letter confirming stalking support, MARAC review, bail conditions, and ongoing risk"
+      },
+      "summary": "On 12 May 2025, Veritas Justice submitted a formal letter confirming they had been supporting Ben Carter since November 2024. It confirmed the existence of bail conditions, stalking review, and MARAC. Despite this third-party expert validation, Brighton Fringe took no corrective action and escalated their false narrative, causing ongoing harm."
+    }
+  ],
+  "timeline_entries": [
+    {
+      "date": "2025-05-09",
+      "summary": "Ben Carter sends formal accusation to Brighton Fringe re: coercion of Alice Wright and bail breach enablement.",
+      "tags": [
+        "VENUE_TAKEOVER_THREAT",
+        "SAFEGUARDING_ESCALATION"
+      ],
+      "linked_documents": []
+    },
+    {
+      "date": "2025-05-11",
+      "summary": "Brighton Fringe responds denying takeover: 'We are not taking over your company'.",
+      "tags": [
+        "BF-CONTRA-TAKEOVER-DENIAL-2025"
+      ],
+      "quote_refs": [
+        "BF-Q-0511-DENIAL"
+      ]
+    },
+    {
+      "date": "2025-05-11",
+      "summary": "Ben issues formal safeguarding notice and third-party contact ban to Brighton Fringe.",
+      "tags": [
+        "BF-CONTRA-SAFEGUARDING-NOTICE-IGNORED-2025",
+        "CROWBARRING_MYSELF_JUSTICE"
+      ],
+      "quote_refs": [
+        "BC-Q-0511-FORMAL-NOTICE"
+      ]
+    },
+    {
+      "date": "2025-05-12",
+      "summary": "Veritas Justice submits formal confirmation of stalking, MARAC, bail, and ongoing support.",
+      "tags": [
+        "BF-CONTRA-VERITAS-LETTER-IGNORED-2025",
+        "DEATH_BY_SILENCE"
+      ],
+      "quote_refs": [
+        "VERITAS-Q-0512-SUPPORT"
+      ]
+    }
+  ],
+  "quote_cards": [
+    {
+      "id": "BF-Q-0511-DENIAL",
+      "meta": {
+        "title": "We are not taking over your company, Half a Camel Productions Ltd.",
+        "author": "Brighton Fringe",
+        "tags": [
+          "BF-CONTRA-TAKEOVER-DENIAL-2025"
+        ],
+        "source_file": "08a_May9-12_Backtracking_Safeguarding.pdf",
+        "added_at": "2025-08-31T23:41:03.639434"
+      },
+      "text": "We are not taking over your company, Half a Camel Productions Ltd."
+    },
+    {
+      "id": "BC-Q-0511-FORMAL-NOTICE",
+      "meta": {
+        "title": "Unnecessary distress during a critical safeguarding crisis.",
+        "author": "Ben Carter",
+        "tags": [
+          "BF-CONTRA-SAFEGUARDING-NOTICE-IGNORED-2025",
+          "SAFEGUARDING_DEFLECTION"
+        ],
+        "source_file": "08a_May9-12_Backtracking_Safeguarding.pdf",
+        "added_at": "2025-08-31T23:41:03.639437"
+      },
+      "text": "Unnecessary distress during a critical safeguarding crisis."
+    },
+    {
+      "id": "VERITAS-Q-0512-SUPPORT",
+      "meta": {
+        "title": "We have been supporting Mr. Carter since November 2024.",
+        "author": "Veritas Justice CIC",
+        "tags": [
+          "BF-CONTRA-VERITAS-LETTER-IGNORED-2025",
+          "SAFEGUARDING_DEFLECTION"
+        ],
+        "source_file": "08a_May9-12_Backtracking_Safeguarding.pdf",
+        "added_at": "2025-08-31T23:41:03.639439"
+      },
+      "text": "We have been supporting Mr. Carter since November 2024."
+    }
+  ],
+  "book_crosswalk": {
+    "chapter_id": "sec3_safeguarding_backtrack",
+    "chapter_title": "3.1 — They Were Given the Proof",
+    "timeline_refs": [
+      "2025-05-09",
+      "2025-05-11",
+      "2025-05-12"
+    ],
+    "vex_tags": [
+      "BF-CONTRA-TAKEOVER-DENIAL-2025",
+      "BF-CONTRA-SAFEGUARDING-NOTICE-IGNORED-2025",
+      "BF-CONTRA-VERITAS-LETTER-IGNORED-2025"
+    ],
+    "contradictions": [
+      {
+        "code": "BF-CONTRA-TAKEOVER-DENIAL-2025"
+      },
+      {
+        "code": "BF-CONTRA-SAFEGUARDING-NOTICE-IGNORED-2025"
+      },
+      {
+        "code": "BF-CONTRA-VERITAS-LETTER-IGNORED-2025"
+      }
+    ]
+  }
+}

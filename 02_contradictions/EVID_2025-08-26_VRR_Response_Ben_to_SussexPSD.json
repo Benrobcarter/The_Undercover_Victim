@@ -1,0 +1,70 @@
+{
+  "meta": {
+    "evidence_id": "EVID_2025-08-26_VRR_Response_Ben_to_SussexPSD",
+    "title": "Rebuttal — VRR Refusal (demand for OIC, evidence link, VPS)",
+    "created_at": "2025-08-30T23:14:14",
+    "type": "Email",
+    "from": "Ben Carter <benrobcarter@gmail.com>",
+    "to": [
+      "Public Confidence <Public.Confidence@sussex.police.uk>",
+      "Inspector David Palmer <David.Palmer@sussex.police.uk>"
+    ],
+    "cc": [
+      "enquiries@policeconduct.gov.uk",
+      "icocasework@ico.org.uk",
+      "no.reply@policeplease.com",
+      "PIDA@worksafebc.com",
+      "nationalcrimeagency.complaints@nca.gov.uk",
+      "contacthmicfrs@hmicfrs.gov.uk",
+      "sian.berry.mp@parliament.uk"
+    ],
+    "date": "2025-08-26T22:31:00",
+    "reference": "IX/619/25 (context)",
+    "crime_references": [
+      "47240214305",
+      "47240141246",
+      "47250093423",
+      "47250152583",
+      "701211"
+    ],
+    "attachments": [
+      "IMG_4794.PNG",
+      "IMG_4795.PNG",
+      "IMG_4797.PNG",
+      "IMG_4798.PNG",
+      "EVID_2025-06-22_SussexPolice_NoReply_CAD_0050.pdf"
+    ],
+    "tags": [
+      "VRR_CHALLENGE",
+      "REQUEST_OIC_DETAILS",
+      "REQUEST_NICE_LINK",
+      "VPS_REQUEST",
+      "ICO_LINKED",
+      "IOPC_LINKED",
+      "SAFEGUARDING_FAILURE"
+    ],
+    "version": "1.0.0"
+  },
+  "content": {
+    "subject": "Re: Sussex Police - IX/619/25 — VRR refusal challenged; request for OIC, VPS and evidence submission link",
+    "body": "Dear Professional Standards Department and Inspector Palmer,\n\nI respond to your email of 22/26 August 2025 declaring my VRR application invalid.\n\nYou state 47240214305 is 'live and ongoing' with a suspect linked. If so, enable evidence submission: please arrange a NICE link. You also rely on 'associated master case' to deny VRR for 47240141246 (NFA). That is contradictory: if the case is open, I must be allowed to submit evidence; if closed, I am entitled to VRR. It cannot be both.\n\nI require:\n• The name, rank and contact details of the officer in charge (OIC). \n• A timeframe for contact.\n• Immediate provision to make my Victim Personal Statement (VPS).\n\nSafeguarding: I have made 45 calls to 101/999 with promised callbacks and none received. I have had no officer contact since 6 April 2025. I attach screenshots and CAD evidence. This obstruction is before the ICO (accuracy/processing) and IOPC (conduct).\n\nI expect a substantive response based on law, not procedural deflection.\n\nYours sincerely,\nBen Carter\n"
+  },
+  "links": {
+    "contradiction_threads": [
+      "VRR_VPS_SUPPRESSED",
+      "DEATH_BY_SILENCE",
+      "SAR_AS_ACCESS_BARRIER",
+      "SCHRODINGERS_CASE"
+    ],
+    "related_entities": [
+      "Sussex Police PSD",
+      "Public Confidence Team",
+      "Inspector Palmer",
+      "IOPC",
+      "ICO",
+      "HMICFRS",
+      "NCA",
+      "MP Sian Berry"
+    ]
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "id": "VEX_2025-07-05_2141_Jesse_101_Call",
+  "type": "evidence",
+  "source": "transcript",
+  "date": "2025-07-05T21:41:00+01:00",
+  "title": "101 Call with Jesse (Badge 35800) – Evidence Manipulation & Silence",
+  "summary": "First Sussex Police call since April 6 suicide disclosure. Highlights erased evidence dates, NFA notification via abuser, and scapegoating of OIC chain.",
+  "participants": [
+    "Ben Carter",
+    "Jesse (101 Handler, 35800)"
+  ],
+  "contradictions": [
+    "DEATH_BY_SILENCE",
+    "LOST_EVIDENCE_SUSSEX_POLICE",
+    "PREPARING_FOR_WAR",
+    "INSTITUTIONAL_ALIGNMENT"
+  ],
+  "timeline_tags": [
+    "101_call",
+    "suicide_disclosure",
+    "timeline_alteration"
+  ],
+  "segments": [
+    {
+      "quote": "First call since April 6th. My suicide.",
+      "tags": [
+        "death_by_silence",
+        "safeguarding_failure"
+      ],
+      "emotional_tone": "abandonment, grief",
+      "contradictions": [
+        "DEATH_BY_SILENCE"
+      ]
+    },
+    {
+      "quote": "None of my evidence from November 2nd is included in my original crime with PC Dixon.",
+      "tags": [
+        "lost_evidence",
+        "timeline_erasure"
+      ],
+      "emotional_tone": "frustration, disbelief",
+      "contradictions": [
+        "LOST_EVIDENCE_SUSSEX_POLICE"
+      ]
+    },
+    {
+      "quote": "I found out yesterday that the first evidence was from November 18th, which means there wasn’t any evidence.",
+      "tags": [
+        "timeline_manipulation",
+        "institutional_abuse"
+      ],
+      "emotional_tone": "shock, anger",
+      "contradictions": [
+        "LOST_EVIDENCE_SUSSEX_POLICE"
+      ]
+    },
+    {
+      "quote": "I’ve only found out it’s no further action through my abuser.",
+      "tags": [
+        "nfa",
+        "victim_exclusion",
+        "institutional_alignment"
+      ],
+      "emotional_tone": "betrayal, despair",
+      "contradictions": [
+        "INSTITUTIONAL_ALIGNMENT"
+      ]
+    },
+    {
+      "quote": "They make scapegoats of OICs… when it gets really bad and then it goes up the chain.",
+      "tags": [
+        "scapegoating",
+        "institutional_cover_up"
+      ],
+      "emotional_tone": "cynicism, weary insight",
+      "contradictions": [
+        "INSTITUTIONAL_ALIGNMENT"
+      ]
+    },
+    {
+      "quote": "I’ve got 45 recordings… all going to the IOPC tomorrow.",
+      "tags": [
+        "escalation",
+        "evidence_submission"
+      ],
+      "emotional_tone": "resolve, assertiveness",
+      "contradictions": [
+        "PREPARING_FOR_WAR"
+      ]
+    }
+  ],
+  "meta": {
+    "source_file": "Jessie 05-07-25_ 21-41.txt.docx",
+    "created": "2025-09-09T00:52:57.242053",
+    "ingest_method": "manual_transcript_tagging"
+  }
+}

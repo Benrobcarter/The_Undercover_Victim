@@ -1,0 +1,105 @@
+{
+  "meta": {
+    "evidence_id": "VEX_2024-11-07_Dixon_Deletion_Log",
+    "title": "07-11-2024 — PC Jon Dixon ‘Listened/Deleted’ Evidence Log",
+    "created_at": "2025-08-26T00:11:06.587661Z",
+    "type": "Email / Log reference (needs source artefact)",
+    "date_local": "2024-11-07",
+    "parties": [
+      "Ben Carter",
+      "Sussex Police (PC Jon Dixon)"
+    ],
+    "clusters": [
+      "MASTER_COMPLAINT",
+      "SUSSEX_POLICE",
+      "LOST_EVIDENCE_SUSSEX_POLICE",
+      "EVIDENCE_HANDLING_BREACH",
+      "TIMELINE_SYNTHESIS"
+    ],
+    "status": "pending_sourcing",
+    "source_hint": "Master Complaint — Timeline 1.1",
+    "undated_policy": "ok_date_present",
+    "version": "1.0.0"
+  },
+  "claim_summary": "PC Jon Dixon is recorded as having listened to and deleted a key audio submission (the July call) on 7 Nov 2024. If accurate, this raises disclosure/retention concerns and supports the LOST_EVIDENCE_SUSSEX_POLICE thread.",
+  "key_points": [
+    "Material at issue: the 'July Call' audio previously submitted as core stalking evidence.",
+    "Allegation: on 7 Nov 2024, Dixon listened to and deleted the file.",
+    "Impact: undermines continuity of evidence and the ability to review; engages CPIA retention duties and later VRR/IOPC scrutiny."
+  ],
+  "contradictions": [
+    {
+      "code": "EVIDENCE_DELETION",
+      "claim": "Key audio evidence was listened to and then deleted by the OIC.",
+      "legal_risks": [
+        "CPIA 1996 Code of Practice — retention of material that may be relevant to the investigation or disclosure",
+        "Disclosure schedules (e.g., MG6C) — duty to reveal existence of material",
+        "DPA 2018 Part 3 — integrity and accuracy of law-enforcement processing"
+      ],
+      "impact": [
+        "Loss of primary record; reliance on secondary copies/routes",
+        "Prejudices defence/prosecution review; undermines VRR/oversight",
+        "Supports LOST_EVIDENCE_SUSSEX_POLICE contradiction group"
+      ],
+      "needs_quotes_idx": []
+    },
+    {
+      "code": "RECORD_INTEGRITY",
+      "claim": "Deletion conflicts with later assertions that the case was fully reviewed and managed appropriately.",
+      "impact": [
+        "Contradicts 'under investigation' status messaging",
+        "Signals timeline manipulation risk"
+      ]
+    }
+  ],
+  "key_quotes": [],
+  "related_material": [
+    {
+      "label": "CPS escalation email (8 Apr 2025) referencing 'The July Call.mp3'",
+      "note": "Anchors existence of original July call and later independent oversight request"
+    },
+    {
+      "label": "LOST_EVIDENCE_SUSSEX_POLICE cluster",
+      "note": "This entry strengthens the cluster showing mishandling of core audio"
+    }
+  ],
+  "timeline_hooks": [
+    {
+      "when": "2024-11-07T12:00:00",
+      "tag": "EVIDENCE_HANDLING",
+      "note": "Alleged listen/delete of July Call by OIC (time placeholder; confirm exact time)"
+    }
+  ],
+  "sourcing_queue": [
+    {
+      "prio": 1,
+      "need": "Primary artefact showing 7 Nov 2024 listen/delete (email/log/notebook entry from Dixon)",
+      "target": "email export with headers, or internal log extract"
+    },
+    {
+      "prio": 2,
+      "need": "Original submission trail for the July Call (portal receipt/email + file hash if available)",
+      "target": "email/portal receipt; any checksum of original file"
+    },
+    {
+      "prio": 3,
+      "need": "Any contemporaneous acknowledgements (WhatsApp/email) confirming deletion or re‑request of audio",
+      "target": "WhatsApp A09/A10, inbox outbox"
+    },
+    {
+      "prio": 4,
+      "need": "Chain‑of‑custody/retention policy applicable documents",
+      "target": "force policy PDF; CPIA Code of Practice reference"
+    }
+  ],
+  "verification_plan": [
+    "Correlate exact message ID / timestamp of the deletion log with server metadata",
+    "Obtain independent copy of the July Call (cloud drive) and compute SHA‑256 to anchor identity",
+    "Compare police retention policy with action on 7 Nov 2024; record any exemptions claimed",
+    "Record any later references by Dixon or supervisors acknowledging absence/loss of that audio"
+  ],
+  "links": {
+    "analysis": [],
+    "evidence": []
+  }
+}

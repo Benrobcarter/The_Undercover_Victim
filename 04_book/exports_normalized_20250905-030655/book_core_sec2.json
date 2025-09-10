@@ -1,0 +1,321 @@
+{
+  "meta_ref": "book_meta.json",
+  "type": "book_core",
+  "section": "sec2",
+  "chapters": [
+    {
+      "id": "sec2_july",
+      "title": "2.1 — July Call and the Deletion Log",
+      "order": 21,
+      "paragraphs": [
+        {
+          "text": "“Where they chose silence, I created record.” — Ben Carter",
+          "allegations": [
+            "Evidence tampering and data suppression",
+            "Catastrophic safeguarding breaches by Sussex Police"
+          ],
+          "contradictions": [
+            "LOST_EVIDENCE_SUSSEX_POLICE",
+            "DEATH_BY_SILENCE"
+          ],
+          "timeline_refs": [
+            "t1_sussex_police_chronology#1"
+          ],
+          "vex_tags": [
+            "EVIDENCE_SUPPRESSION",
+            "RECORDING_HANDLING",
+            "DEATH_BY_SILENCE",
+            "SAFEGUARDING_FAILURE",
+            "RECORDS_AUDIT"
+          ]
+        },
+        {
+          "text": "July 2024 — my first submission. By November, a log note recorded that the key audio had been 'listened to & deleted.'",
+          "allegations": [
+            "Evidence tampering and data suppression",
+            "Catastrophic safeguarding breaches by Sussex Police"
+          ],
+          "contradictions": [
+            "LOST_EVIDENCE_SUSSEX_POLICE",
+            "DEATH_BY_SILENCE"
+          ],
+          "timeline_refs": [
+            "t1_sussex_police_chronology#1"
+          ],
+          "vex_tags": [
+            "EVIDENCE_SUPPRESSION",
+            "RECORDING_HANDLING",
+            "DEATH_BY_SILENCE",
+            "SAFEGUARDING_FAILURE",
+            "RECORDS_AUDIT"
+          ]
+        },
+        {
+          "text": "A record of risk was treated as disposable. Audit trails evaporated. Safeguarding turned into silence.",
+          "allegations": [
+            "Evidence tampering and data suppression",
+            "Catastrophic safeguarding breaches by Sussex Police"
+          ],
+          "contradictions": [
+            "LOST_EVIDENCE_SUSSEX_POLICE",
+            "DEATH_BY_SILENCE"
+          ],
+          "timeline_refs": [
+            "t1_sussex_police_chronology#1"
+          ],
+          "vex_tags": [
+            "EVIDENCE_SUPPRESSION",
+            "RECORDING_HANDLING",
+            "DEATH_BY_SILENCE",
+            "SAFEGUARDING_FAILURE",
+            "RECORDS_AUDIT"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sec2_bail",
+      "title": "2.2 — Bail Confirmation Mishandled",
+      "order": 22,
+      "paragraphs": [
+        {
+          "text": "“Feeling I had ‘taken on the fucking police and won,’ I escalated my case to the IOPC.” — Ben Carter",
+          "allegations": [
+            "Catastrophic safeguarding breaches by Sussex Police"
+          ],
+          "contradictions": [
+            "DEATH_BY_SILENCE"
+          ],
+          "timeline_refs": [
+            "t1_sussex_police_chronology#2"
+          ],
+          "vex_tags": [
+            "GDPR_ACCESS_REFUSAL",
+            "RECORDS_AUDIT",
+            "SAFEGUARDING_FAILURE"
+          ]
+        },
+        {
+          "text": "February–March 2025 — during the bail confirmation period, my abuser was forwarded unredacted material. Sussex Police turned safeguarding into exposure, GDPR into refusal. ",
+          "allegations": [
+            "Catastrophic safeguarding breaches by Sussex Police"
+          ],
+          "contradictions": [
+            "DEATH_BY_SILENCE"
+          ],
+          "timeline_refs": [
+            "t1_sussex_police_chronology#2"
+          ],
+          "vex_tags": [
+            "GDPR_ACCESS_REFUSAL",
+            "RECORDS_AUDIT",
+            "SAFEGUARDING_FAILURE"
+          ]
+        },
+        {
+          "text": "At the same time, they visited my flat without BWV. My safety was paper-thin, their records incomplete.",
+          "allegations": [
+            "Catastrophic safeguarding breaches by Sussex Police"
+          ],
+          "contradictions": [
+            "DEATH_BY_SILENCE"
+          ],
+          "timeline_refs": [
+            "t1_sussex_police_chronology#2"
+          ],
+          "vex_tags": [
+            "GDPR_ACCESS_REFUSAL",
+            "RECORDS_AUDIT",
+            "SAFEGUARDING_FAILURE"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sec2_inversion",
+      "title": "2.3 — Procedural Inversion & NFA to Suspect",
+      "order": 23,
+      "paragraphs": [
+        {
+          "text": "“POLICE PLEASE — not a plea, a prophecy.” — Ben Carter",
+          "allegations": [
+            "Catastrophic safeguarding breaches by Sussex Police"
+          ],
+          "contradictions": [
+            "DEATH_BY_SILENCE"
+          ],
+          "timeline_refs": [
+            "t1_sussex_police_chronology#3"
+          ],
+          "vex_tags": [
+            "TIMELINE_MANIPULATION",
+            "NFA_PREMATURE_COMMUNICATION",
+            "DEATH_BY_SILENCE"
+          ]
+        },
+        {
+          "text": "22 April 2025: lawful conduct reframed as suspect. Five days later, on 27 April, an NFA-style message was sent to the suspect before any safeguarding meeting.",
+          "allegations": [
+            "Catastrophic safeguarding breaches by Sussex Police"
+          ],
+          "contradictions": [
+            "DEATH_BY_SILENCE"
+          ],
+          "timeline_refs": [
+            "t1_sussex_police_chronology#3"
+          ],
+          "vex_tags": [
+            "TIMELINE_MANIPULATION",
+            "NFA_PREMATURE_COMMUNICATION",
+            "DEATH_BY_SILENCE"
+          ]
+        },
+        {
+          "text": "The victim was still waiting for protection; the suspect received closure. This inversion stands as proof of bias and premature communication.",
+          "allegations": [
+            "Catastrophic safeguarding breaches by Sussex Police"
+          ],
+          "contradictions": [
+            "DEATH_BY_SILENCE"
+          ],
+          "timeline_refs": [
+            "t1_sussex_police_chronology#3"
+          ],
+          "vex_tags": [
+            "TIMELINE_MANIPULATION",
+            "NFA_PREMATURE_COMMUNICATION",
+            "DEATH_BY_SILENCE"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sec2_suicide_sar",
+      "title": "2.4 — Suicide Attempt and SAR Refusal",
+      "order": 24,
+      "paragraphs": [
+        {
+          "text": "“The system did not just fail to protect me; it created the conditions that required this extraordinary level of self‑advocacy to simply survive.” — Ben Carter",
+          "allegations": [
+            "Gross mishandling of suicide risk"
+          ],
+          "contradictions": [
+            "CROWBARRING_MYSELF_JUSTICE",
+            "DEATH_BY_SILENCE"
+          ],
+          "timeline_refs": [
+            "t1_sussex_police_chronology#4",
+            "t3_personal_evidence_construction#1"
+          ],
+          "vex_tags": [
+            "SAFEGUARDING_FAILURE",
+            "GDPR_ACCESS_REFUSAL",
+            "VICTIMS_CODE"
+          ]
+        },
+        {
+          "text": "April 2025 — my suicide attempt was not logged. By June, when I filed a Subject Access Request to test the system, it was refused after case closure.",
+          "allegations": [
+            "Gross mishandling of suicide risk"
+          ],
+          "contradictions": [
+            "CROWBARRING_MYSELF_JUSTICE",
+            "DEATH_BY_SILENCE"
+          ],
+          "timeline_refs": [
+            "t1_sussex_police_chronology#4",
+            "t3_personal_evidence_construction#1"
+          ],
+          "vex_tags": [
+            "SAFEGUARDING_FAILURE",
+            "GDPR_ACCESS_REFUSAL",
+            "VICTIMS_CODE"
+          ]
+        },
+        {
+          "text": "The denial confirmed the pattern: disclosures erased, data blocked, survival weaponised against me.",
+          "allegations": [
+            "Gross mishandling of suicide risk"
+          ],
+          "contradictions": [
+            "CROWBARRING_MYSELF_JUSTICE",
+            "DEATH_BY_SILENCE"
+          ],
+          "timeline_refs": [
+            "t1_sussex_police_chronology#4",
+            "t3_personal_evidence_construction#1"
+          ],
+          "vex_tags": [
+            "SAFEGUARDING_FAILURE",
+            "GDPR_ACCESS_REFUSAL",
+            "VICTIMS_CODE"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sec2_fringe",
+      "title": "2.5 — Brighton Fringe Retaliation",
+      "order": 25,
+      "paragraphs": [
+        {
+          "text": "“One big apple rotting from its core.” — Ben Carter",
+          "allegations": [
+            "Retaliation and governance failures by Brighton Fringe Ltd."
+          ],
+          "contradictions": [
+            "DUNCAN_ASSISTED_ERASURE",
+            "DEATH_BY_SILENCE"
+          ],
+          "timeline_refs": [
+            "t2_brighton_fringe_consequences#1",
+            "t2_brighton_fringe_consequences#2"
+          ],
+          "vex_tags": [
+            "GOVERNANCE_FAILURE",
+            "REPUTATIONAL_HARM",
+            "DPA_GDPR"
+          ]
+        },
+        {
+          "text": "Brighton Fringe received safeguarding disclosures in May–June 2025. They withheld their minutes, erased my name, and rewrote the record.",
+          "allegations": [
+            "Retaliation and governance failures by Brighton Fringe Ltd."
+          ],
+          "contradictions": [
+            "DUNCAN_ASSISTED_ERASURE",
+            "DEATH_BY_SILENCE"
+          ],
+          "timeline_refs": [
+            "t2_brighton_fringe_consequences#1",
+            "t2_brighton_fringe_consequences#2"
+          ],
+          "vex_tags": [
+            "GOVERNANCE_FAILURE",
+            "REPUTATIONAL_HARM",
+            "DPA_GDPR"
+          ]
+        },
+        {
+          "text": "Where law required governance, they chose reputation. Where safety required disclosure, they chose silence.",
+          "allegations": [
+            "Retaliation and governance failures by Brighton Fringe Ltd."
+          ],
+          "contradictions": [
+            "DUNCAN_ASSISTED_ERASURE",
+            "DEATH_BY_SILENCE"
+          ],
+          "timeline_refs": [
+            "t2_brighton_fringe_consequences#1",
+            "t2_brighton_fringe_consequences#2"
+          ],
+          "vex_tags": [
+            "GOVERNANCE_FAILURE",
+            "REPUTATIONAL_HARM",
+            "DPA_GDPR"
+          ]
+        }
+      ]
+    }
+  ]
+}

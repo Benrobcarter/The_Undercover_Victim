@@ -1,0 +1,27 @@
+{
+  "items": [
+    {
+      "id": "thread_social_media_may2025_reply_001",
+      "type": "evidence",
+      "source": "Reply Split: PDF Thread",
+      "date": "DATE_NOT_FOUND",
+      "summary": "[Joanna Jarvie] Social media\n12 messages\nJoanna Jarvie <joannalouisejarvie@gmail.com> 11 May 2025 at 06:27\nTo: Half a camel production <halfacamelproduction",
+      "meta": {
+        "thread_id": "thread_social_media_may2025",
+        "original_filename": "I have never refered to my abuser as my ex - Social media.pdf",
+        "reply_index": 1,
+        "speaker": "Joanna Jarvie",
+        "split_method": "timestamp + speaker pattern",
+        "ingested_on": "2025-09-05T20:15:40.325037"
+      },
+      "links": {
+        "source_pdf": "I have never refered to my abuser as my ex - Social media.pdf"
+      },
+      "tags": [
+        "reply_split",
+        "auto_ocr",
+        "social_media_thread"
+      ]
+    }
+  ]
+}

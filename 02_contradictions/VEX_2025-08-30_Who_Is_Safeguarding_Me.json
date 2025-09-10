@@ -1,0 +1,32 @@
+{
+  "vex_id": "VEX_2025-08-30_Who_Is_Safeguarding_Me",
+  "title": "Who Is Safeguarding Me?",
+  "date": "2025-08-30",
+  "tags": [
+    "SAFEGUARDING_VOID",
+    "SYSTEM_FAILURE",
+    "INSTITUTIONAL_COMPLICITY",
+    "ICO_LAST_RECOURSE",
+    "NO_ACCESS_TO_SUPPORT",
+    "WHO_IS_LEFT",
+    "PUBLIC_CONFIDENCE_COLLAPSE"
+  ],
+  "contradiction_links": [
+    "DEATH_BY_SILENCE",
+    "PALMER_SUPERVISORY_FAILURE",
+    "VERITAS_SILENCE_SAFEGUARDING_COLLAPSE",
+    "ICO_INTEGRITY_VS_IOPC_DEFLECTION",
+    "INSTITUTIONAL_ERASURE_CHAIN"
+  ],
+  "quote_highlights": [
+    "I have no emergency contact. No assigned officer. No advocate. No backup plan. So again, who is safeguarding me?",
+    "The ICO gave me an answer. The IOPC gave me a referral slip back to my abuser.",
+    "If I die, this time you will know exactly who did nothing."
+  ],
+  "evidence_files": [
+    "EVID_2025-08-30_ICO_Escalation_Ref_47230214305_Coverup.json",
+    "EVID_2025-07-17_IOPC_ICO_CharityEscalation_SAR_Breach_Deadline.json",
+    "MASTER_COMPLAINT_UPDATED_INSERT_BOOK_SECTION.json"
+  ],
+  "summary": "A forensic escalation of the central safeguarding contradiction: multiple agencies have either refused, redirected, or erased their duty of care. This VEX entry asks the question that echoes through the entire complaint: If every institution deflects, then who is safeguarding Ben Carter?"
+}

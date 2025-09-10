@@ -1,0 +1,27 @@
+{
+  "id": "CLUSTER_SUSSEX_POLICE_TIMELINE_MANIPULATION",
+  "title": "Sussex Police Timeline Manipulation & Institutional Record Tampering",
+  "cluster_type": "contradiction_cluster",
+  "date_range": {
+    "start": "2025-03-08",
+    "end": "2025-08-30"
+  },
+  "timelines_linked": [
+    "DEATH_BY_SILENCE",
+    "INSTITUTIONAL_ALIGNMENT",
+    "MAY_2025_ESCALATION_ARC",
+    "WHO_IS_SAFEGUARDING_ME"
+  ],
+  "primary_evidence": [
+    "EVID_2025-05-19_SussexPolice_OfficerAssignment_47250093423_PC_Russell.json",
+    "EVID_2025-08-21_Ben_VRR_and_YearTypo_Challenge.json",
+    "FLUID_TIMELINE_MAY2025.json",
+    "PUBLIC_SANITIZED_2025-03-08_Ben_to_PC-Dixon_Statement-and-Medical-Letter.json",
+    "TIMELINE_2025-08-30_Who_Is_Safeguarding_Me.json",
+    "UPDATED_CONTRA_CLUSTER_2025-08-30_PALMER_SUPERVISORY_FAILURE_BUNDLE_v2.json",
+    "UPDATED_CONTRA_CLUSTER_2025-08-30_PALMER_SUPERVISORY_FAILURE_BUNDLE_v3.json",
+    "evidence_suppression_audit_log_Q3_2025.json"
+  ],
+  "last_updated": "2025-09-09",
+  "version": "v3"
+}

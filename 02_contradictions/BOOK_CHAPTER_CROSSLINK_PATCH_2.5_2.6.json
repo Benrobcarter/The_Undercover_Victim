@@ -1,0 +1,48 @@
+{
+  "chapter_crosswalk": [
+    {
+      "chapter_id": "sec2_safeguarding_meeting",
+      "chapter_title": "2.5 — The Meeting That Ignored My Suicide",
+      "timeline_refs": [
+        "SAFEGUARDING_MEETING_2025-04-09"
+      ],
+      "vex_tags": [
+        "SAFEGUARDING_MEETING",
+        "SUICIDE_MINIMISATION",
+        "2024_ERASURE",
+        "POLICY_VS_PRACTICE",
+        "VENUE_TAKEOVER_THREAT",
+        "INSTITUTIONAL_GASLIGHTING",
+        "DEATH_BY_SILENCE"
+      ],
+      "contradictions": [
+        {
+          "code": "BF-CONTRA-SUICIDE_MINIMISATION-2025-04-09",
+          "shard_matches": []
+        }
+      ]
+    },
+    {
+      "chapter_id": "sec2_crowbar",
+      "chapter_title": "2.6 — Crowbarring Myself Justice",
+      "timeline_refs": [
+        "t1_sussex_police_chronology#4",
+        "t3_personal_evidence_construction#1"
+      ],
+      "vex_tags": [
+        "CROWBARRING_MYSELF_JUSTICE",
+        "DEATH_BY_SILENCE",
+        "SUICIDE_DISCLOSURE_USED_FOR_REMOVAL",
+        "RECORD_MANIPULATION_POST_DISCLOSURE",
+        "INSTITUTIONAL_GASLIGHTING",
+        "POLICE_CAUSED_HARM"
+      ],
+      "contradictions": [
+        {
+          "code": "CROWBARRING_MYSELF_JUSTICE_2025_FULL_DISCLOSURE",
+          "shard_matches": []
+        }
+      ]
+    }
+  ]
+}

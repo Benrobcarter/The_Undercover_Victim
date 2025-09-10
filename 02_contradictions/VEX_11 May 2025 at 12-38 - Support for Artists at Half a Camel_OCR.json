@@ -1,0 +1,27 @@
+{
+  "id": "VEX_11 May 2025 at 12-38 - Support for Artists at Half a Camel_OCR",
+  "type": "evidence",
+  "source": "Smart OCR Ingest",
+  "date": "DATE_NOT_FOUND",
+  "summary": "Auto-ingested from file: 11 May 2025 at 12-38 - Support for Artists at Half a Camel.pdf",
+  "meta": {
+    "original_filename": "11 May 2025 at 12-38 - Support for Artists at Half a Camel.pdf",
+    "ocr_pdf_file": "11 May 2025 at 12-38 - Support for Artists at Half a Camel_ocr.pdf",
+    "ocr_text_file": "11 May 2025 at 12-38 - Support for Artists at Half a Camel.txt",
+    "sha256": "5ee085ea522e6edb61980bfb765ccea0c3e422787f8724fa7f648d809f18e716",
+    "source_folder": ".",
+    "ingested_on": "2025-09-06T14:35:15.755332",
+    "ingest_method": "ocr_smart"
+  },
+  "links": {
+    "source_file_original": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_unprocessed/11 May 2025 at 12-38 - Support for Artists at Half a Camel.pdf",
+    "ocr_pdf_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_ocrd/11 May 2025 at 12-38 - Support for Artists at Half a Camel_ocr.pdf",
+    "ocr_text_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/text/11 May 2025 at 12-38 - Support for Artists at Half a Camel.txt"
+  },
+  "tags": [
+    "auto_ocr",
+    "38 ",
+    " support for artists at half a camel",
+    "11 may 2025 at 12"
+  ]
+}

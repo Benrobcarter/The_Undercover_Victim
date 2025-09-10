@@ -1,0 +1,27 @@
+{
+  "id": "VEX_1st May Brighton Fringe 2025_ Dates, acts, locations and more _ The Argus_OCR",
+  "type": "evidence",
+  "source": "Smart OCR Ingest",
+  "date": "DATE_NOT_FOUND",
+  "summary": "Auto-ingested from file: 1st May Brighton Fringe 2025_ Dates, acts, locations and more _ The Argus.pdf",
+  "meta": {
+    "original_filename": "1st May Brighton Fringe 2025_ Dates, acts, locations and more _ The Argus.pdf",
+    "ocr_pdf_file": "1st May Brighton Fringe 2025_ Dates, acts, locations and more _ The Argus_ocr.pdf",
+    "ocr_text_file": "1st May Brighton Fringe 2025_ Dates, acts, locations and more _ The Argus.txt",
+    "sha256": "0ca7a03082184732015b0ccc039788f006d4d3fb3dc6fc0b417d890d7a90d326",
+    "source_folder": ".",
+    "ingested_on": "2025-09-06T14:31:17.539305",
+    "ingest_method": "ocr_smart"
+  },
+  "links": {
+    "source_file_original": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_unprocessed/1st May Brighton Fringe 2025_ Dates, acts, locations and more _ The Argus.pdf",
+    "ocr_pdf_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_ocrd/1st May Brighton Fringe 2025_ Dates, acts, locations and more _ The Argus_ocr.pdf",
+    "ocr_text_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/text/1st May Brighton Fringe 2025_ Dates, acts, locations and more _ The Argus.txt"
+  },
+  "tags": [
+    "auto_ocr",
+    " the argus",
+    "1st may brighton fringe 2025",
+    " dates, acts, locations and more "
+  ]
+}

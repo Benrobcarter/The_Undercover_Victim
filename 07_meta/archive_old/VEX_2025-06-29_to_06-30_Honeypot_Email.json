@@ -1,0 +1,39 @@
+{
+  "meta": {
+    "evidence_id": "VEX_2025-06-29_to_06-30_Honeypot_Email",
+    "title": "29–30 Jun 2025 — “Honeypot” Email and follow-up",
+    "created_at": "2025-08-26T00:00:00Z",
+    "type": "Email",
+    "date_range_local": {
+      "start": "2025-06-29",
+      "end": "2025-06-30"
+    },
+    "parties": [
+      "Ben Carter",
+      "Sussex Police"
+    ],
+    "clusters": [
+      "DEATH_BY_SILENCE",
+      "CRIME_REF_47240214305_THREAD"
+    ],
+    "source_files": []
+  },
+  "summary": "Email flagged as “honeypot” setup with follow-up next day. Dates locked; quotes to be injected from source capture.",
+  "police_position": "Pending; highlights suspected bait/entrapment framing and lack of appropriate safeguarding response.",
+  "contradictions": [
+    "MISUSE_OF_PROCESS",
+    "SAFETY_OVERLOOKED"
+  ],
+  "key_quotes": [],
+  "timeline_hooks": [
+    {
+      "date": "2025-06-29",
+      "title": "Honeypot email sent"
+    },
+    {
+      "date": "2025-06-30",
+      "title": "Honeypot follow-up / impact noted"
+    }
+  ],
+  "links": []
+}

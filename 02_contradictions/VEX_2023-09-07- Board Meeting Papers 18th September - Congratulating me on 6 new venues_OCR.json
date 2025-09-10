@@ -1,0 +1,27 @@
+{
+  "id": "VEX_2023-09-07- Board Meeting Papers 18th September - Congratulating me on 6 new venues_OCR",
+  "type": "evidence",
+  "source": "Smart OCR Ingest",
+  "date": "2023-09-07",
+  "summary": "Auto-ingested from file: 2023-09-07- Board Meeting Papers 18th September - Congratulating me on 6 new venues.pdf",
+  "meta": {
+    "original_filename": "2023-09-07- Board Meeting Papers 18th September - Congratulating me on 6 new venues.pdf",
+    "ocr_pdf_file": "2023-09-07- Board Meeting Papers 18th September - Congratulating me on 6 new venues_ocr.pdf",
+    "ocr_text_file": "2023-09-07- Board Meeting Papers 18th September - Congratulating me on 6 new venues.txt",
+    "sha256": "09278923bad7118166d88d6214e3a84916905d8822ec033157757d5868ba063f",
+    "source_folder": ".",
+    "ingested_on": "2025-09-06T23:17:31.328629",
+    "ingest_method": "ocr_smart"
+  },
+  "links": {
+    "source_file_original": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_unprocessed/2023-09-07- Board Meeting Papers 18th September - Congratulating me on 6 new venues.pdf",
+    "ocr_pdf_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_ocrd/2023-09-07- Board Meeting Papers 18th September - Congratulating me on 6 new venues_ocr.pdf",
+    "ocr_text_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/text/2023-09-07- Board Meeting Papers 18th September - Congratulating me on 6 new venues.txt"
+  },
+  "tags": [
+    "auto_ocr",
+    " congratulating me on 6 new venues",
+    " board meeting papers 18th september ",
+    "2023"
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "meta": {
+    "evidence_id": "EVID_2024-12-12_to_19_Cordell_EmailThread_Re_converstion",
+    "created_at": "2025-08-25T23:38:00.993456Z",
+    "source_file_name": "10_12_24 15-19_701211 - Re converstion.pdf",
+    "source_path": "/mnt/data/10_12_24 15-19_701211 - Re converstion.pdf",
+    "assumed_date_flag": false,
+    "date_range": {
+      "start": "2024-12-12",
+      "end": "2024-12-19"
+    },
+    "parties": [
+      "Ben Carter",
+      "Cordell & Co (Carolyn Whiting)",
+      "Mr Cordell"
+    ],
+    "type": "Email thread (PDF export)",
+    "clusters": [
+      "CRIME_REF_47240214305_THREAD",
+      "INJURY_CLAIM_IMPACT",
+      "DEATH_BY_SILENCE"
+    ],
+    "legal_mapping": [
+      "Victims’ Code — right to be kept informed (context: police failures influencing civil matters)"
+    ]
+  },
+  "summary": "Thread shows scheduling, witness admin, and call-back notes around the same period as the ‘701211’ December email.",
+  "emails": [
+    {
+      "sent": "2024-12-12T11:00:00",
+      "from": "Ben Carter",
+      "to": "Carolyn Whiting",
+      "subject": "Re: Re converstion",
+      "body_snippet": "Yeah sure speak soon"
+    },
+    {
+      "sent": "2024-12-13T00:22:00",
+      "from": "Ben Carter",
+      "to": "Carolyn Whiting",
+      "subject": "Re: Re converstion",
+      "body_snippet": "Thanks I signed it — Emma Harrop <emmaharropmusic@gmail.com>. If you could email me details of the other witness…"
+    },
+    {
+      "sent": "2024-12-17T15:54:00",
+      "from": "Ben Carter",
+      "to": "Carolyn Whiting",
+      "subject": "Re: Re converstion",
+      "body_snippet": "(Thread continues; scheduling and links)"
+    },
+    {
+      "sent": "2024-12-19T10:57:00",
+      "from": "Ben Carter",
+      "to": "Carolyn Whiting",
+      "subject": "Re: Re converstion",
+      "body_snippet": "Yeah sure give me a bell when free"
+    },
+    {
+      "sent": "2024-12-19T10:58:00",
+      "from": "Carolyn Whiting",
+      "to": "Ben Carter",
+      "subject": "(Call scheduling)",
+      "body_snippet": "Ok, will call you between 11.30 & 12.00"
+    }
+  ],
+  "links": {
+    "paired_with": "EVID_2024-12-10_Cordell_Email_701211"
+  }
+}

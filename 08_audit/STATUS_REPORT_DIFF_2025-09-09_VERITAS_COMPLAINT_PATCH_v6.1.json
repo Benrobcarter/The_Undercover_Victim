@@ -1,0 +1,65 @@
+{
+  "status_report_id": "STATUS_REPORT_DIFF_2025-09-09_VERITAS_COMPLAINT_PATCH",
+  "base_version": "v6.0",
+  "generated_on": "2025-09-09T05:34:37.235109",
+  "changes": {
+    "timeline_events_added": [
+      {
+        "date": "2025-05-14T11:28:00+01:00",
+        "title": "Veritas call transcript: Ben Carter & Emma",
+        "cluster": [
+          "CROWBARRING_MYSELF_JUSTICE",
+          "DEATH_BY_SILENCE"
+        ],
+        "source": "Veritas_14_05_25-11-28_Transcript.txt"
+      },
+      {
+        "date": "2025-06-25T11:21:00+01:00",
+        "title": "Safety Plan issued by Veritas",
+        "cluster": [
+          "INVISIBLE_PROBE",
+          "SAFEGUARDING_SUPPRESSION"
+        ],
+        "source": "EVID_2025-06-25_1121_Safety_Plan_BC.json"
+      },
+      {
+        "date": "2025-09-08",
+        "title": "Sussex Police CO/01732/25 Complaint Confirmation",
+        "cluster": [
+          "VERITAS_X_SUSSEX_COVERUP_AUG2025"
+        ],
+        "source": "EVID_2025-09-08_SussexPolice_ComplaintConfirmation_CO-01732-25.json"
+      },
+      {
+        "date": "2025-06-25T10:22:00+01:00",
+        "title": "Veritas repeats false welfare contact claims from Sussex Police",
+        "cluster": [
+          "SUSSEX_POLICE_TIMELINE_MANIPULATION",
+          "DEATH_BY_SILENCE"
+        ],
+        "source": "EVID_2025-06-25_1022_Veritas_Call_WriteUp.json"
+      }
+    ],
+    "contradictions_added": [
+      {
+        "date": "2025-06-25",
+        "title": "Veritas call contradicts Sussex Police welfare contact logs",
+        "cluster": [
+          "SUSSEX_POLICE_TIMELINE_MANIPULATION",
+          "VERITAS_X_SUSSEX_COVERUP_AUG2025"
+        ],
+        "source": "VERITAS_MERGED_2025-08-25.json"
+      },
+      {
+        "date": "2025-06-25",
+        "title": "PC Dixon reported still active post-suicide disclosure",
+        "cluster": [
+          "INSTITUTIONAL_COERCION",
+          "SAFEGUARDING_SUPPRESSION"
+        ],
+        "source": "VERITAS_MERGED_2025-08-25.json"
+      }
+    ]
+  },
+  "summary": "Patch v6.0 timeline extended with Veritas call matrix and PSD complaint confirmation.\nPatch v6.1 includes contradiction and timeline entries exposing Veritas as conduit of Sussex Police misinformation (fabricated contact, false reference, NICE link denial)."
+}

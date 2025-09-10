@@ -1,0 +1,78 @@
+{
+  "chunk": 10,
+  "time_range": "9:30-10:30",
+  "quotes": [
+    {
+      "speaker": "Ben Carter",
+      "time": "9:30",
+      "quote": "And every time I point out the contradiction, they just go quiet.",
+      "tags": [
+        "victim_experience",
+        "contradiction",
+        "silence"
+      ]
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "9:36",
+      "quote": "I know, and silence isn’t good enough when it comes to your safety.",
+      "tags": [
+        "acknowledgement",
+        "safeguarding"
+      ]
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "9:41",
+      "quote": "Exactly. Silence just proves they’re avoiding accountability.",
+      "tags": [
+        "accountability",
+        "victim_assertion",
+        "systemic_failure"
+      ]
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "9:47",
+      "quote": "I’ve told them that I need answers in writing, not silence.",
+      "tags": [
+        "advocacy",
+        "demand_answers"
+      ]
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "9:52",
+      "quote": "But you see how I’m always the one having to push for this?",
+      "tags": [
+        "victim_experience",
+        "advocacy_gap"
+      ]
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "9:56",
+      "quote": "I do, and I know it’s exhausting for you.",
+      "tags": [
+        "acknowledgement",
+        "empathy"
+      ]
+    }
+  ],
+  "contradictions": [
+    {
+      "issue": "Police silence when contradictions raised vs. advocate admits silence not acceptable but no escalation outcome",
+      "type": "safeguarding_failure"
+    }
+  ],
+  "timeline_hooks": [
+    {
+      "ref": "silence when contradictions raised",
+      "link": "Pattern of institutional non-response"
+    },
+    {
+      "ref": "need answers in writing",
+      "link": "Request for formal documentation May 2025"
+    }
+  ]
+}

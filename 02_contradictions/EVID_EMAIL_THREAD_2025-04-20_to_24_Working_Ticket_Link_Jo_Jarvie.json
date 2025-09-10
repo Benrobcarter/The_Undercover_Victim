@@ -1,0 +1,57 @@
+{
+  "meta": {
+    "evidence_id": "EVID_2025-04-20_to_24_Working_Ticket_Link_Jo_Jarvie",
+    "title": "Email thread — 'Working ticket link?' (Jo Jarvie ↔ Box Office ↔ Half a Camel)",
+    "type": "email_thread",
+    "date_range_local": [
+      "2025-04-20",
+      "2025-04-24"
+    ],
+    "source_paths": [
+      "mail/2025-04-20_to_24_Working_Ticket_Link_Thread.eml"
+    ],
+    "participants": [
+      "Joanna Jarvie <joannalouisejarvie@gmail.com>",
+      "Take Part <takepart@brightonfringe.org>",
+      "BoxOffice <boxoffice@brightonfringe.org>",
+      "Half a camel production <halfacamelproductions@gmail.com>"
+    ],
+    "clusters": [
+      "BRIGHTON_FRINGE",
+      "BF-CONTRA-BOXOFFICE-BREACH",
+      "BROCHURE_DELAY_CONTEXT"
+    ],
+    "links": {
+      "contradictions": [
+        "BF-CONTRA-BOXOFFICE-BREACH",
+        "BF-CONTRA-BROCHURE-MISREPRESENTATION-2025"
+      ],
+      "contract_clause_refs": [
+        "BOX_OFFICE_DUTIES"
+      ]
+    }
+  },
+  "summary": "Artist reports missing ticket link (20 Apr). BF replies it’s set as unticketed/donations (21 Apr 13:19). You flag staffing/PLI exposure (13:40). BF introduces £30 upsell to enable reservations (16:10). You raise risk assessment gap (16:18). BF admits confusion (22 Apr 18:09) and confirms ‘no way to track capacity… venue to judge when full’ (23 Apr 10:43).",
+  "timeline_hooks": [
+    {
+      "when": "2025-04-20T22:06:00",
+      "tag": "ARTIST_FLAGS_MISSING_TICKET_LINK",
+      "note": "Jo Jarvie cannot see booking."
+    },
+    {
+      "when": "2025-04-21T13:19:00",
+      "tag": "BOXOFFICE_UNTICKETED_REASON",
+      "note": "Set as unticketed/donations."
+    },
+    {
+      "when": "2025-04-21T16:10:00",
+      "tag": "PAID_UPSELL_TO_ENABLE_BOOKING",
+      "note": "£30 to switch to ticketed."
+    },
+    {
+      "when": "2025-04-23T10:43:00",
+      "tag": "CAPACITY_UNTRACKABLE_DECLARED",
+      "note": "‘No way to track capacity… venue to judge when full.’"
+    }
+  ]
+}

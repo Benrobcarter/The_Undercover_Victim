@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "name": "TIMELINE_PATCH_DeathBySilence_2025-05-17_1733",
+    "generated_utc": "2025-08-26T05:29:09.978675Z",
+    "timeline": "Death By Silence"
+  },
+  "event": {
+    "datetime_utc": "2025-05-17T17:33:00+00:00",
+    "title": "Unannounced welfare check; officers unfamiliar with case",
+    "summary": "EA734 & EA820 attend 41 days after suicide attempt; 20 days after MEAC/MASH; support framing over accountability.",
+    "evidence_refs": [
+      "EVID_2025-05-17_1733_Welfare_Check_SussexPolice.json",
+      "Covert Welfare Check as Damage Control_ Sussex Police Turn Up Unexpectedly (17 May 2025, 17_33).txt"
+    ],
+    "vex_tags": [
+      "WELFARE_CHECK",
+      "LATE_INTERVENTION_AFTER_SUICIDE",
+      "DAMAGE_CONTROL_VISIT",
+      "INSTITUTIONAL_GASLIGHTING",
+      "FORCED_NARRATIVE_RESET",
+      "DEATH_BY_SILENCE"
+    ],
+    "contradictions": [
+      "They Saw, Paused, Reflected \u2014 and Chose Death",
+      "CROWBARRING_MYSELF_JUSTICE"
+    ]
+  }
+}

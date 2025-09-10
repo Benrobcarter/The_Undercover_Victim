@@ -1,0 +1,75 @@
+{
+  "pack_id": "SUSSEX_POLICE_TIMELINE_MANIPULATION_PACK_JULY_2025",
+  "generated": "2025-09-09T00:55:34.459830",
+  "schema_version": "1.0",
+  "scope": "Sussex Police + PSD — timeline alteration evidence (June–July 2025 focus)",
+  "items": [
+    {
+      "id": "EVID_2025-06-22_SussexPolice_NoReply_CAD_0050",
+      "type": "email+vex",
+      "files": [
+        "EVID_2025-06-22_SussexPolice_NoReply_CAD_0050.txt",
+        "VEX_EVID_2025-06-22_SussexPolice_NoReply_CAD_0050_OCR.json"
+      ],
+      "tags": [
+        "cad",
+        "noreply",
+        "sussexpolice"
+      ],
+      "timelines": [
+        "DEATH_BY_SILENCE",
+        "INSTITUTIONAL_ALIGNMENT"
+      ]
+    },
+    {
+      "id": "VEX_2025-07-05_2141_Jesse_101_Call",
+      "type": "vex",
+      "files": [
+        "VEX_2025-07-05_2141_Jesse_101_Call.json"
+      ],
+      "tags": [
+        "101_call",
+        "timeline_alteration",
+        "nfa_via_abuser"
+      ],
+      "timelines": [
+        "DEATH_BY_SILENCE",
+        "LOST_EVIDENCE_SUSSEX_POLICE",
+        "INSTITUTIONAL_ALIGNMENT",
+        "PREPARING_FOR_WAR"
+      ]
+    },
+    {
+      "id": "VEX_2025-07-04_StJohnStreet_FrontDesk",
+      "type": "vex",
+      "files": [
+        "VEX_2025-07-04_StJohnStreet_FrontDesk.json"
+      ],
+      "tags": [
+        "front_desk_visit",
+        "start_date_shift",
+        "vrr_blockage"
+      ],
+      "timelines": [
+        "DEATH_BY_SILENCE",
+        "LOST_EVIDENCE_SUSSEX_POLICE",
+        "INSTITUTIONAL_ALIGNMENT",
+        "PSD_ERASURE"
+      ]
+    }
+  ],
+  "contradictions_linked": [
+    "DEATH_BY_SILENCE",
+    "LOST_EVIDENCE_SUSSEX_POLICE",
+    "INSTITUTIONAL_ALIGNMENT",
+    "PSD_ERASURE",
+    "PREPARING_FOR_WAR"
+  ],
+  "changelog": [
+    {
+      "ts": "2025-09-09T00:55:34.459842",
+      "action": "init",
+      "notes": "Initial July 2025 pack with CAD 0050, Jesse 101 call, and St John Street visit."
+    }
+  ]
+}

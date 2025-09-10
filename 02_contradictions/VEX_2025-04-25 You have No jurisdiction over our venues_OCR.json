@@ -1,0 +1,26 @@
+{
+  "id": "VEX_2025-04-25 You have No jurisdiction over our venues_OCR",
+  "type": "evidence",
+  "source": "Smart OCR Ingest",
+  "date": "2025-04-25",
+  "summary": "Auto-ingested from file: 2025-04-25 You have No jurisdiction over our venues.pdf",
+  "meta": {
+    "original_filename": "2025-04-25 You have No jurisdiction over our venues.pdf",
+    "ocr_pdf_file": "2025-04-25 You have No jurisdiction over our venues_ocr.pdf",
+    "ocr_text_file": "2025-04-25 You have No jurisdiction over our venues.txt",
+    "sha256": "4d6ecf6e560843aceaa4b5eaa621363b01ec11a13f0b78f1b7cc129c2a575166",
+    "source_folder": ".",
+    "ingested_on": "2025-09-06T22:55:30.509902",
+    "ingest_method": "ocr_smart"
+  },
+  "links": {
+    "source_file_original": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_unprocessed/2025-04-25 You have No jurisdiction over our venues.pdf",
+    "ocr_pdf_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_ocrd/2025-04-25 You have No jurisdiction over our venues_ocr.pdf",
+    "ocr_text_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/text/2025-04-25 You have No jurisdiction over our venues.txt"
+  },
+  "tags": [
+    "auto_ocr",
+    "25 you have no jurisdiction over our venues",
+    "2025"
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "timeline": [
+    {
+      "id": "t2_brighton_fringe_consequences#2025-05-23",
+      "title": "Members of the public began calling Ben Carter directly due to Brighton Fringe’s ticketing system failure, believing his personal number was the official Fringe contact line.",
+      "date": "2025-05-23",
+      "event": "Members of the public began calling Ben Carter directly due to Brighton Fringe’s ticketing system failure, believing his personal number was the official Fringe contact line.",
+      "tags": [
+        "OPERATIONAL_BREAKDOWN",
+        "UNLAWFUL_BURDEN_SHIFT",
+        "SAFEGUARDING_DEFLECTION",
+        "INSTITUTIONAL_ABANDONMENT"
+      ],
+      "linked_evidence": [
+        "VEX_2025-05-23_Public_Confusion_Ticketing_Collapse"
+      ]
+    },
+    {
+      "id": "t2_brighton_fringe_consequences#2025-05-26",
+      "title": "Ben Carter met with the Puck venue owner to find a solution for Public Liability Insurance.",
+      "date": "2025-05-26",
+      "event": "Ben Carter met with the Puck venue owner to find a solution for Public Liability Insurance. Fringe's failure to track audience numbers made proper risk assessment impossible, undermining insurance procurement.",
+      "tags": [
+        "RISK_MANAGEMENT_BLOCKED",
+        "PLI_INACCESSIBLE",
+        "UNINSURABLE_EVENT",
+        "VENUE_SUPPORT_FAILURE"
+      ],
+      "linked_evidence": [
+        "VEX_2025-05-26_PLI_Uninsurable_Unticketed_Shows"
+      ]
+    },
+    {
+      "id": "t2_brighton_fringe_consequences#2025-05-10",
+      "title": "Screenshot from the Brighton Fringe registration portal shows Ben Carter selected 'No' to operating his own box office.",
+      "date": "2025-05-10",
+      "event": "Screenshot from the Brighton Fringe registration portal shows Ben Carter selected 'No' to operating his own box office. The system confirmed 'No further information is required,' binding Brighton Fringe to this responsibility.",
+      "tags": [
+        "CONTRACTUAL_CONFIRMATION",
+        "SYSTEMIC_BREACH_OF_DUTY",
+        "FRAUDULENT_BLAME_SHIFT",
+        "TRUST_COLLAPSE"
+      ],
+      "linked_evidence": [
+        "VEX_2025-05-10_Box_Office_Agreement_Breach"
+      ]
+    }
+  ]
+}

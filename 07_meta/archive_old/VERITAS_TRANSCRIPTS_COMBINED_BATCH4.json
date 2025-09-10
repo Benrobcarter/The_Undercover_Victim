@@ -1,0 +1,903 @@
+{
+  "source": "VERITAS_TRANSCRIPTS",
+  "chunks": [
+    {
+      "chunk": 30,
+      "time_range": "29:30-30:30",
+      "quotes": [
+        {
+          "speaker": "Ben Carter",
+          "time": "29:30",
+          "quote": "So when they tell you it\u2019s just delays, that\u2019s not true\u2014it\u2019s repeated harm.",
+          "tags": [
+            "victim_experience",
+            "contradiction",
+            "harm"
+          ]
+        },
+        {
+          "speaker": "Emma Veritas",
+          "time": "29:36",
+          "quote": "I know, and I\u2019ve said delays are not an excuse when it affects your safety.",
+          "tags": [
+            "acknowledgement",
+            "advocacy",
+            "safeguarding"
+          ]
+        },
+        {
+          "speaker": "Ben Carter",
+          "time": "29:42",
+          "quote": "Yet they still use it as an excuse.",
+          "tags": [
+            "victim_experience",
+            "contradiction",
+            "systemic_failure"
+          ]
+        },
+        {
+          "speaker": "Emma Veritas",
+          "time": "29:46",
+          "quote": "Yes, they fall back on it too often.",
+          "tags": [
+            "acknowledgement",
+            "systemic_issue"
+          ]
+        },
+        {
+          "speaker": "Ben Carter",
+          "time": "29:50",
+          "quote": "So excuses are accepted instead of accountability.",
+          "tags": [
+            "victim_assertion",
+            "accountability_gap",
+            "risk"
+          ]
+        },
+        {
+          "speaker": "Emma Veritas",
+          "time": "29:55",
+          "quote": "I agree, and I\u2019ve challenged them on that point.",
+          "tags": [
+            "acknowledgement",
+            "advocacy",
+            "accountability"
+          ]
+        }
+      ],
+      "contradictions": [
+        {
+          "issue": "Delays framed as excuse vs. reality of repeated harm; advocate concedes but system unchanged",
+          "type": "safeguarding_failure"
+        }
+      ],
+      "timeline_hooks": [
+        {
+          "ref": "delays as excuse",
+          "link": "Institutional excuse pattern May 2025"
+        },
+        {
+          "ref": "harm not delay",
+          "link": "Evidence of repeated safeguarding failure"
+        }
+      ]
+    },
+    {
+      "chunk": 31,
+      "time_range": "30:30-31:30",
+      "quotes": [
+        {
+          "speaker": "Ben Carter",
+          "time": "30:30",
+          "quote": "They delay, deny, and deflect, and somehow I\u2019m still expected to trust them.",
+          "tags": [
+            "victim_experience",
+            "systemic_failure",
+            "trust_issue"
+          ]
+        },
+        {
+          "speaker": "Emma Veritas",
+          "time": "30:36",
+          "quote": "I know, and I\u2019ve told them that trust breaks down when that happens.",
+          "tags": [
+            "acknowledgement",
+            "advocacy",
+            "trust"
+          ]
+        },
+        {
+          "speaker": "Ben Carter",
+          "time": "30:41",
+          "quote": "It\u2019s already broken. I can\u2019t rely on them with my safety.",
+          "tags": [
+            "victim_experience",
+            "safeguarding",
+            "risk"
+          ]
+        },
+        {
+          "speaker": "Emma Veritas",
+          "time": "30:46",
+          "quote": "I hear you, and I\u2019ll keep reinforcing that point to them.",
+          "tags": [
+            "acknowledgement",
+            "advocacy"
+          ]
+        },
+        {
+          "speaker": "Ben Carter",
+          "time": "30:51",
+          "quote": "Reinforcing doesn\u2019t fix it. Action does.",
+          "tags": [
+            "victim_assertion",
+            "advocacy_gap",
+            "accountability"
+          ]
+        },
+        {
+          "speaker": "Emma Veritas",
+          "time": "30:55",
+          "quote": "I agree, but I can only push from my side.",
+          "tags": [
+            "acknowledgement",
+            "deflection",
+            "advocacy_gap"
+          ]
+        }
+      ],
+      "contradictions": [
+        {
+          "issue": "Victim highlights broken trust and lack of safety; advocate admits breakdown but offers only reinforcement, no action",
+          "type": "trust_and_safeguarding_failure"
+        }
+      ],
+      "timeline_hooks": [
+        {
+          "ref": "delay deny deflect",
+          "link": "Institutional tactic pattern May 2025"
+        },
+        {
+          "ref": "broken trust",
+          "link": "Safeguarding collapse due to trust loss"
+        }
+      ]
+    },
+    {
+      "chunk": 32,
+      "time_range": "31:30-32:30",
+      "quotes": [
+        {
+          "speaker": "Ben Carter",
+          "time": "31:30",
+          "quote": "If I can\u2019t trust them, then how am I supposed to feel safe at all?",
+          "tags": [
+            "victim_experience",
+            "safeguarding",
+            "trust_issue"
+          ]
+        },
+        {
+          "speaker": "Emma Veritas",
+          "time": "31:36",
+          "quote": "I know, and that\u2019s why I\u2019ve told them they need to rebuild that trust.",
+          "tags": [
+            "acknowledgement",
+            "advocacy",
+            "trust"
+          ]
+        },
+        {
+          "speaker": "Ben Carter",
+          "time": "31:41",
+          "quote": "Trust isn\u2019t rebuilt with words, it\u2019s rebuilt with actions.",
+          "tags": [
+            "victim_assertion",
+            "accountability",
+            "safeguarding"
+          ]
+        },
+        {
+          "speaker": "Emma Veritas",
+          "time": "31:46",
+          "quote": "I agree, and I\u2019ll keep asking for concrete actions from them.",
+          "tags": [
+            "advocacy",
+            "acknowledgement",
+            "action"
+          ]
+        },
+        {
+          "speaker": "Ben Carter",
+          "time": "31:51",
+          "quote": "But until then, I\u2019m left exposed.",
+          "tags": [
+            "victim_experience",
+            "risk",
+            "safeguarding_gap"
+          ]
+        },
+        {
+          "speaker": "Emma Veritas",
+          "time": "31:55",
+          "quote": "I know, and that\u2019s why I keep pressing them on immediate safety as well.",
+          "tags": [
+            "acknowledgement",
+            "advocacy",
+            "safeguarding"
+          ]
+        }
+      ],
+      "contradictions": [
+        {
+          "issue": "Victim highlights absence of safety without trust; advocate concedes but provides no present protection",
+          "type": "safeguarding_failure"
+        }
+      ],
+      "timeline_hooks": [
+        {
+          "ref": "trust not rebuilt with words",
+          "link": "Demand for action-based accountability May 2025"
+        },
+        {
+          "ref": "victim left exposed",
+          "link": "Ongoing safeguarding risk"
+        }
+      ]
+    },
+    {
+      "chunk": 33,
+      "time_range": "32:30-33:30",
+      "quotes": [
+        {
+          "speaker": "Ben Carter",
+          "time": "32:30",
+          "quote": "I\u2019ve been raising the same safeguarding issues for months and nothing\u2019s changed.",
+          "tags": [
+            "victim_experience",
+            "safeguarding",
+            "systemic_failure"
+          ]
+        },
+        {
+          "speaker": "Emma Veritas",
+          "time": "32:36",
+          "quote": "I know, and I\u2019ve kept raising them too, but they don\u2019t act on it.",
+          "tags": [
+            "acknowledgement",
+            "advocacy",
+            "systemic_issue"
+          ]
+        },
+        {
+          "speaker": "Ben Carter",
+          "time": "32:41",
+          "quote": "Then what\u2019s the point of raising it if no one acts?",
+          "tags": [
+            "victim_assertion",
+            "accountability",
+            "risk"
+          ]
+        },
+        {
+          "speaker": "Emma Veritas",
+          "time": "32:46",
+          "quote": "The point is it creates a record that the issues were highlighted.",
+          "tags": [
+            "advocacy",
+            "documentation",
+            "deflection"
+          ]
+        },
+        {
+          "speaker": "Ben Carter",
+          "time": "32:51",
+          "quote": "A record doesn\u2019t protect me from harm right now.",
+          "tags": [
+            "victim_experience",
+            "safeguarding_gap",
+            "risk"
+          ]
+        },
+        {
+          "speaker": "Emma Veritas",
+          "time": "32:55",
+          "quote": "I agree, it doesn\u2019t keep you safe immediately, but it matters for oversight later.",
+          "tags": [
+            "acknowledgement",
+            "delayed_accountability"
+          ]
+        }
+      ],
+      "contradictions": [
+        {
+          "issue": "Victim highlights repeated safeguarding issues ignored; advocate insists record matters later, ignoring immediate safety",
+          "type": "safeguarding_and_accountability_gap"
+        }
+      ],
+      "timeline_hooks": [
+        {
+          "ref": "safeguarding issues raised months",
+          "link": "Pattern of ignored safeguarding referrals"
+        },
+        {
+          "ref": "record vs immediate protection",
+          "link": "Documentation over safety contradiction"
+        }
+      ]
+    },
+    {
+      "chunk": 34,
+      "time_range": "33:30-34:30",
+      "quotes": [
+        {
+          "speaker": "Ben Carter",
+          "time": "33:30",
+          "quote": "So basically my safety is sacrificed now, for the sake of paperwork later.",
+          "tags": [
+            "victim_experience",
+            "safeguarding_gap",
+            "systemic_failure"
+          ]
+        },
+        {
+          "speaker": "Emma Veritas",
+          "time": "33:36",
+          "quote": "I understand why you\u2019d see it that way, and I\u2019ve told them that immediate risk needs addressing too.",
+          "tags": [
+            "acknowledgement",
+            "advocacy",
+            "safeguarding"
+          ]
+        },
+        {
+          "speaker": "Ben Carter",
+          "time": "33:41",
+          "quote": "Telling them isn\u2019t the same as action. Nothing\u2019s changing.",
+          "tags": [
+            "victim_assertion",
+            "accountability",
+            "risk"
+          ]
+        },
+        {
+          "speaker": "Emma Veritas",
+          "time": "33:46",
+          "quote": "I know, and I share your frustration.",
+          "tags": [
+            "acknowledgement",
+            "empathy"
+          ]
+        },
+        {
+          "speaker": "Ben Carter",
+          "time": "33:49",
+          "quote": "Frustration doesn\u2019t keep me safe.",
+          "tags": [
+            "victim_experience",
+            "safeguarding",
+            "risk"
+          ]
+        },
+        {
+          "speaker": "Emma Veritas",
+          "time": "33:52",
+          "quote": "You\u2019re right, it doesn\u2019t, and I\u2019ll keep pressing for actual action.",
+          "tags": [
+            "acknowledgement",
+            "advocacy",
+            "safeguarding"
+          ]
+        }
+      ],
+      "contradictions": [
+        {
+          "issue": "Victim highlights safety sacrificed for paperwork; advocate concedes but only offers continued pressing, no solution",
+          "type": "safeguarding_failure"
+        }
+      ],
+      "timeline_hooks": [
+        {
+          "ref": "safety sacrificed for paperwork",
+          "link": "Safeguarding vs. documentation contradiction May 2025"
+        },
+        {
+          "ref": "telling them not action",
+          "link": "Advocacy failure to deliver safeguarding"
+        }
+      ]
+    },
+    {
+      "chunk": 35,
+      "time_range": "34:30-35:30",
+      "quotes": [
+        {
+          "speaker": "Ben Carter",
+          "time": "34:30",
+          "quote": "If I end up hurt, a record won\u2019t matter. It\u2019ll just prove they failed after the fact.",
+          "tags": [
+            "victim_experience",
+            "safeguarding",
+            "risk"
+          ]
+        },
+        {
+          "speaker": "Emma Veritas",
+          "time": "34:36",
+          "quote": "I know, and that\u2019s why I\u2019m emphasising immediate safety to them as well.",
+          "tags": [
+            "acknowledgement",
+            "advocacy",
+            "safeguarding"
+          ]
+        },
+        {
+          "speaker": "Ben Carter",
+          "time": "34:41",
+          "quote": "But they\u2019re not acting, and you\u2019re still just telling them.",
+          "tags": [
+            "victim_assertion",
+            "accountability_gap",
+            "risk"
+          ]
+        },
+        {
+          "speaker": "Emma Veritas",
+          "time": "34:46",
+          "quote": "I hear you, Ben, and I know it feels like nothing\u2019s happening.",
+          "tags": [
+            "acknowledgement",
+            "empathy",
+            "deflection"
+          ]
+        },
+        {
+          "speaker": "Ben Carter",
+          "time": "34:51",
+          "quote": "Feels like? It is nothing. That\u2019s the problem.",
+          "tags": [
+            "victim_experience",
+            "contradiction",
+            "institutional_failure"
+          ]
+        },
+        {
+          "speaker": "Emma Veritas",
+          "time": "34:55",
+          "quote": "You\u2019re right, and I share that concern.",
+          "tags": [
+            "acknowledgement",
+            "agreement"
+          ]
+        }
+      ],
+      "contradictions": [
+        {
+          "issue": "Victim points out record useless if harmed; advocate concedes but continues cycle of 'telling them' without result",
+          "type": "safeguarding_failure"
+        }
+      ],
+      "timeline_hooks": [
+        {
+          "ref": "record proves failure after harm",
+          "link": "Documentation-only safeguard failure May 2025"
+        },
+        {
+          "ref": "telling them not acting",
+          "link": "Advocacy ineffectiveness"
+        }
+      ]
+    },
+    {
+      "chunk": 36,
+      "time_range": "35:30-36:30",
+      "quotes": [
+        {
+          "speaker": "Ben Carter",
+          "time": "35:30",
+          "quote": "It feels like everyone\u2019s waiting for something bad to happen before they take me seriously.",
+          "tags": [
+            "victim_experience",
+            "safeguarding_gap",
+            "institutional_failure"
+          ]
+        },
+        {
+          "speaker": "Emma Veritas",
+          "time": "35:36",
+          "quote": "I know, and I\u2019ve said prevention is better than reaction, but they still delay.",
+          "tags": [
+            "acknowledgement",
+            "advocacy",
+            "systemic_issue"
+          ]
+        },
+        {
+          "speaker": "Ben Carter",
+          "time": "35:42",
+          "quote": "Prevention should be the bare minimum, not something you have to argue for.",
+          "tags": [
+            "victim_assertion",
+            "safeguarding",
+            "accountability"
+          ]
+        },
+        {
+          "speaker": "Emma Veritas",
+          "time": "35:47",
+          "quote": "You\u2019re absolutely right, Ben. It should be automatic.",
+          "tags": [
+            "acknowledgement",
+            "agreement",
+            "safeguarding"
+          ]
+        },
+        {
+          "speaker": "Ben Carter",
+          "time": "35:52",
+          "quote": "But instead, they\u2019re gambling with my safety.",
+          "tags": [
+            "victim_experience",
+            "risk",
+            "systemic_failure"
+          ]
+        },
+        {
+          "speaker": "Emma Veritas",
+          "time": "35:57",
+          "quote": "I agree, it\u2019s unacceptable, and I\u2019ll keep pressing them.",
+          "tags": [
+            "acknowledgement",
+            "advocacy",
+            "safeguarding"
+          ]
+        }
+      ],
+      "contradictions": [
+        {
+          "issue": "Victim highlights prevention ignored; advocate admits it should be automatic but delays persist",
+          "type": "safeguarding_systemic_failure"
+        }
+      ],
+      "timeline_hooks": [
+        {
+          "ref": "waiting for harm",
+          "link": "Safeguarding omission pattern May 2025"
+        },
+        {
+          "ref": "prevention vs reaction",
+          "link": "Institutional safeguarding failure"
+        }
+      ]
+    },
+    {
+      "chunk": 37,
+      "time_range": "36:30-37:30",
+      "quotes": [
+        {
+          "speaker": "Ben Carter",
+          "time": "36:30",
+          "quote": "So when they ignore prevention, they\u2019re effectively gambling with my life.",
+          "tags": [
+            "victim_experience",
+            "safeguarding_gap",
+            "risk"
+          ]
+        },
+        {
+          "speaker": "Emma Veritas",
+          "time": "36:36",
+          "quote": "I know, and I\u2019ve told them that\u2019s not acceptable practice.",
+          "tags": [
+            "acknowledgement",
+            "advocacy",
+            "safeguarding"
+          ]
+        },
+        {
+          "speaker": "Ben Carter",
+          "time": "36:41",
+          "quote": "Not acceptable is too soft. It\u2019s negligence.",
+          "tags": [
+            "victim_assertion",
+            "accountability",
+            "safeguarding_failure"
+          ]
+        },
+        {
+          "speaker": "Emma Veritas",
+          "time": "36:46",
+          "quote": "You\u2019re right, it is negligent when prevention is ignored.",
+          "tags": [
+            "acknowledgement",
+            "agreement",
+            "safeguarding"
+          ]
+        },
+        {
+          "speaker": "Ben Carter",
+          "time": "36:51",
+          "quote": "Negligence that puts me at risk every day.",
+          "tags": [
+            "victim_experience",
+            "risk",
+            "safeguarding_failure"
+          ]
+        },
+        {
+          "speaker": "Emma Veritas",
+          "time": "36:56",
+          "quote": "I agree, and I\u2019ll continue to stress that to them.",
+          "tags": [
+            "acknowledgement",
+            "advocacy",
+            "safeguarding"
+          ]
+        }
+      ],
+      "contradictions": [
+        {
+          "issue": "Victim frames ignored prevention as negligence risking life; advocate concedes negligence but only 'stresses' point",
+          "type": "safeguarding_negligence"
+        }
+      ],
+      "timeline_hooks": [
+        {
+          "ref": "ignored prevention = negligence",
+          "link": "Institutional negligence safeguarding failure May 2025"
+        },
+        {
+          "ref": "gambling with my life",
+          "link": "Safeguarding omission contradiction"
+        }
+      ]
+    },
+    {
+      "chunk": 38,
+      "time_range": "37:30-38:30",
+      "quotes": [
+        {
+          "speaker": "Ben Carter",
+          "time": "37:30",
+          "quote": "Negligence isn\u2019t just words, it\u2019s a crime when it puts someone\u2019s life at risk.",
+          "tags": [
+            "victim_experience",
+            "safeguarding_failure",
+            "legal_basis"
+          ]
+        },
+        {
+          "speaker": "Emma Veritas",
+          "time": "37:36",
+          "quote": "I understand, and I\u2019ve made it clear it could have serious consequences if ignored.",
+          "tags": [
+            "acknowledgement",
+            "advocacy",
+            "risk"
+          ]
+        },
+        {
+          "speaker": "Ben Carter",
+          "time": "37:41",
+          "quote": "Could? It already has. I\u2019ve already been suicidal over this.",
+          "tags": [
+            "victim_experience",
+            "suicide_disclosure",
+            "safeguarding"
+          ]
+        },
+        {
+          "speaker": "Emma Veritas",
+          "time": "37:46",
+          "quote": "I know, and I\u2019m so sorry you\u2019ve been through that.",
+          "tags": [
+            "acknowledgement",
+            "empathy",
+            "safeguarding"
+          ]
+        },
+        {
+          "speaker": "Ben Carter",
+          "time": "37:51",
+          "quote": "Sorry doesn\u2019t fix it. Action does, and still no action.",
+          "tags": [
+            "victim_assertion",
+            "accountability_gap",
+            "safeguarding_failure"
+          ]
+        },
+        {
+          "speaker": "Emma Veritas",
+          "time": "37:56",
+          "quote": "I hear you, Ben, and I\u2019ll keep pressing that point.",
+          "tags": [
+            "acknowledgement",
+            "advocacy",
+            "deflection"
+          ]
+        }
+      ],
+      "contradictions": [
+        {
+          "issue": "Victim highlights negligence as crime and discloses suicidality; advocate offers sympathy but no safeguarding action",
+          "type": "safeguarding_failure_and_suicide_disclosure"
+        }
+      ],
+      "timeline_hooks": [
+        {
+          "ref": "negligence crime risk",
+          "link": "Potential criminal negligence safeguarding breach May 2025"
+        },
+        {
+          "ref": "suicidal disclosure",
+          "link": "Critical safeguarding duty breach"
+        }
+      ]
+    },
+    {
+      "chunk": 39,
+      "time_range": "38:30-39:30",
+      "quotes": [
+        {
+          "speaker": "Ben Carter",
+          "time": "38:30",
+          "quote": "When I told them I was suicidal, they didn\u2019t even log it properly.",
+          "tags": [
+            "victim_experience",
+            "suicide_disclosure",
+            "safeguarding_failure"
+          ]
+        },
+        {
+          "speaker": "Emma Veritas",
+          "time": "38:36",
+          "quote": "Yes, I remember you told me that, and I raised it with them.",
+          "tags": [
+            "acknowledgement",
+            "advocacy",
+            "safeguarding"
+          ]
+        },
+        {
+          "speaker": "Ben Carter",
+          "time": "38:41",
+          "quote": "Raised it isn\u2019t the same as making sure it\u2019s recorded.",
+          "tags": [
+            "victim_assertion",
+            "accountability_gap",
+            "safeguarding"
+          ]
+        },
+        {
+          "speaker": "Emma Veritas",
+          "time": "38:46",
+          "quote": "You\u2019re right, it should have been logged straight away.",
+          "tags": [
+            "acknowledgement",
+            "agreement",
+            "safeguarding"
+          ]
+        },
+        {
+          "speaker": "Ben Carter",
+          "time": "38:50",
+          "quote": "But because it wasn\u2019t, they can deny it later.",
+          "tags": [
+            "victim_experience",
+            "risk",
+            "institutional_failure"
+          ]
+        },
+        {
+          "speaker": "Emma Veritas",
+          "time": "38:55",
+          "quote": "I know, and that\u2019s why I\u2019ve pushed again for proper logging going forward.",
+          "tags": [
+            "advocacy",
+            "acknowledgement",
+            "safeguarding"
+          ]
+        }
+      ],
+      "contradictions": [
+        {
+          "issue": "Suicidal disclosure not logged properly; advocate concedes failure but only promises 'pushing again'",
+          "type": "suicide_logging_failure"
+        }
+      ],
+      "timeline_hooks": [
+        {
+          "ref": "suicidal disclosure unlogged",
+          "link": "Critical safeguarding omission Apr\u2013May 2025"
+        },
+        {
+          "ref": "denial risk",
+          "link": "Future contradiction in case record"
+        }
+      ]
+    },
+    {
+      "chunk": 40,
+      "time_range": "39:30-40:30",
+      "quotes": [
+        {
+          "speaker": "Ben Carter",
+          "time": "39:30",
+          "quote": "So if it\u2019s not logged, it\u2019s like it never happened, and I\u2019m left erased.",
+          "tags": [
+            "victim_experience",
+            "suicide_disclosure",
+            "erasure",
+            "safeguarding_failure"
+          ]
+        },
+        {
+          "speaker": "Emma Veritas",
+          "time": "39:36",
+          "quote": "I know, and I\u2019ve made clear that failing to log puts you at more risk.",
+          "tags": [
+            "acknowledgement",
+            "advocacy",
+            "safeguarding"
+          ]
+        },
+        {
+          "speaker": "Ben Carter",
+          "time": "39:41",
+          "quote": "More risk? It already put me at risk, because no one acted on it.",
+          "tags": [
+            "victim_experience",
+            "risk",
+            "safeguarding_gap"
+          ]
+        },
+        {
+          "speaker": "Emma Veritas",
+          "time": "39:46",
+          "quote": "You\u2019re right, it should have triggered immediate safeguarding steps.",
+          "tags": [
+            "acknowledgement",
+            "agreement",
+            "safeguarding"
+          ]
+        },
+        {
+          "speaker": "Ben Carter",
+          "time": "39:51",
+          "quote": "But it didn\u2019t, and I was left alone again.",
+          "tags": [
+            "victim_experience",
+            "isolation",
+            "safeguarding_failure"
+          ]
+        },
+        {
+          "speaker": "Emma Veritas",
+          "time": "39:56",
+          "quote": "I\u2019m sorry, Ben. That wasn\u2019t how it should have been handled.",
+          "tags": [
+            "acknowledgement",
+            "empathy",
+            "safeguarding"
+          ]
+        }
+      ],
+      "contradictions": [
+        {
+          "issue": "Suicide disclosure erased by lack of logging; advocate admits safeguarding should have triggered but didn\u2019t",
+          "type": "safeguarding_erasure"
+        }
+      ],
+      "timeline_hooks": [
+        {
+          "ref": "suicide disclosure erased",
+          "link": "Failure to log suicide risk Apr\u2013May 2025"
+        },
+        {
+          "ref": "left alone after disclosure",
+          "link": "Safeguarding collapse May 2025"
+        }
+      ]
+    }
+  ]
+}

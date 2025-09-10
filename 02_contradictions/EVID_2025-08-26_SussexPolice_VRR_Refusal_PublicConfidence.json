@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "evidence_id": "EVID_2025-08-26_SussexPolice_VRR_Refusal_PublicConfidence",
+    "title": "VRR Refusal — Public Confidence Team (Ref IX/619/25)",
+    "created_at": "2025-08-30T23:14:14",
+    "type": "Email",
+    "from": "Public Confidence <Public.Confidence@sussex.police.uk>",
+    "to": [
+      "Ben Carter <benrobcarter@gmail.com>"
+    ],
+    "date": "2025-08-26T13:56:00",
+    "reference": "IX/619/25",
+    "crime_references": [
+      "47240214305",
+      "47240141246"
+    ],
+    "attachments": [],
+    "tags": [
+      "VRR_DENIED",
+      "VICTIMS_CODE_BREACH_RISK",
+      "SCHRODINGERS_CASE",
+      "GATEKEEPING",
+      "LIVE_CASE_EXCUSE"
+    ],
+    "version": "1.0.0"
+  },
+  "content": {
+    "subject": "Sussex Police - IX/619/25",
+    "body": "Dear Ben Carter,\n\nI refer to your Victim Right to Review (VRR) application dated 22.08.2025.\n\nThe Public Confidence Team assess all VRR applications that come into the force against the qualifying scheme criteria before they are accepted.\n\nI have to inform you that your application does not qualify due to the following reasons:\n\nThe crime reference supplied as 47240214305 is a live and ongoing investigation with a suspect linked to the case. There is no result to this matter, so this does not qualify for the VRR process.\n\nThe associated case which you are also requesting a VRR for 47240141246 was closed as NFA but as there is an associated master case still live this again does not qualify.\n\nOn this basis your application is invalid and will not be processed on this occasion.\n\nThere is no right of appeal of this decision at this time if the situation with the live case changes then please apply again and another assessment can be made.\n\nYours sincerely,\nPC Cox DC471\nPublic Confidence Team\n"
+  },
+  "links": {
+    "contradiction_threads": [
+      "VRR_VPS_SUPPRESSED",
+      "DEATH_BY_SILENCE",
+      "VICTIM_CREDIBILITY_ERASURE"
+    ],
+    "related_entities": [
+      "Sussex Police Public Confidence Team",
+      "PC Cox DC471"
+    ]
+  }
+}

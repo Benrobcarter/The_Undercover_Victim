@@ -1,0 +1,53 @@
+{
+  "meta": {
+    "evidence_id": "VEX_EMAIL_2025-02-12_1036_Paul_DOUBLE_16",
+    "thread_id": "EMAIL_THREAD_47240214305_DIXON_Carter",
+    "created_utc": "2025-08-30T02:12:33Z",
+    "date_local": "2025-02-12",
+    "time_local": "10:36",
+    "from": "Arran SHAVE <Arran.SHAVE1@norfolk.police.uk>",
+    "to": "Dixon, Jon EA817 <Jon.Dixon@sussex.police.uk>",
+    "cc": [
+      "Charmaine.Morton@norfolk.police.uk",
+      "Kevin.SAGON@norfolk.police.uk"
+    ],
+    "subject": "Paul DOUBLE",
+    "attachments": [
+      "PAUL DOUBLE INTERVIEW PLAN.docx",
+      "SOR (310824).pdf",
+      "Paul DOUBLE.eml"
+    ],
+    "clusters": [
+      "CRIME_REF_47240214305_THREAD",
+      "DEATH_BY_SILENCE",
+      "ACCESS_BARRIER",
+      "CROWBARRING_MYSELF_JUSTICE"
+    ],
+    "status": "verbatim_ingested",
+    "project_paths": {
+      "evidence_dst": "01_evidence/vex/email/"
+    }
+  },
+  "claim_summary": "Email preserved verbatim as part of 47240214305 thread.",
+  "key_points": [],
+  "contradictions": [],
+  "timeline_hooks": [
+    {
+      "when": "2025-02-12T10:36:00",
+      "tag": "EMAIL_THREAD_ACTIVITY",
+      "note": "Email: Paul DOUBLE"
+    }
+  ],
+  "cue_alignment": {
+    "status": "complete_from_user_text"
+  },
+  "cues": [
+    {
+      "index": 1,
+      "start": null,
+      "end": null,
+      "speaker": "Arran SHAVE <Arran.SHAVE1@norfolk.police.uk>",
+      "quote": "Hi Jon\nThank you for your help with this. DOUBLE is a registered sex offender and subject to the Sex\noffenders registration conditions, one of which is that he has to complete his weekly registration as\nhe is NFA. DOUBLE has breached this on 2 occasions, details below:\n1. 36/7202/25 – DOUBLE last registered on the 18/1/2025 and was therefore due to notify by the\n25/1/2025. He failed to do so and is therefore in breach of the requirement above.\n2. 36/543/25 - On 03/01/2025 PPU attended DOUBLE'S registered address of his mothers in\nNorwich 45, Tiercel Avenue, Norwich, NR78JN, where we were informed that he had not\nstayed there since the 7th December. Upon speaking with DOUBLE to find out his\nwhereabouts he confirmed that he was living NFA in Great Yarmouth and confirmed he had not\nregistered this therefore he has breached his notification requirements.\nI have included a small interview plan for the few questions required if you don’t mind. I have also\nattached a copy Sex offender requirements\nI have spoken to my supervisor Ds Charmaine MORTON, if you are looking to charge him with\nanything then a charging decision can be drawn up here. If your looking to bail him for yours then we\nare happy if you either bail him to myself with no conditions or release him under investigation again\nto myself and we will look to PR him at a later date.\nIf he is released please inform him that he needs to register straight away at a designated police\nstation in the area he is living so he can be managed by the Public protection team in that area,\nagain if he fails to complete this he will be in breach again.\nIn case he suggests his mothers address for bail, we spoke with her yesterday she does not want\nhim there.\nThank you again for your help with this.\nRegards\nArran\nDc 2157 Arran SHAVE\nPublic Protection Unit.\nNorfolk Constabulary\nBroadland Gate\nMaple Way\nPostwick\nNorwich\nNR13 5HB"
+    }
+  ]
+}

@@ -1,0 +1,333 @@
+{
+  "bundle_meta": {
+    "name": "WORKING_STATE_PATCH_2025-08-26_VEX_BUNDLE",
+    "created": "2025-08-26T03:53:34.805324Z",
+    "description": "One-file bundle: new VEX entries + alias + date locks + timeline patches.",
+    "notes": [
+      "Plain-English rules apply. No schema changes required for consumers that already accept 'patch' files and VEX entries.",
+      "Apply order below ensures aliases and date locks happen before timeline injection."
+    ]
+  },
+  "apply_order": [
+    "aliases",
+    "date_locks",
+    "timeline_patches",
+    "vex"
+  ],
+  "aliases": {
+    "patch_meta": {
+      "created": "2025-08-26T03:39:34.023619",
+      "name": "MANIFEST_ALIAS_PATCH_VERITAS_A10",
+      "description": "Keep Emma Jones as canonical; deprecate Ortiz file and map it as an alias of Emma Jones."
+    },
+    "aliases": {
+      "VEX_2025-03_to_05_Veritas_Ortiz_WhatsApp_A10.json": "VEX_2025-03_to_05_Veritas_EmmaJones_WhatsApp_A10.json"
+    },
+    "deprecations": [
+      {
+        "file": "VEX_2025-03_to_05_Veritas_Ortiz_WhatsApp_A10.json",
+        "action": "remove_from_index_keep_alias",
+        "reason": "Duplicate thread; earlier mislabel. Emma Jones confirmed correct."
+      }
+    ]
+  },
+  "date_locks": [
+    {
+      "patch_meta": {
+        "created": "2025-08-26T03:39:34.023570",
+        "name": "WORKING_STATE_PATCH_A09_DATE_LOCK",
+        "description": "Lock all entries in PC Dixon WhatsApp A09 to 2025-04-22 (Europe/London). Preserve times-of-day; replace only the date."
+      },
+      "targets": [
+        {
+          "file": "VEX_2025-03_to_04_PC_Dixon_WhatsApp_A09.json",
+          "ops": [
+            {
+              "op": "normalize_dates",
+              "strategy": "set_all_entries_to_single_date",
+              "date_local": "2025-04-22",
+              "timezone": "Europe/London",
+              "preserve_time_of_day": true,
+              "note": "Implements user directive: 'all on April 22nd'"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "timeline_patches": [
+    {
+      "patch_meta": {
+        "created": "2025-08-26T00:00:00Z",
+        "name": "TIMELINE_PATCH_2025-07-04_St_Johns_Front_Desk_LOCK_DATE",
+        "description": "Lock St John’s front desk event to 04 July 2025 and clear assumed flag."
+      },
+      "targets": [
+        {
+          "file": "VEX_2025-07-04_St_Johns_Front_Desk_Liz (3).json",
+          "ops": [
+            {
+              "op": "set_field",
+              "path": "content.meta.assumed_date_flag",
+              "value": false
+            },
+            {
+              "op": "set_field",
+              "path": "content.meta.date_local",
+              "value": "2025-07-04"
+            },
+            {
+              "op": "normalize_entries",
+              "strategy": "apply_date_if_missing",
+              "date_local": "2025-07-04"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "patch_meta": {
+        "created": "2025-08-26T00:00:00Z",
+        "name": "TIMELINE_BATCH_PATCH_2025-08-26_NEW_VEX",
+        "description": "Add Cordell (701211), Dec thread, Honeypot, and 3.43 companion to the master timeline with locked dates."
+      },
+      "targets": [
+        {
+          "file": "MASTER_TIMELINE_v2_2025-08-25_v2-4.csv",
+          "ops": [
+            {
+              "op": "append_event",
+              "event": {
+                "date": "2024-12-10",
+                "time": "",
+                "title": "Cordell email referencing legacy number 701211",
+                "source": "VEX_2024-12-10_Cordell_Email_701211.json",
+                "clusters": "DEATH_BY_SILENCE|CRIME_REF_47240214305_THREAD",
+                "notes": "Quotes pending; evidence entry created."
+              }
+            },
+            {
+              "op": "append_event",
+              "event": {
+                "date": "2024-12-12",
+                "time": "",
+                "title": "December email thread begins (safeguarding & chronology)",
+                "source": "VEX_2024-12-12_to_12-19_Email_Thread.json",
+                "clusters": "DEATH_BY_SILENCE|CRIME_REF_47240214305_THREAD",
+                "notes": "Range 12–19 Dec; quotes pending."
+              }
+            },
+            {
+              "op": "append_event",
+              "event": {
+                "date": "2024-12-19",
+                "time": "",
+                "title": "December email thread ends",
+                "source": "VEX_2024-12-12_to_12-19_Email_Thread.json",
+                "clusters": "DEATH_BY_SILENCE|CRIME_REF_47240214305_THREAD",
+                "notes": "End of December set; quotes pending."
+              }
+            },
+            {
+              "op": "append_event",
+              "event": {
+                "date": "2025-06-29",
+                "time": "",
+                "title": "“Honeypot” email sent",
+                "source": "VEX_2025-06-29_to_06-30_Honeypot_Email.json",
+                "clusters": "DEATH_BY_SILENCE|CRIME_REF_47240214305_THREAD",
+                "notes": "Follow-up next day; quotes pending."
+              }
+            },
+            {
+              "op": "append_event",
+              "event": {
+                "date": "2025-06-30",
+                "time": "",
+                "title": "“Honeypot” follow-up and impact",
+                "source": "VEX_2025-06-29_to_06-30_Honeypot_Email.json",
+                "clusters": "DEATH_BY_SILENCE|CRIME_REF_47240214305_THREAD",
+                "notes": "Quotes pending."
+              }
+            },
+            {
+              "op": "append_event",
+              "event": {
+                "date": "2024-12-10",
+                "time": "",
+                "title": "Section 3.43 companion live (links Dec items)",
+                "source": "VEX_2024-12-10_Section_3.43_Companion.json",
+                "clusters": "DEATH_BY_SILENCE",
+                "notes": "Navigation node; pulls together Dec components."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "vex": {
+    "VEX_2024-12-10_Cordell_Email_701211": {
+      "meta": {
+        "evidence_id": "VEX_2024-12-10_Cordell_Email_701211",
+        "title": "10 Dec 2024 — Email re: Legacy Number 701211 (Cordell)",
+        "created_at": "2025-08-26T00:00:00Z",
+        "type": "Email",
+        "date_local": "2024-12-10",
+        "parties": [
+          "Ben Carter",
+          "Cordell"
+        ],
+        "clusters": [
+          "DEATH_BY_SILENCE",
+          "CRIME_REF_47240214305_THREAD"
+        ],
+        "source_files": [
+          "EVID_2024-12-10_Cordell_Email_701211.json"
+        ]
+      },
+      "summary": "Email concerning legacy number 701211. Locks date and links to December thread. Awaiting final quote extraction from original email body.",
+      "police_position": "Pending verification; used as chronology marker supporting 701211 reference.",
+      "contradictions": [
+        "DEATH_BY_SILENCE_ESCALATION",
+        "CASE_CHRONOLOGY_ERASURE"
+      ],
+      "key_quotes": [],
+      "timeline_hooks": [
+        {
+          "date": "2024-12-10",
+          "title": "Cordell email: legacy number 701211 referenced",
+          "link": "EVID_2024-12-10_Cordell_Email_701211.json"
+        }
+      ],
+      "links": [],
+      "quote_status": "missing_source_text"
+    },
+    "VEX_2024-12-12_to_12-19_Email_Thread": {
+      "meta": {
+        "evidence_id": "VEX_2024-12-12_to_12-19_Email_Thread",
+        "title": "12–19 Dec 2024 — December Email Thread (Chronology + Safeguarding)",
+        "created_at": "2025-08-26T00:00:00Z",
+        "type": "Email thread",
+        "date_range_local": {
+          "start": "2024-12-12",
+          "end": "2024-12-19"
+        },
+        "parties": [
+          "Ben Carter",
+          "Sussex Police",
+          "Related contacts"
+        ],
+        "clusters": [
+          "DEATH_BY_SILENCE",
+          "CRIME_REF_47240214305_THREAD"
+        ],
+        "source_files": [
+          "ANALYSIS_3.43_DECEMBER_EMAIL_2024-12-10.json"
+        ]
+      },
+      "summary": "December thread covering chronology and safeguarding concerns. Dates locked. Ready for granular quote extraction per message.",
+      "police_position": "Unclear; used to show escalation and missing follow-up over this period.",
+      "contradictions": [
+        "CASE_CHRONOLOGY_ERASURE",
+        "MISSING_VICTIM_UPDATES"
+      ],
+      "key_quotes": [],
+      "timeline_hooks": [
+        {
+          "date": "2024-12-12",
+          "title": "Start of December email thread",
+          "link": "ANALYSIS_3.43_DECEMBER_EMAIL_2024-12-10.json"
+        },
+        {
+          "date": "2024-12-19",
+          "title": "End of December email thread",
+          "link": "ANALYSIS_3.43_DECEMBER_EMAIL_2024-12-10.json"
+        }
+      ],
+      "links": [],
+      "quote_status": "missing_source_text"
+    },
+    "VEX_2025-06-29_to_06-30_Honeypot_Email": {
+      "meta": {
+        "evidence_id": "VEX_2025-06-29_to_06-30_Honeypot_Email",
+        "title": "29–30 Jun 2025 — “Honeypot” Email and follow-up",
+        "created_at": "2025-08-26T00:00:00Z",
+        "type": "Email",
+        "date_range_local": {
+          "start": "2025-06-29",
+          "end": "2025-06-30"
+        },
+        "parties": [
+          "Ben Carter",
+          "Sussex Police"
+        ],
+        "clusters": [
+          "DEATH_BY_SILENCE",
+          "CRIME_REF_47240214305_THREAD"
+        ],
+        "source_files": []
+      },
+      "summary": "Email flagged as “honeypot” setup with follow-up next day. Dates locked; quotes to be injected from source capture.",
+      "police_position": "Pending; highlights suspected bait/entrapment framing and lack of appropriate safeguarding response.",
+      "contradictions": [
+        "MISUSE_OF_PROCESS",
+        "SAFETY_OVERLOOKED"
+      ],
+      "key_quotes": [],
+      "timeline_hooks": [
+        {
+          "date": "2025-06-29",
+          "title": "Honeypot email sent"
+        },
+        {
+          "date": "2025-06-30",
+          "title": "Honeypot follow-up / impact noted"
+        }
+      ],
+      "links": [],
+      "quote_status": "missing_source_text"
+    },
+    "VEX_2024-12-10_Section_3.43_Companion": {
+      "meta": {
+        "evidence_id": "VEX_2024-12-10_Section_3.43_Companion",
+        "title": "Companion VEX to Section 3.43 — December emails",
+        "created_at": "2025-08-26T00:00:00Z",
+        "type": "Analysis companion",
+        "date_local": "2024-12-10",
+        "parties": [
+          "Ben Carter",
+          "Sussex Police"
+        ],
+        "clusters": [
+          "DEATH_BY_SILENCE"
+        ],
+        "source_files": [
+          "ANALYSIS_3.43_DECEMBER_EMAIL_2024-12-10.json"
+        ]
+      },
+      "summary": "Short companion entry turning Section 3.43 into a VEX link node. Points to 10 Dec email and 12–19 Dec thread for quotes.",
+      "police_position": "To be confirmed from individual emails; this companion only connects the pieces.",
+      "contradictions": [
+        "CASE_CHRONOLOGY_ERASURE"
+      ],
+      "key_quotes": [],
+      "timeline_hooks": [
+        {
+          "date": "2024-12-10",
+          "title": "Section 3.43 companion live"
+        }
+      ],
+      "links": [
+        {
+          "title": "Cordell email",
+          "target": "VEX_2024-12-10_Cordell_Email_701211"
+        },
+        {
+          "title": "December thread",
+          "target": "VEX_2024-12-12_to_12-19_Email_Thread"
+        }
+      ]
+    }
+  }
+}

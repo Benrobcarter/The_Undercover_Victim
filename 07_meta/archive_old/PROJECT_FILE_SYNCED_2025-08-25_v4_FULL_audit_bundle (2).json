@@ -1,0 +1,199 @@
+{
+  "meta": {
+    "name": "PROJECT_FILE_SYNCED_2025-08-25_v4_FULL_audit_bundle",
+    "generated_at": "2025-08-25T20:49:43.594171Z",
+    "schema_version": "1.0"
+  },
+  "hashes": {
+    "BATCHA_consolidation_audit.json": {
+      "sha256": "7d686a882c2c8c1c2ad94c88a5ea91cd8d18572432df57f96b85637b7c51a224",
+      "size_bytes": 395
+    },
+    "CONTRADICTION_MATRIX_PHHC_BATCH_01.json": {
+      "sha256": "9766ea98e27df67a54ed2f6f909bfe43007a6137414baa41068ef2d632880326",
+      "size_bytes": 2861
+    },
+    "CRN-47240214305_DigitalPolicing_to_Ben_2025-04-07_THREAD.json": {
+      "sha256": "1b20beb7fbd235420ce260b076e866ad5fed7e0c29cd33848f30323262100f94",
+      "size_bytes": 1536
+    },
+    "CROSSWALK_DIGPOL_2024-11-04_batchA.json": {
+      "sha256": "fd0f18553221fc048309ec21d0765decbfc837349f395e4516b9829ccb94a823",
+      "size_bytes": 1782
+    },
+    "DUNCAN_ATTEMPTED_MURDER_CONTRADICTION_PATCH.json": {
+      "sha256": "48deda52bc26dd2c14015f4faa713ec9ec7cc7f83075c9fff0e135e61440cb1b",
+      "size_bytes": 37322
+    },
+    "DigitalPolicing_Batch_2024-11-04_A/2024-11-04_Digital-Policing_to_Ben_Evidence-Portal-Request.json": {
+      "sha256": "90871e841cd9071f440d5aabb74831804bb9c99af2b1cdd0a38898fc1c397c98",
+      "size_bytes": 4442
+    },
+    "DigitalPolicing_Batch_2024-11-04_A/2024-11-04_Digital-Policing_to_Ben_Jonathan-Dixon-Request.json": {
+      "sha256": "85eff8d9702cc1bd35bca6ebaa3ff9fe18ce33311c3c8cbc17b6775c2fd0efc8",
+      "size_bytes": 3522
+    },
+    "DigitalPolicing_Batch_2024-11-04_A/2024-11-13_Digital-Policing_to_Ben_Jonathan-Dixon-Request-1340.json": {
+      "sha256": "a2e2e188b228ad5a2a7fd5c8b31bff435a84c761127a4100f3a472ba06d7e7dd",
+      "size_bytes": 3670
+    },
+    "DigitalPolicing_Batch_2024-11-04_A/2024-11-13_Digital-Policing_to_Ben_Jonathan-Dixon-Request.json": {
+      "sha256": "306b9a792a2545f3330e838a40b0e8e713cb700e13585ce5deae4f5c25c87485",
+      "size_bytes": 3594
+    },
+    "DigitalPolicing_Batch_2024-11-04_A/2024-11-14_Digital-Policing_to_Ben_Jonathan-Dixon-Request-1158.json": {
+      "sha256": "0bc1e12cc43f1e482cb7fac2914ff0362803d6d77cba748902bda223281c9f0b",
+      "size_bytes": 3502
+    },
+    "DigitalPolicing_Batch_2024-11-04_A/2024-11-14_Digital-Policing_to_Ben_Jonathan-Dixon-Request-1159.json": {
+      "sha256": "bf0343ede733229b04072b5aa945e35cf0dfb28e6840a2a784d959089add1603",
+      "size_bytes": 3586
+    },
+    "DigitalPolicing_Batch_2024-11-04_A/BATCHA_consolidation_audit.json": {
+      "sha256": "7d686a882c2c8c1c2ad94c88a5ea91cd8d18572432df57f96b85637b7c51a224",
+      "size_bytes": 395
+    },
+    "DigitalPolicing_Batch_2024-11-04_A/BATCHA_diff_report.csv": {
+      "sha256": "26f1cb071ca8b2824032632c7b404ff44126bb2cabc8aea3f5c1d05bccc2bd23",
+      "size_bytes": 362
+    },
+    "DigitalPolicing_Batch_2024-11-04_A/CROSSWALK_DIGPOL_2024-11-04_batchA.json": {
+      "sha256": "fd0f18553221fc048309ec21d0765decbfc837349f395e4516b9829ccb94a823",
+      "size_bytes": 1782
+    },
+    "DigitalPolicing_Batch_2024-11-04_A/TRACKER_ROWS_DIGITAL_POLICING_2024-11-04_batchA.csv": {
+      "sha256": "291f106d61f1029d2cf6bacf9747ba09261e7b281d5a2f780cf4c9c486bbccd3",
+      "size_bytes": 2049
+    },
+    "DigitalPolicing_Batch_2024-11-04_A/TRACKER_ROWS_DIGITAL_POLICING_2024-11-04_batchA_CONSOLIDATED.csv": {
+      "sha256": "0d8cbc63a05ad42f1f1a328e762b430b3d4b3ad452965cf0c983dee74e139d54",
+      "size_bytes": 2518
+    },
+    "DigitalPolicing_Batch_2024-12-13/2024-12-13_Digital-Policing_to_Ben_Jonathan-Dixon-Request_Email-7.json": {
+      "sha256": "2c0683dc93b5a876d1c4a0f97fb806d7e8f6c68daf1845c530bece7c053f1480",
+      "size_bytes": 4098
+    },
+    "DigitalPolicing_Batch_2024-12-13/CROSSWALK_DIGPOL_2024-12-13_Email-7.json": {
+      "sha256": "8221f72f99466c6fa8f2694de262cfdfc8d3bdb6fb3b1406fc55ee519e63beba",
+      "size_bytes": 398
+    },
+    "DigitalPolicing_Batch_2024-12-13/TRACKER_ROW_2024-12-13_Digital-Policing_to_Ben_Jonathan-Dixon-Request_Email-7.csv": {
+      "sha256": "ae0dc7a35d01f8df466eceaa3e93d870fcb14bef998b5a30959bb43c61a1ae2f",
+      "size_bytes": 419
+    },
+    "EMAIL_EXHIBIT_TEMPLATE_v1.1.json": {
+      "sha256": "c0e05632210c2b09a71cb2dc67c30a7de56c7fc331b26d0a6f3c797a7cf0a465",
+      "size_bytes": 2309
+    },
+    "EMAIL_EXHIBIT_TEMPLATE_v1.2.json": {
+      "sha256": "b220ce16326e67c4db206d60929ac923a7afde9a84b10dba0e8bfeede4b3647c",
+      "size_bytes": 2659
+    },
+    "EXHIBIT_PIPELINE_README.txt": {
+      "sha256": "5a9c74df389c15ffe06cc61230528cdf34ff347505a58b23b544c0f339858385",
+      "size_bytes": 1000
+    },
+    "EXHIBIT_PIPELINE_README_v1.2.txt": {
+      "sha256": "ee5ae4c1cb17b7f2e85d78991bbbca5ad53c89cef6395413766f85151593d51b",
+      "size_bytes": 1428
+    },
+    "EX_VERITAS_CHAT_CONTRADICTION_2025.json": {
+      "sha256": "456311dec4626dac761922fd726197b27f38def330ff62c44e2e5f81a3113f35",
+      "size_bytes": 1032
+    },
+    "LIVE_VEX_TIMELINE_PATCHED_PEARSON_HANDOFF.json": {
+      "sha256": "8025baeb417cb1fb7e0f13bdf04e4d90d798dde8b8931cb0360d8981b7c9b74d",
+      "size_bytes": 3686
+    },
+    "MASTER_CONTRADICTIONS_INJECTED_2025-06-05.json": {
+      "sha256": "262f21baff1bda05828bac2fca234b0fd56fad6dd9d8ac2d27ff61ecd0beb44a",
+      "size_bytes": 12787
+    },
+    "MASTER_EVIDENCE_WORKBOOK_DASH_20250824-220341Z_NICE_FINAL_TIMELINE_PATCHED.xlsx": {
+      "sha256": "95133ca7ddfae0230b6060f06810490534d2963fee2da0720e903fc8a361e95d",
+      "size_bytes": 67928
+    },
+    "NICE_LINKS_INTAKE_ADD_2024-11-04-0536.csv": {
+      "sha256": "6b50348b9c5171312ab2f040d3debf3c959290fc103fe8bf09ac155069f67fdf",
+      "size_bytes": 416
+    },
+    "NICE_Timeline_PEARSON_HANDOFF_PATCH.csv": {
+      "sha256": "4600a3e95017a89986ae33964a1eeadade42a3b44b2d0a87803f8ee64ac830c4",
+      "size_bytes": 13597
+    },
+    "NICE_Timeline_PEARSON_HANDOFF_PATCH.json": {
+      "sha256": "c928242c06d24379e40ef4303d3ca0e6fed00d6f726af6b8158848e5d0b106a5",
+      "size_bytes": 11110
+    },
+    "PHHC_EMAILS_COMBINED_FULL.json": {
+      "sha256": "de8c96f9747337b7c6cfb95eb26a4cf53e736ae420bc9c036f04a839e4e4a909",
+      "size_bytes": 6584
+    },
+    "PHHC_VEX_TAGGED_EMAIL_TIMELINE_FULL.json": {
+      "sha256": "c8639523b58685599d6f4dfe2347ebbb1e73a05b65a77b9e38cc88bf9dcd75df",
+      "size_bytes": 388035
+    },
+    "PROJECT_FILE_SYNCED_2025-08-24_manifest.json": {
+      "sha256": "fa92c72b57e5a0a1a4d3cc1531c4d482cb7755a30be07b7dabfb8a2b7abde5da",
+      "size_bytes": 1166
+    },
+    "PUBLIC_BUNDLE_SUMMARY_SAR_SUSSEX_POLICE.json": {
+      "sha256": "6800c8eea045fc1e78825f8a7e4d1aa2305356e27d259e681ec4384468d16669",
+      "size_bytes": 1344
+    },
+    "README_DIGPOL_FULL_1-10.txt": {
+      "sha256": "49b0ebaae929bddb4f001f651e47308b699ba1e01673e97bfa0813047ae4d3cf",
+      "size_bytes": 1014
+    },
+    "README_DIGPOL_JSON_7-10.txt": {
+      "sha256": "49833824a8f283dbbd0ee364103c2314c2604fb71fcf562304219e5c81287285",
+      "size_bytes": 434
+    },
+    "README_NICE_LINK_B_2024-12-13.txt": {
+      "sha256": "735b773ce866e9092bc612b7bda9792a217b9f08838382c3783707d8f104da04",
+      "size_bytes": 555
+    },
+    "README_NPL_PIPELINE.md": {
+      "sha256": "d717fc8360c9a86b2be6d7af92b652b886a1d3f9ca45e61b4bc8c9ecde7566f7",
+      "size_bytes": 6932
+    },
+    "TRACKER_ROW_2024-11-04-0536_Digital-Policing_to_Ben.csv": {
+      "sha256": "91f0ab263283056a8836fe37a5c61fd74b55a990db736b1507605a9de572af1b",
+      "size_bytes": 458
+    },
+    "UNIVERSAL_VEX_ENFORCEMENT_DIRECTIVE.json": {
+      "sha256": "c8866edab4bd10c8583010abf584f27bb228d457c73b7dae7cfd16cbea24c146",
+      "size_bytes": 1170
+    },
+    "manifest.json": {
+      "sha256": "29400b7b6ff34c466733cc26f2ca505e295b9c09629126d815254c40c79b848f",
+      "size_bytes": 681
+    },
+    "project_batch_workflow_module.py": {
+      "sha256": "b2a6c4b528ed233130a21ac7a8fdf64c88e396d5b9a336823427e985fd30d4a5",
+      "size_bytes": 10376
+    },
+    "unified_audit_report.json": {
+      "sha256": "2bf5ec181b1db9793c2308e88af902878d0aa1b44b2a5ff9f9113ec22f057b5e",
+      "size_bytes": 4638
+    }
+  },
+  "delta_vs_2025-08-24": {
+    "added": [
+      "BATCHA_consolidation_audit.json",
+      "CRN-47240214305_DigitalPolicing_to_Ben_2025-04-07_THREAD.json",
+      "CROSSWALK_DIGPOL_2024-11-04_batchA.json",
+      "DUNCAN_ATTEMPTED_MURDER_CONTRADICTION_PATCH.json",
+      "DigitalPolicing_Batch_2024-12-13/2024-12-13_Digital-Policing_to_Ben_Jonathan-Dixon-Request_Email-7.json",
+      "DigitalPolicing_Batch_2024-12-13/CROSSWALK_DIGPOL_2024-12-13_Email-7.json",
+      "DigitalPolicing_Batch_2024-12-13/TRACKER_ROW_2024-12-13_Digital-Policing_to_Ben_Jonathan-Dixon-Request_Email-7.csv",
+      "PUBLIC_BUNDLE_SUMMARY_SAR_SUSSEX_POLICE.json",
+      "README_DIGPOL_FULL_1-10.txt",
+      "README_DIGPOL_JSON_7-10.txt",
+      "README_NICE_LINK_B_2024-12-13.txt",
+      "README_NPL_PIPELINE.md"
+    ],
+    "removed": [],
+    "changed": []
+  }
+}

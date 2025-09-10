@@ -1,0 +1,7 @@
+{
+  "active_project_zip": "SLEEK_PROJECT_v1.3_2025-08-26.zip",
+  "sha256": "946ccefaf61c7566f96dcdcfdd43f5486c80373ee937996f5addd3cc987b58fe",
+  "version": "v1.3",
+  "generated_utc": "2025-08-26T17:35:01Z",
+  "notes": "Adds placeholder system: per-folder evidence dirs, schema fields, README, and requests file."
+}

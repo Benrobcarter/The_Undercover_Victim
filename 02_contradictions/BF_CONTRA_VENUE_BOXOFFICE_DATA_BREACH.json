@@ -1,0 +1,27 @@
+{
+  "id": "BF_CONTRA_VENUE_BOXOFFICE_DATA_BREACH",
+  "title": "Breach of Venue Manager Agreement — Box Office Data and Autonomy",
+  "email_subject": "External Booking Details",
+  "clause_breached": "Brighton Fringe Ltd. and its staff shall coordinate ticketing with venue managers and not override venue systems without permission.",
+  "claim": "Venue managers retain authority over their own bookings and customer data. Brighton Fringe must not contact audience members directly without lawful basis or consent.",
+  "reality": "Brighton Fringe Box Office requested direct access to customer contact information booked via Half A Camel. The venue was bypassed, and data was sought without consent, risking GDPR violations and damaging venue autonomy.",
+  "vex_tags": [
+    "BOX_OFFICE_REALLOCATION_FAILURE",
+    "VENUE_CUSTOMER_DATA_REQUESTED",
+    "GDPR_RISK_UNAUTHORISED_CONTACT",
+    "OPERATIONAL_BOUNDARY_CROSSING",
+    "VENUE_AUTONOMY_IGNORED"
+  ],
+  "linked_evidence": [
+    "EMAIL_2025-04-22_BoxOffice_Requesting_Private_Booker_Details"
+  ],
+  "linked_timeline_ids": [
+    "t2_brighton_fringe_consequences#2025-04-22"
+  ],
+  "linked_sub_contradictions": [
+    "BF-CONTRA-VENUE-MANAGER-CONTRACT-BREACHES-2025"
+  ],
+  "status": "active",
+  "notes": "This incident illustrates systemic override of venue independence, further undermining Brighton Fringe’s contractual obligations and legal safeguards.",
+  "created_at": "2025-09-01T13:08:31.323397Z"
+}

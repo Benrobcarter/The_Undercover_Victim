@@ -1,0 +1,46 @@
+{
+  "meta": {
+    "evidence_id": "VEX_EMAIL_2024-11-04_1531_47240214305_1",
+    "thread_id": "EMAIL_THREAD_47240214305_DIXON_Carter",
+    "created_utc": "2025-08-30T02:12:33Z",
+    "date_local": "2024-11-04",
+    "time_local": "15:31",
+    "from": "Dixon, Jon EA817 <Jon.Dixon@sussex.police.uk>",
+    "to": "Ben Carter <benrobcarter@gmail.com>",
+    "cc": [],
+    "subject": "47240214305",
+    "attachments": [],
+    "clusters": [
+      "CRIME_REF_47240214305_THREAD",
+      "DEATH_BY_SILENCE",
+      "ACCESS_BARRIER",
+      "CROWBARRING_MYSELF_JUSTICE"
+    ],
+    "status": "verbatim_ingested",
+    "project_paths": {
+      "evidence_dst": "01_evidence/vex/email/"
+    }
+  },
+  "claim_summary": "Email preserved verbatim as part of 47240214305 thread.",
+  "key_points": [],
+  "contradictions": [],
+  "timeline_hooks": [
+    {
+      "when": "2024-11-04T15:31:00",
+      "tag": "EMAIL_THREAD_ACTIVITY",
+      "note": "Email: 47240214305"
+    }
+  ],
+  "cue_alignment": {
+    "status": "complete_from_user_text"
+  },
+  "cues": [
+    {
+      "index": 1,
+      "start": null,
+      "end": null,
+      "speaker": "Dixon, Jon EA817 <Jon.Dixon@sussex.police.uk>",
+      "quote": "Hi Ben\nI am the officer in charge for your case with Sussex Police, ref 47240214305\nTo update you, the suspect was interviewed (they denied the allegation). They have been released with conditions\nnot to contact you directly or indirectly and not to go to your address. Obviously, this works both ways so please\nrefrain from contacting her as well.\nI will update you as the case progresses, but for the next month or two at least we will be awaiting results of the\nsuspect’s seized mobile phone examination.\nI contacted you and left a voicemail earlier in regard to yourself sending across evidence that had been requested\nby attending officers. Can you confirm you can still do this and then I can send a NICE upload link across to you.\nRegards\nPC DIXON\nEA817\nYou can report crime and incidents online at\nhttps://www.sussex.police.uk/report-online\nWe want to know your views - see what’s new and give us your feedback and suggestions at\nwww.sussex.police.uk\nIf you have received this message in error, please contact the sender as soon as possible - you may not copy it,\nor make use of any information contained in it for any purpose, or disclose its contents to any other person.\nMessages sent and received by Sussex Police are not private and may be the subject of monitoring."
+    }
+  ]
+}

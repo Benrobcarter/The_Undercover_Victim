@@ -1,0 +1,45 @@
+{
+  "meta": {
+    "thread_type": "Duplicate Digital Policing portal requests (same minute)",
+    "case_reference": "47240214305",
+    "date": "2025-04-07",
+    "time": "14:03",
+    "created_at_utc": "2025-08-25T00:03:56.640083Z",
+    "human_exhibit_names": [
+      "CRN-47240214305_DigitalPolicing_to_Ben_2025-04-07_Email-9.pdf",
+      "CRN-47240214305_DigitalPolicing_to_Ben_2025-04-07_Email-10.pdf"
+    ]
+  },
+  "nice_investigate_ids": [
+    "vd25193a0b7164b11b522a893905f095c",
+    "v8e0832c7897846e1acc9255afb63525d"
+  ],
+  "exhibits": [
+    {
+      "label": "Email-9",
+      "filename": "CRN-47240214305_DigitalPolicing_to_Ben_2025-04-07_Email-9.pdf",
+      "expires": "2025-04-21",
+      "notes": "Digital Policing portal request – first of two sent at 14:03"
+    },
+    {
+      "label": "Email-10",
+      "filename": "CRN-47240214305_DigitalPolicing_to_Ben_2025-04-07_Email-10.pdf",
+      "expires": "2025-04-21",
+      "notes": "Digital Policing portal request – second of two sent at 14:03"
+    }
+  ],
+  "contradiction_links": [
+    {
+      "id": "LOST_EVIDENCE_SUSSEX_POLICE",
+      "rationale": "Duplicate portal requests indicate confusion or loss in prior submissions."
+    },
+    {
+      "id": "CROWBARRING_MYSELF_JUSTICE",
+      "rationale": "Repeated uploads demanded of the victim within the same minute."
+    }
+  ],
+  "timeline_hook": {
+    "thread": "NICE_LINK_BATCH_B",
+    "event": "Two duplicate Digital Policing portal requests at 14:03 with same-day wording and distinct IDs; both expiring 21/04/2025."
+  }
+}

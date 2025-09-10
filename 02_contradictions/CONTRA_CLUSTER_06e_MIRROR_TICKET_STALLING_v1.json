@@ -1,0 +1,107 @@
+{
+  "contradictions": [
+    {
+      "id": "CONTRA_2025-05-05_Eventotron_Payment_Based_On_Manipulated_Partnership_Promise",
+      "title": "Eventotron Payment Made in Good Faith Based on Manipulated Partnership Promise",
+      "claim": "Half a Camel operated as an independent and non-compliant platform, separate from Brighton Fringe.",
+      "reality": "Ben Carter paid Eventotron £250 to implement a mirror ticketing system under guidance from Brighton Fringe. This was a stall tactic used to delay brochure printing and ensure he couldn't act independently before being erased.",
+      "actors": [
+        "Brighton Fringe",
+        "Alice Wright"
+      ],
+      "laws": [
+        {
+          "act": "Fraud Act 2006",
+          "section": "s.2",
+          "why": "False representation of partnership"
+        },
+        {
+          "act": "Companies Act 2006",
+          "section": "s.174",
+          "why": "Failure to act with care and honesty"
+        }
+      ],
+      "tags": [
+        "COLLABORATION_AS_DEFLECTION",
+        "STALLED_IN_GOOD_FAITH",
+        "SAFEGUARDING_DEFLECTION",
+        "GOOD_FAITH_USED_AS_TRAP"
+      ],
+      "timeline_hooks": [
+        "t2_brighton_fringe_consequences#2025-05-05"
+      ],
+      "evidence_refs": [
+        "RECEIPT_2025-05-05_Eventotron_Payment",
+        "EMAIL_2025-05-05_Alice_Partnership_Promise"
+      ],
+      "created_at": "2025-08-31T19:47:48.845024Z"
+    },
+    {
+      "id": "CONTRA_2025-05-06_Shows_Were_Still_Growing_But_I_Was_Being_Blocked",
+      "title": "Shows and Venues Still Registering While Carter Was Being Covertly Stalled",
+      "claim": "Operational failure necessitated immediate removal of Half a Camel.",
+      "reality": "New venues and shows (Maris & Otter, Alec Crane) were still registering under Half a Camel through May 6. While operations were growing, Fringe staff were deflecting and isolating the infrastructure to create future reputational collapse.",
+      "actors": [
+        "Brighton Fringe",
+        "Box Office",
+        "Alice Wright"
+      ],
+      "laws": [
+        {
+          "act": "Consumer Rights Act 2015",
+          "section": "s.49",
+          "why": "Misuse of payment under misleading framing"
+        }
+      ],
+      "tags": [
+        "ONGOING_ACTIVITY_PROVEN_ERASURE",
+        "SAFEGUARDING_DEFLECTION",
+        "STALLED_IN_GOOD_FAITH",
+        "NARRATIVE_REPLACEMENT"
+      ],
+      "timeline_hooks": [
+        "t2_brighton_fringe_consequences#2025-05-06"
+      ],
+      "evidence_refs": [
+        "EVENTOTRON_2025-05-06_Maris_And_Alec"
+      ],
+      "created_at": "2025-08-31T19:47:48.845040Z"
+    },
+    {
+      "id": "CONTRA_2025-07-18_Brochure_Erased_After_Strategic_Delay",
+      "title": "Fringe Accused Carter of Not Delivering Brochure They Strategically Delayed",
+      "claim": "Ben Carter failed to deliver basic marketing assets such as the festival brochure.",
+      "reality": "The 2025 brochure was fully designed and ready to print. Brighton Fringe’s delayed approvals and contradictory guidance made printing legally uncertain. The absence was then used in a defamatory July 18 email.",
+      "actors": [
+        "Brighton Fringe",
+        "Duncan Lustig-Prean"
+      ],
+      "laws": [
+        {
+          "act": "Defamation Act 2013",
+          "section": "Serious Harm",
+          "why": "Libel through misrepresentation"
+        },
+        {
+          "act": "Charities Act 2011",
+          "section": "s.177",
+          "why": "Breach of trust and institutional honesty"
+        }
+      ],
+      "tags": [
+        "BROCHURE_ERASURE_VIA_DELAY_STRATEGY",
+        "DEFAMATION_THROUGH_OMISSION",
+        "GOOD_FAITH_USED_AS_TRAP",
+        "LIBEL_ACTION_DISGUISED_AS_NEUTRAL_UPDATE"
+      ],
+      "timeline_hooks": [
+        "t2_brighton_fringe_consequences#2025-07-18"
+      ],
+      "evidence_refs": [
+        "BROCHURE_PROOF_2025",
+        "EMAIL_2025-07-18_Libel_Message"
+      ],
+      "created_at": "2025-08-31T19:47:48.845043Z"
+    }
+  ]
+}

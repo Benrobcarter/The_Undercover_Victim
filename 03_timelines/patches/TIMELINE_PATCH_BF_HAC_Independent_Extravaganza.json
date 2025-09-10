@@ -1,0 +1,33 @@
+{
+  "patch_id": "TIMELINE_PATCH_BF_HAC_Independent_Extravaganza",
+  "scope": "t2_brighton_fringe_consequences",
+  "events": [
+    {
+      "when": "2024-09-05",
+      "title": "HAC announces independent November Comedy Extravaganza",
+      "summary": "Email to multiple acts; four confirmed venues; Eventotron registration; no Fringe involvement.",
+      "links": [
+        "01_evidence/vex/brighton_fringe/EVID_2024-09-05_Half_A_Camel_November_Comedy_Extravaganza_Announcement.json",
+        "02_contradictions/CONTRA_2024-09-05_HAC_Independent_Extravaganza.json"
+      ],
+      "tags": [
+        "INDEPENDENT_FRINGE_EXPANSION",
+        "VENUE_SCALING_PROOF",
+        "NARRATIVE_REPLACEMENT"
+      ]
+    },
+    {
+      "when": "2024-11-01",
+      "title": "HAC delivers independent two-week city programme",
+      "summary": "Shows run across Caxton Arms, Joker, 3 Jolly Butchers, and Bleach/Hare & Hounds.",
+      "links": [
+        "02_contradictions/CONTRA_2024-09-05_HAC_Independent_Extravaganza.json"
+      ],
+      "tags": [
+        "DELIVERY",
+        "COMEDY_SEASON",
+        "BRIGHTON_FRINGE"
+      ]
+    }
+  ]
+}

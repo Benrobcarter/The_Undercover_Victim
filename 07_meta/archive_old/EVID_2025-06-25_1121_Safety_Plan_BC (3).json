@@ -1,0 +1,452 @@
+{
+  "id": "EVID_2025-06-25_1121_Safety_Plan_BC",
+  "filename_original": "Safety Plan BC .pdf",
+  "filename_suggested": "EVID_2025-06-25_1121_Safety_Plan_BC.pdf",
+  "file_path": "/mnt/data/Safety Plan BC .pdf",
+  "file_mime_type": "application/pdf",
+  "title": "Safety Plan (Attachment)",
+  "date_iso": "2025-06-25T11:21:00+01:00",
+  "timezone": "Europe/London",
+  "undated_flag": false,
+  "evidence_type": "safety_plan",
+  "vex_tags": [
+    "EMAIL_ATTACHMENT",
+    "EXTERNAL_ANCHOR",
+    "SAFETY_PLAN",
+    "VICTIMS_CODE"
+  ],
+  "new_tag_definitions": {
+    "SAFETY_PLAN": "Personal safety or support plan created by a support service.",
+    "EXTERNAL_ANCHOR": "Third‑party document that independently confirms state, risk, or actions.",
+    "EMAIL_ATTACHMENT": "Document is an attachment to an email; inherits that email's timestamp as anchor."
+  },
+  "contradictions": [],
+  "timeline_hooks": [
+    "EmailAttachment",
+    "ExternalConfirmations"
+  ],
+  "legal_refs": [
+    "VictimsCode"
+  ],
+  "related_case_refs": [
+    "47240141246",
+    "47240214305",
+    "CIT1201684"
+  ],
+  "death_by_silence_metrics": {
+    "duty_to_act_date": null,
+    "elapsed_days": null
+  },
+  "ocr_text_path": "/mnt/data/EVID_2025-06-25_1121_Safety_Plan_BC_OCR.txt",
+  "status": "ocr_parsed",
+  "notes": "Auto-generated evidence stub; ready for OCR and sentence-level VEX once text is extracted. | Promoted from undated stub and linked as attachment to parent email. | Internal document date detected: last_updated_on=2024-11-25. Review context: plan marked 'Active' while support was withdrawn via 11:07 email; ensure continuity of safeguarding obligations post-withdrawal. | Reconciliation report created; similarity=0.98.",
+  "attachment_of": "EVID_2025-06-25_1121_Your_Safety_Plan",
+  "extracted_fields": {
+    "client_name": "BEN CARTER",
+    "sections": {
+      "Keeping Safe At Home": [
+        "Consider sanctuary, security measures, fire alarms, neighbours, police flag, where to go if in danger, safe rooms/spaces, escape routes, alternative housing options and injunctions.",
+        "Consider door brace/window alarms",
+        "Keep doors and windows locked",
+        "History markers on details",
+        "Keep neighbours/family/work colleagues informed (where possible)",
+        "Consider cameras (doorbell camera/CCTV)"
+      ],
+      "Keeping Safe Out And About": [
+        "Carry personal alarm",
+        "Download Hollie Guard app",
+        "Keep mobile phone charged",
+        "Avoid routines and vary times where possible",
+        "Avoid quiet back routes and stick to main roads",
+        "If confronted in person, get to nearest shop or house and call 999",
+        "Check for trackers on vehicle, if applicable",
+        "If trackers or listening devices found, do not remove; inform police",
+        "If being followed in a car, drive to police station or petrol station and call 999"
+      ],
+      "Keeping Safe On My Phone And Online": [
+        "Change iCloud password",
+        "Check apps for locations – set to 'never' or 'while using'",
+        "Review iPhone Significant Locations",
+        "Check fingerprint/face ID and remove any unknown biometrics",
+        "Set social media privacy to highest",
+        "Avoid sharing location on Find My, WhatsApp, Messenger; disable exact location on Instagram",
+        "Change Wi‑Fi router password (follow provider instructions)",
+        "Avoid blocking numbers; do not unblock if you already have",
+        "Keep evidence: texts, emails, call logs"
+      ],
+      "Reporting": [
+        "Report incidents via 101 or online at Sussex Police site",
+        "In an emergency, dial 999",
+        "24 hr National Domestic Violence Helpline: 0808 2000 247"
+      ]
+    },
+    "links": [
+      "https://support.apple.com/en-gb/HT207092"
+    ],
+    "document_meta": {
+      "last_updated_on": "2024-11-25",
+      "plan_status": "Active",
+      "pages_reported": "Page 1 of 2"
+    }
+  },
+  "vex": {
+    "sentences": [
+      {
+        "text": "Consider sanctuary, security measures, fire alarms, neighbours, police flag, where to go if in danger, safe rooms/spaces, escape routes, alternative housing options and injunctions.",
+        "tags": [
+          "HOME_SECURITY",
+          "RISK_MITIGATION"
+        ],
+        "tones": [
+          "practical",
+          "risk_mitigation"
+        ],
+        "contradictions": []
+      },
+      {
+        "text": "Consider door brace/window alarms",
+        "tags": [
+          "HOME_SECURITY",
+          "RISK_MITIGATION"
+        ],
+        "tones": [
+          "practical",
+          "risk_mitigation"
+        ],
+        "contradictions": []
+      },
+      {
+        "text": "Keep doors and windows locked",
+        "tags": [
+          "HOME_SECURITY",
+          "RISK_MITIGATION"
+        ],
+        "tones": [
+          "practical",
+          "risk_mitigation"
+        ],
+        "contradictions": []
+      },
+      {
+        "text": "History markers on details",
+        "tags": [
+          "HOME_SECURITY",
+          "RISK_MITIGATION"
+        ],
+        "tones": [
+          "practical",
+          "risk_mitigation"
+        ],
+        "contradictions": []
+      },
+      {
+        "text": "Keep neighbours/family/work colleagues informed (where possible)",
+        "tags": [
+          "HOME_SECURITY",
+          "RISK_MITIGATION"
+        ],
+        "tones": [
+          "practical",
+          "risk_mitigation"
+        ],
+        "contradictions": []
+      },
+      {
+        "text": "Consider cameras (doorbell camera/CCTV)",
+        "tags": [
+          "HOME_SECURITY",
+          "RISK_MITIGATION"
+        ],
+        "tones": [
+          "practical",
+          "risk_mitigation"
+        ],
+        "contradictions": []
+      },
+      {
+        "text": "Carry personal alarm",
+        "tags": [
+          "OUT_AND_ABOUT",
+          "RISK_MITIGATION"
+        ],
+        "tones": [
+          "practical",
+          "risk_mitigation"
+        ],
+        "contradictions": []
+      },
+      {
+        "text": "Download Hollie Guard app",
+        "tags": [
+          "OUT_AND_ABOUT",
+          "RISK_MITIGATION"
+        ],
+        "tones": [
+          "practical",
+          "risk_mitigation"
+        ],
+        "contradictions": []
+      },
+      {
+        "text": "Keep mobile phone charged",
+        "tags": [
+          "OUT_AND_ABOUT",
+          "RISK_MITIGATION"
+        ],
+        "tones": [
+          "practical",
+          "risk_mitigation"
+        ],
+        "contradictions": []
+      },
+      {
+        "text": "Avoid routines and vary times where possible",
+        "tags": [
+          "OUT_AND_ABOUT",
+          "RISK_MITIGATION"
+        ],
+        "tones": [
+          "practical",
+          "risk_mitigation"
+        ],
+        "contradictions": []
+      },
+      {
+        "text": "Avoid quiet back routes and stick to main roads",
+        "tags": [
+          "OUT_AND_ABOUT",
+          "RISK_MITIGATION"
+        ],
+        "tones": [
+          "practical",
+          "risk_mitigation"
+        ],
+        "contradictions": []
+      },
+      {
+        "text": "If confronted in person, get to nearest shop or house and call 999",
+        "tags": [
+          "OUT_AND_ABOUT",
+          "RISK_MITIGATION"
+        ],
+        "tones": [
+          "practical",
+          "risk_mitigation"
+        ],
+        "contradictions": []
+      },
+      {
+        "text": "Check for trackers on vehicle, if applicable",
+        "tags": [
+          "OUT_AND_ABOUT",
+          "RISK_MITIGATION"
+        ],
+        "tones": [
+          "practical",
+          "risk_mitigation"
+        ],
+        "contradictions": []
+      },
+      {
+        "text": "If trackers or listening devices found, do not remove; inform police",
+        "tags": [
+          "OUT_AND_ABOUT",
+          "RISK_MITIGATION"
+        ],
+        "tones": [
+          "practical",
+          "risk_mitigation"
+        ],
+        "contradictions": []
+      },
+      {
+        "text": "If being followed in a car, drive to police station or petrol station and call 999",
+        "tags": [
+          "OUT_AND_ABOUT",
+          "RISK_MITIGATION"
+        ],
+        "tones": [
+          "practical",
+          "risk_mitigation"
+        ],
+        "contradictions": []
+      },
+      {
+        "text": "Change iCloud password",
+        "tags": [
+          "PHONE_ONLINE_SECURITY",
+          "EVIDENCE_PRESERVATION",
+          "RISK_MITIGATION"
+        ],
+        "tones": [
+          "practical",
+          "risk_mitigation"
+        ],
+        "contradictions": []
+      },
+      {
+        "text": "Check apps for locations – set to 'never' or 'while using'",
+        "tags": [
+          "PHONE_ONLINE_SECURITY",
+          "EVIDENCE_PRESERVATION",
+          "RISK_MITIGATION"
+        ],
+        "tones": [
+          "practical",
+          "risk_mitigation"
+        ],
+        "contradictions": []
+      },
+      {
+        "text": "Review iPhone Significant Locations",
+        "tags": [
+          "PHONE_ONLINE_SECURITY",
+          "EVIDENCE_PRESERVATION",
+          "RISK_MITIGATION"
+        ],
+        "tones": [
+          "practical",
+          "risk_mitigation"
+        ],
+        "contradictions": []
+      },
+      {
+        "text": "Check fingerprint/face ID and remove any unknown biometrics",
+        "tags": [
+          "PHONE_ONLINE_SECURITY",
+          "EVIDENCE_PRESERVATION",
+          "RISK_MITIGATION"
+        ],
+        "tones": [
+          "practical",
+          "risk_mitigation"
+        ],
+        "contradictions": []
+      },
+      {
+        "text": "Set social media privacy to highest",
+        "tags": [
+          "PHONE_ONLINE_SECURITY",
+          "EVIDENCE_PRESERVATION",
+          "RISK_MITIGATION"
+        ],
+        "tones": [
+          "practical",
+          "risk_mitigation"
+        ],
+        "contradictions": []
+      },
+      {
+        "text": "Avoid sharing location on Find My, WhatsApp, Messenger; disable exact location on Instagram",
+        "tags": [
+          "PHONE_ONLINE_SECURITY",
+          "EVIDENCE_PRESERVATION",
+          "RISK_MITIGATION"
+        ],
+        "tones": [
+          "practical",
+          "risk_mitigation"
+        ],
+        "contradictions": []
+      },
+      {
+        "text": "Change Wi‑Fi router password (follow provider instructions)",
+        "tags": [
+          "PHONE_ONLINE_SECURITY",
+          "EVIDENCE_PRESERVATION",
+          "RISK_MITIGATION"
+        ],
+        "tones": [
+          "practical",
+          "risk_mitigation"
+        ],
+        "contradictions": []
+      },
+      {
+        "text": "Avoid blocking numbers; do not unblock if you already have",
+        "tags": [
+          "PHONE_ONLINE_SECURITY",
+          "EVIDENCE_PRESERVATION",
+          "RISK_MITIGATION"
+        ],
+        "tones": [
+          "practical",
+          "risk_mitigation"
+        ],
+        "contradictions": []
+      },
+      {
+        "text": "Keep evidence: texts, emails, call logs",
+        "tags": [
+          "PHONE_ONLINE_SECURITY",
+          "EVIDENCE_PRESERVATION",
+          "RISK_MITIGATION"
+        ],
+        "tones": [
+          "practical",
+          "risk_mitigation"
+        ],
+        "contradictions": []
+      },
+      {
+        "text": "Report incidents via 101 or online at Sussex Police site",
+        "tags": [
+          "REPORTING_GUIDANCE"
+        ],
+        "tones": [
+          "practical",
+          "risk_mitigation"
+        ],
+        "contradictions": []
+      },
+      {
+        "text": "In an emergency, dial 999",
+        "tags": [
+          "REPORTING_GUIDANCE"
+        ],
+        "tones": [
+          "practical",
+          "risk_mitigation"
+        ],
+        "contradictions": []
+      },
+      {
+        "text": "24 hr National Domestic Violence Helpline: 0808 2000 247",
+        "tags": [
+          "REPORTING_GUIDANCE"
+        ],
+        "tones": [
+          "practical",
+          "risk_mitigation"
+        ],
+        "contradictions": []
+      }
+    ],
+    "tags": [
+      "EXTERNAL_ANCHOR",
+      "HOME_SECURITY",
+      "PHONE_ONLINE_SECURITY",
+      "REPORTING_GUIDANCE",
+      "RISK_MITIGATION",
+      "SAFETY_PLAN"
+    ],
+    "timeline_hooks": [
+      "EmailAttachment",
+      "ExternalConfirmations",
+      "SafetyPlan"
+    ],
+    "legal_refs": [
+      "VictimsCode"
+    ]
+  },
+  "document_meta": {
+    "last_updated_on": "2024-11-25",
+    "plan_status": "Active",
+    "pages_reported": "Page 1 of 2"
+  },
+  "reconciliation": {
+    "pdf_text_layer_present": true,
+    "similarity_quick_ratio": 0.98,
+    "report_path": "/mnt/data/EVID_2025-06-25_1121_Safety_Plan_BC_reconciliation.txt"
+  }
+}

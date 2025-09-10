@@ -1,0 +1,78 @@
+{
+  "chunk": 8,
+  "time_range": "7:30-8:30",
+  "quotes": [
+    {
+      "speaker": "Ben Carter",
+      "time": "7:30",
+      "quote": "It feels deliberate, like they’re trying to erase parts of my case.",
+      "tags": [
+        "victim_experience",
+        "evidence_tampering",
+        "safeguarding"
+      ]
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "7:36",
+      "quote": "I can’t say if it’s deliberate, but I understand why you’d feel that way.",
+      "tags": [
+        "acknowledgement",
+        "neutral_response"
+      ]
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "7:41",
+      "quote": "Because every time I look, something else is missing or not logged.",
+      "tags": [
+        "evidence_loss",
+        "systemic_failure"
+      ]
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "7:47",
+      "quote": "Yes, and that’s why I’ve pushed for them to review their systems.",
+      "tags": [
+        "advocacy",
+        "systemic_issue"
+      ]
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "7:52",
+      "quote": "But if they’ve already lost things, how do I know it won’t happen again?",
+      "tags": [
+        "trust_issue",
+        "victim_experience",
+        "risk"
+      ]
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "7:57",
+      "quote": "That’s a fair concern. I’ll keep raising it until they give proper assurance.",
+      "tags": [
+        "acknowledgement",
+        "advocacy"
+      ]
+    }
+  ],
+  "contradictions": [
+    {
+      "issue": "Victim perceives deliberate erasure vs. advocate frames it as system issue",
+      "type": "trust_and_accountability_gap"
+    }
+  ],
+  "timeline_hooks": [
+    {
+      "ref": "missing or not logged evidence",
+      "link": "Evidence erasure concerns May 2025"
+    },
+    {
+      "ref": "systems review",
+      "link": "Advocate claims to push for systemic review"
+    }
+  ]
+}

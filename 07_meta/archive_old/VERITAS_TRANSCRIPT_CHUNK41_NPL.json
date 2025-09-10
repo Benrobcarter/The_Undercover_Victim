@@ -1,0 +1,82 @@
+{
+  "chunk": 41,
+  "time_range": "40:30-41:30",
+  "quotes": [
+    {
+      "speaker": "Ben Carter",
+      "time": "40:30",
+      "quote": "And when I’m left alone like that, it makes me feel like they want me gone.",
+      "tags": [
+        "victim_experience",
+        "emotional_impact",
+        "suicide_risk"
+      ]
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "40:36",
+      "quote": "I’m so sorry you feel that way, Ben. That’s not what should be happening.",
+      "tags": [
+        "acknowledgement",
+        "empathy",
+        "safeguarding"
+      ]
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "40:41",
+      "quote": "But it is what’s happening. Their inaction says more than words.",
+      "tags": [
+        "victim_assertion",
+        "safeguarding_failure",
+        "institutional_failure"
+      ]
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "40:46",
+      "quote": "I agree, and I’ve told them inaction puts you at serious risk.",
+      "tags": [
+        "acknowledgement",
+        "advocacy",
+        "safeguarding"
+      ]
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "40:51",
+      "quote": "Yet they keep doing it. So how do I believe they care?",
+      "tags": [
+        "victim_experience",
+        "trust_issue",
+        "contradiction"
+      ]
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "40:56",
+      "quote": "I understand, and I know it’s hard to trust when actions don’t match words.",
+      "tags": [
+        "acknowledgement",
+        "empathy",
+        "trust_issue"
+      ]
+    }
+  ],
+  "contradictions": [
+    {
+      "issue": "Victim perceives inaction as abandonment; advocate admits inaction creates risk but offers only sympathy",
+      "type": "safeguarding_abandonment"
+    }
+  ],
+  "timeline_hooks": [
+    {
+      "ref": "left alone interpreted as wanted gone",
+      "link": "Perceived institutional abandonment May 2025"
+    },
+    {
+      "ref": "inaction vs words",
+      "link": "Safeguarding contradiction May 2025"
+    }
+  ]
+}

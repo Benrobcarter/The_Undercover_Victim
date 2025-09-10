@@ -1,0 +1,30 @@
+{
+  "index_id": "EVIDENCE_SHARD_SPLIT_2025-08-30",
+  "original_file": "shard_evidence_vex.json",
+  "parts": [
+    {
+      "file": "shard_evidence_vex_part1.json",
+      "count": 1,
+      "date_range": [
+        null,
+        null
+      ]
+    },
+    {
+      "file": "shard_evidence_vex_part2.json",
+      "count": 1,
+      "date_range": [
+        null,
+        null
+      ]
+    },
+    {
+      "file": "shard_evidence_vex_part3.json",
+      "count": 2,
+      "date_range": [
+        null,
+        null
+      ]
+    }
+  ]
+}

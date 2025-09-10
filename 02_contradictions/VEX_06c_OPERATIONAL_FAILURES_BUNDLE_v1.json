@@ -1,0 +1,68 @@
+{
+  "vex_evidence": [
+    {
+      "id": "VEX_2025-05-23_Public_Confusion_Ticketing_Collapse",
+      "date": "2025-05-23",
+      "source_path": "06c. The Root Cause - Operational Failures/01. Public Confusion & Assumed Responsibility/TRANSCRIPT_Call_With_Public.mp3",
+      "summary": "Members of the public began calling Ben Carter directly due to Brighton Fringe’s ticketing system failure, believing his personal number was the official Fringe contact line.",
+      "tags": [
+        "OPERATIONAL_BREAKDOWN",
+        "UNLAWFUL_BURDEN_SHIFT",
+        "SAFEGUARDING_DEFLECTION",
+        "INSTITUTIONAL_ABANDONMENT"
+      ],
+      "linked_contradictions": [
+        "BF-CONTRA-NO-RECORD-OF-ALLEGATIONS-2025"
+      ],
+      "linked_timelines": [
+        "t2_brighton_fringe_consequences#2025-05-23"
+      ],
+      "quoted_text": [
+        "Hi is this Brighton Fringe? We don’t know where the show is, there’s nothing online — you’re listed as the venue contact…"
+      ]
+    },
+    {
+      "id": "VEX_2025-05-26_PLI_Uninsurable_Unticketed_Shows",
+      "date": "2025-05-26",
+      "source_path": "06c. The Root Cause - Operational Failures/02. Proactive Risk Management/TRANSCRIPT_Meeting_With_Puck_Owner.mp3",
+      "summary": "Ben Carter met with the Puck venue owner to find a solution for Public Liability Insurance. Fringe's failure to track audience numbers made proper risk assessment impossible, undermining insurance procurement.",
+      "tags": [
+        "RISK_MANAGEMENT_BLOCKED",
+        "PLI_INACCESSIBLE",
+        "UNINSURABLE_EVENT",
+        "VENUE_SUPPORT_FAILURE"
+      ],
+      "linked_contradictions": [
+        "BF-CONTRA-LOGGED-WORSE-THAN-NOT-LOGGED-2025"
+      ],
+      "linked_timelines": [
+        "t2_brighton_fringe_consequences#2025-05-26"
+      ],
+      "quoted_text": [
+        "Zoe: I don’t know how we’re supposed to get insurance if we can’t say how many people are coming. Fringe have no numbers?"
+      ]
+    },
+    {
+      "id": "VEX_2025-05-10_Box_Office_Agreement_Breach",
+      "date": "2025-05-10",
+      "source_path": "06c. The Root Cause - Operational Failures/03. System-Level Negligence/SCREENSHOT_Fringe_Box_Office_Confirmation.png",
+      "summary": "Screenshot from the Brighton Fringe registration portal shows Ben Carter selected 'No' to operating his own box office. The system confirmed 'No further information is required,' binding Brighton Fringe to this responsibility.",
+      "tags": [
+        "CONTRACTUAL_CONFIRMATION",
+        "SYSTEMIC_BREACH_OF_DUTY",
+        "FRAUDULENT_BLAME_SHIFT",
+        "TRUST_COLLAPSE"
+      ],
+      "linked_contradictions": [
+        "BF-CONTRA-SAR-GDPR-BREACH-2025",
+        "BF-CONTRA-NO-RECORD-OF-ALLEGATIONS-2025"
+      ],
+      "linked_timelines": [
+        "t2_brighton_fringe_consequences#2025-05-10"
+      ],
+      "quoted_text": [
+        "No further information is required."
+      ]
+    }
+  ]
+}

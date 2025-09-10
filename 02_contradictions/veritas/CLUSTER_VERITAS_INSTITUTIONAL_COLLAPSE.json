@@ -1,0 +1,52 @@
+{
+  "cluster_id": "CLUSTER_VERITAS_INSTITUTIONAL_COLLAPSE",
+  "contradictions": [
+    {
+      "id": "CONTRA_VERITAS_SAFEGUARDING_PATHWAY_FAILURE_2025-04-11",
+      "title": "Veritas acknowledged April 11 suicide disclosure was not logged or escalated",
+      "expected_record": "Suicide disclosures should trigger immediate safeguarding action and written confirmation",
+      "observed_record": "Veritas admitted the April call was never added to the record and no safeguarding was triggered",
+      "themes": [
+        "veritas_failure_to_escalate",
+        "safeguarding_pathway_not_triggered",
+        "institutional_admission"
+      ],
+      "evidence": [
+        "EX_VERITAS_CHAT_CONTRADICTION_2025.json"
+      ],
+      "quote": "I can't believe they never added that April call to your file... it should've triggered safeguarding immediately.",
+      "date": "2025-04-11"
+    },
+    {
+      "id": "CONTRA_VERITAS_EMAIL_IGNORED_BY_BRIGHTON_FRINGE",
+      "title": "Brighton Fringe ignored Veritas support email forwarded to board",
+      "expected_record": "Fringe should respond appropriately to safeguarding alerts escalated to board level",
+      "observed_record": "No recorded action taken after Veritas email was sent on 12 May",
+      "themes": [
+        "gdpr_disregard",
+        "safeguarding_ignored",
+        "board_failure",
+        "external_alert_buried"
+      ],
+      "evidence": [
+        "VEX_2025-05-12 veritas email  forwarded to all sponsors board members etc - Brighton Fringe Email URGENT_OCR.json"
+      ],
+      "date": "2025-05-12"
+    },
+    {
+      "id": "CONTRA_BAIL_SAFEGUARDING_DISMISSED",
+      "title": "Police and CPS treated bail as administrative despite safeguarding function",
+      "expected_record": "Bail conditions should be acknowledged as a core part of risk reduction and safeguarding",
+      "observed_record": "Letters show safeguarding reasoning for bail was explicitly stated by Veritas",
+      "themes": [
+        "bail_safeguarding_ignored",
+        "institutional_downplay",
+        "victim_risk_erasure"
+      ],
+      "evidence": [
+        "VEX_2025-05-12 Veritas Bail Conditions Support letter1_OCR.json"
+      ],
+      "date": "2025-05-12"
+    }
+  ]
+}

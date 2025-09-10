@@ -1,0 +1,159 @@
+{
+  "meta": {
+    "evidence_id": "VEX_2025-05-26_101_Strategic_Confusion",
+    "title": "26-05-2025 — 101 Call: Clarifying Multiple Crime References (OIC disclosure)",
+    "created_at": "2025-08-26T00:44:26.941569Z",
+    "source_file_name": "26-05-25_09-10_101_CALL_CrimeRefs_1246_0305_3423_.txt",
+    "source_path": "/mnt/data/26-05-25_09-10_101_CALL_CrimeRefs_1246_0305_3423_.txt",
+    "source_sha256": "0a259895b31a35ad82310c22d6f6815d2c082260d4014d12219dbf7ff534df36",
+    "type": "Phone call transcript (101)",
+    "date_local": "2025-05-26",
+    "time_local": "09:10",
+    "parties": [
+      "Ben Carter",
+      "Sussex Police 101 Operator"
+    ],
+    "clusters": [
+      "SUSSEX_POLICE",
+      "INFOSEC_VULNERABILITIES",
+      "CRIME_REF_47240214305_THREAD",
+      "VRR_NFA",
+      "TIMELINE_SYNTHESIS"
+    ],
+    "legal_mapping": [
+      "Victims’ Code — right to updates and clarity about investigations",
+      "DPA 2018 / UK GDPR — personal data disclosure over phone"
+    ],
+    "undated_policy": "ok_date_present",
+    "version": "1.0.0"
+  },
+  "summary": "Caller presents two similar crime references (July 1246 and November 4305), causing cognitive load while seeking clarity on which is which. Operator confirms both as stalking, provides the November date, and ultimately discloses the OIC name (PC Dixon) for both, then confirms a third reference (47250093423) with PC Russell. Operator notes one reference showing as ‘crime other’.",
+  "police_position": {
+    "oic_names": {
+      "47240214305": "PC Dixon",
+      "47240141246": "PC Dixon",
+      "47250093423": "PC Russell"
+    },
+    "status_notes": {
+      "47250093423": "crime other (pending classification)"
+    },
+    "date_note_for_4305": "Second of November"
+  },
+  "identifiers": {
+    "crime_refs": [
+      "47240141246",
+      "47240214305",
+      "47250093423"
+    ]
+  },
+  "contradictions": [
+    {
+      "code": "OIC_DISCLOSED_BY_CALL_HANDLER",
+      "claim": "Call handler disclosed the OIC’s name(s) over the phone after initially saying they could not discuss details.",
+      "impact": [
+        "Personal data disclosure without formal verification",
+        "Confirms continuity that both July and November were with same OIC"
+      ]
+    },
+    {
+      "code": "RECORD_CONFUSION",
+      "claim": "Handler labels one case as 'crime other' despite prior emails indicating stalking/harassment.",
+      "impact": [
+        "Classification inconsistency",
+        "Increased victim confusion"
+      ]
+    }
+  ],
+  "key_quotes": [
+    {
+      "idx": 1,
+      "line_no": 116,
+      "time": null,
+      "speaker": "Unknown",
+      "text": "Ok this one is related to stalking."
+    },
+    {
+      "idx": 2,
+      "line_no": 125,
+      "time": null,
+      "speaker": "Unknown",
+      "text": "Okay, stalking, what? What date? Because there's two different dates."
+    },
+    {
+      "idx": 3,
+      "line_no": 128,
+      "time": null,
+      "speaker": "Unknown",
+      "text": "Okay, bare with me second of November."
+    },
+    {
+      "idx": 4,
+      "line_no": 224,
+      "time": null,
+      "speaker": "Unknown",
+      "text": "You've got a PC Dixon."
+    },
+    {
+      "idx": 5,
+      "line_no": 227,
+      "time": null,
+      "speaker": "Unknown",
+      "text": "PC Dixon, what ones he assigned to?"
+    },
+    {
+      "idx": 6,
+      "line_no": 275,
+      "time": null,
+      "speaker": "Unknown",
+      "text": "That's a PC Dixon as well."
+    },
+    {
+      "idx": 7,
+      "line_no": 332,
+      "time": null,
+      "speaker": "Unknown",
+      "text": "Yeah that's a PC. Russell?"
+    },
+    {
+      "idx": 8,
+      "line_no": 389,
+      "time": null,
+      "speaker": "Unknown",
+      "text": "I wilI, will get errrm PC Russell tooo. I'll send a message to get him to give you some contact, okay?"
+    },
+    {
+      "idx": 9,
+      "line_no": 392,
+      "time": null,
+      "speaker": "Unknown",
+      "text": "what's so and that crime stalking and harassment as well, isn't it?"
+    },
+    {
+      "idx": 10,
+      "line_no": 395,
+      "time": null,
+      "speaker": "Unknown",
+      "text": "that just says crime other at the moment, because I think they're still looking into that for you,"
+    }
+  ],
+  "timeline_hooks": [
+    {
+      "when": "2025-05-26T09:10:00",
+      "tag": "CALL_101_OIC_DISCLOSED",
+      "note": "OIC name(s) provided for multiple crime refs"
+    },
+    {
+      "when": "2025-05-26T09:12:00",
+      "tag": "THIRD_REF_IDENTIFIED",
+      "note": "47250093423 confirmed with PC Russell"
+    }
+  ],
+  "links": {
+    "related_analysis": [
+      "/mnt/data/ANALYSIS_101_InfoSec_Vulnerabilities_SussexPolice_2025-08-26.json"
+    ],
+    "related_vex": [
+      "/mnt/data/VEX_2025-04-28_Sussex_Police_Complaints_Department_Call.json"
+    ]
+  }
+}

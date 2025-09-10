@@ -1,0 +1,91 @@
+{
+  "contradictions": [
+    {
+      "id": "BF-CONTRA-VOICEMAIL-DENIAL-PROVEN-2025",
+      "meta": {
+        "title": "Voicemail Existed — Duncan's Denial Proven False",
+        "tags": [
+          "DUNCAN_ASSISTED_ERASURE",
+          "CROWBARRING_MYSELF_JUSTICE",
+          "DEATH_BY_SILENCE",
+          "SAFEGUARDING_DEFLECTION",
+          "LOST_EVIDENCE_SUSSEX_POLICE"
+        ],
+        "created_at": "2025-08-31T23:26:36.798663",
+        "source_file": "04-05-25 Last Communication With Duncan.pdf",
+        "source_description": "Duncan denied voicemail on May 4, proven false by audio transcript from March 21"
+      },
+      "summary": "Duncan Lustig-Prean claimed on 4 May 2025 that 'no answer phone message has been received'. This was false. A voicemail left on 21 March 2025 by Ben Carter directly references the IOPC, a safeguarding concern involving Alexander Voodoo, and suicide escalation. This folder contains both the voicemail audio and full transcript, proving Duncan's denial to be a deliberate obstruction of safeguarding accountability."
+    }
+  ],
+  "timeline_entries": [
+    {
+      "date": "2025-03-21",
+      "summary": "Voicemail left by Ben Carter to Duncan referencing IOPC, suicide escalation, and Alexander Voodoo. Proven to exist.",
+      "tags": [
+        "CROWBARRING_MYSELF_JUSTICE",
+        "SAFEGUARDING_DEFLECTION",
+        "DEATH_BY_SILENCE"
+      ],
+      "linked_documents": [
+        "VOICEMAIL_2025-03-21_PROOF_OF_RECEIPT.json"
+      ],
+      "quote_refs": [
+        "BC-Q-0321-VOICEMAIL-ESCALATED"
+      ]
+    },
+    {
+      "date": "2025-05-04",
+      "summary": "Duncan Lustig-Prean denies voicemail: 'No answer phone message has been received'.",
+      "tags": [
+        "DUNCAN_ASSISTED_ERASURE",
+        "SAFEGUARDING_DEFLECTION",
+        "DEATH_BY_SILENCE"
+      ],
+      "linked_documents": [
+        "04-05-25 Last Communication With Duncan.pdf"
+      ],
+      "quote_refs": [
+        "DLP-Q-0504-VOICEMAIL-DENIAL"
+      ]
+    }
+  ],
+  "quote_cards": [
+    {
+      "id": "DLP-Q-0504-VOICEMAIL-DENIAL",
+      "meta": {
+        "title": "No answer phone message has been received.",
+        "author": "Duncan Lustig-Prean",
+        "tags": [
+          "SAFEGUARDING_DEFLECTION",
+          "DUNCAN_ASSISTED_ERASURE",
+          "LOST_EVIDENCE_SUSSEX_POLICE"
+        ],
+        "source_file": "04-05-25 Last Communication With Duncan.pdf",
+        "source_section": "email",
+        "added_at": "2025-08-31T23:26:36.798680"
+      },
+      "text": "No answer phone message has been received."
+    }
+  ],
+  "book_crosswalk": {
+    "chapter_id": "sec2_voicemail_denial",
+    "chapter_title": "2.9 — The Voicemail That Broke the Lie",
+    "timeline_refs": [
+      "2025-03-21",
+      "2025-05-04"
+    ],
+    "vex_tags": [
+      "DUNCAN_ASSISTED_ERASURE",
+      "CROWBARRING_MYSELF_JUSTICE",
+      "DEATH_BY_SILENCE",
+      "SAFEGUARDING_DEFLECTION",
+      "LOST_EVIDENCE_SUSSEX_POLICE"
+    ],
+    "contradictions": [
+      {
+        "code": "BF-CONTRA-VOICEMAIL-DENIAL-PROVEN-2025"
+      }
+    ]
+  }
+}

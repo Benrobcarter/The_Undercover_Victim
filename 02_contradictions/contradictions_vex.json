@@ -1,0 +1,12 @@
+{
+  "items": [
+    {
+      "id": "BF-CONTRA-001",
+      "title": "Example Contradiction",
+      "tags": ["safeguarding", "breach"],
+      "source": "email_x",
+      ...
+    },
+    ...
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "vex_evidence": [
+    {
+      "id": "VEX_2025-03-29_Artist_Assumed_I_Was_Fringe",
+      "date": "2025-03-29",
+      "source_path": "06g. Exceeding Contractual Obligations Amidst Fringe’s Chaos/Gmail - Re_ Flyering Licences.pdf",
+      "summary": "An artist contacted Brighton Fringe confused about flyering licences, assuming Ben Carter had already managed it. This proves that for months, Ben had been acting as the sole coordinator while the Fringe was silent. Artists perceived him as the institutional point of contact.",
+      "tags": [
+        "CONSTRUCTIVE_EXPULSION",
+        "VENUE_MANAGER_ROLE_EXPANSION",
+        "ORGANISATIONAL_ABANDONMENT",
+        "OPERATIONAL_BREAKDOWN"
+      ],
+      "linked_contradictions": [
+        "CONTRA_2025-03-29_Fringe_Was_Silent_I_Was_The_System"
+      ],
+      "linked_timelines": [
+        "t2_brighton_fringe_consequences#2025-03-29"
+      ],
+      "quoted_text": [
+        "I assumed this kind of thing was handled by Ben?",
+        "We haven’t heard anything yet from the Fringe."
+      ]
+    }
+  ]
+}

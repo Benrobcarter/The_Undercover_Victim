@@ -1,0 +1,106 @@
+{
+  "meta": {
+    "filename": "2025-04-06_Ben_to_PC-Dixon_Crisis-Followup_Details.json",
+    "case_reference": "47240214305",
+    "thread_label": "CRIME_REF_47240214305_THREAD/CRISIS_AND_HOSPITAL",
+    "actor_cluster": [
+      "Ben Carter",
+      "PC Jon Dixon (EA817)",
+      "Sussex Police"
+    ],
+    "date_range": {
+      "start": "2025-04-06T16:33:00",
+      "end": "2025-04-06T16:33:00"
+    },
+    "source_provenance": "Email from Ben Carter to PC Jon Dixon on 6 Apr 2025 at 16:33 (provided by user)",
+    "created_at_utc": "2025-08-24T21:27:02Z",
+    "vex_schema_version": "1.2",
+    "human_exhibit_name": "CRN-47240214305_Ben_to_PC-Dixon_06-Apr-2025_Email-TBDb.pdf",
+    "export_profile": "INTERNAL"
+  },
+  "emails": [
+    {
+      "id": "email-2025-04-06-1633-ben-dixon",
+      "date": "2025-04-06T16:33:00",
+      "from": {
+        "name": "Ben Carter",
+        "email": "benrobcarter@gmail.com",
+        "badge": ""
+      },
+      "to": [
+        {
+          "name": "PC Jon Dixon",
+          "email": "Jon.Dixon@sussex.police.uk",
+          "badge": "EA817"
+        }
+      ],
+      "subject_summary": "Crisis follow-up from hospital; additional details disclosed",
+      "body_raw": "And 100mgs of diazepam, can't understand why i'm here. I called the ambulance as what i thought was a bullet proof plan and no way back and 8 to 10 36mg long release all in my blood all in one go, i looked up and 80 - 100mg was a lethal dose",
+      "body": "And 100mgs of diazepam, can't understand why i'm here. I called the ambulance as what i thought was a bullet proof plan and no way back and 8 to 10 36mg long release all in my blood all in one go, i looked up and 80 - 100mg was a lethal dose",
+      "attachments": [],
+      "labels": [
+        "SUICIDE_ATTEMPT_DISCLOSED",
+        "METHOD_DETAIL_DISCLOSED",
+        "HOSPITAL_ADMISSION_CONTEXT"
+      ],
+      "allegations": []
+    }
+  ],
+  "vex": [
+    {
+      "email_id": "email-2025-04-06-1633-ben-dixon",
+      "sentence_tags": [
+        {
+          "text": "And 100mgs of diazepam, can't understand why i'm here. I called the ambulance as what i thought was a bullet proof plan and no way back and 8 to 10 36mg long release all in my blood all in one go, i looked up and 80 - 100mg was a lethal dose",
+          "tags": [
+            "SUICIDE_ATTEMPT_DISCLOSED",
+            "SENSITIVE_METHOD_DETAIL",
+            "HOSPITAL_CONTEXT"
+          ],
+          "notes": "Detailed description provided; treat as highly sensitive. Ensure safeguarding workflow is referenced."
+        }
+      ]
+    }
+  ],
+  "contradiction_links": [
+    {
+      "id": "SP-CONTRA-SAFEGUARDING-CRISIS-RESPONSE-2025-04-06-B",
+      "claim": "Immediate safeguarding actions are initiated upon crisis disclosures.",
+      "reality": "Second crisis email with additional detail sent; follow-up response times/actions to be compared against logs.",
+      "laws_breached": [
+        "Victims' Code 2020 (Right to be referred to support)"
+      ],
+      "damages": [
+        "Emotional",
+        "Health/Safety"
+      ]
+    }
+  ],
+  "timeline_hooks": [
+    {
+      "phase": "Crisis & Hospitalisation",
+      "date": "2025-04-06",
+      "events": [
+        "Follow-up crisis email from hospital with additional detail."
+      ],
+      "related_threads": [
+        "CRIME_REF_47240214305_THREAD",
+        "CRISIS_AND_HOSPITAL"
+      ]
+    }
+  ],
+  "damages_summary": {
+    "emotional": "Acute distress reinforced in follow-up message.",
+    "strategic": "Corroborates need for immediate safeguarding and welfare liaison.",
+    "reputational": "Not applicable."
+  },
+  "qa": {
+    "checks": [
+      "date_present",
+      "case_ref_present",
+      "exhibit_named",
+      "attachments_indexed"
+    ],
+    "status": "pending"
+  }
+}

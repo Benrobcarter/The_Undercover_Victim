@@ -1,0 +1,82 @@
+{
+  "meta": {
+    "filename": "2025-04-07_Digital-Policing_to_Ben_Jonathan-Dixon-Request_Email-9.json",
+    "case_reference": "47240214305",
+    "thread_label": "NICE_LINK_BATCH_B",
+    "actor_cluster": [
+      "Digital Policing",
+      "PC Jonathan Dixon",
+      "Ben Carter"
+    ],
+    "date_range": {
+      "start": "2025-04-07T14:03:00Z",
+      "end": "2025-04-21T23:59:59Z"
+    },
+    "source_provenance": "Email 9 from noreply-public@digital-policing.co.uk to Ben Carter on 2025-04-07 (issued on behalf of PC Jonathan Dixon, Sussex Police)",
+    "created_at_utc": "2025-08-25T00:01:08.010379Z",
+    "vex_schema_version": "1.2",
+    "human_exhibit_name": "CRN-47240214305_DigitalPolicing_to_Ben_2025-04-07_Email-9.pdf",
+    "export_profile": "INTERNAL",
+    "email_sequence": 9
+  },
+  "emails": [
+    {
+      "id": "email-2025-04-07-1403-digitalpolicing-ben-9",
+      "date": "2025-04-07T14:03:00Z",
+      "from": {
+        "name": "Digital Policing (noreply)",
+        "email": "noreply-public@digital-policing.co.uk"
+      },
+      "to": [
+        {
+          "name": "Ben Carter",
+          "email": "benrobcarter@gmail.com"
+        }
+      ],
+      "subject_summary": "Jonathan Dixon requires your assistance in a police investigation",
+      "body": "Digital evidence-portal request via Digital Policing issued on behalf of PC Jonathan Dixon with expiry 21/04/2025.",
+      "attachments": [],
+      "labels": [
+        "Evidence Intake",
+        "Digital Policing Portal Link"
+      ]
+    }
+  ],
+  "contradiction_links": [
+    {
+      "id": "LOST_EVIDENCE_SUSSEX_POLICE",
+      "claim": "Prior evidence submissions were properly retained and actioned.",
+      "reality": "New portal request follows earlier alleged 'lost' evidence.",
+      "damages": [
+        "Strategic",
+        "Emotional"
+      ]
+    },
+    {
+      "id": "CROWBARRING_MYSELF_JUSTICE",
+      "claim": "Victim needs only submit evidence once for action.",
+      "reality": "Repeated requests require re-submission without accountability for earlier uploads.",
+      "damages": [
+        "Strategic"
+      ]
+    }
+  ],
+  "timeline_hooks": [
+    {
+      "phase": "Investigation Stage",
+      "date": "2025-04-07",
+      "events": [
+        "PC Jonathan Dixon requested digital evidence via portal; expiry 21/04/2025. (Email-9)"
+      ],
+      "related_threads": [
+        "NICE_LINK_BATCH_B",
+        "DEATH_BY_SILENCE"
+      ]
+    }
+  ],
+  "damages_summary": {
+    "emotional": "Impersonal, institutional tone and pressure to comply.",
+    "strategic": "Evidence loop risk: repeated portal submissions without confirmation of action.",
+    "reputational": "Failure to act on prior evidence could be reframed as victim non-cooperation."
+  }
+}

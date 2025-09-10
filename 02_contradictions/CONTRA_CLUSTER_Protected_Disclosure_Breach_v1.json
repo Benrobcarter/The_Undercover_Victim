@@ -1,0 +1,123 @@
+{
+  "contradictions": [
+    {
+      "id": "CONTRA_2025-05-07_Protected_Disclosure_Ignored",
+      "title": "Protected Disclosure Met With Silence, Not Procedure",
+      "claim": "Brighton Fringe followed proper safeguarding and whistleblowing protocol.",
+      "reality": "Ben Carter issued a formal safeguarding and legal notice to Brighton Fringe on 7 May 2025. The organisation did not respond, did not log a safeguarding record, and took no visible internal action.",
+      "actors": [
+        "Brighton Fringe",
+        "Duncan Lustig-Prean",
+        "Amy Keogh",
+        "Alice Wright"
+      ],
+      "laws": [
+        {
+          "act": "Employment Rights Act 1996",
+          "section": "47B",
+          "why": "Retaliation for protected disclosure"
+        },
+        {
+          "act": "Public Interest Disclosure Act 1998",
+          "section": "1",
+          "why": "Failure to protect whistleblower"
+        },
+        {
+          "act": "Charities Act 2011",
+          "section": "CC9",
+          "why": "Misuse of board power"
+        },
+        {
+          "act": "Care Act 2014",
+          "section": "s.42",
+          "why": "Failure to assess safeguarding risk"
+        }
+      ],
+      "tags": [
+        "WHISTLEBLOWING_RETALIATION",
+        "SAFEGUARDING_FAILURE",
+        "GOVERNANCE_ERASURE",
+        "COORDINATED_NON_ESCALATION"
+      ],
+      "timeline_hooks": [
+        "t2_brighton_fringe_consequences#2025-05-07"
+      ],
+      "created_at": "2025-08-31T18:21:56.290871Z"
+    },
+    {
+      "id": "CONTRA_2025-05-08_GP_Email_Retaliation",
+      "title": "GP Email Used as Retaliation Tool Against Whistleblower",
+      "claim": "Health disclosure was made to protect the individual.",
+      "reality": "Following Ben Carter's protected disclosure on May 7, Brighton Fringe emailed his GP claiming he was paranoid and delusional. This was an unprompted, unsolicited health smear used to reframe the disclosure as instability.",
+      "actors": [
+        "Brighton Fringe",
+        "Amy Keogh"
+      ],
+      "laws": [
+        {
+          "act": "UK GDPR",
+          "section": "Art. 9",
+          "why": "Processing special category health data without legal basis"
+        },
+        {
+          "act": "Defamation Act 2013",
+          "section": "1",
+          "why": "Publication of damaging falsehoods to a third party"
+        },
+        {
+          "act": "Employment Rights Act 1996",
+          "section": "47B",
+          "why": "Retaliation for protected disclosure"
+        }
+      ],
+      "tags": [
+        "SUICIDE_DISCLOSURE_USED_FOR_REMOVAL",
+        "UNLAWFUL_THIRD_PARTY_HEALTH_DISCLOSURE",
+        "PIDA_BREACH",
+        "GP_AS_REPUTATIONAL_WEAPON",
+        "WHISTLEBLOWER_NEUTRALISATION_TACTIC"
+      ],
+      "timeline_hooks": [
+        "t2_brighton_fringe_consequences#2025-05-08"
+      ],
+      "created_at": "2025-08-31T18:21:56.290878Z"
+    },
+    {
+      "id": "CONTRA_2025-05-08_No_Trustee_Decision_Trail",
+      "title": "No Trustee Meeting Logged Despite Governance Impact",
+      "claim": "Decisions regarding venue management and safeguarding were handled transparently and within trustee powers.",
+      "reality": "There is no record of any board discussion, minutes, or documented trustee decision justifying the retaliation or management changes. This reflects structural concealment.",
+      "actors": [
+        "Brighton Fringe Trustees"
+      ],
+      "laws": [
+        {
+          "act": "Charities Act 2011",
+          "section": "CC9",
+          "why": "Governance duties breached"
+        },
+        {
+          "act": "UK GDPR",
+          "section": "Art. 5",
+          "why": "Failure to document processing decisions"
+        },
+        {
+          "act": "Human Rights Act 1998",
+          "section": "Art. 8",
+          "why": "Interference with private life without lawful process"
+        }
+      ],
+      "tags": [
+        "TRUSTEE_MISUSE_OF_AUTHORITY",
+        "GOVERNANCE_ERASURE",
+        "CHARITY_REPUTATION_OVER_RISK",
+        "RECORDS_AUDIT",
+        "PROCEDURAL_INVERSION"
+      ],
+      "timeline_hooks": [
+        "t2_brighton_fringe_consequences#2025-05-08"
+      ],
+      "created_at": "2025-08-31T18:21:56.290881Z"
+    }
+  ]
+}

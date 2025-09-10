@@ -1,0 +1,112 @@
+{
+  "contradictions": [
+    {
+      "id": "CONTRA_2025-03-27_CoBrand_Erasure",
+      "title": "Fringe Co-Branded Early Marketing Then Erased Its Partner",
+      "claim": "Brighton Fringe operated in partnership with venues and upheld shared promotional responsibilities.",
+      "reality": "Ben Carter paid for and designed a co-branded station-wide poster campaign at Brighton Station, advertising 157 shows across 6 venues. Brighton Fringe later removed his venue and erased all acknowledgement of this partnership.",
+      "actors": [
+        "Brighton Fringe",
+        "Trustees"
+      ],
+      "laws": [
+        {
+          "act": "Charities Act 2011",
+          "section": "s.177",
+          "why": "Failure of trustee oversight and honesty"
+        },
+        {
+          "act": "Companies Act 2006",
+          "section": "s.172",
+          "why": "Breach of duty to act fairly and in good faith"
+        }
+      ],
+      "tags": [
+        "COBRAND_EXPLOITATION",
+        "GOOD_FAITH_USED_AS_TRAP",
+        "REPUTATIONAL_HARM",
+        "NARRATIVE_REPLACEMENT"
+      ],
+      "timeline_hooks": [
+        "t2_brighton_fringe_consequences#2025-03-27"
+      ],
+      "evidence_refs": [
+        "EMAIL_2025-03-27_Artwork_Sent_To_Printers",
+        "PHOTO_2025-05-01_Brighton_Station_Poster",
+        "BROCHURE_PROOF_COVER_2025"
+      ],
+      "created_at": "2025-08-31T18:43:51.716891Z"
+    },
+    {
+      "id": "CONTRA_2025-04-23_Admitted_Ticketing_Collapse",
+      "title": "Fringe Admitted Its System Was Unmanageable and Still Shifted Blame",
+      "claim": "Brighton Fringe maintained operational control and supported partner venues.",
+      "reality": "On April 23, 2025, the Fringe's Box Office Manager admitted in writing that the new system could not track unticketed capacity. This directly led to insurance failures, public confusion, and unresolvable risk management issues.",
+      "actors": [
+        "Brighton Fringe",
+        "Elin Eaton"
+      ],
+      "laws": [
+        {
+          "act": "Consumer Rights Act 2015",
+          "section": "s.49",
+          "why": "Service delivered without reasonable care"
+        },
+        {
+          "act": "Companies Act 2006",
+          "section": "s.174",
+          "why": "Director-level negligence"
+        }
+      ],
+      "tags": [
+        "SYSTEMIC_FAILURE_CONFESSION",
+        "RISK_MANAGEMENT_BLOCKED",
+        "SAFEGUARDING_DEFLECTION",
+        "UNINSURABLE_EVENT"
+      ],
+      "timeline_hooks": [
+        "t2_brighton_fringe_consequences#2025-04-23"
+      ],
+      "evidence_refs": [
+        "EMAIL_2025-04-23_Elin_Eaton_Ticketing_Admission"
+      ],
+      "created_at": "2025-08-31T18:43:51.716901Z"
+    },
+    {
+      "id": "CONTRA_2025-07-18_Brochure_Libel_Twist",
+      "title": "Fringe Blamed Partner for Brochure They Made Unprintable",
+      "claim": "Ben Carter failed to produce materials for Brighton Fringe and was unfit for the festival.",
+      "reality": "The Fringe accused Ben of failing to produce a brochure in the 18 July 2025 libel email. But evidence shows it was fully designed and ready to print. Their own failures made it legally unprintable: including their logo posed risk, and removing it would be framed as hostile.",
+      "actors": [
+        "Brighton Fringe",
+        "Duncan Lustig-Prean"
+      ],
+      "laws": [
+        {
+          "act": "Defamation Act 2013",
+          "section": "Serious Harm",
+          "why": "Libel through misrepresentation"
+        },
+        {
+          "act": "Charities Act 2011",
+          "section": "s.193",
+          "why": "Reputational misuse"
+        }
+      ],
+      "tags": [
+        "DEFAMATION_THROUGH_OMISSION",
+        "IMPOSSIBLE_COMPLIANCE_CONDITION",
+        "TRUST_COLLAPSE",
+        "LIBEL_ACTION_DISGUISED_AS_NEUTRAL_UPDATE"
+      ],
+      "timeline_hooks": [
+        "t2_brighton_fringe_consequences#2025-07-18"
+      ],
+      "evidence_refs": [
+        "BROCHURE_PROOF_INTERNAL_PAGES",
+        "EMAIL_2025-07-18_LIBEL_EMAIL"
+      ],
+      "created_at": "2025-08-31T18:43:51.716906Z"
+    }
+  ]
+}

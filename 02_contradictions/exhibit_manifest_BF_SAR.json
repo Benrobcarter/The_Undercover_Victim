@@ -1,0 +1,48 @@
+{
+  "batch": "BF_SAR_SUBMISSION_2025",
+  "exhibits": [
+    {
+      "id": "EXHIBIT_A_LOGGING_ADMISSION",
+      "title": "All Communications Logged Admission",
+      "type": "email",
+      "date": "2025-05-07",
+      "source": "Amy Keogh to Ben Carter",
+      "linked_tags": [
+        "SUICIDE_DISCLOSURE_USED_FOR_REMOVAL",
+        "SAR_STRUCTURAL_ABSENCE"
+      ]
+    },
+    {
+      "id": "EXHIBIT_B_OBSERVER_ROLE_DISCLOSURE",
+      "title": "Venue Observer Role Email Disclosure",
+      "type": "board/governance",
+      "date": "2025-05",
+      "source": "Board reference / SAR Addendum",
+      "linked_tags": [
+        "VENUE_OBSERVER_ROLE_MANIPULATION",
+        "GOVERNANCE_ERASURE"
+      ]
+    },
+    {
+      "id": "EXHIBIT_C_LIBEL_EMAIL",
+      "title": "Mass Libel Email – 18 July 2025",
+      "type": "external communication",
+      "date": "2025-07-18",
+      "source": "Jessica Otterwell Forward",
+      "linked_tags": [
+        "LIBEL_ACTION_DISGUISED_AS_NEUTRAL_UPDATE"
+      ]
+    },
+    {
+      "id": "EXHIBIT_D_GP_DISCLOSURE",
+      "title": "Confidential NHS Disclosure Email",
+      "type": "third-party health disclosure",
+      "date": "2025-05-08",
+      "source": "Amy Keogh to NHS",
+      "linked_tags": [
+        "UNLAWFUL_THIRD_PARTY_HEALTH_DISCLOSURE",
+        "SUICIDE_DISCLOSURE_USED_FOR_REMOVAL"
+      ]
+    }
+  ]
+}

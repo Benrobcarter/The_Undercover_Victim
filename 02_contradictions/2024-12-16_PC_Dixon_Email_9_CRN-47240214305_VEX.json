@@ -1,0 +1,102 @@
+{
+  "meta": {
+    "filename": "2024-12-16_PC_Dixon_Email_9_CRN-47240214305_VEX.json",
+    "case_reference": "47240214305",
+    "thread_label": "CRIME_REF_47240214305_THREAD",
+    "actor_cluster": [
+      "Sussex Police",
+      "PC Jon Dixon (EA817)",
+      "Ben Carter"
+    ],
+    "date_range": {
+      "start": "2024-12-16T13:01:00",
+      "end": "2024-12-16T13:01:00"
+    },
+    "source_provenance": "Email from PC Jon Dixon to Ben Carter on 16 Dec 2024 at 13:01 (provided by user)",
+    "created_at_utc": "2025-08-24T17:33:19.329162Z",
+    "vex_schema_version": "1.1"
+  },
+  "emails": [
+    {
+      "id": "email-2024-12-16-1301-dixon-ben",
+      "date": "2024-12-16T13:01:00",
+      "from": {
+        "name": "PC Jon Dixon",
+        "email": "Jon.Dixon@sussex.police.uk",
+        "badge": "EA817"
+      },
+      "to": [
+        {
+          "name": "Ben Carter",
+          "email": "benrobcarter@gmail.com"
+        }
+      ],
+      "subject_summary": "Dismissal of music misuse as 'civil law'",
+      "body": "Hi Ben\nThere may be other offences there but that sounds more like civil law to me, unless she is sending these directly to you.\nHow have you become aware of this?\nRegards\nJon",
+      "attachments": [],
+      "labels": [
+        "Police Communication",
+        "Dismissal",
+        "Music Misuse",
+        "Civil vs Criminal"
+      ]
+    }
+  ],
+  "vex": [
+    {
+      "email_id": "email-2024-12-16-1301-dixon-ben",
+      "sentence_tags": [
+        {
+          "text": "There may be other offences there but that sounds more like civil law to me, unless she is sending these directly to you.",
+          "tags": [
+            "DISMISSAL",
+            "CIVIL_LAW_DEFLECTION",
+            "POTENTIAL_OFFENCES_ACKNOWLEDGED"
+          ],
+          "notes": "Police reframed potential harassment/defamation as civil, not criminal."
+        },
+        {
+          "text": "How have you become aware of this?",
+          "tags": [
+            "EVIDENCE_SOURCE_QUERY",
+            "POLICE_VALIDATION_REQUEST"
+          ],
+          "notes": "Seeks confirmation of how Ben discovered evidence, placing burden back on victim."
+        }
+      ]
+    }
+  ],
+  "contradiction_links": [
+    {
+      "id": "SP-CONTRA-DISMISSAL-AS-CIVIL-2024-12",
+      "claim": "Police took all reported harassment seriously as potential criminal offences.",
+      "reality": "Dixon reframed new stalking/harassment behaviour as 'civil law' unless sent directly, minimising impact.",
+      "laws_breached": [
+        "Protection from Harassment Act 1997",
+        "Victims’ Code 2020"
+      ],
+      "damages": [
+        "Emotional",
+        "Reputational"
+      ]
+    }
+  ],
+  "timeline_hooks": [
+    {
+      "phase": "Investigation – Minimisation of Offences",
+      "date": "2024-12-16",
+      "events": [
+        "Police dismiss reports of suspect using Ben’s music and creating songs slating him as 'civil law'.",
+        "Fails to recognise pattern of harassment as part of stalking case."
+      ],
+      "related_threads": [
+        "CRIME_REF_47240214305_THREAD",
+        "DEATH_BY_SILENCE"
+      ]
+    }
+  ],
+  "damages_summary": {
+    "emotional": "Dismissal of evidence as 'civil law' undermines confidence in police response and retraumatises victim.",
+    "reputational": "By minimising these actions, police failed to account for reputational harassment."
+  }
+}

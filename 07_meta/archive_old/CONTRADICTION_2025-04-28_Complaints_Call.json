@@ -1,0 +1,16 @@
+{
+  "source_id": "VEX_2025-04-28_Complaints_Call",
+  "created_utc": "2025-08-30T02:01:35Z",
+  "codes": [
+    "SUICIDE_LOG_DELAY",
+    "JULY_VS_NOVEMBER_STATUS",
+    "SAR_AS_ACCESS_BARRIER",
+    "HOLIDAY_ALIBI_CONTINUATION"
+  ],
+  "title": "Complaints call: suicide logging delay, SAR barrier, July vs November status",
+  "priority": "high",
+  "clusters": [
+    "CRIME_REF_47240214305_THREAD",
+    "DEATH_BY_SILENCE"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "generated_at": "2025-08-24T22:31:42Z",
+  "sanity": {
+    "latest_row_count": 6,
+    "consolidated_row_count": 8,
+    "missing_from_consolidated_email_ids": []
+  },
+  "notes": [
+    "Consolidated tracker deduplicates by (Email_ID, Date, Time, Sender, Subject) and preserves provenance in __source.",
+    "PDF_Missing_Flag = MISSING if present in MISSING_PDFS_PREVIEW; else OK/UNKNOWN."
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "tracker": {
+    "subject": "Ben Carter",
+    "data_controller": "Brighton Fringe Ltd.",
+    "submitted_on": "2025-08-19",
+    "legal_due_date": "2025-09-18",
+    "status": "Pending Response",
+    "extensions": "None declared",
+    "regulatory_oversight": {
+      "ICO": "IC-415467-W5D3",
+      "Charity Commission": "Assessment2"
+    }
+  },
+  "expected_disclosures": [
+    "Trustee board minutes for July 2025",
+    "Emails from/to Alice Wright",
+    "Drafts of 18 July 2025 mass email",
+    "Health disclosure to NHS (8 May 2025)",
+    "Logging confirmation email (7 May 2025)",
+    "Internal notes about venue removal decision"
+  ],
+  "exhibit_links": [
+    "EXHIBIT_A_LOGGING_ADMISSION",
+    "EXHIBIT_B_OBSERVER_ROLE_DISCLOSURE",
+    "EXHIBIT_D_GP_DISCLOSURE",
+    "EXHIBIT_C_LIBEL_EMAIL"
+  ],
+  "anticipated_violations": [
+    "GDPR Article 5: Transparency & fairness",
+    "GDPR Article 15: Access rights",
+    "DPA 2018 s.45 & s.173",
+    "Failure to record trustee decisions"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "version": "v4",
+  "date": "2025-08-25",
+  "total_files_in_zip": 89,
+  "aliases_created": [
+    "01_evidence/timelines/LIVE_VEX_TIMELINE_LATEST.json",
+    "01_evidence/timelines/NICE_Timeline_LATEST.json",
+    "01_evidence/timelines/NICE_Timeline_LATEST.csv",
+    "02_contradictions/MASTER_CONTRADICTIONS_INJECTED_LATEST.json"
+  ],
+  "duplicates_dropped": [
+    "BATCHA_consolidation_audit.json (extra copies)",
+    "CROSSWALK_DIGPOL_2024-11-04_batchA.json (extra copies)"
+  ],
+  "obsolete_removed_patterns": [
+    "diff_report",
+    "tracker_rows",
+    "2025-08-24_manifest\\.json"
+  ],
+  "notes": "Packed from provided v4 zip; cleaned per rules; manifest inserted."
+}

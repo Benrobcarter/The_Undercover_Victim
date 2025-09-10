@@ -1,0 +1,18 @@
+{
+  "meta": {
+    "evidence_id": "VEX_2025-05-16_101_NoCrimeRef",
+    "created_at": "2025-08-26T00:49:46.692795Z"
+  },
+  "contradictions": [
+    {
+      "code": "WEAK_VERIFICATION",
+      "title": "Verification bypass without crime reference",
+      "claim": "Handler accepts name + date of birth to progress actions and leave a note for the officer without a crime reference.",
+      "impact": [
+        "Potential bypass of reference-based verification",
+        "Inconsistent access control compared to stated policy"
+      ],
+      "priority": "high"
+    }
+  ]
+}

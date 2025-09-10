@@ -1,0 +1,100 @@
+{
+  "contradictions": [
+    {
+      "id": "BF-CONTRA-DUNCAN-IGNORED-CRIME-REF-2025-05-19",
+      "claim": "Brighton Fringe leadership acted independently of any criminal implications in removing Ben Carter.",
+      "reality": "Despite being aware of a live crime reference (47250093423) against Duncan Lustig-Prean for stalking and harassment, Brighton Fringe refused to acknowledge this or factor it into their board decision-making. Duncan retained sole control over the board minutes, while Sussex Police had already assigned an investigating officer (PC Alan Russell).",
+      "source_files": [
+        "EVID_2025-07-20_BrightonFringe_BoardMinutes_RemovalRequest_Refused.json",
+        "EVID_2025-05-19_SussexPolice_OfficerAssignment_47250093423_PC_Russell.json"
+      ],
+      "laws_breached": [
+        "Charities Act 2011",
+        "Care Act 2014",
+        "Charity Commission CC9",
+        "GDPR (withholding material safeguarding data)"
+      ],
+      "damages": [
+        "Reputational",
+        "Emotional",
+        "Legal Obstruction"
+      ],
+      "actor_cluster": "Brighton Fringe",
+      "tags": [
+        "CRIME_REF_47250093423_CITED",
+        "SAFEGUARDING_DISCLOSURE_IGNORED",
+        "TRUSTEE_DUTY_BREACH",
+        "DUNCAN_SOLE_BOARD_MEMBER_VEX"
+      ]
+    },
+    {
+      "id": "BF-CONTRA-DUNCAN-SOLE-CONTROL-2025-07-20",
+      "claim": "Brighton Fringe board acts collectively and transparently in governance decisions.",
+      "reality": "Duncan Lustig-Prean admits that the board minutes regarding Ben Carter\u2019s removal have yet to be written and that he alone will approve and redact the record. This follows a refusal to confirm any audio/video record of the meeting, no confirmation of attendance list, and a failure to disclose legal basis or policy. Duncan\u2019s gatekeeping of records following a safeguarding disclosure indicates rewriting of events after the fact \u2014 in breach of trustee obligations.",
+      "source_files": [
+        "EVID_2025-07-20_BrightonFringe_BoardMinutes_RemovalRequest_Refused.json"
+      ],
+      "laws_breached": [
+        "Charities Act 2011",
+        "Charity Commission CC3 (Trustee Duties)",
+        "Charity Commission CC9 (Conflicts of Interest)",
+        "Care Act 2014 (Safeguarding)",
+        "Companies Act 2006 (Board Governance)"
+      ],
+      "damages": [
+        "Reputational",
+        "Emotional",
+        "Legal Obstruction"
+      ],
+      "actor_cluster": "Brighton Fringe",
+      "tags": [
+        "BOARD_MINUTES_WITHHELD",
+        "DUNCAN_SOLE_BOARD_MEMBER_VEX",
+        "SAFEGUARDING_DISCLOSURE_ERASURE",
+        "GOVERNANCE_BREAKDOWN",
+        "WHISTLEBLOWER_RETALIATION"
+      ]
+    },
+    {
+      "id": "BF-CONTRA-EVIDENCE-ESCALATED-BEHIND-THEIR-BACKS-2025-08-03",
+      "claim": "Brighton Fringe board had all relevant safeguarding and legal information when making decisions regarding Ben Carter\u2019s removal.",
+      "reality": "A second crime reference number (47250152583) was issued by Sussex Police for stalking and harassment on 3 August 2025. This was submitted independently and without the knowledge of Brighton Fringe Chair Duncan Lustig-Prean, after the board refused to engage with Ben's disclosures or the initial police assignment (CR 47250093423). The new report was routed through policeplease.com, circumventing institutional obstruction.",
+      "source_files": [
+        "EVID_2025-08-03_SussexPolice_Second_Stalking_CrimeRef_47250152583.json"
+      ],
+      "laws_breached": [
+        "Charities Act 2011",
+        "Care Act 2014",
+        "Charity Commission CC3 and CC9",
+        "Human Rights Act 1998 (Right to fair treatment and remedy)"
+      ],
+      "damages": [
+        "Reputational",
+        "Emotional",
+        "Legal Obstruction"
+      ],
+      "actor_cluster": "Brighton Fringe",
+      "tags": [
+        "SECOND_STALKING_CASE_ESCALATION",
+        "SAFEGUARDING_DISCLOSURE_IGNORED",
+        "GOVERNANCE_DECISION_MADE_WITHOUT_EVIDENCE",
+        "DUNCAN_NOT_AWARE_OF_NEW_OFFICER"
+      ]
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2025-05-19",
+      "event": "Sussex Police formally confirm Ben Carter as the victim in Crime Reference 47250093423, with PC Alan Russell assigned as investigating officer.",
+      "linked_evidence": [
+        "EVID_2025-05-19_SussexPolice_OfficerAssignment_47250093423_PC_Russell.json"
+      ],
+      "tags": [
+        "CRIME_REF_47250093423_CONFIRMED",
+        "PC_ALAN_RUSSELL_ASSIGNED",
+        "VICTIM_STATUS_FORMAL_RECOGNITION"
+      ],
+      "cluster": "Sussex Police"
+    }
+  ]
+}

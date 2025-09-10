@@ -1,0 +1,27 @@
+{
+  "id": "VEX_8 May 2025 at 02-57 - Be very very careful_OCR",
+  "type": "evidence",
+  "source": "Smart OCR Ingest",
+  "date": "DATE_NOT_FOUND",
+  "summary": "Auto-ingested from file: 8 May 2025 at 02-57 - Be very very careful.pdf",
+  "meta": {
+    "original_filename": "8 May 2025 at 02-57 - Be very very careful.pdf",
+    "ocr_pdf_file": "8 May 2025 at 02-57 - Be very very careful_ocr.pdf",
+    "ocr_text_file": "8 May 2025 at 02-57 - Be very very careful.txt",
+    "sha256": "d63536f29148d9ac6156be1806730b1963d95a74a789972575f2ecd1cf7627ba",
+    "source_folder": ".",
+    "ingested_on": "2025-09-06T14:05:34.201562",
+    "ingest_method": "ocr_smart"
+  },
+  "links": {
+    "source_file_original": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_unprocessed/8 May 2025 at 02-57 - Be very very careful.pdf",
+    "ocr_pdf_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_ocrd/8 May 2025 at 02-57 - Be very very careful_ocr.pdf",
+    "ocr_text_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/text/8 May 2025 at 02-57 - Be very very careful.txt"
+  },
+  "tags": [
+    "auto_ocr",
+    " be very very careful",
+    "8 may 2025 at 02",
+    "57 "
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "meta_ref": "book_meta.json",
+  "type": "book_core",
+  "section": "sec3",
+  "chapters": [
+    {
+      "id": "sec3_25",
+      "title": "3.25 — The Honey Pot Email",
+      "order": 325,
+      "paragraphs": [
+        {
+          "text": "Brighton Fringe acknowledges the police screenshot yet claims no record of allegations, suggesting a safeguarding deflection strategy.",
+          "allegations": [
+            "Retaliation and governance failures by Brighton Fringe Ltd."
+          ],
+          "contradictions": [
+            "SAFEGUARDING_APPEARANCE",
+            "NO_RECORD_OF_ALLEGATIONS"
+          ],
+          "timeline_refs": [
+            "t2_brighton_fringe_consequences#0425"
+          ],
+          "vex_tags": [
+            "SAFEGUARDING_DEFLECTION",
+            "GOVERNANCE_FAILURE",
+            "INSTITUTIONAL_GASLIGHTING"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sec3_33",
+      "title": "3.33 — The Invisible Probe: Covert Verification of the PC Russell Diversion",
+      "order": 333,
+      "paragraphs": [
+        {
+          "text": "Sussex Police inconsistently name officers while confirming details without crime reference — Russell's role becomes strategically obfuscated.",
+          "allegations": [
+            "Catastrophic safeguarding breaches by Sussex Police"
+          ],
+          "contradictions": [
+            "OFFICER_SUBSTITUTION",
+            "VERIFICATION_CONTRADICTION"
+          ],
+          "timeline_refs": [
+            "t1_sussex_police_chronology#0518"
+          ],
+          "vex_tags": [
+            "DATA_ACCESS_INCONSISTENCY",
+            "SUSSEX_POLICE_MISDIRECTION",
+            "ACCOUNTABILITY_CHAIN_BREAK"
+          ]
+        }
+      ]
+    }
+  ]
+}

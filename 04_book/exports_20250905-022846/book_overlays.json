@@ -1,0 +1,5 @@
+{
+  "type": "book_overlays",
+  "notes": "Place overlay/labelling/json that the book references.",
+  "version": "1.0.0"
+}

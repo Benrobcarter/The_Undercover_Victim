@@ -1,0 +1,113 @@
+{
+  "id": "BF-CONTRA-VENUE-MANAGER-CONTRACT-BREACHES-2025",
+  "title": "Brighton Fringe’s Breach of the Venue Managers’ Agreement (2025)",
+  "claim": "Brighton Fringe upheld the 2024/2025 Venue Managers’ Agreement in good faith, ensuring fair communication, promotion, ticketing, and settlement duties.",
+  "reality": "Brighton Fringe repeatedly breached the obligations in the Venue Managers’ Agreement, using expired contracts, withholding minutes, delaying or denying communication, collapsing box office duties, erasing co-branded publicity, and weaponising silence against safeguarding disclosures.",
+  "actors": [
+    "Brighton Fringe Ltd",
+    "Duncan Lustig-Prean",
+    "Amy Keogh",
+    "Alice Wright",
+    "Brighton Fringe Trustees"
+  ],
+  "laws": [
+    {
+      "act": "Contract Law",
+      "section": "Doctrine of Consideration",
+      "why": "Expired 2024 contract enforced in 2025 without consent"
+    },
+    {
+      "act": "Charities Act 2011",
+      "section": "s.177, s.191, s.193",
+      "why": "Trustee duty to act in good faith, disclose conflicts, and protect beneficiaries"
+    },
+    {
+      "act": "Consumer Protection from Unfair Trading Regulations 2008",
+      "section": "Misleading omissions",
+      "why": "Withholding operational failures while blaming partner"
+    }
+  ],
+  "sub_contradictions": [
+    {
+      "id": "BF-CONTRA-COMMUNICATION-DUTY-BREACH",
+      "title": "Failure to Respond Within Contractual Timeframes",
+      "claim": "Brighton Fringe responded to venue managers within two working days / 24 hours during the festival.",
+      "reality": "Evidence shows weeks and months of silence on safeguarding disclosures and operational failures.",
+      "vex_tags": [
+        "COMMUNICATION_TIMELINESS_BREACH",
+        "DEATH_BY_SILENCE",
+        "SAFEGUARDING_DEFLECTION"
+      ],
+      "evidence_refs": [],
+      "timeline_hooks": []
+    },
+    {
+      "id": "BF-CONTRA-BOARD-MINUTES-BREACH",
+      "title": "Withholding of Board Minutes and Decisions",
+      "claim": "The Chair emailed each venue after every Board meeting with details of discussions and decisions.",
+      "reality": "Duncan refused to share full minutes, only selective extracts, leaving venues uninformed.",
+      "vex_tags": [
+        "BOARD_MINUTES_WITHHELD",
+        "GOVERNANCE_ERASURE",
+        "RECORD_MANIPULATION"
+      ],
+      "evidence_refs": [],
+      "timeline_hooks": []
+    },
+    {
+      "id": "BF-CONTRA-PROMOTIONAL-SUPPORT-BREACH",
+      "title": "Withdrawal of Promotional Materials and Publicity",
+      "claim": "Brighton Fringe promoted venues online, in print, and via physical materials (bunting, signage, Family Guide).",
+      "reality": "Co-branded posters and brochures were erased, and later weaponised in a libel email.",
+      "vex_tags": [
+        "PROMOTIONAL_SUPPORT_WITHDRAWN",
+        "PUBLICITY_ERASURE",
+        "COBRAND_EXPLOITATION",
+        "DEFAMATION_THROUGH_OMISSION"
+      ],
+      "evidence_refs": [],
+      "timeline_hooks": []
+    },
+    {
+      "id": "BF-CONTRA-BOXOFFICE-BREACH",
+      "title": "Box Office Allocation and Settlement Failures",
+      "claim": "Brighton Fringe ensured fair ticket allocations, prevented multiple booking fees, and settled within 6 weeks.",
+      "reality": "Ticketing collapsed, public phoned Ben directly, allocations were mishandled, and settlement schedules breached.",
+      "vex_tags": [
+        "BOX_OFFICE_REALLOCATION_FAILURE",
+        "OPERATIONAL_BREAKDOWN",
+        "UNLAWFUL_BURDEN_SHIFT",
+        "SETTLEMENT_TIMELINE_BREACH"
+      ],
+      "evidence_refs": [],
+      "timeline_hooks": []
+    },
+    {
+      "id": "BF-CONTRA-VENUE-SUPPORT-BREACH",
+      "title": "Exclusion from Meetings and Constructive Dialogue",
+      "claim": "Brighton Fringe held regular meetings, maintained groups, and ensured constructive dialogue with venues.",
+      "reality": "Evidence shows exclusion from groups, erasure of communication, and constructive dialogue replaced with deflection.",
+      "vex_tags": [
+        "VENUE_SUPPORT_FAILURE",
+        "CONSTRUCTIVE_EXPULSION",
+        "VENUE_MANAGER_ROLE_EXPANSION"
+      ],
+      "evidence_refs": [],
+      "timeline_hooks": []
+    },
+    {
+      "id": "BF-CONTRA-ACCESSIBILITY-BREACH",
+      "title": "Accessibility and Sustainability Failures",
+      "claim": "Venues were supported to ensure accessibility and sustainability in line with Fringe policy.",
+      "reality": "Audience data collapse and insurance failures left venues unsafe and inaccessible, contradicting obligations.",
+      "vex_tags": [
+        "ACCESSIBILITY_COMMITMENT_BREACH",
+        "UNINSURABLE_EVENT",
+        "VENUE_SUPPORT_FAILURE"
+      ],
+      "evidence_refs": [],
+      "timeline_hooks": []
+    }
+  ],
+  "created_at": "2025-09-01T00:00:00Z"
+}

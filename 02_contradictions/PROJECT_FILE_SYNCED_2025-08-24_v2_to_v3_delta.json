@@ -1,0 +1,13 @@
+{
+  "from_bundle": "PROJECT_FILE_SYNCED_2025-08-24_v2.zip",
+  "to_bundle": "PROJECT_FILE_SYNCED_2025-08-24_v3.zip",
+  "created_at": "2025-08-24T23:17:14.548814Z",
+  "added_files": [
+    "PUBLIC_BUNDLE_SUMMARY_SAR_SUSSEX_POLICE.json",
+    "COMPENSATION_CLAIM_MATRIX_SUSSEX_POLICE.json",
+    "SUSSEX_POLICE_SAFEGUARDING_BREAKDOWN_MAY_2025.json"
+  ],
+  "removed_files": [],
+  "modified_files": [],
+  "notes": "v3 restores SAR suppression JSONs that were missing in v2; manifest updated with v3_notes."
+}

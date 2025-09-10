@@ -1,0 +1,238 @@
+{
+  "project": "PROJECT_FILE_SYNCED_2025-08-26_213646_v6",
+  "generated_utc": "2025-08-26T21:36:46.519075Z",
+  "count": 33,
+  "entries": [
+    {
+      "relative_path": "03_analysis/SECTION_3_WORKING_DRAFT_v1.1_UPDATED_3.37.md",
+      "category": "03_analysis",
+      "filename": "SECTION_3_WORKING_DRAFT_v1.1_UPDATED_3.37.md",
+      "size_bytes": 9634,
+      "sha256": "b5348b2776480ac4b07ef3fefa3f6d5ba5a1a7308157a0237a4b8e780d6f720c"
+    },
+    {
+      "relative_path": "01_evidence/vex/VEX_2025-06-23_101_Dixon_or_Death.json",
+      "category": "01_evidence/vex",
+      "filename": "VEX_2025-06-23_101_Dixon_or_Death.json",
+      "size_bytes": 1408,
+      "sha256": "9dd78de6904882d51b44a9dca04d7f012142be3e73acc6208ae41f381c190a89"
+    },
+    {
+      "relative_path": "03_analysis/SECTION_3_WORKING_DRAFT_v1.1_UPDATED_3.40.md",
+      "category": "03_analysis",
+      "filename": "SECTION_3_WORKING_DRAFT_v1.1_UPDATED_3.40.md",
+      "size_bytes": 7967,
+      "sha256": "eb21db3ec337e6050864e106ec4d16d9e5148f609740c4d262352486de81626d"
+    },
+    {
+      "relative_path": "03_analysis/SECTION_3_WORKING_DRAFT_v1.1_UPDATED_3.41.md",
+      "category": "03_analysis",
+      "filename": "SECTION_3_WORKING_DRAFT_v1.1_UPDATED_3.41.md",
+      "size_bytes": 10034,
+      "sha256": "6223356089104f755a81cd2fc2abbd6dc85323508698af3f41165a159ad91cd7"
+    },
+    {
+      "relative_path": "01_evidence/vex/VEX_2025-06-23_101_Dixon_or_Death_DETAILED.json",
+      "category": "01_evidence/vex",
+      "filename": "VEX_2025-06-23_101_Dixon_or_Death_DETAILED.json",
+      "size_bytes": 14141,
+      "sha256": "3244968f60b4378669b00d8810a8ae3564c41b99a943d23258d1ffa37d062ebb"
+    },
+    {
+      "relative_path": "03_analysis/SECTION_3.38_Retaliatory_Hang_Up_Calls.json",
+      "category": "03_analysis",
+      "filename": "SECTION_3.38_Retaliatory_Hang_Up_Calls.json",
+      "size_bytes": 3027,
+      "sha256": "b1067bf5d04b710465136978e88930158cfb52b38d6b913cc0b4aa1283e1b335"
+    },
+    {
+      "relative_path": "01_evidence/vex/VEX_2025-06-23_Not_Vulnerable_Promise.json",
+      "category": "01_evidence/vex",
+      "filename": "VEX_2025-06-23_Not_Vulnerable_Promise.json",
+      "size_bytes": 661,
+      "sha256": "14f795541644fc19385af3c3ad5d025f5430d2771d94bb50e46960a1836c4d89"
+    },
+    {
+      "relative_path": "01_evidence/vex/VEX_2025-06-22_Cherish_Bundle_v3_FULL.json",
+      "category": "01_evidence/vex",
+      "filename": "VEX_2025-06-22_Cherish_Bundle_v3_FULL.json",
+      "size_bytes": 2274,
+      "sha256": "35b9c0f5826a0e86357061443aa904fecfe0ec40c4c2c0b1881011f448bab7a4"
+    },
+    {
+      "relative_path": "02_contradictions/CONTRADICTION_NODE_2025-06-23_Dixon_or_Death.json",
+      "category": "02_contradictions",
+      "filename": "CONTRADICTION_NODE_2025-06-23_Dixon_or_Death.json",
+      "size_bytes": 1128,
+      "sha256": "92472fb7f65dc55dff15160b2740888f6a16ce29eac3e89f31a7f76bd6559f18"
+    },
+    {
+      "relative_path": "06_meta/shard_evidence_vex.json",
+      "category": "06_meta",
+      "filename": "shard_evidence_vex.json",
+      "size_bytes": 974420,
+      "sha256": "b5e94b3bb4c5d7ce16eef7763f15366cd2f77d94fbdf500257c63148c9d46112"
+    },
+    {
+      "relative_path": "01_evidence/vex/VEX_2025-06-23_13-48_Not_Vulnerable_Promise.json",
+      "category": "01_evidence/vex",
+      "filename": "VEX_2025-06-23_13-48_Not_Vulnerable_Promise.json",
+      "size_bytes": 42836,
+      "sha256": "c7a2ce5d9b9d54954326706221e09e54d77794c908347ff4f666b4bd87f16280"
+    },
+    {
+      "relative_path": "06_meta/consolidate_shards.py",
+      "category": "06_meta",
+      "filename": "consolidate_shards.py",
+      "size_bytes": 2132,
+      "sha256": "361bae841b9b533ef83944556617f7f2fef2fa1b2a89ce285e693167f7219906"
+    },
+    {
+      "relative_path": "06_meta/shard_contradictions_core.json",
+      "category": "06_meta",
+      "filename": "shard_contradictions_core.json",
+      "size_bytes": 155614,
+      "sha256": "0db422f802a5ab728d4af40c197015f5d8ebe576a54b1f00031799c0d8d84712"
+    },
+    {
+      "relative_path": "04_manifest/shard_manifest_meta.json",
+      "category": "04_manifest",
+      "filename": "shard_manifest_meta.json",
+      "size_bytes": 32587,
+      "sha256": "36cb9223f4cadd898b493e11ec75dad32df108ea7fa5b7b0404e407834f5e926"
+    },
+    {
+      "relative_path": "01_evidence/vex/VEX_UNDERCOVER_VICTIM_BUNDLE_v1.json",
+      "category": "01_evidence/vex",
+      "filename": "VEX_UNDERCOVER_VICTIM_BUNDLE_v1.json",
+      "size_bytes": 20015,
+      "sha256": "d39fa26d6c121271932e4d7131bc8eb5665a8ad60270e271e5f80028404a6491"
+    },
+    {
+      "relative_path": "03_analysis/MASTER_COMPLAINT_INDEX_v1.json",
+      "category": "03_analysis",
+      "filename": "MASTER_COMPLAINT_INDEX_v1.json",
+      "size_bytes": 6428,
+      "sha256": "24677a4be49999bff474e66eac0ebb4984f77b5ce0db74e2a9383c2928846f17"
+    },
+    {
+      "relative_path": "03_analysis/SECTION_3_WORKING_DRAFT_v1.1.md",
+      "category": "03_analysis",
+      "filename": "SECTION_3_WORKING_DRAFT_v1.1.md",
+      "size_bytes": 6334,
+      "sha256": "3db2e0382d1c20f3e4a17421baa787f57b6d6b0a9e73082010412802321e05c7"
+    },
+    {
+      "relative_path": "03_analysis/SECTION_3_SKELETON_v1.1.json",
+      "category": "03_analysis",
+      "filename": "SECTION_3_SKELETON_v1.1.json",
+      "size_bytes": 3527,
+      "sha256": "8811ce8669cff0dead2a9cca91366b28f3af8915b1becb39df4d2fe4d6447b9e"
+    },
+    {
+      "relative_path": "01_evidence/vex/VEX_UNDERCOVER_VICTIM_BUNDLE_v1.8.json",
+      "category": "01_evidence/vex",
+      "filename": "VEX_UNDERCOVER_VICTIM_BUNDLE_v1.8.json",
+      "size_bytes": 32452,
+      "sha256": "8666c18d0c436c7efc1af00fba8aadd8a7c042f732442bbbc4902baeb33d1015"
+    },
+    {
+      "relative_path": "08_supporting/ONE_LINERS_CARDS_v1.md",
+      "category": "08_supporting",
+      "filename": "ONE_LINERS_CARDS_v1.md",
+      "size_bytes": 5181,
+      "sha256": "6cbccd948e72c0ad6e1eb752e8d4935d575f440f1fc01375dff7e8a64b58adba"
+    },
+    {
+      "relative_path": "08_supporting/UNDERCOVER_VICTIM_QUOTE_BANK_v1 (1).json",
+      "category": "08_supporting",
+      "filename": "UNDERCOVER_VICTIM_QUOTE_BANK_v1 (1).json",
+      "size_bytes": 13190,
+      "sha256": "68b641f82cd2019a034b23750c88f6194164145a06eacd4a921e06d2b5112f92"
+    },
+    {
+      "relative_path": "04_manifest/VERITAS_FULL_WORKS_manifest_v2.json",
+      "category": "04_manifest",
+      "filename": "VERITAS_FULL_WORKS_manifest_v2.json",
+      "size_bytes": 6269,
+      "sha256": "0cdedf1564e41911e69b20158a3e8f91364b292a89a538a077bcc95569bf057c"
+    },
+    {
+      "relative_path": "01_evidence/vex/VEX_2025-03_to_07_Veritas_EmmaJones_WhatsApp_A10 (1).json",
+      "category": "01_evidence/vex",
+      "filename": "VEX_2025-03_to_07_Veritas_EmmaJones_WhatsApp_A10 (1).json",
+      "size_bytes": 9322,
+      "sha256": "60922751cf46763d6205e9c71a877ea54193c45555ae7deae5716b92156fa0cd"
+    },
+    {
+      "relative_path": "03_analysis/3.1 - From Victim to Investigator_ A Case Study in Forced Self-Advocacy.docx.txt",
+      "category": "03_analysis",
+      "filename": "3.1 - From Victim to Investigator_ A Case Study in Forced Self-Advocacy.docx.txt",
+      "size_bytes": 2618,
+      "sha256": "7083245a50280f9e7cf25c4bbb2c2320a0d3ebd33f02a1b9a28b8218d736c6eb"
+    },
+    {
+      "relative_path": "04_manifest/VERITAS_FULL_WORKS_manifest_v3.csv",
+      "category": "04_manifest",
+      "filename": "VERITAS_FULL_WORKS_manifest_v3.csv",
+      "size_bytes": 3932,
+      "sha256": "c8d25522d5ea6910a8ee072c0be312ae0d0493c2962ce87a5c31658746bbdfc1"
+    },
+    {
+      "relative_path": "02_contradictions/CONTRADICTIONS_VERITAS_BUNDLE (1).csv",
+      "category": "02_contradictions",
+      "filename": "CONTRADICTIONS_VERITAS_BUNDLE (1).csv",
+      "size_bytes": 2402,
+      "sha256": "4ae355772ebe43c5360d6e641296c7aac0c45f779ccf8337c1d13b6c9f407a3b"
+    },
+    {
+      "relative_path": "04_manifest/VERITAS_FULL_WORKS_manifest_v2.csv",
+      "category": "04_manifest",
+      "filename": "VERITAS_FULL_WORKS_manifest_v2.csv",
+      "size_bytes": 3932,
+      "sha256": "18a8d0de3d402f5cdb41fb661e38211e8c2308872df3a079127800df5efc6b8a"
+    },
+    {
+      "relative_path": "01_evidence/EVID_2025-03_to_07_Veritas_EmmaJones_WhatsApp_OCR_REDACTED.txt",
+      "category": "01_evidence",
+      "filename": "EVID_2025-03_to_07_Veritas_EmmaJones_WhatsApp_OCR_REDACTED.txt",
+      "size_bytes": 4619,
+      "sha256": "067d435f6e6343954dda8b090a3fb44fda10b5ab345cd52a35f5800ec1ed00f8"
+    },
+    {
+      "relative_path": "01_evidence/EVID_2025-06-25_1107_Your_Support_OCR_REDACTED.txt",
+      "category": "01_evidence",
+      "filename": "EVID_2025-06-25_1107_Your_Support_OCR_REDACTED.txt",
+      "size_bytes": 2057,
+      "sha256": "01b80fa053283a9f190dd93ad89a71bd8f79452bbf8616c1477030b736811014"
+    },
+    {
+      "relative_path": "03_analysis/BRIEF_2025-06-25_Veritas_Timeline.md",
+      "category": "03_analysis",
+      "filename": "BRIEF_2025-06-25_Veritas_Timeline.md",
+      "size_bytes": 1142,
+      "sha256": "7ae1417d824dbc201a5029e5fa399edfa46566cf7e3512d8152661475e003abd"
+    },
+    {
+      "relative_path": "01_evidence/EVID_2025-06-25_1121_Safety_Plan_BC_OCR_REDACTED.txt",
+      "category": "01_evidence",
+      "filename": "EVID_2025-06-25_1121_Safety_Plan_BC_OCR_REDACTED.txt",
+      "size_bytes": 2305,
+      "sha256": "68757e4c20de7d29de31a16bdd6f10ff72a1f0770eec55df8b6b8ad7b7929113"
+    },
+    {
+      "relative_path": "01_evidence/EVID_2025-06-25_1121_Your_Safety_Plan_OCR_REDACTED.txt",
+      "category": "01_evidence",
+      "filename": "EVID_2025-06-25_1121_Your_Safety_Plan_OCR_REDACTED.txt",
+      "size_bytes": 354,
+      "sha256": "ded314c30925f5d2debf287a8a29c76afe4dc53c3f9a546849ed872fb5f19805"
+    },
+    {
+      "relative_path": "README_PROJECT.md",
+      "category": "root",
+      "filename": "README_PROJECT.md",
+      "size_bytes": 572,
+      "sha256": "60ecc95979c62cdb03bfbb80908611d4450b26e438ba629859f5dae27146dd6d"
+    }
+  ]
+}

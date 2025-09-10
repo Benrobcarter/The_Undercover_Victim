@@ -1,0 +1,32 @@
+{
+  "log_id": "SUPPRESSION_AUDIT_LOG_2025_Q3",
+  "actors": {
+    "Brighton Fringe Ltd": {
+      "actions": [
+        "Logged disclosures without action",
+        "Issued mass libel email post-suicide disclosure",
+        "Failed to disclose Alice Wright and trustee minutes in SAR",
+        "Withheld draft versions of removal communications"
+      ],
+      "related_events": [
+        "EMAIL_2025-05-07_LOGGING_ADMISSION",
+        "EMAIL_2025-07-18_LIBEL_EMAIL"
+      ]
+    },
+    "NHS Seven Dials Medical Centre": {
+      "actions": [
+        "Allegedly rewrote or redacted post-suicide notes",
+        "Failed to fulfil SAR or issue lawful extension",
+        "Obscured audit trails and third-party disclosures",
+        "Aligned terminology with Brighton Fringe’s narrative"
+      ],
+      "related_events": [
+        "EXHIBIT_NHS_SCREENRECORDING_0714",
+        "EXHIBIT_NHS_FINAL_ESCALATION"
+      ]
+    }
+  },
+  "period": "May – August 2025",
+  "summary": "Multiple public bodies and healthcare entities are implicated in coordinated suppression of evidence following suicide risk disclosures. Both failed to comply with GDPR, issued misleading narratives, and suppressed audit trails to prevent accountability.",
+  "compiled_on": "2025-08-31T16:01:01.491545Z"
+}

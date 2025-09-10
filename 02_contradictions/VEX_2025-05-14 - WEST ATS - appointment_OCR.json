@@ -1,0 +1,28 @@
+{
+  "id": "VEX_2025-05-14 - WEST ATS - appointment_OCR",
+  "type": "evidence",
+  "source": "Smart OCR Ingest",
+  "date": "2025-05-14",
+  "summary": "Auto-ingested from file: 2025-05-14 - WEST ATS - appointment.pdf",
+  "meta": {
+    "original_filename": "2025-05-14 - WEST ATS - appointment.pdf",
+    "ocr_pdf_file": "2025-05-14 - WEST ATS - appointment_ocr.pdf",
+    "ocr_text_file": "2025-05-14 - WEST ATS - appointment.txt",
+    "sha256": "5482ce0bf6166c4a01cef90b4ac9749990294de82a065f5fac5fedb0e091e0e5",
+    "source_folder": ".",
+    "ingested_on": "2025-09-06T23:14:50.911520",
+    "ingest_method": "ocr_smart"
+  },
+  "links": {
+    "source_file_original": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_unprocessed/2025-05-14 - WEST ATS - appointment.pdf",
+    "ocr_pdf_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_ocrd/2025-05-14 - WEST ATS - appointment_ocr.pdf",
+    "ocr_text_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/text/2025-05-14 - WEST ATS - appointment.txt"
+  },
+  "tags": [
+    "auto_ocr",
+    " appointment",
+    "2025",
+    " west ats ",
+    "14 "
+  ]
+}

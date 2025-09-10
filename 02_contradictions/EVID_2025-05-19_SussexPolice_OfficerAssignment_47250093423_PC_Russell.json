@@ -1,0 +1,18 @@
+{
+  "filename": "EVID_2025-05-19_SussexPolice_OfficerAssignment_47250093423_PC_Russell.json",
+  "date": "2025-05-19",
+  "from": "Crime Management Unit, Sussex Police",
+  "to": "Ben Carter",
+  "subject": "Crime Reference Assignment Confirmation",
+  "summary": "Official letter from Sussex Police Crime Management Unit confirming Ben Carter as the victim in crime reference 47250093423. Police Constable CR477 Alan Russell is named as the investigating officer. The letter acknowledges the report, confirms the assignment of an officer, and advises Ben on how future contact should be managed.",
+  "tags": [
+    "CRIME_REF_47250093423_CONFIRMED",
+    "PC_ALAN_RUSSELL_ASSIGNED",
+    "VICTIM_STATUS_FORMAL_RECOGNITION",
+    "STALKING_INVESTIGATION_INITIATED",
+    "EVIDENCE_OF_POLICE_ACKNOWLEDGEMENT"
+  ],
+  "location": "/01_evidence/sussex_police/",
+  "linked_image": "EVID_2025-05-19_SussexPolice_OfficerAssignment_47250093423_PC_Russell.jpeg",
+  "notes": "Letter signed by Sean Lambourne, CMU Manager. Validates active investigation and victim status as of 19 May 2025."
+}

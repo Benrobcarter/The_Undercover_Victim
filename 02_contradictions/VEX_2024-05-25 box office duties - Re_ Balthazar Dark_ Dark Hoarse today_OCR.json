@@ -1,0 +1,29 @@
+{
+  "id": "VEX_2024-05-25 box office duties - Re_ Balthazar Dark_ Dark Hoarse today_OCR",
+  "type": "evidence",
+  "source": "Smart OCR Ingest",
+  "date": "2024-05-25",
+  "summary": "Auto-ingested from file: 2024-05-25 box office duties - Re_ Balthazar Dark_ Dark Hoarse today.pdf",
+  "meta": {
+    "original_filename": "2024-05-25 box office duties - Re_ Balthazar Dark_ Dark Hoarse today.pdf",
+    "ocr_pdf_file": "2024-05-25 box office duties - Re_ Balthazar Dark_ Dark Hoarse today_ocr.pdf",
+    "ocr_text_file": "2024-05-25 box office duties - Re_ Balthazar Dark_ Dark Hoarse today.txt",
+    "sha256": "5829198a70d573e64492ed5d4f628190e9e5eec0229d3dbe74d02b9c4e731de3",
+    "source_folder": ".",
+    "ingested_on": "2025-09-06T23:30:18.963827",
+    "ingest_method": "ocr_smart"
+  },
+  "links": {
+    "source_file_original": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_unprocessed/2024-05-25 box office duties - Re_ Balthazar Dark_ Dark Hoarse today.pdf",
+    "ocr_pdf_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_ocrd/2024-05-25 box office duties - Re_ Balthazar Dark_ Dark Hoarse today_ocr.pdf",
+    "ocr_text_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/text/2024-05-25 box office duties - Re_ Balthazar Dark_ Dark Hoarse today.txt"
+  },
+  "tags": [
+    "auto_ocr",
+    " dark hoarse today",
+    "2024",
+    "25 box office duties ",
+    " balthazar dark",
+    " re"
+  ]
+}

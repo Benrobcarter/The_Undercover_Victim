@@ -1,0 +1,97 @@
+{
+  "meta": {
+    "case_reference": "47240214305",
+    "thread_label": "CRIME_REF_47240214305_THREAD",
+    "index_last_updated": "2025-08-24T18:18:13.883099Z",
+    "naming_rules": {
+      "system_json": "YYYY-MM-DD_PC_Dixon_Email_[N]_CRN-47240214305_VEX.json",
+      "human_pdf": "CRN-47240214305_[Sender-Recipient]_[Date]_Email-[N].pdf"
+    }
+  },
+  "crosswalk": [
+    {
+      "email_number": 1,
+      "date": "2024-11-04T15:31:00",
+      "from_to": "PC-Dixon_to_Ben",
+      "json_filename": "2024-11-04_PC_Dixon_Email_1_CRN-47240214305_VEX.json",
+      "pdf_filename": "CRN-47240214305_PC-Dixon_to_Ben_04-Nov-2024_Email-1.pdf"
+    },
+    {
+      "email_number": 2,
+      "date": "2024-11-04T15:35:00",
+      "from_to": "Ben_to_PC-Dixon",
+      "json_filename": "2024-11-04_PC_Dixon_Email_2_CRN-47240214305_VEX.json",
+      "pdf_filename": "CRN-47240214305_Ben_to_PC-Dixon_04-Nov-2024_Email-2.pdf"
+    },
+    {
+      "email_number": 3,
+      "date": "2024-11-04T15:39:00",
+      "from_to": "PC-Dixon_to_Ben",
+      "json_filename": "2024-11-04_PC_Dixon_Email_3_CRN-47240214305_VEX.json",
+      "pdf_filename": "CRN-47240214305_PC-Dixon_to_Ben_04-Nov-2024_Email-3.pdf"
+    },
+    {
+      "email_number": 4,
+      "date": "2024-11-04T15:42:00",
+      "from_to": "Ben_to_PC-Dixon",
+      "json_filename": "2024-11-04_PC_Dixon_Email_4_CRN-47240214305_VEX.json",
+      "pdf_filename": "CRN-47240214305_Ben_to_PC-Dixon_04-Nov-2024_Email-4.pdf"
+    },
+    {
+      "email_number": 5,
+      "date": "2024-11-04T20:52:00",
+      "from_to": "Ben_to_PC-Dixon",
+      "json_filename": "2024-11-04_PC_Dixon_Email_5_CRN-47240214305_VEX.json",
+      "pdf_filename": "CRN-47240214305_Ben_to_PC-Dixon_04-Nov-2024_Email-5.pdf"
+    },
+    {
+      "email_number": 6,
+      "date": "2024-11-07T19:06:00",
+      "from_to": "PC-Dixon_to_Ben",
+      "json_filename": "2024-11-07_PC_Dixon_Email_6_CRN-47240214305_VEX.json",
+      "pdf_filename": "CRN-47240214305_PC-Dixon_to_Ben_07-Nov-2024_Email-6.pdf"
+    },
+    {
+      "email_number": 7,
+      "date": "2024-11-07T19:19:00",
+      "from_to": "Ben_to_PC-Dixon",
+      "json_filename": "2024-11-07_PC_Dixon_Email_7_CRN-47240214305_VEX.json",
+      "pdf_filename": "CRN-47240214305_Ben_to_PC-Dixon_07-Nov-2024_Email-7.pdf"
+    },
+    {
+      "email_number": 8,
+      "date": "2024-11-09T18:47:00",
+      "from_to": "Ben_to_PC-Dixon",
+      "json_filename": "2024-11-09_PC_Dixon_Email_8_CRN-47240214305_VEX.json",
+      "pdf_filename": "CRN-47240214305_Ben_to_PC-Dixon_09-Nov-2024_Email-8.pdf"
+    },
+    {
+      "email_number": 9,
+      "date": "2024-12-16T13:01:00",
+      "from_to": "PC-Dixon_to_Ben",
+      "json_filename": "2024-12-16_PC_Dixon_Email_9_CRN-47240214305_VEX.json",
+      "pdf_filename": "CRN-47240214305_PC-Dixon_to_Ben_16-Dec-2024_Email-9.pdf"
+    },
+    {
+      "email_number": 14,
+      "date": "2025-02-12T11:30:00",
+      "from_to": "Ben_to_PC-Dixon",
+      "json_filename": "2025-02-12_PC_Dixon_Email_14_CRN-47240214305_VEX.json",
+      "pdf_filename": "CRN-47240214305_Ben_to_PC-Dixon_12-Feb-2025_Email-14.pdf"
+    },
+    {
+      "email_number": 15,
+      "date": "2025-02-12T14:12:00",
+      "from_to": "Ben_to_PC-Dixon",
+      "json_filename": "2025-02-12_PC_Dixon_Email_15_CRN-47240214305_VEX.json",
+      "pdf_filename": "CRN-47240214305_Ben_to_PC-Dixon_12-Feb-2025_Email-15.pdf"
+    },
+    {
+      "email_number": 16,
+      "date": "2025-02-12T14:12:00",
+      "from_to": "Ben_to_PC-Dixon",
+      "json_filename": "2025-02-12_Ben_Email_16_CRN-47240214305_VEX.json",
+      "pdf_filename": "CRN-47240214305_Ben_to_PC-Dixon_12-Feb-2025_Email-16.pdf"
+    }
+  ]
+}

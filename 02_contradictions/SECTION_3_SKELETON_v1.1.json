@@ -1,0 +1,127 @@
+{
+  "meta": {
+    "name": "SECTION_3_SKELETON",
+    "version": "v1",
+    "updated_utc": "2025-08-26T04:35:40.646985Z",
+    "series_title": "The Undercover Victim"
+  },
+  "subsections": [
+    {
+      "id": "3.1",
+      "title": "From Victim to Investigator",
+      "evidence_refs": [
+        "EVID_2024-07-XX_July_Call.mp3",
+        "LOG_2024-11-07_Dixon_listened_deleted.txt",
+        "EMAIL_2025-02-12_Bail_confirm_forward_unredacted.eml",
+        "TRANSCRIPT_2025-04-11_101_Crowbarring_Myself_Justice_(1..3).txt",
+        "NOTE_2025-04-06_Suicide_Attempt.txt",
+        "EMAIL_2025-04-22_Procedural_Inversion.txt",
+        "EMAIL_2025-04-27_NFA_to_Suspect_prior_meeting.eml",
+        "SAR_2025-06-25_Refusal_After_Closure.pdf",
+        "VOICEMAIL_2025-05-27_101_Suicide_Acknowledged.mp3",
+        "AMBULANCE_2025-05-27_1758_Call_Transcript.txt",
+        "101_2025-06-22_Monologue_Transcript.txt",
+        "EMAIL_2025-07-20_Brighton_Fringe_Minutes_Refusal.eml"
+      ],
+      "contradictions": [
+        "LOST_EVIDENCE_SUSSEX_POLICE",
+        "CROWBARRING_MYSELF_JUSTICE",
+        "DEATH_BY_SILENCE",
+        "DUNCAN_ASSISTED_ERASURE"
+      ],
+      "timeline_hooks": [
+        "SussexPolice",
+        "BrightonFringe",
+        "PersonalEvidence"
+      ],
+      "legal_breaches": [
+        "VictimsCode",
+        "UKGDPR_Art12_15",
+        "Safeguarding_Guidance",
+        "Records_Management"
+      ],
+      "new_findings": [],
+      "todos": []
+    },
+    {
+      "id": "3.2",
+      "title": "Chain\u2011of\u2011Custody & the July Call: What the Logs Must Show",
+      "evidence_refs": [],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "legal_breaches": [],
+      "new_findings": [],
+      "todos": []
+    },
+    {
+      "id": "3.3",
+      "title": "The Silence Ladder: Each Non\u2011Reply Increases Harm",
+      "evidence_refs": [],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "legal_breaches": [],
+      "new_findings": [],
+      "todos": []
+    },
+    {
+      "id": "3.4",
+      "title": "Case Start Date Contortions: A Timeline Integrity Test",
+      "evidence_refs": [],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "legal_breaches": [],
+      "new_findings": [],
+      "todos": []
+    },
+    {
+      "id": "3.5",
+      "title": "NFA Before Safeguarding: Decision Path Audit",
+      "evidence_refs": [],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "legal_breaches": [],
+      "new_findings": [],
+      "todos": []
+    },
+    {
+      "id": "3.6",
+      "title": "Data Rights Blocked and Bent: SAR Handling After Closure",
+      "evidence_refs": [],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "legal_breaches": [],
+      "new_findings": [],
+      "todos": []
+    },
+    {
+      "id": "3.7",
+      "title": "External Confirmations: Third\u2011Party Anchors",
+      "evidence_refs": [],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "legal_breaches": [],
+      "new_findings": [],
+      "todos": []
+    },
+    {
+      "id": "3.8",
+      "title": "Brighton Fringe: Safeguarding Evasion & Retaliatory Narrative",
+      "evidence_refs": [],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "legal_breaches": [],
+      "new_findings": [],
+      "todos": []
+    },
+    {
+      "id": "3.9",
+      "title": "What Independent Review Should Do Now",
+      "evidence_refs": [],
+      "contradictions": [],
+      "timeline_hooks": [],
+      "legal_breaches": [],
+      "new_findings": [],
+      "todos": []
+    }
+  ]
+}

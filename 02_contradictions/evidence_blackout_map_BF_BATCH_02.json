@@ -1,0 +1,47 @@
+{
+  "batch": "BF_BATCH_02",
+  "missing_from_SAR": [
+    {
+      "actor": "Alice Wright",
+      "expected_records": [
+        "Emails",
+        "Meeting minutes",
+        "WhatsApp decision logs"
+      ],
+      "evidence_of_existence": [
+        "Operational logs",
+        "Venue handover PDFs",
+        "Admin role assignment"
+      ],
+      "impact": "SAR return invalidated; full operational trail concealed",
+      "tags": [
+        "SAR_STRUCTURAL_ABSENCE",
+        "TRUSTEE_ERASURE_COMPLIANCE"
+      ]
+    }
+  ],
+  "missing_minutes": [
+    {
+      "event": "Removal of complainant from Half a Camel operations",
+      "expected_minute_date": "June 2025",
+      "justification": "Platforming of new venue lead required trustee resolution",
+      "record_found": false,
+      "tags": [
+        "NO_MINUTES_NULLIFICATION",
+        "GOVERNANCE_ERASURE"
+      ]
+    }
+  ],
+  "log_erasure": [
+    {
+      "event": "Board response to safeguarding complaint",
+      "expected_log": "Escalation pathway or trustee referral outcome",
+      "confirmed_absence": true,
+      "impact": "No proof safeguarding was processed internally",
+      "tags": [
+        "SAFEGUARDING_DEFLECTION",
+        "BLACKHOLE_COMPLIANCE_CULTURE"
+      ]
+    }
+  ]
+}

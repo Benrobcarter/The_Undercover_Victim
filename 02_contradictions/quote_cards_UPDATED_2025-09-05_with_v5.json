@@ -1,0 +1,32 @@
+[
+  {
+    "quote": "Give in or give up? I chose survival.",
+    "source": "Ben Carter",
+    "tag": "resilience"
+  },
+  {
+    "quote": "The more you deflected, the more I reflected.",
+    "source": "Ben Carter",
+    "tag": "gaslighting"
+  },
+  {
+    "quote": "Not confused. Documenting.",
+    "source": "Ben Carter",
+    "tag": "clarity"
+  },
+  {
+    "id": "QUOTE_AUTOMATION_V5_RELEASE",
+    "quote": "The day the machine started writing back.",
+    "context": "Snapshot created upon completion of the full automation pipeline.",
+    "source": "Automation Verified: V5 Full Auto OK",
+    "date": "2025-09-05",
+    "tags": [
+      "system_milestone",
+      "vex_tooling",
+      "forensic_snapshot",
+      "automation_baseline",
+      "quote_card"
+    ],
+    "linked_file": "08_audit/V5_MILESTONE_BUNDLE_2025-09-05.zip"
+  }
+]

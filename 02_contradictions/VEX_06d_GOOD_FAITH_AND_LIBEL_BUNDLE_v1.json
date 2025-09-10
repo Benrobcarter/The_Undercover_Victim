@@ -1,0 +1,69 @@
+{
+  "vex_evidence": [
+    {
+      "id": "VEX_2025-03-27_CoBranded_Station_Poster_Proof",
+      "date": "2025-03-27",
+      "source_path": "06d. Proof of Good Faith and Financial Investment/EMAIL_2025-03-27_Artwork_Sent_To_Printers.pdf",
+      "summary": "Ben Carter sent final artwork for a Brighton Station co-branded poster campaign, promoting Half a Camel venues and 157 shows under the Brighton Fringe logo. This marketing investment was later erased from Fringe communications.",
+      "tags": [
+        "COBRAND_EXPLOITATION",
+        "GOOD_FAITH_USED_AS_TRAP",
+        "REPUTATIONAL_HARM",
+        "NARRATIVE_REPLACEMENT"
+      ],
+      "linked_contradictions": [
+        "CONTRA_2025-03-27_CoBrand_Erasure"
+      ],
+      "linked_timelines": [
+        "t2_brighton_fringe_consequences#2025-03-27"
+      ],
+      "quoted_text": [
+        "Please find attached the final poster artwork. It includes both Brighton Fringe and Half a Camel branding.",
+        "The station slot is booked. It will be live from May 1."
+      ]
+    },
+    {
+      "id": "VEX_2025-04-23_Ticketing_Admission_Elin_Eaton",
+      "date": "2025-04-23",
+      "source_path": "06d. Proof of Good Faith and Financial Investment/EMAIL_2025-04-23_Elin_Eaton_Ticketing_Admission.pdf",
+      "summary": "Elin Eaton, the Fringe Box Office Manager, admitted in writing that the ticketing system could not track capacity for unticketed events. This made it impossible for Ben Carter to secure Public Liability Insurance.",
+      "tags": [
+        "SYSTEMIC_FAILURE_CONFESSION",
+        "RISK_MANAGEMENT_BLOCKED",
+        "SAFEGUARDING_DEFLECTION",
+        "UNINSURABLE_EVENT"
+      ],
+      "linked_contradictions": [
+        "CONTRA_2025-04-23_Admitted_Ticketing_Collapse"
+      ],
+      "linked_timelines": [
+        "t2_brighton_fringe_consequences#2025-04-23"
+      ],
+      "quoted_text": [
+        "There is no way to track capacity from our end for an unticketed event. This will be down to the venue to judge when an event is full."
+      ]
+    },
+    {
+      "id": "VEX_2025-07-18_Brochure_Proof_And_Libel_Response",
+      "date": "2025-07-18",
+      "source_path": "06d. Proof of Good Faith and Financial Investment/BROCHURE_PROOF_INTERNAL_PAGES.pdf",
+      "summary": "Despite being accused of not producing a brochure in the July 18 libel email, Ben Carter had a complete, professionally designed brochure ready to print. He was caught in a legal bind caused by the Fringe's unsafe branding environment.",
+      "tags": [
+        "DEFAMATION_THROUGH_OMISSION",
+        "IMPOSSIBLE_COMPLIANCE_CONDITION",
+        "TRUST_COLLAPSE",
+        "LIBEL_ACTION_DISGUISED_AS_NEUTRAL_UPDATE"
+      ],
+      "linked_contradictions": [
+        "CONTRA_2025-07-18_Brochure_Libel_Twist"
+      ],
+      "linked_timelines": [
+        "t2_brighton_fringe_consequences#2025-07-18"
+      ],
+      "quoted_text": [
+        "Brochure was ready for print.",
+        "Including the Fringe logo risked trademark breach; removing it risked being framed as defection."
+      ]
+    }
+  ]
+}

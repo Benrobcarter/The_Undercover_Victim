@@ -1,0 +1,45 @@
+{
+  "timeline_id": "PALMER_CHAIN_OF_COMMAND_TIMELINE",
+  "title": "Palmer’s Chain of Command – Safeguarding Failures",
+  "created_at": "2025-08-30T23:42:30.649484",
+  "entries": [
+    {
+      "date": "2025-04-14",
+      "summary": "First WhatsApp voice calls between Ben and Veritas (Emma) begin. Initial contact attempts logged.",
+      "source": "EVID_2025-04_to_07_Veritas_WhatsApp_Emma_VEX.json",
+      "tags": [
+        "VERITAS_CONTACT",
+        "CALL_DURATION"
+      ]
+    },
+    {
+      "date": "2025-05-11",
+      "summary": "Ben urgently requests confirmation that Alanna remains on bail. Veritas agrees to contact police.",
+      "source": "EVID_2025-04_to_07_Veritas_WhatsApp_Emma_VEX.json",
+      "tags": [
+        "BAIL_STATUS",
+        "BRIGHTON_FRINGE_REF",
+        "SAFEGUARDING_ESCALATION"
+      ]
+    },
+    {
+      "date": "2025-06-09",
+      "summary": "Emma (Veritas) informs Ben that a police supervisor has been assigned to the case. She has no bail update.",
+      "source": "EVID_2025-04_to_07_Veritas_WhatsApp_Emma_VEX.json",
+      "tags": [
+        "SUPERVISOR_REVIEW",
+        "BAIL_UNKNOWN",
+        "VICTIMS_CODE_REF"
+      ]
+    },
+    {
+      "date": "2025-06-23",
+      "summary": "Ben shares suicide risk escalation via WhatsApp. Police still not in contact. Quotes: 'This isn't sustainable', 'They almost got me again'.",
+      "source": "EVID_2025-04_to_07_Veritas_WhatsApp_Emma_VEX.json",
+      "tags": [
+        "SUICIDE_RISK_ESCALATION",
+        "DEATH_BY_SILENCE"
+      ]
+    }
+  ]
+}

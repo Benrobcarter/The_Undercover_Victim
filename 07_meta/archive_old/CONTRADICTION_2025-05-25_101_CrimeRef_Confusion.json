@@ -1,0 +1,17 @@
+{
+  "source_id": "VEX_2025-05-25_101_CrimeRef_Confusion",
+  "created_utc": "2025-08-30T01:57:00Z",
+  "code": "MULTIPLE_CRIME_REFS_CONFUSION",
+  "title": "Multiple crime references issued for same stalking allegations",
+  "claim": "101 handler confirms two references both November, both PC Dixon; later also PC Alan Russell assigned.",
+  "impact": [
+    "Victim unclear where to submit evidence",
+    "Conflicting officer assignment undermines accountability",
+    "Record integrity breach"
+  ],
+  "priority": "high",
+  "clusters": [
+    "CRIME_REF_47240214305_THREAD",
+    "DEATH_BY_SILENCE"
+  ]
+}

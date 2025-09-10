@@ -1,0 +1,49 @@
+{
+  "timeline": [
+    {
+      "id": "t2_brighton_fringe_consequences#2025-03-27",
+      "title": "Station Poster Co-Branding Finalised",
+      "date": "2025-03-27",
+      "event": "Ben Carter confirmed final artwork for a Brighton Station co-branded poster campaign promoting Half a Camel and Brighton Fringe. This promotional investment was later erased from institutional narrative.",
+      "tags": [
+        "COBRAND_EXPLOITATION",
+        "GOOD_FAITH_USED_AS_TRAP",
+        "REPUTATIONAL_HARM",
+        "NARRATIVE_REPLACEMENT"
+      ],
+      "linked_evidence": [
+        "VEX_2025-03-27_CoBranded_Station_Poster_Proof"
+      ]
+    },
+    {
+      "id": "t2_brighton_fringe_consequences#2025-04-23",
+      "title": "Box Office Admits System Cannot Track Capacity",
+      "date": "2025-04-23",
+      "event": "Elin Eaton, Fringe Box Office Manager, confirmed that capacity tracking was impossible for unticketed events, directly undermining risk assessments and insurance.",
+      "tags": [
+        "SYSTEMIC_FAILURE_CONFESSION",
+        "RISK_MANAGEMENT_BLOCKED",
+        "SAFEGUARDING_DEFLECTION",
+        "UNINSURABLE_EVENT"
+      ],
+      "linked_evidence": [
+        "VEX_2025-04-23_Ticketing_Admission_Elin_Eaton"
+      ]
+    },
+    {
+      "id": "t2_brighton_fringe_consequences#2025-07-18",
+      "title": "Brochure Accusation Despite Print-Ready Proof",
+      "date": "2025-07-18",
+      "event": "Brighton Fringe claimed Ben Carter failed to deliver a 2025 brochure. In reality, it was professionally designed and print-ready, but legally unprintable due to branding risks created by Fringe's own system failure.",
+      "tags": [
+        "DEFAMATION_THROUGH_OMISSION",
+        "IMPOSSIBLE_COMPLIANCE_CONDITION",
+        "TRUST_COLLAPSE",
+        "LIBEL_ACTION_DISGUISED_AS_NEUTRAL_UPDATE"
+      ],
+      "linked_evidence": [
+        "VEX_2025-07-18_Brochure_Proof_And_Libel_Response"
+      ]
+    }
+  ]
+}

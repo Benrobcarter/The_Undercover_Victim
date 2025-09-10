@@ -1,0 +1,27 @@
+{
+  "atlas_name": "PROJECT_SHARDED_2025-08-26_v5",
+  "created_at": "2025-08-26T01:39:24.570645Z",
+  "stage_root": "/mnt/data/PROJECT_FILE_SYNCED_2025-08-26_v5",
+  "shards": [
+    {
+      "name": "shard_contradictions_core",
+      "path": "PROJECT_SHARDED_2025-08-26_v5/shard_contradictions_core.json"
+    },
+    {
+      "name": "shard_contradictions_vex",
+      "path": "PROJECT_SHARDED_2025-08-26_v5/shard_contradictions_vex.json"
+    },
+    {
+      "name": "shard_timelines_core",
+      "path": "PROJECT_SHARDED_2025-08-26_v5/shard_timelines_core.json"
+    },
+    {
+      "name": "shard_evidence_vex",
+      "path": "PROJECT_SHARDED_2025-08-26_v5/shard_evidence_vex.json"
+    },
+    {
+      "name": "shard_manifest_meta",
+      "path": "PROJECT_SHARDED_2025-08-26_v5/shard_manifest_meta.json"
+    }
+  ]
+}

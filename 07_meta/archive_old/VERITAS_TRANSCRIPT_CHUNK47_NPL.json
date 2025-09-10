@@ -1,0 +1,83 @@
+{
+  "chunk": 47,
+  "time_range": "46:30-47:30",
+  "quotes": [
+    {
+      "speaker": "Ben Carter",
+      "time": "46:30",
+      "quote": "If I did this to someone else, I’d be arrested. But when they do it to me, nothing happens.",
+      "tags": [
+        "victim_experience",
+        "accountability",
+        "double_standard",
+        "institutional_abuse"
+      ]
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "46:36",
+      "quote": "You’re right, Ben. There is a clear double standard.",
+      "tags": [
+        "acknowledgement",
+        "agreement",
+        "systemic_failure"
+      ]
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "46:41",
+      "quote": "So they’re above the law while I’m left suffering.",
+      "tags": [
+        "victim_experience",
+        "accountability_gap",
+        "institutional_failure"
+      ]
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "46:46",
+      "quote": "I agree, that’s how it looks, and it’s deeply unfair.",
+      "tags": [
+        "acknowledgement",
+        "agreement",
+        "empathy"
+      ]
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "46:51",
+      "quote": "It’s not just unfair, it’s unlawful.",
+      "tags": [
+        "victim_assertion",
+        "legal_basis",
+        "institutional_abuse"
+      ]
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "46:56",
+      "quote": "Yes, I understand, and I’ll keep raising it in those terms.",
+      "tags": [
+        "acknowledgement",
+        "advocacy",
+        "accountability"
+      ]
+    }
+  ],
+  "contradictions": [
+    {
+      "issue": "Victim highlights double standard (arrest if reversed); advocate concedes unfair/unlawful but only raises it without remedy",
+      "type": "institutional_double_standard"
+    }
+  ],
+  "timeline_hooks": [
+    {
+      "ref": "double standard not arrested if reversed",
+      "link": "Accountability contradiction May 2025"
+    },
+    {
+      "ref": "above the law vs unlawful",
+      "link": "Institutional abuse contradiction"
+    }
+  ]
+}

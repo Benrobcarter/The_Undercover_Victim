@@ -1,0 +1,82 @@
+{
+  "chunk": 27,
+  "time_range": "26:30-27:30",
+  "quotes": [
+    {
+      "speaker": "Ben Carter",
+      "time": "26:30",
+      "quote": "And if the chain’s broken, the whole case collapses in court.",
+      "tags": [
+        "victim_experience",
+        "risk",
+        "evidence_chain"
+      ]
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "26:36",
+      "quote": "That’s the danger, yes. Which is why I’ve told them it has to be rectified.",
+      "tags": [
+        "acknowledgement",
+        "advocacy",
+        "systemic_issue"
+      ]
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "26:41",
+      "quote": "Told them? It should never have been broken in the first place.",
+      "tags": [
+        "victim_assertion",
+        "legal_basis",
+        "accountability"
+      ]
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "26:46",
+      "quote": "I agree, it shouldn’t. But I can only push from my side.",
+      "tags": [
+        "acknowledgement",
+        "deflection",
+        "advocacy_gap"
+      ]
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "26:51",
+      "quote": "And while you push, I’m the one left unsafe.",
+      "tags": [
+        "victim_experience",
+        "safeguarding",
+        "risk"
+      ]
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "26:56",
+      "quote": "I know, Ben, and I’m sorry you feel left unsafe.",
+      "tags": [
+        "acknowledgement",
+        "empathy",
+        "safeguarding_gap"
+      ]
+    }
+  ],
+  "contradictions": [
+    {
+      "issue": "Chain of custody broken undermining case; advocate concedes risk but deflects responsibility",
+      "type": "safeguarding_and_legal_failure"
+    }
+  ],
+  "timeline_hooks": [
+    {
+      "ref": "case collapses in court",
+      "link": "Court risk due to broken chain of custody"
+    },
+    {
+      "ref": "victim left unsafe",
+      "link": "Immediate safeguarding omission"
+    }
+  ]
+}

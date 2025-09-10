@@ -1,0 +1,82 @@
+{
+  "chunk": 20,
+  "time_range": "19:30-20:30",
+  "quotes": [
+    {
+      "speaker": "Ben Carter",
+      "time": "19:30",
+      "quote": "Every time I give them something, it vanishes. Then later I’m asked to prove I ever sent it.",
+      "tags": [
+        "evidence_loss",
+        "victim_experience",
+        "contradiction"
+      ]
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "19:37",
+      "quote": "Yes, and that’s why I’ve said to them they need to confirm receipt in writing.",
+      "tags": [
+        "advocacy",
+        "documentation",
+        "acknowledgement"
+      ]
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "19:42",
+      "quote": "But if they won’t confirm, then it’s just my word against theirs.",
+      "tags": [
+        "accountability",
+        "risk",
+        "victim_experience"
+      ]
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "19:47",
+      "quote": "I know, which is why I’ve kept my own log to show when things were sent.",
+      "tags": [
+        "advocacy",
+        "recordkeeping",
+        "secondary_log"
+      ]
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "19:52",
+      "quote": "But your log isn’t official. They hold the file, not us.",
+      "tags": [
+        "power_imbalance",
+        "systemic_failure",
+        "victim_experience"
+      ]
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "19:58",
+      "quote": "True, but if they contradict, we can show the timeline from our side.",
+      "tags": [
+        "advocacy",
+        "defensive",
+        "documentation"
+      ]
+    }
+  ],
+  "contradictions": [
+    {
+      "issue": "Victim highlights evidence vanishing vs. advocate admits only secondary log exists; official file controlled by police",
+      "type": "evidence_chain_failure"
+    }
+  ],
+  "timeline_hooks": [
+    {
+      "ref": "evidence vanishes",
+      "link": "Ongoing missing evidence contradiction"
+    },
+    {
+      "ref": "advocate secondary log",
+      "link": "Parallel recordkeeping outside official file"
+    }
+  ]
+}

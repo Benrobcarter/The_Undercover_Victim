@@ -1,0 +1,23 @@
+{
+  "type": "quote_cards",
+  "items": [
+    {
+      "id": "OL-0001",
+      "meta": {
+        "title": "Where they chose silence, I created record.",
+        "author": "Ben Carter",
+        "tags": [
+          "TETHER",
+          "QUOTE",
+          "LOST_EVIDENCE_SUSSEX_POLICE",
+          "DEATH_BY_SILENCE",
+          "BOOK_REF_2.1"
+        ],
+        "source_file": "BOOK_MASTER_MERGED_POC_2025-08-27_v5.2.json",
+        "source_section": "2.1",
+        "added_at": "2025-08-31"
+      },
+      "text": "Where they chose silence, I created record."
+    }
+  ]
+}

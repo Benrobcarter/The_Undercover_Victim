@@ -1,0 +1,51 @@
+{
+  "vex_evidence": [
+    {
+      "id": "VEX_2025-04-09_Suicide_Disclosure_Threat",
+      "date": "2025-04-09",
+      "source_path": "06a. The Safeguarding Policy_ Critically Unfit for Purpose/EMAIL_2025-04-09_Amy_Keogh_Action_Plan.pdf",
+      "summary": "Email from Amy Keogh following Ben Carter’s disclosure of a suicide attempt. Instead of implementing a safeguarding plan, the email issues a threat that publicising communications would lead to withdrawal of support.",
+      "tags": [
+        "SAFEGUARDING_PERFORMATIVE",
+        "RETRAUMATISATION_VIA_NON_RESPONSE",
+        "DEATH_BY_SILENCE",
+        "COERCIVE_COMMS_USED_INSTEAD_OF_SUPPORT"
+      ],
+      "linked_contradictions": [
+        "CONTRA_2025-04-09_Threat_After_Suicide_Disclosure"
+      ],
+      "linked_timelines": [
+        "t2_brighton_fringe_consequences#2025-04-09"
+      ],
+      "quoted_text": [
+        "So Saturday night I tried to kill myself.",
+        "Publication of emails between you and the Fringe... will be considered an abuse of our good will... and will result in withdrawal of that additional support.",
+        "This is not trauma-informed safeguarding… this is retraumatising."
+      ]
+    },
+    {
+      "id": "VEX_2025-05-08_Expired_Contract_Used_For_Removal",
+      "date": "2025-05-08",
+      "source_path": "06b. Breaches of the 2024 Venue Managers’ Agreement/BF_2025-05-08_Expired_Contract_Used_For_Removal.pdf",
+      "summary": "Brighton Fringe used the outdated 2024 Venue Managers’ Agreement to justify actions taken in 2025, including the removal of Ben Carter as a venue manager. Safeguarding disclosures during this period were ignored.",
+      "tags": [
+        "CONTRACTUAL_SELECTIVE_ENFORCEMENT",
+        "SAFEGUARDING_FAILURE",
+        "GOVERNANCE_ERASURE",
+        "RECORD_MANIPULATION",
+        "DEATH_BY_SILENCE"
+      ],
+      "linked_contradictions": [
+        "CONTRA_2025-05-08_Expired_Contract_Used_For_Removal"
+      ],
+      "linked_timelines": [
+        "t2_brighton_fringe_consequences#2025-05-08"
+      ],
+      "quoted_text": [
+        "Brighton Fringe failed to produce or circulate a 2025 version of the agreement.",
+        "They breached this by ignoring my safeguarding and operational emails in April and May 2025.",
+        "No minutes or details were sent following the decision to remove me."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "meta": {
+    "filename": "2024-11-07_PC_Dixon_Email_6_CRN-47240214305_VEX.json",
+    "case_reference": "47240214305",
+    "thread_label": "CRIME_REF_47240214305_THREAD",
+    "actor_cluster": [
+      "Sussex Police",
+      "PC Jon Dixon (EA817)",
+      "Ben Carter"
+    ],
+    "date_range": {
+      "start": "2024-11-07T19:06:00",
+      "end": "2024-11-07T19:06:00"
+    },
+    "source_provenance": "Email from PC Jon Dixon to Ben Carter on 7 Nov 2024 at 19:06 (provided by user)",
+    "created_at_utc": "2025-08-24T17:25:06.215844Z",
+    "vex_schema_version": "1.1"
+  },
+  "emails": [
+    {
+      "id": "email-2024-11-07-1906-dixon-ben",
+      "date": "2024-11-07T19:06:00",
+      "from": {
+        "name": "PC Jon Dixon",
+        "email": "Jon.Dixon@sussex.police.uk",
+        "badge": "EA817"
+      },
+      "to": [
+        {
+          "name": "Ben Carter",
+          "email": "benrobcarter@gmail.com"
+        }
+      ],
+      "subject_summary": "Response: which evidence to upload (calls not needed, videos requested)",
+      "body": "Hi Ben\nIn regard to those calls you mentioned you don’t need to send those for the time being.\nText messages, Call Logs and Voicemails. Please upload any videos, there’s mention of one video of Alanna banging on the door?\nEvidence of anything after the time you made it clear to Alanna that you didn’t want any further contact from her is what is most relevant, but anything else fairly recent involving her making any threats or anything you feel is particularly harassing or distressful to yourself.",
+      "attachments": [],
+      "labels": [
+        "Police Communication",
+        "Evidence Instructions",
+        "Video Evidence Request"
+      ]
+    }
+  ],
+  "vex": [
+    {
+      "email_id": "email-2024-11-07-1906-dixon-ben",
+      "sentence_tags": [
+        {
+          "text": "In regard to those calls you mentioned you don’t need to send those for the time being.",
+          "tags": [
+            "EVIDENCE_DISMISSED",
+            "CALL_RECORDINGS_NOT_REQUESTED"
+          ],
+          "notes": "Police declined immediate submission of call evidence offered by victim."
+        },
+        {
+          "text": "Text messages, Call Logs and Voicemails.",
+          "tags": [
+            "EVIDENCE_REQUEST",
+            "SPECIFIC_FORMATS"
+          ]
+        },
+        {
+          "text": "Please upload any videos, there’s mention of one video of Alanna banging on the door?",
+          "tags": [
+            "VIDEO_EVIDENCE_REQUEST",
+            "PHYSICAL_THREAT_INDICATOR"
+          ],
+          "notes": "Police prioritised video of door-banging incident as relevant evidence."
+        },
+        {
+          "text": "Evidence of anything after the time you made it clear to Alanna that you didn’t want any further contact from her is what is most relevant,",
+          "tags": [
+            "BOUNDARY_VALIDATION",
+            "POST-NO-CONTACT-EVIDENCE"
+          ],
+          "notes": "Acknowledges Ben clearly communicated no-contact; frames relevance cutoff."
+        },
+        {
+          "text": "but anything else fairly recent involving her making any threats or anything you feel is particularly harassing or distressful to yourself.",
+          "tags": [
+            "HARASSMENT_EVIDENCE_REQUEST",
+            "VICTIM_SUBJECTIVITY_ACKNOWLEDGED"
+          ]
+        }
+      ]
+    }
+  ],
+  "contradiction_links": [
+    {
+      "id": "SP-CONTRA-CALL-EVIDENCE-DISMISSED-2024-11",
+      "claim": "Police considered all evidence victim offered.",
+      "reality": "Despite victim offering call recordings, police told him not to send them 'for the time being'.",
+      "laws_breached": [
+        "Victims’ Code 2020 (Right to have evidence considered)"
+      ],
+      "damages": [
+        "Strategic",
+        "Emotional"
+      ]
+    }
+  ],
+  "timeline_hooks": [
+    {
+      "phase": "Investigation Start / Evidence Intake",
+      "date": "2024-11-07",
+      "events": [
+        "Police declined to receive call recordings at this stage.",
+        "Requested text messages, call logs, voicemails, and especially video evidence of door-banging.",
+        "Acknowledged no-contact boundary as reference point for evidence relevance."
+      ],
+      "related_threads": [
+        "CRIME_REF_47240214305_THREAD",
+        "DEATH_BY_SILENCE"
+      ]
+    }
+  ],
+  "damages_summary": {
+    "strategic": "By refusing call recordings, police limited contemporaneous evidence trail.",
+    "emotional": "Victim may feel dismissed despite proactive evidence offers."
+  }
+}

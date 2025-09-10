@@ -1,0 +1,63 @@
+{
+  "id": "XREF_2025-07-04_PC_Gasson_101_Call",
+  "thread": "CRIME_REF_47240214305_THREAD",
+  "title": "Cross‑reference: 101 call confirms officer assignment (PC Gasson) + duplicate CRNs",
+  "created_at": "2025-08-25T18:45:39.071872",
+  "event": {
+    "datetime_local": "2025-07-04T14:05:00+01:00",
+    "source_vex": "PROJECT_FILE_SYNCED_2025-08-25_v4_FULL_SKELETON 3/01_evidence/sussex_police/vex/2025-07-04_1405_SussexPolice_101_Call_PC_Gasson_VEX.json",
+    "actors": {
+      "victim": "Ben Carter",
+      "police": [
+        "PC Gasson",
+        "PC Dixon"
+      ]
+    },
+    "location": "Sussex Police 101 (phone)",
+    "channels": [
+      "phone/101"
+    ]
+  },
+  "crime_references": [
+    "47240141246",
+    "47240214305"
+  ],
+  "links": {
+    "contradictions": [
+      "CRIME_REF_47240214305_THREAD",
+      "RECORDKEEPING_CONTRADICTIONS",
+      "DEATH_BY_SILENCE",
+      "VRR_OBSTRUCTED",
+      "NFA_BEFORE_CPS_REVIEW",
+      "STALKING_CLINIC_CPS_ATTENDANCE_DISPUTE"
+    ],
+    "timelines": [
+      "DEATH_BY_SILENCE"
+    ]
+  },
+  "quotes": [
+    {
+      "quote": "It's PC Gasson.",
+      "type": "assignment-confirmation"
+    },
+    {
+      "quote": "They're just two different incidents.",
+      "type": "recordkeeping"
+    },
+    {
+      "quote": "It's nothing for you to worry about… it's just how we record it.",
+      "type": "minimisation"
+    },
+    {
+      "quote": "We can't give you updates over the phone because of data.",
+      "type": "information-denial"
+    }
+  ],
+  "metrics": {
+    "death_by_silence_days": 51
+  },
+  "notes": [
+    "Records officer assignment surfaced only after victim‑initiated chase.",
+    "Confirms recordkeeping divergence: two CRNs for related stalking/harassment context."
+  ]
+}

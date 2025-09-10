@@ -1,0 +1,62 @@
+{
+  "meta": {
+    "contradiction_id": "CONTRA_2025-08-22_SAR_VRR_Loop_Typo_GDPR_Breach",
+    "title": "SAR Blocked as 'Ongoing', VRR Denied as 'Live', Crime-Ref Year Typo, and GDPR Breach — The Loop",
+    "created_at": "2025-08-30T23:34:56",
+    "version": "1.0.0",
+    "tags": [
+      "SAR_AS_ACCESS_BARRIER",
+      "VRR_VPS_SUPPRESSED",
+      "SCHRODINGERS_CASE",
+      "TIMELINE_MANIPULATION",
+      "GDPR_BREACH",
+      "DEATH_BY_SILENCE",
+      "ICO_LINKED"
+    ]
+  },
+  "narrative": {
+    "summary": "Between 20–22 Aug 2025, Sussex Police used 'ongoing investigation' to refuse SAR disclosure while simultaneously denying Victim’s Right to Review (VRR) on the basis that the case was 'live'. The disclosure unit also misstated a crime reference as 47230214305 (2023), later admitting a 'typing error' for 47240214305 (2024). In parallel, Ben reported an unredacted data disclosure by PC Jon Dixon (special category data re: Paul Double), constituting a GDPR breach. The combined pattern forms a procedural loop that blocks both transparency (SAR) and accountability (VRR), while evidencing inaccurate data handling.",
+    "timeline": [
+      "2025-08-20 — SAR refusal: 'ongoing investigation' cited; claim that 47240141246 was 'overtaken by 47230214305'.",
+      "2025-08-21 — Ben challenges: demands VRR for 47240141246, queries 2023 ref; reports GDPR breach by PC Dixon.",
+      "2025-08-22 — Disclosure unit admits typo: corrects to 47240214305; pushes VRR to 'officer in charge'; notes GDPR breach passed to IM team."
+    ],
+    "contradiction_points": [
+      "If the case is live (used to block SAR), evidence and VPS must be accepted; if closed (NFA), VRR must proceed. Both cannot be refused.",
+      "Crime-reference misstatement (2023 vs 2024) shows records are inaccurate while being used to deny rights.",
+      "GDPR breach (unredacted special category data) undermines claims of lawful, careful processing."
+    ],
+    "legal_analysis": [
+      "UK GDPR / DPA 2018 — Art. 5(1)(d) accuracy; Art. 15 access; Art. 32 integrity/confidentiality; breach handling obligations.",
+      "Victims’ Code — Right 4/6 updates; Right 7 VPS; VRR scheme obligations where NFA decisions exist.",
+      "Police Reform Act 2002 & Code of Ethics — honesty, transparency; proper complaint handling.",
+      "Misconduct in Public Office — if loop is used to wilfully obstruct oversight."
+    ],
+    "notes": "Ben’s ability to identify the year encoded in crime references (e.g., 4723…=2023 vs 4724…=2024) demonstrates system literacy and evidences the typo."
+  },
+  "links": {
+    "contradiction_threads": [
+      "SAR_AS_ACCESS_BARRIER",
+      "VRR_VPS_SUPPRESSED",
+      "SCHRODINGERS_CASE",
+      "DEATH_BY_SILENCE",
+      "ICO_LINKED"
+    ],
+    "related_entities": [
+      "Sussex Police Information Access Team",
+      "PC Jon Dixon",
+      "Inspector David Palmer",
+      "ICO",
+      "IOPC"
+    ],
+    "source_evidence": [
+      "EVID_2025-08-20_SAR_Refusal_Live_Case_Claim",
+      "EVID_2025-08-21_Ben_VRR_and_YearTypo_Challenge",
+      "EVID_2025-08-22_Disclosure_Unit_Typo_Admission",
+      "EVID_2025-02-12_Dixon_GDPR_Breach_Unredacted_Email"
+    ],
+    "external_refs": [
+      "ICO Case Reference: IC-386797-G0L4"
+    ]
+  }
+}

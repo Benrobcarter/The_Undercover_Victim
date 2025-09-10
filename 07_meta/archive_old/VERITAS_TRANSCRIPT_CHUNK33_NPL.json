@@ -1,0 +1,81 @@
+{
+  "chunk": 33,
+  "time_range": "32:30-33:30",
+  "quotes": [
+    {
+      "speaker": "Ben Carter",
+      "time": "32:30",
+      "quote": "I’ve been raising the same safeguarding issues for months and nothing’s changed.",
+      "tags": [
+        "victim_experience",
+        "safeguarding",
+        "systemic_failure"
+      ]
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "32:36",
+      "quote": "I know, and I’ve kept raising them too, but they don’t act on it.",
+      "tags": [
+        "acknowledgement",
+        "advocacy",
+        "systemic_issue"
+      ]
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "32:41",
+      "quote": "Then what’s the point of raising it if no one acts?",
+      "tags": [
+        "victim_assertion",
+        "accountability",
+        "risk"
+      ]
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "32:46",
+      "quote": "The point is it creates a record that the issues were highlighted.",
+      "tags": [
+        "advocacy",
+        "documentation",
+        "deflection"
+      ]
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "32:51",
+      "quote": "A record doesn’t protect me from harm right now.",
+      "tags": [
+        "victim_experience",
+        "safeguarding_gap",
+        "risk"
+      ]
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "32:55",
+      "quote": "I agree, it doesn’t keep you safe immediately, but it matters for oversight later.",
+      "tags": [
+        "acknowledgement",
+        "delayed_accountability"
+      ]
+    }
+  ],
+  "contradictions": [
+    {
+      "issue": "Victim highlights repeated safeguarding issues ignored; advocate insists record matters later, ignoring immediate safety",
+      "type": "safeguarding_and_accountability_gap"
+    }
+  ],
+  "timeline_hooks": [
+    {
+      "ref": "safeguarding issues raised months",
+      "link": "Pattern of ignored safeguarding referrals"
+    },
+    {
+      "ref": "record vs immediate protection",
+      "link": "Documentation over safety contradiction"
+    }
+  ]
+}

@@ -1,0 +1,175 @@
+{
+  "patch_type": "contradiction_cluster_update",
+  "cluster_id": "CLUSTER_SUSSEX_POLICE_TIMELINE_MANIPULATION",
+  "updated_on": "2025-09-09T12:46:25",
+  "source_bundle": "VERITAS_X_SUSSEX_INTEGRATION",
+  "notes": "Injects Veritas 25 June 2025 call write-up + linked emails; anchors fabricated welfare contacts (18 & 22 June 2025) and false IOPC crime reference. Adds safeguarding-simulation pattern and advocacy-compromise links.",
+  "add": {
+    "anchors": [
+      {
+        "id": "ANCHOR_2025-06-18_FABRICATED_WELFARE_CONTACT",
+        "date": "2025-06-18",
+        "title": "Fabricated Welfare Contact Logged",
+        "detail": "Sussex Police claimed welfare contact on 18 June 2025. Victim states no such contact occurred.",
+        "tags": [
+          "fabricated_log",
+          "safeguarding_simulation",
+          "timeline_manipulation"
+        ],
+        "source_refs": [
+          "EVID_2025-06-25_1022_Veritas_Call_WriteUp.json"
+        ]
+      },
+      {
+        "id": "ANCHOR_2025-06-22_FABRICATED_WELFARE_CONTACT",
+        "date": "2025-06-22",
+        "title": "Fabricated Welfare Contact Logged",
+        "detail": "Sussex Police claimed welfare contact on 22 June 2025. Victim states no such contact occurred.",
+        "tags": [
+          "fabricated_log",
+          "safeguarding_simulation",
+          "timeline_manipulation"
+        ],
+        "source_refs": [
+          "EVID_2025-06-25_1022_Veritas_Call_WriteUp.json"
+        ]
+      },
+      {
+        "id": "ANCHOR_2025-06-25_FALSE_CRIME_REF_IOPC",
+        "date": "2025-06-25",
+        "title": "False Crime Reference Provided to IOPC",
+        "detail": "Police supplied a crime reference to the IOPC that does not match the victim's case file.",
+        "tags": [
+          "false_reference",
+          "iopc_obstruction",
+          "data_falsification"
+        ],
+        "source_refs": [
+          "EVID_2025-06-25_1022_Veritas_Call_WriteUp.json"
+        ]
+      },
+      {
+        "id": "ANCHOR_2025-04-06_NO_CONTACT_BASELINE",
+        "date": "2025-04-06",
+        "title": "No Police Contact Baseline (victim-reported)",
+        "detail": "Baseline: victim reports no contact from Sussex Police since 6 April 2025; used to test fabricated engagements claimed later.",
+        "tags": [
+          "baseline",
+          "service_withdrawal",
+          "death_by_silence"
+        ],
+        "source_refs": [
+          "EVID_2025-06-25_1022_Veritas_Call_WriteUp.json"
+        ]
+      }
+    ],
+    "evidence_links": [
+      {
+        "id": "EVID_2025-06-25_1022_Veritas_Call_WriteUp.json",
+        "role": "primary_anchor"
+      },
+      {
+        "id": "EMAIL_2025-06-25_1107_Veritas_EmmaJones_Your_Support.json",
+        "role": "post_call_followup"
+      },
+      {
+        "id": "EMAIL_2025-06-25_1121_Veritas_EmmaJones_Your_Safety_Plan.json",
+        "role": "post_call_followup"
+      },
+      {
+        "id": "EVID_2025-06-25_1121_Safety_Plan_BC.json",
+        "role": "post_call_attachment"
+      }
+    ],
+    "contradictions": [
+      {
+        "id": "CONTRA_2025-06_FABRICATED_WELFARE_CONTACTS",
+        "title": "Police welfare contacts logged vs. victim reports no contact",
+        "window": "2025-06-18 to 2025-06-22",
+        "expected_record": "No contact events should exist within force logs if none occurred",
+        "observed_record": "Force/advocacy narrative asserts contacts on 18 & 22 June 2025",
+        "implication": "Fabricated engagement logs used to simulate safeguarding compliance",
+        "themes": [
+          "timeline_manipulation",
+          "safeguarding_failure",
+          "iopc_obstruction"
+        ],
+        "evidence": [
+          "EVID_2025-06-25_1022_Veritas_Call_WriteUp.json"
+        ]
+      },
+      {
+        "id": "CONTRA_2025-06_FALSE_CRIME_REF_IOPC",
+        "title": "Crime reference sent to IOPC does not match case file",
+        "date": "2025-06-25",
+        "expected_record": "IOPC should receive accurate crime reference referencing the active case",
+        "observed_record": "Incorrect reference supplied to IOPC",
+        "implication": "Obstruction of oversight; corrupts external review trail",
+        "themes": [
+          "iopc_obstruction",
+          "data_falsification",
+          "governance_failure"
+        ],
+        "evidence": [
+          "EVID_2025-06-25_1022_Veritas_Call_WriteUp.json"
+        ]
+      },
+      {
+        "id": "CONTRA_2025-06_ADVOCACY_COMPROMISE",
+        "title": "Advocacy repeats fabricated police updates to victim",
+        "date": "2025-06-25",
+        "expected_record": "Advocacy communications reflect verified facts and promote written accountability",
+        "observed_record": "Veritas relays unverified police claims (fabricated contacts), coercing acceptance of false safety narrative",
+        "implication": "External advocacy becomes a conduit for record manipulation; increases victim erosion",
+        "themes": [
+          "advocacy_gap",
+          "coercive_minimisation",
+          "safeguarding_failure"
+        ],
+        "evidence": [
+          "EVID_2025-06-25_1022_Veritas_Call_WriteUp.json",
+          "EMAIL_2025-06-25_1107_Veritas_EmmaJones_Your_Support.json",
+          "EMAIL_2025-06-25_1121_Veritas_EmmaJones_Your_Safety_Plan.json"
+        ]
+      }
+    ],
+    "timeline_events": [
+      {
+        "id": "TLN_2025-06-25_VERITAS_CALL_ESCALATION",
+        "date": "2025-06-25T10:22:00+01:00",
+        "title": "Veritas call: fabricated contact dates disclosed; victim rejects 'separate issues' minimisation",
+        "hooks": [
+          "VeritasCall",
+          "ExternalConfirmations",
+          "ServiceWithdrawal",
+          "IOPCComplaint"
+        ],
+        "death_by_silence": {
+          "anchor": "2025-04-06",
+          "days_elapsed": 80
+        },
+        "evidence": [
+          "EVID_2025-06-25_1022_Veritas_Call_WriteUp.json"
+        ]
+      }
+    ],
+    "legal": [
+      {
+        "law": "Care Act 2014",
+        "issue": "Failure to respond to ongoing suicide risk with effective safeguarding"
+      },
+      {
+        "law": "Victims' Code",
+        "issue": "Misreporting of contact and failure to notify victim of actions"
+      },
+      {
+        "law": "GDPR / DPA 2018",
+        "issue": "Submission of incorrect crime data to external regulator (IOPC)"
+      },
+      {
+        "law": "Police (Complaints and Misconduct) Regs 2020",
+        "issue": "Obstructing oversight through misinformation"
+      }
+    ]
+  }
+}

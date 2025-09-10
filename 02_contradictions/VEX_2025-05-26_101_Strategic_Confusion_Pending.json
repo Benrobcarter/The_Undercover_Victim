@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "evidence_id": "VEX_2025-05-26_101_Strategic_Confusion",
+    "title": "26-05-2025 — 101 Call (Strategic‑Confusion Method) — Pending Sourcing",
+    "created_at": "2025-08-26T00:41:49.835223Z",
+    "type": "Phone call — pending source",
+    "date_local": "2025-05-26",
+    "status": "pending_sourcing",
+    "clusters": [
+      "SUSSEX_POLICE",
+      "INFOSEC_VULNERABILITIES"
+    ]
+  },
+  "claim_summary": "Operator disclosed OIC name after cognitive‑load switch between two similar case records.",
+  "sourcing_queue": [
+    {
+      "prio": 1,
+      "need": "Raw audio/transcript + handler ID",
+      "target": "audio/CAD"
+    },
+    {
+      "prio": 2,
+      "need": "Exact quotes for disclosure moment",
+      "target": "transcript line refs"
+    }
+  ]
+}

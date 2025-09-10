@@ -1,0 +1,415 @@
+{
+  "pack_id": "SUSSEX_POLICE_TIMELINE_MANIPULATION_PACK_JULY_2025",
+  "generated": "2025-09-09T00:55:34.459830",
+  "schema_version": "1.9",
+  "scope": "Sussex Police + PSD — timeline alteration evidence (June–July 2025 focus)",
+  "items": [
+    {
+      "id": "EVID_2025-06-22_SussexPolice_NoReply_CAD_0050",
+      "type": "email+vex",
+      "files": [
+        "EVID_2025-06-22_SussexPolice_NoReply_CAD_0050.txt",
+        "VEX_EVID_2025-06-22_SussexPolice_NoReply_CAD_0050_OCR.json"
+      ],
+      "tags": [
+        "cad",
+        "noreply",
+        "sussexpolice"
+      ],
+      "timelines": [
+        "DEATH_BY_SILENCE",
+        "INSTITUTIONAL_ALIGNMENT"
+      ]
+    },
+    {
+      "id": "VEX_2025-07-05_2141_Jesse_101_Call",
+      "type": "vex",
+      "files": [
+        "VEX_2025-07-05_2141_Jesse_101_Call.json"
+      ],
+      "tags": [
+        "101_call",
+        "timeline_alteration",
+        "nfa_via_abuser"
+      ],
+      "timelines": [
+        "DEATH_BY_SILENCE",
+        "LOST_EVIDENCE_SUSSEX_POLICE",
+        "INSTITUTIONAL_ALIGNMENT",
+        "PREPARING_FOR_WAR"
+      ]
+    },
+    {
+      "id": "VEX_2025-07-04_StJohnStreet_FrontDesk",
+      "type": "vex",
+      "files": [
+        "VEX_2025-07-04_StJohnStreet_FrontDesk.json"
+      ],
+      "tags": [
+        "front_desk_visit",
+        "start_date_shift",
+        "vrr_blockage"
+      ],
+      "timelines": [
+        "DEATH_BY_SILENCE",
+        "LOST_EVIDENCE_SUSSEX_POLICE",
+        "INSTITUTIONAL_ALIGNMENT",
+        "PSD_ERASURE"
+      ]
+    },
+    {
+      "id": "CONTRA_PHHC_OVERTRY_ROLE_BREACH",
+      "type": "contradiction",
+      "files": [
+        "CONTRADICTION_PHHC_OVERTRY_ROLE_BREACH_LINKED_TO_DIXON_THREAD.json"
+      ],
+      "tags": [
+        "institutional_alignment",
+        "psd_erasure",
+        "safeguarding_failure"
+      ],
+      "timelines": [
+        "INSTITUTIONAL_ALIGNMENT",
+        "DEATH_BY_SILENCE",
+        "SAFEGUARDING_BREACHES"
+      ]
+    },
+    {
+      "id": "CONTRA_HOLIDAY_ALIBI_FULL",
+      "type": "contradiction_bundle",
+      "files": [
+        "CONTRADICTION_PACK_HOLIDAY_ALIBI_FULL_BUNDLE.json"
+      ],
+      "tags": [
+        "holiday_alibi",
+        "timeline_alteration",
+        "institutional_alignment"
+      ],
+      "timelines": [
+        "DEATH_BY_SILENCE",
+        "INSTITUTIONAL_ALIGNMENT"
+      ],
+      "notes": "Holiday Alibi contradiction pack integrated into Sussex Police Timeline Manipulation Pack."
+    },
+    {
+      "id": "CONTRA_PROBE_RUSSELL_DIVERSION",
+      "type": "contradiction_shard",
+      "files": [
+        "shard_contradictions_core_WITH_PROBE_SYNCED_v2.json"
+      ],
+      "tags": [
+        "probe",
+        "pc_russell_diversion",
+        "timeline_manipulation",
+        "evidence_deletion"
+      ],
+      "timelines": [
+        "DEATH_BY_SILENCE",
+        "LOST_EVIDENCE_SUSSEX_POLICE",
+        "INSTITUTIONAL_ALIGNMENT",
+        "FRACTURED_TIMELINE"
+      ],
+      "notes": "Probe contradiction shard integrated: includes Holiday Alibi contradictions, evidence deletion, and the Invisible Probe exposing PC Russell decoy case."
+    },
+    {
+      "id": "VEX_VERITAS_WHATSAPP_A10",
+      "type": "vex",
+      "files": [
+        "VEX_2025-03_to_05_Veritas_EmmaJones_WhatsApp_A10.json"
+      ],
+      "tags": [
+        "whatsapp",
+        "veritas_support",
+        "bail_status",
+        "death_by_silence"
+      ],
+      "timelines": [
+        "DEATH_BY_SILENCE",
+        "INSTITUTIONAL_ALIGNMENT",
+        "LOST_EVIDENCE_SUSSEX_POLICE",
+        "PSD_ERASURE"
+      ],
+      "notes": "WhatsApp thread with Veritas Justice (Emma Jones), March–May 2025. Shows Sussex Police blocking bail updates, PSD supervision invoked, Dixon retained as OIC, evidence suppression (Google Drive)."
+    },
+    {
+      "id": "VEX_2025-05-12_VERITAS_BAIL_SUPPORT_LETTER",
+      "type": "vex",
+      "files": [
+        "VEX_2025-05-12 Veritas Bail Conditions Support letter1_OCR.json"
+      ],
+      "tags": [
+        "veritas",
+        "bail_conditions",
+        "support_letter",
+        "death_by_silence"
+      ],
+      "timelines": [
+        "DEATH_BY_SILENCE",
+        "INSTITUTIONAL_ALIGNMENT",
+        "PSD_ERASURE"
+      ],
+      "notes": "Veritas Justice support letter dated 12 May 2025, confirming intervention on bail conditions. Provides paper trail of Sussex Police forcing victim to rely on third-party advocate for statutory updates."
+    },
+    {
+      "id": "VEX_2025-07-04_1405_PC_GASSON_101_CALL",
+      "type": "vex",
+      "files": [
+        "2025-07-04_1405_SussexPolice_101_Call_PC_Gasson_VEX.json"
+      ],
+      "tags": [
+        "101_call",
+        "pc_gasson",
+        "crime_ref_confusion",
+        "vr_review_blockage",
+        "cps_dispute"
+      ],
+      "timelines": [
+        "DEATH_BY_SILENCE",
+        "CRIME_REF_47240214305_THREAD",
+        "INSTITUTIONAL_ALIGNMENT",
+        "VRR_OBSTRUCTED"
+      ],
+      "notes": "101 call on 4 July 2025 (14:05) confirms officer assignment to PC Gasson. Handler admits duplicate CRNs, refuses updates due to 'data', and disputes CPS role. Links to VRR obstruction and CPS attendance contradictions."
+    },
+    {
+      "id": "VEX_2025-04-17_HOLIDAY_ALIBI_CALL",
+      "type": "vex",
+      "files": [
+        "VEX_2025-04-17_0432_101_Holiday_Alibi (2).json"
+      ],
+      "tags": [
+        "holiday_alibi",
+        "timeline_erasure",
+        "sussex_police"
+      ],
+      "timelines": [
+        "DEATH_BY_SILENCE",
+        "INSTITUTIONAL_ALIGNMENT"
+      ],
+      "notes": "17 Apr 2025 101 call: handler claims officers on leave. Holiday Alibi contradiction."
+    },
+    {
+      "id": "VEX_2025-05-16_NO_CRIME_REF_STRATEGY",
+      "type": "vex",
+      "files": [
+        "VEX_2025-05-16_101_NoCrimeRef.json"
+      ],
+      "tags": [
+        "no_crime_ref",
+        "weak_verification",
+        "infosec",
+        "death_by_silence"
+      ],
+      "timelines": [
+        "DEATH_BY_SILENCE",
+        "INFOSEC_VULNERABILITIES"
+      ],
+      "notes": "16 May 2025 101 call: handler accepts name + DOB without crime number. Weak verification contradiction."
+    },
+    {
+      "id": "VEX_2025-05-26_STRATEGIC_CONFUSION",
+      "type": "vex",
+      "files": [
+        "VEX_2025-05-26_101_Strategic_Confusion_Pending.json"
+      ],
+      "tags": [
+        "strategic_confusion",
+        "recordkeeping_failure",
+        "infosec"
+      ],
+      "timelines": [
+        "DEATH_BY_SILENCE",
+        "INFOSEC_VULNERABILITIES"
+      ],
+      "notes": "26 May 2025 101 call: operator discloses OIC name after cognitive overload juggling similar case refs."
+    },
+    {
+      "id": "VEX_2025-06-18_INVISIBLE_PROBE",
+      "type": "vex",
+      "files": [
+        "VEX_2025-06-18_101_Invisible_Probe (2).json"
+      ],
+      "tags": [
+        "probe",
+        "pc_russell_diversion",
+        "timeline_manipulation",
+        "fractured_timeline"
+      ],
+      "timelines": [
+        "DEATH_BY_SILENCE",
+        "FRACTURED_TIMELINE",
+        "INSTITUTIONAL_ALIGNMENT"
+      ],
+      "notes": "18 Jun 2025 101 call: probe confirms PC Russell diversion, decoy case split, later reversed. Smoking gun of record fabrication."
+    },
+    {
+      "id": "CONTRA_2025-06-22_HUMILIATION_PROTOCOL",
+      "type": "contradiction",
+      "files": [
+        "CONTRA_2025-06-22_101_Humiliation_Protocol.json",
+        "VEX_2025-06-22_101_Humiliation_Protocol.json"
+      ],
+      "tags": [
+        "humiliation_protocol",
+        "suicide_disclosure_dismissed",
+        "victims_code_denial",
+        "gdpr_misuse"
+      ],
+      "timelines": [
+        "DEATH_BY_SILENCE",
+        "INSTITUTIONAL_ALIGNMENT"
+      ],
+      "notes": "22 Jun 2025 101 call: handler mocked suicide disclosure ('You're not dead, are you?'). Refused Victims' Code rights. Gaslighting contradiction."
+    },
+    {
+      "id": "VEX_2025-06-23_DIXON_OR_DEATH",
+      "type": "vex",
+      "files": [
+        "VEX_2025-06-23_101_Dixon_or_Death_DETAILED.json",
+        "VEX_2025-06-23_101_Dixon_or_Death.json"
+      ],
+      "tags": [
+        "dixon_or_death",
+        "suicide_disclosure_ignored",
+        "victim_blocked",
+        "fake_case_status"
+      ],
+      "timelines": [
+        "DEATH_BY_SILENCE",
+        "CRIME_REF_47240214305_THREAD",
+        "CROWBARRING_MYSELF_JUSTICE"
+      ],
+      "notes": "23 Jun 2025 101 call: Dixon still assigned despite blocking victim and IOPC conflict. Case falsely marked closed. Ends in emotional collapse."
+    },
+    {
+      "id": "VEX_2025-05-12_CROWBARRING_MYSELF_JUSTICE",
+      "type": "vex+contradiction",
+      "files": [
+        "CROWBARRING_MYSELF_JUSTICE_MASTER_ENTRY (1).json"
+      ],
+      "tags": [
+        "crowbarring_myself_justice",
+        "timeline_manipulation",
+        "record_manipulation_post_disclosure",
+        "suicide_disclosure_used_for_removal",
+        "stalking_context_erasure",
+        "death_by_silence",
+        "institutional_gaslighting"
+      ],
+      "timelines": [
+        "DEATH_BY_SILENCE",
+        "CROWBARRING_MYSELF_JUSTICE",
+        "INSTITUTIONAL_ALIGNMENT",
+        "LOST_EVIDENCE_SUSSEX_POLICE"
+      ],
+      "notes": "12 May 2025 – Full Disclosure sent (‘Crowbarring Myself Justice’). Suicide disclosure reframed and mis-logged, records manipulated, stalking context erased. Anchors safeguarding disclosure timeline manipulation."
+    },
+    {
+      "id": "CONTRA_VERITAS_SAR_2025-08-25",
+      "type": "contradiction_shard",
+      "files": [
+        "VERITAS_SAR_BUNDLE_2025-08-25 (1).json"
+      ],
+      "tags": [
+        "sar_breach",
+        "minutes_withheld",
+        "evidence_loss",
+        "post_closure_disclosure",
+        "suicide_safeguarding_failure",
+        "timeline_manipulation"
+      ],
+      "timelines": [
+        "DEATH_BY_SILENCE",
+        "LOST_EVIDENCE_SUSSEX_POLICE",
+        "INSTITUTIONAL_ALIGNMENT",
+        "PSD_ERASURE",
+        "FRACTURED_TIMELINE"
+      ],
+      "notes": "Veritas SAR bundle (25 Aug 2025): SASH says 'all evidence passed to police' but later 'cannot locate'; suicide disclosed 14 Apr with 'no referral'; MARAC/Stalking Clinic minutes exist but withheld in SAR; post-closure disclosure to Sussex Police on 27 Jun; SAR extension provided only notes."
+    }
+  ],
+  "contradictions_linked": [
+    "DEATH_BY_SILENCE",
+    "LOST_EVIDENCE_SUSSEX_POLICE",
+    "INSTITUTIONAL_ALIGNMENT",
+    "PSD_ERASURE",
+    "PREPARING_FOR_WAR"
+  ],
+  "changelog": [
+    {
+      "ts": "2025-09-09T00:55:34.459842",
+      "action": "init",
+      "notes": "Initial July 2025 pack with CAD 0050, Jesse 101 call, and St John Street visit."
+    },
+    {
+      "ts": "2025-09-09T00:56:34.829007",
+      "action": "append",
+      "notes": "Added Overty/Dixon/PSD contradiction context file to the July 2025 pack."
+    },
+    {
+      "ts": "2025-09-09T00:58:45.537198",
+      "action": "append",
+      "notes": "Added Holiday Alibi contradiction pack to Sussex Police Timeline Manipulation Pack."
+    },
+    {
+      "ts": "2025-09-09T01:00:55.443940",
+      "action": "append",
+      "notes": "Added Probe contradiction shard (PC Russell diversion + evidence deletion) into July 2025 Timeline Manipulation Pack."
+    },
+    {
+      "ts": "2025-09-09T01:05:45.357838",
+      "action": "append",
+      "notes": "Added Veritas Justice WhatsApp VEX (Emma Jones A10 thread) into July 2025 Timeline Manipulation Pack."
+    },
+    {
+      "ts": "2025-09-09T01:07:00.206165",
+      "action": "append",
+      "notes": "Added Veritas Bail Conditions Support letter (12 May 2025) into July 2025 Timeline Manipulation Pack."
+    },
+    {
+      "ts": "2025-09-09T01:10:00.068963",
+      "action": "append",
+      "notes": "Added Sussex Police 101 call (4 July 2025, 14:05) confirming PC Gasson assignment into July 2025 Timeline Manipulation Pack."
+    },
+    {
+      "ts": "2025-09-09T01:16:26.341355",
+      "action": "append",
+      "notes": "Added VEX_2025-04-17_HOLIDAY_ALIBI_CALL (17 Apr 2025 101 call: handler claims officers on leave. Holiday Alibi contradiction.) into Sussex Police Timeline Manipulation Pack."
+    },
+    {
+      "ts": "2025-09-09T01:16:26.341364",
+      "action": "append",
+      "notes": "Added VEX_2025-05-16_NO_CRIME_REF_STRATEGY (16 May 2025 101 call: handler accepts name + DOB without crime number. Weak verification contradiction.) into Sussex Police Timeline Manipulation Pack."
+    },
+    {
+      "ts": "2025-09-09T01:16:26.341366",
+      "action": "append",
+      "notes": "Added VEX_2025-05-26_STRATEGIC_CONFUSION (26 May 2025 101 call: operator discloses OIC name after cognitive overload juggling similar case refs.) into Sussex Police Timeline Manipulation Pack."
+    },
+    {
+      "ts": "2025-09-09T01:16:26.341368",
+      "action": "append",
+      "notes": "Added VEX_2025-06-18_INVISIBLE_PROBE (18 Jun 2025 101 call: probe confirms PC Russell diversion, decoy case split, later reversed. Smoking gun of record fabrication.) into Sussex Police Timeline Manipulation Pack."
+    },
+    {
+      "ts": "2025-09-09T01:16:26.341370",
+      "action": "append",
+      "notes": "Added CONTRA_2025-06-22_HUMILIATION_PROTOCOL (22 Jun 2025 101 call: handler mocked suicide disclosure ('You're not dead, are you?'). Refused Victims' Code rights. Gaslighting contradiction.) into Sussex Police Timeline Manipulation Pack."
+    },
+    {
+      "ts": "2025-09-09T01:16:26.341372",
+      "action": "append",
+      "notes": "Added VEX_2025-06-23_DIXON_OR_DEATH (23 Jun 2025 101 call: Dixon still assigned despite blocking victim and IOPC conflict. Case falsely marked closed. Ends in emotional collapse.) into Sussex Police Timeline Manipulation Pack."
+    },
+    {
+      "ts": "2025-09-09T01:50:01.544649",
+      "action": "append",
+      "notes": "Added Crowbarring Myself Justice (12 May 2025) into Sussex Police Timeline Manipulation Pack as safeguarding/timeline manipulation anchor."
+    },
+    {
+      "ts": "2025-09-09T01:52:32.821154",
+      "action": "append",
+      "notes": "Integrated Veritas SAR contradiction shard (2025-08-25) into Sussex Police Timeline Manipulation Pack."
+    }
+  ]
+}

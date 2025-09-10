@@ -1,0 +1,17 @@
+{
+  "patch_meta": {
+    "created": "2025-08-26T03:39:34.023619",
+    "name": "MANIFEST_ALIAS_PATCH_VERITAS_A10",
+    "description": "Keep Emma Jones as canonical; deprecate Ortiz file and map it as an alias of Emma Jones."
+  },
+  "aliases": {
+    "VEX_2025-03_to_05_Veritas_Ortiz_WhatsApp_A10.json": "VEX_2025-03_to_05_Veritas_EmmaJones_WhatsApp_A10.json"
+  },
+  "deprecations": [
+    {
+      "file": "VEX_2025-03_to_05_Veritas_Ortiz_WhatsApp_A10.json",
+      "action": "remove_from_index_keep_alias",
+      "reason": "Duplicate thread; earlier mislabel. Emma Jones confirmed correct."
+    }
+  ]
+}

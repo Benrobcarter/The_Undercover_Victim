@@ -1,0 +1,13 @@
+{
+  "timeline": [
+    {
+      "when": "2025-05-16T02:31:00",
+      "title": "101 Call — 'No Crime Number' Strategy",
+      "summary": "Handler (Ayrton 42755) agrees to leave note for OIC using name + DOB; no crime reference provided.",
+      "tags": [
+        "CALL_101_NOTE_LEFT",
+        "INFOSEC_VULNERABILITIES"
+      ]
+    }
+  ]
+}

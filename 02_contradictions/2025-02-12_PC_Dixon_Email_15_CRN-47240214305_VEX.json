@@ -1,0 +1,110 @@
+{
+  "meta": {
+    "filename": "2025-02-12_PC_Dixon_Email_15_CRN-47240214305_VEX.json",
+    "case_reference": "47240214305",
+    "thread_label": "CRIME_REF_47240214305_THREAD",
+    "actor_cluster": [
+      "Sussex Police",
+      "PC Jon Dixon (EA817)",
+      "Ben Carter",
+      "Norfolk Constabulary",
+      "Arran Shave"
+    ],
+    "date_range": {
+      "start": "2025-02-12T14:09:00",
+      "end": "2025-02-12T14:09:00"
+    },
+    "source_provenance": "Email from PC Jon Dixon to Ben Carter on 12 Feb 2025 at 14:09 (provided by user)",
+    "created_at_utc": "2025-08-24T18:29:10.324104Z",
+    "vex_schema_version": "1.1"
+  },
+  "emails": [
+    {
+      "id": "email-2025-02-12-1409-dixon-ben",
+      "date": "2025-02-12T14:09:00",
+      "from": {
+        "name": "PC Jon Dixon",
+        "email": "Jon.Dixon@sussex.police.uk",
+        "badge": "EA817"
+      },
+      "to": [
+        {
+          "name": "Ben Carter",
+          "email": "benrobcarter@gmail.com"
+        }
+      ],
+      "subject_summary": "Bail confirmation and forwarded Paul Double case email",
+      "body": "Hi Ben\n\nIt’s understandable to have concerns and worries, if you need additional support let me know and I can make referrals.\n\nAs per our conversation yesterday I can confirm that Alanna is still on bail. This was what is called Initial Bail to start with but as of 2nd February 2025 this bail period has been extended till 4th May 2025. The conditions to not contact you or attend your address remain the same, if she sees you in the street or at a venue for example she must make all reasonable effort to leave as soon as she becomes aware. The bail conditions apply to you as you are the victim and will remain as such while the investigation is ongoing.\n\nI hope that this answers your query.\n\n--- Forwarded message from Arran Shave, Norfolk Constabulary re: Paul DOUBLE breaches attached ---",
+      "attachments": [
+        "2025-02-12_PaulDouble_Interview-Plan.docx",
+        "2025-02-12_SOR-Requirements.pdf",
+        "2025-02-12_PaulDouble_Email.eml"
+      ],
+      "labels": [
+        "Bail Confirmation",
+        "Forwarded Case Material",
+        "Safeguarding Communication"
+      ]
+    }
+  ],
+  "vex": [
+    {
+      "email_id": "email-2025-02-12-1409-dixon-ben",
+      "sentence_tags": [
+        {
+          "text": "As of 2nd February 2025 this bail period has been extended till 4th May 2025.",
+          "tags": [
+            "BAIL_EXTENSION_CONFIRMED",
+            "DATE_SPECIFIC"
+          ]
+        },
+        {
+          "text": "The conditions to not contact you or attend your address remain the same.",
+          "tags": [
+            "NO_CONTACT_CONDITIONS"
+          ]
+        },
+        {
+          "text": "The bail conditions apply to you as you are the victim and will remain as such while the investigation is ongoing.",
+          "tags": [
+            "VICTIM_STATUS_CONFIRMED",
+            "SAFEGUARDING_WORDING_AMBIGUOUS"
+          ],
+          "notes": "Ambiguous wording prompted Ben's follow-up asking for clarity."
+        }
+      ]
+    }
+  ],
+  "contradiction_links": [
+    {
+      "id": "SP-CONTRA-UNCLEAR-WORDING-2025-02",
+      "claim": "Police communications were clear about bail conditions.",
+      "reality": "This message implied conditions applied to Ben, causing him to request clarification.",
+      "laws_breached": [
+        "Victims’ Code 2020 (Right to clear information)"
+      ],
+      "damages": [
+        "Reputational",
+        "Emotional"
+      ]
+    }
+  ],
+  "timeline_hooks": [
+    {
+      "phase": "Investigation – Bail Monitoring",
+      "date": "2025-02-12",
+      "events": [
+        "Dixon confirms Alanna’s bail extended to 4 May 2025.",
+        "Forwarded Norfolk Constabulary case email re Paul DOUBLE with attachments."
+      ],
+      "related_threads": [
+        "CRIME_REF_47240214305_THREAD",
+        "SAFEGUARDING_EROSION"
+      ]
+    }
+  ],
+  "damages_summary": {
+    "reputational": "Ambiguity risked confusion when victim shared with venues.",
+    "emotional": "Victim left uncertain due to wording suggesting bail conditions applied to him."
+  }
+}

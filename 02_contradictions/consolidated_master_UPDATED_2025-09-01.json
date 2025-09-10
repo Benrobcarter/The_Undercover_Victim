@@ -1,0 +1,126 @@
+{
+  "version": "2025-09-01",
+  "generated_at": "2025-09-01T03:23:03.749913",
+  "contradictions": [
+    {
+      "name": "BF-CONTRA-DUNCAN-BLACKOUT-AND-LIE-2025",
+      "path": "02_contradictions/",
+      "tags": [
+        "SAFEGUARDING_DEFLECTION",
+        "DUNCAN_ASSISTED_ERASURE",
+        "CROWBARRING_MYSELF_JUSTICE",
+        "DEATH_BY_SILENCE"
+      ],
+      "contradictions": [
+        "BF-CONTRA-DUNCAN-LIE-VOICEMAIL-2025"
+      ]
+    },
+    {
+      "name": "BF-CONTRA-VOICEMAIL-DENIAL-PROVEN-2025",
+      "path": "02_contradictions/",
+      "tags": [
+        "SAFEGUARDING_DEFLECTION",
+        "DUNCAN_ASSISTED_ERASURE",
+        "LOST_EVIDENCE_SUSSEX_POLICE"
+      ],
+      "contradictions": [
+        "BF-CONTRA-VOICEMAIL-DENIAL-PROVEN-2025"
+      ]
+    }
+  ],
+  "evidence_vex": [
+    {
+      "name": "SAFEGUARDING_MEETING_2025-04-09_BUNDLE",
+      "path": "UNKNOWN",
+      "tags": [
+        "SAFEGUARDING_MEETING",
+        "SUICIDE_MINIMISATION",
+        "POLICY_VS_PRACTICE",
+        "2024_ERASURE",
+        "VENUE_TAKEOVER_THREAT",
+        "DEATH_BY_SILENCE"
+      ],
+      "contradictions": [
+        "BF-CONTRA-SUICIDE_MINIMISATION-2025-04-09"
+      ]
+    },
+    {
+      "name": "VOICEMAIL_2025-03-21_PROOF_OF_RECEIPT",
+      "path": "01_evidence/vex/",
+      "tags": [
+        "CROWBARRING_MYSELF_JUSTICE",
+        "DUNCAN_ASSISTED_ERASURE",
+        "DEATH_BY_SILENCE",
+        "SAFEGUARDING_DEFLECTION",
+        "LOST_EVIDENCE_SUSSEX_POLICE"
+      ],
+      "contradictions": [
+        "BF-CONTRA-DUNCAN-LIE-VOICEMAIL-2025"
+      ]
+    },
+    {
+      "name": "VEX_2025-05-11_ZOE_PUCK_TAKEOVER_CONFIRMATION",
+      "path": "01_evidence/vex/",
+      "tags": [
+        "VENUE_TAKEOVER_THREAT",
+        "SAFEGUARDING_DEFLECTION",
+        "GP_DEFAMATION",
+        "DUNCAN_ASSISTED_ERASURE",
+        "FRAUDULENT_CONDUCT",
+        "CHARITIES_ACT_FAILURE"
+      ],
+      "contradictions": [
+        "BF-CONTRA-TAKEOVER-PREMEDITATED-2025"
+      ]
+    },
+    {
+      "name": "VEX_2025-05-11_ZOE_CALL_FULL",
+      "path": "01_evidence/vex/",
+      "tags": [
+        "VENUE_TAKEOVER_THREAT",
+        "INSTITUTIONAL_ERASURE",
+        "SAFEGUARDING_DEFLECTION",
+        "CHARITIES_ACT_FAILURE",
+        "DEATH_BY_SILENCE",
+        "DUNCAN_ASSISTED_ERASURE"
+      ],
+      "contradictions": [
+        "BF-CONTRA-VENUE-PARTNER-DEFENDS-HAC-2025"
+      ]
+    }
+  ],
+  "timelines": [],
+  "quote_cards": [],
+  "overlays": [
+    {
+      "name": "BF-SAFEGUARDING_MEETING_CONTRADICTION_PATCH",
+      "path": "UNKNOWN",
+      "tags": [
+        "SAFEGUARDING_MEETING",
+        "POLICY_VS_PRACTICE"
+      ],
+      "contradictions": [
+        "BF-CONTRA-SUICIDE_MINIMISATION-2025-04-09"
+      ]
+    },
+    {
+      "name": "BOOK_CHAPTER_CROSSLINK_PATCH_2.5_2.6",
+      "path": "07_meta/",
+      "tags": [],
+      "contradictions": [
+        "BF-CONTRA-SUICIDE_MINIMISATION-2025-04-09",
+        "CROWBARRING_MYSELF_JUSTICE_2025_FULL_DISCLOSURE"
+      ]
+    },
+    {
+      "name": "CH2.5_OVERLAY_SCRIPT",
+      "path": "07_meta/",
+      "tags": [],
+      "contradictions": []
+    }
+  ],
+  "meta": {
+    "manifest_path": "07_meta/manifest_meta_UPDATED_2025-09-01.json",
+    "status_report_path": "07_meta/STATUS_REPORT_2025-09-01.json"
+  }
+}

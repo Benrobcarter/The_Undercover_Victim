@@ -1,0 +1,29 @@
+{
+  "patch_meta": {
+    "created": "2025-08-26T00:00:00Z",
+    "name": "TIMELINE_PATCH_2025-07-04_St_Johns_Front_Desk_LOCK_DATE",
+    "description": "Lock St John’s front desk event to 04 July 2025 and clear assumed flag."
+  },
+  "targets": [
+    {
+      "file": "VEX_2025-07-04_St_Johns_Front_Desk_Liz (3).json",
+      "ops": [
+        {
+          "op": "set_field",
+          "path": "content.meta.assumed_date_flag",
+          "value": false
+        },
+        {
+          "op": "set_field",
+          "path": "content.meta.date_local",
+          "value": "2025-07-04"
+        },
+        {
+          "op": "normalize_entries",
+          "strategy": "apply_date_if_missing",
+          "date_local": "2025-07-04"
+        }
+      ]
+    }
+  ]
+}

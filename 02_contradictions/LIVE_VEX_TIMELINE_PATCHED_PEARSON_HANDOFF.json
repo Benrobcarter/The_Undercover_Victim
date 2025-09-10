@@ -1,0 +1,146 @@
+[
+  {
+    "date": "2024-11-04T05:36:00",
+    "event": "Joseph Pearson issued Digital Policing NICE link (originating intake).",
+    "handover_flag": "Pearson_originates",
+    "actors": [
+      "Joseph Pearson",
+      "Digital Policing",
+      "Ben Carter"
+    ],
+    "vex_tags": [
+      "EVIDENCE_PROVIDED",
+      "NICE_LINK_EXPIRED"
+    ],
+    "contradiction_ids": [
+      "AUTO_DIGPOL_NICE_20241104_0536"
+    ],
+    "linked_evidence": [
+      {
+        "type": "json",
+        "filename": "2024-11-04_Digital-Policing_to_Ben_Evidence-Portal-Request.json",
+        "status": "injected"
+      }
+    ]
+  },
+  {
+    "date": "2024-11-04T15:39:00",
+    "event": "Jonathan Dixon Digital Policing NICE link communication (handover sequence).",
+    "handover_flag": "Pearson_to_Dixon_sequence",
+    "actors": [
+      "Jonathan Dixon",
+      "Digital Policing",
+      "Ben Carter"
+    ],
+    "vex_tags": [
+      "EVIDENCE_PROVIDED",
+      "NICE_LINK_EXPIRED"
+    ],
+    "contradiction_ids": [
+      "AUTO_DIGPOL_NICE_20241104_1539"
+    ],
+    "linked_evidence": [
+      {
+        "type": "json",
+        "filename": "2024-11-04_Digital-Policing_to_Ben_Jonathan-Dixon-Request.json",
+        "status": "injected"
+      }
+    ]
+  },
+  {
+    "date": "2024-11-13T13:39:00",
+    "event": "Jonathan Dixon Digital Policing NICE link communication (handover sequence).",
+    "handover_flag": "Pearson_to_Dixon_sequence",
+    "actors": [
+      "Jonathan Dixon",
+      "Digital Policing",
+      "Ben Carter"
+    ],
+    "vex_tags": [
+      "EVIDENCE_PROVIDED",
+      "NICE_LINK_EXPIRED"
+    ],
+    "contradiction_ids": [
+      "AUTO_DIGPOL_NICE_20241113_1339"
+    ],
+    "linked_evidence": [
+      {
+        "type": "json",
+        "filename": "2024-11-13_Digital-Policing_to_Ben_Jonathan-Dixon-Request.json",
+        "status": "injected"
+      }
+    ]
+  },
+  {
+    "date": "2024-11-13T13:40:00",
+    "event": "Jonathan Dixon Digital Policing NICE link communication (handover sequence).",
+    "handover_flag": "Pearson_to_Dixon_sequence",
+    "actors": [
+      "Jonathan Dixon",
+      "Digital Policing",
+      "Ben Carter"
+    ],
+    "vex_tags": [
+      "EVIDENCE_PROVIDED",
+      "NICE_LINK_EXPIRED"
+    ],
+    "contradiction_ids": [
+      "AUTO_DIGPOL_NICE_20241113_1340"
+    ],
+    "linked_evidence": [
+      {
+        "type": "json",
+        "filename": "2024-11-13_Digital-Policing_to_Ben_Jonathan-Dixon-Request.json",
+        "status": "injected"
+      }
+    ]
+  },
+  {
+    "date": "2024-11-14T11:58:00",
+    "event": "Jonathan Dixon Digital Policing NICE link communication (handover sequence).",
+    "handover_flag": "Pearson_to_Dixon_sequence",
+    "actors": [
+      "Jonathan Dixon",
+      "Digital Policing",
+      "Ben Carter"
+    ],
+    "vex_tags": [
+      "EVIDENCE_PROVIDED",
+      "NICE_LINK_EXPIRED"
+    ],
+    "contradiction_ids": [
+      "AUTO_DIGPOL_NICE_20241114_1158"
+    ],
+    "linked_evidence": [
+      {
+        "type": "json",
+        "filename": "2024-11-14_Digital-Policing_to_Ben_Jonathan-Dixon-Request.json",
+        "status": "injected"
+      }
+    ]
+  },
+  {
+    "date": "2024-11-14T11:59:00",
+    "event": "Jonathan Dixon Digital Policing NICE link communication (handover sequence).",
+    "handover_flag": "Pearson_to_Dixon_sequence",
+    "actors": [
+      "Jonathan Dixon",
+      "Digital Policing",
+      "Ben Carter"
+    ],
+    "vex_tags": [
+      "EVIDENCE_PROVIDED",
+      "NICE_LINK_EXPIRED"
+    ],
+    "contradiction_ids": [
+      "AUTO_DIGPOL_NICE_20241114_1159"
+    ],
+    "linked_evidence": [
+      {
+        "type": "json",
+        "filename": "2024-11-14_Digital-Policing_to_Ben_Jonathan-Dixon-Request.json",
+        "status": "injected"
+      }
+    ]
+  }
+]

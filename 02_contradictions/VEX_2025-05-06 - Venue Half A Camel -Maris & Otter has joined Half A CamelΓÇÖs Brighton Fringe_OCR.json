@@ -1,0 +1,28 @@
+{
+  "id": "VEX_2025-05-06 - Venue Half A Camel -Maris & Otter has joined Half A Camel\u2019s Brighton Fringe_OCR",
+  "type": "evidence",
+  "source": "Smart OCR Ingest",
+  "date": "2025-05-06",
+  "summary": "Auto-ingested from file: 2025-05-06 - Venue Half A Camel -Maris & Otter has joined Half A Camel\u2019s Brighton Fringe.pdf",
+  "meta": {
+    "original_filename": "2025-05-06 - Venue Half A Camel -Maris & Otter has joined Half A Camel\u2019s Brighton Fringe.pdf",
+    "ocr_pdf_file": "2025-05-06 - Venue Half A Camel -Maris & Otter has joined Half A Camel\u2019s Brighton Fringe_ocr.pdf",
+    "ocr_text_file": "2025-05-06 - Venue Half A Camel -Maris & Otter has joined Half A Camel\u2019s Brighton Fringe.txt",
+    "sha256": "e7bff605c8ecd7ee4e3ba87cd7fbaac3097f0ec6736489d2f8e7b3bb215b332e",
+    "source_folder": ".",
+    "ingested_on": "2025-09-06T23:12:36.280036",
+    "ingest_method": "ocr_smart"
+  },
+  "links": {
+    "source_file_original": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_unprocessed/2025-05-06 - Venue Half A Camel -Maris & Otter has joined Half A Camel\u2019s Brighton Fringe.pdf",
+    "ocr_pdf_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_ocrd/2025-05-06 - Venue Half A Camel -Maris & Otter has joined Half A Camel\u2019s Brighton Fringe_ocr.pdf",
+    "ocr_text_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/text/2025-05-06 - Venue Half A Camel -Maris & Otter has joined Half A Camel\u2019s Brighton Fringe.txt"
+  },
+  "tags": [
+    "auto_ocr",
+    "maris & otter has joined half a camel\u2019s brighton fringe",
+    " venue half a camel ",
+    "2025",
+    "06 "
+  ]
+}

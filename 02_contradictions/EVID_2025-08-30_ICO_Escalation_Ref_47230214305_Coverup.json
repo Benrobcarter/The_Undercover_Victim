@@ -1,0 +1,35 @@
+{
+  "meta": {
+    "evidence_id": "EVID_2025-08-30_ICO_Escalation_Ref_47230214305_Coverup",
+    "title": "ICO Escalation — Sussex Police SAR/GDPR Cover-Up",
+    "date": "2025-08-30",
+    "version": "1.0",
+    "tags": [
+      "ICO_ESCALATION",
+      "SAR_DENIAL",
+      "GDPR_BREACH",
+      "ARTICLE_15_VIOLATION",
+      "ARTICLE_12_VIOLATION",
+      "SUPERVISORY_FAILURE",
+      "PSD_CONFLICT_OF_INTEREST",
+      "DEATH_BY_SILENCE",
+      "PALMER_CHAIN_SUPPRESSION"
+    ]
+  },
+  "summary": "Following the IOPC's refusal to intervene in Ben Carter's complaint against Sussex Police, despite clear evidence of safeguarding violations and data rights breaches, this evidence captures his formal escalation to the Information Commissioner's Office (ICO). It outlines how Sussex Police refused a lawful Subject Access Request (SAR) under GDPR Article 15, citing a live case contradiction that conflicts with other official claims of NFA. Ben invokes data rights and institutional accountability by citing the ICO’s statutory obligations to act where police forces misuse SAR exemptions to conceal misconduct.",
+  "links": {
+    "timeline_injection": "PALMER_CHAIN_OF_COMMAND_TIMELINE",
+    "contradiction_bundle": "UPDATED_CONTRA_CLUSTER_2025-08-30_PALMER_SUPERVISORY_FAILURE_BUNDLE_v2.json",
+    "book_section": "BOOK_SECTION_3X_VERITAS_INSERT_PALMER.json"
+  },
+  "quotes": [
+    {
+      "speaker": "Ben Carter",
+      "quote": "The IOPC referred me back to Sussex Police — the very force I'm accusing of deleting evidence. That’s not independence. That’s institutional collusion."
+    },
+    {
+      "speaker": "Ben Carter",
+      "quote": "The ICO is now the only remaining body with the power to act. If they won’t — then the system has no checks left."
+    }
+  ]
+}

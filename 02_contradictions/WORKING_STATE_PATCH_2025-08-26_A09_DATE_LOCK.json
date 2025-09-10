@@ -1,0 +1,22 @@
+{
+  "patch_meta": {
+    "created": "2025-08-26T03:39:34.023570",
+    "name": "WORKING_STATE_PATCH_A09_DATE_LOCK",
+    "description": "Lock all entries in PC Dixon WhatsApp A09 to 2025-04-22 (Europe/London). Preserve times-of-day; replace only the date."
+  },
+  "targets": [
+    {
+      "file": "VEX_2025-03_to_04_PC_Dixon_WhatsApp_A09.json",
+      "ops": [
+        {
+          "op": "normalize_dates",
+          "strategy": "set_all_entries_to_single_date",
+          "date_local": "2025-04-22",
+          "timezone": "Europe/London",
+          "preserve_time_of_day": true,
+          "note": "Implements user directive: 'all on April 22nd'"
+        }
+      ]
+    }
+  ]
+}

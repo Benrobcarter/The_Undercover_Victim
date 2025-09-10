@@ -1,0 +1,61 @@
+{
+  "meta": {
+    "evidence_id": "VEX_2025-05-25_101_CrimeRef_Confusion",
+    "created_utc": "2025-08-30T01:57:00Z",
+    "date_local": "2025-05-25",
+    "time_local": "00:05",
+    "parties": [
+      "Ben Carter",
+      "Sussex Police 101 Call Handlers",
+      "PC Jon Dixon",
+      "PC Alan Russell"
+    ],
+    "clusters": [
+      "CRIME_REF_47240214305_THREAD",
+      "DEATH_BY_SILENCE",
+      "POST_BAIL_NO_WARNING_EXPOSURE"
+    ],
+    "status": "verified",
+    "files": [
+      "25-05-25_101_CrimeRef_Confusion_Transcript.txt",
+      "25-05-25_101_CrimeRef_Confusion_Audio.mp3"
+    ],
+    "project_paths": {
+      "evidence_dst": "01_evidence/vex/2025/05/",
+      "contradictions_dst": "02_contradictions/",
+      "timelines_dst": "03_analysis/timelines/"
+    }
+  },
+  "claim_summary": "101 call confirms confusion over multiple crime references (472401246, 47240214305, 47250093423). Both stalking cases assigned to PC Dixon, later also PC Alan Russell. Demonstrates systemic mismanagement and contradictory records.",
+  "key_points": [
+    "Automated routing through generic 101 + Chief Constable Jo Shiner’s mental health disclaimer.",
+    "Ben asks for clarity on which crime reference relates to which stalking allegation.",
+    "Handler confirms one reference relates to November stalking; other also shows November—contradictory.",
+    "Both initially attributed to PC Dixon; later one attributed to PC Alan Russell.",
+    "Handler declines to discuss details over phone; promises call back from PC Russell."
+  ],
+  "contradictions": [
+    {
+      "code": "MULTIPLE_CRIME_REFS_CONFUSION",
+      "claim": "Different crime references (246 / 305 / 3423) all linked to stalking, inconsistently attributed to PC Dixon and PC Russell.",
+      "impact": [
+        "Victim unclear where to send evidence",
+        "Confusion undermines continuity of investigation",
+        "Record integrity breach"
+      ],
+      "priority": "high"
+    }
+  ],
+  "timeline_hooks": [
+    {
+      "when": "2025-05-25T00:05:00",
+      "tag": "101_CALL",
+      "note": "Ben Carter calls 101; confusion over multiple crime references and officer assignments."
+    }
+  ],
+  "cue_alignment": {
+    "status": "pending",
+    "notes": "Populate cues[] with verbatim lines from transcript when available."
+  },
+  "cues": []
+}

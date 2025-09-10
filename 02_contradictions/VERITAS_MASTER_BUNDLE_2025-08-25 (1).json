@@ -1,0 +1,20 @@
+{
+  "meta": {
+    "name": "VERITAS_MASTER_BUNDLE_2025-08-25",
+    "generated_at": "2025-08-25T16:20:38.851099Z",
+    "format_version": "1.1",
+    "notes": "Auto-expanded to include all VERITAS* artifacts under 01_evidence/veritas and related contradictions under 02_contradictions."
+  },
+  "components": [
+    {
+      "path": "01_evidence/veritas/VERITAS_ASSERTIONS_INDEX_2025-08-25.csv",
+      "sha256": "aa26c30635f794957a4aa4071c28a0defc03967a0146f2e756da9f4e0ca9b75a",
+      "bytes": 86
+    },
+    {
+      "path": "01_evidence/veritas/VERITAS_MASTER_BUNDLE_2025-08-25.json",
+      "sha256": "98a8df2da3ea69c3f1e6bb23924f5569018ba55e7efd892ffb1e72e72c83ee8d",
+      "bytes": 360
+    }
+  ]
+}

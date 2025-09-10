@@ -1,0 +1,32 @@
+{
+  "patch_type": "contradiction_cluster_update",
+  "cluster_id": [
+    "CLUSTER_SUSSEX_POLICE_TOKEN_OFFICER_GASSON",
+    "CLUSTER_SUSSEX_POLICE_TIMELINE_MANIPULATION"
+  ],
+  "updated_on": "2025-09-09T19:10:07.610342",
+  "add": {
+    "contradictions": [
+      {
+        "id": "CONTRA_SUSSEX_POLICE_ASSIGNED_OFFICER_THAT_BLOCKED_REPLIES",
+        "title": "PC Gasson assigned as officer, then blocked replies and failed to follow up",
+        "expected_record": "Victim should be able to reply to assigned officer, register NICE links, and receive updates on bail and other crimes",
+        "observed_record": "Replies to PC Gasson were not delivered. Number was non-responsive. Questions about bail and crime numbers were never answered.",
+        "themes": [
+          "tokenisation",
+          "evidence_submission_blocked",
+          "institutional_stonewalling",
+          "death_by_silence",
+          "fake_followup_promise"
+        ],
+        "evidence": [
+          "Pc Gasson Yeah Right.PNG",
+          "PC Gasson? 1.PNG",
+          "PC Gasson? 2.PNG"
+        ],
+        "date": "2025-07-06"
+      }
+    ]
+  },
+  "contradictions": null
+}

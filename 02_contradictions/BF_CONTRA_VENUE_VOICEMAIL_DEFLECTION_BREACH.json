@@ -1,0 +1,26 @@
+{
+  "id": "BF_CONTRA_VENUE_VOICEMAIL_DEFLECTION_BREACH",
+  "title": "Breach of Venue Manager Agreement — Voicemail Dismissal, Deflection, and Denial of Responsibility",
+  "email_subject": "Follow-up on 21 March Voicemail – Safeguarding Incident",
+  "clause_breached": "Hold regular venue managers' meetings and maintain constructive dialogue.",
+  "claim": "Brighton Fringe promised venues would be supported with direct communication, safeguarding response, and clear logging of incidents.",
+  "reality": "Duncan repeatedly refused to acknowledge Ben’s safeguarding voicemail or clarify actions. Instead, he suggested Ben 'go to the hub' despite knowing Ben was under police protection due to ongoing threats. He stated: 'we are unable to investigate a message which has not been received' and dismissed further communication.",
+  "vex_tags": [
+    "SAFEGUARDING_DEFLECTION",
+    "INSTITUTIONAL_GASLIGHTING",
+    "CONSTRUCTIVE_EXPULSION",
+    "REPUTATIONAL_HARM"
+  ],
+  "linked_evidence": [
+    "EMAIL_2025-05-04_Crime_Reference_And_Safeguarding_Ignored"
+  ],
+  "linked_timeline_ids": [
+    "t2_brighton_fringe_consequences#2025-05-04"
+  ],
+  "linked_sub_contradictions": [
+    "BF-CONTRA-VENUE-MANAGER-CONTRACT-BREACHES-2025"
+  ],
+  "status": "active",
+  "notes": "Voicemail was critical to a live police case. The response violates not only the contract but also common safeguarding principles and organisational responsibility.",
+  "created_at": "2025-09-01T12:12:03.369376Z"
+}

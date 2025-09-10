@@ -1,0 +1,26 @@
+{
+  "id": "VEX_04-05-2025 - Crime Reference Number_OCR",
+  "type": "evidence",
+  "source": "Smart OCR Ingest",
+  "date": "DATE_NOT_FOUND",
+  "summary": "Auto-ingested from file: 04-05-2025 - Crime Reference Number.pdf",
+  "meta": {
+    "original_filename": "04-05-2025 - Crime Reference Number.pdf",
+    "ocr_pdf_file": "04-05-2025 - Crime Reference Number_ocr.pdf",
+    "ocr_text_file": "04-05-2025 - Crime Reference Number.txt",
+    "sha256": "be4fc6fb7a00fb53a57f58edb16991a1faa3884716ea0e4288b8bb2fbf0a11c3",
+    "source_folder": ".",
+    "ingested_on": "2025-09-06T14:05:44.513943",
+    "ingest_method": "ocr_smart"
+  },
+  "links": {
+    "source_file_original": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_unprocessed/04-05-2025 - Crime Reference Number.pdf",
+    "ocr_pdf_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_ocrd/04-05-2025 - Crime Reference Number_ocr.pdf",
+    "ocr_text_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/text/04-05-2025 - Crime Reference Number.txt"
+  },
+  "tags": [
+    "auto_ocr",
+    "2025 ",
+    " crime reference number"
+  ]
+}

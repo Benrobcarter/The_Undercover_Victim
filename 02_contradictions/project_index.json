@@ -1,0 +1,138 @@
+{
+  "generated_utc": "2025-08-26T17:09:38Z",
+  "schema": "project_index.schema.json",
+  "folders": [
+    {
+      "id": 1,
+      "title": "All July’s Email Claims Disputed",
+      "status": "Complete",
+      "path": "03_analysis/masters/01_all_julys_email_claims_disputed_master.txt"
+    },
+    {
+      "id": 2,
+      "title": "The Hostile Takeover",
+      "status": "Complete",
+      "path": "03_analysis/masters/02_the_hostile_takeover_master.txt"
+    },
+    {
+      "id": 3,
+      "title": "Damages – Destruction of Business, Reputation & Health",
+      "status": "Complete",
+      "path": "03_analysis/masters/03_damages_destruction_of_business_reputation_health_master.txt"
+    },
+    {
+      "id": 4,
+      "title": "Legal Duties Breached",
+      "status": "Complete",
+      "path": "03_analysis/masters/04_legal_duties_breached_master.txt"
+    },
+    {
+      "id": 5,
+      "title": "Timeline & Contradiction Summary",
+      "status": "In Progress",
+      "path": "04_manifest/living/05_Timeline_&_Contradiction_Summary_master_UPDATED.txt"
+    },
+    {
+      "id": 6,
+      "title": "Breach of Contract & Negligence",
+      "status": "Complete",
+      "path": "03_analysis/masters/06_Breach_of_Contract_and_Negligence_master.txt"
+    },
+    {
+      "id": 7,
+      "title": "The Crisis: Safeguarding Disclosure & Sustained Institutional Failure",
+      "status": "Complete",
+      "path": "03_analysis/masters/07_Safeguarding_Disclosure_&_Sustained_Institutional_Failure_master.txt"
+    },
+    {
+      "id": 8,
+      "title": "The Aftermath & Proof of Intent",
+      "status": "Complete",
+      "path": "03_analysis/masters/08_The_Aftermath_&_Proof_of_Intent_master.txt"
+    },
+    {
+      "id": 9,
+      "title": "Post-Takeover: Consolidating Control & Withholding Evidence",
+      "status": "Complete",
+      "path": "03_analysis/masters/09_Post-Takeover_Consolidating_Control_&_Withholding_Evidence_master.txt"
+    },
+    {
+      "id": 10,
+      "title": "IOPC Complaint",
+      "status": "Complete",
+      "path": "03_analysis/masters/10_IOPC_Complaint_master_PLACEHOLDER.txt"
+    },
+    {
+      "id": 11,
+      "title": "Financial Mismanagement & The “Ben Carter” Target",
+      "status": "Complete",
+      "path": "03_analysis/masters/11_Financial_Mismanagement_&_The_Ben_Carter_Target.txt"
+    },
+    {
+      "id": 12,
+      "title": "Financial Mismanagement & The “Ben Carter” Target v2",
+      "status": "Complete",
+      "path": "03_analysis/masters/12_Financial_Mismanagement_Ben_Carter_Target_v2_master.txt"
+    },
+    {
+      "id": 13,
+      "title": "Evidence of Prior Partnership & Goodwill",
+      "status": "In Progress",
+      "path": "03_analysis/masters/13_Evidence_of_Prior_Partnership_&_Goodwill_master_PLACEHOLDER.txt"
+    },
+    {
+      "id": 14,
+      "title": "Evidence of Prior Partnership & Goodwill v2",
+      "status": "In Progress",
+      "path": "03_analysis/masters/14_Evidence_of_Prior_Partnership_&_Goodwill_v2_master_PLACEHOLDER.txt"
+    },
+    {
+      "id": 15,
+      "title": "Medical Damages & Causation",
+      "status": "Complete",
+      "path": "03_analysis/masters/15_Medical_Damages_and_Causation_master.txt"
+    },
+    {
+      "id": 16,
+      "title": "A Confession of Incompetence: How They Caused Their Own Crisis",
+      "status": "Complete",
+      "path": "03_analysis/masters/16_A_Confession_of_Incompetence_master.txt"
+    },
+    {
+      "id": 17,
+      "title": "One Month Post-Crisis: A Coordinated Attack on Business and Health",
+      "status": "Complete",
+      "path": "03_analysis/masters/17_One_Month_Post-Crisis_master.txt"
+    },
+    {
+      "id": 18,
+      "title": "SAR & VRR Erasure (Master)",
+      "status": "Complete",
+      "path": "03_analysis/masters/18_SAR_and_VRR_Erasure_master.txt"
+    },
+    {
+      "id": 19,
+      "title": "Formal Request for Disclosure",
+      "status": "Complete",
+      "path": "03_analysis/masters/19_Formal_Request_for_Disclosure_master.txt"
+    },
+    {
+      "id": 20,
+      "title": "2024 Abuse",
+      "status": "In Progress",
+      "path": "04_manifest/living/2024_abuse.txt"
+    },
+    {
+      "id": 21,
+      "title": "The Safeharming Log",
+      "status": "Not Started",
+      "path": "03_analysis/masters/21_The_Safeharming_Log_master_PLACEHOLDER.txt"
+    },
+    {
+      "id": 22,
+      "title": "IOPC – Supplemental Evidence",
+      "status": "Not Started",
+      "path": "03_analysis/masters/22_IOPC_–_Supplemental_Evidence_master_PLACEHOLDER.txt"
+    }
+  ]
+}

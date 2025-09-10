@@ -1,0 +1,47 @@
+{
+  "id": "CONTRA_2025-05-01_CoBranded_Poster_Misled_Public",
+  "title": "Brighton Fringe Co-Branded Poster Misled Public While Knowing Venues Were Unsafe",
+  "claim": "Brighton Fringe acted to protect audiences and their brand integrity through careful curation and risk management.",
+  "reality": "Brighton Fringe approved and co-branded a Brighton Station poster campaign with Ben Carter’s Half a Camel Productions. The poster featured both logos and directed the public to the Fringe’s ticketing system, implying institutional safety and unity. At the time, the Fringe knew the advertised venues were uninsurable. The logo placement reassured the public while hiding operational collapse — and Carter was erased shortly after.",
+  "actors": [
+    "Brighton Fringe",
+    "Trustees",
+    "Marketing Team"
+  ],
+  "laws": [
+    {
+      "act": "Fraud Act 2006",
+      "section": "s.2",
+      "why": "False representation through co-branding"
+    },
+    {
+      "act": "Charities Act 2011",
+      "section": "s.177",
+      "why": "Breach of trustee duties through misrepresentation"
+    },
+    {
+      "act": "Companies Act 2006",
+      "section": "s.174",
+      "why": "Failure to exercise reasonable care in marketing"
+    },
+    {
+      "act": "Consumer Rights Act 2015",
+      "section": "s.49",
+      "why": "Misleading advertising to the public"
+    }
+  ],
+  "tags": [
+    "COBRAND_EXPLOITATION",
+    "FRAUDULENT_PUBLIC_REPRESENTATION",
+    "BREACH_OF_PUBLIC_TRUST",
+    "STRUCTURAL_ERASURE"
+  ],
+  "timeline_hooks": [
+    "t2_brighton_fringe_consequences#2025-05-01"
+  ],
+  "evidence_refs": [
+    "POSTER_ARTWORK_2025-05-01_CoBranded_Station.pdf",
+    "PHOTO_2025-05-01_Station_Display_With_Fringe_Logo.jpg"
+  ],
+  "created_at": "2025-08-31T20:43:21.201258Z"
+}

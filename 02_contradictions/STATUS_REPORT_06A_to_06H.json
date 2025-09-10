@@ -1,0 +1,40 @@
+{
+  "version": "2025-09-01",
+  "scope": "06a–06h",
+  "contradictions_injected": [
+    "BF-CONTRA-LIBEL-REPLACEMENT-INTENT-2025",
+    "BF-CONTRA-LOGGED-WORSE-THAN-NOT-LOGGED-2025",
+    "BF-CONTRA-NO-RECORD-OF-ALLEGATIONS-2025",
+    "BF-CONTRA-SAR-GDPR-BREACH-2025",
+    "CONTRA_2025-03-27_CoBrand_Erasure",
+    "CONTRA_2025-03-29_Acts_Treated_Me_As_Fringe",
+    "CONTRA_2025-04-09_Threat_After_Suicide_Disclosure",
+    "CONTRA_2025-04-23_Admitted_Ticketing_Collapse",
+    "CONTRA_2025-05-01_CoBranded_Poster_Misled_Public",
+    "CONTRA_2025-05-05_Eventotron_Payment_Based_On_Manipulated_Partnership_Promise",
+    "CONTRA_2025-05-06_Shows_Were_Still_Growing_But_I_Was_Being_Blocked",
+    "CONTRA_2025-05-07_Public_Calls_Prove_Operational_Collapse",
+    "CONTRA_2025-05-08_Expired_Contract_Used_For_Removal",
+    "CONTRA_2025-07-18_Brochure_Erased_After_Strategic_Delay",
+    "CONTRA_2025-07-18_Brochure_Libel_Twist"
+  ],
+  "vex_ids_injected": [
+    "VEX_2025-03-27_CoBranded_Station_Poster_Proof",
+    "VEX_2025-03-29_Artist_Assumed_I_Was_Fringe",
+    "VEX_2025-04-09_Suicide_Disclosure_Threat",
+    "VEX_2025-04-23_Ticketing_Admission_Elin_Eaton",
+    "VEX_2025-05-01_CoBranded_Station_Poster",
+    "VEX_2025-05-05_Eventotron_Payment_For_Mirror_System",
+    "VEX_2025-05-06_Ongoing_Registration_Under_Suppression",
+    "VEX_2025-05-07_Public_Call_Reveals_Box_Office_Collapse",
+    "VEX_2025-05-08_Expired_Contract_Used_For_Removal",
+    "VEX_2025-05-10_Box_Office_Agreement_Breach",
+    "VEX_2025-05-23_Public_Confusion_Ticketing_Collapse",
+    "VEX_2025-05-26_PLI_Uninsurable_Unticketed_Shows",
+    "VEX_2025-07-18_Brochure_Proof_And_Libel_Response",
+    "VEX_2025-07-18_Brochure_Proof_Used_Against_Me"
+  ],
+  "total_contradictions": 15,
+  "total_vex": 17,
+  "note": "Includes timeline, contradiction, and VEX integration across safeguarding, contract breaches, branding manipulation, and structural failure."
+}

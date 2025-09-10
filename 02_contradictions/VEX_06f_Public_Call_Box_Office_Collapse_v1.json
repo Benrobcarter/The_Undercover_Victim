@@ -1,0 +1,29 @@
+{
+  "vex_evidence": [
+    {
+      "id": "VEX_2025-05-07_Public_Call_Reveals_Box_Office_Collapse",
+      "date": "2025-05-07",
+      "source_path": "06f. Operational Collapse_ A Public-Facing Failure (May 7th)/07-05-25 Brighton Fringe Not collecting phone numbers of acts and audience outside phoning me_Transcript .txt",
+      "summary": "A public caller mistakenly phoned Ben Carter believing his number was the Brighton Fringe support line. The call reveals that the Fringe failed to track performer contact details and left Carter absorbing box office collapse while still trying to speak on their behalf.",
+      "tags": [
+        "OPERATIONAL_BREAKDOWN",
+        "UNLAWFUL_BURDEN_SHIFT",
+        "SAFEGUARDING_DEFLECTION",
+        "INSTITUTIONAL_ABANDONMENT"
+      ],
+      "linked_contradictions": [
+        "CONTRA_2025-05-07_Public_Calls_Prove_Operational_Collapse"
+      ],
+      "linked_timelines": [
+        "t2_brighton_fringe_consequences#2025-05-07"
+      ],
+      "quoted_text": [
+        "Oh, sorry, it's just performers not showing up...",
+        "Check our Instagram… it's a disaster.",
+        "I have stated on behalf of the Fringe and they've agreed.",
+        "We might go rogue… but they've agreed…",
+        "Otherwise we just do it alone."
+      ]
+    }
+  ]
+}

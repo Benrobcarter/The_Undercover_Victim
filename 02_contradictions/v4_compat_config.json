@@ -1,0 +1,19 @@
+{
+  "EVIDENCE_TRANSCRIPTS_DIR": "01_evidence/transcripts",
+  "TIMELINES_DIR": "01_evidence/timelines",
+  "CONTRADICTIONS_DIR": "02_contradictions",
+  "METADATA_DIR": "03_analysis/metadata",
+  "MANIFEST_DIR": "04_manifest",
+  "AUDITS_DIR": "06_meta/audits",
+  "SUPPORT_DIR": "08_supporting",
+  "MASTER_CONTRADICTIONS_FILE": "MASTER_CONTRADICTIONS_INJECTED_2025-06-05.json",
+  "MASTER_TIMELINE_FILE": "LIVE_VEX_TIMELINE_PATCHED_PEARSON_HANDOFF.json",
+  "BATCH_A_CROSSWALK": "CROSSWALK_DIGPOL_2024-11-04_batchA.json",
+  "BATCH_B_CROSSWALK": "CROSSWALK_DIGPOL_2024-12-13_batchB.json",
+  "README_MAIN": "README_PROJECT_FILE_SYNCED_2025-08-25_v4.txt",
+  "AUDIT_BUNDLE": "PROJECT_FILE_SYNCED_2025-08-25_v4_FULL_audit_bundle.json",
+  "ATLAS_PATH": "02_contradictions/ATLAS.json",
+  "ATLAS_DELTAS_DIR": "02_contradictions/ATLAS_DELTAS",
+  "ATLAS_UPDATED_PATH": "02_contradictions/ATLAS_UPDATED.json",
+  "ATLAS_UPDATE_LOG": "04_manifest/atlas_update_log.json"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "BF_CONTRA_VENUE_CRIME_REF_SILENCE_BREACH",
+  "title": "Breach of Venue Manager Agreement — Crime Reference Ignored and Safeguarding Disclosure Dismissed",
+  "email_subject": "Crime Reference Number – 47240141246",
+  "clause_breached": "Brighton Fringe Ltd. and its staff endeavour to respond to phone and email communications within two working days outside of Fringe, and 24 hours during the festival.",
+  "claim": "Brighton Fringe committed to prompt and appropriate handling of safeguarding disclosures.",
+  "reality": "Despite receiving a new crime reference (47240141246) and safeguarding concern related to Alexander Voodoo, the Chair failed to log or acknowledge it until pushed. The voicemail from 21 March was denied, and Duncan refused to confirm whether any safeguarding measures were taken.",
+  "vex_tags": [
+    "COMMUNICATION_TIMELINESS_BREACH",
+    "SAFEGUARDING_ESCALATION",
+    "CONFIDENTIALITY_BREACH",
+    "NARRATIVE_REPLACEMENT",
+    "INSTITUTIONAL_GASLIGHTING"
+  ],
+  "linked_evidence": [
+    "EMAIL_2025-05-04_Crime_Reference_And_Safeguarding_Ignored"
+  ],
+  "linked_timeline_ids": [
+    "t2_brighton_fringe_consequences#2025-05-04"
+  ],
+  "linked_sub_contradictions": [
+    "BF-CONTRA-VENUE-MANAGER-CONTRACT-BREACHES-2025"
+  ],
+  "status": "active",
+  "notes": "This represents a systemic refusal to handle safeguarding as per the agreement. The Chair downplayed responsibility and denied protocol.",
+  "created_at": "2025-09-01T12:12:03.369334Z"
+}

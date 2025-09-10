@@ -1,0 +1,82 @@
+{
+  "chunk": 43,
+  "time_range": "42:30-43:30",
+  "quotes": [
+    {
+      "speaker": "Ben Carter",
+      "time": "42:30",
+      "quote": "Dangerous isn’t strong enough. It’s lethal when you ignore suicidality.",
+      "tags": [
+        "victim_experience",
+        "suicide_disclosure",
+        "safeguarding_failure"
+      ]
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "42:36",
+      "quote": "You’re right, it is life-threatening, and I’ve made that clear to them.",
+      "tags": [
+        "acknowledgement",
+        "agreement",
+        "safeguarding"
+      ]
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "42:41",
+      "quote": "But still no action followed, so what good is making it clear?",
+      "tags": [
+        "victim_assertion",
+        "accountability_gap",
+        "risk"
+      ]
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "42:46",
+      "quote": "I know, and I wish I could give you the action you need.",
+      "tags": [
+        "acknowledgement",
+        "empathy",
+        "advocacy_gap"
+      ]
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "42:51",
+      "quote": "Wishing isn’t safeguarding. Acting is.",
+      "tags": [
+        "victim_assertion",
+        "safeguarding_gap",
+        "accountability"
+      ]
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "42:56",
+      "quote": "You’re right, Ben. It should have been acted on straight away.",
+      "tags": [
+        "acknowledgement",
+        "agreement",
+        "safeguarding"
+      ]
+    }
+  ],
+  "contradictions": [
+    {
+      "issue": "Victim states ignoring suicidality is lethal; advocate concedes but admits no action was taken",
+      "type": "suicidality_safeguarding_failure"
+    }
+  ],
+  "timeline_hooks": [
+    {
+      "ref": "ignoring suicidality lethal",
+      "link": "Critical safeguarding failure Apr–May 2025"
+    },
+    {
+      "ref": "making it clear vs no action",
+      "link": "Institutional safeguarding gap"
+    }
+  ]
+}

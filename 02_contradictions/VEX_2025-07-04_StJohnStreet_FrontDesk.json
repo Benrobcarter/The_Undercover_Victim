@@ -1,0 +1,85 @@
+{
+  "id": "VEX_2025-07-04_StJohnStreet_FrontDesk",
+  "type": "evidence",
+  "source": "transcript + summary",
+  "date": "2025-07-04T12:00:00+01:00",
+  "title": "St John Street Police Station Visit – Crime Number Confusion & Start Date Manipulation",
+  "summary": "In-person visit to Sussex Police St John Street front desk (Liz). Confirms 4 crime numbers, start date shifted from 2 Nov to 18 Nov, OIC swaps without notification, VRR blocked, and silence since April 6 suicide attempt.",
+  "participants": [
+    "Ben Carter",
+    "Liz (Front Desk, St John’s Street)"
+  ],
+  "contradictions": [
+    "DEATH_BY_SILENCE",
+    "LOST_EVIDENCE_SUSSEX_POLICE",
+    "INSTITUTIONAL_ALIGNMENT",
+    "PSD_ERASURE"
+  ],
+  "timeline_tags": [
+    "front_desk_visit",
+    "timeline_alteration",
+    "vr_review_blockage"
+  ],
+  "segments": [
+    {
+      "quote": "Liz confirmed 4 crime numbers are active; one was improperly filed without follow-up.",
+      "tags": [
+        "crime_numbers",
+        "oic_misdirection"
+      ],
+      "emotional_tone": "confusion, frustration",
+      "contradictions": [
+        "INSTITUTIONAL_ALIGNMENT"
+      ]
+    },
+    {
+      "quote": "Case dates are being manipulated: police now claim my first report was 18 November 2024, when I have evidence it was 2 November (‘X Won’t Leave Me Alone’ – NICE link).",
+      "tags": [
+        "start_date_shift",
+        "timeline_erasure"
+      ],
+      "emotional_tone": "shock, anger",
+      "contradictions": [
+        "LOST_EVIDENCE_SUSSEX_POLICE"
+      ]
+    },
+    {
+      "quote": "Liz acknowledged no officer has responded since my April 6 suicide attempt.",
+      "tags": [
+        "safeguarding_failure",
+        "institutional_silence"
+      ],
+      "emotional_tone": "abandonment, despair",
+      "contradictions": [
+        "DEATH_BY_SILENCE"
+      ]
+    },
+    {
+      "quote": "I explicitly requested help lodging my Victim’s Right to Review. Liz confirmed this could not be done at the desk and that I needed to speak to my OIC — who has never called me since April.",
+      "tags": [
+        "vrr_blockage",
+        "rights_denied"
+      ],
+      "emotional_tone": "blocked, powerless",
+      "contradictions": [
+        "PSD_ERASURE"
+      ]
+    },
+    {
+      "quote": "Sergeant Duffy is supervising PC Gasson, just as he did with PC Dixon — the officer who failed to log my suicide.",
+      "tags": [
+        "duffy_supervision",
+        "safeguarding_breach"
+      ],
+      "emotional_tone": "cynicism, weariness",
+      "contradictions": [
+        "INSTITUTIONAL_ALIGNMENT"
+      ]
+    }
+  ],
+  "meta": {
+    "source_file": "St john Street 4 July 2025 .docx.txt",
+    "created": "2025-09-09T00:54:23.328528",
+    "ingest_method": "manual_transcript_tagging"
+  }
+}

@@ -1,0 +1,410 @@
+{
+  "meta": {
+    "evidence_id": "VEX_2025-06-18_101_Invisible_Probe",
+    "title": "The Invisible Probe — Covert Verification of the 'PC Russell' Diversion",
+    "created_at": "2025-08-27T02:00:00Z",
+    "type": "Call (101) — strategic verification",
+    "date_local": "2025-06-18",
+    "parties": [
+      "Ben Carter",
+      "Sussex Police (101 triage handler)",
+      "PC Russell (named)",
+      "PC Dixon (implicit control)"
+    ],
+    "clusters": [
+      "CRIME_REF_47240214305_THREAD",
+      "CROWBARRING_MYSELF_JUSTICE",
+      "DEATH_BY_SILENCE",
+      "HOLIDAY_ALIBI",
+      "LOST_EVIDENCE_SUSSEX_POLICE"
+    ],
+    "source_file_name": "Section 3.33 The Invisible Probe_ Covert Verification of the _PC Russell_ Diversion (18 May 2025).docx.txt",
+    "undated_policy": "ok_date_present",
+    "legal_mapping": [
+      "Victims’ Code — right to updates/accurate information",
+      "DPA 2018 Part 3 — accuracy & integrity of law-enforcement records",
+      "CPIA 1996 Code — retention/continuity (context to record splitting/merging)"
+    ],
+    "links": {
+      "related_contradiction_bundles": [
+        "CONTRADICTION_PACK_HOLIDAY_ALIBI_FULL_BUNDLE",
+        "shard_contradictions_core"
+      ]
+    }
+  },
+  "summary": {
+    "thesis": "A deliberately ‘low-altitude’ 101 call confirms a decoy case (47250093423) under “PC Russell” and a fractured timeline split from the original stalking case (47240214305). Four days later the decoy disappears and control snaps back to Dixon — evidence of a prepared narrative being dismantled once detected.",
+    "key_points": [
+      "Triage handler confirms Crime Ref …93423 and “PC Russell” as active at the time of call.",
+      "Handler also confirms the original case …305 is with a different officer ‘on rest days’ — administrative split.",
+      "Subsequent reversal on 22 May 2025: the ‘Russell’ file vanishes; consolidation under Dixon resumes."
+    ],
+    "contradiction_codes_used": [
+      "DECOY_CASE_SPLIT",
+      "PARALLEL_OFFICER_ASSIGNED",
+      "FRACTURED_TIMELINE",
+      "REVERSAL_AFTER_PROBE",
+      "MISLEADING_IOPC_NARRATIVE"
+    ],
+    "source_note": "Narrative derived from Section 3.33 upload."
+  },
+  "entries": [
+    {
+      "vex_id": "IP-L0001",
+      "quote": "3.33: The Invisible Probe: Covert Verification of the 'PC Russell' Diversion (18 May 2025)",
+      "speaker": "Narrative",
+      "tags": [
+        "TITLE",
+        "TIMELINE::2025-06-18"
+      ],
+      "timeline_hooks": [
+        {
+          "when": "2025-06-18",
+          "note": "Strategic verification call placed (101 triage)"
+        }
+      ],
+      "contradictions": []
+    },
+    {
+      "vex_id": "IP-L0002",
+      "quote": "This analysis covers a 101 call from May 18, 2025, which I initiated not as a victim seeking help, but as an investigator testing a hypothesis.",
+      "speaker": "Ben",
+      "tags": [
+        "METHOD::COVERT_PROBE",
+        "INTENT::HYPOTHESIS_TEST"
+      ],
+      "emotions": {
+        "tone": "controlled, analytical"
+      },
+      "contradictions": []
+    },
+    {
+      "vex_id": "IP-L0003",
+      "quote": "The call serves as a recorded, real-time intelligence-gathering operation to confirm my suspicion that Sussex Police had created a false paper trail to mislead the IOPC.",
+      "speaker": "Ben",
+      "tags": [
+        "METHOD::COVERT_PROBE",
+        "IOPC_CONTEXT"
+      ],
+      "contradictions": [
+        "MISLEADING_IOPC_NARRATIVE"
+      ]
+    },
+    {
+      "vex_id": "IP-L0004",
+      "quote": "Knowing that a full call would trigger identity verification and log my inquiry in high-level systems, I deliberately remained at the triage level.",
+      "speaker": "Ben",
+      "tags": [
+        "TACTIC::STAY_AT_TRIAGE",
+        "VERIFICATION::AVOID_HIGH_TIER_LOG"
+      ],
+      "contradictions": []
+    },
+    {
+      "vex_id": "IP-L0005",
+      "quote": "My objective was to confirm the existence of the 'PC Russell' decoy (Crime Ref: 47250093423) and its separation from my original case (Crime Ref: 47240214305) without alerting the system to my awareness.",
+      "speaker": "Ben",
+      "tags": [
+        "CRIME_REF::47250093423",
+        "CRIME_REF::47240214305",
+        "OBJECTIVE::DECOY_CONFIRMATION"
+      ],
+      "timeline_hooks": [
+        {
+          "when": "2025-06-18",
+          "tag": "DECOY_CHECK"
+        }
+      ],
+      "contradictions": [
+        "DECOY_CASE_SPLIT",
+        "FRACTURED_TIMELINE"
+      ]
+    },
+    {
+      "vex_id": "IP-L0006",
+      "quote": "I feigned simple confusion to elicit information.",
+      "speaker": "Ben",
+      "tags": [
+        "METHOD::SOCIAL_ENGINEERING_LIGHT",
+        "TACTIC::DISARM"
+      ],
+      "contradictions": []
+    },
+    {
+      "vex_id": "IP-L0007",
+      "quote": "Confirmation of the Decoy: The triage handler immediately confirmed that Crime Ref ...93423 was assigned to 'PC Russell,' who had conveniently 'just missed him' and 'finished about half an hour ago.'",
+      "speaker": "Narrative",
+      "tags": [
+        "CRIME_REF::47250093423",
+        "OFFICER::PC_RUSSELL",
+        "HANDLER_QUOTE"
+      ],
+      "contradictions": [
+        "DECOY_CASE_SPLIT",
+        "PARALLEL_OFFICER_ASSIGNED"
+      ],
+      "notes": [
+        "Active assignment to Russell established at triage"
+      ]
+    },
+    {
+      "vex_id": "IP-L0008",
+      "quote": "This confirmed the name on the letter I received was active in the call handling system.",
+      "speaker": "Narrative",
+      "tags": [
+        "LETTER_CONFIRMED",
+        "SYSTEM_STATUS::ACTIVE"
+      ],
+      "contradictions": []
+    },
+    {
+      "vex_id": "IP-L0009",
+      "quote": "Confirmation of the Fractured Timeline: When I casually introduced my original crime reference (...305) and suggested 'they're kind of like the same one,' the handler confirmed they were being handled by a 'separate officer' who was on 'rest days.'",
+      "speaker": "Narrative",
+      "tags": [
+        "CRIME_REF::47240214305",
+        "PARALLEL_HANDLING",
+        "REST_DAYS_MENTION"
+      ],
+      "contradictions": [
+        "FRACTURED_TIMELINE",
+        "PARALLEL_OFFICER_ASSIGNED"
+      ]
+    },
+    {
+      "vex_id": "IP-L0010",
+      "quote": "This proves the deliberate administrative separation of the cases.",
+      "speaker": "Narrative",
+      "tags": [
+        "ADMIN_SPLIT_ASSERTED"
+      ],
+      "contradictions": [
+        "FRACTURED_TIMELINE"
+      ]
+    },
+    {
+      "vex_id": "IP-L0011",
+      "quote": "Proof of a Pre-Prepared Narrative: The existence of this parallel structure—two crime numbers for the same ongoing issue, assigned to two different officers, one of whom was a phantom—is not an accident.",
+      "speaker": "Narrative",
+      "tags": [
+        "PARALLEL_STRUCTURE",
+        "PHANTOM_ASSIGNMENT"
+      ],
+      "contradictions": [
+        "MISLEADING_IOPC_NARRATIVE"
+      ]
+    },
+    {
+      "vex_id": "IP-L0012",
+      "quote": "It is evidence of a pre-planned deception strategy, likely designed to show the IOPC that my complaints about PC Dixon had been addressed by reassigning the case, while in reality, he retained control of the core file.",
+      "speaker": "Narrative",
+      "tags": [
+        "DIXON_CONTROL_RETAINED",
+        "IOPC_POSITIONING"
+      ],
+      "contradictions": [
+        "MISLEADING_IOPC_NARRATIVE",
+        "PARALLEL_OFFICER_ASSIGNED"
+      ]
+    },
+    {
+      "vex_id": "IP-L0013",
+      "quote": "The success of this covert probe is confirmed by what happened next.",
+      "speaker": "Narrative",
+      "tags": [
+        "EFFECT_OF_PROBE"
+      ],
+      "contradictions": []
+    },
+    {
+      "vex_id": "IP-L0014",
+      "quote": "Just four days after this call, on May 22, 2025, the narrative was reversed.",
+      "speaker": "Narrative",
+      "tags": [
+        "TIMELINE::2025-05-22",
+        "REVERSAL_MARKER"
+      ],
+      "timeline_hooks": [
+        {
+          "when": "2025-05-22",
+          "note": "Post-probe reversal detected"
+        }
+      ],
+      "contradictions": [
+        "REVERSAL_AFTER_PROBE"
+      ]
+    },
+    {
+      "vex_id": "IP-L0015",
+      "quote": "Further inquiries revealed that the 'PC Russell' case had vanished, and all matters were suddenly consolidated back under PC Dixon.",
+      "speaker": "Narrative",
+      "tags": [
+        "RUSSELL_FILE_VANISHED",
+        "CONSOLIDATION_TO_DIXON"
+      ],
+      "contradictions": [
+        "REVERSAL_AFTER_PROBE",
+        "MISLEADING_IOPC_NARRATIVE"
+      ]
+    },
+    {
+      "vex_id": "IP-L0016",
+      "quote": "This sudden realignment proves that my 'invisible' probe had likely triggered an internal panic, forcing them to dismantle the very deception I had just confirmed was in place.",
+      "speaker": "Narrative",
+      "tags": [
+        "IMPACT::INTERNAL_PANIC",
+        "DECEPTION_DISMANTLED"
+      ],
+      "contradictions": [
+        "REVERSAL_AFTER_PROBE"
+      ]
+    },
+    {
+      "vex_id": "IP-L0017",
+      "quote": "This call is not a record of me being a victim of confusion; it is a record of me exposing it.",
+      "speaker": "Ben",
+      "tags": [
+        "POSITIONING::INVESTIGATOR_NOT_CONFUSED"
+      ],
+      "contradictions": []
+    },
+    {
+      "vex_id": "IP-L0018",
+      "quote": "It demonstrates a calculated test of the system's integrity, which it failed spectacularly.",
+      "speaker": "Ben",
+      "tags": [
+        "SYSTEM_INTEGRITY_TEST",
+        "FAILURE_CONFIRMED"
+      ],
+      "contradictions": [
+        "MISLEADING_IOPC_NARRATIVE"
+      ]
+    },
+    {
+      "vex_id": "IP-L0019",
+      "quote": "By staying in triage, I was able to get a snapshot of their cover-up without appearing on their radar.",
+      "speaker": "Ben",
+      "tags": [
+        "TACTIC::STAY_AT_TRIAGE",
+        "EVIDENCE::COVER_UP_SNAPSHOT"
+      ],
+      "contradictions": [
+        "MISLEADING_IOPC_NARRATIVE"
+      ]
+    },
+    {
+      "vex_id": "IP-L0020",
+      "quote": "This is irrefutable evidence of a coordinated attempt to manipulate the official record to mislead an independent investigation.",
+      "speaker": "Ben",
+      "tags": [
+        "RECORD_MANIPULATION",
+        "IOPC_CONTEXT"
+      ],
+      "contradictions": [
+        "MISLEADING_IOPC_NARRATIVE",
+        "FRACTURED_TIMELINE"
+      ]
+    }
+  ],
+  "timeline_hooks": [
+    {
+      "when": "2025-06-18",
+      "tag": "INVISIBLE_PROBE_CALL",
+      "note": "101 triage call confirms decoy ‘PC Russell’ (…93423) split from original (…305)"
+    },
+    {
+      "when": "2025-05-22",
+      "tag": "DECOY_REVERSAL",
+      "note": "‘Russell’ file disappears; consolidation back to Dixon"
+    }
+  ],
+  "contradictions": [
+    {
+      "code": "DECOY_CASE_SPLIT",
+      "claim": "A decoy file (47250093423) under ‘PC Russell’ ran in parallel to the original case.",
+      "impact": [
+        "Record integrity risk",
+        "Confuses oversight",
+        "Obstructs coherent safeguarding"
+      ],
+      "source_lines": [
+        "IP-L0007",
+        "IP-L0009",
+        "IP-L0010"
+      ]
+    },
+    {
+      "code": "PARALLEL_OFFICER_ASSIGNED",
+      "claim": "Handler says separate officer handling ‘the same issue’ while core file remained with Dixon.",
+      "impact": [
+        "Artificial diffusion of accountability",
+        "Misrepresentation to oversight"
+      ],
+      "source_lines": [
+        "IP-L0009",
+        "IP-L0012"
+      ]
+    },
+    {
+      "code": "FRACTURED_TIMELINE",
+      "claim": "Administrative split created two references for one continuous course of conduct.",
+      "impact": [
+        "Timeline manipulation risk",
+        "Victims’ Code update failure"
+      ],
+      "source_lines": [
+        "IP-L0005",
+        "IP-L0009",
+        "IP-L0010",
+        "IP-L0020"
+      ]
+    },
+    {
+      "code": "REVERSAL_AFTER_PROBE",
+      "claim": "Four days post-probe the decoy was dismantled and control consolidated under Dixon.",
+      "impact": [
+        "Inference of internal response to detection",
+        "Confirms pre-prepared narrative"
+      ],
+      "source_lines": [
+        "IP-L0014",
+        "IP-L0015",
+        "IP-L0016"
+      ]
+    },
+    {
+      "code": "MISLEADING_IOPC_NARRATIVE",
+      "claim": "Structure appears designed to present a false corrective action to IOPC while retaining core control.",
+      "impact": [
+        "Oversight deception",
+        "Undermines public confidence"
+      ],
+      "source_lines": [
+        "IP-L0003",
+        "IP-L0011",
+        "IP-L0012",
+        "IP-L0018",
+        "IP-L0020"
+      ]
+    }
+  ],
+  "death_by_silence_escalator": {
+    "duty_name": "Victims’ Code — informed, timely updates",
+    "triggered_on_utc": "2025-06-18T00:00:00Z",
+    "target_days": 7,
+    "elapsed_days": 101,
+    "breach_flag": true,
+    "note": "Administrative split and reversal compounded lack of clear updates."
+  },
+  "people": [
+    "Ben Carter",
+    "PC Dixon",
+    "PC Russell",
+    "101 Triage Handler"
+  ],
+  "files": {
+    "audio": null,
+    "transcript": "Section 3.33 docx extract",
+    "hashes": {}
+  }
+}

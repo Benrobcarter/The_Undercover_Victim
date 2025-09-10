@@ -1,0 +1,39 @@
+{
+  "placeholder": true,
+  "filename": "2025-04-07_Digital-Policing_to_Ben_Jonathan-Dixon-Request_Email-9.json",
+  "created_at": "2025-08-25T21:03:40.594939Z",
+  "instructions": "Replace this placeholder with the real Email JSON. Keep the filename identical.",
+  "expected_schema": {
+    "email_id": "string (unique id)",
+    "date": "YYYY-MM-DD or ISO8601",
+    "from": "string",
+    "to": [
+      "string"
+    ],
+    "subject": "string",
+    "body": "string or structured parts",
+    "attachments": [],
+    "thread_id": "optional",
+    "source": "Digital Policing",
+    "crn": "optional CRN e.g. 4724\u2026"
+  },
+  "qa_flags": {
+    "vex_candidate_tags": [
+      "POLICE_INACTION",
+      "SAFEGUARDING_BREACH",
+      "SUICIDE",
+      "OBSTRUCTION",
+      "EVIDENCE_SUPPRESSION",
+      "VRR_OBSTRUCTION",
+      "SAR_OBSTRUCTION"
+    ],
+    "contradiction_checks": [
+      "crime_number_conflict",
+      "start_date_shift",
+      "missing_update",
+      "nfa_not_notified",
+      "bail_condition_conflict",
+      "thread_scope_mismatch"
+    ]
+  }
+}

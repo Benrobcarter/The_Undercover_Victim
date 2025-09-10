@@ -1,0 +1,251 @@
+{
+  "bundle_id": "JULY_LIBEL_2025-07-18_BUNDLE_v1",
+  "generated_utc": "2025-08-29T00:52:17.761609Z",
+  "schema": "EVIDENCE_BUNDLE_VEX_v1",
+  "metadata": {
+    "title": "July Libel Email – Disputed (Brighton Fringe)",
+    "date": "2025-07-18",
+    "location": "Brighton / Email circulation",
+    "context": "Mass email defamation to 160+ clients/artists following April safeguarding failure and May 8 takeover."
+  },
+  "sources": {
+    "libel_docx": null,
+    "verdict_docx": null,
+    "safeharming_master": null,
+    "life_or_death_master": null,
+    "damages_master": null,
+    "policy_json": null,
+    "policy_txt": null,
+    "april_module_bundle": "/mnt/data/SAFEGUARDING_MEETING_2025-04-09_BUNDLE_v1.json"
+  },
+  "raw": {
+    "libel_docx_text": null,
+    "verdict_docx_text": null,
+    "policy_txt": null
+  },
+  "shared_opening": {
+    "from_april_meeting": true,
+    "april_bundle_ref": "/mnt/data/SAFEGUARDING_MEETING_2025-04-09_BUNDLE_v1.json",
+    "april_summary": {
+      "key_quotes": [
+        "Duncan: \"What are you expecting from us?\"",
+        "Ben: \"Saturday night I tried to kill myself.\"",
+        "Amy: \"We don’t want a repeat of last year.\""
+      ],
+      "contradictions": [
+        "BF-CONTRA-SUICIDE_MINIMISATION-2025-04-09",
+        "BF-CONTRA-2024_ERASURE-2025-04-09"
+      ]
+    }
+  },
+  "vex": {
+    "actor_clusters": [
+      "Brighton Fringe",
+      "Ben Carter",
+      "Artists",
+      "Venues",
+      "Sussex Police"
+    ],
+    "global_tags": [
+      "JULY_LIBEL",
+      "HOSTILE_TAKEOVER",
+      "SAFEHARMING_LOG",
+      "2024_ERASURE",
+      "INSTITUTIONAL_RETALIATION"
+    ],
+    "contradiction_links": [
+      "BF-CONTRA-LIBEL-JUL18-2025",
+      "BF-CONTRA-THREE-STORIES-2025-05-08",
+      "BF-CONTRA-ERASURE-2024",
+      "BF-CONTRA-MISREPRESENT-STALKING-2025"
+    ],
+    "timeline_hooks": [
+      "JULY_LIBEL_2025-07-18",
+      "HOSTILE_TAKEOVER_2025-05-08",
+      "SAFEHARMING_LOG_2025-05-07",
+      "SAFEGUARDING_MEETING_2025-04-09"
+    ],
+    "legal_references": [
+      "Defamation Act 2013",
+      "Charities Act 2011 (CC3/CC9)",
+      "Care Act 2014",
+      "UK GDPR / Data Protection Act 2018",
+      "Public Interest Disclosure Act 1998"
+    ]
+  },
+  "entries": [
+    {
+      "id": "JULY_LIBEL_ENTRY_01",
+      "date": "2025-07-18",
+      "speaker": "Duncan Lustig-Prean (email)",
+      "allegation": "Ben refused support from Brighton Fringe.",
+      "rebuttal": "On 2025-04-09, Ben explicitly requested disability support and safeguarding actions during the meeting.",
+      "tags": [
+        "JULY_LIBEL",
+        "DEFAMATION",
+        "REBUTTAL"
+      ],
+      "contradiction_links": [
+        "BF-CONTRA-SUICIDE_MINIMISATION-2025-04-09",
+        "BF-CONTRA-2024_ERASURE-2025-04-09"
+      ],
+      "timeline_hooks": [
+        "SAFEGUARDING_MEETING_2025-04-09"
+      ],
+      "legal_refs": [
+        "Defamation Act 2013",
+        "Charities Act 2011",
+        "Care Act 2014",
+        "UK GDPR / DPA 2018",
+        "PIDA 1998"
+      ]
+    },
+    {
+      "id": "JULY_LIBEL_ENTRY_02",
+      "date": "2025-07-18",
+      "speaker": "Duncan Lustig-Prean (email)",
+      "allegation": "Ben failed to provide a brochure / abandoned obligations.",
+      "rebuttal": "A 72-page brochure was ordered and printed on 2025-04-28; failures stem from Fringe’s takeover and ticketing chaos.",
+      "tags": [
+        "JULY_LIBEL",
+        "DEFAMATION",
+        "REBUTTAL"
+      ],
+      "contradiction_links": [
+        "BF-CONTRA-THREE-STORIES-2025-05-08"
+      ],
+      "timeline_hooks": [
+        "HOSTILE_TAKEOVER_2025-05-08"
+      ],
+      "legal_refs": [
+        "Defamation Act 2013",
+        "Charities Act 2011",
+        "Care Act 2014",
+        "UK GDPR / DPA 2018",
+        "PIDA 1998"
+      ]
+    },
+    {
+      "id": "JULY_LIBEL_ENTRY_03",
+      "date": "2025-07-18",
+      "speaker": "Duncan Lustig-Prean (email)",
+      "allegation": "Ben bullied or pressured artists into registrations.",
+      "rebuttal": "Emails show advocacy re safety and box office failures; 'bullying' is a malicious reframing.",
+      "tags": [
+        "JULY_LIBEL",
+        "DEFAMATION",
+        "REBUTTAL"
+      ],
+      "contradiction_links": [
+        "BF-CONTRA-LIBEL-JUL18-2025"
+      ],
+      "timeline_hooks": [
+        "JULY_LIBEL_2025-07-18"
+      ],
+      "legal_refs": [
+        "Defamation Act 2013",
+        "Charities Act 2011",
+        "Care Act 2014",
+        "UK GDPR / DPA 2018",
+        "PIDA 1998"
+      ]
+    },
+    {
+      "id": "JULY_LIBEL_ENTRY_04",
+      "date": "2025-07-18",
+      "speaker": "Duncan Lustig-Prean (email)",
+      "allegation": "Ben misrepresented team roles and responsibilities.",
+      "rebuttal": "Assistants were proposed as disability support, not managers; Fringe later claimed a 'lawful' venue management takeover.",
+      "tags": [
+        "JULY_LIBEL",
+        "DEFAMATION",
+        "REBUTTAL"
+      ],
+      "contradiction_links": [
+        "BF-CONTRA-THREE-STORIES-2025-05-08"
+      ],
+      "timeline_hooks": [
+        "HOSTILE_TAKEOVER_2025-05-08"
+      ],
+      "legal_refs": [
+        "Defamation Act 2013",
+        "Charities Act 2011",
+        "Care Act 2014",
+        "UK GDPR / DPA 2018",
+        "PIDA 1998"
+      ]
+    },
+    {
+      "id": "JULY_LIBEL_ENTRY_05",
+      "date": "2025-07-18",
+      "speaker": "Duncan Lustig-Prean (email)",
+      "allegation": "Operational failures were caused by Ben after May 8.",
+      "rebuttal": "From May 8, Fringe assumed control; ongoing failures attributable to trustees' decisions, not Ben.",
+      "tags": [
+        "JULY_LIBEL",
+        "DEFAMATION",
+        "REBUTTAL"
+      ],
+      "contradiction_links": [
+        "BF-CONTRA-THREE-STORIES-2025-05-08"
+      ],
+      "timeline_hooks": [
+        "HOSTILE_TAKEOVER_2025-05-08"
+      ],
+      "legal_refs": [
+        "Defamation Act 2013",
+        "Charities Act 2011",
+        "Care Act 2014",
+        "UK GDPR / DPA 2018",
+        "PIDA 1998"
+      ]
+    }
+  ],
+  "appendices": {
+    "legal_breaches": [
+      {
+        "law": "Defamation Act 2013",
+        "breach": "Publication to third parties of false statements causing serious harm; no valid defence."
+      },
+      {
+        "law": "Charities Act 2011",
+        "breach": "Trustee dishonesty and misuse of position to retaliate against a whistleblower."
+      },
+      {
+        "law": "Care Act 2014",
+        "breach": "Retaliatory conduct against an adult-at-risk post-safeguarding disclosure."
+      },
+      {
+        "law": "UK GDPR / DPA 2018",
+        "breach": "Unlawful use of special category health data in defamation narrative."
+      },
+      {
+        "law": "PIDA 1998",
+        "breach": "Protected disclosure (whistleblowing) followed by detriment (libel smear)."
+      }
+    ],
+    "damages": {
+      "reputational": [
+        "Mass email smear to 160+ clients/artists; loss of professional standing."
+      ],
+      "financial": [
+        "Cancelled bookings and venue contracts; projected losses across season(s)."
+      ],
+      "emotional": [
+        "Humiliation and retraumatisation after suicide disclosure."
+      ],
+      "medical": [
+        "Compounded crisis, coercive psychiatric pathway amplified by reputational harm."
+      ]
+    },
+    "cross_refs": {
+      "safeharming_log_reference": "21_Safeharming_Log_master.txt",
+      "life_or_death_log_reference": "01_Life_or_Death_Logged_master.txt",
+      "damages_master_reference": "03_damages_destruction_of_business_reputation_health_master.txt",
+      "policy_refs": [
+        "PILICY_2025-02-17_BRIGHTON_FRINGE_SAFEGUARDING.json",
+        "Brighton Fringe offical safeguarding policy.txt"
+      ]
+    }
+  }
+}

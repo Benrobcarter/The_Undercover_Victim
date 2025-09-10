@@ -1,0 +1,81 @@
+{
+  "chunk": 26,
+  "time_range": "25:30-26:30",
+  "quotes": [
+    {
+      "speaker": "Ben Carter",
+      "time": "25:30",
+      "quote": "So the chain of custody is broken, and no one admits it.",
+      "tags": [
+        "evidence_chain",
+        "contradiction",
+        "accountability"
+      ]
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "25:35",
+      "quote": "Yes, that’s why I’ve asked for a clear record of what’s been received and when.",
+      "tags": [
+        "acknowledgement",
+        "advocacy",
+        "documentation"
+      ]
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "25:40",
+      "quote": "But until that exists, my case is basically unprovable.",
+      "tags": [
+        "victim_experience",
+        "evidence_loss",
+        "risk"
+      ]
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "25:45",
+      "quote": "I understand, and I’ve pressed that it has to be formalised.",
+      "tags": [
+        "advocacy",
+        "acknowledgement",
+        "systemic_issue"
+      ]
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "25:50",
+      "quote": "Pressed? It should already exist by law.",
+      "tags": [
+        "victim_assertion",
+        "legal_basis",
+        "accountability"
+      ]
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "25:55",
+      "quote": "You’re right, Ben. It should.",
+      "tags": [
+        "acknowledgement",
+        "agreement"
+      ]
+    }
+  ],
+  "contradictions": [
+    {
+      "issue": "Chain of custody broken with no accountability; advocate admits record should exist by law but it doesn’t",
+      "type": "chain_of_custody_failure"
+    }
+  ],
+  "timeline_hooks": [
+    {
+      "ref": "broken chain of custody",
+      "link": "Evidence audit contradiction May 2025"
+    },
+    {
+      "ref": "record should exist by law",
+      "link": "Legal breach of evidence handling duties"
+    }
+  ]
+}

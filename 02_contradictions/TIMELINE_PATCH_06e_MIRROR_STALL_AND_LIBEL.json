@@ -1,0 +1,49 @@
+{
+  "timeline": [
+    {
+      "id": "t2_brighton_fringe_consequences#2025-05-05",
+      "title": "Eventotron Payment Based on Partnership Promise",
+      "date": "2025-05-05",
+      "event": "Ben Carter paid £250 to Eventotron to implement a mirrored ticket system under assurance from Brighton Fringe (Alice Wright) that it would be welcomed and collaborative. This partnership framing was later used to delay brochure delivery and misrepresent intent.",
+      "tags": [
+        "COLLABORATION_AS_DEFLECTION",
+        "STALLED_IN_GOOD_FAITH",
+        "SAFEGUARDING_DEFLECTION",
+        "GOOD_FAITH_USED_AS_TRAP"
+      ],
+      "linked_evidence": [
+        "VEX_2025-05-05_Eventotron_Payment_For_Mirror_System"
+      ]
+    },
+    {
+      "id": "t2_brighton_fringe_consequences#2025-05-06",
+      "title": "New Venues and Shows Registered While Blocked",
+      "date": "2025-05-06",
+      "event": "Despite Fringe's positioning of collapse, Half a Camel onboarded new acts and venues. Maris & Otter joined, Alec Crane registered, and infrastructure remained live while brochure progress was covertly stalled.",
+      "tags": [
+        "ONGOING_ACTIVITY_PROVEN_ERASURE",
+        "SAFEGUARDING_DEFLECTION",
+        "STALLED_IN_GOOD_FAITH",
+        "NARRATIVE_REPLACEMENT"
+      ],
+      "linked_evidence": [
+        "VEX_2025-05-06_Ongoing_Registration_Under_Suppression"
+      ]
+    },
+    {
+      "id": "t2_brighton_fringe_consequences#2025-07-18",
+      "title": "Brochure Erased Then Used as Defamation Trigger",
+      "date": "2025-07-18",
+      "event": "Brighton Fringe accused Ben Carter of failing to produce a brochure. The design was ready, but print was delayed by conflicting guidance around ticketing, logo use, and platform visibility — a suppression then weaponised.",
+      "tags": [
+        "BROCHURE_ERASURE_VIA_DELAY_STRATEGY",
+        "DEFAMATION_THROUGH_OMISSION",
+        "GOOD_FAITH_USED_AS_TRAP",
+        "LIBEL_ACTION_DISGUISED_AS_NEUTRAL_UPDATE"
+      ],
+      "linked_evidence": [
+        "VEX_2025-07-18_Brochure_Proof_Used_Against_Me"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "chunk": 5,
+  "time_range": "4:30-5:30",
+  "quotes": [
+    {
+      "speaker": "Emma Veritas",
+      "time": "4:30",
+      "quote": "What I can do is chase again, and if still no reply, I’ll escalate it up the chain.",
+      "tags": [
+        "advocacy",
+        "escalation",
+        "follow_up"
+      ]
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "4:37",
+      "quote": "Escalate to who though?",
+      "tags": [
+        "accountability",
+        "clarification"
+      ]
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "4:39",
+      "quote": "To the inspector level, above the sergeant, if needed.",
+      "tags": [
+        "escalation",
+        "police_hierarchy"
+      ]
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "4:43",
+      "quote": "Right, because otherwise I’m left hanging without answers.",
+      "tags": [
+        "victim_experience",
+        "delay"
+      ]
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "4:47",
+      "quote": "Yes, and I know that’s very difficult. I’ll do my best to press them this week.",
+      "tags": [
+        "advocacy",
+        "delay"
+      ]
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "4:52",
+      "quote": "It’s not just difficult, it’s unsafe for me.",
+      "tags": [
+        "safeguarding",
+        "victim_experience",
+        "risk"
+      ]
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "4:56",
+      "quote": "I do understand, Ben.",
+      "tags": [
+        "acknowledgement"
+      ]
+    }
+  ],
+  "contradictions": [
+    {
+      "issue": "Advocate acknowledges delays unsafe but offers only generic escalation promises",
+      "type": "safeguarding_gap"
+    }
+  ],
+  "timeline_hooks": [
+    {
+      "ref": "escalation to inspector level",
+      "link": "Potential escalation path May 2025"
+    },
+    {
+      "ref": "victim left unsafe due to delays",
+      "link": "Safeguarding concern May 2025"
+    }
+  ]
+}

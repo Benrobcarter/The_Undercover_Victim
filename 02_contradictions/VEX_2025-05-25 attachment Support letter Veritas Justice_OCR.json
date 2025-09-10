@@ -1,0 +1,26 @@
+{
+  "id": "VEX_2025-05-25 attachment Support letter Veritas Justice_OCR",
+  "type": "evidence",
+  "source": "Smart OCR Ingest",
+  "date": "2025-05-25",
+  "summary": "Auto-ingested from file: 2025-05-25 attachment Support letter Veritas Justice.pdf",
+  "meta": {
+    "original_filename": "2025-05-25 attachment Support letter Veritas Justice.pdf",
+    "ocr_pdf_file": "2025-05-25 attachment Support letter Veritas Justice_ocr.pdf",
+    "ocr_text_file": "2025-05-25 attachment Support letter Veritas Justice.txt",
+    "sha256": "e81a1a5a34edddfe7d8f4d6b01dc47a97a40aa66c2b07964d715e5b69d01b246",
+    "source_folder": ".",
+    "ingested_on": "2025-09-06T23:11:49.757832",
+    "ingest_method": "ocr_smart"
+  },
+  "links": {
+    "source_file_original": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_unprocessed/2025-05-25 attachment Support letter Veritas Justice.pdf",
+    "ocr_pdf_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_ocrd/2025-05-25 attachment Support letter Veritas Justice_ocr.pdf",
+    "ocr_text_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/text/2025-05-25 attachment Support letter Veritas Justice.txt"
+  },
+  "tags": [
+    "auto_ocr",
+    "25 attachment support letter veritas justice",
+    "2025"
+  ]
+}

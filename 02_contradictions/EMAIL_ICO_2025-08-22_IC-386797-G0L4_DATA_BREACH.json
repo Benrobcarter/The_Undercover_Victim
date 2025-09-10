@@ -1,0 +1,43 @@
+{
+  "date": "2025-08-22",
+  "time": "14:29",
+  "source_ref": [
+    "ICO_IC-386797-G0L4"
+  ],
+  "event": "ICO Complaint \u2013 Alleged Double Sex Offender Data Breach",
+  "description": "Ben Carter emailed ICO casework referencing case IC-386797-G0L4. He raised concerns over receiving a 'double sex offender' data breach, questioning if it was intimidation in response to his complaint. A 458K PDF related to CRN 47240214305 was attached.",
+  "vex_tags": [
+    "ICO_ESCALATION",
+    "DATA_PROTECTION_BREACH",
+    "SENSITIVE_OFFENDER_INFORMATION",
+    "POSSIBLE_INTIMIDATION_SIGNAL",
+    "EVIDENCE_FORWARDING",
+    "ATTACHMENT_EVIDENCE",
+    "CASE_REFERENCE_PRESENT"
+  ],
+  "contradiction_ids": [
+    "EX_POTENTIAL_DPA_BREACH_PROVISIONAL",
+    "EX_INTIMIDATION_VIA_DATA_DISCLOSURE_PROVISIONAL"
+  ],
+  "linked_evidence": [
+    {
+      "type": "email",
+      "filename": "EMAIL_ICO_2025-08-22_IC-386797-G0L4_DATA_BREACH.json",
+      "status": "injected"
+    },
+    {
+      "type": "attachment",
+      "filename": "Gmail_47240214305.pdf",
+      "size_kb": 458,
+      "status": "pending_parse"
+    }
+  ],
+  "emotional_tone": "unease",
+  "timeline_layers": [
+    "PHHC_SMART_TIMELINE",
+    "EVIDENCE_SUPPRESSION",
+    "INSTITUTIONAL_ACCOUNTABILITY",
+    "DATA_PROTECTION_BREACHES",
+    "LIVE_VEX_TIMELINE"
+  ]
+}

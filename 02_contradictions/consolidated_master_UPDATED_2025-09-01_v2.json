@@ -1,0 +1,60 @@
+{
+  "version": "2025-09-01",
+  "generated_at": "2025-09-01T03:33:58.333901",
+  "contradictions": [
+    {
+      "name": "BF-CONTRA-ALICE-BACKCHANNEL-DISCLOSURE-2025",
+      "path": "UNKNOWN",
+      "tags": [
+        "TRUST_EXPLOITATION",
+        "SAFEGUARDING_DEFLECTION",
+        "GDPR_SPECIAL_CATEGORY_DATA_BREACH",
+        "DUNCAN_ASSISTED_ERASURE",
+        "NARRATIVE_CONTROL",
+        "CROWBARRING_MYSELF_JUSTICE"
+      ],
+      "contradictions": [
+        "BF-CONTRA-ALICE-BACKCHANNEL-DISCLOSURE-2025"
+      ]
+    }
+  ],
+  "evidence_vex": [
+    {
+      "name": "SAR_BF_2025-06-24_BoardMeeting_PreDecision",
+      "path": "UNKNOWN",
+      "tags": [
+        "DPA_GDPR",
+        "SAR_STRUCTURAL_ABSENCE",
+        "RECORDS_AUDIT",
+        "INSTITUTIONAL_GASLIGHTING",
+        "DEATH_BY_SILENCE"
+      ],
+      "contradictions": [
+        "BF-CONTRA-SAR-GDPR-BREACH-2025",
+        "BF-CONTRA-NO-RECORD-OF-ALLEGATIONS-2025"
+      ]
+    },
+    {
+      "name": "SAR_BF_2025-07-20_Board_Minutes",
+      "path": "UNKNOWN",
+      "tags": [
+        "DPA_GDPR",
+        "SAR_STRUCTURAL_ABSENCE",
+        "GOVERNANCE_FAILURE",
+        "RECORDS_AUDIT",
+        "DEATH_BY_SILENCE"
+      ],
+      "contradictions": [
+        "BF-CONTRA-SAR-GDPR-BREACH-2025",
+        "DUNCAN_ASSISTED_ERASURE"
+      ]
+    }
+  ],
+  "timelines": [],
+  "quote_cards": [],
+  "overlays": [],
+  "meta": {
+    "manifest_path": "/mnt/data/manifest_meta_UPDATED_2025-09-01_v2.json",
+    "status_report_path": "/mnt/data/STATUS_REPORT_2025-09-01_v2.json"
+  }
+}

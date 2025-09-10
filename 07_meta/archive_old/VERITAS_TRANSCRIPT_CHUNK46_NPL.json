@@ -1,0 +1,83 @@
+{
+  "chunk": 46,
+  "time_range": "45:30-46:30",
+  "quotes": [
+    {
+      "speaker": "Ben Carter",
+      "time": "45:30",
+      "quote": "So when the law is ignored, and I’m left unsafe, that’s not just failure, that’s abuse.",
+      "tags": [
+        "victim_experience",
+        "safeguarding_failure",
+        "legal_basis",
+        "institutional_abuse"
+      ]
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "45:36",
+      "quote": "I understand, and I’ve said the impact on you is unacceptable.",
+      "tags": [
+        "acknowledgement",
+        "advocacy",
+        "impact"
+      ]
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "45:41",
+      "quote": "Unacceptable doesn’t stop it. Calling it abuse is accurate.",
+      "tags": [
+        "victim_assertion",
+        "institutional_abuse",
+        "accountability"
+      ]
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "45:46",
+      "quote": "I can’t label it that, but I see how you experience it that way.",
+      "tags": [
+        "deflection",
+        "acknowledgement",
+        "neutral_response"
+      ]
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "45:51",
+      "quote": "It’s not just my experience. It’s the reality of being left at risk by those with a duty.",
+      "tags": [
+        "victim_experience",
+        "safeguarding_gap",
+        "legal_basis"
+      ]
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "45:56",
+      "quote": "You’re right, Ben. Being left at risk isn’t defensible.",
+      "tags": [
+        "acknowledgement",
+        "agreement",
+        "safeguarding"
+      ]
+    }
+  ],
+  "contradictions": [
+    {
+      "issue": "Victim frames ignored law as abuse; advocate refuses to label it abuse but concedes it’s indefensible",
+      "type": "institutional_abuse_contradiction"
+    }
+  ],
+  "timeline_hooks": [
+    {
+      "ref": "ignored law = abuse",
+      "link": "Safeguarding breach reframed as institutional abuse Apr–May 2025"
+    },
+    {
+      "ref": "left unsafe by duty holders",
+      "link": "Failure of duty of care May 2025"
+    }
+  ]
+}

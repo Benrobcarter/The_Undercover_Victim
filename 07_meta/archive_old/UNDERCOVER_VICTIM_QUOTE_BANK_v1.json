@@ -1,0 +1,167 @@
+{
+  "meta": {
+    "name": "UNDERCOVER_VICTIM_QUOTE_BANK",
+    "version": "v1",
+    "updated_utc": "2025-08-26T05:10:00.225343Z"
+  },
+  "quotes": [
+    {
+      "id": "Q-UV-0001",
+      "text": "It\u2019s my story \u2014 but it\u2019s been written by someone else.",
+      "speaker": "Ben Carter",
+      "suggested_placement": [
+        "foreword_epigraph",
+        "chapter_epigraph"
+      ],
+      "vex_tags": [
+        "REPUTATIONAL_HARM",
+        "ONUS_PROBANDI_LOGIC"
+      ],
+      "chapters": [
+        "The Maggots\u2019 Law",
+        "Coercion Becomes a Dance"
+      ],
+      "timelines": [],
+      "tone": "defiant",
+      "status": "approved",
+      "notes": "Use on public pages and PDF pull-quotes."
+    },
+    {
+      "id": "Q-UV-0002",
+      "text": "It\u2019s not worth risking your life just to feel safe.",
+      "speaker": "Ben Carter",
+      "suggested_placement": [
+        "safeguarding_interlude",
+        "chapter_epigraph"
+      ],
+      "vex_tags": [
+        "SAFEGUARDING_FAILURE",
+        "DEATH_BY_SILENCE"
+      ],
+      "chapters": [
+        "The Maggots\u2019 Law"
+      ],
+      "timelines": [
+        "Death By Silence"
+      ],
+      "tone": "cautionary",
+      "status": "approved",
+      "notes": ""
+    },
+    {
+      "id": "Q-UV-0003",
+      "text": "Police, please.",
+      "speaker": "Ben Carter",
+      "date_context": "2024-07-21",
+      "suggested_placement": [
+        "timeline_marker",
+        "margin_callout"
+      ],
+      "vex_tags": [
+        "SAFEGUARDING_FAILURE"
+      ],
+      "chapters": [
+        "Coercion Becomes a Dance"
+      ],
+      "timelines": [
+        "SussexPolice"
+      ],
+      "tone": "plea",
+      "status": "approved",
+      "notes": "Use as the project\u2019s origin refrain."
+    },
+    {
+      "id": "Q-UV-0004",
+      "text": "One big apple rotting from its core.",
+      "speaker": "Ben Carter",
+      "suggested_placement": [
+        "chapter_epigraph"
+      ],
+      "vex_tags": [
+        "CORE_ROT"
+      ],
+      "chapters": [
+        "The Maggots\u2019 Law"
+      ],
+      "timelines": [],
+      "tone": "blunt",
+      "status": "approved"
+    },
+    {
+      "id": "Q-UV-0005",
+      "text": "Coercion becomes a dance.",
+      "speaker": "Ben Carter",
+      "suggested_placement": [
+        "chapter_epigraph",
+        "interlude"
+      ],
+      "vex_tags": [
+        "TIMELINE_MANIPULATION"
+      ],
+      "chapters": [
+        "Coercion Becomes a Dance"
+      ],
+      "timelines": [],
+      "tone": "observational",
+      "status": "approved"
+    },
+    {
+      "id": "Q-UV-0006",
+      "text": "They saw, paused, reflected \u2014 and chose death.",
+      "speaker": "Ben Carter",
+      "suggested_placement": [
+        "contradiction_card"
+      ],
+      "vex_tags": [
+        "DEATH_BY_SILENCE",
+        "SAFEGUARDING_FAILURE"
+      ],
+      "chapters": [
+        "The Maggots\u2019 Law"
+      ],
+      "timelines": [
+        "Death By Silence"
+      ],
+      "tone": "indictment",
+      "status": "approved"
+    },
+    {
+      "id": "Q-UV-0007",
+      "text": "The pattern now is no reply.",
+      "speaker": "Ben Carter",
+      "suggested_placement": [
+        "timeline_marker",
+        "interlude"
+      ],
+      "vex_tags": [
+        "DEATH_BY_SILENCE"
+      ],
+      "chapters": [
+        "The Maggots\u2019 Law",
+        "Coercion Becomes a Dance"
+      ],
+      "timelines": [
+        "Death By Silence"
+      ],
+      "tone": "matter_of_fact",
+      "status": "draft",
+      "notes": "Lift exact wording from WhatsApp export when available."
+    },
+    {
+      "id": "Q-UV-0999",
+      "text": "[Add your line here]",
+      "speaker": "Ben Carter",
+      "suggested_placement": [
+        "chapter_epigraph",
+        "interlude",
+        "margin_callout"
+      ],
+      "vex_tags": [],
+      "chapters": [],
+      "timelines": [],
+      "tone": "tbd",
+      "status": "draft",
+      "notes": "Placeholder for new lines you paste; we\u2019ll tag and place them."
+    }
+  ]
+}

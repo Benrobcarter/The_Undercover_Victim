@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "id": "THE_DANCE",
+    "title": "The Dance \u2014 Post-Crowbar Phase",
+    "created_utc": "2025-08-27T00:55:40.943741Z",
+    "clusters": [
+      "THE_DANCE",
+      "DEATH_BY_SILENCE",
+      "DUNCAN_ASSISTED_ERASURE"
+    ],
+    "linked_threads": [
+      "CROWBARRING_MYSELF_JUSTICE",
+      "DEATH_BY_SILENCE"
+    ],
+    "notes": "Marks the shift after Sergeant Davies call; no more crowbarring, instead an institutional 'dance' of agendas."
+  },
+  "narrative": "After the April 11th 101 calls, Ben Carter recognised that 'crowbarring' his way into the case file could only work once. Despite disclosures, suicide was not logged for three days. Sergeant Davies, described as 'chief gaslighter: deflect, project, deny,' became the last genuine officer contact. From that point onwards, contact with Sussex Police was under false pretences \u2014 their agenda of erasure versus Ben's agenda of documentation. This transition marks the end of crowbarring and the beginning of 'the dance.'",
+  "contradictions": [
+    {
+      "id": "TRANSITION_TO_DANCE",
+      "summary": "End of crowbarring; shift to institutional dance of agendas.",
+      "linked_evidence": [
+        "VEX_CROWBARRING_MYSELF_JUSTICE_BUNDLE_v1.1.json#REFLECTION_TRANSITION_TO_DANCE"
+      ],
+      "tags": [
+        "TRANSITION_TO_DANCE",
+        "TIMELINE_MANIPULATION",
+        "SAFEGUARDING_FAILURE",
+        "RESILIENCE_EVIDENCE",
+        "INSTITUTIONAL_GASLIGHTING"
+      ]
+    }
+  ],
+  "timeline_hooks": [
+    {
+      "date": "2025-04-11",
+      "event": "Crowbarring calls with Sussex Police (Parts 1\u20133)."
+    },
+    {
+      "date": "2025-04-14",
+      "event": "Sergeant Davies confirms suicide attempt not logged; last genuine officer contact."
+    },
+    {
+      "date": "2025-04-15+",
+      "event": "Shift into the 'dance' \u2014 false pretence contacts, systemic erasure."
+    }
+  ]
+}

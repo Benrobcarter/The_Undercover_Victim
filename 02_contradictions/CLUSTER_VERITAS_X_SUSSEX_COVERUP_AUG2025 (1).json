@@ -1,0 +1,56 @@
+{
+  "id": "CLUSTER_VERITAS_X_SUSSEX_COVERUP_AUG2025",
+  "title": "Veritas x Sussex Police Cover-Up: NICE Link Denial, Suicide Logging, and Supervisory Collapse",
+  "cluster_type": "contradiction_cluster",
+  "date_range": {
+    "start": "2024-11-04",
+    "end": "2025-08-25"
+  },
+  "tags": [
+    "veritas_contradictions",
+    "nice_link_denial",
+    "suicide_logging",
+    "evidence_erasure",
+    "timeline_manipulation",
+    "institutional_alignment",
+    "safeguarding_failure",
+    "death_by_silence"
+  ],
+  "timelines_linked": [
+    "CRIME_REF_47240214305_THREAD",
+    "CROWBARRING_MYSELF_JUSTICE",
+    "DEATH_BY_SILENCE",
+    "FRACTURED_TIMELINE",
+    "MAY_2025_ESCALATION_ARC",
+    "VERITAS_CALL_CLASH",
+    "WHO_IS_SAFEGUARDING_ME"
+  ],
+  "summary": "This cluster consolidates contradictions arising from Veritas Justice statements, Sussex Police timeline records, and transcript assertions. It demonstrates that key safeguarding and suicide disclosures were dismissed or erased, NICE link usage was publicly denied despite forensic timeline traces, and police supervisory channels misrepresented contact logs. The contradictions span from officer assignments and safeguarding silence to denial of evidence already submitted.",
+  "primary_evidence": [
+    "VERITAS_ASSERTIONS_CONTRADICTABLE_2025-08-25 (1).json",
+    "VERITAS_CLASH_TO_TIMELINE_LINKS_2025-08-25.json",
+    "VERITAS_CLAsh_REPORT_2025-08-25.json",
+    "2024-11-04_Digital-Policing_to_Ben_Jonathan-Dixon-Request.json",
+    "PUBLIC_SANITIZED_2025-03-08_Ben_to_PC-Dixon_Statement-and-Medical-Letter.json",
+    "EVID_2025-05-27_1819_Police_Voicemail_Suicide_Risk_Acknowledged.json",
+    "FLUID_TIMELINE_MAY2025.json",
+    "TIMELINE_2025-08-30_Who_Is_Safeguarding_Me.json",
+    "2024-12-16_PC_Dixon_Email_11_CRN-47240214305_VEX.json"
+  ],
+  "implications": {
+    "victims_code_breach": true,
+    "gdpr_failure": true,
+    "veritas_conflict_of_interest": true,
+    "safeguarding_omission": true,
+    "evidence_suppression": true
+  },
+  "status": "active",
+  "created_by": "ben.carter",
+  "last_updated": "2025-09-09",
+  "linked_cluster_files": [
+    "CLUSTER_SUSSEX_POLICE_TIMELINE_MANIPULATION_v3.json",
+    "VERITAS_FILE_HASHES_2025-08-25.json",
+    "PROJECT_FILE_SYNCED_2025-08-25_v4_VERIFICATION_LOG.json"
+  ],
+  "version": "v2.1"
+}

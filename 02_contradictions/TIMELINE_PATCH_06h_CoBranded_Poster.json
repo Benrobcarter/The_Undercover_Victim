@@ -1,0 +1,19 @@
+{
+  "timeline": [
+    {
+      "id": "t2_brighton_fringe_consequences#2025-05-01",
+      "title": "Co-Branded Poster Misled Public About Safety and Stability",
+      "date": "2025-05-01",
+      "event": "Brighton Fringe and Half a Camel launched a co-branded poster campaign at Brighton Station. The poster featured both logos and gave the public the impression of unified operations and venue safety. In reality, the Fringe knew the venues were uninsurable and the system was failing. The campaign served to drive ticket sales before Ben Carter was erased.",
+      "tags": [
+        "COBRAND_EXPLOITATION",
+        "FRAUDULENT_PUBLIC_REPRESENTATION",
+        "STRUCTURAL_ERASURE",
+        "BREACH_OF_PUBLIC_TRUST"
+      ],
+      "linked_evidence": [
+        "VEX_2025-05-01_CoBranded_Station_Poster"
+      ]
+    }
+  ]
+}

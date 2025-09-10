@@ -1,0 +1,82 @@
+{
+  "chunk": 37,
+  "time_range": "36:30-37:30",
+  "quotes": [
+    {
+      "speaker": "Ben Carter",
+      "time": "36:30",
+      "quote": "So when they ignore prevention, they’re effectively gambling with my life.",
+      "tags": [
+        "victim_experience",
+        "safeguarding_gap",
+        "risk"
+      ]
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "36:36",
+      "quote": "I know, and I’ve told them that’s not acceptable practice.",
+      "tags": [
+        "acknowledgement",
+        "advocacy",
+        "safeguarding"
+      ]
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "36:41",
+      "quote": "Not acceptable is too soft. It’s negligence.",
+      "tags": [
+        "victim_assertion",
+        "accountability",
+        "safeguarding_failure"
+      ]
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "36:46",
+      "quote": "You’re right, it is negligent when prevention is ignored.",
+      "tags": [
+        "acknowledgement",
+        "agreement",
+        "safeguarding"
+      ]
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "36:51",
+      "quote": "Negligence that puts me at risk every day.",
+      "tags": [
+        "victim_experience",
+        "risk",
+        "safeguarding_failure"
+      ]
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "36:56",
+      "quote": "I agree, and I’ll continue to stress that to them.",
+      "tags": [
+        "acknowledgement",
+        "advocacy",
+        "safeguarding"
+      ]
+    }
+  ],
+  "contradictions": [
+    {
+      "issue": "Victim frames ignored prevention as negligence risking life; advocate concedes negligence but only 'stresses' point",
+      "type": "safeguarding_negligence"
+    }
+  ],
+  "timeline_hooks": [
+    {
+      "ref": "ignored prevention = negligence",
+      "link": "Institutional negligence safeguarding failure May 2025"
+    },
+    {
+      "ref": "gambling with my life",
+      "link": "Safeguarding omission contradiction"
+    }
+  ]
+}

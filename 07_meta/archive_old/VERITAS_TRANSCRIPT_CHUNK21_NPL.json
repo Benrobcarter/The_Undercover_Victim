@@ -1,0 +1,81 @@
+{
+  "chunk": 21,
+  "time_range": "20:30-21:30",
+  "quotes": [
+    {
+      "speaker": "Ben Carter",
+      "time": "20:30",
+      "quote": "So if their file says one thing and your log says another, who do you think they’ll believe?",
+      "tags": [
+        "accountability",
+        "power_imbalance",
+        "victim_experience"
+      ]
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "20:36",
+      "quote": "I understand, and that’s why I always push for confirmation from them directly.",
+      "tags": [
+        "advocacy",
+        "acknowledgement",
+        "documentation"
+      ]
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "20:41",
+      "quote": "But they don’t give it. They stay silent or say they can’t find it.",
+      "tags": [
+        "silence",
+        "evidence_loss",
+        "contradiction"
+      ]
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "20:46",
+      "quote": "Yes, that’s been the problem all along.",
+      "tags": [
+        "acknowledgement",
+        "systemic_issue"
+      ]
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "20:50",
+      "quote": "Then what’s the point of me giving anything, if it’s just going to disappear or be denied?",
+      "tags": [
+        "victim_experience",
+        "hopelessness",
+        "risk"
+      ]
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "20:56",
+      "quote": "Because it still shows you’ve done your part, and I can evidence that you tried.",
+      "tags": [
+        "advocacy",
+        "documentation",
+        "defensive"
+      ]
+    }
+  ],
+  "contradictions": [
+    {
+      "issue": "Police silence and denials vs. advocate insists victim should keep submitting evidence anyway",
+      "type": "institutional_nonresponse"
+    }
+  ],
+  "timeline_hooks": [
+    {
+      "ref": "police silence on evidence receipt",
+      "link": "Pattern of non-response May 2025"
+    },
+    {
+      "ref": "advocate says keep submitting",
+      "link": "Burden shifted back onto victim"
+    }
+  ]
+}

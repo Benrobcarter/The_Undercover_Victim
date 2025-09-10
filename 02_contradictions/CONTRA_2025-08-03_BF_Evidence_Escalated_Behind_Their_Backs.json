@@ -1,0 +1,26 @@
+{
+  "id": "BF-CONTRA-EVIDENCE-ESCALATED-BEHIND-THEIR-BACKS-2025-08-03",
+  "claim": "Brighton Fringe board had all relevant safeguarding and legal information when making decisions regarding Ben Carter\u2019s removal.",
+  "reality": "A second crime reference number (47250152583) was issued by Sussex Police for stalking and harassment on 3 August 2025. This was submitted independently and without the knowledge of Brighton Fringe Chair Duncan Lustig-Prean, after the board refused to engage with Ben's disclosures or the initial police assignment (CR 47250093423). The new report was routed through policeplease.com, circumventing institutional obstruction.",
+  "source_files": [
+    "EVID_2025-08-03_SussexPolice_Second_Stalking_CrimeRef_47250152583.json"
+  ],
+  "laws_breached": [
+    "Charities Act 2011",
+    "Care Act 2014",
+    "Charity Commission CC3 and CC9",
+    "Human Rights Act 1998 (Right to fair treatment and remedy)"
+  ],
+  "damages": [
+    "Reputational",
+    "Emotional",
+    "Legal Obstruction"
+  ],
+  "actor_cluster": "Brighton Fringe",
+  "tags": [
+    "SECOND_STALKING_CASE_ESCALATION",
+    "SAFEGUARDING_DISCLOSURE_IGNORED",
+    "GOVERNANCE_DECISION_MADE_WITHOUT_EVIDENCE",
+    "DUNCAN_NOT_AWARE_OF_NEW_OFFICER"
+  ]
+}

@@ -1,0 +1,166 @@
+[
+  {
+    "filename": "BOOK_MASTER_MERGED_POC_2025-08-27_v5.2.json",
+    "description": "Primary book manuscript with timeline + contradiction links."
+  },
+  {
+    "filename": "BOOK_MASTER_MERGED_POC_2025-08-27_v5.2_PATCHED_WITH_INVISIBLE_PROBE_v2.json",
+    "description": "Patched version with Chapter 3.33 included."
+  },
+  {
+    "filename": "The Undercover Victim.txt",
+    "description": "Book shell used for table of contents and quote overlays."
+  },
+  {
+    "filename": "book_chapter_sec3_33.txt",
+    "description": "Raw text of Chapter 3.33 \u2013 The Invisible Probe."
+  },
+  {
+    "filename": "book_section_3_34.txt",
+    "description": "Text of Chapter 3.34 \u2013 The July Call."
+  },
+  {
+    "filename": "Section 3.30_ The July Call (2024)_ The Suppressed Foundation of the Case.docx.txt",
+    "description": "Narrative analysis of the July Call and suppression by Sussex Police."
+  },
+  {
+    "filename": "21_06_24_THE_JULY_CALL_1-5_otter_ai.txt",
+    "description": "Transcript of the original July Call audio recording."
+  },
+  {
+    "filename": "3.59_ The _Police Please_ Email_ A Case Study in Forced Compliance and Systemic Absurdity.txt",
+    "description": "Narrative analysis of police communications and the broken system."
+  },
+  {
+    "filename": "Index_ 06d. Proof of Good Faith and Financial Investment.docx",
+    "description": "Evidence narrative supporting Brighton Fringe betrayal."
+  },
+  {
+    "filename": "UPDATED_BOOK_SECTION_3X_PALMER_INSERT_v2.json",
+    "description": "Modular insert focused on oversight failure by Inspector Palmer."
+  },
+  {
+    "filename": "BOOK_SECTION_3X_VERITAS_INSERT_PALMER.json",
+    "description": "Narrative insert focused on Veritas disclosures and Palmer's chain of failure."
+  },
+  {
+    "filename": "04_book_inserts_README.md",
+    "description": "README defining injectable book insert formats and system compatibility."
+  },
+  {
+    "filename": "quote_cards.json",
+    "description": "Visual quotes tied to book chapters and Divi overlays."
+  },
+  {
+    "filename": "CROSSWALK_BOOK_SHARD_TIMELINE_2025-08-31.json",
+    "description": "Mapping file that links book sections to VEX, contradictions, timeline entries."
+  },
+  {
+    "filename": "CONTRA_QUOTE_LINKS_PATCH.json",
+    "description": "Patch linking quotes to contradiction clusters for frontend linking."
+  },
+  {
+    "filename": "BOOK_UNDERCOVER_VICTIM_v2_structured_SECTION3_UPDATED.json",
+    "description": "Updated structured Section 3 for website rendering and modular injection."
+  },
+  {
+    "filename": "MASTER_BOOK_MANUSCRIPT.json",
+    "description": "Clean narrative backbone for published book buildout."
+  },
+  {
+    "filename": "COMPENSATION_CLAIM_MATRIX_SUSSEX_POLICE.json",
+    "description": "Links book and timeline paragraphs to compensation-linked police failings."
+  },
+  {
+    "filename": "MASTER_COMPLAINT_INDEX_v1.1.json",
+    "description": "Index of all major complaint threads mapped to book sections."
+  },
+  {
+    "filename": "SECTION_3_SKELETON_v1.1.json",
+    "description": "Layout blueprint for Section 3 with outstanding content/mapping flags."
+  },
+  {
+    "filename": "CONTRA_2025-05-17_Clarke_4am_Call_Fabrication.json",
+    "description": "Contradiction insert linked to Clarke call fabrication narrative in Section 3."
+  },
+  {
+    "filename": "CONTRA_2025-06-22_101_Humiliation_Protocol.json",
+    "description": "Contradiction file mapped to book chapters on trauma handling and refusal to document."
+  },
+  {
+    "filename": "CONTRADICTIONS_BUNDLE_2025-08-26_v5.json",
+    "description": "Full set of contradiction overlays for narrative and evidence linking."
+  },
+  {
+    "filename": "UPDATED_TIMELINE_PALMER_CHAIN_OF_COMMAND_v2.json",
+    "description": "Injectable timeline used in Section 3.6\u20133.9 (oversight breakdown)."
+  },
+  {
+    "filename": "VEX_UNDERCOVER_VICTIM_BUNDLE_v1.8.json",
+    "description": "Main VEX bundle for narrative sections, contradiction hooks, and emotional metadata (v1.8)."
+  },
+  {
+    "filename": "VEX_PATCH_Maggots_Law_v1.json",
+    "description": "Overlay VEX patch for 'The Maggots\u2019 Law' chapter."
+  },
+  {
+    "filename": "VEX_TAG_TAXONOMY_master_v1.json",
+    "description": "Canonical VEX tag taxonomy used for book-tag consistency."
+  },
+  {
+    "filename": "VEX_OVERLAY_CHERISH_THESE_MOMENTS.json",
+    "description": "Emotive overlay and quote bundle for the 'Cherish These Moments' module."
+  },
+  {
+    "filename": "VEX_2025-06-22_Cherish_Bundle_FULLY_VEXED.json",
+    "description": "Fully VEX-tagged bundle related to the 22 June 101 call and emotional impact."
+  },
+  {
+    "filename": "VEX_EMAIL_2025-02-12_1417_Bail_confirmation_conditions_ame_18.json",
+    "description": "Email evidence tying bail confirmation timeline to Section 3.5."
+  },
+  {
+    "filename": "VEX_EMAIL_2025-03-13_0514_NICE_links_statement_GP_letter_t_19.json",
+    "description": "Email evidence about NICE links and SAR obstruction used in book evidence section."
+  },
+  {
+    "filename": "WORKING_STATE_PATCH_20250826-031233_BATCH_INJECT.json",
+    "description": "Log of recent VEX/bundle patch injections into project structure."
+  },
+  {
+    "filename": "VEX_2025-06-22_101_Humiliation_Protocol.json",
+    "description": "Supporting VEX entry for 101 call and book contradiction overlay."
+  },
+  {
+    "filename": "BOOK_UNDERCOVER_VICTIM_v2_structured.json",
+    "description": "Structured version of the Undercover Victim book, with autochaptering, quote syncing, and VEX-tag index."
+  },
+  {
+    "filename": "CONTRADICTIONS_VERITAS_BUNDLE.csv",
+    "description": "Contradiction summary log linking Veritas WhatsApp and timeline entries to book narrative."
+  },
+  {
+    "filename": "VEX_2025-03_to_07_Veritas_EmmaJones_WhatsApp_A10.json",
+    "description": "WhatsApp VEX bundle covering Veritas (Emma Jones) support, mapped to book and timeline."
+  },
+  {
+    "filename": "VEX_UNDERCOVER_VICTIM_BUNDLE_v1.json",
+    "description": "Original Undercover Victim VEX narrative bundle (early draft of versioning)."
+  },
+  {
+    "filename": "MASTER_COMPLAINT_INDEX_v1.json",
+    "description": "Master index of complaint sections, timelines, contradictions, and parsing queue for VEX/book linkage."
+  },
+  {
+    "filename": "VERITAS_FULL_WORKS_manifest_v2.json",
+    "description": "Manifest listing all Veritas call/email/WhatsApp entries supporting timeline and Section 3 development."
+  },
+  {
+    "filename": "VERITAS_FULL_WORKS_manifest_v3.csv",
+    "description": "CSV version of Veritas manifest for visual analysis, dashboard use, or contradiction indexing."
+  },
+  {
+    "filename": "PROJECT_FILE_SYNCED_2025-08-26_154817_v6_FILE_MANIFEST.json",
+    "description": "Master synced file manifest for all book-relevant project assets and mappings."
+  }
+]

@@ -1,0 +1,901 @@
+[
+  {
+    "meta": {
+      "filename": "2024-12-16_PC_Dixon_Email_11_CRN-47240214305_VEX.json",
+      "case_reference": "47240214305",
+      "thread_label": "CRIME_REF_47240214305_THREAD",
+      "actor_cluster": [
+        "Sussex Police",
+        "PC Jon Dixon (EA817)",
+        "Ben Carter"
+      ],
+      "date_range": {
+        "start": "2024-12-16T22:43:00",
+        "end": "2024-12-16T22:43:00"
+      },
+      "source_provenance": "Email from Ben Carter to PC Jon Dixon on 16 Dec 2024 at 22:43 (provided by user)",
+      "created_at_utc": "2025-08-24T18:08:46.882330Z",
+      "vex_schema_version": "1.1"
+    },
+    "emails": [
+      {
+        "id": "email-2024-12-16-2243-ben-dixon",
+        "date": "2024-12-16T22:43:00",
+        "from": {
+          "name": "Ben Carter",
+          "email": "benrobcarter@gmail.com"
+        },
+        "to": [
+          {
+            "name": "PC Jon Dixon",
+            "email": "Jon.Dixon@sussex.police.uk",
+            "badge": "EA817"
+          }
+        ],
+        "subject_summary": "Follow-up on music misuse relevance to stalking case",
+        "body": "Just thought as you're building a case against her and posting a song about someone online they're on bail for stalking charges would be relevant to the case?\nI know you can't update me, so I don't know what's going on, but if you feel this is irrelevant or you have enough stalking evidence already then no problem.\nI don't know the law or how it applies to this case only you do. I'll let you know whenever something comes up though I just hate not knowing and now know there's been accusation against me. It's horrible.\nThanks Ben",
+        "attachments": [],
+        "labels": [
+          "Victim Cooperation",
+          "Evidence Submission",
+          "Relevance Query"
+        ]
+      }
+    ],
+    "vex": [
+      {
+        "email_id": "email-2024-12-16-2243-ben-dixon",
+        "sentence_tags": [
+          {
+            "text": "Just thought as you're building a case against her and posting a song about someone online they're on bail for stalking charges would be relevant to the case?",
+            "tags": [
+              "EVIDENCE_RELEVANCE_QUERY",
+              "MUSIC_ABUSE_REPORT"
+            ],
+            "notes": "Ben argues that suspect's online posts are relevant to ongoing stalking investigation."
+          },
+          {
+            "text": "I know you can't update me, so I don't know what's going on, but if you feel this is irrelevant or you have enough stalking evidence already then no problem.",
+            "tags": [
+              "VICTIM_UNCERTAINTY",
+              "DEFERRAL_TO_POLICE"
+            ],
+            "notes": "Shows Ben\u2019s lack of confidence in process and reliance on police discretion."
+          },
+          {
+            "text": "I just hate not knowing and now know there's been accusation against me. It's horrible.",
+            "tags": [
+              "VICTIM_DISTRESS",
+              "FALSE_ACCUSATION_HARM"
+            ],
+            "notes": "Highlights emotional impact of false accusation and being kept in the dark."
+          }
+        ]
+      }
+    ],
+    "contradiction_links": [
+      {
+        "id": "SP-CONTRA-DISMISSAL-OF-MUSIC-EVIDENCE-2024-12",
+        "claim": "Police considered all harassment behaviour as part of stalking case.",
+        "reality": "Ben explicitly highlighted online song posts as relevant, but prior email shows Dixon dismissing them as 'civil law'.",
+        "laws_breached": [
+          "Protection from Harassment Act 1997",
+          "Victims\u2019 Code 2020"
+        ],
+        "damages": [
+          "Emotional",
+          "Reputational"
+        ]
+      }
+    ],
+    "timeline_hooks": [
+      {
+        "phase": "Investigation \u2013 Evidence Minimisation",
+        "date": "2024-12-16",
+        "events": [
+          "Ben follows up to argue that suspect posting songs online should be relevant evidence while on bail.",
+          "Expresses distress at not being updated and the weight of accusations against him."
+        ],
+        "related_threads": [
+          "CRIME_REF_47240214305_THREAD",
+          "DEATH_BY_SILENCE"
+        ]
+      }
+    ],
+    "damages_summary": {
+      "emotional": "Demonstrates despair at being left uninformed and facing false accusations.",
+      "reputational": "Highlights ongoing damage caused by suspect\u2019s online harassment while victim left unsupported."
+    }
+  },
+  {
+    "meta": {
+      "filename": "2025-02-06_PC_Dixon_Email_12_CRN-47240214305_VEX.json",
+      "case_reference": "47240214305",
+      "thread_label": "CRIME_REF_47240214305_THREAD",
+      "actor_cluster": [
+        "Sussex Police",
+        "PC Jon Dixon (EA817)",
+        "Ben Carter"
+      ],
+      "date_range": {
+        "start": "2025-02-06T21:53:00",
+        "end": "2025-02-06T21:53:00"
+      },
+      "source_provenance": "Email from Ben Carter to PC Jon Dixon on 6 Feb 2025 at 21:53 (provided by user)",
+      "created_at_utc": "2025-08-24T18:10:19.960326Z",
+      "vex_schema_version": "1.1"
+    },
+    "emails": [
+      {
+        "id": "email-2025-02-06-2153-ben-dixon",
+        "date": "2025-02-06T21:53:00",
+        "from": {
+          "name": "Ben Carter",
+          "email": "benrobcarter@gmail.com"
+        },
+        "to": [
+          {
+            "name": "PC Jon Dixon",
+            "email": "Jon.Dixon@sussex.police.uk",
+            "badge": "EA817"
+          }
+        ],
+        "subject_summary": "Query re: bail breach update",
+        "body": "Have you received the update? Breaking bail? It's really done me in this one, and heard nothing.",
+        "attachments": [],
+        "labels": [
+          "Victim Concern",
+          "Bail Breach Report",
+          "No Response"
+        ]
+      }
+    ],
+    "vex": [
+      {
+        "email_id": "email-2025-02-06-2153-ben-dixon",
+        "sentence_tags": [
+          {
+            "text": "Have you received the update?",
+            "tags": [
+              "UPDATE_REQUEST",
+              "EVIDENCE_QUERY"
+            ],
+            "notes": "Ben asks if police received new information or report of breach."
+          },
+          {
+            "text": "Breaking bail?",
+            "tags": [
+              "BAIL_BREACH_QUERY",
+              "SAFEGUARDING_RISK"
+            ],
+            "notes": "Explicitly queries breach of bail conditions."
+          },
+          {
+            "text": "It's really done me in this one, and heard nothing.",
+            "tags": [
+              "VICTIM_DISTRESS",
+              "NO_RESPONSE",
+              "DEATH_BY_SILENCE"
+            ],
+            "notes": "Emotional impact of lack of police response; links to ongoing silence pattern."
+          }
+        ]
+      }
+    ],
+    "contradiction_links": [
+      {
+        "id": "SP-CONTRA-BAIL-BREACH-IGNORED-2025-02",
+        "claim": "Police responded adequately to potential breaches of bail conditions.",
+        "reality": "Victim raised suspected breach on 6 Feb 2025 but reported hearing nothing back.",
+        "laws_breached": [
+          "Victims\u2019 Code 2020 (Right to updates on case progress)",
+          "Care Act 2014 (s.42 safeguarding duty)"
+        ],
+        "damages": [
+          "Emotional",
+          "Medical"
+        ]
+      }
+    ],
+    "timeline_hooks": [
+      {
+        "phase": "Investigation \u2013 Bail Monitoring",
+        "date": "2025-02-06",
+        "events": [
+          "Ben emails Dixon asking if police received update on suspected bail breach.",
+          "Reports emotional harm from lack of response."
+        ],
+        "related_threads": [
+          "CRIME_REF_47240214305_THREAD",
+          "DEATH_BY_SILENCE"
+        ]
+      }
+    ],
+    "damages_summary": {
+      "emotional": "Victim left in distress by suspected bail breach and silence from police.",
+      "medical": "Stress contributes to deterioration of health and wellbeing."
+    }
+  },
+  {
+    "meta": {
+      "filename": "2025-02-11_PC_Dixon_Email_13_CRN-47240214305_VEX.json",
+      "case_reference": "47240214305",
+      "thread_label": "CRIME_REF_47240214305_THREAD",
+      "actor_cluster": [
+        "Sussex Police",
+        "PC Jon Dixon (EA817)",
+        "Ben Carter"
+      ],
+      "date_range": {
+        "start": "2025-02-11T12:32:00",
+        "end": "2025-02-11T12:32:00"
+      },
+      "source_provenance": "Email from Ben Carter to PC Jon Dixon on 11 Feb 2025 at 12:32 (provided by user)",
+      "created_at_utc": "2025-08-24T18:11:35.902568Z",
+      "vex_schema_version": "1.1"
+    },
+    "emails": [
+      {
+        "id": "email-2025-02-11-1232-ben-dixon",
+        "date": "2025-02-11T12:32:00",
+        "from": {
+          "name": "Ben Carter",
+          "email": "benrobcarter@gmail.com"
+        },
+        "to": [
+          {
+            "name": "PC Jon Dixon",
+            "email": "Jon.Dixon@sussex.police.uk",
+            "badge": "EA817"
+          }
+        ],
+        "subject_summary": "Follow-up request re: case timeline, fear for safety",
+        "body": "Just following up on this, what is going on? Is there a time line anything i\u2019m scared to leave the house.",
+        "attachments": [],
+        "labels": [
+          "Victim Concern",
+          "No Response",
+          "Fear for Safety"
+        ]
+      }
+    ],
+    "vex": [
+      {
+        "email_id": "email-2025-02-11-1232-ben-dixon",
+        "sentence_tags": [
+          {
+            "text": "Just following up on this, what is going on?",
+            "tags": [
+              "FOLLOW_UP",
+              "UPDATE_REQUEST"
+            ],
+            "notes": "Ben requests update after no reply to suspected bail breach."
+          },
+          {
+            "text": "Is there a time line anything i\u2019m scared to leave the house.",
+            "tags": [
+              "VICTIM_DISTRESS",
+              "FEAR_FOR_SAFETY",
+              "DEATH_BY_SILENCE"
+            ],
+            "notes": "Demonstrates impact of silence: fear of leaving home."
+          }
+        ]
+      }
+    ],
+    "contradiction_links": [
+      {
+        "id": "SP-CONTRA-NO-TIMELINE-INFO-2025-02",
+        "claim": "Police provided timely updates and reassurance regarding bail and investigation timeline.",
+        "reality": "Victim repeatedly asked for timeline and expressed fear for safety but received no update.",
+        "laws_breached": [
+          "Victims\u2019 Code 2020 (Right to updates on case progress)",
+          "Care Act 2014 (s.42 safeguarding duty)"
+        ],
+        "damages": [
+          "Emotional",
+          "Medical"
+        ]
+      }
+    ],
+    "timeline_hooks": [
+      {
+        "phase": "Investigation \u2013 Bail Monitoring",
+        "date": "2025-02-11",
+        "events": [
+          "Ben emails Dixon again asking for timeline and update.",
+          "Reports he is scared to leave his house due to ongoing risk and silence."
+        ],
+        "related_threads": [
+          "CRIME_REF_47240214305_THREAD",
+          "DEATH_BY_SILENCE"
+        ]
+      }
+    ],
+    "damages_summary": {
+      "emotional": "Fear and anxiety heightened by silence from police.",
+      "medical": "Stress contributes to deterioration of health and wellbeing."
+    }
+  },
+  {
+    "meta": {
+      "filename": "2025-02-12_PC_Dixon_Email_14_CRN-47240214305_VEX.json",
+      "case_reference": "47240214305",
+      "thread_label": "CRIME_REF_47240214305_THREAD",
+      "actor_cluster": [
+        "Sussex Police",
+        "PC Jon Dixon (EA817)",
+        "Ben Carter",
+        "PUCK (venue)",
+        "Tethis"
+      ],
+      "date_range": {
+        "start": "2025-02-12T11:30:00",
+        "end": "2025-02-12T11:30:00"
+      },
+      "source_provenance": "Email from Ben Carter to PC Jon Dixon on 12 Feb 2025 at 11:30 (provided by user)",
+      "created_at_utc": "2025-08-24T18:14:19.335961Z",
+      "vex_schema_version": "1.1"
+    },
+    "emails": [
+      {
+        "id": "email-2025-02-12-1130-ben-dixon",
+        "date": "2025-02-12T11:30:00",
+        "from": {
+          "name": "Ben Carter",
+          "email": "benrobcarter@gmail.com"
+        },
+        "to": [
+          {
+            "name": "PC Jon Dixon",
+            "email": "Jon.Dixon@sussex.police.uk",
+            "badge": "EA817"
+          }
+        ],
+        "subject_summary": "Request for official confirmation to reassure venue; reputational harm concerns",
+        "body": "Hey PC Dixon\nI need a way to demonstrate to one of my venues that I have police support and that I am the victim in this situation. I understand you cannot disclose much due to the ongoing investigation, and it\u2019s best I don\u2019t provide extensive evidence at this stage.\n\nGiven that Alanna is on bail and her statement was not followed up, I\u2019m struggling with the perception of 'no smoke without fire'. I would appreciate any form of official confirmation that acknowledges:\n\u2022 She is on bail.\n\u2022 I am recognised as the victim.\n\u2022 The police are supporting and protecting me.\n\nThe venue is PUCK (a coffee shop on her road). I need to reassure them of my position to protect my reputation and livelihood. If there is anything you can provide\u2014within legal/procedural limits\u2014that could help clarify the situation (without me having to provide my own evidence), I\u2019d be grateful.\n\nThis is the worst bit \u2014 fear of not being believed. Tethis has said that if needed she would comply with anything to help proceedings. My ex-partners would also act as character witnesses. I\u2019m slowly piecing my life back together, but the chaos and lies have been terrifying. If there\u2019s anything you can legally provide I can use, my business solely relies on my reputation.\n\nThanks,\nBen Carter",
+        "attachments": [],
+        "labels": [
+          "Victim Support Request",
+          "Reputation Protection",
+          "Venue Assurance",
+          "Character Witnesses"
+        ]
+      }
+    ],
+    "vex": [
+      {
+        "email_id": "email-2025-02-12-1130-ben-dixon",
+        "sentence_tags": [
+          {
+            "text": "I need a way to demonstrate to one of my venues that I have police support and that I am the victim in this situation.",
+            "tags": [
+              "VICTIM_STATUS_CONFIRMATION_REQUEST",
+              "REPUTATION_PROTECTION",
+              "THIRD_PARTY_ASSURANCE"
+            ],
+            "notes": "Seeks official wording to reassure venue without disclosing case details."
+          },
+          {
+            "text": "Given that Alanna is on bail and her statement was not followed up, I\u2019m struggling with the perception of 'no smoke without fire'.",
+            "tags": [
+              "BAIL_CONTEXT",
+              "FEAR_OF_STIGMA",
+              "INVESTIGATION_GAP"
+            ],
+            "notes": "Points to reputational harm due to lack of visible follow-up."
+          },
+          {
+            "text": "I would appreciate any form of official confirmation that acknowledges: She is on bail; I am recognised as the victim; The police are supporting and protecting me.",
+            "tags": [
+              "REQUEST_OFFICIAL_CONFIRMATION",
+              "SAFEGUARDING_ACK_REQUEST"
+            ]
+          },
+          {
+            "text": "The venue is PUCK (a coffee shop on her road). I need to reassure them of my position to protect my reputation and livelihood.",
+            "tags": [
+              "BUSINESS_IMPACT",
+              "VENUE_RELATIONSHIP",
+              "REPUTATIONAL_DAMAGE"
+            ]
+          },
+          {
+            "text": "Tethis has said that if needed she would comply with anything to help proceedings.",
+            "tags": [
+              "WITNESS_SUPPORT_OFFER",
+              "THIRD_PARTY_COOPERATION"
+            ]
+          },
+          {
+            "text": "My ex-partners would also act as character witnesses.",
+            "tags": [
+              "CHARACTER_WITNESSES",
+              "COMMUNITY_SUPPORT"
+            ]
+          }
+        ]
+      }
+    ],
+    "contradiction_links": [
+      {
+        "id": "SP-CONTRA-REPUTATION-PROTECTION-UNADDRESSED-2025-02",
+        "claim": "Police supported the victim to mitigate reputational harm during investigation.",
+        "reality": "Victim explicitly requested official confirmation to reassure a venue; earlier emails show delays and reluctance.",
+        "laws_breached": [
+          "Victims\u2019 Code 2020 (Right to be referred to services and receive information)",
+          "Common law duty of care (contextual)"
+        ],
+        "damages": [
+          "Reputational",
+          "Financial",
+          "Emotional"
+        ]
+      }
+    ],
+    "timeline_hooks": [
+      {
+        "phase": "Investigation \u2013 Reputation & Safeguarding",
+        "date": "2025-02-12",
+        "events": [
+          "Ben requests a police statement he can show to venue PUCK confirming bail status and that he is the recognised victim.",
+          "Offers witnesses (Tethis, ex-partners) and explains business reliance on reputation."
+        ],
+        "related_threads": [
+          "CRIME_REF_47240214305_THREAD",
+          "REPUTATION_REPAIR"
+        ]
+      }
+    ],
+    "damages_summary": {
+      "reputational": "Venue relations jeopardised by lack of official confirmation.",
+      "financial": "Business risk due to venue uncertainty.",
+      "emotional": "Fear of not being believed; ongoing anxiety."
+    }
+  },
+  {
+    "meta": {
+      "filename": "2025-02-12_PC_Dixon_Email_15_CRN-47240214305_VEX.json",
+      "case_reference": "47240214305",
+      "thread_label": "CRIME_REF_47240214305_THREAD",
+      "actor_cluster": [
+        "Sussex Police",
+        "PC Jon Dixon (EA817)",
+        "Ben Carter",
+        "Norfolk Constabulary",
+        "Arran Shave"
+      ],
+      "date_range": {
+        "start": "2025-02-12T14:09:00",
+        "end": "2025-02-12T14:09:00"
+      },
+      "source_provenance": "Email from PC Jon Dixon to Ben Carter on 12 Feb 2025 at 14:09 (provided by user)",
+      "created_at_utc": "2025-08-24T18:29:10.324104Z",
+      "vex_schema_version": "1.1"
+    },
+    "emails": [
+      {
+        "id": "email-2025-02-12-1409-dixon-ben",
+        "date": "2025-02-12T14:09:00",
+        "from": {
+          "name": "PC Jon Dixon",
+          "email": "Jon.Dixon@sussex.police.uk",
+          "badge": "EA817"
+        },
+        "to": [
+          {
+            "name": "Ben Carter",
+            "email": "benrobcarter@gmail.com"
+          }
+        ],
+        "subject_summary": "Bail confirmation and forwarded Paul Double case email",
+        "body": "Hi Ben\n\nIt\u2019s understandable to have concerns and worries, if you need additional support let me know and I can make referrals.\n\nAs per our conversation yesterday I can confirm that Alanna is still on bail. This was what is called Initial Bail to start with but as of 2nd February 2025 this bail period has been extended till 4th May 2025. The conditions to not contact you or attend your address remain the same, if she sees you in the street or at a venue for example she must make all reasonable effort to leave as soon as she becomes aware. The bail conditions apply to you as you are the victim and will remain as such while the investigation is ongoing.\n\nI hope that this answers your query.\n\n--- Forwarded message from Arran Shave, Norfolk Constabulary re: Paul DOUBLE breaches attached ---",
+        "attachments": [
+          "2025-02-12_PaulDouble_Interview-Plan.docx",
+          "2025-02-12_SOR-Requirements.pdf",
+          "2025-02-12_PaulDouble_Email.eml"
+        ],
+        "labels": [
+          "Bail Confirmation",
+          "Forwarded Case Material",
+          "Safeguarding Communication"
+        ]
+      }
+    ],
+    "vex": [
+      {
+        "email_id": "email-2025-02-12-1409-dixon-ben",
+        "sentence_tags": [
+          {
+            "text": "As of 2nd February 2025 this bail period has been extended till 4th May 2025.",
+            "tags": [
+              "BAIL_EXTENSION_CONFIRMED",
+              "DATE_SPECIFIC"
+            ]
+          },
+          {
+            "text": "The conditions to not contact you or attend your address remain the same.",
+            "tags": [
+              "NO_CONTACT_CONDITIONS"
+            ]
+          },
+          {
+            "text": "The bail conditions apply to you as you are the victim and will remain as such while the investigation is ongoing.",
+            "tags": [
+              "VICTIM_STATUS_CONFIRMED",
+              "SAFEGUARDING_WORDING_AMBIGUOUS"
+            ],
+            "notes": "Ambiguous wording prompted Ben's follow-up asking for clarity."
+          }
+        ]
+      }
+    ],
+    "contradiction_links": [
+      {
+        "id": "SP-CONTRA-UNCLEAR-WORDING-2025-02",
+        "claim": "Police communications were clear about bail conditions.",
+        "reality": "This message implied conditions applied to Ben, causing him to request clarification.",
+        "laws_breached": [
+          "Victims\u2019 Code 2020 (Right to clear information)"
+        ],
+        "damages": [
+          "Reputational",
+          "Emotional"
+        ]
+      }
+    ],
+    "timeline_hooks": [
+      {
+        "phase": "Investigation \u2013 Bail Monitoring",
+        "date": "2025-02-12",
+        "events": [
+          "Dixon confirms Alanna\u2019s bail extended to 4 May 2025.",
+          "Forwarded Norfolk Constabulary case email re Paul DOUBLE with attachments."
+        ],
+        "related_threads": [
+          "CRIME_REF_47240214305_THREAD",
+          "SAFEGUARDING_EROSION"
+        ]
+      }
+    ],
+    "damages_summary": {
+      "reputational": "Ambiguity risked confusion when victim shared with venues.",
+      "emotional": "Victim left uncertain due to wording suggesting bail conditions applied to him."
+    }
+  },
+  {
+    "meta": {
+      "filename": "2025-02-12_PC_Dixon_Email_16_CRN-47240214305_VEX.json",
+      "case_reference": "47240214305",
+      "thread_label": "CRIME_REF_47240214305_THREAD",
+      "actor_cluster": [
+        "Sussex Police",
+        "PC Jon Dixon (EA817)",
+        "Ben Carter"
+      ],
+      "date_range": {
+        "start": "2025-02-12T14:17:00",
+        "end": "2025-02-12T14:17:00"
+      },
+      "source_provenance": "Email from PC Jon Dixon to Ben Carter on 12 Feb 2025 at 14:17 (provided by user summary)",
+      "created_at_utc": "2025-08-24T18:18:43.385216Z",
+      "vex_schema_version": "1.1"
+    },
+    "emails": [
+      {
+        "id": "email-2025-02-12-1417-dixon-ben",
+        "date": "2025-02-12T14:17:00",
+        "from": {
+          "name": "PC Jon Dixon",
+          "email": "Jon.Dixon@sussex.police.uk",
+          "badge": "EA817"
+        },
+        "to": [
+          {
+            "name": "Ben Carter",
+            "email": "benrobcarter@gmail.com"
+          }
+        ],
+        "subject_summary": "Resent bail confirmation with clarified wording (protecting victim)",
+        "body": "Hi Ben\nIt\u2019s understandable to have concerns and worries, if you need additional support let me know and I can make referrals.\n\nAs per our conversation yesterday I can confirm that Alanna is still on bail. This was what is called Initial Bail to start with but as of 2nd February 2025 this bail period has been extended till 4th May 2025. The conditions to not contact you or attend your address remain the same; if she sees you in the street or at a venue for example, she must make all reasonable effort to leave as soon as she becomes aware. The bail conditions apply to protect you as you are the victim and will remain as such while the investigation is ongoing.\n",
+        "attachments": [],
+        "labels": [
+          "Police Communication",
+          "Bail Confirmation",
+          "Clarified Wording"
+        ]
+      }
+    ],
+    "vex": [
+      {
+        "email_id": "email-2025-02-12-1417-dixon-ben",
+        "sentence_tags": [
+          {
+            "text": "As of 2nd February 2025 this bail period has been extended till 4th May 2025.",
+            "tags": [
+              "BAIL_EXTENSION_DATE_CONFIRMED"
+            ]
+          },
+          {
+            "text": "The conditions to not contact you or attend your address remain the same; if she sees you in the street or at a venue for example, she must make all reasonable effort to leave as soon as she becomes aware.",
+            "tags": [
+              "NO_CONTACT_CONDITIONS",
+              "PUBLIC_SPACE_EXIT_REQUIREMENT"
+            ]
+          },
+          {
+            "text": "The bail conditions apply to protect you as you are the victim and will remain as such while the investigation is ongoing.",
+            "tags": [
+              "VICTIM_STATUS_CONFIRMED",
+              "SAFEGUARDING_WORDING_CLARIFIED"
+            ],
+            "notes": "This clarifies the earlier ambiguity that prompted Ben's request to resend."
+          }
+        ]
+      }
+    ],
+    "contradiction_links": [
+      {
+        "id": "SP-CONTRA-COMMS-CLARIFIED-2025-02",
+        "claim": "Initial police communications were clear and unambiguous.",
+        "reality": "Clarification was required and provided at 14:17 to correct wording about who the conditions apply to (protecting the victim).",
+        "laws_breached": [
+          "Victims\u2019 Code 2020 (Right to clear information)"
+        ],
+        "damages": [
+          "Reputational",
+          "Emotional"
+        ]
+      }
+    ],
+    "timeline_hooks": [
+      {
+        "phase": "Investigation \u2013 Bail Monitoring",
+        "date": "2025-02-12",
+        "events": [
+          "Dixon resends bail confirmation with explicit clarification that conditions protect the victim."
+        ],
+        "related_threads": [
+          "CRIME_REF_47240214305_THREAD",
+          "REPUTATION_REPAIR"
+        ]
+      }
+    ],
+    "damages_summary": {
+      "reputational": "Clear statement suitable for forwarding to third parties to mitigate harm.",
+      "emotional": "Clarity reduces uncertainty for the victim."
+    }
+  },
+  {
+    "meta": {
+      "filename": "2025-02-12_PC_Dixon_Email_17_CRN-47240214305_VEX.json",
+      "human_exhibit_name": "CRN-47240214305_PC-Dixon_to_Ben_12-Feb-2025_Email-17.pdf",
+      "case_reference": "47240214305",
+      "thread_label": "CRIME_REF_47240214305_THREAD",
+      "actor_cluster": [
+        "Sussex Police",
+        "PC Jon Dixon (EA817)",
+        "Ben Carter"
+      ],
+      "date_range": {
+        "start": "2025-02-12T14:17:00",
+        "end": "2025-02-12T14:17:00"
+      },
+      "source_provenance": "Email from PC Jon Dixon to Ben Carter on 12 Feb 2025 at 14:17",
+      "created_at_utc": "2025-08-24T18:36:57.049957Z",
+      "vex_schema_version": "1.1"
+    },
+    "emails": [
+      {
+        "id": "email-2025-02-12-1417-dixon-ben",
+        "date": "2025-02-12T14:17:00",
+        "from": {
+          "name": "PC Jon Dixon",
+          "email": "Jon.Dixon@sussex.police.uk",
+          "badge": "EA817"
+        },
+        "to": [
+          {
+            "name": "Ben Carter",
+            "email": "benrobcarter@gmail.com"
+          }
+        ],
+        "subject_summary": "Clarified bail confirmation (protecting victim)",
+        "body": "Hi Ben\n\nIt\u2019s understandable to have concerns and worries, if you need additional support let me know and I can make referrals.\n\nAs per our conversation yesterday I can confirm that Alanna is still on bail. This was what is called Initial Bail to start with but as of 2nd February 2025 this bail period has been extended till 4th May 2025. The conditions to not contact you or attend your address remain the same, if she sees you in the street or at a venue for example, she must make all reasonable effort to leave as soon as she becomes aware. The bail conditions apply to protect you as you are the victim and will remain as such while the investigation is ongoing.",
+        "attachments": [],
+        "labels": [
+          "Police Communication",
+          "Bail Confirmation",
+          "Clarified Wording"
+        ]
+      }
+    ],
+    "vex": [
+      {
+        "email_id": "email-2025-02-12-1417-dixon-ben",
+        "sentence_tags": [
+          {
+            "text": "As of 2nd February 2025 this bail period has been extended till 4th May 2025.",
+            "tags": [
+              "BAIL_EXTENSION_CONFIRMED"
+            ]
+          },
+          {
+            "text": "The conditions to not contact you or attend your address remain the same...",
+            "tags": [
+              "NO_CONTACT_CONDITIONS",
+              "PUBLIC_SPACE_EXIT_REQUIREMENT"
+            ]
+          },
+          {
+            "text": "The bail conditions apply to protect you as you are the victim and will remain as such while the investigation is ongoing.",
+            "tags": [
+              "VICTIM_STATUS_CONFIRMED",
+              "SAFEGUARDING_WORDING_CLARIFIED"
+            ],
+            "notes": "This clarifies the earlier ambiguity that prompted Ben's request."
+          }
+        ]
+      }
+    ],
+    "contradiction_links": [
+      {
+        "id": "SP-CONTRA-COMMS-CLARIFIED-2025-02",
+        "claim": "Police communications were always clear about bail conditions.",
+        "reality": "This clarification was necessary to correct ambiguity in an earlier message.",
+        "laws_breached": [
+          "Victims\u2019 Code 2020 (Right to clear information)"
+        ],
+        "damages": [
+          "Reputational",
+          "Emotional"
+        ]
+      }
+    ],
+    "timeline_hooks": [
+      {
+        "phase": "Investigation \u2013 Bail Monitoring",
+        "date": "2025-02-12",
+        "events": [
+          "Dixon resends bail confirmation with explicit clarification that conditions protect the victim."
+        ],
+        "related_threads": [
+          "CRIME_REF_47240214305_THREAD",
+          "REPUTATION_REPAIR"
+        ]
+      }
+    ],
+    "damages_summary": {
+      "reputational": "Provides a clear exhibit for forwarding to third parties.",
+      "emotional": "Clarity reduces uncertainty and emotional strain."
+    }
+  },
+  {
+    "meta": {
+      "filename": "2025-03-13_Ben_Email_18_CRN-47240214305_VEX.json",
+      "case_reference": "47240214305",
+      "thread_label": "CRIME_REF_47240214305_THREAD",
+      "actor_cluster": [
+        "Sussex Police",
+        "PC Jon Dixon (EA817)",
+        "Ben Carter"
+      ],
+      "date_range": {
+        "start": "2025-03-13T05:14:00",
+        "end": "2025-03-13T05:14:00"
+      },
+      "source_provenance": "Email from Ben Carter to PC Jon Dixon on 13 Mar 2025 at 05:14 (provided by user)",
+      "created_at_utc": "2025-08-24T18:23:38.701016Z",
+      "vex_schema_version": "1.1"
+    },
+    "emails": [
+      {
+        "id": "email-2025-03-13-0514-ben-dixon",
+        "date": "2025-03-13T05:14:00",
+        "from": {
+          "name": "Ben Carter",
+          "email": "benrobcarter@gmail.com"
+        },
+        "to": [
+          {
+            "name": "PC Jon Dixon",
+            "email": "Jon.Dixon@sussex.police.uk",
+            "badge": "EA817"
+          }
+        ],
+        "subject_summary": "Chasing NICE links and statement; seeking medical support clarification",
+        "body": "Hello mate I haven't heard back re NICE links or for the statement, I also really need to speak to the doctor, I'm finding it hard to get on with day to day tasks. I am happy to pay the doctor for a letter, as I am paying I expect I will be able to have a longer talk about my current situation and how I'm coping, which I'm not really.\n\nMy family has me under private health care, I called them in October as I was at my worst and had to go to my parents for 2 months, basically to stay alive. Would it be better just to arrange an appointment with them, would they be able to see my records and write me something up, or is it better to go through the NHS?\n\nI want to co-operate, and at the moment my timeline has to be very structured as I have a lot of pressure to make out I'm ok, and fake confidence as I have 120 acts booked across 6 venues for May 2nd until June 1st for the Brighton Fringe, that's 50 shows I am promoting. It's the run up now so if you could please give me dates of when the statement will be taken, the NICE links. Also please tell me what it is exactly I am asking for from the doctor as my doctor is rubbish, I'd prefer to go private but I find just getting an appointment impossible even when I was able to live, without someone doing everything they can to make sure I don't.",
+        "attachments": [],
+        "labels": [
+          "Victim Support Request",
+          "Medical Support",
+          "Statement Request",
+          "Evidence Submission"
+        ]
+      }
+    ],
+    "vex": [
+      {
+        "email_id": "email-2025-03-13-0514-ben-dixon",
+        "sentence_tags": [
+          {
+            "text": "I haven't heard back re NICE links or for the statement.",
+            "tags": [
+              "FOLLOW_UP",
+              "NO_RESPONSE",
+              "DEATH_BY_SILENCE"
+            ],
+            "notes": "Shows continued lack of response on critical uploads and statement-taking."
+          },
+          {
+            "text": "I also really need to speak to the doctor, I'm finding it hard to get on with day to day tasks.",
+            "tags": [
+              "VICTIM_DISTRESS",
+              "MEDICAL_SUPPORT_REQUEST"
+            ]
+          },
+          {
+            "text": "My family has me under private health care\u2026 had to go to my parents for 2 months, basically to stay alive.",
+            "tags": [
+              "SUICIDE_RISK_HISTORY",
+              "PRIVATE_HEALTHCARE_CONTEXT"
+            ],
+            "notes": "Highlights previous near-lethal crisis and need for structured support."
+          },
+          {
+            "text": "I have 120 acts booked across 6 venues for May 2nd until June 1st for the Brighton Fringe.",
+            "tags": [
+              "BUSINESS_PRESSURE",
+              "FRINGE_CONTEXT",
+              "REPUTATIONAL_STAKES"
+            ]
+          },
+          {
+            "text": "Please tell me what it is exactly I am asking for from the doctor.",
+            "tags": [
+              "CLARITY_REQUEST",
+              "MEDICAL_EVIDENCE_INSTRUCTION"
+            ],
+            "notes": "Victim requests clarity on what medical evidence police require."
+          }
+        ]
+      }
+    ],
+    "contradiction_links": [
+      {
+        "id": "SP-CONTRA-NO-RESPONSE-NICE-STATEMENT-2025-03",
+        "claim": "Police engaged with the victim\u2019s upload requests and facilitated statement-taking.",
+        "reality": "Despite repeated requests, victim still had no NICE link or statement scheduled by March 2025.",
+        "laws_breached": [
+          "Victims\u2019 Code 2020 (Right to updates and statement)",
+          "Care Act 2014 (s.42 safeguarding duty)"
+        ],
+        "damages": [
+          "Emotional",
+          "Medical",
+          "Financial"
+        ]
+      }
+    ],
+    "timeline_hooks": [
+      {
+        "phase": "Investigation \u2013 Ongoing Silence",
+        "date": "2025-03-13",
+        "events": [
+          "Ben chases again for NICE links and statement date.",
+          "Reports health deterioration and reliance on private healthcare to stay alive.",
+          "Requests clarity on what medical evidence police require from doctor."
+        ],
+        "related_threads": [
+          "CRIME_REF_47240214305_THREAD",
+          "DEATH_BY_SILENCE"
+        ]
+      }
+    ],
+    "damages_summary": {
+      "emotional": "Shows deep frustration, ongoing silence, and mental health impact.",
+      "medical": "Evidence of prior suicide risk and ongoing need for medical intervention.",
+      "financial": "Pressure of Brighton Fringe workload and costs compounded by lack of police clarity."
+    }
+  }
+]

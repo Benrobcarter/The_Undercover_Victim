@@ -1,0 +1,111 @@
+{
+  "contradictions": [
+    {
+      "id": "BF-CONTRA-TICKETING-POLICY-2025-04-22",
+      "claim": "Brighton Fringe clearly communicates ticketing procedures and responsibilities to venue managers.",
+      "reality": "Ben Carter was not informed of ticketing policy changes or fee responsibilities. Fringe staff admitted confusion and inconsistent enforcement.",
+      "source_files": [
+        "EVID_2025-04-22_BrightonFringe_BoxOffice_TicketingConfusion_Response.json",
+        "EVID_2025-04-21_to_04-24_BrightonFringe_BoxOffice_TicketingDispute_Thread.json"
+      ],
+      "laws_breached": [
+        "Consumer Rights Act 2015",
+        "Care Act 2014 (Duty of Support)",
+        "Companies Act 2006 (duty to stakeholders)"
+      ],
+      "damages": [
+        "Reputational",
+        "Financial",
+        "Emotional"
+      ],
+      "actor_cluster": "Brighton Fringe"
+    },
+    {
+      "id": "BF-CONTRA-SHOW-REMOVAL-NOTICE-2025-05-01",
+      "claim": "Fringe respects artist and venue control over event visibility and communications.",
+      "reality": "Brighton Fringe removed events from the site without contactable attendee records due to unticketed status, undermining venues\u2019 communication plans.",
+      "source_files": [
+        "EVID_2025-05-01_BrightonFringe_BoxOffice_ShowCancellation_UnTicketed.json"
+      ],
+      "laws_breached": [
+        "Consumer Protection from Unfair Trading Regulations 2008"
+      ],
+      "damages": [
+        "Reputational",
+        "Emotional"
+      ],
+      "actor_cluster": "Brighton Fringe"
+    },
+    {
+      "id": "BF-CONTRA-UNPRINTED-BROCHURE-2025-04",
+      "claim": "Brighton Fringe enabled venues and producers to promote their shows with clarity and confidence.",
+      "reality": "Due to ongoing safeguarding concerns and instability, Ben Carter was unable to print a fully designed 90-page Half a Camel brochure, losing weeks of labour.",
+      "source_files": [
+        "EVID_2025-04_Unprinted_HalfACamel_Brochure_Draft.json"
+      ],
+      "laws_breached": [
+        "Care Act 2014",
+        "Equality Act 2010 (stress/discrimination)",
+        "GDPR Article 5(1)(a) \u2013 fairness and transparency"
+      ],
+      "damages": [
+        "Reputational",
+        "Emotional",
+        "Financial"
+      ],
+      "actor_cluster": "Brighton Fringe"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2025-04-22",
+      "event": "Brighton Fringe Box Office expresses confusion about ticketing procedures and customer contact.",
+      "linked_evidence": [
+        "EVID_2025-04-22_BrightonFringe_BoxOffice_TicketingConfusion_Response.json"
+      ],
+      "tags": [
+        "TICKETING_CLARIFICATION",
+        "FRONTLINE_CONFUSION_DOCUMENTED"
+      ],
+      "cluster": "Brighton Fringe"
+    },
+    {
+      "date_range": [
+        "2025-04-21",
+        "2025-04-24"
+      ],
+      "event": "Ticketing dispute emerges as Ben is informed of artist fee obligations not included in his agreement.",
+      "linked_evidence": [
+        "EVID_2025-04-21_to_04-24_BrightonFringe_BoxOffice_TicketingDispute_Thread.json"
+      ],
+      "tags": [
+        "TICKETING_RESPONSIBILITY_MISCOMMUNICATION",
+        "LAST_MINUTE_POLICY_ENFORCEMENT"
+      ],
+      "cluster": "Brighton Fringe"
+    },
+    {
+      "date": "2025-05-01",
+      "event": "Brighton Fringe confirms removal of an unticketed show from the website; no way to notify attendees.",
+      "linked_evidence": [
+        "EVID_2025-05-01_BrightonFringe_BoxOffice_ShowCancellation_UnTicketed.json"
+      ],
+      "tags": [
+        "SHOW_CANCELLATION_CONFIRMED",
+        "NO_ATTENDEE_CONTACT"
+      ],
+      "cluster": "Brighton Fringe"
+    },
+    {
+      "date": "2025-04-01",
+      "event": "Ben Carter completes unprinted Half a Camel brochure; unable to release it due to safeguarding instability.",
+      "linked_evidence": [
+        "EVID_2025-04_Unprinted_HalfACamel_Brochure_Draft.json"
+      ],
+      "tags": [
+        "BROCHURE_UNPRINTED_DUE_TO_UNCERTAINTY"
+      ],
+      "cluster": "Brighton Fringe"
+    }
+  ]
+}

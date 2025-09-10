@@ -1,0 +1,52 @@
+{
+  "filename": "EVID_2025-04-02_to_04-04_BF_RecentDisclosure_FringeAware_SupportPromise.json",
+  "date_range": [
+    "2025-04-02",
+    "2025-04-04"
+  ],
+  "from": "Amy Keogh <amy.keogh@brightonfringe.org>",
+  "to": "Ben Carter <benrobcarter@gmail.com>, CC: Laura Aiton, Duncan Lustig-Prean",
+  "evidence_type": "Email",
+  "entities": [
+    "Brighton Fringe",
+    "Amy Keogh",
+    "Laura Aiton",
+    "Duncan Lustig-Prean",
+    "Ben Carter",
+    "Sussex Police",
+    "Veritas"
+  ],
+  "vex_tags": [
+    "DISCLOSURE_OF_SUICIDE",
+    "INSTITUTIONAL_AWARENESS",
+    "PROMISE_TO_SUPPORT",
+    "CONFIRMED_SUSSEX_POLICE_EVIDENCE_SEEN",
+    "NO_ALLEGATION_RECORDED",
+    "SAFEGUARDING_ESCALATION",
+    "DUNCAN_AWARE_EARLY",
+    "SCHEDULED_MEETING_WITH_CHAIR",
+    "FRINGE_ACKNOWLEDGEMENT_OF_DANGER",
+    "EMOTIONAL_ISOLATION",
+    "MENTAL_STATE_DECLINE"
+  ],
+  "summary": "This thread documents Ben Carter's safeguarding disclosure to Brighton Fringe, specifically referencing stalking by Alanna, a suicide attempt, emotional isolation, and the necessity for Fringe involvement. Amy Keogh confirms receipt of a Sussex Police message from Jon Dixon, acknowledges the seriousness, and confirms Brighton Fringe has no record of any allegations made against Ben. She offers institutional support, suggests a temporary out-of-office for Ben, and proposes a meeting with Duncan and Laura on April 8. Ben confirms meeting Veritas and expresses distress and isolation. Duncan is looped in and confirms availability.",
+  "quotes": [
+    "The screenshot of the message from Jon Dixon at Sussex Police clearly indicates the seriousness of the situation.",
+    "For transparency, we have no record of allegations from the individual mentioned in your email.",
+    "I want to reiterate that we are here to help and support you through this difficult situation.",
+    "I'm meeting with Veritas tomorrow to work out a plan for the fringe, mentally and logistically.",
+    "She lives 2 mins from me and PUCK... it's isolated me completely.",
+    "Can we arrange a time Duncan can be there too?"
+  ],
+  "linked_contradictions": [
+    "DUNCAN_ASSISTED_ERASURE",
+    "NO_SAFEGUARDING_PROTOCOL_EXISTS",
+    "INSTITUTIONAL_MEMORY_WIPED",
+    "FRINGE_KNEW_ALL_ALONG"
+  ],
+  "linked_timeline_paths": [
+    "/UNIVERSAL_TIMELINE_STRUCTURE/SAFEGUARDING_DISCLOSURES.json",
+    "/UNIVERSAL_TIMELINE_STRUCTURE/BRIGHTON_FRINGE_SUPPORT_TURNED_ERASURE.json",
+    "/UNIVERSAL_TIMELINE_STRUCTURE/PRE_FRINGE_RISK_ESCALATIONS.json"
+  ]
+}

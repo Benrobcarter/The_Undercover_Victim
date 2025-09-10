@@ -1,0 +1,62 @@
+[
+  {
+    "filename": "BOOK_MASTER_MERGED_POC_2025-08-27_v5.2.json",
+    "description": "Primary book manuscript with timeline + contradiction links."
+  },
+  {
+    "filename": "BOOK_MASTER_MERGED_POC_2025-08-27_v5.2_PATCHED_WITH_INVISIBLE_PROBE_v2.json",
+    "description": "Patched version with Chapter 3.33 included."
+  },
+  {
+    "filename": "The Undercover Victim.txt",
+    "description": "Book shell used for table of contents and quote overlays."
+  },
+  {
+    "filename": "book_chapter_sec3_33.txt",
+    "description": "Raw text of Chapter 3.33 \u2013 The Invisible Probe."
+  },
+  {
+    "filename": "book_section_3_34.txt",
+    "description": "Text of Chapter 3.34 \u2013 The July Call."
+  },
+  {
+    "filename": "Section 3.30_ The July Call (2024)_ The Suppressed Foundation of the Case.docx.txt",
+    "description": "Narrative analysis of the July Call and suppression by Sussex Police."
+  },
+  {
+    "filename": "21_06_24_THE_JULY_CALL_1-5_otter_ai.txt",
+    "description": "Transcript of the original July Call audio recording."
+  },
+  {
+    "filename": "3.59_ The _Police Please_ Email_ A Case Study in Forced Compliance and Systemic Absurdity.txt",
+    "description": "Narrative analysis of police communications and the broken system."
+  },
+  {
+    "filename": "Index_ 06d. Proof of Good Faith and Financial Investment.docx",
+    "description": "Evidence narrative supporting Brighton Fringe betrayal."
+  },
+  {
+    "filename": "UPDATED_BOOK_SECTION_3X_PALMER_INSERT_v2.json",
+    "description": "Modular insert focused on oversight failure by Inspector Palmer."
+  },
+  {
+    "filename": "BOOK_SECTION_3X_VERITAS_INSERT_PALMER.json",
+    "description": "Narrative insert focused on Veritas disclosures and Palmer's chain of failure."
+  },
+  {
+    "filename": "04_book_inserts_README.md",
+    "description": "README defining injectable book insert formats and system compatibility."
+  },
+  {
+    "filename": "quote_cards.json",
+    "description": "Visual quotes tied to book chapters and Divi overlays."
+  },
+  {
+    "filename": "CROSSWALK_BOOK_SHARD_TIMELINE_2025-08-31.json",
+    "description": "Mapping file that links book sections to VEX, contradictions, timeline entries."
+  },
+  {
+    "filename": "CONTRA_QUOTE_LINKS_PATCH.json",
+    "description": "Patch linking quotes to contradiction clusters for frontend linking."
+  }
+]

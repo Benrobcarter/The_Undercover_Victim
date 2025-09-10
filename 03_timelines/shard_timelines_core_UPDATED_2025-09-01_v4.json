@@ -1,0 +1,48 @@
+{
+  "version": "2025-09-01",
+  "timeline_entries": [
+    {
+      "date": "2025-05-07",
+      "summary": "Amy Keogh admits Fringe relied on Alice Wright to interpret and filter Ben\u2019s safeguarding disclosures.",
+      "tags": [
+        "TRUST_EXPLOITATION",
+        "SAFEGUARDING_DEFLECTION",
+        "GDPR_SPECIAL_CATEGORY_DATA_BREACH",
+        "DUNCAN_ASSISTED_ERASURE",
+        "NARRATIVE_CONTROL",
+        "CROWBARRING_MYSELF_JUSTICE"
+      ],
+      "linked_documents": [
+        "BF-CONTRA-ALICE-BACKCHANNEL-DISCLOSURE-2025.json"
+      ]
+    },
+    {
+      "date": "2025-06-24",
+      "summary": "SAR filed requesting board meeting disclosure; Fringe failed to provide specific personal data.",
+      "tags": [
+        "DPA_GDPR",
+        "SAR_STRUCTURAL_ABSENCE",
+        "RECORDS_AUDIT",
+        "INSTITUTIONAL_GASLIGHTING",
+        "DEATH_BY_SILENCE"
+      ],
+      "linked_documents": [
+        "SAR_BF_2025-06-24_BoardMeeting_PreDecision.json"
+      ]
+    },
+    {
+      "date": "2025-07-20",
+      "summary": "SAR filed requesting board minutes and safeguarding disclosure; Fringe refused and issued retaliatory reply.",
+      "tags": [
+        "DPA_GDPR",
+        "SAR_STRUCTURAL_ABSENCE",
+        "GOVERNANCE_FAILURE",
+        "RECORDS_AUDIT",
+        "DEATH_BY_SILENCE"
+      ],
+      "linked_documents": [
+        "SAR_BF_2025-07-20_Board_Minutes.json"
+      ]
+    }
+  ]
+}

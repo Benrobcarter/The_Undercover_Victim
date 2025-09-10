@@ -1,0 +1,41 @@
+from pathlib import Path
+import json, datetime, hashlib, sys
+
+# --- find your project root (supports both names + current dir) ---
+candidates = [
+    Path.home() / "Documents" / "The_Undercover_Victim",
+    Path.home() / "Documents" / "the_undercover_victim",
+    Path.cwd(),
+]
+ROOT = None
+for cand in candidates:
+    if (cand / "07_meta").exists():
+        ROOT = cand
+        break
+if ROOT is None:
+    sys.exit("❌ Could not find project root (no 07_meta in candidates). Open Terminal inside the project and run again.")
+
+STATUS = ROOT / "07_meta" / "STATUS_REPORT_2025-09-01_v2.json"
+
+# --- one log entry; we de-dupe by a stable key ---
+update = {
+    "timestamp": datetime.datetime.now(datetime.timezone.utc).isoformat(),
+    "type": "venue_contract_breaches_injection",
+    "summary": "Injected Box Office data-breach + May 4 safeguarding emails into shards; wired to Venue Manager Agreement cluster with clause anchors.",
+    "files_added": [
+        "01_evidence/vex/EMAIL_2025-04-22_BoxOffice_Requesting_Private_Booker_Details.json",
+        "01_evidence/vex/EMAIL_2025-05-04_Crime_Reference_And_Safeguarding_Ignored.json",
+        "03_timelines/TIMELINE_2025-04-22_BoxOffice_Data_Request.json",
+        "02_contradictions/BF_CONTRA_VENUE_BOXOFFICE_DATA_BREACH.json",
+        "02_contradictions/BF_CONTRA_VENUE_CRIME_REF_SILENCE_BREACH.json",
+        "02_contradictions/BF_CONTRA_VENUE_VOICEMAIL_DEFLECTION_BREACH.json",
+        "02_contradictions/BF_CONTRA_VENUE_BOXOFFICE_MISREPRESENTATION_BREACH.json",
+        "02_contradictions/BF_CONTRA_VENUE_COMMUNICATION_NARRATIVE_DISCLOSURE_BREACH.json",
+        "02_contradictions/source_bundles/VENUE_CONTRACT_BREACH_BUNDLE_2025-05-04.zip"
+    ],
+    "clusters_touched": ["BF-CONTRA-VENUE-MANAGER-CONTRACT-BREACHES-2025"],
+    "clause_anchors": "07_meta/VENUE_MANAGER_CONTRACT_CLAUSE_ANCHORS_2025.json",
+    "shards_touched": [
+        "01_evidence/vex/shard_evidence_vex_merged_v3.json",
+        "02_contradictions/shard_contradictions_core_merged_v3.json",
+        "03

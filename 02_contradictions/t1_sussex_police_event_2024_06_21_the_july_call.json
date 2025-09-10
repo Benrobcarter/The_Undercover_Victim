@@ -1,0 +1,18 @@
+[
+  {
+    "id": "event_2024_06_21_the_july_call",
+    "title": "The July Call \u2013 Submission of the Ignored HMRC Threat",
+    "date": "2024-06-21",
+    "description": "On 21 June 2024, Ben Carter made a call reporting escalating abuse, including threats already carried out by Alanna O\u2019Hare \u2014 such as contacting HMRC and making defamatory claims to his injury lawyer. This call, later referred to as 'The July Call', detailed ongoing coercion, reputational harm, and psychological targeting. Despite the precision of the report and its forensic detail, Sussex Police never investigated it. When the call was re-referenced in July, then November, police claimed it had been lost or not logged. This entry anchors the moment when safeguarding could have begun but was willfully bypassed.",
+    "linked_evidence": [
+      "VEX_2024-06-21_July_Call_LeadIn_HMRCThreat.json"
+    ],
+    "linked_contradictions": [
+      "C_THE_JULY_CALL"
+    ],
+    "linked_book_section": "sec3_34",
+    "category": "Safeguarding Failure \u2192 Ignored Disclosures \u2192 Threats Already Carried Out",
+    "slug": "the-july-call-lost-hmrc-threat",
+    "public_summary": "Ben Carter warned Sussex Police that Alanna had already begun executing threats \u2014 including contacting HMRC. They ignored the call. Months later, police would claim they couldn\u2019t locate it \u2014 but the damage had already begun."
+  }
+]

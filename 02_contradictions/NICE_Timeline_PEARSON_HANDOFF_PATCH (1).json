@@ -1,0 +1,439 @@
+[
+  {
+    "email_id": "email-2024-11-04-0536-digitalpolicing-ben",
+    "datetime": "2024-11-04T05:36:00",
+    "from": {
+      "name": "Joseph Pearson",
+      "email": "noreply-public@digital-policing.co.uk"
+    },
+    "to": {
+      "name": "Ben Carter",
+      "email": "benrobcarter@gmail.com"
+    },
+    "subject_summary": "Joseph Pearson requires your assistance in a police investigation",
+    "categories": "Police Communication; Evidence Intake; NICE Link (issued)",
+    "pdf_exhibit": "CRN-47240214305_DigitalPolicing_to_Ben_2024-11-04_Email-1.pdf",
+    "case_ref": "47240214305",
+    "thread_id": "CRIME_REF_47240214305_THREAD",
+    "handover_flag": "Pearson_originates",
+    "vex_tags": "EVIDENCE_PROVIDED,NICE_LINK_EXPIRED"
+  },
+  {
+    "email_id": "email-2024-11-04-1531-dixon-ben",
+    "datetime": null,
+    "from": {
+      "name": "PC Jon Dixon",
+      "email": "Jon.Dixon@sussex.police.uk"
+    },
+    "to": {
+      "name": NaN,
+      "email": NaN
+    },
+    "subject_summary": "Officer in charge; bail conditions; evidence request; NICE link offer",
+    "categories": NaN,
+    "pdf_exhibit": null,
+    "case_ref": 47240214305,
+    "thread_id": null,
+    "handover_flag": null,
+    "vex_tags": null
+  },
+  {
+    "email_id": "email-2024-11-04-1531-dixon-ben",
+    "datetime": null,
+    "from": {
+      "name": "PC Jon Dixon",
+      "email": "Jon.Dixon@sussex.police.uk"
+    },
+    "to": {
+      "name": NaN,
+      "email": NaN
+    },
+    "subject_summary": "Officer in charge; bail conditions; evidence request; NICE link offer",
+    "categories": NaN,
+    "pdf_exhibit": null,
+    "case_ref": 47240214305,
+    "thread_id": null,
+    "handover_flag": null,
+    "vex_tags": null
+  },
+  {
+    "email_id": "email-2024-11-04-1531-dixon-ben",
+    "datetime": null,
+    "from": {
+      "name": "PC Jon Dixon",
+      "email": "Jon.Dixon@sussex.police.uk"
+    },
+    "to": {
+      "name": NaN,
+      "email": NaN
+    },
+    "subject_summary": "Officer in charge; bail conditions; evidence request; NICE link offer",
+    "categories": NaN,
+    "pdf_exhibit": null,
+    "case_ref": 47240214305,
+    "thread_id": null,
+    "handover_flag": null,
+    "vex_tags": null
+  },
+  {
+    "email_id": "email-2024-11-04-1539-dixon-ben",
+    "datetime": null,
+    "from": {
+      "name": "PC Jon Dixon",
+      "email": "Jon.Dixon@sussex.police.uk"
+    },
+    "to": {
+      "name": NaN,
+      "email": NaN
+    },
+    "subject_summary": "Follow-up: NICE link already sent; promises to resend",
+    "categories": NaN,
+    "pdf_exhibit": null,
+    "case_ref": 47240214305,
+    "thread_id": null,
+    "handover_flag": null,
+    "vex_tags": null
+  },
+  {
+    "email_id": "email-2024-11-04-1539-dixon-ben",
+    "datetime": null,
+    "from": {
+      "name": "PC Jon Dixon",
+      "email": "Jon.Dixon@sussex.police.uk"
+    },
+    "to": {
+      "name": NaN,
+      "email": NaN
+    },
+    "subject_summary": "Follow-up: NICE link already sent; promises to resend",
+    "categories": NaN,
+    "pdf_exhibit": null,
+    "case_ref": 47240214305,
+    "thread_id": null,
+    "handover_flag": null,
+    "vex_tags": null
+  },
+  {
+    "email_id": "email-2024-11-04-1539-dixon-ben",
+    "datetime": null,
+    "from": {
+      "name": "PC Jon Dixon",
+      "email": "Jon.Dixon@sussex.police.uk"
+    },
+    "to": {
+      "name": NaN,
+      "email": NaN
+    },
+    "subject_summary": "Follow-up: NICE link already sent; promises to resend",
+    "categories": NaN,
+    "pdf_exhibit": null,
+    "case_ref": 47240214305,
+    "thread_id": null,
+    "handover_flag": null,
+    "vex_tags": null
+  },
+  {
+    "email_id": "email-2024-11-04-2052-ben-dixon",
+    "datetime": null,
+    "from": {
+      "name": "Ben Carter",
+      "email": "benrobcarter@gmail.com"
+    },
+    "to": {
+      "name": NaN,
+      "email": NaN
+    },
+    "subject_summary": "Forgotten recorded calls offered as evidence",
+    "categories": NaN,
+    "pdf_exhibit": null,
+    "case_ref": 47240214305,
+    "thread_id": null,
+    "handover_flag": null,
+    "vex_tags": null
+  },
+  {
+    "email_id": "email-2024-11-04-2052-ben-dixon",
+    "datetime": null,
+    "from": {
+      "name": "Ben Carter",
+      "email": "benrobcarter@gmail.com"
+    },
+    "to": {
+      "name": NaN,
+      "email": NaN
+    },
+    "subject_summary": "Forgotten recorded calls offered as evidence",
+    "categories": NaN,
+    "pdf_exhibit": null,
+    "case_ref": 47240214305,
+    "thread_id": null,
+    "handover_flag": null,
+    "vex_tags": null
+  },
+  {
+    "email_id": "email-2024-11-04-2052-ben-dixon",
+    "datetime": null,
+    "from": {
+      "name": "Ben Carter",
+      "email": "benrobcarter@gmail.com"
+    },
+    "to": {
+      "name": NaN,
+      "email": NaN
+    },
+    "subject_summary": "Forgotten recorded calls offered as evidence",
+    "categories": NaN,
+    "pdf_exhibit": null,
+    "case_ref": 47240214305,
+    "thread_id": null,
+    "handover_flag": null,
+    "vex_tags": null
+  },
+  {
+    "email_id": "email-2024-11-07-1906-dixon-ben",
+    "datetime": null,
+    "from": {
+      "name": "PC Jon Dixon",
+      "email": "Jon.Dixon@sussex.police.uk"
+    },
+    "to": {
+      "name": NaN,
+      "email": NaN
+    },
+    "subject_summary": "Response: which evidence to upload (calls not needed, videos requested)",
+    "categories": NaN,
+    "pdf_exhibit": null,
+    "case_ref": 47240214305,
+    "thread_id": null,
+    "handover_flag": null,
+    "vex_tags": null
+  },
+  {
+    "email_id": "email-2024-11-07-1906-dixon-ben",
+    "datetime": null,
+    "from": {
+      "name": "PC Jon Dixon",
+      "email": "Jon.Dixon@sussex.police.uk"
+    },
+    "to": {
+      "name": NaN,
+      "email": NaN
+    },
+    "subject_summary": "Response: which evidence to upload (calls not needed, videos requested)",
+    "categories": NaN,
+    "pdf_exhibit": null,
+    "case_ref": 47240214305,
+    "thread_id": null,
+    "handover_flag": null,
+    "vex_tags": null
+  },
+  {
+    "email_id": "email-2024-11-07-1906-dixon-ben",
+    "datetime": null,
+    "from": {
+      "name": "PC Jon Dixon",
+      "email": "Jon.Dixon@sussex.police.uk"
+    },
+    "to": {
+      "name": NaN,
+      "email": NaN
+    },
+    "subject_summary": "Response: which evidence to upload (calls not needed, videos requested)",
+    "categories": NaN,
+    "pdf_exhibit": null,
+    "case_ref": 47240214305,
+    "thread_id": null,
+    "handover_flag": null,
+    "vex_tags": null
+  },
+  {
+    "email_id": "email-2024-11-07-1919-ben-dixon",
+    "datetime": null,
+    "from": {
+      "name": "Ben Carter",
+      "email": "benrobcarter@gmail.com"
+    },
+    "to": {
+      "name": NaN,
+      "email": NaN
+    },
+    "subject_summary": "Query about re-uploading evidence via Google Drive due to NICE link limit",
+    "categories": NaN,
+    "pdf_exhibit": null,
+    "case_ref": 47240214305,
+    "thread_id": null,
+    "handover_flag": null,
+    "vex_tags": null
+  },
+  {
+    "email_id": "email-2024-11-07-1919-ben-dixon",
+    "datetime": null,
+    "from": {
+      "name": "Ben Carter",
+      "email": "benrobcarter@gmail.com"
+    },
+    "to": {
+      "name": NaN,
+      "email": NaN
+    },
+    "subject_summary": "Query about re-uploading evidence via Google Drive due to NICE link limit",
+    "categories": NaN,
+    "pdf_exhibit": null,
+    "case_ref": 47240214305,
+    "thread_id": null,
+    "handover_flag": null,
+    "vex_tags": null
+  },
+  {
+    "email_id": "email-2024-11-07-1919-ben-dixon",
+    "datetime": null,
+    "from": {
+      "name": "Ben Carter",
+      "email": "benrobcarter@gmail.com"
+    },
+    "to": {
+      "name": NaN,
+      "email": NaN
+    },
+    "subject_summary": "Query about re-uploading evidence via Google Drive due to NICE link limit",
+    "categories": NaN,
+    "pdf_exhibit": null,
+    "case_ref": 47240214305,
+    "thread_id": null,
+    "handover_flag": null,
+    "vex_tags": null
+  },
+  {
+    "email_id": "email-2024-11-09-1847-ben-dixon",
+    "datetime": null,
+    "from": {
+      "name": "Ben Carter",
+      "email": "benrobcarter@gmail.com"
+    },
+    "to": {
+      "name": NaN,
+      "email": NaN
+    },
+    "subject_summary": "Request for multiple NICE links due to upload limits; outlining evidence scope",
+    "categories": NaN,
+    "pdf_exhibit": null,
+    "case_ref": 47240214305,
+    "thread_id": null,
+    "handover_flag": null,
+    "vex_tags": null
+  },
+  {
+    "email_id": "email-2024-11-09-1847-ben-dixon",
+    "datetime": null,
+    "from": {
+      "name": "Ben Carter",
+      "email": "benrobcarter@gmail.com"
+    },
+    "to": {
+      "name": NaN,
+      "email": NaN
+    },
+    "subject_summary": "Request for multiple NICE links due to upload limits; outlining evidence scope",
+    "categories": NaN,
+    "pdf_exhibit": null,
+    "case_ref": 47240214305,
+    "thread_id": null,
+    "handover_flag": null,
+    "vex_tags": null
+  },
+  {
+    "email_id": "email-2024-11-09-1847-ben-dixon",
+    "datetime": null,
+    "from": {
+      "name": "Ben Carter",
+      "email": "benrobcarter@gmail.com"
+    },
+    "to": {
+      "name": NaN,
+      "email": NaN
+    },
+    "subject_summary": "Request for multiple NICE links due to upload limits; outlining evidence scope",
+    "categories": NaN,
+    "pdf_exhibit": null,
+    "case_ref": 47240214305,
+    "thread_id": null,
+    "handover_flag": null,
+    "vex_tags": null
+  },
+  {
+    "email_id": "email-2025-03-08-1900-ben-dixon",
+    "datetime": null,
+    "from": {
+      "name": "Ben Carter",
+      "email": "benrobcarter@gmail.com"
+    },
+    "to": {
+      "name": NaN,
+      "email": NaN
+    },
+    "subject_summary": "Statement preference, mental health impact, medical report guidance request",
+    "categories": NaN,
+    "pdf_exhibit": null,
+    "case_ref": 47240214305,
+    "thread_id": null,
+    "handover_flag": null,
+    "vex_tags": null
+  },
+  {
+    "email_id": "email-2025-03-13-0514-ben-dixon",
+    "datetime": null,
+    "from": {
+      "name": "Ben Carter",
+      "email": "benrobcarter@gmail.com"
+    },
+    "to": {
+      "name": NaN,
+      "email": NaN
+    },
+    "subject_summary": "Chasing NICE links and statement; seeking medical support clarification",
+    "categories": NaN,
+    "pdf_exhibit": null,
+    "case_ref": 47240214305,
+    "thread_id": null,
+    "handover_flag": null,
+    "vex_tags": null
+  },
+  {
+    "email_id": "email-2025-03-13-0514-ben-dixon",
+    "datetime": null,
+    "from": {
+      "name": "Ben Carter",
+      "email": "benrobcarter@gmail.com"
+    },
+    "to": {
+      "name": NaN,
+      "email": NaN
+    },
+    "subject_summary": "Chasing NICE links and statement; seeking medical support clarification",
+    "categories": NaN,
+    "pdf_exhibit": null,
+    "case_ref": 47240214305,
+    "thread_id": null,
+    "handover_flag": null,
+    "vex_tags": null
+  },
+  {
+    "email_id": "email-2025-03-13-0514-ben-dixon",
+    "datetime": null,
+    "from": {
+      "name": "Ben Carter",
+      "email": "benrobcarter@gmail.com"
+    },
+    "to": {
+      "name": NaN,
+      "email": NaN
+    },
+    "subject_summary": "Chasing NICE links and statement; seeking medical support clarification",
+    "categories": NaN,
+    "pdf_exhibit": null,
+    "case_ref": 47240214305,
+    "thread_id": null,
+    "handover_flag": null,
+    "vex_tags": null
+  }
+]

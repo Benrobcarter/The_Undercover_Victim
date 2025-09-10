@@ -1,0 +1,278 @@
+{
+  "meta": {
+    "evidence_id": "VEX_2025-04-28_Sussex_Police_Complaints_Department_Call",
+    "title": "28-04-2025 — Call with Sussex Police Complaints Department",
+    "created_at": "2025-08-26T00:24:09.487562Z",
+    "source_file_name": "28_04_25_Sussex_Police_Complaints_Department.txt",
+    "source_path": "/mnt/data/28_04_25_Sussex_Police_Complaints_Department.txt",
+    "source_sha256": "5cee557e9ae161430493d9cce6b78ecf4f219fc5b7d146ded333fffb8c36eb66",
+    "type": "Phone call transcript (complaints)",
+    "date_local": "2025-04-28",
+    "time_local": null,
+    "parties": [
+      "Ben Carter",
+      "Sussex Police Complaints Department (call-taker)"
+    ],
+    "clusters": [
+      "MASTER_COMPLAINT",
+      "SUSSEX_POLICE",
+      "DEATH_BY_SILENCE",
+      "HOLIDAY_ALIBI",
+      "CRIME_REF_47240214305_THREAD",
+      "VRR_NFA",
+      "SUICIDE_LOGGING_DELAY"
+    ],
+    "legal_mapping": [
+      "Victims’ Code — Right to be kept informed; to make a complaint; to be treated with respect",
+      "DPA 2018 / UK GDPR — access to personal data (Art. 15); policing Part 3 integrity/accuracy",
+      "ECHR Article 2 operational duties — safeguarding where risk of self-harm is known",
+      "College of Policing — Managing victims of stalking/harassment; accurate recording and continuity"
+    ],
+    "undated_policy": "ok_date_present",
+    "version": "1.0.0"
+  },
+  "summary": "Complaints team discusses Ben’s dissatisfaction with OIC PC Dixon, confirms two crime references (July and November), and states the live reference is the July case (ending 246). The call also records that Ben’s suicide attempt on 6 April was only logged on the 17th, after the OIC went on leave, reinforcing the ‘holiday alibi’ gap and record-integrity issues. Call-taker suggests using SAR for file access and proposes supervisor follow-up.",
+  "police_position": {
+    "investigation_status": "Live case is July reference (47240141246) per call-taker",
+    "crime_refs": {
+      "july": "47240141246",
+      "november": "47240214305",
+      "live": "47240141246"
+    },
+    "oic": "PC Jon Dixon (per context)",
+    "supervisors": [
+      "Sgt Duffy",
+      "Insp Palmer"
+    ],
+    "actions_promised": [
+      "Supervisor to call back",
+      "Provide crime numbers"
+    ],
+    "access_guidance": "Advises Subject Access Request (SAR) for file access"
+  },
+  "identifiers": {
+    "explicit_crime_refs_in_call": [
+      "47240141246",
+      "47240214305"
+    ],
+    "meeting_flagged": {
+      "who": "Veritas + police",
+      "when": "Wednesday 30-04-2025 14:00 (as reported by caller)"
+    }
+  },
+  "contradictions": [
+    {
+      "code": "SUICIDE_LOG_DELAY",
+      "claim": "Suicide attempt on 06-04-2025 was not logged until 17-04-2025 while OIC and supervisors were on leave.",
+      "related_quotes_idx": [
+        16,
+        18
+      ],
+      "impact": [
+        "Safeguarding failure",
+        "Victims’ Code breach (updates/recording)",
+        "ECHR Art. 2 operational duty risk"
+      ]
+    },
+    {
+      "code": "JULY_VS_NOVEMBER_STATUS",
+      "claim": "Confusion over whether July or November is the live case; call confirms July is live while other messaging suggested otherwise.",
+      "related_quotes_idx": [
+        12,
+        13,
+        14
+      ],
+      "impact": [
+        "Record integrity issues",
+        "Continuity confusion",
+        "Undermines confidence in investigation status"
+      ]
+    },
+    {
+      "code": "SAR_AS_ACCESS_BARRIER",
+      "claim": "Complaints call directs victim to SAR to access files during live safeguarding concerns.",
+      "related_quotes_idx": [
+        11
+      ],
+      "impact": [
+        "Delay to information",
+        "Administrative burden shifted to victim"
+      ]
+    },
+    {
+      "code": "HOLIDAY_ALIBI_CONTINUATION",
+      "claim": "Persistent emphasis on OIC/supervisors being on leave amid critical safeguarding updates.",
+      "related_quotes_idx": [
+        2,
+        19
+      ],
+      "impact": [
+        "Continuity gap",
+        "Inability to obtain timely updates"
+      ]
+    },
+    {
+      "code": "DELETION_ALLEGATION",
+      "claim": "Caller alleges OIC deleted files and moved goalposts to make July evidence look newly submitted.",
+      "related_quotes_idx": [
+        7,
+        9,
+        10
+      ],
+      "impact": [
+        "Evidence-handling integrity concerns",
+        "Supports LOST_EVIDENCE_SUSSEX_POLICE thread"
+      ]
+    }
+  ],
+  "key_quotes": [
+    {
+      "idx": 1,
+      "time": "0:31",
+      "speaker": "Ben",
+      "text": "So I told my investigator I committed suicide,"
+    },
+    {
+      "idx": 2,
+      "time": "0:37",
+      "speaker": "Ben",
+      "text": "and he told me, Ben on holiday, and I wasn't safeguard if let's 17 days."
+    },
+    {
+      "idx": 3,
+      "time": "2:15",
+      "speaker": "Complaints",
+      "text": "…what's the incident relating to, when was it?"
+    },
+    {
+      "idx": 4,
+      "time": "2:15–2:59",
+      "speaker": "Ben",
+      "text": "…it started in July last year… then it all kicked off again in November… they are going for section four for a harassment… she made a false rape statement… why is perverting the course of justice not involved…"
+    },
+    {
+      "idx": 5,
+      "time": "3:49",
+      "speaker": "Ben",
+      "text": "I don't think he's entitled to a holiday if he doesn't love my suicide and goes away… he shouldn't have that job."
+    },
+    {
+      "idx": 6,
+      "time": "6:05–6:51",
+      "speaker": "Ben",
+      "text": "…he has been moving the goalpost… to get me to submit evidence that he says he's lost…"
+    },
+    {
+      "idx": 7,
+      "time": "11:14–12:02",
+      "speaker": "Ben/Complaints",
+      "text": "I don't want him reviewing… I want someone to review what he's done… he has deleted files… / …his supervisor needs to be aware…"
+    },
+    {
+      "idx": 8,
+      "time": "12:43–12:50",
+      "speaker": "Ben",
+      "text": "…I won't be giving out any evidence to Sergeant Duffy."
+    },
+    {
+      "idx": 9,
+      "time": "13:32–13:45",
+      "speaker": "Complaints",
+      "text": "…if you need access to the files, you can get that through the subject access request."
+    },
+    {
+      "idx": 10,
+      "time": "14:02–14:13",
+      "speaker": "Complaints/Ben",
+      "text": "…crime reference… 47240141246, that's the reference number that was reported back in July."
+    },
+    {
+      "idx": 11,
+      "time": "14:21–14:30",
+      "speaker": "Complaints",
+      "text": "…47240214305,"
+    },
+    {
+      "idx": 12,
+      "time": "15:20–16:04",
+      "speaker": "Complaints/Ben",
+      "text": "Yes, the 41 end in 246… the one that was recorded back in July is… the live one…"
+    },
+    {
+      "idx": 13,
+      "time": "17:22–17:30",
+      "speaker": "Complaints",
+      "text": "…if you do [feel suicidal], you know you need to speak to ambulance or hospital."
+    },
+    {
+      "idx": 14,
+      "time": "17:41–18:18",
+      "speaker": "Complaints/Ben",
+      "text": "…he has logged it on this all on the nic[e] report… 17th of this month… / the suicide attempt was on the sixth of April."
+    },
+    {
+      "idx": 15,
+      "time": "21:04–21:35",
+      "speaker": "Ben/Complaints",
+      "text": "On April the sixth, I attempted to take my life… then he went on holiday, then he logged it, and then someone else logged it on the 17th… / …yeah, that's correct, yeah."
+    },
+    {
+      "idx": 16,
+      "time": "22:16–22:48",
+      "speaker": "Complaints/Ben",
+      "text": "…I need to get the supervisor to call… / It's literally… he's entitled to a holiday… I'm not hearing that one again…"
+    }
+  ],
+  "timeline_hooks": [
+    {
+      "when": "2025-04-28",
+      "tag": "CALL_COMPLAINTS",
+      "note": "Call with Sussex Police Complaints; confirms live case is July reference; suicide log delay noted."
+    },
+    {
+      "when": "2025-04-06",
+      "tag": "SUICIDE_ATTEMPT",
+      "note": "Referenced in call as occurring on 06-04-2025."
+    },
+    {
+      "when": "2025-04-17",
+      "tag": "SUICIDE_LOGGED",
+      "note": "In-call confirmation that the suicide was logged on 17-04-2025."
+    },
+    {
+      "when": "2025-04-30T14:00:00",
+      "tag": "MEETING_FLAGGED",
+      "note": "Veritas + police meeting referenced as 'Wednesday at 2pm'."
+    }
+  ],
+  "links": {
+    "related_vex": [
+      "/mnt/data/VEX_2025-04-17_0432_101_Holiday_Alibi_REBUILT.json"
+    ],
+    "related_analysis": [
+      "/mnt/data/3.3_ The Leadership Vacuum & The Culture of Complicity.pdf"
+    ]
+  },
+  "sourcing_queue": [
+    {
+      "prio": 1,
+      "need": "Original call audio and metadata (call ID, handler ID, CAD)",
+      "target": "audio + CAD"
+    },
+    {
+      "prio": 2,
+      "need": "NICHE/Storm log showing suicide entry date 17-04-2025",
+      "target": "system extract"
+    },
+    {
+      "prio": 3,
+      "need": "Written confirmation (email/text) of 30-04-2025 meeting invite/attendees/agenda",
+      "target": "calendar/email"
+    },
+    {
+      "prio": 4,
+      "need": "Policy extracts on safeguarding follow-up after suicide disclosure",
+      "target": "force policy/CoP guidance"
+    }
+  ]
+}

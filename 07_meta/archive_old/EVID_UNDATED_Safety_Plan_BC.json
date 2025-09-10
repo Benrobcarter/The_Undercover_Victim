@@ -1,0 +1,40 @@
+{
+  "id": "EVID_UNDATED_Safety_Plan_BC",
+  "filename_original": "Safety Plan BC .pdf",
+  "filename_suggested": "EVID_UNDATED_Safety_Plan_BC.pdf",
+  "file_path": "/mnt/data/Safety Plan BC .pdf",
+  "file_mime_type": "application/pdf",
+  "title": "Safety Plan (BC) — date to confirm",
+  "date_iso": null,
+  "timezone": "Europe/London",
+  "undated_flag": true,
+  "evidence_type": "safety_plan",
+  "vex_tags": [
+    "SAFETY_PLAN",
+    "EXTERNAL_ANCHOR",
+    "VICTIMS_CODE"
+  ],
+  "new_tag_definitions": {
+    "SAFETY_PLAN": "Personal safety or support plan created by a support service.",
+    "EXTERNAL_ANCHOR": "Third‑party document that independently confirms state, risk, or actions."
+  },
+  "contradictions": [],
+  "timeline_hooks": [
+    "ExternalConfirmations"
+  ],
+  "legal_refs": [
+    "VictimsCode"
+  ],
+  "related_case_refs": [
+    "47240141246",
+    "47240214305",
+    "CIT1201684"
+  ],
+  "death_by_silence_metrics": {
+    "duty_to_act_date": null,
+    "elapsed_days": null
+  },
+  "ocr_text_path": "/mnt/data/EVID_UNDATED_Safety_Plan_BC.txt",
+  "status": "new",
+  "notes": "Auto-generated evidence stub; ready for OCR and sentence-level VEX once text is extracted."
+}

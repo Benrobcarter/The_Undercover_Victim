@@ -1,0 +1,35 @@
+{
+  "meta": {
+    "contradiction_id": "CONTRA_2025-08-30_All_Roads_Lead_to_Palmer",
+    "title": "All Roads Lead to Palmer — Supervisor Oversight of Misconduct",
+    "created_at": "2025-08-30T21:55:00",
+    "version": "1.0.0",
+    "tags": [
+      "SUPERVISORY_FAILURE",
+      "ACCOUNTABILITY_CHAIN",
+      "MISCONDUCT_PUBLIC_OFFICE",
+      "DEATH_BY_SILENCE",
+      "SAFEGUARDING_FAILURE"
+    ]
+  },
+  "links": {
+    "contradiction_threads": [
+      "DEATH_BY_SILENCE",
+      "VRR_VPS_SUPPRESSED",
+      "FABRICATED_WELFARE_CONTACTS"
+    ],
+    "related_entities": [
+      "Sussex Police",
+      "Inspector David Palmer",
+      "PC Jon Dixon",
+      "PC Clarke",
+      "PC Gasson",
+      "PC Russell",
+      "DC Mark Butcher",
+      "Sergeant Duffy"
+    ],
+    "linked_contradictions": [
+      "CONTRA_2025-08-14_Holiday_Alibi_Proven"
+    ]
+  }
+}

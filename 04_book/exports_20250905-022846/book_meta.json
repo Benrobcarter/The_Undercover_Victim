@@ -1,0 +1,43 @@
+{
+  "type": "book_meta",
+  "generated_at": "2025-09-05T02:28:46.383468",
+  "source_master": "04_book/BOOK_MASTER_MERGED_POC_2025-08-27_v5.2.json",
+  "meta": {
+    "generated": "2025-08-26T23:25:19.242320Z",
+    "source_files": {
+      "manuscript_path": "/mnt/data/MASTER_BOOK_MANUSCRIPT.json",
+      "complaint_index_path": "/mnt/data/MASTER_COMPLAINT_INDEX_v1 (3).json"
+    },
+    "hashes": {
+      "manuscript_sha256": "db53dcf5321e56cc2a3efd5e30c17023a11a7e89cdafdf0287fcfa38c2376666",
+      "complaint_index_sha256": "24677a4be49999bff474e66eac0ebb4984f77b5ce0db74e2a9383c2928846f17"
+    },
+    "linked_index": {
+      "name": "MASTER_COMPLAINT_INDEX",
+      "version": "v1",
+      "created_utc": "2025-08-26T04:11:18.549514Z",
+      "case_references": [
+        "47240141246",
+        "47240214305",
+        "CIT1201684"
+      ]
+    }
+  },
+  "file_index": [
+    {
+      "name": "book_core_sec2.json"
+    },
+    {
+      "name": "book_core_sec1_and_intro.json"
+    },
+    {
+      "name": "book_crosswalk.json"
+    },
+    {
+      "name": "book_quotes.json"
+    },
+    {
+      "name": "book_overlays.json"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "meta": {
+    "name": "VERITAS_MASTER_BUNDLE_2025-08-25",
+    "generated_at": "2025-08-25T16:16:51.019441Z",
+    "format_version": "1.0"
+  },
+  "components": [
+    {
+      "path": "01_evidence/veritas/VERITAS_ASSERTIONS_INDEX_2025-08-25.csv",
+      "sha256": "aa26c30635f794957a4aa4071c28a0defc03967a0146f2e756da9f4e0ca9b75a",
+      "bytes": 86
+    }
+  ],
+  "hashes_ref": "01_evidence/veritas/VERITAS_FILE_HASHES_2025-08-25.json"
+}

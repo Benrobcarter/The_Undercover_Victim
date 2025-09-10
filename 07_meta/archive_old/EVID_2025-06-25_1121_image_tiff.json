@@ -1,0 +1,23 @@
+{
+  "id": "EVID_2025-06-25_1121_image_tiff",
+  "filename_original": "image.tiff",
+  "filename_suggested": "EVID_2025-06-25_1121_image_tiff.tiff",
+  "file_path": null,
+  "file_mime_type": "image/tiff",
+  "title": "image.tiff (Email attachment placeholder)",
+  "date_iso": "2025-06-25T11:21:00+01:00",
+  "timezone": "Europe/London",
+  "undated_flag": false,
+  "evidence_type": "email_attachment",
+  "vex_tags": [
+    "EMAIL_ATTACHMENT",
+    "MISSING_ATTACHMENT"
+  ],
+  "contradictions": [],
+  "timeline_hooks": [
+    "EmailAttachment"
+  ],
+  "legal_refs": [],
+  "status": "placeholder_missing",
+  "notes": "Attachment referenced in the 11:21 email but the file is not present in project. Replace when available."
+}

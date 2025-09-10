@@ -1,0 +1,40 @@
+{
+  "checked_at": "2025-08-25T16:16:51.029229Z",
+  "items": [
+    {
+      "path": "01_evidence/veritas/VERITAS_SAR_BUNDLE_2025-08-25.json",
+      "present": true,
+      "bytes": 5450
+    },
+    {
+      "path": "01_evidence/veritas/VERITAS_FILE_HASHES_2025-08-25.json",
+      "present": true,
+      "bytes": 4039
+    },
+    {
+      "path": "01_evidence/veritas/VERITAS_MASTER_BUNDLE_2025-08-25.json",
+      "present": true,
+      "bytes": 435
+    },
+    {
+      "path": "01_evidence/veritas/VERITAS_ASSERTIONS_INDEX_2025-08-25.csv",
+      "present": true,
+      "bytes": 86
+    },
+    {
+      "path": "02_contradictions/MASTER_CONTRADICTIONS_INJECTED_WITH_VERITAS_v4_2025-08-25_v2.json",
+      "present": true,
+      "bytes": 24590
+    },
+    {
+      "path": "02_contradictions/VERITAS_CLAsh_REPORT_2025-08-25.json",
+      "present": true,
+      "bytes": 14831
+    },
+    {
+      "path": "02_contradictions/VERITAS_CLASH_TO_TIMELINE_LINKS_2025-08-25.json",
+      "present": true,
+      "bytes": 8083
+    }
+  ]
+}

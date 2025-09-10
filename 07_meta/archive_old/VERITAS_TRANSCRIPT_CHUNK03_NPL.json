@@ -1,0 +1,84 @@
+{
+  "chunk": 3,
+  "time_range": "2:30-3:30",
+  "quotes": [
+    {
+      "speaker": "Emma Veritas",
+      "time": "2:30",
+      "quote": "So I’ll chase them again for you this week, and if I don’t get a reply, I’ll escalate it.",
+      "tags": [
+        "advocacy",
+        "follow_up",
+        "escalation"
+      ]
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "2:38",
+      "quote": "Right, because I just want to know who’s actually accountable here.",
+      "tags": [
+        "accountability",
+        "frustration"
+      ]
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "2:44",
+      "quote": "Yeah, I understand. That’s why I asked for a sergeant’s name, so you have someone accountable.",
+      "tags": [
+        "advocacy",
+        "accountability"
+      ]
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "2:51",
+      "quote": "But without that, it just feels like there’s no one taking ownership.",
+      "tags": [
+        "lack_of_ownership",
+        "victim_experience"
+      ]
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "2:57",
+      "quote": "Exactly, and that’s what I’ve said to them, that it’s very frustrating for you and for me, not having a named person.",
+      "tags": [
+        "systemic_issue",
+        "advocacy_failure"
+      ]
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "3:04",
+      "quote": "Yeah.",
+      "tags": []
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "3:06",
+      "quote": "So I will keep pressing, and if needed, escalate beyond the stalking unit inbox.",
+      "tags": [
+        "follow_up",
+        "escalation",
+        "advocacy"
+      ]
+    }
+  ],
+  "contradictions": [
+    {
+      "issue": "Emma claims to advocate for accountability but accepts systemic lack of ownership",
+      "type": "advocacy_gap"
+    }
+  ],
+  "timeline_hooks": [
+    {
+      "ref": "escalation beyond stalking unit inbox",
+      "link": "Potential escalation path May 2025"
+    },
+    {
+      "ref": "lack of named sergeant",
+      "link": "Ongoing accountability gap in stalking unit"
+    }
+  ]
+}

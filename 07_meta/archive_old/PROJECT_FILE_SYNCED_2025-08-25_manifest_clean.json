@@ -1,0 +1,148 @@
+{
+  "project_name": "PROJECT_FILE_SYNCED",
+  "version": "v4_FULL",
+  "date": "2025-08-25",
+  "generated_at": "2025-08-25T16:49:30.224285Z",
+  "files": [
+    {
+      "path": "01_evidence/veritas/VERITAS_MASTER_BUNDLE_2025-08-25.json",
+      "bytes": 1112,
+      "sha256": "7cc645ace0ba19301f150f43a392fc33cb6a6825b742a52d07f870b42abe8080"
+    },
+    {
+      "path": "01_evidence/veritas/VERITAS_SAR_BUNDLE_2025-08-25.json",
+      "bytes": 5450,
+      "sha256": "9405215aee5d649185a67f423022d651f16d091accb2b4fa7cc4a234051c0ecb"
+    },
+    {
+      "path": "01_evidence/veritas/VERITAS_FILE_HASHES_2025-08-25.json",
+      "bytes": 4039,
+      "sha256": "0f669911d2883c07560becdebb2b32d2770a0a0e6c0fe9d59c6bd1f2c131c3ef"
+    },
+    {
+      "path": "01_evidence/veritas/VERITAS_FILE_HASHES_2025-08-25_UPDATED_v2.json",
+      "bytes": 4840,
+      "sha256": "6853c6ad3c8d184be4ab883f3cfaca92a66aa39fa93c21fc3e30ba5e96b83d67"
+    },
+    {
+      "path": "01_evidence/veritas/VERITAS_INSTALL_CHECK_2025-08-25.txt",
+      "bytes": 1175,
+      "sha256": "19745bfded1de85aa1641c5c56356e99f5b869a23b931683c021f4a63ea74067"
+    },
+    {
+      "path": "01_evidence/veritas/VERITAS_README_2025-08-25.md",
+      "bytes": 1460,
+      "sha256": "50a4802411918883b0505c5fbd65cafbb0a09cf22e265331c92ec448c244eadb"
+    },
+    {
+      "path": "01_evidence/veritas/VERITAS_ASSERTIONS_INDEX_2025-08-25.csv",
+      "bytes": 86,
+      "sha256": "aa26c30635f794957a4aa4071c28a0defc03967a0146f2e756da9f4e0ca9b75a"
+    },
+    {
+      "path": "02_contradictions/MASTER_CONTRADICTIONS_INJECTED_WITH_VERITAS_v4_2025-08-25.json",
+      "bytes": 12226,
+      "sha256": "9e791b5693dca00d455360b5e7091affaee1f2b76cf03ec4e9606dca6dfbe5e1"
+    },
+    {
+      "path": "02_contradictions/MASTER_CONTRADICTIONS_INJECTED_WITH_VERITAS_v4_2025-08-25_v2.json",
+      "bytes": 24590,
+      "sha256": "7cf48b7917d3d6e33b79732345e6350c4e29b50d5fd528871beb24e9aaf40d22"
+    },
+    {
+      "path": "02_contradictions/VERITAS_ASSERTIONS_CONTRADICTABLE_2025-08-25 (1).json",
+      "bytes": 277763,
+      "sha256": "bd2ffa9bd2619530e37584997223dcdc2edb901357d101f19475af0b3865a8da"
+    },
+    {
+      "path": "02_contradictions/VERITAS_ASSERTIONS_CONTRADICTABLE_2025-08-25 (1).csv",
+      "bytes": 114486,
+      "sha256": "e5d32f2921199ebe02141827e0b875b95b012e678b63636869bcf820378ea791"
+    },
+    {
+      "path": "02_contradictions/VERITAS_CLAsh_REPORT_2025-08-25.json",
+      "bytes": 14831,
+      "sha256": "b38a659818a0fb6da9ab20c9c258c0f0e66a83f8ad7c08fc0e4ac4ca89ece675"
+    },
+    {
+      "path": "02_contradictions/VERITAS_CLASH_TO_TIMELINE_LINKS_2025-08-25.json",
+      "bytes": 8083,
+      "sha256": "7e5bb9c59ea0699b496d63695ccf0a26dc8d218453795010a89be47a18e60b87"
+    },
+    {
+      "path": "03_analysis/VERITAS_BIT_module_2025-08-25.json",
+      "bytes": 1850,
+      "sha256": "a772a3a3dde7450c07fc0b34230b10d099fb6ad862920318073ffb66ef4f134c"
+    },
+    {
+      "path": "03_analysis/VERITAS_TRANSCRIPTS_UNIFIED_FLATTENED_SUMMARY_2025-08-25.xlsx",
+      "bytes": 36618,
+      "sha256": "02d9d669d55c22e6c87cefb6ca1f6e6dcada0a65d86108c713eba475c4bdea07"
+    },
+    {
+      "path": "03_analysis/VERITAS_TRANSCRIPTS_UNIFIED_FLATTENED_SUMMARY_CHARTS_2025-08-25.xlsx",
+      "bytes": 39947,
+      "sha256": "effef06c12fa4b67be1f8785ffd4c7803b20d446d9a64fcc12fb5069c7cd5360"
+    },
+    {
+      "path": "03_analysis/VERITAS_TRANSCRIPTS_UNIFIED_FLATTENED_SUMMARY_CHARTS_WITH_TIMELINE_2025-08-25.xlsx",
+      "bytes": 136998,
+      "sha256": "3331f0a448d492de0e020616ec133e75641a9fd66bd5bb14117cbe20eb051566"
+    },
+    {
+      "path": "03_analysis/MASTER_EVIDENCE_WORKBOOK_WITH_VERITAS_2025-08-25.xlsx",
+      "bytes": 144005,
+      "sha256": "9cc51716e294822da75118dd75d59911b5a07e38e4e0fb7ac7703df1ac6ba947"
+    },
+    {
+      "path": "04_manifest/PROJECT_FILE_SYNCED_2025-08-25_v4_INSTRUCTIONS.json",
+      "bytes": 811,
+      "sha256": "d4d0f88747896e7e23aa90c4bf8ec83800865ab0ba12cf87fc269b94108dc554"
+    },
+    {
+      "path": "04_manifest/PROJECT_FILE_SYNCED_2025-08-25_manifest_clean.json",
+      "bytes": 1886,
+      "sha256": "17a35cbe9f24fca9d5bd24705f242ece8c3d3717f1edea515d7b91886852a5da"
+    },
+    {
+      "path": "04_manifest/PROJECT_FILE_SYNCED_2025-08-25_v4_VERIFICATION_LOG.json",
+      "bytes": 2695,
+      "sha256": "351ab08e65ea42f3ffca1bde5cbaa5f6c4f5fe7ddd3c629cfb0dab5c5b1e68a9"
+    },
+    {
+      "path": "04_manifest/VERITAS_MANIFEST_PATCH_2025-08-25.json",
+      "bytes": 4396,
+      "sha256": "f070dff5b106ce89c263bfa88035fd83baca5836d8b2000f1c2845131866b491"
+    },
+    {
+      "path": "04_manifest/VERITAS_MANIFEST_PATCH_2025-08-25_UPDATED_v2.json",
+      "bytes": 6679,
+      "sha256": "c041d12ac5740e879fedc47e00b94675f354e7b912ea76b34399531d5b8fbaf1"
+    },
+    {
+      "path": "04_manifest/VERITAS_MANIFEST_PATCH_2025-08-25_UPDATED_v3.json",
+      "bytes": 6627,
+      "sha256": "2b98b73f4d1372f87a76b3a12e2c9a6b2462afffaebade9e381317e5b25f3410"
+    },
+    {
+      "path": "06_meta/PROJECT_FILE_SYNCED_2025-08-25_v4_VERIFICATION_LOG.json",
+      "bytes": 2695,
+      "sha256": "351ab08e65ea42f3ffca1bde5cbaa5f6c4f5fe7ddd3c629cfb0dab5c5b1e68a9"
+    },
+    {
+      "path": "06_meta/VERITAS_FILE_HASHES_2025-08-25.json",
+      "bytes": 4039,
+      "sha256": "0f669911d2883c07560becdebb2b32d2770a0a0e6c0fe9d59c6bd1f2c131c3ef"
+    },
+    {
+      "path": "06_meta/VERITAS_INSTALL_CHECK_2025-08-25.txt",
+      "bytes": 1175,
+      "sha256": "19745bfded1de85aa1641c5c56356e99f5b869a23b931683c021f4a63ea74067"
+    },
+    {
+      "path": "06_meta/BUILD_REPORT.json",
+      "bytes": 4649,
+      "sha256": "2e52c881a92a9e88275acdcc63ed862957a663dc83fecbeff0d0dcef8f7824b4"
+    }
+  ]
+}

@@ -1,0 +1,2027 @@
+{
+  "meta": {
+    "source_file_name": "_chat 39.txt",
+    "source_sha256": "37bf703da5eca8da89568f75690e9fe6e14ee2596fe14a34aaf4824150cb48cd",
+    "contact": "PC Dixon",
+    "full_vex": true,
+    "legal_mapping": [
+      "Victims\u2019 Code \u2013 updates & communication (prefers phone vs chat?)",
+      "DPA 2018 Part 3 \u2013 accuracy of records (NICE links, case chronology)",
+      "Protection from Harassment Act 1997 s.4A \u2013 stalking causing serious alarm/distress (mentioned)"
+    ],
+    "clusters": [
+      "WHATSAPP_THREAD",
+      "DEATH_BY_SILENCE",
+      "CRIME_REF_47240214305_THREAD"
+    ],
+    "time_span_utc": {
+      "start": "2025-03-08T14:38:14Z",
+      "end": "2025-04-22T08:36:17Z"
+    }
+  },
+  "entries": [
+    {
+      "vex_id": "A09-L0001",
+      "line_index": 1,
+      "timestamp_utc": "2025-03-08T14:38:14Z",
+      "date": "2025-03-08",
+      "time": "14:38:14",
+      "speaker": "PC Dixon",
+      "quote": "\u200eMessages and calls are end-to-end encrypted. Only people in this chat can read, listen to, or share them.",
+      "tags": [
+        "PARTY::DIXON"
+      ],
+      "people": [
+        "PC Dixon"
+      ],
+      "evidence_links": {
+        "chat_filename": "_chat 39.txt",
+        "timecode_start": "14:38:14",
+        "timecode_end": null,
+        "transcript_alignment_confidence": "high (chat timestamp)"
+      }
+    },
+    {
+      "vex_id": "A09-L0002",
+      "line_index": 2,
+      "timestamp_utc": "2025-03-08T14:38:14Z",
+      "date": "2025-03-08",
+      "time": "14:38:14",
+      "speaker": "PC Dixon",
+      "quote": "\u200eVoice call, \u200e5 min",
+      "tags": [
+        "PARTY::DIXON"
+      ],
+      "people": [
+        "PC Dixon"
+      ],
+      "evidence_links": {
+        "chat_filename": "_chat 39.txt",
+        "timecode_start": "14:38:14",
+        "timecode_end": null,
+        "transcript_alignment_confidence": "high (chat timestamp)"
+      }
+    },
+    {
+      "vex_id": "A09-L0003",
+      "line_index": 3,
+      "timestamp_utc": "2025-03-08T16:15:59Z",
+      "date": "2025-03-08",
+      "time": "16:15:59",
+      "speaker": "Ben Carter",
+      "quote": "\u200eVoice call, \u200eNo answer",
+      "tags": [
+        "PARTY::DIXON"
+      ],
+      "people": [
+        "PC Dixon"
+      ],
+      "evidence_links": {
+        "chat_filename": "_chat 39.txt",
+        "timecode_start": "16:15:59",
+        "timecode_end": null,
+        "transcript_alignment_confidence": "high (chat timestamp)"
+      }
+    },
+    {
+      "vex_id": "A09-L0004",
+      "line_index": 4,
+      "timestamp_utc": "2025-03-18T09:52:10Z",
+      "date": "2025-03-18",
+      "time": "09:52:10",
+      "speaker": "PC Dixon",
+      "quote": "\u200eSilenced voice call, \u200eFocus mode",
+      "tags": [
+        "PARTY::DIXON"
+      ],
+      "people": [
+        "PC Dixon"
+      ],
+      "evidence_links": {
+        "chat_filename": "_chat 39.txt",
+        "timecode_start": "09:52:10",
+        "timecode_end": null,
+        "transcript_alignment_confidence": "high (chat timestamp)"
+      }
+    },
+    {
+      "vex_id": "A09-L0005",
+      "line_index": 5,
+      "timestamp_utc": "2025-03-18T10:47:19Z",
+      "date": "2025-03-18",
+      "time": "10:47:19",
+      "speaker": "Ben Carter",
+      "quote": "\u200eVoice call, \u200e1 min",
+      "tags": [
+        "PARTY::DIXON"
+      ],
+      "people": [
+        "PC Dixon"
+      ],
+      "evidence_links": {
+        "chat_filename": "_chat 39.txt",
+        "timecode_start": "10:47:19",
+        "timecode_end": null,
+        "transcript_alignment_confidence": "high (chat timestamp)"
+      }
+    },
+    {
+      "vex_id": "A09-L0006",
+      "line_index": 6,
+      "timestamp_utc": "2025-04-22T07:54:31Z",
+      "date": "2025-04-22",
+      "time": "07:54:31",
+      "speaker": "Ben Carter",
+      "quote": "You can email me",
+      "tags": [
+        "PARTY::DIXON"
+      ],
+      "people": [
+        "PC Dixon"
+      ],
+      "evidence_links": {
+        "chat_filename": "_chat 39.txt",
+        "timecode_start": "07:54:31",
+        "timecode_end": null,
+        "transcript_alignment_confidence": "high (chat timestamp)"
+      }
+    },
+    {
+      "vex_id": "A09-L0007",
+      "line_index": 7,
+      "timestamp_utc": "2025-04-22T07:56:18Z",
+      "date": "2025-04-22",
+      "time": "07:56:18",
+      "speaker": "Ben Carter",
+      "quote": "No phone calls, you were happy to move my case to july on holiday",
+      "tags": [
+        "PARTY::DIXON",
+        "TIMELINE::JULY_REF"
+      ],
+      "people": [
+        "PC Dixon"
+      ],
+      "evidence_links": {
+        "chat_filename": "_chat 39.txt",
+        "timecode_start": "07:56:18",
+        "timecode_end": null,
+        "transcript_alignment_confidence": "high (chat timestamp)"
+      }
+    },
+    {
+      "vex_id": "A09-L0008",
+      "line_index": 8,
+      "timestamp_utc": "2025-04-22T07:56:29Z",
+      "date": "2025-04-22",
+      "time": "07:56:29",
+      "speaker": "Ben Carter",
+      "quote": "Werent safeguarding me",
+      "tags": [
+        "PARTY::DIXON"
+      ],
+      "people": [
+        "PC Dixon"
+      ],
+      "evidence_links": {
+        "chat_filename": "_chat 39.txt",
+        "timecode_start": "07:56:29",
+        "timecode_end": null,
+        "transcript_alignment_confidence": "high (chat timestamp)"
+      }
+    },
+    {
+      "vex_id": "A09-L0009",
+      "line_index": 9,
+      "timestamp_utc": "2025-04-22T07:56:50Z",
+      "date": "2025-04-22",
+      "time": "07:56:50",
+      "speaker": "Ben Carter",
+      "quote": "17 days, no one from the police contacted me",
+      "tags": [
+        "PARTY::DIXON"
+      ],
+      "people": [
+        "PC Dixon"
+      ],
+      "evidence_links": {
+        "chat_filename": "_chat 39.txt",
+        "timecode_start": "07:56:50",
+        "timecode_end": null,
+        "transcript_alignment_confidence": "high (chat timestamp)"
+      }
+    },
+    {
+      "vex_id": "A09-L0010",
+      "line_index": 10,
+      "timestamp_utc": "2025-04-22T07:57:00Z",
+      "date": "2025-04-22",
+      "time": "07:57:00",
+      "speaker": "Ben Carter",
+      "quote": "Why was that?",
+      "tags": [
+        "PARTY::DIXON"
+      ],
+      "people": [
+        "PC Dixon"
+      ],
+      "evidence_links": {
+        "chat_filename": "_chat 39.txt",
+        "timecode_start": "07:57:00",
+        "timecode_end": null,
+        "transcript_alignment_confidence": "high (chat timestamp)"
+      }
+    },
+    {
+      "vex_id": "A09-L0011",
+      "line_index": 11,
+      "timestamp_utc": "2025-04-22T07:58:02Z",
+      "date": "2025-04-22",
+      "time": "07:58:02",
+      "speaker": "Ben Carter",
+      "quote": "\u201cDoen\u2019t co operate with nice links\u201d",
+      "tags": [
+        "PARTY::DIXON",
+        "RECORDS::NICE_LINKS"
+      ],
+      "people": [
+        "PC Dixon"
+      ],
+      "evidence_links": {
+        "chat_filename": "_chat 39.txt",
+        "timecode_start": "07:58:02",
+        "timecode_end": null,
+        "transcript_alignment_confidence": "high (chat timestamp)"
+      }
+    },
+    {
+      "vex_id": "A09-L0012",
+      "line_index": 12,
+      "timestamp_utc": "2025-04-22T07:58:32Z",
+      "date": "2025-04-22",
+      "time": "07:58:32",
+      "speaker": "PC Dixon",
+      "quote": "Hi Ben. Not sure what you mean by July? I said the case file was being built, I just required the medical letter and additional contact evidence, which I sent the NICE links for. You said you would speak to your GP and get the letter. Then the file would be sent for review before CPS",
+      "tags": [
+        "PARTY::DIXON",
+        "RECORDS::CPS_REF",
+        "RECORDS::MEDICAL_LETTER",
+        "RECORDS::NICE_LINKS",
+        "TIMELINE::JULY_REF"
+      ],
+      "people": [
+        "PC Dixon"
+      ],
+      "evidence_links": {
+        "chat_filename": "_chat 39.txt",
+        "timecode_start": "07:58:32",
+        "timecode_end": null,
+        "transcript_alignment_confidence": "high (chat timestamp)"
+      }
+    },
+    {
+      "vex_id": "A09-L0013",
+      "line_index": 13,
+      "timestamp_utc": "2025-04-22T07:59:07Z",
+      "date": "2025-04-22",
+      "time": "07:59:07",
+      "speaker": "Ben Carter",
+      "quote": "You stated it was always from november",
+      "tags": [
+        "PARTY::DIXON"
+      ],
+      "people": [
+        "PC Dixon"
+      ],
+      "evidence_links": {
+        "chat_filename": "_chat 39.txt",
+        "timecode_start": "07:59:07",
+        "timecode_end": null,
+        "transcript_alignment_confidence": "high (chat timestamp)"
+      }
+    },
+    {
+      "vex_id": "A09-L0014",
+      "line_index": 14,
+      "timestamp_utc": "2025-04-22T07:59:22Z",
+      "date": "2025-04-22",
+      "time": "07:59:22",
+      "speaker": "Ben Carter",
+      "quote": "And still asked for the lost call in july",
+      "tags": [
+        "PARTY::DIXON",
+        "TIMELINE::JULY_REF"
+      ],
+      "people": [
+        "PC Dixon"
+      ],
+      "evidence_links": {
+        "chat_filename": "_chat 39.txt",
+        "timecode_start": "07:59:22",
+        "timecode_end": null,
+        "transcript_alignment_confidence": "high (chat timestamp)"
+      }
+    },
+    {
+      "vex_id": "A09-L0015",
+      "line_index": 15,
+      "timestamp_utc": "2025-04-22T07:59:40Z",
+      "date": "2025-04-22",
+      "time": "07:59:40",
+      "speaker": "Ben Carter",
+      "quote": "It is now from july",
+      "tags": [
+        "PARTY::DIXON",
+        "TIMELINE::JULY_REF"
+      ],
+      "people": [
+        "PC Dixon"
+      ],
+      "evidence_links": {
+        "chat_filename": "_chat 39.txt",
+        "timecode_start": "07:59:40",
+        "timecode_end": null,
+        "transcript_alignment_confidence": "high (chat timestamp)"
+      }
+    },
+    {
+      "vex_id": "A09-L0016",
+      "line_index": 16,
+      "timestamp_utc": "2025-04-22T08:00:18Z",
+      "date": "2025-04-22",
+      "time": "08:00:18",
+      "speaker": "PC Dixon",
+      "quote": "Yep if you still have the phone call from July it would help the case",
+      "tags": [
+        "PARTY::DIXON",
+        "TIMELINE::JULY_REF"
+      ],
+      "people": [
+        "PC Dixon"
+      ],
+      "evidence_links": {
+        "chat_filename": "_chat 39.txt",
+        "timecode_start": "08:00:18",
+        "timecode_end": null,
+        "transcript_alignment_confidence": "high (chat timestamp)"
+      }
+    },
+    {
+      "vex_id": "A09-L0017",
+      "line_index": 17,
+      "timestamp_utc": "2025-04-22T08:00:26Z",
+      "date": "2025-04-22",
+      "time": "08:00:26",
+      "speaker": "Ben Carter",
+      "quote": "How",
+      "tags": [
+        "PARTY::DIXON"
+      ],
+      "people": [
+        "PC Dixon"
+      ],
+      "evidence_links": {
+        "chat_filename": "_chat 39.txt",
+        "timecode_start": "08:00:26",
+        "timecode_end": null,
+        "transcript_alignment_confidence": "high (chat timestamp)"
+      }
+    },
+    {
+      "vex_id": "A09-L0018",
+      "line_index": 18,
+      "timestamp_utc": "2025-04-22T08:00:40Z",
+      "date": "2025-04-22",
+      "time": "08:00:40",
+      "speaker": "Ben Carter",
+      "quote": "If its not being used",
+      "tags": [
+        "PARTY::DIXON"
+      ],
+      "people": [
+        "PC Dixon"
+      ],
+      "evidence_links": {
+        "chat_filename": "_chat 39.txt",
+        "timecode_start": "08:00:40",
+        "timecode_end": null,
+        "transcript_alignment_confidence": "high (chat timestamp)"
+      }
+    },
+    {
+      "vex_id": "A09-L0019",
+      "line_index": 19,
+      "timestamp_utc": "2025-04-22T08:01:01Z",
+      "date": "2025-04-22",
+      "time": "08:01:01",
+      "speaker": "Ben Carter",
+      "quote": "Whys the rape not perverting the course of justice",
+      "tags": [
+        "PARTY::DIXON"
+      ],
+      "people": [
+        "PC Dixon"
+      ],
+      "evidence_links": {
+        "chat_filename": "_chat 39.txt",
+        "timecode_start": "08:01:01",
+        "timecode_end": null,
+        "transcript_alignment_confidence": "high (chat timestamp)"
+      }
+    },
+    {
+      "vex_id": "A09-L0020",
+      "line_index": 20,
+      "timestamp_utc": "2025-04-22T08:01:45Z",
+      "date": "2025-04-22",
+      "time": "08:01:45",
+      "speaker": "PC Dixon",
+      "quote": "CPS look at the entire relationship history, and any evidence you have is disclosed to them, it is up to them if they use it or not",
+      "tags": [
+        "PARTY::DIXON",
+        "RECORDS::CPS_REF"
+      ],
+      "people": [
+        "PC Dixon"
+      ],
+      "evidence_links": {
+        "chat_filename": "_chat 39.txt",
+        "timecode_start": "08:01:45",
+        "timecode_end": null,
+        "transcript_alignment_confidence": "high (chat timestamp)"
+      }
+    },
+    {
+      "vex_id": "A09-L0021",
+      "line_index": 21,
+      "timestamp_utc": "2025-04-22T08:02:20Z",
+      "date": "2025-04-22",
+      "time": "08:02:20",
+      "speaker": "Ben Carter",
+      "quote": "You are not my investigator",
+      "tags": [
+        "PARTY::DIXON"
+      ],
+      "people": [
+        "PC Dixon"
+      ],
+      "evidence_links": {
+        "chat_filename": "_chat 39.txt",
+        "timecode_start": "08:02:20",
+        "timecode_end": null,
+        "transcript_alignment_confidence": "high (chat timestamp)"
+      }
+    },
+    {
+      "vex_id": "A09-L0022",
+      "line_index": 22,
+      "timestamp_utc": "2025-04-22T08:02:40Z",
+      "date": "2025-04-22",
+      "time": "08:02:40",
+      "speaker": "Ben Carter",
+      "quote": "You have been made aware",
+      "tags": [
+        "PARTY::DIXON"
+      ],
+      "people": [
+        "PC Dixon"
+      ],
+      "evidence_links": {
+        "chat_filename": "_chat 39.txt",
+        "timecode_start": "08:02:40",
+        "timecode_end": null,
+        "transcript_alignment_confidence": "high (chat timestamp)"
+      }
+    },
+    {
+      "vex_id": "A09-L0023",
+      "line_index": 23,
+      "timestamp_utc": "2025-04-22T08:02:50Z",
+      "date": "2025-04-22",
+      "time": "08:02:50",
+      "speaker": "Ben Carter",
+      "quote": "And so have ipoc",
+      "tags": [
+        "PARTY::DIXON"
+      ],
+      "people": [
+        "PC Dixon"
+      ],
+      "evidence_links": {
+        "chat_filename": "_chat 39.txt",
+        "timecode_start": "08:02:50",
+        "timecode_end": null,
+        "transcript_alignment_confidence": "high (chat timestamp)"
+      }
+    },
+    {
+      "vex_id": "A09-L0024",
+      "line_index": 24,
+      "timestamp_utc": "2025-04-22T08:03:08Z",
+      "date": "2025-04-22",
+      "time": "08:03:08",
+      "speaker": "Ben Carter",
+      "quote": "And veritas have told you",
+      "tags": [
+        "PARTY::DIXON"
+      ],
+      "people": [
+        "PC Dixon"
+      ],
+      "evidence_links": {
+        "chat_filename": "_chat 39.txt",
+        "timecode_start": "08:03:08",
+        "timecode_end": null,
+        "transcript_alignment_confidence": "high (chat timestamp)"
+      }
+    },
+    {
+      "vex_id": "A09-L0025",
+      "line_index": 25,
+      "timestamp_utc": "2025-04-22T08:03:39Z",
+      "date": "2025-04-22",
+      "time": "08:03:39",
+      "speaker": "Ben Carter",
+      "quote": "You told me i shouldnt have looked on her instagram",
+      "tags": [
+        "PARTY::DIXON",
+        "RECORDS::SOCIAL_MEDIA_INSTAGRAM"
+      ],
+      "people": [
+        "PC Dixon"
+      ],
+      "evidence_links": {
+        "chat_filename": "_chat 39.txt",
+        "timecode_start": "08:03:39",
+        "timecode_end": null,
+        "transcript_alignment_confidence": "high (chat timestamp)"
+      }
+    },
+    {
+      "vex_id": "A09-L0026",
+      "line_index": 26,
+      "timestamp_utc": "2025-04-22T08:04:29Z",
+      "date": "2025-04-22",
+      "time": "08:04:29",
+      "speaker": "Ben Carter",
+      "quote": "That youd told me that",
+      "tags": [
+        "PARTY::DIXON"
+      ],
+      "people": [
+        "PC Dixon"
+      ],
+      "evidence_links": {
+        "chat_filename": "_chat 39.txt",
+        "timecode_start": "08:04:29",
+        "timecode_end": null,
+        "transcript_alignment_confidence": "high (chat timestamp)"
+      }
+    },
+    {
+      "vex_id": "A09-L0027",
+      "line_index": 27,
+      "timestamp_utc": "2025-04-22T08:04:44Z",
+      "date": "2025-04-22",
+      "time": "08:04:44",
+      "speaker": "Ben Carter",
+      "quote": "My suicide was my fault",
+      "tags": [
+        "PARTY::DIXON",
+        "RISK::SUICIDE_REF"
+      ],
+      "people": [
+        "PC Dixon"
+      ],
+      "evidence_links": {
+        "chat_filename": "_chat 39.txt",
+        "timecode_start": "08:04:44",
+        "timecode_end": null,
+        "transcript_alignment_confidence": "high (chat timestamp)"
+      }
+    },
+    {
+      "vex_id": "A09-L0028",
+      "line_index": 28,
+      "timestamp_utc": "2025-04-22T08:05:31Z",
+      "date": "2025-04-22",
+      "time": "08:05:31",
+      "speaker": "Ben Carter",
+      "quote": "When did you tell me that",
+      "tags": [
+        "PARTY::DIXON"
+      ],
+      "people": [
+        "PC Dixon"
+      ],
+      "evidence_links": {
+        "chat_filename": "_chat 39.txt",
+        "timecode_start": "08:05:31",
+        "timecode_end": null,
+        "transcript_alignment_confidence": "high (chat timestamp)"
+      }
+    },
+    {
+      "vex_id": "A09-L0029",
+      "line_index": 29,
+      "timestamp_utc": "2025-04-22T08:05:52Z",
+      "date": "2025-04-22",
+      "time": "08:05:52",
+      "speaker": "Ben Carter",
+      "quote": "And why",
+      "tags": [
+        "PARTY::DIXON"
+      ],
+      "people": [
+        "PC Dixon"
+      ],
+      "evidence_links": {
+        "chat_filename": "_chat 39.txt",
+        "timecode_start": "08:05:52",
+        "timecode_end": null,
+        "transcript_alignment_confidence": "high (chat timestamp)"
+      }
+    },
+    {
+      "vex_id": "A09-L0030",
+      "line_index": 30,
+      "timestamp_utc": "2025-04-22T08:06:52Z",
+      "date": "2025-04-22",
+      "time": "08:06:52",
+      "speaker": "PC Dixon",
+      "quote": "Until the case is reassigned I will continue to finalise the case file. What you do or don't do in regard to Instagram is your choice, you are an adult. If you wish to speak properly rather than chatting on here we can arrange to do so",
+      "tags": [
+        "PARTY::DIXON",
+        "RECORDS::SOCIAL_MEDIA_INSTAGRAM"
+      ],
+      "people": [
+        "PC Dixon"
+      ],
+      "evidence_links": {
+        "chat_filename": "_chat 39.txt",
+        "timecode_start": "08:06:52",
+        "timecode_end": null,
+        "transcript_alignment_confidence": "high (chat timestamp)"
+      }
+    },
+    {
+      "vex_id": "A09-L0031",
+      "line_index": 31,
+      "timestamp_utc": "2025-04-22T08:08:20Z",
+      "date": "2025-04-22",
+      "time": "08:08:20",
+      "speaker": "Ben Carter",
+      "quote": "No you told me you\u2019d already said in light of my suicide i shouldnt have gone on hers in the first place",
+      "tags": [
+        "PARTY::DIXON",
+        "RISK::SUICIDE_REF"
+      ],
+      "people": [
+        "PC Dixon"
+      ],
+      "evidence_links": {
+        "chat_filename": "_chat 39.txt",
+        "timecode_start": "08:08:20",
+        "timecode_end": null,
+        "transcript_alignment_confidence": "high (chat timestamp)"
+      }
+    },
+    {
+      "vex_id": "A09-L0032",
+      "line_index": 32,
+      "timestamp_utc": "2025-04-22T08:08:39Z",
+      "date": "2025-04-22",
+      "time": "08:08:39",
+      "speaker": "Ben Carter",
+      "quote": "No you wont",
+      "tags": [
+        "PARTY::DIXON"
+      ],
+      "people": [
+        "PC Dixon"
+      ],
+      "evidence_links": {
+        "chat_filename": "_chat 39.txt",
+        "timecode_start": "08:08:39",
+        "timecode_end": null,
+        "transcript_alignment_confidence": "high (chat timestamp)"
+      }
+    },
+    {
+      "vex_id": "A09-L0033",
+      "line_index": 33,
+      "timestamp_utc": "2025-04-22T08:09:57Z",
+      "date": "2025-04-22",
+      "time": "08:09:57",
+      "speaker": "Ben Carter",
+      "quote": "An officer that tells someone off hearing their voice after taking their life that has resorted to their own safeguarding",
+      "tags": [
+        "PARTY::DIXON"
+      ],
+      "people": [
+        "PC Dixon"
+      ],
+      "evidence_links": {
+        "chat_filename": "_chat 39.txt",
+        "timecode_start": "08:09:57",
+        "timecode_end": null,
+        "transcript_alignment_confidence": "high (chat timestamp)"
+      }
+    },
+    {
+      "vex_id": "A09-L0034",
+      "line_index": 34,
+      "timestamp_utc": "2025-04-22T08:10:09Z",
+      "date": "2025-04-22",
+      "time": "08:10:09",
+      "speaker": "Ben Carter",
+      "quote": "Why was i told this",
+      "tags": [
+        "PARTY::DIXON"
+      ],
+      "people": [
+        "PC Dixon"
+      ],
+      "evidence_links": {
+        "chat_filename": "_chat 39.txt",
+        "timecode_start": "08:10:09",
+        "timecode_end": null,
+        "transcript_alignment_confidence": "high (chat timestamp)"
+      }
+    },
+    {
+      "vex_id": "A09-L0035",
+      "line_index": 35,
+      "timestamp_utc": "2025-04-22T08:10:30Z",
+      "date": "2025-04-22",
+      "time": "08:10:30",
+      "speaker": "Ben Carter",
+      "quote": "It was recorded",
+      "tags": [
+        "PARTY::DIXON"
+      ],
+      "people": [
+        "PC Dixon"
+      ],
+      "evidence_links": {
+        "chat_filename": "_chat 39.txt",
+        "timecode_start": "08:10:30",
+        "timecode_end": null,
+        "transcript_alignment_confidence": "high (chat timestamp)"
+      }
+    },
+    {
+      "vex_id": "A09-L0036",
+      "line_index": 36,
+      "timestamp_utc": "2025-04-22T08:10:51Z",
+      "date": "2025-04-22",
+      "time": "08:10:51",
+      "speaker": "PC Dixon",
+      "quote": "I said that going on her Instagram would not help you mental health, and has no bearing on the case against her. If anything it would evidence stalking type behaviour from you towards her",
+      "tags": [
+        "PARTY::DIXON",
+        "RECORDS::SOCIAL_MEDIA_INSTAGRAM"
+      ],
+      "people": [
+        "PC Dixon"
+      ],
+      "evidence_links": {
+        "chat_filename": "_chat 39.txt",
+        "timecode_start": "08:10:51",
+        "timecode_end": null,
+        "transcript_alignment_confidence": "high (chat timestamp)"
+      }
+    },
+    {
+      "vex_id": "A09-L0038",
+      "line_index": 38,
+      "timestamp_utc": "2025-04-22T08:11:43Z",
+      "date": "2025-04-22",
+      "time": "08:11:43",
+      "speaker": "Ben Carter",
+      "quote": "Nope",
+      "tags": [
+        "PARTY::DIXON"
+      ],
+      "people": [
+        "PC Dixon"
+      ],
+      "evidence_links": {
+        "chat_filename": "_chat 39.txt",
+        "timecode_start": "08:11:43",
+        "timecode_end": null,
+        "transcript_alignment_confidence": "high (chat timestamp)"
+      }
+    },
+    {
+      "vex_id": "A09-L0039",
+      "line_index": 39,
+      "timestamp_utc": "2025-04-22T08:12:26Z",
+      "date": "2025-04-22",
+      "time": "08:12:26",
+      "speaker": "Ben Carter",
+      "quote": "The pattern now is no reply",
+      "tags": [
+        "PARTY::DIXON"
+      ],
+      "people": [
+        "PC Dixon"
+      ],
+      "evidence_links": {
+        "chat_filename": "_chat 39.txt",
+        "timecode_start": "08:12:26",
+        "timecode_end": null,
+        "transcript_alignment_confidence": "high (chat timestamp)"
+      }
+    },
+    {
+      "vex_id": "A09-L0040",
+      "line_index": 40,
+      "timestamp_utc": "2025-04-22T08:13:23Z",
+      "date": "2025-04-22",
+      "time": "08:13:23",
+      "speaker": "Ben Carter",
+      "quote": "Mental health was never my case",
+      "tags": [
+        "PARTY::DIXON"
+      ],
+      "people": [
+        "PC Dixon"
+      ],
+      "evidence_links": {
+        "chat_filename": "_chat 39.txt",
+        "timecode_start": "08:13:23",
+        "timecode_end": null,
+        "transcript_alignment_confidence": "high (chat timestamp)"
+      }
+    },
+    {
+      "vex_id": "A09-L0041",
+      "line_index": 41,
+      "timestamp_utc": "2025-04-22T08:14:21Z",
+      "date": "2025-04-22",
+      "time": "08:14:21",
+      "speaker": "PC Dixon",
+      "quote": "Yes a further statement was done with you and we are awaiting the medical letter.",
+      "tags": [
+        "PARTY::DIXON",
+        "RECORDS::MEDICAL_LETTER"
+      ],
+      "people": [
+        "PC Dixon"
+      ],
+      "evidence_links": {
+        "chat_filename": "_chat 39.txt",
+        "timecode_start": "08:14:21",
+        "timecode_end": null,
+        "transcript_alignment_confidence": "high (chat timestamp)"
+      }
+    },
+    {
+      "vex_id": "A09-L0042",
+      "line_index": 42,
+      "timestamp_utc": "2025-04-22T08:14:41Z",
+      "date": "2025-04-22",
+      "time": "08:14:41",
+      "speaker": "Ben Carter",
+      "quote": "You asked me to go on her instagram",
+      "tags": [
+        "PARTY::DIXON",
+        "RECORDS::SOCIAL_MEDIA_INSTAGRAM"
+      ],
+      "people": [
+        "PC Dixon"
+      ],
+      "evidence_links": {
+        "chat_filename": "_chat 39.txt",
+        "timecode_start": "08:14:41",
+        "timecode_end": null,
+        "transcript_alignment_confidence": "high (chat timestamp)"
+      }
+    },
+    {
+      "vex_id": "A09-L0043",
+      "line_index": 43,
+      "timestamp_utc": "2025-04-22T08:15:25Z",
+      "date": "2025-04-22",
+      "time": "08:15:25",
+      "speaker": "PC Dixon",
+      "quote": "No I didn't",
+      "tags": [
+        "PARTY::DIXON"
+      ],
+      "people": [
+        "PC Dixon"
+      ],
+      "evidence_links": {
+        "chat_filename": "_chat 39.txt",
+        "timecode_start": "08:15:25",
+        "timecode_end": null,
+        "transcript_alignment_confidence": "high (chat timestamp)"
+      }
+    },
+    {
+      "vex_id": "A09-L0044",
+      "line_index": 44,
+      "timestamp_utc": "2025-04-22T08:16:22Z",
+      "date": "2025-04-22",
+      "time": "08:16:22",
+      "speaker": "Ben Carter",
+      "quote": "Can you please read evidence",
+      "tags": [
+        "PARTY::DIXON"
+      ],
+      "people": [
+        "PC Dixon"
+      ],
+      "evidence_links": {
+        "chat_filename": "_chat 39.txt",
+        "timecode_start": "08:16:22",
+        "timecode_end": null,
+        "transcript_alignment_confidence": "high (chat timestamp)"
+      }
+    },
+    {
+      "vex_id": "A09-L0045",
+      "line_index": 45,
+      "timestamp_utc": "2025-04-22T08:16:31Z",
+      "date": "2025-04-22",
+      "time": "08:16:31",
+      "speaker": "Ben Carter",
+      "quote": "Such as that screen shot",
+      "tags": [
+        "PARTY::DIXON"
+      ],
+      "people": [
+        "PC Dixon"
+      ],
+      "evidence_links": {
+        "chat_filename": "_chat 39.txt",
+        "timecode_start": "08:16:31",
+        "timecode_end": null,
+        "transcript_alignment_confidence": "high (chat timestamp)"
+      }
+    },
+    {
+      "vex_id": "A09-L0046",
+      "line_index": 46,
+      "timestamp_utc": "2025-04-22T08:18:33Z",
+      "date": "2025-04-22",
+      "time": "08:18:33",
+      "speaker": "PC Dixon",
+      "quote": "You said you had previously gone on her Instagram, I said that you could mention this in a statement as it's something that's already happened. I said that you should avoid looking at her Instagram in the future if it is affecting you, I didnt ask you to go on her Instagram again",
+      "tags": [
+        "PARTY::DIXON",
+        "RECORDS::SOCIAL_MEDIA_INSTAGRAM"
+      ],
+      "people": [
+        "PC Dixon"
+      ],
+      "evidence_links": {
+        "chat_filename": "_chat 39.txt",
+        "timecode_start": "08:18:33",
+        "timecode_end": null,
+        "transcript_alignment_confidence": "high (chat timestamp)"
+      }
+    },
+    {
+      "vex_id": "A09-L0047",
+      "line_index": 47,
+      "timestamp_utc": "2025-04-22T08:18:38Z",
+      "date": "2025-04-22",
+      "time": "08:18:38",
+      "speaker": "Ben Carter",
+      "quote": "Providing 2 nice links, that date back to when we met?",
+      "tags": [
+        "PARTY::DIXON",
+        "RECORDS::NICE_LINKS"
+      ],
+      "people": [
+        "PC Dixon"
+      ],
+      "evidence_links": {
+        "chat_filename": "_chat 39.txt",
+        "timecode_start": "08:18:38",
+        "timecode_end": null,
+        "transcript_alignment_confidence": "high (chat timestamp)"
+      }
+    },
+    {
+      "vex_id": "A09-L0048",
+      "line_index": 48,
+      "timestamp_utc": "2025-04-22T08:19:05Z",
+      "date": "2025-04-22",
+      "time": "08:19:05",
+      "speaker": "Ben Carter",
+      "quote": "But how would i collect evidence?",
+      "tags": [
+        "PARTY::DIXON"
+      ],
+      "people": [
+        "PC Dixon"
+      ],
+      "evidence_links": {
+        "chat_filename": "_chat 39.txt",
+        "timecode_start": "08:19:05",
+        "timecode_end": null,
+        "transcript_alignment_confidence": "high (chat timestamp)"
+      }
+    },
+    {
+      "vex_id": "A09-L0049",
+      "line_index": 49,
+      "timestamp_utc": "2025-04-22T08:19:42Z",
+      "date": "2025-04-22",
+      "time": "08:19:42",
+      "speaker": "PC Dixon",
+      "quote": "I sent you more links after the phone call. I asked you to provide the medical letter from your GP, that would evidence the S4a offence",
+      "tags": [
+        "LAW::PHA_S4A",
+        "PARTY::DIXON",
+        "RECORDS::MEDICAL_LETTER"
+      ],
+      "people": [
+        "PC Dixon"
+      ],
+      "evidence_links": {
+        "chat_filename": "_chat 39.txt",
+        "timecode_start": "08:19:42",
+        "timecode_end": null,
+        "transcript_alignment_confidence": "high (chat timestamp)"
+      }
+    },
+    {
+      "vex_id": "A09-L0050",
+      "line_index": 50,
+      "timestamp_utc": "2025-04-22T08:19:54Z",
+      "date": "2025-04-22",
+      "time": "08:19:54",
+      "speaker": "Ben Carter",
+      "quote": "When did you tell me not to then",
+      "tags": [
+        "PARTY::DIXON"
+      ],
+      "people": [
+        "PC Dixon"
+      ],
+      "evidence_links": {
+        "chat_filename": "_chat 39.txt",
+        "timecode_start": "08:19:54",
+        "timecode_end": null,
+        "transcript_alignment_confidence": "high (chat timestamp)"
+      }
+    },
+    {
+      "vex_id": "A09-L0051",
+      "line_index": 51,
+      "timestamp_utc": "2025-04-22T08:20:09Z",
+      "date": "2025-04-22",
+      "time": "08:20:09",
+      "speaker": "PC Dixon",
+      "quote": "And any communications that you don't think you have already sent to us",
+      "tags": [
+        "PARTY::DIXON"
+      ],
+      "people": [
+        "PC Dixon"
+      ],
+      "evidence_links": {
+        "chat_filename": "_chat 39.txt",
+        "timecode_start": "08:20:09",
+        "timecode_end": null,
+        "transcript_alignment_confidence": "high (chat timestamp)"
+      }
+    },
+    {
+      "vex_id": "A09-L0052",
+      "line_index": 52,
+      "timestamp_utc": "2025-04-22T08:20:33Z",
+      "date": "2025-04-22",
+      "time": "08:20:33",
+      "speaker": "PC Dixon",
+      "quote": "Other links have been sent to you by myself and a previous officer which have not been replied to",
+      "tags": [
+        "PARTY::DIXON"
+      ],
+      "people": [
+        "PC Dixon"
+      ],
+      "evidence_links": {
+        "chat_filename": "_chat 39.txt",
+        "timecode_start": "08:20:33",
+        "timecode_end": null,
+        "transcript_alignment_confidence": "high (chat timestamp)"
+      }
+    },
+    {
+      "vex_id": "A09-L0053",
+      "line_index": 53,
+      "timestamp_utc": "2025-04-22T08:20:53Z",
+      "date": "2025-04-22",
+      "time": "08:20:53",
+      "speaker": "Ben Carter",
+      "quote": "Ok thats all i need thankyou",
+      "tags": [
+        "PARTY::DIXON"
+      ],
+      "people": [
+        "PC Dixon"
+      ],
+      "evidence_links": {
+        "chat_filename": "_chat 39.txt",
+        "timecode_start": "08:20:53",
+        "timecode_end": null,
+        "transcript_alignment_confidence": "high (chat timestamp)"
+      }
+    },
+    {
+      "vex_id": "A09-L0054",
+      "line_index": 54,
+      "timestamp_utc": "2025-04-22T08:21:46Z",
+      "date": "2025-04-22",
+      "time": "08:21:46",
+      "speaker": "Ben Carter",
+      "quote": "As this is now confirmed, by yourself included (not saying what)",
+      "tags": [
+        "PARTY::DIXON"
+      ],
+      "people": [
+        "PC Dixon"
+      ],
+      "evidence_links": {
+        "chat_filename": "_chat 39.txt",
+        "timecode_start": "08:21:46",
+        "timecode_end": null,
+        "transcript_alignment_confidence": "high (chat timestamp)"
+      }
+    },
+    {
+      "vex_id": "A09-L0055",
+      "line_index": 55,
+      "timestamp_utc": "2025-04-22T08:21:58Z",
+      "date": "2025-04-22",
+      "time": "08:21:58",
+      "speaker": "PC Dixon",
+      "quote": "Have you obtained the medical letter?",
+      "tags": [
+        "PARTY::DIXON",
+        "RECORDS::MEDICAL_LETTER"
+      ],
+      "people": [
+        "PC Dixon"
+      ],
+      "evidence_links": {
+        "chat_filename": "_chat 39.txt",
+        "timecode_start": "08:21:58",
+        "timecode_end": null,
+        "transcript_alignment_confidence": "high (chat timestamp)"
+      }
+    },
+    {
+      "vex_id": "A09-L0056",
+      "line_index": 56,
+      "timestamp_utc": "2025-04-22T08:22:01Z",
+      "date": "2025-04-22",
+      "time": "08:22:01",
+      "speaker": "Ben Carter",
+      "quote": "My case is my evidence",
+      "tags": [
+        "PARTY::DIXON"
+      ],
+      "people": [
+        "PC Dixon"
+      ],
+      "evidence_links": {
+        "chat_filename": "_chat 39.txt",
+        "timecode_start": "08:22:01",
+        "timecode_end": null,
+        "transcript_alignment_confidence": "high (chat timestamp)"
+      }
+    },
+    {
+      "vex_id": "A09-L0057",
+      "line_index": 57,
+      "timestamp_utc": "2025-04-22T08:22:27Z",
+      "date": "2025-04-22",
+      "time": "08:22:27",
+      "speaker": "Ben Carter",
+      "quote": "I dont want this case you\u2019ve dealt with",
+      "tags": [
+        "PARTY::DIXON"
+      ],
+      "people": [
+        "PC Dixon"
+      ],
+      "evidence_links": {
+        "chat_filename": "_chat 39.txt",
+        "timecode_start": "08:22:27",
+        "timecode_end": null,
+        "transcript_alignment_confidence": "high (chat timestamp)"
+      }
+    },
+    {
+      "vex_id": "A09-L0058",
+      "line_index": 58,
+      "timestamp_utc": "2025-04-22T08:23:05Z",
+      "date": "2025-04-22",
+      "time": "08:23:05",
+      "speaker": "Ben Carter",
+      "quote": "Have you logged my suicide and gone in holiday with all your senior officer back today",
+      "tags": [
+        "PARTY::DIXON",
+        "RISK::SUICIDE_REF"
+      ],
+      "people": [
+        "PC Dixon"
+      ],
+      "evidence_links": {
+        "chat_filename": "_chat 39.txt",
+        "timecode_start": "08:23:05",
+        "timecode_end": null,
+        "transcript_alignment_confidence": "high (chat timestamp)"
+      }
+    },
+    {
+      "vex_id": "A09-L0059",
+      "line_index": 59,
+      "timestamp_utc": "2025-04-22T08:23:37Z",
+      "date": "2025-04-22",
+      "time": "08:23:37",
+      "speaker": "Ben Carter",
+      "quote": "I called 999 and said police plaease",
+      "tags": [
+        "PARTY::DIXON"
+      ],
+      "people": [
+        "PC Dixon"
+      ],
+      "evidence_links": {
+        "chat_filename": "_chat 39.txt",
+        "timecode_start": "08:23:37",
+        "timecode_end": null,
+        "transcript_alignment_confidence": "high (chat timestamp)"
+      }
+    },
+    {
+      "vex_id": "A09-L0060",
+      "line_index": 60,
+      "timestamp_utc": "2025-04-22T08:23:59Z",
+      "date": "2025-04-22",
+      "time": "08:23:59",
+      "speaker": "Ben Carter",
+      "quote": "I dont want you anywhere near my case",
+      "tags": [
+        "PARTY::DIXON"
+      ],
+      "people": [
+        "PC Dixon"
+      ],
+      "evidence_links": {
+        "chat_filename": "_chat 39.txt",
+        "timecode_start": "08:23:59",
+        "timecode_end": null,
+        "transcript_alignment_confidence": "high (chat timestamp)"
+      }
+    },
+    {
+      "vex_id": "A09-L0061",
+      "line_index": 61,
+      "timestamp_utc": "2025-04-22T08:24:21Z",
+      "date": "2025-04-22",
+      "time": "08:24:21",
+      "speaker": "Ben Carter",
+      "quote": "I know my rights",
+      "tags": [
+        "PARTY::DIXON"
+      ],
+      "people": [
+        "PC Dixon"
+      ],
+      "evidence_links": {
+        "chat_filename": "_chat 39.txt",
+        "timecode_start": "08:24:21",
+        "timecode_end": null,
+        "transcript_alignment_confidence": "high (chat timestamp)"
+      }
+    },
+    {
+      "vex_id": "A09-L0062",
+      "line_index": 62,
+      "timestamp_utc": "2025-04-22T08:24:31Z",
+      "date": "2025-04-22",
+      "time": "08:24:31",
+      "speaker": "Ben Carter",
+      "quote": "Dont try and scew them",
+      "tags": [
+        "PARTY::DIXON"
+      ],
+      "people": [
+        "PC Dixon"
+      ],
+      "evidence_links": {
+        "chat_filename": "_chat 39.txt",
+        "timecode_start": "08:24:31",
+        "timecode_end": null,
+        "transcript_alignment_confidence": "high (chat timestamp)"
+      }
+    },
+    {
+      "vex_id": "A09-L0063",
+      "line_index": 63,
+      "timestamp_utc": "2025-04-22T08:24:37Z",
+      "date": "2025-04-22",
+      "time": "08:24:37",
+      "speaker": "Ben Carter",
+      "quote": "Its pathetic",
+      "tags": [
+        "PARTY::DIXON"
+      ],
+      "people": [
+        "PC Dixon"
+      ],
+      "evidence_links": {
+        "chat_filename": "_chat 39.txt",
+        "timecode_start": "08:24:37",
+        "timecode_end": null,
+        "transcript_alignment_confidence": "high (chat timestamp)"
+      }
+    },
+    {
+      "vex_id": "A09-L0064",
+      "line_index": 64,
+      "timestamp_utc": "2025-04-22T08:25:32Z",
+      "date": "2025-04-22",
+      "time": "08:25:32",
+      "speaker": "PC Dixon",
+      "quote": "Unless you provide the evidence as I have asked multiple times now the case file will be unable to be finished, whoever is dealing with it I m afraid",
+      "tags": [
+        "PARTY::DIXON"
+      ],
+      "people": [
+        "PC Dixon"
+      ],
+      "evidence_links": {
+        "chat_filename": "_chat 39.txt",
+        "timecode_start": "08:25:32",
+        "timecode_end": null,
+        "transcript_alignment_confidence": "high (chat timestamp)"
+      }
+    },
+    {
+      "vex_id": "A09-L0065",
+      "line_index": 65,
+      "timestamp_utc": "2025-04-22T08:25:32Z",
+      "date": "2025-04-22",
+      "time": "08:25:32",
+      "speaker": "Ben Carter",
+      "quote": "Would you say i\u2019ve been safeguarded by you",
+      "tags": [
+        "PARTY::DIXON"
+      ],
+      "people": [
+        "PC Dixon"
+      ],
+      "evidence_links": {
+        "chat_filename": "_chat 39.txt",
+        "timecode_start": "08:25:32",
+        "timecode_end": null,
+        "transcript_alignment_confidence": "high (chat timestamp)"
+      }
+    },
+    {
+      "vex_id": "A09-L0066",
+      "line_index": 66,
+      "timestamp_utc": "2025-04-22T08:25:50Z",
+      "date": "2025-04-22",
+      "time": "08:25:50",
+      "speaker": "Ben Carter",
+      "quote": "This is not the law",
+      "tags": [
+        "PARTY::DIXON"
+      ],
+      "people": [
+        "PC Dixon"
+      ],
+      "evidence_links": {
+        "chat_filename": "_chat 39.txt",
+        "timecode_start": "08:25:50",
+        "timecode_end": null,
+        "transcript_alignment_confidence": "high (chat timestamp)"
+      }
+    },
+    {
+      "vex_id": "A09-L0067",
+      "line_index": 67,
+      "timestamp_utc": "2025-04-22T08:26:10Z",
+      "date": "2025-04-22",
+      "time": "08:26:10",
+      "speaker": "Ben Carter",
+      "quote": "You can form a defence from that",
+      "tags": [
+        "PARTY::DIXON"
+      ],
+      "people": [
+        "PC Dixon"
+      ],
+      "evidence_links": {
+        "chat_filename": "_chat 39.txt",
+        "timecode_start": "08:26:10",
+        "timecode_end": null,
+        "transcript_alignment_confidence": "high (chat timestamp)"
+      }
+    },
+    {
+      "vex_id": "A09-L0068",
+      "line_index": 68,
+      "timestamp_utc": "2025-04-22T08:26:29Z",
+      "date": "2025-04-22",
+      "time": "08:26:29",
+      "speaker": "Ben Carter",
+      "quote": "I am saying you are corrupt",
+      "tags": [
+        "PARTY::DIXON"
+      ],
+      "people": [
+        "PC Dixon"
+      ],
+      "evidence_links": {
+        "chat_filename": "_chat 39.txt",
+        "timecode_start": "08:26:29",
+        "timecode_end": null,
+        "transcript_alignment_confidence": "high (chat timestamp)"
+      }
+    },
+    {
+      "vex_id": "A09-L0069",
+      "line_index": 69,
+      "timestamp_utc": "2025-04-22T08:26:50Z",
+      "date": "2025-04-22",
+      "time": "08:26:50",
+      "speaker": "Ben Carter",
+      "quote": "Therefore you are now my suspect",
+      "tags": [
+        "PARTY::DIXON"
+      ],
+      "people": [
+        "PC Dixon"
+      ],
+      "evidence_links": {
+        "chat_filename": "_chat 39.txt",
+        "timecode_start": "08:26:50",
+        "timecode_end": null,
+        "transcript_alignment_confidence": "high (chat timestamp)"
+      }
+    },
+    {
+      "vex_id": "A09-L0070",
+      "line_index": 70,
+      "timestamp_utc": "2025-04-22T08:27:02Z",
+      "date": "2025-04-22",
+      "time": "08:27:02",
+      "speaker": "Ben Carter",
+      "quote": "And the file is my evidence",
+      "tags": [
+        "PARTY::DIXON"
+      ],
+      "people": [
+        "PC Dixon"
+      ],
+      "evidence_links": {
+        "chat_filename": "_chat 39.txt",
+        "timecode_start": "08:27:02",
+        "timecode_end": null,
+        "transcript_alignment_confidence": "high (chat timestamp)"
+      }
+    },
+    {
+      "vex_id": "A09-L0071",
+      "line_index": 71,
+      "timestamp_utc": "2025-04-22T08:27:12Z",
+      "date": "2025-04-22",
+      "time": "08:27:12",
+      "speaker": "Ben Carter",
+      "quote": "I need safeguarding by law",
+      "tags": [
+        "PARTY::DIXON"
+      ],
+      "people": [
+        "PC Dixon"
+      ],
+      "evidence_links": {
+        "chat_filename": "_chat 39.txt",
+        "timecode_start": "08:27:12",
+        "timecode_end": null,
+        "transcript_alignment_confidence": "high (chat timestamp)"
+      }
+    },
+    {
+      "vex_id": "A09-L0072",
+      "line_index": 72,
+      "timestamp_utc": "2025-04-22T08:27:45Z",
+      "date": "2025-04-22",
+      "time": "08:27:45",
+      "speaker": "Ben Carter",
+      "quote": "Escalate this.",
+      "tags": [
+        "PARTY::DIXON"
+      ],
+      "people": [
+        "PC Dixon"
+      ],
+      "evidence_links": {
+        "chat_filename": "_chat 39.txt",
+        "timecode_start": "08:27:45",
+        "timecode_end": null,
+        "transcript_alignment_confidence": "high (chat timestamp)"
+      }
+    },
+    {
+      "vex_id": "A09-L0073",
+      "line_index": 73,
+      "timestamp_utc": "2025-04-22T08:27:49Z",
+      "date": "2025-04-22",
+      "time": "08:27:49",
+      "speaker": "Ben Carter",
+      "quote": "Sergeant Duffy",
+      "tags": [
+        "PARTY::DIXON",
+        "PARTY::DUFFY"
+      ],
+      "people": [
+        "PC Dixon",
+        "Sgt Duffy"
+      ],
+      "evidence_links": {
+        "chat_filename": "_chat 39.txt",
+        "timecode_start": "08:27:49",
+        "timecode_end": null,
+        "transcript_alignment_confidence": "high (chat timestamp)"
+      }
+    },
+    {
+      "vex_id": "A09-L0074",
+      "line_index": 74,
+      "timestamp_utc": "2025-04-22T08:27:57Z",
+      "date": "2025-04-22",
+      "time": "08:27:57",
+      "speaker": "Ben Carter",
+      "quote": "Inspector Palmer",
+      "tags": [
+        "PARTY::DIXON",
+        "PARTY::PALMER"
+      ],
+      "people": [
+        "Inspector Palmer",
+        "PC Dixon"
+      ],
+      "evidence_links": {
+        "chat_filename": "_chat 39.txt",
+        "timecode_start": "08:27:57",
+        "timecode_end": null,
+        "transcript_alignment_confidence": "high (chat timestamp)"
+      }
+    },
+    {
+      "vex_id": "A09-L0075",
+      "line_index": 75,
+      "timestamp_utc": "2025-04-22T08:28:03Z",
+      "date": "2025-04-22",
+      "time": "08:28:03",
+      "speaker": "Ben Carter",
+      "quote": "All back today",
+      "tags": [
+        "PARTY::DIXON"
+      ],
+      "people": [
+        "PC Dixon"
+      ],
+      "evidence_links": {
+        "chat_filename": "_chat 39.txt",
+        "timecode_start": "08:28:03",
+        "timecode_end": null,
+        "transcript_alignment_confidence": "high (chat timestamp)"
+      }
+    },
+    {
+      "vex_id": "A09-L0076",
+      "line_index": 76,
+      "timestamp_utc": "2025-04-22T08:28:14Z",
+      "date": "2025-04-22",
+      "time": "08:28:14",
+      "speaker": "Ben Carter",
+      "quote": "I can finally be safeguarded",
+      "tags": [
+        "PARTY::DIXON"
+      ],
+      "people": [
+        "PC Dixon"
+      ],
+      "evidence_links": {
+        "chat_filename": "_chat 39.txt",
+        "timecode_start": "08:28:14",
+        "timecode_end": null,
+        "transcript_alignment_confidence": "high (chat timestamp)"
+      }
+    },
+    {
+      "vex_id": "A09-L0077",
+      "line_index": 77,
+      "timestamp_utc": "2025-04-22T08:28:45Z",
+      "date": "2025-04-22",
+      "time": "08:28:45",
+      "speaker": "PC Dixon",
+      "quote": "Ben, as I have said we can speak on the phone or arrange to speak if you would like a proper conversation. I am currently dealing with a prisoner in custody and also have 41 cases to look at. I am happy to discuss with you but typing on messages is not a fluid conversation",
+      "tags": [
+        "PARTY::DIXON",
+        "RECORDS::WORKLOAD_STATEMENT"
+      ],
+      "people": [
+        "PC Dixon"
+      ],
+      "evidence_links": {
+        "chat_filename": "_chat 39.txt",
+        "timecode_start": "08:28:45",
+        "timecode_end": null,
+        "transcript_alignment_confidence": "high (chat timestamp)"
+      }
+    },
+    {
+      "vex_id": "A09-L0078",
+      "line_index": 78,
+      "timestamp_utc": "2025-04-22T08:28:49Z",
+      "date": "2025-04-22",
+      "time": "08:28:49",
+      "speaker": "Ben Carter",
+      "quote": "No",
+      "tags": [
+        "PARTY::DIXON"
+      ],
+      "people": [
+        "PC Dixon"
+      ],
+      "evidence_links": {
+        "chat_filename": "_chat 39.txt",
+        "timecode_start": "08:28:49",
+        "timecode_end": null,
+        "transcript_alignment_confidence": "high (chat timestamp)"
+      }
+    },
+    {
+      "vex_id": "A09-L0079",
+      "line_index": 79,
+      "timestamp_utc": "2025-04-22T08:29:01Z",
+      "date": "2025-04-22",
+      "time": "08:29:01",
+      "speaker": "Ben Carter",
+      "quote": "Evidence",
+      "tags": [
+        "PARTY::DIXON"
+      ],
+      "people": [
+        "PC Dixon"
+      ],
+      "evidence_links": {
+        "chat_filename": "_chat 39.txt",
+        "timecode_start": "08:29:01",
+        "timecode_end": null,
+        "transcript_alignment_confidence": "high (chat timestamp)"
+      }
+    },
+    {
+      "vex_id": "A09-L0080",
+      "line_index": 80,
+      "timestamp_utc": "2025-04-22T08:29:30Z",
+      "date": "2025-04-22",
+      "time": "08:29:30",
+      "speaker": "Ben Carter",
+      "quote": "Proper conversations were alannas tacticks",
+      "tags": [
+        "PARTY::DIXON"
+      ],
+      "people": [
+        "PC Dixon"
+      ],
+      "evidence_links": {
+        "chat_filename": "_chat 39.txt",
+        "timecode_start": "08:29:30",
+        "timecode_end": null,
+        "transcript_alignment_confidence": "high (chat timestamp)"
+      }
+    },
+    {
+      "vex_id": "A09-L0081",
+      "line_index": 81,
+      "timestamp_utc": "2025-04-22T08:29:37Z",
+      "date": "2025-04-22",
+      "time": "08:29:37",
+      "speaker": "Ben Carter",
+      "quote": "We can talk here",
+      "tags": [
+        "PARTY::DIXON"
+      ],
+      "people": [
+        "PC Dixon"
+      ],
+      "evidence_links": {
+        "chat_filename": "_chat 39.txt",
+        "timecode_start": "08:29:37",
+        "timecode_end": null,
+        "transcript_alignment_confidence": "high (chat timestamp)"
+      }
+    },
+    {
+      "vex_id": "A09-L0082",
+      "line_index": 82,
+      "timestamp_utc": "2025-04-22T08:29:53Z",
+      "date": "2025-04-22",
+      "time": "08:29:53",
+      "speaker": "Ben Carter",
+      "quote": "Deflection",
+      "tags": [
+        "PARTY::DIXON"
+      ],
+      "people": [
+        "PC Dixon"
+      ],
+      "evidence_links": {
+        "chat_filename": "_chat 39.txt",
+        "timecode_start": "08:29:53",
+        "timecode_end": null,
+        "transcript_alignment_confidence": "high (chat timestamp)"
+      }
+    },
+    {
+      "vex_id": "A09-L0083",
+      "line_index": 83,
+      "timestamp_utc": "2025-04-22T08:30:17Z",
+      "date": "2025-04-22",
+      "time": "08:30:17",
+      "speaker": "Ben Carter",
+      "quote": "Didnt log my suicide and left no safeguarding",
+      "tags": [
+        "PARTY::DIXON",
+        "RISK::SUICIDE_REF"
+      ],
+      "people": [
+        "PC Dixon"
+      ],
+      "evidence_links": {
+        "chat_filename": "_chat 39.txt",
+        "timecode_start": "08:30:17",
+        "timecode_end": null,
+        "transcript_alignment_confidence": "high (chat timestamp)"
+      }
+    },
+    {
+      "vex_id": "A09-L0084",
+      "line_index": 84,
+      "timestamp_utc": "2025-04-22T08:30:29Z",
+      "date": "2025-04-22",
+      "time": "08:30:29",
+      "speaker": "Ben Carter",
+      "quote": "Leave those poor people along",
+      "tags": [
+        "PARTY::DIXON"
+      ],
+      "people": [
+        "PC Dixon"
+      ],
+      "evidence_links": {
+        "chat_filename": "_chat 39.txt",
+        "timecode_start": "08:30:29",
+        "timecode_end": null,
+        "transcript_alignment_confidence": "high (chat timestamp)"
+      }
+    },
+    {
+      "vex_id": "A09-L0085",
+      "line_index": 85,
+      "timestamp_utc": "2025-04-22T08:31:02Z",
+      "date": "2025-04-22",
+      "time": "08:31:02",
+      "speaker": "Ben Carter",
+      "quote": "I have it all",
+      "tags": [
+        "PARTY::DIXON"
+      ],
+      "people": [
+        "PC Dixon"
+      ],
+      "evidence_links": {
+        "chat_filename": "_chat 39.txt",
+        "timecode_start": "08:31:02",
+        "timecode_end": null,
+        "transcript_alignment_confidence": "high (chat timestamp)"
+      }
+    },
+    {
+      "vex_id": "A09-L0086",
+      "line_index": 86,
+      "timestamp_utc": "2025-04-22T08:31:14Z",
+      "date": "2025-04-22",
+      "time": "08:31:14",
+      "speaker": "Ben Carter",
+      "quote": "I\u2019m giving you nothing",
+      "tags": [
+        "PARTY::DIXON"
+      ],
+      "people": [
+        "PC Dixon"
+      ],
+      "evidence_links": {
+        "chat_filename": "_chat 39.txt",
+        "timecode_start": "08:31:14",
+        "timecode_end": null,
+        "transcript_alignment_confidence": "high (chat timestamp)"
+      }
+    },
+    {
+      "vex_id": "A09-L0087",
+      "line_index": 87,
+      "timestamp_utc": "2025-04-22T08:31:34Z",
+      "date": "2025-04-22",
+      "time": "08:31:34",
+      "speaker": "Ben Carter",
+      "quote": "Alannas now here",
+      "tags": [
+        "PARTY::DIXON"
+      ],
+      "people": [
+        "PC Dixon"
+      ],
+      "evidence_links": {
+        "chat_filename": "_chat 39.txt",
+        "timecode_start": "08:31:34",
+        "timecode_end": null,
+        "transcript_alignment_confidence": "high (chat timestamp)"
+      }
+    },
+    {
+      "vex_id": "A09-L0088",
+      "line_index": 88,
+      "timestamp_utc": "2025-04-22T08:31:42Z",
+      "date": "2025-04-22",
+      "time": "08:31:42",
+      "speaker": "Ben Carter",
+      "quote": "Gloating",
+      "tags": [
+        "PARTY::DIXON"
+      ],
+      "people": [
+        "PC Dixon"
+      ],
+      "evidence_links": {
+        "chat_filename": "_chat 39.txt",
+        "timecode_start": "08:31:42",
+        "timecode_end": null,
+        "transcript_alignment_confidence": "high (chat timestamp)"
+      }
+    },
+    {
+      "vex_id": "A09-L0089",
+      "line_index": 89,
+      "timestamp_utc": "2025-04-22T08:31:49Z",
+      "date": "2025-04-22",
+      "time": "08:31:49",
+      "speaker": "Ben Carter",
+      "quote": "Your doing",
+      "tags": [
+        "PARTY::DIXON"
+      ],
+      "people": [
+        "PC Dixon"
+      ],
+      "evidence_links": {
+        "chat_filename": "_chat 39.txt",
+        "timecode_start": "08:31:49",
+        "timecode_end": null,
+        "transcript_alignment_confidence": "high (chat timestamp)"
+      }
+    },
+    {
+      "vex_id": "A09-L0090",
+      "line_index": 90,
+      "timestamp_utc": "2025-04-22T08:32:24Z",
+      "date": "2025-04-22",
+      "time": "08:32:24",
+      "speaker": "Ben Carter",
+      "quote": "Not perverting the course of justice??",
+      "tags": [
+        "PARTY::DIXON"
+      ],
+      "people": [
+        "PC Dixon"
+      ],
+      "evidence_links": {
+        "chat_filename": "_chat 39.txt",
+        "timecode_start": "08:32:24",
+        "timecode_end": null,
+        "transcript_alignment_confidence": "high (chat timestamp)"
+      }
+    },
+    {
+      "vex_id": "A09-L0091",
+      "line_index": 91,
+      "timestamp_utc": "2025-04-22T08:32:35Z",
+      "date": "2025-04-22",
+      "time": "08:32:35",
+      "speaker": "Ben Carter",
+      "quote": "And can mention it in court",
+      "tags": [
+        "PARTY::DIXON"
+      ],
+      "people": [
+        "PC Dixon"
+      ],
+      "evidence_links": {
+        "chat_filename": "_chat 39.txt",
+        "timecode_start": "08:32:35",
+        "timecode_end": null,
+        "transcript_alignment_confidence": "high (chat timestamp)"
+      }
+    },
+    {
+      "vex_id": "A09-L0092",
+      "line_index": 92,
+      "timestamp_utc": "2025-04-22T08:33:00Z",
+      "date": "2025-04-22",
+      "time": "08:33:00",
+      "speaker": "Ben Carter",
+      "quote": "I know my rights",
+      "tags": [
+        "PARTY::DIXON"
+      ],
+      "people": [
+        "PC Dixon"
+      ],
+      "evidence_links": {
+        "chat_filename": "_chat 39.txt",
+        "timecode_start": "08:33:00",
+        "timecode_end": null,
+        "transcript_alignment_confidence": "high (chat timestamp)"
+      }
+    },
+    {
+      "vex_id": "A09-L0093",
+      "line_index": 93,
+      "timestamp_utc": "2025-04-22T08:34:43Z",
+      "date": "2025-04-22",
+      "time": "08:34:43",
+      "speaker": "Ben Carter",
+      "quote": "And now the silence",
+      "tags": [
+        "PARTY::DIXON"
+      ],
+      "people": [
+        "PC Dixon"
+      ],
+      "evidence_links": {
+        "chat_filename": "_chat 39.txt",
+        "timecode_start": "08:34:43",
+        "timecode_end": null,
+        "transcript_alignment_confidence": "high (chat timestamp)"
+      }
+    },
+    {
+      "vex_id": "A09-L0094",
+      "line_index": 94,
+      "timestamp_utc": "2025-04-22T08:35:17Z",
+      "date": "2025-04-22",
+      "time": "08:35:17",
+      "speaker": "Ben Carter",
+      "quote": "The pc dixon delection silence",
+      "tags": [
+        "PARTY::DIXON"
+      ],
+      "people": [
+        "PC Dixon"
+      ],
+      "evidence_links": {
+        "chat_filename": "_chat 39.txt",
+        "timecode_start": "08:35:17",
+        "timecode_end": null,
+        "transcript_alignment_confidence": "high (chat timestamp)"
+      }
+    },
+    {
+      "vex_id": "A09-L0095",
+      "line_index": 95,
+      "timestamp_utc": "2025-04-22T08:36:17Z",
+      "date": "2025-04-22",
+      "time": "08:36:17",
+      "speaker": "Ben Carter",
+      "quote": "You do not have my cincent to \u201cfinsh my file\u201d",
+      "tags": [
+        "PARTY::DIXON"
+      ],
+      "people": [
+        "PC Dixon"
+      ],
+      "evidence_links": {
+        "chat_filename": "_chat 39.txt",
+        "timecode_start": "08:36:17",
+        "timecode_end": null,
+        "transcript_alignment_confidence": "high (chat timestamp)"
+      }
+    }
+  ]
+}

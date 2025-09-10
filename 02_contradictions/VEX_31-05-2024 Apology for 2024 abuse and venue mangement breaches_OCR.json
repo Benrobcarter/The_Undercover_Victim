@@ -1,0 +1,25 @@
+{
+  "id": "VEX_31-05-2024 Apology for 2024 abuse and venue mangement breaches_OCR",
+  "type": "evidence",
+  "source": "Smart OCR Ingest",
+  "date": "DATE_NOT_FOUND",
+  "summary": "Auto-ingested from file: 31-05-2024 Apology for 2024 abuse and venue mangement breaches.pdf",
+  "meta": {
+    "original_filename": "31-05-2024 Apology for 2024 abuse and venue mangement breaches.pdf",
+    "ocr_pdf_file": "31-05-2024 Apology for 2024 abuse and venue mangement breaches_ocr.pdf",
+    "ocr_text_file": "31-05-2024 Apology for 2024 abuse and venue mangement breaches.txt",
+    "sha256": "04fa334605c0e85422bc5daf980e017d9864896ddbd14ef1c5ae3c2407790e77",
+    "source_folder": ".",
+    "ingested_on": "2025-09-06T14:18:32.664074",
+    "ingest_method": "ocr_smart"
+  },
+  "links": {
+    "source_file_original": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_unprocessed/31-05-2024 Apology for 2024 abuse and venue mangement breaches.pdf",
+    "ocr_pdf_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_ocrd/31-05-2024 Apology for 2024 abuse and venue mangement breaches_ocr.pdf",
+    "ocr_text_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/text/31-05-2024 Apology for 2024 abuse and venue mangement breaches.txt"
+  },
+  "tags": [
+    "auto_ocr",
+    "2024 apology for 2024 abuse and venue mangement breaches"
+  ]
+}

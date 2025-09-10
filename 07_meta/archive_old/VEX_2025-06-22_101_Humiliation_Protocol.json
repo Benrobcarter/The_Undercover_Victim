@@ -1,0 +1,169 @@
+{
+  "meta": {
+    "evidence_id": "VEX_2025-06-22_101_Humiliation_Protocol",
+    "title": "22-06-2025 — 101 Call: The Humiliation Protocol",
+    "created_at": "2025-08-26T02:00:03.767754+00:00",
+    "type": "Call transcript + analysis (101)",
+    "date_local": "2025-06-22",
+    "parties": [
+      "Ben Carter",
+      "Sussex Police (101 Call Handler)"
+    ],
+    "clusters": [
+      "SUSSEX_POLICE",
+      "101_CALLS",
+      "VICTIM_ERASURE_CONTINUED",
+      "GDPR_MISUSE_FOR_SILENCING",
+      "LOST_EVIDENCE_SUSSEX_POLICE",
+      "DEATH_BY_SILENCE_ESCALATION",
+      "TIMELINE_SYNTHESIS"
+    ],
+    "status": "pending_audio_attachment",
+    "source_hint": "Section 3.17 - The Humiliation Protocol Call.docx.txt + source audio placeholder",
+    "undated_policy": "ok_date_present",
+    "version": "1.0.0"
+  },
+  "content": {
+    "claim_summary": "During a 25-minute 101 call, the handler mocks and obstructs a high-risk victim, denies Victims’ Code rights, misstates GDPR to withhold bail status, and gives inconsistent case-status information while refusing to log new harassment.",
+    "key_points": [
+      "Invalidation/humiliation: 'You're not dead, are you?' followed by 'I'm not a ghost. That was insulting.'",
+      "Victims’ Code denial: 'You don't get to quote the Victim's Code and then get exactly what you want.'",
+      "GDPR misapplied to refuse bail-status confirmation despite verified identity.",
+      "Obstruction of logging new incidents (calls/messages/rape accusation) as a new matter.",
+      "Inconsistent case status: 'no officer attached' vs. 'PC Dixon is dealing with it'.",
+      "Unacknowledged disclosures: caller reports 45 prior contacts without callback."
+    ],
+    "contradictions": [
+      {
+        "code": "VICTIMS_CODE_DENIAL",
+        "claim": "Callback/right to update refused after citing the Victims’ Code.",
+        "impact": [
+          "Service failure",
+          "Escalates risk; deprioritises safeguarding"
+        ],
+        "legal_risks": [
+          "Victims’ Code (England & Wales) — right to updates/callbacks"
+        ]
+      },
+      {
+        "code": "GDPR_MISAPPLICATION_BAIL_INFO",
+        "claim": "Bail status withheld as 'GDPR', not policy/judgment-based disclosure.",
+        "impact": [
+          "Information blackout; inhibits safety planning"
+        ],
+        "legal_risks": [
+          "DPA 2018 (Part 3) — accuracy/necessity; improper reliance on GDPR label"
+        ]
+      },
+      {
+        "code": "CASE_STATUS_INCONSISTENT",
+        "claim": "Handler says no officer; later states PC Dixon is the officer.",
+        "impact": [
+          "Record integrity concern",
+          "Public confidence risk"
+        ]
+      },
+      {
+        "code": "EVIDENCE_LOGGING_OBSTRUCTED",
+        "claim": "Refusal to treat fresh harassment report as new crime/update.",
+        "impact": [
+          "Loss of continuity of evidence",
+          "Disclosure/timeline distortion"
+        ]
+      },
+      {
+        "code": "CONTACT_RECORDS_MISSING",
+        "claim": "Victim states 45 calls with no callback; not visible/acted upon.",
+        "impact": [
+          "Systemic failure to record/act",
+          "Escalated harm risk"
+        ]
+      },
+      {
+        "code": "HUMILIATION_PROTOCOL_QUOTE",
+        "claim": "Derisive framing of suicide attempt ('You're not dead, are you?').",
+        "impact": [
+          "Degrading treatment",
+          "Safeguarding breach"
+        ],
+        "legal_risks": [
+          "Professional Standards/Code of Ethics — respect and empathy deficits"
+        ]
+      }
+    ],
+    "key_quotes": [
+      {
+        "t": "01:20",
+        "speaker": "101 Handler",
+        "text": "You're not dead, are you?",
+        "grade": "gold"
+      },
+      {
+        "t": "01:48",
+        "speaker": "Ben Carter",
+        "text": "I'm not a ghost. That was insulting.",
+        "grade": "silver"
+      },
+      {
+        "t": "24:06",
+        "speaker": "101 Handler",
+        "text": "You don't get to quote the Victim's Code... and then you get exactly what you want.",
+        "grade": "gold"
+      },
+      {
+        "t": "23:30",
+        "speaker": "Ben Carter",
+        "text": "I've called 45 times since April 6th and I have not had a call back.",
+        "grade": "silver"
+      }
+    ],
+    "related_material": [
+      {
+        "label": "Transcript (analysis)",
+        "path": "/mnt/data/Section 3.17 - The Humiliation Protocol Call.docx.txt"
+      },
+      {
+        "label": "Audio placeholder",
+        "path": "/01_evidence/audio/2025/22-06-25_0506_101_Call_Embarrassing_Now.mp3.txt"
+      }
+    ],
+    "timeline_hooks": [
+      {
+        "when": "2025-06-22T05:06:00",
+        "tz": "Europe/London",
+        "tag": "101_CALL_RECORDED",
+        "note": "Start of 25-min call; see gold/silver quotes"
+      }
+    ],
+    "sourcing_queue": [
+      {
+        "prio": 1,
+        "need": "Attach/source original audio; compute SHA-256",
+        "target": "audio file store"
+      },
+      {
+        "prio": 2,
+        "need": "Confirm force policy re: victim notification of bail status",
+        "target": "policy PDF"
+      },
+      {
+        "prio": 3,
+        "need": "Extract call log entries since 2025-04-06 to verify '45 calls'",
+        "target": "call system export"
+      }
+    ],
+    "verification_plan": [
+      "Cross-check case allocation logs for officer assignment at call time.",
+      "Compare handler assertions against Victims’ Code duties (callback/update).",
+      "Confirm whether bail-status disclosure to verified victim is policy-permitted."
+    ],
+    "links": {
+      "analysis": [
+        "/mnt/data/Section 3.17 - The Humiliation Protocol Call.docx.txt"
+      ],
+      "evidence": [
+        "/01_evidence/audio/2025/22-06-25_0506_101_Call_Embarrassing_Now.mp3"
+      ]
+    }
+  }
+}

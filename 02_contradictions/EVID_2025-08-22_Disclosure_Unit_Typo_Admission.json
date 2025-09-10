@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "evidence_id": "EVID_2025-08-22_Disclosure_Unit_Typo_Admission",
+    "title": "Disclosure Unit Admits Year Typo & Pushes VRR to OIC; Notes GDPR Breach Routed to IM Team",
+    "created_at": "2025-08-30T23:37:55",
+    "type": "Email",
+    "from": "Information Access Team <Subject.Access1@sussex.police.uk>",
+    "to": [
+      "Ben Carter <benrobcarter@gmail.com>"
+    ],
+    "date": "2025-08-22T06:34:00",
+    "tags": [
+      "YEAR_TYPO_ADMITTED",
+      "SAR_AS_ACCESS_BARRIER",
+      "VRR_DEFLECTION_TO_OIC",
+      "GDPR_BREACH_ROUTED",
+      "ICO_LINKED"
+    ],
+    "version": "1.0.0"
+  },
+  "content": {
+    "subject": "Re: Right of Access Request 1567/25 — Clarification",
+    "body": "Admits 47230214305 was a typing error; corrects to 47240214305. States initial report 22/07/2024; second report 02/11/2024. Says VRR must be directed to OIC and that Dixon GDPR breach will be passed to Information Management."
+  },
+  "links": {
+    "contradiction_threads": [
+      "SAR_AS_ACCESS_BARRIER",
+      "VRR_VPS_SUPPRESSED",
+      "ICO_LINKED"
+    ],
+    "related_entities": [
+      "Sussex Police Information Access Team",
+      "Information Management Team"
+    ]
+  }
+}

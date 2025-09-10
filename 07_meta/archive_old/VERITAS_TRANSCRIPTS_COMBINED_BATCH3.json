@@ -1,0 +1,896 @@
+{
+  "source": "VERITAS_TRANSCRIPTS",
+  "chunks": [
+    {
+      "chunk": 20,
+      "time_range": "19:30-20:30",
+      "quotes": [
+        {
+          "speaker": "Ben Carter",
+          "time": "19:30",
+          "quote": "Every time I give them something, it vanishes. Then later I\u2019m asked to prove I ever sent it.",
+          "tags": [
+            "evidence_loss",
+            "victim_experience",
+            "contradiction"
+          ]
+        },
+        {
+          "speaker": "Emma Veritas",
+          "time": "19:37",
+          "quote": "Yes, and that\u2019s why I\u2019ve said to them they need to confirm receipt in writing.",
+          "tags": [
+            "advocacy",
+            "documentation",
+            "acknowledgement"
+          ]
+        },
+        {
+          "speaker": "Ben Carter",
+          "time": "19:42",
+          "quote": "But if they won\u2019t confirm, then it\u2019s just my word against theirs.",
+          "tags": [
+            "accountability",
+            "risk",
+            "victim_experience"
+          ]
+        },
+        {
+          "speaker": "Emma Veritas",
+          "time": "19:47",
+          "quote": "I know, which is why I\u2019ve kept my own log to show when things were sent.",
+          "tags": [
+            "advocacy",
+            "recordkeeping",
+            "secondary_log"
+          ]
+        },
+        {
+          "speaker": "Ben Carter",
+          "time": "19:52",
+          "quote": "But your log isn\u2019t official. They hold the file, not us.",
+          "tags": [
+            "power_imbalance",
+            "systemic_failure",
+            "victim_experience"
+          ]
+        },
+        {
+          "speaker": "Emma Veritas",
+          "time": "19:58",
+          "quote": "True, but if they contradict, we can show the timeline from our side.",
+          "tags": [
+            "advocacy",
+            "defensive",
+            "documentation"
+          ]
+        }
+      ],
+      "contradictions": [
+        {
+          "issue": "Victim highlights evidence vanishing vs. advocate admits only secondary log exists; official file controlled by police",
+          "type": "evidence_chain_failure"
+        }
+      ],
+      "timeline_hooks": [
+        {
+          "ref": "evidence vanishes",
+          "link": "Ongoing missing evidence contradiction"
+        },
+        {
+          "ref": "advocate secondary log",
+          "link": "Parallel recordkeeping outside official file"
+        }
+      ]
+    },
+    {
+      "chunk": 21,
+      "time_range": "20:30-21:30",
+      "quotes": [
+        {
+          "speaker": "Ben Carter",
+          "time": "20:30",
+          "quote": "So if their file says one thing and your log says another, who do you think they\u2019ll believe?",
+          "tags": [
+            "accountability",
+            "power_imbalance",
+            "victim_experience"
+          ]
+        },
+        {
+          "speaker": "Emma Veritas",
+          "time": "20:36",
+          "quote": "I understand, and that\u2019s why I always push for confirmation from them directly.",
+          "tags": [
+            "advocacy",
+            "acknowledgement",
+            "documentation"
+          ]
+        },
+        {
+          "speaker": "Ben Carter",
+          "time": "20:41",
+          "quote": "But they don\u2019t give it. They stay silent or say they can\u2019t find it.",
+          "tags": [
+            "silence",
+            "evidence_loss",
+            "contradiction"
+          ]
+        },
+        {
+          "speaker": "Emma Veritas",
+          "time": "20:46",
+          "quote": "Yes, that\u2019s been the problem all along.",
+          "tags": [
+            "acknowledgement",
+            "systemic_issue"
+          ]
+        },
+        {
+          "speaker": "Ben Carter",
+          "time": "20:50",
+          "quote": "Then what\u2019s the point of me giving anything, if it\u2019s just going to disappear or be denied?",
+          "tags": [
+            "victim_experience",
+            "hopelessness",
+            "risk"
+          ]
+        },
+        {
+          "speaker": "Emma Veritas",
+          "time": "20:56",
+          "quote": "Because it still shows you\u2019ve done your part, and I can evidence that you tried.",
+          "tags": [
+            "advocacy",
+            "documentation",
+            "defensive"
+          ]
+        }
+      ],
+      "contradictions": [
+        {
+          "issue": "Police silence and denials vs. advocate insists victim should keep submitting evidence anyway",
+          "type": "institutional_nonresponse"
+        }
+      ],
+      "timeline_hooks": [
+        {
+          "ref": "police silence on evidence receipt",
+          "link": "Pattern of non-response May 2025"
+        },
+        {
+          "ref": "advocate says keep submitting",
+          "link": "Burden shifted back onto victim"
+        }
+      ]
+    },
+    {
+      "chunk": 22,
+      "time_range": "21:30-22:30",
+      "quotes": [
+        {
+          "speaker": "Ben Carter",
+          "time": "21:30",
+          "quote": "It just feels like I\u2019m being set up to fail, no matter what I do.",
+          "tags": [
+            "victim_experience",
+            "hopelessness",
+            "institutional_failure"
+          ]
+        },
+        {
+          "speaker": "Emma Veritas",
+          "time": "21:36",
+          "quote": "I can see why you\u2019d feel that way, and I don\u2019t want you to feel set up.",
+          "tags": [
+            "acknowledgement",
+            "empathy"
+          ]
+        },
+        {
+          "speaker": "Ben Carter",
+          "time": "21:41",
+          "quote": "But it\u2019s the reality. The more I give them, the more they lose or deny.",
+          "tags": [
+            "victim_assertion",
+            "evidence_loss",
+            "contradiction"
+          ]
+        },
+        {
+          "speaker": "Emma Veritas",
+          "time": "21:46",
+          "quote": "I know, and that\u2019s why I keep challenging them to account for it.",
+          "tags": [
+            "advocacy",
+            "acknowledgement",
+            "accountability"
+          ]
+        },
+        {
+          "speaker": "Ben Carter",
+          "time": "21:51",
+          "quote": "Yet nothing changes.",
+          "tags": [
+            "victim_experience",
+            "systemic_failure"
+          ]
+        },
+        {
+          "speaker": "Emma Veritas",
+          "time": "21:53",
+          "quote": "It\u2019s very frustrating, I agree.",
+          "tags": [
+            "acknowledgement",
+            "agreement"
+          ]
+        }
+      ],
+      "contradictions": [
+        {
+          "issue": "Victim describes systemic setup to fail vs. advocate concedes frustration but offers no resolution",
+          "type": "institutional_failure_pattern"
+        }
+      ],
+      "timeline_hooks": [
+        {
+          "ref": "set up to fail",
+          "link": "Perceived institutional sabotage May 2025"
+        },
+        {
+          "ref": "evidence lost or denied",
+          "link": "Evidence handling contradiction"
+        }
+      ]
+    },
+    {
+      "chunk": 23,
+      "time_range": "22:30-23:30",
+      "quotes": [
+        {
+          "speaker": "Ben Carter",
+          "time": "22:30",
+          "quote": "They act confused when I say evidence is missing, then ask me to send it again like it\u2019s the first time.",
+          "tags": [
+            "victim_experience",
+            "evidence_loss",
+            "contradiction"
+          ]
+        },
+        {
+          "speaker": "Emma Veritas",
+          "time": "22:37",
+          "quote": "Yes, and that\u2019s why I\u2019ve said they need to keep proper logs to avoid this cycle.",
+          "tags": [
+            "acknowledgement",
+            "advocacy",
+            "recordkeeping"
+          ]
+        },
+        {
+          "speaker": "Ben Carter",
+          "time": "22:42",
+          "quote": "But it\u2019s not a cycle, it\u2019s a tactic. They know what they\u2019re doing.",
+          "tags": [
+            "victim_assertion",
+            "evidence_tampering",
+            "gaslighting"
+          ]
+        },
+        {
+          "speaker": "Emma Veritas",
+          "time": "22:47",
+          "quote": "I can\u2019t say if it\u2019s deliberate, but I know it feels deliberate to you.",
+          "tags": [
+            "deflection",
+            "acknowledgement",
+            "neutral_response"
+          ]
+        },
+        {
+          "speaker": "Ben Carter",
+          "time": "22:52",
+          "quote": "Of course it feels deliberate, because no system loses things this many times by accident.",
+          "tags": [
+            "victim_experience",
+            "systemic_failure",
+            "trust_issue"
+          ]
+        },
+        {
+          "speaker": "Emma Veritas",
+          "time": "22:57",
+          "quote": "I understand, Ben, and I\u2019ll keep pressing them on it.",
+          "tags": [
+            "acknowledgement",
+            "advocacy"
+          ]
+        }
+      ],
+      "contradictions": [
+        {
+          "issue": "Victim asserts deliberate evidence erasure vs. advocate frames as system failure but concedes perception of intent",
+          "type": "evidence_handling_contradiction"
+        }
+      ],
+      "timeline_hooks": [
+        {
+          "ref": "acting confused then asking resubmission",
+          "link": "Pattern of evidence gaslighting"
+        },
+        {
+          "ref": "systematic loss vs deliberate",
+          "link": "Evidence tampering suspicion"
+        }
+      ]
+    },
+    {
+      "chunk": 24,
+      "time_range": "23:30-24:30",
+      "quotes": [
+        {
+          "speaker": "Ben Carter",
+          "time": "23:30",
+          "quote": "It wears me down having to resend things over and over, like they\u2019re testing how long I\u2019ll last.",
+          "tags": [
+            "victim_experience",
+            "attrition",
+            "emotional_impact"
+          ]
+        },
+        {
+          "speaker": "Emma Veritas",
+          "time": "23:37",
+          "quote": "I understand, and I\u2019ve told them it\u2019s not acceptable practice.",
+          "tags": [
+            "acknowledgement",
+            "advocacy"
+          ]
+        },
+        {
+          "speaker": "Ben Carter",
+          "time": "23:42",
+          "quote": "Not acceptable? It\u2019s abusive. They\u2019re abusing the process to exhaust me.",
+          "tags": [
+            "victim_assertion",
+            "institutional_abuse",
+            "gaslighting"
+          ]
+        },
+        {
+          "speaker": "Emma Veritas",
+          "time": "23:48",
+          "quote": "I hear you, Ben, but I can\u2019t confirm intent. What I can do is keep raising it.",
+          "tags": [
+            "acknowledgement",
+            "deflection",
+            "advocacy"
+          ]
+        },
+        {
+          "speaker": "Ben Carter",
+          "time": "23:53",
+          "quote": "Intent doesn\u2019t matter when the effect is the same\u2014me being broken down.",
+          "tags": [
+            "victim_experience",
+            "emotional_impact",
+            "systemic_failure"
+          ]
+        },
+        {
+          "speaker": "Emma Veritas",
+          "time": "23:59",
+          "quote": "That\u2019s true, and I\u2019ll keep highlighting the impact on you.",
+          "tags": [
+            "acknowledgement",
+            "advocacy",
+            "impact"
+          ]
+        }
+      ],
+      "contradictions": [
+        {
+          "issue": "Victim frames resubmission cycle as abusive attrition; advocate refuses to confirm intent but concedes harm",
+          "type": "institutional_abuse_pattern"
+        }
+      ],
+      "timeline_hooks": [
+        {
+          "ref": "resend cycle exhausting victim",
+          "link": "Attrition through administrative abuse"
+        },
+        {
+          "ref": "effect vs intent",
+          "link": "Impact-based abuse regardless of motive"
+        }
+      ]
+    },
+    {
+      "chunk": 25,
+      "time_range": "24:30-25:30",
+      "quotes": [
+        {
+          "speaker": "Ben Carter",
+          "time": "24:30",
+          "quote": "So when they delete or lose my evidence, who\u2019s accountable for that?",
+          "tags": [
+            "accountability",
+            "evidence_loss",
+            "victim_experience"
+          ]
+        },
+        {
+          "speaker": "Emma Veritas",
+          "time": "24:36",
+          "quote": "That\u2019s supposed to be the officer in charge, but it hasn\u2019t been clear.",
+          "tags": [
+            "acknowledgement",
+            "police_accountability",
+            "systemic_issue"
+          ]
+        },
+        {
+          "speaker": "Ben Carter",
+          "time": "24:42",
+          "quote": "Exactly. If no one\u2019s accountable, then it keeps happening.",
+          "tags": [
+            "victim_assertion",
+            "systemic_failure",
+            "contradiction"
+          ]
+        },
+        {
+          "speaker": "Emma Veritas",
+          "time": "24:47",
+          "quote": "I know, and I\u2019ve said they need to name who\u2019s responsible for evidence handling.",
+          "tags": [
+            "advocacy",
+            "accountability",
+            "documentation"
+          ]
+        },
+        {
+          "speaker": "Ben Carter",
+          "time": "24:53",
+          "quote": "But they won\u2019t, will they?",
+          "tags": [
+            "victim_experience",
+            "distrust"
+          ]
+        },
+        {
+          "speaker": "Emma Veritas",
+          "time": "24:55",
+          "quote": "Not so far, no.",
+          "tags": [
+            "acknowledgement",
+            "systemic_failure"
+          ]
+        }
+      ],
+      "contradictions": [
+        {
+          "issue": "Officer in charge meant to be accountable for evidence, yet no named responsibility ever provided",
+          "type": "accountability_gap"
+        }
+      ],
+      "timeline_hooks": [
+        {
+          "ref": "officer in charge accountability missing",
+          "link": "Evidence handling chain gap"
+        },
+        {
+          "ref": "no accountability leads to repeat losses",
+          "link": "Systemic failure May 2025"
+        }
+      ]
+    },
+    {
+      "chunk": 26,
+      "time_range": "25:30-26:30",
+      "quotes": [
+        {
+          "speaker": "Ben Carter",
+          "time": "25:30",
+          "quote": "So the chain of custody is broken, and no one admits it.",
+          "tags": [
+            "evidence_chain",
+            "contradiction",
+            "accountability"
+          ]
+        },
+        {
+          "speaker": "Emma Veritas",
+          "time": "25:35",
+          "quote": "Yes, that\u2019s why I\u2019ve asked for a clear record of what\u2019s been received and when.",
+          "tags": [
+            "acknowledgement",
+            "advocacy",
+            "documentation"
+          ]
+        },
+        {
+          "speaker": "Ben Carter",
+          "time": "25:40",
+          "quote": "But until that exists, my case is basically unprovable.",
+          "tags": [
+            "victim_experience",
+            "evidence_loss",
+            "risk"
+          ]
+        },
+        {
+          "speaker": "Emma Veritas",
+          "time": "25:45",
+          "quote": "I understand, and I\u2019ve pressed that it has to be formalised.",
+          "tags": [
+            "advocacy",
+            "acknowledgement",
+            "systemic_issue"
+          ]
+        },
+        {
+          "speaker": "Ben Carter",
+          "time": "25:50",
+          "quote": "Pressed? It should already exist by law.",
+          "tags": [
+            "victim_assertion",
+            "legal_basis",
+            "accountability"
+          ]
+        },
+        {
+          "speaker": "Emma Veritas",
+          "time": "25:55",
+          "quote": "You\u2019re right, Ben. It should.",
+          "tags": [
+            "acknowledgement",
+            "agreement"
+          ]
+        }
+      ],
+      "contradictions": [
+        {
+          "issue": "Chain of custody broken with no accountability; advocate admits record should exist by law but it doesn\u2019t",
+          "type": "chain_of_custody_failure"
+        }
+      ],
+      "timeline_hooks": [
+        {
+          "ref": "broken chain of custody",
+          "link": "Evidence audit contradiction May 2025"
+        },
+        {
+          "ref": "record should exist by law",
+          "link": "Legal breach of evidence handling duties"
+        }
+      ]
+    },
+    {
+      "chunk": 27,
+      "time_range": "26:30-27:30",
+      "quotes": [
+        {
+          "speaker": "Ben Carter",
+          "time": "26:30",
+          "quote": "And if the chain\u2019s broken, the whole case collapses in court.",
+          "tags": [
+            "victim_experience",
+            "risk",
+            "evidence_chain"
+          ]
+        },
+        {
+          "speaker": "Emma Veritas",
+          "time": "26:36",
+          "quote": "That\u2019s the danger, yes. Which is why I\u2019ve told them it has to be rectified.",
+          "tags": [
+            "acknowledgement",
+            "advocacy",
+            "systemic_issue"
+          ]
+        },
+        {
+          "speaker": "Ben Carter",
+          "time": "26:41",
+          "quote": "Told them? It should never have been broken in the first place.",
+          "tags": [
+            "victim_assertion",
+            "legal_basis",
+            "accountability"
+          ]
+        },
+        {
+          "speaker": "Emma Veritas",
+          "time": "26:46",
+          "quote": "I agree, it shouldn\u2019t. But I can only push from my side.",
+          "tags": [
+            "acknowledgement",
+            "deflection",
+            "advocacy_gap"
+          ]
+        },
+        {
+          "speaker": "Ben Carter",
+          "time": "26:51",
+          "quote": "And while you push, I\u2019m the one left unsafe.",
+          "tags": [
+            "victim_experience",
+            "safeguarding",
+            "risk"
+          ]
+        },
+        {
+          "speaker": "Emma Veritas",
+          "time": "26:56",
+          "quote": "I know, Ben, and I\u2019m sorry you feel left unsafe.",
+          "tags": [
+            "acknowledgement",
+            "empathy",
+            "safeguarding_gap"
+          ]
+        }
+      ],
+      "contradictions": [
+        {
+          "issue": "Chain of custody broken undermining case; advocate concedes risk but deflects responsibility",
+          "type": "safeguarding_and_legal_failure"
+        }
+      ],
+      "timeline_hooks": [
+        {
+          "ref": "case collapses in court",
+          "link": "Court risk due to broken chain of custody"
+        },
+        {
+          "ref": "victim left unsafe",
+          "link": "Immediate safeguarding omission"
+        }
+      ]
+    },
+    {
+      "chunk": 28,
+      "time_range": "27:30-28:30",
+      "quotes": [
+        {
+          "speaker": "Ben Carter",
+          "time": "27:30",
+          "quote": "So at this point, it looks like they want it to collapse.",
+          "tags": [
+            "victim_experience",
+            "suspicion",
+            "institutional_failure"
+          ]
+        },
+        {
+          "speaker": "Emma Veritas",
+          "time": "27:36",
+          "quote": "I can\u2019t say that\u2019s their intent, but I know that\u2019s how it feels given the gaps.",
+          "tags": [
+            "acknowledgement",
+            "deflection",
+            "neutral_response"
+          ]
+        },
+        {
+          "speaker": "Ben Carter",
+          "time": "27:42",
+          "quote": "Feels like? It\u2019s obvious when the same mistakes keep happening.",
+          "tags": [
+            "victim_assertion",
+            "pattern",
+            "systemic_failure"
+          ]
+        },
+        {
+          "speaker": "Emma Veritas",
+          "time": "27:47",
+          "quote": "I agree the repetition is unacceptable, and I\u2019ve raised that.",
+          "tags": [
+            "acknowledgement",
+            "advocacy",
+            "systemic_issue"
+          ]
+        },
+        {
+          "speaker": "Ben Carter",
+          "time": "27:52",
+          "quote": "Raised it isn\u2019t the same as fixing it.",
+          "tags": [
+            "victim_experience",
+            "advocacy_gap",
+            "accountability"
+          ]
+        },
+        {
+          "speaker": "Emma Veritas",
+          "time": "27:56",
+          "quote": "I know, and I wish I could give you a clear resolution right now.",
+          "tags": [
+            "acknowledgement",
+            "empathy",
+            "delay"
+          ]
+        }
+      ],
+      "contradictions": [
+        {
+          "issue": "Victim asserts systemic failure intentional; advocate avoids intent but concedes repetition is unacceptable",
+          "type": "systemic_failure_contradiction"
+        }
+      ],
+      "timeline_hooks": [
+        {
+          "ref": "case collapse suspicion",
+          "link": "Perception of institutional sabotage"
+        },
+        {
+          "ref": "repetition of mistakes",
+          "link": "Pattern of systemic safeguarding failure"
+        }
+      ]
+    },
+    {
+      "chunk": 29,
+      "time_range": "28:30-29:30",
+      "quotes": [
+        {
+          "speaker": "Ben Carter",
+          "time": "28:30",
+          "quote": "If they keep repeating the same failures, at some point it stops being a mistake.",
+          "tags": [
+            "victim_experience",
+            "pattern",
+            "institutional_failure"
+          ]
+        },
+        {
+          "speaker": "Emma Veritas",
+          "time": "28:36",
+          "quote": "I understand, and that\u2019s why I\u2019ve kept stressing it to them as a pattern.",
+          "tags": [
+            "acknowledgement",
+            "advocacy",
+            "systemic_issue"
+          ]
+        },
+        {
+          "speaker": "Ben Carter",
+          "time": "28:41",
+          "quote": "Pattern is just another word for intent when it harms me every time.",
+          "tags": [
+            "victim_assertion",
+            "gaslighting",
+            "risk"
+          ]
+        },
+        {
+          "speaker": "Emma Veritas",
+          "time": "28:47",
+          "quote": "I can\u2019t label intent, but I can highlight that the effect is harmful.",
+          "tags": [
+            "deflection",
+            "acknowledgement",
+            "impact"
+          ]
+        },
+        {
+          "speaker": "Ben Carter",
+          "time": "28:52",
+          "quote": "Exactly. Impact matters more than what they claim their intent is.",
+          "tags": [
+            "victim_experience",
+            "impact_over_intent",
+            "safeguarding"
+          ]
+        },
+        {
+          "speaker": "Emma Veritas",
+          "time": "28:57",
+          "quote": "I agree, and I\u2019ve told them that as well.",
+          "tags": [
+            "acknowledgement",
+            "advocacy"
+          ]
+        }
+      ],
+      "contradictions": [
+        {
+          "issue": "Victim equates repeated failures with intent; advocate avoids intent but concedes harmful impact",
+          "type": "systemic_failure_and_gaslighting"
+        }
+      ],
+      "timeline_hooks": [
+        {
+          "ref": "pattern equals intent",
+          "link": "Evidence of institutional gaslighting May 2025"
+        },
+        {
+          "ref": "impact over intent",
+          "link": "Safeguarding breach through repeated harmful effects"
+        }
+      ]
+    },
+    {
+      "chunk": 30,
+      "time_range": "29:30-30:30",
+      "quotes": [
+        {
+          "speaker": "Ben Carter",
+          "time": "29:30",
+          "quote": "So when they tell you it\u2019s just delays, that\u2019s not true\u2014it\u2019s repeated harm.",
+          "tags": [
+            "victim_experience",
+            "contradiction",
+            "harm"
+          ]
+        },
+        {
+          "speaker": "Emma Veritas",
+          "time": "29:36",
+          "quote": "I know, and I\u2019ve said delays are not an excuse when it affects your safety.",
+          "tags": [
+            "acknowledgement",
+            "advocacy",
+            "safeguarding"
+          ]
+        },
+        {
+          "speaker": "Ben Carter",
+          "time": "29:42",
+          "quote": "Yet they still use it as an excuse.",
+          "tags": [
+            "victim_experience",
+            "contradiction",
+            "systemic_failure"
+          ]
+        },
+        {
+          "speaker": "Emma Veritas",
+          "time": "29:46",
+          "quote": "Yes, they fall back on it too often.",
+          "tags": [
+            "acknowledgement",
+            "systemic_issue"
+          ]
+        },
+        {
+          "speaker": "Ben Carter",
+          "time": "29:50",
+          "quote": "So excuses are accepted instead of accountability.",
+          "tags": [
+            "victim_assertion",
+            "accountability_gap",
+            "risk"
+          ]
+        },
+        {
+          "speaker": "Emma Veritas",
+          "time": "29:55",
+          "quote": "I agree, and I\u2019ve challenged them on that point.",
+          "tags": [
+            "acknowledgement",
+            "advocacy",
+            "accountability"
+          ]
+        }
+      ],
+      "contradictions": [
+        {
+          "issue": "Delays framed as excuse vs. reality of repeated harm; advocate concedes but system unchanged",
+          "type": "safeguarding_failure"
+        }
+      ],
+      "timeline_hooks": [
+        {
+          "ref": "delays as excuse",
+          "link": "Institutional excuse pattern May 2025"
+        },
+        {
+          "ref": "harm not delay",
+          "link": "Evidence of repeated safeguarding failure"
+        }
+      ]
+    }
+  ]
+}

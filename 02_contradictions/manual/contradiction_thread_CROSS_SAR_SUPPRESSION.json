@@ -1,0 +1,15 @@
+{
+  "thread_id": "CONTRA_THREAD_CROSS_SAR_SUPPRESSION",
+  "title": "Cross-SAR Suppression Pattern: Brighton Fringe + NHS",
+  "total_breaches": 6,
+  "breach_window_days": 50,
+  "events": [
+    "EMAIL_2025-05-07_LOGGING_ADMISSION",
+    "EMAIL_2025-05-08_GP_DISCLOSURE",
+    "EMAIL_2025-07-18_LIBEL_EMAIL",
+    "EXHIBIT_NHS_SCREENRECORDING_0714",
+    "EXHIBIT_NHS_CLARIFICATION_EMAIL",
+    "EXHIBIT_NHS_FINAL_ESCALATION"
+  ],
+  "summary": "Between May and August 2025, both Brighton Fringe Ltd. and NHS Seven Dials failed to comply with GDPR Article 15 SAR requests, manipulated health records or logs, and introduced delays or omissions in breach of statutory duties. This pattern suggests systemic structural suppression of safeguarding and victim voice."
+}

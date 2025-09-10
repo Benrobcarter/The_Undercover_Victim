@@ -1,0 +1,46 @@
+{
+  "meta": {
+    "evidence_id": "VEX_EMAIL_2024-11-07_1919_Re_47240214305_7",
+    "thread_id": "EMAIL_THREAD_47240214305_DIXON_Carter",
+    "created_utc": "2025-08-30T02:12:33Z",
+    "date_local": "2024-11-07",
+    "time_local": "19:19",
+    "from": "Ben Carter <benrobcarter@gmail.com>",
+    "to": "Dixon, Jon EA817 <Jon.Dixon@sussex.police.uk>",
+    "cc": [],
+    "subject": "Re: 47240214305",
+    "attachments": [],
+    "clusters": [
+      "CRIME_REF_47240214305_THREAD",
+      "DEATH_BY_SILENCE",
+      "ACCESS_BARRIER",
+      "CROWBARRING_MYSELF_JUSTICE"
+    ],
+    "status": "verbatim_ingested",
+    "project_paths": {
+      "evidence_dst": "01_evidence/vex/email/"
+    }
+  },
+  "claim_summary": "Email preserved verbatim as part of 47240214305 thread.",
+  "key_points": [],
+  "contradictions": [],
+  "timeline_hooks": [
+    {
+      "when": "2024-11-07T19:19:00",
+      "tag": "EMAIL_THREAD_ACTIVITY",
+      "note": "Email: Re: 47240214305"
+    }
+  ],
+  "cue_alignment": {
+    "status": "complete_from_user_text"
+  },
+  "cues": [
+    {
+      "index": 1,
+      "start": null,
+      "end": null,
+      "speaker": "Ben Carter <benrobcarter@gmail.com>",
+      "quote": "How can i re upload anything? I had over 100 screen shors and videos bit it had a limit, would a google drive link\nbe alright if i sent you the link?"
+    }
+  ]
+}

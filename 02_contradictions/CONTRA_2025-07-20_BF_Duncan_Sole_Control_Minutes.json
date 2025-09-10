@@ -1,0 +1,28 @@
+{
+  "id": "BF-CONTRA-DUNCAN-SOLE-CONTROL-2025-07-20",
+  "claim": "Brighton Fringe board acts collectively and transparently in governance decisions.",
+  "reality": "Duncan Lustig-Prean admits that the board minutes regarding Ben Carter\u2019s removal have yet to be written and that he alone will approve and redact the record. This follows a refusal to confirm any audio/video record of the meeting, no confirmation of attendance list, and a failure to disclose legal basis or policy. Duncan\u2019s gatekeeping of records following a safeguarding disclosure indicates rewriting of events after the fact \u2014 in breach of trustee obligations.",
+  "source_files": [
+    "EVID_2025-07-20_BrightonFringe_BoardMinutes_RemovalRequest_Refused.json"
+  ],
+  "laws_breached": [
+    "Charities Act 2011",
+    "Charity Commission CC3 (Trustee Duties)",
+    "Charity Commission CC9 (Conflicts of Interest)",
+    "Care Act 2014 (Safeguarding)",
+    "Companies Act 2006 (Board Governance)"
+  ],
+  "damages": [
+    "Reputational",
+    "Emotional",
+    "Legal Obstruction"
+  ],
+  "actor_cluster": "Brighton Fringe",
+  "tags": [
+    "BOARD_MINUTES_WITHHELD",
+    "DUNCAN_SOLE_BOARD_MEMBER_VEX",
+    "SAFEGUARDING_DISCLOSURE_ERASURE",
+    "GOVERNANCE_BREAKDOWN",
+    "WHISTLEBLOWER_RETALIATION"
+  ]
+}

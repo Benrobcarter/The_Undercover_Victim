@@ -1,0 +1,81 @@
+{
+  "chunk": 18,
+  "time_range": "17:30-18:30",
+  "quotes": [
+    {
+      "speaker": "Ben Carter",
+      "time": "17:30",
+      "quote": "So if something happens to me tomorrow, the record just proves they ignored me.",
+      "tags": [
+        "victim_experience",
+        "safeguarding",
+        "accountability"
+      ]
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "17:36",
+      "quote": "Yes, and that’s why it’s vital to keep it consistent, so the failures are visible.",
+      "tags": [
+        "acknowledgement",
+        "advocacy",
+        "documentation"
+      ]
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "17:41",
+      "quote": "Visible after the fact doesn’t stop it happening.",
+      "tags": [
+        "victim_experience",
+        "safeguarding_gap",
+        "risk"
+      ]
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "17:46",
+      "quote": "I understand, Ben. I’ll keep pressing them on the urgent side too.",
+      "tags": [
+        "acknowledgement",
+        "advocacy",
+        "safeguarding"
+      ]
+    },
+    {
+      "speaker": "Ben Carter",
+      "time": "17:51",
+      "quote": "It feels like I’m being left to prove they failed, instead of being protected.",
+      "tags": [
+        "victim_experience",
+        "institutional_failure",
+        "emotional_impact"
+      ]
+    },
+    {
+      "speaker": "Emma Veritas",
+      "time": "17:56",
+      "quote": "I know, and that’s not how it should be.",
+      "tags": [
+        "acknowledgement",
+        "empathy"
+      ]
+    }
+  ],
+  "contradictions": [
+    {
+      "issue": "Victim highlights being left to prove failure vs. advocate admits this is wrong but offers no immediate remedy",
+      "type": "safeguarding_failure"
+    }
+  ],
+  "timeline_hooks": [
+    {
+      "ref": "record proves ignored",
+      "link": "Institutional accountability gap May 2025"
+    },
+    {
+      "ref": "being left to prove failure",
+      "link": "Safeguarding omission pattern"
+    }
+  ]
+}

@@ -1,0 +1,350 @@
+[
+  {
+    "id": "EX_SAFEGUARDING_CALL_IGNORED",
+    "title": "Suicide Disclosure Ignored by Sussex Police",
+    "date_first_breached": "2024-04-06",
+    "contradiction_type": "safeguarding_failure",
+    "core_quote": "I told them I was suicidal. They didn\u2019t log it.",
+    "validating_evidence": [
+      "angry_dixon_call.mp3",
+      "LIVE_VEX_TIMELINE:2024-04-06",
+      "riggs_0406_whatsapp.json"
+    ],
+    "linked_entities": [
+      "Sussex Police",
+      "PC Dixon"
+    ],
+    "emotional_tags": [
+      "collapse",
+      "abandonment"
+    ],
+    "status": "active",
+    "proof_needed": [
+      "101 call log SAR",
+      "Officer Dixon\u2019s control room transcript"
+    ]
+  },
+  {
+    "id": "EX_WEAPONISED_BAIL_BREACH",
+    "title": "Bail Conditions Weaponised to Suppress Victim",
+    "date_first_breached": "2025-05-12",
+    "contradiction_type": "legal_escalation",
+    "core_quote": "They used my own bail conditions to prevent me from speaking up.",
+    "validating_evidence": [
+      "bail_letter_redacted.pdf",
+      "whatsapp_adrian_bail_response.json"
+    ],
+    "linked_entities": [
+      "Sussex Police",
+      "CPS",
+      "IOPC"
+    ],
+    "emotional_tags": [
+      "fear",
+      "disempowerment"
+    ],
+    "status": "active",
+    "proof_needed": [
+      "CPS internal decision memo",
+      "Email record of bail changes"
+    ]
+  },
+  {
+    "id": "EX_PUBLIC_BUNDLE_SUMMARY_SAR_SUSSEX_POLICE",
+    "title": "SAR Suppression Evidence \u2013 PUBLIC_BUNDLE_SUMMARY_SAR_SUSSEX_POLICE.json",
+    "date_first_breached": "2025-04-08",
+    "contradiction_type": "evidence_suppression",
+    "core_quote": "Evidence was suppressed or withheld by Sussex Police as documented in the SAR files.",
+    "validating_evidence": [
+      "PUBLIC_BUNDLE_SUMMARY_SAR_SUSSEX_POLICE.json"
+    ],
+    "linked_entities": [
+      "Sussex Police"
+    ],
+    "emotional_tags": [],
+    "status": "active",
+    "proof_needed": [
+      "SAR audit trail",
+      "Legal response from Sussex Police"
+    ]
+  },
+  {
+    "id": "EX_COMPENSATION_CLAIM_MATRIX_SUSSEX_POLICE",
+    "title": "SAR Suppression Evidence \u2013 COMPENSATION_CLAIM_MATRIX_SUSSEX_POLICE.json",
+    "date_first_breached": "2025-04-08",
+    "contradiction_type": "evidence_suppression",
+    "core_quote": "Evidence was suppressed or withheld by Sussex Police as documented in the SAR files.",
+    "validating_evidence": [
+      "COMPENSATION_CLAIM_MATRIX_SUSSEX_POLICE.json"
+    ],
+    "linked_entities": [
+      "Sussex Police"
+    ],
+    "emotional_tags": [],
+    "status": "active",
+    "proof_needed": [
+      "SAR audit trail",
+      "Legal response from Sussex Police"
+    ]
+  },
+  {
+    "id": "EX_SUSSEX_POLICE_SAFEGUARDING_BREAKDOWN_MAY_2025",
+    "title": "SAR Suppression Evidence \u2013 SUSSEX_POLICE_SAFEGUARDING_BREAKDOWN_MAY_2025.json",
+    "date_first_breached": "2025-04-08",
+    "contradiction_type": "evidence_suppression",
+    "core_quote": "Evidence was suppressed or withheld by Sussex Police as documented in the SAR files.",
+    "validating_evidence": [
+      "SUSSEX_POLICE_SAFEGUARDING_BREAKDOWN_MAY_2025.json"
+    ],
+    "linked_entities": [
+      "Sussex Police"
+    ],
+    "emotional_tags": [],
+    "status": "active",
+    "proof_needed": [
+      "SAR audit trail",
+      "Legal response from Sussex Police"
+    ]
+  },
+  {
+    "id": "EX_PC_GORE_FAILED_TO_REVIEW_AUDIO_SAFEGUARDING_EVIDENCE",
+    "title": "PC Gore Failed to Review Audio Safeguarding Evidence Sent During Critical Risk Period",
+    "date_first_breached": "2024-07-24",
+    "contradiction_type": "police_evidence_neglect",
+    "core_quote": "Despite receiving screenshots and direct messages pointing to critical audio evidence of threats and collapse triggers, PC Gore failed to listen or follow up on any of the materials.",
+    "validating_evidence": [
+      "PC_GORE_TEXTS/Screenshot1.png",
+      "PC_GORE_TEXTS/Screenshot2.png",
+      "PC_GORE_TEXTS/Screenshot3.png",
+      "PC_GORE_TEXTS/Screenshot4.png",
+      "PC_GORE_TEXTS/Screenshot5.png",
+      "PC_GORE_TEXTS/Screenshot6.png",
+      "PC_GORE_TEXTS/Screenshot7.png",
+      "PC_GORE_TEXTS/Screenshot8.png"
+    ],
+    "linked_entities": [
+      "PC Gore",
+      "Sussex Police"
+    ],
+    "emotional_tags": [
+      "disregarded",
+      "helplessness",
+      "despair"
+    ],
+    "vex_tags": [
+      "police_evidence_neglect",
+      "audio_disregarded",
+      "safeguarding_disengagement",
+      "failure_to_investigate_known_risk"
+    ],
+    "status": "active",
+    "proof_needed": [
+      "Internal log showing receipt of messages by PC Gore",
+      "Confirmation of no follow-up action from Sussex Police systems"
+    ]
+  },
+  {
+    "id": "EX_POLICE_NONRESPONSE_DURING_JULY_2024_COLLAPSE_AFTER_REPEATED_CALLS",
+    "title": "Police Failed to Respond During July 2024 Safeguarding Collapse After Multiple Calls",
+    "date_first_breached": "2024-07-24",
+    "contradiction_type": "critical_safeguarding_abandonment",
+    "core_quote": "Despite repeated calls and direct threats from Alanna, Sussex Police failed to respond, leading to a mental health emergency and ambulance call initiated by the victim.",
+    "validating_evidence": [
+      "JULY_2024_CALLS_AND_SCREENSHOTS/Lost_Call_July2024_Submitted.m4a",
+      "JULY_2024_CALLS_AND_SCREENSHOTS/I picked up as I thought it might be the police.m4a",
+      "JULY_2024_CALLS_AND_SCREENSHOTS/she can email me how she\u2019s going to destroy my life.m4a",
+      "JULY_2024_CALLS_AND_SCREENSHOTS/All screenshots 03:17\u201304:10am (emergency trigger)/Final screenshot - AT THIS POINT I CALLED THE AMBULANCE.png"
+    ],
+    "linked_entities": [
+      "Sussex Police",
+      "PC Gore",
+      "Alanna O\u2019Hare"
+    ],
+    "emotional_tags": [
+      "collapse",
+      "abandonment",
+      "terror",
+      "hopelessness"
+    ],
+    "vex_tags": [
+      "emergency_call_ignored",
+      "emotional_collapse_triggered_by_contact",
+      "safeguarding_abandonment",
+      "deliberate_nonresponse_during_crisis"
+    ],
+    "status": "active",
+    "proof_needed": [
+      "101 and 999 call records for July 24th 2024",
+      "Ambulance dispatch confirmation and timestamp"
+    ]
+  },
+  {
+    "id": "EX_ALANNA_RETRIBUTION_AFTER_NFA_CONFIRMED_VIA_THREATS_AND_IMPERSONATION",
+    "title": "Alanna Retaliated After NFA Confirmation with Threats and Guardian Impersonation",
+    "date_first_breached": "2025-05-08",
+    "contradiction_type": "retaliation_after_police_action",
+    "core_quote": "After being informed of the NFA decision before the victim, Alanna began retaliating with impersonation of The Guardian, direct threats, and exploitative contact. These actions were triggered by information likely leaked from Sussex Police.",
+    "validating_evidence": [
+      "Alanna_Recent_Messaging_&_Retaliation/Call_Guardian_Impersonation_Alanna_08May2025.m4a",
+      "Alanna_Recent_Messaging_&_Retaliation/999_May9_Alanna_BailEnded_Email_Dixon.m4a",
+      "Alanna_Recent_Messaging_&_Retaliation/Exhibit_Alanna_Intimidation_Email_20250510.docx",
+      "Alanna_Recent_Messaging_&_Retaliation/facebook threat screenshot .png",
+      "Alanna_Recent_Messaging_&_Retaliation/999_Confirming_Officer_Still_PC_Dixon.m4a"
+    ],
+    "linked_entities": [
+      "Alanna O\u2019Hare",
+      "PC Dixon",
+      "Sussex Police"
+    ],
+    "emotional_tags": [
+      "fear",
+      "threat",
+      "manipulation",
+      "disempowerment"
+    ],
+    "vex_tags": [
+      "impersonation_of_press",
+      "retaliation_post_nfa",
+      "sussex_police_leak_to_abuser",
+      "safeguarding_retaliation",
+      "bail_status_exploitation"
+    ],
+    "status": "active",
+    "proof_needed": [
+      "Confirmation of NFA notification timing to Alanna vs victim",
+      "Police internal record of who informed Alanna of bail change"
+    ]
+  },
+  {
+    "id": "EX_SUSSEX_POLICE_ONGOING_SAFEGUARDING_NEGLECT_POST_DISCLOSURE",
+    "title": "Sussex Police Failed to Act on Ongoing Safeguarding Disclosures Between April and May 2025",
+    "date_first_breached": "2025-04-06",
+    "contradiction_type": "institutional_neglect",
+    "core_quote": "Despite multiple disclosures and critical calls to 101 and 999, Sussex Police failed to provide safeguarding support and reassigned PC Dixon after objections.",
+    "validating_evidence": [
+      "Audio_Safeguarding_Neglect/101_Ambulance_Deflection.m4a",
+      "Audio_Safeguarding_Neglect/All_Officers_Away_Until_Tuesday.m4a",
+      "Audio_Safeguarding_Neglect/First 999 call 9th May After the Guardian phone call.m4a",
+      "Audio_Safeguarding_Neglect/999 confirming again my officer is still pc Dixon Alanna .m4a"
+    ],
+    "linked_entities": [
+      "Sussex Police",
+      "PC Dixon"
+    ],
+    "emotional_tags": [
+      "abandonment",
+      "gaslighting",
+      "distress"
+    ],
+    "vex_tags": [
+      "safeguarding_failure",
+      "operator_deflection",
+      "duty_of_care_ignored",
+      "officer_reassignment_ignored_disclosure"
+    ],
+    "status": "active",
+    "proof_needed": [
+      "Guardian call metadata",
+      "SAR call logs from April\u2013May 2025 confirming assigned officers"
+    ]
+  },
+  {
+    "id": "EX_TETHIS_USED_TO_PROPAGATE_FALSE_RAPE_NARRATIVE",
+    "title": "Alanna Used Tethis to Propagate a False Rape Narrative While Victim Was on Bail",
+    "date_first_breached": "2024-11-13",
+    "contradiction_type": "coercive_narrative_distribution",
+    "core_quote": "Alanna involved Tethis to reinforce a false rape narrative while the victim was under bail restrictions, with screenshots and voice notes used to escalate the manipulation.",
+    "validating_evidence": [
+      "FALSE_RAPE_STATEMENT_MADE_ON_BAIL/Tethis screenshots 13 Nov .png",
+      "FALSE_RAPE_STATEMENT_MADE_ON_BAIL/voice note 13 Nov sent to tethis.m4a",
+      "FALSE_RAPE_STATEMENT_MADE_ON_BAIL/False Allegation.docx",
+      "FALSE_RAPE_STATEMENT_MADE_ON_BAIL/Targeting a Vulnerable Witness to Obstruct the Truth.docx"
+    ],
+    "linked_entities": [
+      "Alanna O\u2019Hare",
+      "Tethis",
+      "Sussex Police"
+    ],
+    "emotional_tags": [
+      "gaslighting",
+      "manipulation",
+      "collapse"
+    ],
+    "vex_tags": [
+      "false_allegation_distribution",
+      "bail_coercion",
+      "narrative_control_through_third_party",
+      "sussex_police_failure_to_filter_disinformation"
+    ],
+    "status": "active",
+    "proof_needed": [
+      "Confirmation from Tethis regarding how/why he was contacted",
+      "SAR or police file record referencing this external dissemination"
+    ]
+  },
+  {
+    "id": "EX_DIXON_INFORMED_ABUSER_BEFORE_VICTIM_NFA_DECISION",
+    "title": "PC Dixon Informed Alanna of NFA Decision Before Informing Victim",
+    "date_first_breached": "2025-04-27",
+    "contradiction_type": "vcop_violation",
+    "core_quote": "PC Dixon informed Alanna of a No Further Action decision before the victim was notified, leading to new threats from her on May 9th.",
+    "validating_evidence": [
+      "April 27th Pc Dixon Tells Alanna NFA/Pc Dixon NFA to Alanna .png",
+      "April 27th Pc Dixon Tells Alanna NFA/ Friday May 9th, received from alanna. New threats as NFA  PNG.png",
+      "April 27th Pc Dixon Tells Alanna NFA/Alanna Recent Messaging & Retaliation .html"
+    ],
+    "linked_entities": [
+      "PC Dixon",
+      "Alanna O\u2019Hare",
+      "Sussex Police"
+    ],
+    "emotional_tags": [
+      "betrayal",
+      "fear",
+      "disempowerment"
+    ],
+    "vex_tags": [
+      "vcop_breach",
+      "police_enablement_of_abuser",
+      "retaliatory_risk_escalation",
+      "deliberate_endangerment"
+    ],
+    "status": "active",
+    "proof_needed": [
+      "Timeline proof of when victim was officially informed",
+      "Confirmation of NFA delivery order from Sussex Police records"
+    ]
+  },
+  {
+    "id": "EX_VERITAS_ACKNOWLEDGED_RECORD_FAILURES_IN_LIVE_SUPPORT_CHAT",
+    "title": "Veritas Admitted Suicide Disclosure and Safeguarding Failures in Live Chat",
+    "date_first_breached": "2025-04-11",
+    "contradiction_type": "institutional_admission",
+    "core_quote": "I can't believe they never added that April call to your file... it should've triggered safeguarding immediately.",
+    "validating_evidence": [
+      "_chat copy.txt",
+      "Veritas safeguarding record timeline",
+      "SAR_SUPPRESSION_PROJECT_BUNDLE_2025"
+    ],
+    "linked_entities": [
+      "Veritas Justice",
+      "Sussex Police"
+    ],
+    "emotional_tags": [
+      "betrayal",
+      "neglect",
+      "collapse"
+    ],
+    "vex_tags": [
+      "veritas_failure_to_escalate",
+      "support_service_admission_of_breach",
+      "safeguarding_pathway_not_triggered",
+      "rape_claim_missing_from_records"
+    ],
+    "status": "active",
+    "proof_needed": [
+      "Veritas formal confirmation of chat content and timestamp",
+      "Official record from Veritas case file noting safeguarding steps"
+    ]
+  }
+]

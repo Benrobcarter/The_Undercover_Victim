@@ -1,0 +1,136 @@
+{
+  "contradictions": [
+    {
+      "id": "BF-CONTRA-ALICE-EMAIL-COERCION-2025",
+      "meta": {
+        "title": "Alice Wright Used as Tactical Email Coercion Agent During Fringe Takeover",
+        "tags": [
+          "SAFEGUARDING_DEFLECTION",
+          "TRUST_EXPLOITATION",
+          "COERCIVE_STRUCTURE",
+          "SCRIPTED_COMMUNICATION",
+          "CROWBARRING_MYSELF_JUSTICE",
+          "DUNCAN_ASSISTED_ERASURE"
+        ],
+        "created_at": "2025-08-31T23:50:43.373279",
+        "source_file": "Email_Chain_Alice_Coercion_2025-05-06_to_2025-05-09.txt",
+        "source_description": "Alice Wright offers 'support' by managing Ben's artists; Fringe uses vulnerable reply to coordinate manipulative PR response"
+      },
+      "summary": "Between 6–9 May 2025, Alice Wright positioned herself as a supporter offering 'help' with ticketing and cancellations, but her email was in fact an operational handover pitch that framed the Fringe’s takeover as supportive care. After a vulnerable email from Ben Carter that day, Brighton Fringe responded with a carefully coordinated message containing phrasing Alice had seeded ('we’re so relieved you don’t hate us'). By May 9, Ben confronted the Fringe directly for coercing Alice and exploiting emotional disclosures. This exchange proves Brighton Fringe leveraged Alice’s relationship with Ben to manipulate trust and communication boundaries during a critical safeguarding period."
+    }
+  ],
+  "timeline_entries": [
+    {
+      "date": "2025-05-06",
+      "summary": "Alice Wright offers to handle 'ticketing problems' and show cancellations, implying takeover of Half a Camel's operations.",
+      "tags": [
+        "BF-CONTRA-ALICE-EMAIL-COERCION-2025",
+        "VENUE_TAKEOVER_THREAT",
+        "SAFEGUARDING_DEFLECTION"
+      ]
+    },
+    {
+      "date": "2025-05-06",
+      "summary": "Ben sends emotional email to Fringe seeking reconciliation and shared goals. Email later used as setup for manipulative reply.",
+      "tags": [
+        "TRUST_EXPLOITATION",
+        "CROWBARRING_MYSELF_JUSTICE",
+        "VULNERABILITY_LEVERAGED"
+      ]
+    },
+    {
+      "date": "2025-05-07",
+      "summary": "Fringe replies with 'we’re so relieved you don’t hate us' — a phrase Alice admitted planting. Reply weaponised Ben’s vulnerability.",
+      "tags": [
+        "SCRIPTED_COMMUNICATION",
+        "PR_MANIPULATION",
+        "TRUST_EXPLOITATION"
+      ]
+    },
+    {
+      "date": "2025-05-09",
+      "summary": "Ben accuses Fringe of coercion and demands reputation restored. Direct quote: 'You coerced Alice into this, you are evil.'",
+      "tags": [
+        "COERCION_CONFIRMED",
+        "CROWBARRING_MYSELF_JUSTICE",
+        "TRUST_BREAKDOWN"
+      ]
+    },
+    {
+      "date": "2025-05-06",
+      "summary": "Alice Wright begins infrastructure-level control of Half a Camel’s ticketing and API sync under the guise of support.",
+      "tags": [
+        "BF-CONTRA-ALICE-EMAIL-COERCION-2025",
+        "VENUE_TAKEOVER_THREAT",
+        "INTEGRATION_CONTROL",
+        "SAFEGUARDING_DEFLECTION"
+      ],
+      "linked_documents": [
+        "Email_Alice_API_Ticketing_2025-05-06.txt"
+      ]
+    }
+  ],
+  "quote_cards": [
+    {
+      "id": "BC-Q-0509-COERCED-ALICE",
+      "meta": {
+        "title": "You coerced Alice into this, you are evil.",
+        "author": "Ben Carter",
+        "tags": [
+          "BF-CONTRA-ALICE-EMAIL-COERCION-2025",
+          "COERCION_CONFIRMED"
+        ],
+        "source_file": "Email_Chain_Alice_Coercion_2025-05-09.txt",
+        "added_at": "2025-08-31T23:50:43.373293"
+      },
+      "text": "You coerced Alice into this, you are evil."
+    },
+    {
+      "id": "AW-Q-0506-HELP-TICKETING",
+      "meta": {
+        "title": "If anyone has questions about ticketing problems, they can just email me directly.",
+        "author": "Alice Wright",
+        "tags": [
+          "VENUE_TAKEOVER_THREAT",
+          "OPERATIONAL_HANDOVER"
+        ],
+        "source_file": "Email_AliceWright_2025-05-06.txt",
+        "added_at": "2025-08-31T23:50:43.373296"
+      },
+      "text": "If anyone has questions about ticketing problems, they can just email me directly."
+    },
+    {
+      "id": "AW-Q-0506-DEVELOPER-ACCESS",
+      "meta": {
+        "title": "Are you happy for me to speak to your web developer directly?",
+        "author": "Alice Wright",
+        "tags": [
+          "INTEGRATION_CONTROL",
+          "BF-CONTRA-ALICE-EMAIL-COERCION-2025"
+        ],
+        "source_file": "Email_Alice_API_Ticketing_2025-05-06.txt",
+        "added_at": "2025-08-31T23:51:47.624915"
+      },
+      "text": "Are you happy for me to speak to your web developer directly?"
+    }
+  ],
+  "book_crosswalk": {
+    "chapter_id": "sec3_6_integration_trap",
+    "chapter_title": "3.6 — The Integration Trap",
+    "timeline_refs": [
+      "2025-05-06",
+      "2025-05-07",
+      "2025-05-09"
+    ],
+    "vex_tags": [
+      "BF-CONTRA-ALICE-EMAIL-COERCION-2025",
+      "SCRIPTED_COMMUNICATION",
+      "SAFEGUARDING_DEFLECTION"
+    ],
+    "contradictions": [
+      {
+        "code": "BF-CONTRA-ALICE-EMAIL-COERCION-2025"
+      }
+    ]
+  }
+}

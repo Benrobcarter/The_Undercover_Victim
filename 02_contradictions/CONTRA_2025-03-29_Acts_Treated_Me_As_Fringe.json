@@ -1,0 +1,35 @@
+{
+  "id": "CONTRA_2025-03-29_Acts_Treated_Me_As_Fringe",
+  "title": "Artists Assumed I Was the Fringe Due to Their Absence",
+  "claim": "Ben Carter acted outside of his venue manager role and undermined Brighton Fringe coordination.",
+  "reality": "On March 29, 2025, an act emailed Brighton Fringe confused about flyering licences and assumed Ben Carter was responsible for handling them. This exchange proves the Fringe had failed to lead basic logistics, and that Carter had become the default point of coordination in the minds of artists and partners.",
+  "actors": [
+    "Brighton Fringe",
+    "Trustees"
+  ],
+  "laws": [
+    {
+      "act": "Charities Act 2011",
+      "section": "s.177",
+      "why": "Trustees failed to ensure delivery of basic responsibilities"
+    },
+    {
+      "act": "Consumer Protection from Unfair Trading Regulations 2008",
+      "section": "Misleading omission",
+      "why": "Fringe withheld operational support without notice"
+    }
+  ],
+  "tags": [
+    "CONSTRUCTIVE_EXPULSION",
+    "VENUE_MANAGER_ROLE_EXPANSION",
+    "ORGANISATIONAL_ABANDONMENT",
+    "OPERATIONAL_BREAKDOWN"
+  ],
+  "timeline_hooks": [
+    "t2_brighton_fringe_consequences#2025-03-29"
+  ],
+  "evidence_refs": [
+    "EMAIL_2025-03-29_Act_Flyering_Licence_Confusion"
+  ],
+  "created_at": "2025-08-31T20:35:20.650942Z"
+}

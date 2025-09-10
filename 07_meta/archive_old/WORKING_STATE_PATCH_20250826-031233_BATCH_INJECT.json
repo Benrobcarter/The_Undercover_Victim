@@ -1,0 +1,379 @@
+{
+  "meta": {
+    "patch_id": "WORKING_STATE_PATCH_INGEST_20250826-031233",
+    "created_at": "20250826-031233",
+    "notes": "Auto-generated patch that was applied directly to shards. Provides audit trail only."
+  },
+  "edit_queue": [
+    {
+      "target": "shard_evidence_vex",
+      "action": "append_object",
+      "object": {
+        "meta": {
+          "evidence_id": "VEX_2025-05-16_CRN_47250093423_Update_Email",
+          "title": "16 May 2025 — ‘Update on your case’ (CRN 47250093423) + June 29–30 replies",
+          "date_local": "2025-05-16",
+          "status": "source_verified_from_pdf",
+          "source_path": "/mnt/data/VEX_2025-05-16_CRN_47250093423_Update_Email.json"
+        },
+        "content": {
+          "meta": {
+            "evidence_id": "VEX_2025-05-16_CRN_47250093423_Update_Email",
+            "title": "16 May 2025 — ‘Update on your case’ (CRN 47250093423) + June 29–30 replies",
+            "date_local": "2025-05-16",
+            "parties": [
+              "Ben Carter",
+              "Sussex Police (Citizen Portal)"
+            ],
+            "clusters": [
+              "SUSSEX_POLICE",
+              "CRIME_REF_47250093423_THREAD",
+              "NICE_LINKS",
+              "HONEY_POT_PROBE"
+            ],
+            "status": "source_verified_from_pdf",
+            "source_files": [
+              "16 May 2025 at 12-37 - Update on your case. Crime Reference Number_ 47250093423.pdf"
+            ],
+            "version": "1.0.0"
+          },
+          "claim_summary": "Official citizen-portal email confirms CRN 47250093423 for Stalking & Harassment (12:37 on 16 May 2025). Thread later includes user replies on 29–30 June asking for NICE links/evidence submission, and attaching materials used in the June ‘honey pot’ probe.",
+          "key_points": [
+            "CRN 47250093423 explicitly set for offence: Stalking and Harassment.",
+            "Portal ‘click/view’ tracking URLs present; thread shows user follow‑ups on 29–30 June 2025.",
+            "User requests NICE links or alternatives (flash drive/Google Drive) to submit evidence.",
+            "Subsequent messages include ‘proof of address’ and the deliberate ‘wrong one’ note aligned to honey‑pot test."
+          ],
+          "contradictions": [
+            {
+              "code": "EVIDENCE_SUBMISSION_GAP",
+              "claim": "Despite live CRN, user reports not receiving NICE links to submit evidence.",
+              "impact": [
+                "Submission friction; delays to investigation; Victims’ Code update concerns."
+              ]
+            },
+            {
+              "code": "RECORD_INTEGRITY",
+              "claim": "Thread becomes a live venue for the honey‑pot probe, testing system validation of contradictory statements.",
+              "impact": [
+                "Confidence in data quality affected; audit trail complexity increases."
+              ]
+            }
+          ],
+          "key_quotes": [
+            {
+              "source": "Portal header",
+              "text": "Your unique Crime Reference number is 47250093423 which has been recorded for the offence of Stalking And Harassment.",
+              "grade": "gold"
+            },
+            {
+              "source": "User reply (Jun 29)",
+              "text": "Hiya I havent been provided with any nice links… is there anyway I can prove I am me???",
+              "grade": "silver"
+            },
+            {
+              "source": "User reply (Jun 30, 00:06)",
+              "text": "Heres my proof of address — [audio filename].",
+              "grade": "silver"
+            }
+          ],
+          "timeline_hooks": [
+            {
+              "when": "2025-05-16T12:37:00",
+              "tz": "Europe/London",
+              "tag": "CRN_ISSUED",
+              "note": "CRN 47250093423 created for Stalking & Harassment."
+            },
+            {
+              "when": "2025-06-29T23:53:00",
+              "tz": "Europe/London",
+              "tag": "USER_FOLLOW_UP",
+              "note": "Requests NICE links; identity‑proofing question."
+            },
+            {
+              "when": "2025-06-30T00:06:00",
+              "tz": "Europe/London",
+              "tag": "ATTACHMENT_SENT",
+              "note": "‘Proof of address’ message includes audio filename."
+            },
+            {
+              "when": "2025-06-30T00:10:00",
+              "tz": "Europe/London",
+              "tag": "HONEY_POT_MESSAGE",
+              "note": "‘Sorry wrong one… sent via NICE link…’ message."
+            }
+          ],
+          "links": {
+            "citizen_portal_clicks": [
+              "citizenportal.sussex.police.uk/?qs=…"
+            ]
+          },
+          "hash": "7bcc5a88459478688deed493eea53bff50b44adc8ad31b76f41f41c7178dac5f"
+        }
+      }
+    },
+    {
+      "target": "shard_evidence_vex",
+      "action": "append_object",
+      "object": {
+        "meta": {
+          "evidence_id": "VEX_2025-06-29_to_30_Honey_Pot_Email",
+          "title": "29–30 Jun 2025 — The “Honey Pot” Email to Sussex Police (Counter‑intelligence probe)",
+          "date_local": "2025-06-29/2025-06-30",
+          "status": "draft_analysis",
+          "source_path": "/mnt/data/VEX_2025-06-29_to_30_Honey_Pot_Email.json"
+        },
+        "content": {
+          "meta": {
+            "evidence_id": "VEX_2025-06-29_to_30_Honey_Pot_Email",
+            "title": "29–30 Jun 2025 — The “Honey Pot” Email to Sussex Police (Counter‑intelligence probe)",
+            "date_local": "2025-06-29/2025-06-30",
+            "parties": [
+              "Ben Carter",
+              "Sussex Police (Citizen Portal/Replies)"
+            ],
+            "clusters": [
+              "SUSSEX_POLICE",
+              "HONEY_POT_PROBE",
+              "CRIME_REF_47250093423_THREAD",
+              "PC_RUSSELL_DECOY",
+              "SAR_AS_ACCESS_BARRIER",
+              "EVIDENCE_HANDLING_BREACH"
+            ],
+            "status": "draft_analysis",
+            "source_files": [
+              "Section 3.54 - The _Honey Pot_ Email.pdf",
+              "16 May 2025 at 12-37 - Update on your case. Crime Reference Number_ 47250093423.pdf"
+            ],
+            "version": "1.0.0"
+          },
+          "claim_summary": "A deliberately crafted ‘honey pot’ email was sent around 29–30 June 2025 to test Sussex Police’s record integrity after a SAR refusal. The email intentionally mixed a false timeline statement with attachments (including an audio file and the ‘PC Russell’ letter as ‘proof of address’) to observe whether the system would detect and correct inconsistencies or simply absorb them.",
+          "key_points": [
+            "Email body contained a deliberate falsehood about a prior NICE‑link submission (‘wrong file, sent in November for a different crime’).",
+            "Attachment 1: audio — “Alanna Shows UP At My Door Latet Monzo £100 26-09-24.mp3.”",
+            "Attachment 2: image — letter assigning ‘PC Russell’ (used sarcastically as ‘proof of address’).",
+            "Objective: probe whether Sussex Police systems could reconcile contradictory inputs and flag the inconsistency."
+          ],
+          "contradictions": [
+            {
+              "code": "PC_RUSSELL_DECOY",
+              "claim": "Use of the ‘PC Russell’ letter as ‘proof of address’ highlights prior decoy/officer-misdirection concerns.",
+              "impact": [
+                "Signals systemic narrative/assignment inconsistencies.",
+                "Supports thesis of administrative misdirection or record confusion."
+              ]
+            },
+            {
+              "code": "SAR_AS_ACCESS_BARRIER",
+              "claim": "Honey‑pot was triggered by an unlawful/obstructive SAR pathway; testing became the only route to surface record issues.",
+              "impact": [
+                "Delays, burden shifted to victim; transparency deficit."
+              ]
+            },
+            {
+              "code": "RECORD_INTEGRITY",
+              "claim": "Police system’s ability to detect and correct a deliberate false statement was tested; failure would indicate compromised record integrity.",
+              "impact": [
+                "Undermines confidence in auditability and chain‑of‑custody for evidence."
+              ]
+            }
+          ],
+          "key_quotes": [
+            {
+              "source": "Email text (June 30)",
+              "text": "Sorry wrong one, that was sent in via a nice link in November for a different crime, here's my proof of address",
+              "grade": "gold"
+            },
+            {
+              "source": "Analysis doc",
+              "text": "This email was not an act of harassment; it was an act of counter‑intelligence forced upon a victim.",
+              "grade": "silver"
+            }
+          ],
+          "related_material": [
+            {
+              "label": "Email chain 29–30 Jun 2025",
+              "path_or_ref": "Citizen Portal thread / reply address"
+            },
+            {
+              "label": "Audio attachment",
+              "filename": "Alanna Shows UP At My Door Latet Monzo £100 26-09-24.mp3"
+            },
+            {
+              "label": "Image attachment",
+              "filename": "PC_Russell_letter.png|jpg|pdf (exact ext unknown)"
+            }
+          ],
+          "timeline_hooks": [
+            {
+              "when": "2025-06-29T23:53:00",
+              "tz": "Europe/London",
+              "tag": "HONEY_POT_SENT",
+              "note": "Initial message into Citizen Portal thread."
+            },
+            {
+              "when": "2025-06-30T00:06:00",
+              "tz": "Europe/London",
+              "tag": "HONEY_POT_ATTACHMENT",
+              "note": "‘Proof of address’ message with audio attached."
+            },
+            {
+              "when": "2025-06-30T00:10:00",
+              "tz": "Europe/London",
+              "tag": "HONEY_POT_CORRECTION",
+              "note": "Follow‑up ‘wrong one’ + ‘proof of address’ statement."
+            }
+          ],
+          "links": {
+            "citizen_portal_clicks": [
+              "citizenportal.sussex.police.uk/?qs=…"
+            ]
+          },
+          "hash": "66b057b81769c313d673e0b78567c24a0167703bb0a0d30bcd785de4b87dd921"
+        }
+      }
+    },
+    {
+      "target": "shard_evidence_vex",
+      "action": "append_object",
+      "object": {
+        "meta": {
+          "evidence_id": "VEX_2025-06-22_101_Humiliation_Protocol",
+          "title": "22-06-2025 — 101 Call: The Humiliation Protocol",
+          "date_local": "2025-06-22",
+          "parties": [
+            "Ben Carter",
+            "Sussex Police (101 Handler)"
+          ],
+          "clusters": [
+            "SUSSEX_POLICE",
+            "101_CALLS",
+            "VICTIM_ERASURE_CONTINUED",
+            "GDPR_MISUSE_FOR_SILENCING",
+            "LOST_EVIDENCE_SUSSEX_POLICE",
+            "DEATH_BY_SILENCE_ESCALATION"
+          ],
+          "status": "pending_audio_attachment",
+          "source_hint": "Transcript Section 3.17 + audio placeholder",
+          "version": "1.0.0"
+        },
+        "content": {
+          "claim_summary": "25-minute 101 call: handler mocks victim, denies Victims’ Code, misstates GDPR, refuses new crime logging.",
+          "key_quotes": [
+            {
+              "t": "01:20",
+              "speaker": "101 Handler",
+              "text": "You're not dead, are you?",
+              "grade": "gold"
+            },
+            {
+              "t": "01:48",
+              "speaker": "Ben Carter",
+              "text": "I'm not a ghost. That was insulting.",
+              "grade": "silver"
+            },
+            {
+              "t": "24:06",
+              "speaker": "101 Handler",
+              "text": "You don't get to quote the Victim's Code... and then you get exactly what you want.",
+              "grade": "gold"
+            },
+            {
+              "t": "23:30",
+              "speaker": "Ben Carter",
+              "text": "I've called 45 times since April 6th and I have not had a call back.",
+              "grade": "silver"
+            }
+          ],
+          "related_material": [
+            {
+              "label": "Transcript (analysis)",
+              "path": "/mnt/data/Section 3.17 - The Humiliation Protocol Call.docx.txt"
+            },
+            {
+              "label": "Audio placeholder",
+              "path": "01_evidence/audio/2025/22-06-25_0506_101_Call_Embarrassing_Now.mp3.txt"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "target": "shard_contradictions_vex",
+      "action": "append_object",
+      "object": {
+        "meta": {
+          "contradiction_id": "CONTRA_2025-06-22_101_Humiliation_Protocol",
+          "title": "101 Humiliation Protocol — Rights Denied, Records Distorted",
+          "date_local": "2025-06-22",
+          "parties": [
+            "Ben Carter",
+            "Sussex Police (101 Handler)"
+          ],
+          "clusters": [
+            "SUSSEX_POLICE",
+            "VICTIM_ERASURE_CONTINUED",
+            "GDPR_MISUSE_FOR_SILENCING",
+            "DEATH_BY_SILENCE_ESCALATION"
+          ],
+          "status": "open",
+          "source_evidence": [
+            "VEX_2025-06-22_101_Humiliation_Protocol"
+          ]
+        },
+        "assertions": [
+          {
+            "code": "CASE_STATUS_INCONSISTENT",
+            "desc": "Handler says no officer; later says Dixon is attached."
+          },
+          {
+            "code": "VICTIMS_CODE_DENIAL",
+            "desc": "Callback/update refused after Victims’ Code citation."
+          },
+          {
+            "code": "GDPR_MISAPPLICATION_BAIL_INFO",
+            "desc": "Bail status withheld citing GDPR."
+          },
+          {
+            "code": "EVIDENCE_LOGGING_OBSTRUCTED",
+            "desc": "Fresh harassment not logged as crime/update."
+          },
+          {
+            "code": "CONTACT_RECORDS_MISSING",
+            "desc": "Victim reports 45 prior calls not acted on."
+          },
+          {
+            "code": "HUMILIATION_PROTOCOL_QUOTE",
+            "desc": "Handler: 'You’re not dead, are you?'"
+          }
+        ]
+      }
+    },
+    {
+      "target": "shard_timelines_core",
+      "action": "append_object",
+      "object": {
+        "event_id": "EVT_2025-06-22_101_Humiliation_Protocol",
+        "when": "2025-06-22T05:06:00",
+        "tz": "Europe/London",
+        "title": "101 Call — 'Humiliation Protocol' (25m)",
+        "summary": "Handler denies Victims’ Code callback, misstates GDPR, gives inconsistent officer allocation, refuses to log new harassment.",
+        "tags": [
+          "101_CALLS",
+          "VICTIMS_CODE_DENIAL",
+          "GDPR_MISAPPLICATION_BAIL_INFO",
+          "CASE_STATUS_INCONSISTENT",
+          "EVIDENCE_LOGGING_OBSTRUCTED",
+          "VICTIM_ERASURE_CONTINUED"
+        ],
+        "related_evidence": [
+          "VEX_2025-06-22_101_Humiliation_Protocol"
+        ],
+        "related_contradictions": [
+          "CONTRA_2025-06-22_101_Humiliation_Protocol"
+        ],
+        "risk": "high"
+      }
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "meta": {
+    "filename": "2025-08-22_Ben_to_ICOCasework_ICO-Case-IC-386797-G0L4.json",
+    "case_reference": "IC-386797-G0L4",
+    "thread_label": "ICO-IC-386797-G0L4",
+    "actor_cluster": [
+      "Ben Carter",
+      "ICO Casework"
+    ],
+    "date_range": {
+      "start": "2025-08-22T14:29:00",
+      "end": "2025-08-22T14:29:00"
+    },
+    "source_provenance": "Email from Ben Carter to icocasework@ico.org.uk on 2025-08-22",
+    "created_at_utc": "2025-08-24T16:45:00Z",
+    "vex_schema_version": "1.1",
+    "human_exhibit_name": "Gmail - 47240214305.pdf"
+  },
+  "emails": [
+    {
+      "id": "email-2025-08-22-1429-ben-ico",
+      "date": "2025-08-22T14:29:00",
+      "from": {
+        "name": "Ben Carter",
+        "email": "benrobcarter@gmail.com",
+        "badge": ""
+      },
+      "to": [
+        {
+          "name": "ICO Casework",
+          "email": "icocasework@ico.org.uk",
+          "badge": ""
+        }
+      ],
+      "subject_summary": "ICO case update & data-breach evidence check (IC-386797-G0L4)",
+      "body": "Will do, wasn't sure to overwhelm you or what was relevant to this case, i've forwarded a lot of emails to the ICO — just checking you got this [REDACTED SENSITIVE ALLEGATION] data breach, not sure if it was to intimidate me considering my question, but I'm sure this is the kind of evidence the ICO does take seriously.\nThanks again\nBen Carter\n[Quoted text hidden]\nAttachment noted by sender: Gmail - 47240214305.pdf (458K)",
+      "attachments": [
+        {
+          "filename": "Gmail - 47240214305.pdf",
+          "size_kb": 458
+        }
+      ],
+      "labels": [
+        "ICO Case Update",
+        "Evidence Submission",
+        "Data Breach Report (Alleged)",
+        "Intimidation Concern",
+        "REDACTED_ALLEGATION"
+      ]
+    }
+  ],
+  "vex": [
+    {
+      "email_id": "email-2025-08-22-1429-ben-ico",
+      "sentence_tags": [
+        {
+          "text": "just checking you got this [REDACTED SENSITIVE ALLEGATION] data breach",
+          "tags": [
+            "EVIDENCE_PROVIDED",
+            "DATA_BREACH_ALLEGATION"
+          ],
+          "notes": "Potential personal-data breach is being flagged to ICO; sensitive allegation redacted for safety."
+        },
+        {
+          "text": "not sure if it was to intimidate me",
+          "tags": [
+            "INTIMIDATION_CONCERN",
+            "VICTIM_VULNERABILITY"
+          ],
+          "notes": "Reporter expresses fear/intimidation potentially linked to the same matter."
+        }
+      ]
+    }
+  ],
+  "contradiction_links": [
+    {
+      "id": "ICO-ACK-PENDING-2025-08-22",
+      "claim": "Regulator (ICO) should acknowledge and triage potential personal data breach reports promptly.",
+      "reality": "Sender is seeking confirmation that the ICO received the data breach evidence for case IC-386797-G0L4.",
+      "laws_breached": [
+        "UK GDPR",
+        "Data Protection Act 2018 (potential breach reported)"
+      ],
+      "damages": [
+        "Emotional",
+        "Strategic"
+      ]
+    }
+  ],
+  "timeline_hooks": [
+    {
+      "phase": "Regulatory Complaint",
+      "date": "2025-08-22",
+      "events": [
+        "Email to ICO (IC-386797-G0L4) checking receipt of alleged data-breach evidence and raising intimidation concern."
+      ],
+      "related_threads": [
+        "ICO-IC-386797-G0L4"
+      ]
+    }
+  ],
+  "damages_summary": {
+    "emotional": "Stress and anxiety pending confirmation of ICO receipt; intimidation concern noted.",
+    "strategic": "Awaiting regulator triage may delay broader complaint and mitigation steps.",
+    "reputational": "If mishandled, risk of further harm from continued disclosure/misuse of personal information."
+  }
+}

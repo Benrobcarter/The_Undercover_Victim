@@ -1,0 +1,15 @@
+# Ignore heavy files
+*.zip
+*.bak*
+*.mp3
+*.m4a
+*.wav
+*.mp4
+*.mov
+*.tiff
+*.pdf
+*.webp
+
+# macOS
+.DS_Store
+__MACOSX/

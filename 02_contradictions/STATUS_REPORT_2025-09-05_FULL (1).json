@@ -1,0 +1,21 @@
+{
+  "status": "OK",
+  "timestamp": "2025-09-05T09:50:51.180114Z",
+  "latest_patch": "2025-09-01",
+  "counts": {
+    "evidence_vex": 0,
+    "contradictions": 0,
+    "timeline_events": 0,
+    "audio_hashes_verified": 0,
+    "contradiction_clusters": {}
+  },
+  "hashes": {
+    "evidence_vex_sha256": null,
+    "contradictions_sha256": null,
+    "timeline_sha256": null,
+    "atlas_sha256": "8b8177dc84656619bae95b6fdee8fb1192d3379805b3096c9145bf64f3066feb"
+  },
+  "atlas_integrity": "OK",
+  "route_issues": [],
+  "notes": "Audit complete. Clusters counted, audio hashes verified, atlas validated."
+}

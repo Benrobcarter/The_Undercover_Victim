@@ -1,0 +1,27 @@
+[
+  {
+    "date": "2025-05-19",
+    "event": "Sussex Police formally confirm Ben Carter as the victim in Crime Reference 47250093423, with PC Alan Russell assigned as investigating officer.",
+    "linked_evidence": [
+      "EVID_2025-05-19_SussexPolice_OfficerAssignment_47250093423_PC_Russell.json"
+    ],
+    "tags": [
+      "CRIME_REF_47250093423_CONFIRMED",
+      "PC_ALAN_RUSSELL_ASSIGNED",
+      "VICTIM_STATUS_FORMAL_RECOGNITION"
+    ],
+    "cluster": "Sussex Police"
+  },
+  {
+    "date": "2025-08-03",
+    "event": "Sussex Police issue second stalking case crime ref 47250152583. Report submitted without Fringe board\u2019s knowledge.",
+    "linked_evidence": [
+      "EVID_2025-08-03_SussexPolice_Second_Stalking_CrimeRef_47250152583.json"
+    ],
+    "tags": [
+      "CRIME_REF_47250152583_CONFIRMED",
+      "NEW_EVIDENCE_SUBMISSION_CONFIRMED"
+    ],
+    "cluster": "Sussex Police"
+  }
+]

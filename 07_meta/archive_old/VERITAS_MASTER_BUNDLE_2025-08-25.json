@@ -1,0 +1,31 @@
+{
+  "meta": {
+    "name": "VERITAS_MASTER_BUNDLE_2025-08-25",
+    "generated_at": "2025-08-25T16:44:37.137734Z",
+    "format_version": "1.1",
+    "notes": "Auto-generated meta-index of all VERITAS* artifacts and related contradictions/dashboards."
+  },
+  "components": [
+    {
+      "path": "01_evidence/veritas/VERITAS_ASSERTIONS_INDEX_2025-08-25.csv",
+      "bytes": 86,
+      "sha256": "aa26c30635f794957a4aa4071c28a0defc03967a0146f2e756da9f4e0ca9b75a"
+    },
+    {
+      "path": "01_evidence/veritas/VERITAS_MASTER_BUNDLE_2025-08-25.json",
+      "bytes": 25040,
+      "sha256": "e0852a336ffc747b0294f46cdb40b1958f9cf7af5600ad0ef836c364c9e88210"
+    },
+    {
+      "path": "01_evidence/veritas/VERITAS_README_2025-08-25.md",
+      "bytes": 1460,
+      "sha256": "50a4802411918883b0505c5fbd65cafbb0a09cf22e265331c92ec448c244eadb"
+    },
+    {
+      "path": "MASTER_EVIDENCE_WORKBOOK_WITH_VERITAS_2025-08-25 (4).xlsx",
+      "bytes": 144005,
+      "sha256": "9cc51716e294822da75118dd75d59911b5a07e38e4e0fb7ac7703df1ac6ba947"
+    }
+  ],
+  "hashes_ref": "01_evidence/veritas/VERITAS_FILE_HASHES_2025-08-25.json"
+}

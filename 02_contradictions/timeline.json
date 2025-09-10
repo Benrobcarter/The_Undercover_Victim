@@ -1,0 +1,324 @@
+{
+  "generated_at": "2025-08-26_010704Z",
+  "timeline": [
+    {
+      "when": "2024-11-07T12:00:00",
+      "title": "EVIDENCE_HANDLING",
+      "note": "Alleged listen/delete of July Call by OIC (time placeholder; confirm exact time)",
+      "tags": [
+        "EVIDENCE_HANDLING"
+      ],
+      "source_file": "VEX_2024-11-07_Dixon_Deletion_Log.json",
+      "source_relpath": "files/02_vex/VEX_2024-11-07_Dixon_Deletion_Log.json"
+    },
+    {
+      "when": "2024-11-07T12:00:00",
+      "title": "EVIDENCE_HANDLING",
+      "note": "Alleged listen/delete of July Call by OIC (time placeholder; confirm exact time)",
+      "tags": [
+        "EVIDENCE_HANDLING"
+      ],
+      "source_file": "TIMELINE_MASTER_2025-08-26.json",
+      "source_relpath": "files/04_master/TIMELINE_MASTER_2025-08-26.json"
+    },
+    {
+      "when": "2025-02-12T12:00:00",
+      "title": "DATA_BREACH",
+      "note": "Unredacted internal email forwarded externally (time placeholder \u2014 confirm exact time from headers)",
+      "tags": [
+        "DATA_BREACH"
+      ],
+      "source_file": "VEX_2025-02-12_Dixon_GDPR_Forward_PaulDouble.json",
+      "source_relpath": "files/02_vex/VEX_2025-02-12_Dixon_GDPR_Forward_PaulDouble.json"
+    },
+    {
+      "when": "2025-02-12T12:00:00",
+      "title": "DATA_BREACH",
+      "note": "Unredacted internal email forwarded externally (time placeholder \u2014 confirm exact time from headers)",
+      "tags": [
+        "DATA_BREACH"
+      ],
+      "source_file": "TIMELINE_MASTER_2025-08-26.json",
+      "source_relpath": "files/04_master/TIMELINE_MASTER_2025-08-26.json"
+    },
+    {
+      "when": "2025-03-01T12:00:00",
+      "title": "HOME_VISIT_NO_BWV",
+      "note": "Exact date/time TBD \u2014 use email/calendar/sms to pin down.",
+      "tags": [
+        "HOME_VISIT_NO_BWV"
+      ],
+      "source_file": "VEX_2025-03_HomeVisit_No_BWV.json",
+      "source_relpath": "files/02_vex/VEX_2025-03_HomeVisit_No_BWV.json"
+    },
+    {
+      "when": "2025-03-01T12:00:00",
+      "title": "HOME_VISIT_NO_BWV",
+      "note": "Exact date/time TBD \u2014 use email/calendar/sms to pin down.",
+      "tags": [
+        "HOME_VISIT_NO_BWV"
+      ],
+      "source_file": "TIMELINE_MASTER_2025-08-26.json",
+      "source_relpath": "files/04_master/TIMELINE_MASTER_2025-08-26.json"
+    },
+    {
+      "when": "2025-04-06",
+      "title": "SUICIDE_ATTEMPT",
+      "note": "Referenced in call as occurring on 06-04-2025.",
+      "tags": [
+        "SUICIDE_ATTEMPT"
+      ],
+      "source_file": "VEX_2025-04-28_Sussex_Police_Complaints_Department_Call.json",
+      "source_relpath": "files/02_vex/VEX_2025-04-28_Sussex_Police_Complaints_Department_Call.json"
+    },
+    {
+      "when": "2025-04-06",
+      "title": "SUICIDE_ATTEMPT",
+      "note": "Referenced in call as occurring on 06-04-2025.",
+      "tags": [
+        "SUICIDE_ATTEMPT"
+      ],
+      "source_file": "TIMELINE_MASTER_2025-08-26.json",
+      "source_relpath": "files/04_master/TIMELINE_MASTER_2025-08-26.json"
+    },
+    {
+      "when": "2025-04-17",
+      "title": "SUICIDE_LOGGED",
+      "note": "In-call confirmation that the suicide was logged on 17-04-2025.",
+      "tags": [
+        "SUICIDE_LOGGED"
+      ],
+      "source_file": "VEX_2025-04-28_Sussex_Police_Complaints_Department_Call.json",
+      "source_relpath": "files/02_vex/VEX_2025-04-28_Sussex_Police_Complaints_Department_Call.json"
+    },
+    {
+      "when": "2025-04-17",
+      "title": "SUICIDE_LOGGED",
+      "note": "In-call confirmation that the suicide was logged on 17-04-2025.",
+      "tags": [
+        "SUICIDE_LOGGED"
+      ],
+      "source_file": "TIMELINE_MASTER_2025-08-26.json",
+      "source_relpath": "files/04_master/TIMELINE_MASTER_2025-08-26.json"
+    },
+    {
+      "when": "2025-04-17T04:32:00",
+      "title": "CALL_101",
+      "note": "Holiday Alibi call documents chain-of-command leave & July\u2013Nov mismatch",
+      "tags": [
+        "CALL_101"
+      ],
+      "source_file": "VEX_2025-04-17_0432_101_Holiday_Alibi_REBUILT.json",
+      "source_relpath": "files/02_vex/VEX_2025-04-17_0432_101_Holiday_Alibi_REBUILT.json"
+    },
+    {
+      "when": "2025-04-17T04:32:00",
+      "title": "CALL_101",
+      "note": "Holiday Alibi call documents chain-of-command leave & July\u2013Nov mismatch",
+      "tags": [
+        "CALL_101"
+      ],
+      "source_file": "TIMELINE_MASTER_2025-08-26.json",
+      "source_relpath": "files/04_master/TIMELINE_MASTER_2025-08-26.json"
+    },
+    {
+      "when": "2025-04-17T04:33:00",
+      "title": "OIC_IDENTIFIED",
+      "note": "OIC named as PC Jonathan Dixon",
+      "tags": [
+        "OIC_IDENTIFIED"
+      ],
+      "source_file": "VEX_2025-04-17_0432_101_Holiday_Alibi_REBUILT.json",
+      "source_relpath": "files/02_vex/VEX_2025-04-17_0432_101_Holiday_Alibi_REBUILT.json"
+    },
+    {
+      "when": "2025-04-17T04:33:00",
+      "title": "OIC_IDENTIFIED",
+      "note": "OIC named as PC Jonathan Dixon",
+      "tags": [
+        "OIC_IDENTIFIED"
+      ],
+      "source_file": "TIMELINE_MASTER_2025-08-26.json",
+      "source_relpath": "files/04_master/TIMELINE_MASTER_2025-08-26.json"
+    },
+    {
+      "when": "2025-04-17T04:40:00",
+      "title": "CHAIN_ON_LEAVE",
+      "note": "OIC Dixon + Sgt Duffy + Insp Palmer all on leave until Tuesday",
+      "tags": [
+        "CHAIN_ON_LEAVE"
+      ],
+      "source_file": "VEX_2025-04-17_0432_101_Holiday_Alibi_REBUILT.json",
+      "source_relpath": "files/02_vex/VEX_2025-04-17_0432_101_Holiday_Alibi_REBUILT.json"
+    },
+    {
+      "when": "2025-04-17T04:40:00",
+      "title": "CHAIN_ON_LEAVE",
+      "note": "OIC Dixon + Sgt Duffy + Insp Palmer all on leave until Tuesday",
+      "tags": [
+        "CHAIN_ON_LEAVE"
+      ],
+      "source_file": "TIMELINE_MASTER_2025-08-26.json",
+      "source_relpath": "files/04_master/TIMELINE_MASTER_2025-08-26.json"
+    },
+    {
+      "when": "2025-04-17T04:41:00",
+      "title": "STATUS_CONFLICT",
+      "note": "Caller says July case closed; handler says under investigation",
+      "tags": [
+        "STATUS_CONFLICT"
+      ],
+      "source_file": "VEX_2025-04-17_0432_101_Holiday_Alibi_REBUILT.json",
+      "source_relpath": "files/02_vex/VEX_2025-04-17_0432_101_Holiday_Alibi_REBUILT.json"
+    },
+    {
+      "when": "2025-04-17T04:41:00",
+      "title": "STATUS_CONFLICT",
+      "note": "Caller says July case closed; handler says under investigation",
+      "tags": [
+        "STATUS_CONFLICT"
+      ],
+      "source_file": "TIMELINE_MASTER_2025-08-26.json",
+      "source_relpath": "files/04_master/TIMELINE_MASTER_2025-08-26.json"
+    },
+    {
+      "when": "2025-04-17T04:42:00",
+      "title": "ACCESS_BARRIER",
+      "note": "Handler declines to provide details; promises email escalation; advises 999 for emergencies",
+      "tags": [
+        "ACCESS_BARRIER"
+      ],
+      "source_file": "VEX_2025-04-17_0432_101_Holiday_Alibi_REBUILT.json",
+      "source_relpath": "files/02_vex/VEX_2025-04-17_0432_101_Holiday_Alibi_REBUILT.json"
+    },
+    {
+      "when": "2025-04-17T04:42:00",
+      "title": "ACCESS_BARRIER",
+      "note": "Handler declines to provide details; promises email escalation; advises 999 for emergencies",
+      "tags": [
+        "ACCESS_BARRIER"
+      ],
+      "source_file": "TIMELINE_MASTER_2025-08-26.json",
+      "source_relpath": "files/04_master/TIMELINE_MASTER_2025-08-26.json"
+    },
+    {
+      "when": "2025-04-28",
+      "title": "CALL_COMPLAINTS",
+      "note": "Call with Sussex Police Complaints; confirms live case is July reference; suicide log delay noted.",
+      "tags": [
+        "CALL_COMPLAINTS"
+      ],
+      "source_file": "VEX_2025-04-28_Sussex_Police_Complaints_Department_Call.json",
+      "source_relpath": "files/02_vex/VEX_2025-04-28_Sussex_Police_Complaints_Department_Call.json"
+    },
+    {
+      "when": "2025-04-28",
+      "title": "CALL_COMPLAINTS",
+      "note": "Call with Sussex Police Complaints; confirms live case is July reference; suicide log delay noted.",
+      "tags": [
+        "CALL_COMPLAINTS"
+      ],
+      "source_file": "TIMELINE_MASTER_2025-08-26.json",
+      "source_relpath": "files/04_master/TIMELINE_MASTER_2025-08-26.json"
+    },
+    {
+      "when": "2025-04-30T14:00:00",
+      "title": "MEETING_FLAGGED",
+      "note": "Veritas + police meeting referenced as 'Wednesday at 2pm'.",
+      "tags": [
+        "MEETING_FLAGGED"
+      ],
+      "source_file": "VEX_2025-04-28_Sussex_Police_Complaints_Department_Call.json",
+      "source_relpath": "files/02_vex/VEX_2025-04-28_Sussex_Police_Complaints_Department_Call.json"
+    },
+    {
+      "when": "2025-04-30T14:00:00",
+      "title": "MEETING_FLAGGED",
+      "note": "Veritas + police meeting referenced as 'Wednesday at 2pm'.",
+      "tags": [
+        "MEETING_FLAGGED"
+      ],
+      "source_file": "TIMELINE_MASTER_2025-08-26.json",
+      "source_relpath": "files/04_master/TIMELINE_MASTER_2025-08-26.json"
+    },
+    {
+      "when": "2025-05-16T02:31:00",
+      "title": "CALL_101_NOTE_LEFT",
+      "note": "Name + DOB used to leave note without crime number",
+      "tags": [
+        "CALL_101_NOTE_LEFT"
+      ],
+      "source_file": "VEX_2025-05-16_101_NoCrimeRef.json",
+      "source_relpath": "files/02_vex/VEX_2025-05-16_101_NoCrimeRef.json"
+    },
+    {
+      "when": "2025-05-16T02:31:00",
+      "title": "101 Call \u2014 'No Crime Number' Strategy",
+      "note": "Handler (Ayrton 42755) agrees to leave note for OIC using name + DOB; no crime reference provided.",
+      "tags": [
+        "CALL_101_NOTE_LEFT",
+        "INFOSEC_VULNERABILITIES"
+      ],
+      "source_file": "TIMELINE_PATCH_2025-05-16_101_NoCrimeRef.json",
+      "source_relpath": "files/05_patches/TIMELINE_PATCH_2025-05-16_101_NoCrimeRef.json"
+    },
+    {
+      "when": "2025-05-16T02:31:00",
+      "title": "CALL_101_NOTE_LEFT",
+      "note": "Name + DOB used to leave note without crime number",
+      "tags": [
+        "CALL_101_NOTE_LEFT"
+      ],
+      "source_file": "TIMELINE_MASTER_2025-08-26.json",
+      "source_relpath": "files/04_master/TIMELINE_MASTER_2025-08-26.json"
+    },
+    {
+      "when": "2025-05-16T02:31:00",
+      "title": "101 Call \u2014 'No Crime Number' Strategy",
+      "note": "Handler (Ayrton 42755) agrees to leave note for OIC using name + DOB; no crime reference provided.",
+      "tags": [],
+      "source_file": "TIMELINE_MASTER_2025-08-26.json",
+      "source_relpath": "files/04_master/TIMELINE_MASTER_2025-08-26.json"
+    },
+    {
+      "when": "2025-05-26T09:10:00",
+      "title": "CALL_101_OIC_DISCLOSED",
+      "note": "OIC name(s) provided for multiple crime refs",
+      "tags": [
+        "CALL_101_OIC_DISCLOSED"
+      ],
+      "source_file": "VEX_2025-05-26_101_Strategic_Confusion.json",
+      "source_relpath": "files/02_vex/VEX_2025-05-26_101_Strategic_Confusion.json"
+    },
+    {
+      "when": "2025-05-26T09:10:00",
+      "title": "CALL_101_OIC_DISCLOSED",
+      "note": "OIC name(s) provided for multiple crime refs",
+      "tags": [
+        "CALL_101_OIC_DISCLOSED"
+      ],
+      "source_file": "TIMELINE_MASTER_2025-08-26.json",
+      "source_relpath": "files/04_master/TIMELINE_MASTER_2025-08-26.json"
+    },
+    {
+      "when": "2025-05-26T09:12:00",
+      "title": "THIRD_REF_IDENTIFIED",
+      "note": "47250093423 confirmed with PC Russell",
+      "tags": [
+        "THIRD_REF_IDENTIFIED"
+      ],
+      "source_file": "VEX_2025-05-26_101_Strategic_Confusion.json",
+      "source_relpath": "files/02_vex/VEX_2025-05-26_101_Strategic_Confusion.json"
+    },
+    {
+      "when": "2025-05-26T09:12:00",
+      "title": "THIRD_REF_IDENTIFIED",
+      "note": "47250093423 confirmed with PC Russell",
+      "tags": [
+        "THIRD_REF_IDENTIFIED"
+      ],
+      "source_file": "TIMELINE_MASTER_2025-08-26.json",
+      "source_relpath": "files/04_master/TIMELINE_MASTER_2025-08-26.json"
+    }
+  ]
+}

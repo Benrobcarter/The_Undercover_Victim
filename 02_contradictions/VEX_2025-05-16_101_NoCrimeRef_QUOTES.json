@@ -1,0 +1,334 @@
+{
+  "meta": {
+    "for_evidence_id": "VEX_2025-05-16_101_NoCrimeRef",
+    "source_file_name": "16-05-25_02-31_101_CALL_No crime-number-strategy.txt",
+    "source_path": "/mnt/data/16-05-25_02-31_101_CALL_No crime-number-strategy.txt",
+    "source_sha256": "0f484c0bd17648eedecf1b539e9f04a2b25399eafdafb5232b5ed71a95752096",
+    "created_at": "2025-08-26T00:49:46.692795Z",
+    "lines_count": 46
+  },
+  "quotes": [
+    {
+      "idx": 1,
+      "line_no": 1,
+      "speaker": "Unknown",
+      "time": null,
+      "text": "101 triage  0:00"
+    },
+    {
+      "idx": 2,
+      "line_no": 2,
+      "speaker": "Unknown",
+      "time": null,
+      "text": "This."
+    },
+    {
+      "idx": 3,
+      "line_no": 3,
+      "speaker": "Unknown",
+      "time": null,
+      "text": ""
+    },
+    {
+      "idx": 4,
+      "line_no": 4,
+      "speaker": "Unknown",
+      "time": null,
+      "text": "Automated Jo  0:07"
+    },
+    {
+      "idx": 5,
+      "line_no": 5,
+      "speaker": "Unknown",
+      "time": null,
+      "text": "Thank you for calling Sussex police. I'm Chief Constable Joe shiner. I want us to deal with your inquiry as quickly as possible. If your call is about you or someone you know experiencing a mental health crisis, please hang up and dial 111,"
+    },
+    {
+      "idx": 6,
+      "line_no": 6,
+      "speaker": "Unknown",
+      "time": null,
+      "text": ""
+    },
+    {
+      "idx": 7,
+      "line_no": 7,
+      "speaker": "Unknown",
+      "time": null,
+      "text": "Automated Jo  0:25"
+    },
+    {
+      "idx": 8,
+      "line_no": 8,
+      "speaker": "Unknown",
+      "time": null,
+      "text": "and press Option two, where you will be able to speak to specially trained mental health staff. Did you know you can report crime online at sussex.police.uk"
+    },
+    {
+      "idx": 9,
+      "line_no": 9,
+      "speaker": "Unknown",
+      "time": null,
+      "text": ""
+    },
+    {
+      "idx": 10,
+      "line_no": 10,
+      "speaker": "Unknown",
+      "time": null,
+      "text": "Automated Jo  0:36"
+    },
+    {
+      "idx": 11,
+      "line_no": 11,
+      "speaker": "Unknown",
+      "time": null,
+      "text": "which is quick and easy to use. You can report non urgent incidents, including crimes such as theft and road traffic incidents, and you can also request or provide an update on an ongoing matter."
+    },
+    {
+      "idx": 12,
+      "line_no": 12,
+      "speaker": "Unknown",
+      "time": null,
+      "text": ""
+    },
+    {
+      "idx": 13,
+      "line_no": 13,
+      "speaker": "Unknown",
+      "time": null,
+      "text": "Automated Jo  0:50"
+    },
+    {
+      "idx": 14,
+      "line_no": 14,
+      "speaker": "Unknown",
+      "time": null,
+      "text": "If you are unable to report online, please hold and we will be with you as soon as we can when we are experiencing a high number of calls, you may be held in a queue, and we will offer you the option of a call back. Please select from the following options,"
+    },
+    {
+      "idx": 15,
+      "line_no": 15,
+      "speaker": "Unknown",
+      "time": null,
+      "text": ""
+    },
+    {
+      "idx": 16,
+      "line_no": 16,
+      "speaker": "Unknown",
+      "time": null,
+      "text": "generic 101 automated  1:05"
+    },
+    {
+      "idx": 17,
+      "line_no": 17,
+      "speaker": "Unknown",
+      "time": null,
+      "text": "if you know the extension number you require. Press one, if you need to speak to one of our custody centers. Press two, if you are reporting a crime. Press three, if you are reporting an incident that is a police related matter. Press four, alternatively, please hold to be connected to this. You'll all be recorded for training and monitoring purposes. We are connecting you to an advisor who will be with you as soon as they are free."
+    },
+    {
+      "idx": 18,
+      "line_no": 18,
+      "speaker": "Unknown",
+      "time": null,
+      "text": ""
+    },
+    {
+      "idx": 19,
+      "line_no": 19,
+      "speaker": "Unknown",
+      "time": null,
+      "text": "101 Ayrton 42755  1:41"
+    },
+    {
+      "idx": 20,
+      "line_no": 20,
+      "speaker": "Unknown",
+      "time": null,
+      "text": "Sussex police, what are you reporting?"
+    },
+    {
+      "idx": 21,
+      "line_no": 21,
+      "speaker": "Unknown",
+      "time": null,
+      "text": ""
+    },
+    {
+      "idx": 22,
+      "line_no": 22,
+      "speaker": "Unknown",
+      "time": null,
+      "text": "Ben Carter  1:43"
+    },
+    {
+      "idx": 23,
+      "line_no": 23,
+      "speaker": "Unknown",
+      "time": null,
+      "text": "Hello, mate, yeah, could I just give a"
+    },
+    {
+      "idx": 24,
+      "line_no": 24,
+      "speaker": "Unknown",
+      "time": null,
+      "text": ""
+    },
+    {
+      "idx": 25,
+      "line_no": 25,
+      "speaker": "Unknown",
+      "time": null,
+      "text": "Ben Carter  1:47"
+    },
+    {
+      "idx": 26,
+      "line_no": 26,
+      "speaker": "Unknown",
+      "time": null,
+      "text": "leave like a note for my officer and my crime reference?"
+    },
+    {
+      "idx": 27,
+      "line_no": 27,
+      "speaker": "Unknown",
+      "time": null,
+      "text": ""
+    },
+    {
+      "idx": 28,
+      "line_no": 28,
+      "speaker": "Unknown",
+      "time": null,
+      "text": "101 Ayrton 42755  1:50"
+    },
+    {
+      "idx": 29,
+      "line_no": 29,
+      "speaker": "Unknown",
+      "time": null,
+      "text": "Okay, what was your crime reference?"
+    },
+    {
+      "idx": 30,
+      "line_no": 30,
+      "speaker": "Unknown",
+      "time": null,
+      "text": ""
+    },
+    {
+      "idx": 31,
+      "line_no": 31,
+      "speaker": "Unknown",
+      "time": null,
+      "text": "Ben Carter  1:53"
+    },
+    {
+      "idx": 32,
+      "line_no": 32,
+      "speaker": "Unknown",
+      "time": null,
+      "text": "I can't remember it was, can I give you my name and date of birth?"
+    },
+    {
+      "idx": 33,
+      "line_no": 33,
+      "speaker": "Unknown",
+      "time": null,
+      "text": ""
+    },
+    {
+      "idx": 34,
+      "line_no": 34,
+      "speaker": "Unknown",
+      "time": null,
+      "text": "101 Ayrton 42755  2:02"
+    },
+    {
+      "idx": 35,
+      "line_no": 35,
+      "speaker": "Unknown",
+      "time": null,
+      "text": "Okay,"
+    },
+    {
+      "idx": 36,
+      "line_no": 36,
+      "speaker": "Unknown",
+      "time": null,
+      "text": ""
+    },
+    {
+      "idx": 37,
+      "line_no": 37,
+      "speaker": "Unknown",
+      "time": null,
+      "text": "Ben Carter  2:03"
+    },
+    {
+      "idx": 38,
+      "line_no": 38,
+      "speaker": "Unknown",
+      "time": null,
+      "text": "so, yeah, it's Ben Carter."
+    },
+    {
+      "idx": 39,
+      "line_no": 39,
+      "speaker": "Unknown",
+      "time": null,
+      "text": ""
+    },
+    {
+      "idx": 40,
+      "line_no": 40,
+      "speaker": "Unknown",
+      "time": null,
+      "text": "101 Ayrton 42755  2:05"
+    },
+    {
+      "idx": 41,
+      "line_no": 41,
+      "speaker": "Unknown",
+      "time": null,
+      "text": "And what was your date of birth? It's the 15th of April, 1987"
+    },
+    {
+      "idx": 42,
+      "line_no": 42,
+      "speaker": "Unknown",
+      "time": null,
+      "text": ""
+    },
+    {
+      "idx": 43,
+      "line_no": 43,
+      "speaker": "Unknown",
+      "time": null,
+      "text": "Ben Carter  2:20"
+    },
+    {
+      "idx": 44,
+      "line_no": 44,
+      "speaker": "Unknown",
+      "time": null,
+      "text": "Okay,"
+    },
+    {
+      "idx": 45,
+      "line_no": 45,
+      "speaker": "Unknown",
+      "time": null,
+      "text": ""
+    },
+    {
+      "idx": 46,
+      "line_no": 46,
+      "speaker": "Unknown",
+      "time": null,
+      "text": "Transcribed by https://otter.ai"
+    }
+  ]
+}

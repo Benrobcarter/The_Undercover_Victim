@@ -1,0 +1,1198 @@
+[
+  {
+    "source_id": "VEX_2025-04-27_Veritas_Advocates_Gambit",
+    "source_path": "/mnt/data/VEX_2025-04-27_Veritas_Advocates_Gambit.json",
+    "code": "FALSE_ALLEGATION_USED_AS_COERCION",
+    "title": "Veritas call confirms false rape allegation embedded in stalking case strategy",
+    "claim": "Victim required to legitimise false allegation within stalking case to evidence alarm/distress.",
+    "impact": [
+      "Psychological coercion by system",
+      "Safeguarding breach undermining truth",
+      "Misrepresentation to CPS"
+    ],
+    "legal_risks": [
+      "Victims’ Code of Practice",
+      "PACE 1984 (consent to statement contents)",
+      "CPS Safeguarding Strategy"
+    ],
+    "priority": "high"
+  },
+  {
+    "source_id": "VEX_2025-05-25_101_CrimeRef_Confusion",
+    "created_utc": "2025-08-30T01:57:00Z",
+    "code": "MULTIPLE_CRIME_REFS_CONFUSION",
+    "title": "Multiple crime references issued for same stalking allegations",
+    "claim": "101 handler confirms two references both November, both PC Dixon; later also PC Alan Russell assigned.",
+    "impact": [
+      "Victim unclear where to submit evidence",
+      "Conflicting officer assignment undermines accountability",
+      "Record integrity breach"
+    ],
+    "priority": "high",
+    "clusters": [
+      "CRIME_REF_47240214305_THREAD",
+      "DEATH_BY_SILENCE"
+    ]
+  },
+  {
+    "id": "EX_FRINGE_ACTION_PLAN_MEETING_NOTES_2025",
+    "title": "Brighton Fringe 'Action Plan & Meeting Notes' Email Chain – Safeguarding, Deflection, and Escalation",
+    "date_range": [
+      "2025-04-08",
+      "2025-04-10"
+    ],
+    "source_files": [
+      "Gmail - Typing up what? You could have fit the samitans numver x 40 in this email.pdf",
+      "Automatic reply- Action plan & meeting notes 1 message Amy Keogh <amy.keogh@brightonfringe.org> 10 April 2025 at 20-48.pdf"
+    ],
+    "core_quotes": [
+      "At the beginning of our meeting you said that you tried to take your life last weekend and that you had been in hospital as a result. When people disclose this information to us, we take it very seriously and try to support where we can and with permissions.",
+      "I want to be clear that, despite the summary you've provided, a large part of my distress remains unacknowledged — and was actively shut down during the meeting itself.",
+      "Throughout the discussion, I attempted to raise the events of last year, which still affect my ability to work and trust this process. ... I was immediately shut down with 'We’re talking about this year.' That was a deliberate deflection.",
+      "If the Brighton Fringe remains unwilling to acknowledge or discuss last year’s failures, then my only request is this: Treat me as you would any other venue manager."
+    ],
+    "participants": [
+      "Ben Carter",
+      "Amy Keogh",
+      "Laura Aiton",
+      "Duncan Lustig-Prean"
+    ],
+    "emotional_tags": [
+      "distress",
+      "abandonment",
+      "clarity",
+      "gaslighting",
+      "retaliation",
+      "exhaustion",
+      "betrayal"
+    ],
+    "vex_tags": [
+      "safeguarding_disclosure",
+      "tone_policing",
+      "institutional_gaslighting",
+      "trauma_unacknowledged",
+      "retaliation_against_discloser",
+      "failure_to_repair",
+      "support_withdrawal_threat"
+    ],
+    "policy_reference": [
+      {
+        "policy": "Brighton Fringe Safeguarding Policy",
+        "review_date": "2025-02-17",
+        "sections": [
+          1,
+          4,
+          5,
+          6,
+          8,
+          9,
+          10,
+          12
+        ]
+      }
+    ],
+    "status": "active",
+    "proof_needed": [
+      "Evidence of any meaningful follow-up or repair",
+      "Documentation of trauma-informed response"
+    ],
+    "notes": "Chain documents disclosure of suicidality, a lack of trauma-informed response, shifting focus to rules and boundaries, and a pattern of support being offered only under narrow, self-protective conditions. Solicitor involvement highlights seriousness and ongoing risk.",
+    "source": "DUNCAN_ATTEMPTED_MURDER_IMPORT"
+  },
+  {
+    "id": "EX_FRINGE_INTERNAL_NARRATIVE_DISCLOSURE_TO_ALICE_2025",
+    "title": "Urgent Safeguarding Breach: Narrative Control, Disclosure, and Loss of Consent",
+    "date": "2025-05-11",
+    "from": "Ben Carter <benrobcarter@gmail.com>",
+    "to": "Alice Wright <alice@sparkampm.co.uk>",
+    "subject": "Urgent Safeguarding Breach – Internal Narrative and Third-Party Disclosures",
+    "core_quotes": [
+      "I am writing to formally notify you of a serious safeguarding breach, now confirmed through direct communication from an artist.",
+      "Members of the Brighton Fringe team have either directly or indirectly: Shared internal narratives about my mental health and business capacity; Disclosed, reframed, or downplayed private safeguarding information; Justified contact with my ex-partner without informing me, under the guise of 'keeping us apart'.",
+      "I have formally revoked consent for PC Jon Dixon to remain involved in my case. I am now under the protection of a new investigating officer, with support from Veritas Justice.",
+      "I did not consent to any redistribution of control over Half a Camel Productions. I did not step away — the loss of operational control happened during a safeguarding crisis, without consent.",
+      "Any further misrepresentation — or failure to clarify what has already been shared — will be considered formal grounds for legal action and public complaint."
+    ],
+    "demands": [
+      "Clarify any statements/narratives shared about my mental health or capacity.",
+      "Confirm whether Brighton Fringe has contacted Alanna O’Hare since April 2nd, and on what basis.",
+      "Disclose any internal documents/communications about my role, involvement, or state of mind that may have influenced artists’ decisions."
+    ],
+    "linked_parties": [
+      "Brighton Fringe Team",
+      "Veritas Justice",
+      "Sussex Police",
+      "Alanna O’Hare",
+      "PC Jon Dixon"
+    ],
+    "vex_tags": [
+      "narrative_control",
+      "confidentiality_breach",
+      "forced_operational_removal",
+      "failure_to_escalate",
+      "retaliation_against_discloser"
+    ],
+    "policy_reference": [
+      {
+        "policy": "Brighton Fringe Safeguarding Policy",
+        "review_date": "2025-02-17",
+        "sections": [
+          5,
+          6,
+          8,
+          9,
+          10,
+          12
+        ]
+      },
+      {
+        "policy": "GDPR/Data Protection",
+        "sections": [
+          "Confidentiality",
+          "Consent",
+          "Lawful disclosure"
+        ]
+      }
+    ],
+    "status": "active",
+    "proof_needed": [
+      "Written reply from Alice/Brighton Fringe",
+      "Internal documentation of shared statements or contacts",
+      "Records of communications with Alanna O’Hare"
+    ],
+    "notes": "This is a direct safeguarding escalation and formal legal notification, confirming loss of operational control and institutional misrepresentation without consent.",
+    "source": "DUNCAN_ATTEMPTED_MURDER_IMPORT"
+  },
+  {
+    "id": "EX_DUNCAN_BE_VERY_CAREFUL_IMAGES_2025",
+    "title": "Safeguarding Disclosure Ignored by Brighton Fringe Chair",
+    "date_first_breached": "2025-05-08",
+    "contradiction_type": "safeguarding_breach_evidence_submission",
+    "core_quote": "On 8 May 2025, Ben Carter sent Duncan Lustig-Prean (Brighton Fringe Chair) an email warning of safeguarding and legal risks, with attached images from March and April documenting severe distress, venue/insurance risks, and police inaction. No substantive reply was received.",
+    "validating_evidence": [
+      {
+        "type": "email",
+        "filename": "Email_Be_Very_Careful_Duncan_2025-05-08.eml"
+      },
+      {
+        "type": "image",
+        "filename": "be very very careful march.jpg"
+      },
+      {
+        "type": "image",
+        "filename": "be very very careful april.jpg"
+      },
+      {
+        "type": "clinical_note",
+        "filename": "Post Suicide GP Review, Strong When I’m Not Made Out to Be the Victim I’m Not1.PNG"
+      },
+      {
+        "type": "clinical_note",
+        "filename": "Post Suicide GP Review, Strong When I’m Not Made Out to Be the Victim I’m Not2.PNG"
+      },
+      {
+        "type": "csv",
+        "filename": "SAR_EMAIL_ENTITY_DATE_EXTRACT.csv"
+      },
+      {
+        "type": "csv",
+        "filename": "detailed_email_timeline_with_participants.csv"
+      }
+    ],
+    "third_party_validation": [
+      {
+        "source": "Dr. Dharam Dickinson, GP",
+        "date": "2025-04-10",
+        "summary": "GP notes patient is rational, shows insight, is not paranoid, and directly links police/Fringe inaction to suicide risk."
+      }
+    ],
+    "linked_entities": [
+      "Ben Carter",
+      "Duncan Lustig-Prean",
+      "Brighton Fringe",
+      "Amy MacGregor",
+      "Alice Wright"
+    ],
+    "emotional_tags": [
+      "distress",
+      "abandonment",
+      "retaliation",
+      "clarity",
+      "strength"
+    ],
+    "vex_tags": [
+      "safeguarding_disclosure_ignored",
+      "reckless_endangerment",
+      "institutional_gaslighting",
+      "professional_boundaries_breach",
+      "failure_to_report",
+      "trustee_dso_breach",
+      "retaliation_against_discloser",
+      "misuse_of_confidentiality"
+    ],
+    "policy_reference": [
+      {
+        "policy": "Brighton Fringe Safeguarding Policy",
+        "review_date": "2025-02-17",
+        "sections": [
+          1,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          11,
+          12
+        ]
+      }
+    ],
+    "status": "active",
+    "proof_needed": [
+      "Duncan’s written response or explanation for failure to act",
+      "Internal communications regarding this escalation"
+    ],
+    "notes": "This event is critical for legal and audit review; all evidence and claims are mapped to Brighton Fringe’s own safeguarding policy, published and binding at the time of all events. GP's clinical note corroborates the direct impact of institutional inaction.",
+    "source": "DUNCAN_ATTEMPTED_MURDER_IMPORT"
+  },
+  {
+    "id": "EX_FRINGE_VERITAS_LETTER_CONFIRMATION_2025",
+    "title": "Veritas Justice Confirmation of Safeguarding Failures and Ongoing Police Investigation",
+    "date": "2025-05-12",
+    "from": "Ben Carter <benrobcarter@gmail.com>",
+    "to": [
+      "Duncan Lustig-Prean <chair@brightonfringe.org>",
+      "Confidential <confidential@brightonfringe.org>",
+      "Sussex Police contacts",
+      "Civil Claims",
+      "Artist Services"
+    ],
+    "subject": "Follow up on urgent safeguarding breach since April 2nd Brighton Fringe April 6th Sussex Police",
+    "core_quotes": [
+      "You will now have received a formal letter from Veritas Justice CIC, confirming they have been supporting me since November 2024...",
+      "This letter stands as formal, third-party confirmation of everything I have been stating for months — including the police’s own internal record of Miss O’Hare’s arrest, the seriousness of the allegations, and the ongoing investigation under crime reference 47240141246.",
+      "I expect a written confirmation that the above points have been noted, and that the Fringe will now act with full transparency in response."
+    ],
+    "attachments": [
+      {
+        "filename": "Support letter 12.5.25 1 (1).pdf",
+        "summary": "Veritas Justice CIC confirms ongoing support, outlines case history, MARAC/Stalking Clinic review, and bail status for Alanna O'Hare."
+      }
+    ],
+    "demands": [
+      "Acknowledge receipt of Veritas letter",
+      "Cease all internal/third-party discussion about my mental health/police involvement without fact-checking",
+      "Confirm if any such discussions have already occurred without consent",
+      "Acknowledge PC Dixon is no longer my officer and respect that boundary"
+    ],
+    "linked_parties": [
+      "Brighton Fringe Team",
+      "Veritas Justice",
+      "Sussex Police",
+      "Alanna O’Hare",
+      "PC Jon Dixon"
+    ],
+    "vex_tags": [
+      "safeguarding_third_party_validation",
+      "failure_to_escalate",
+      "boundary_enforcement",
+      "advocacy_confirmation",
+      "formal_policy_breach"
+    ],
+    "policy_reference": [
+      {
+        "policy": "Brighton Fringe Safeguarding Policy",
+        "review_date": "2025-02-17",
+        "sections": [
+          1,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ]
+      },
+      {
+        "policy": "Care Act 2014",
+        "sections": [
+          "Section 42"
+        ]
+      },
+      {
+        "policy": "Charity Commission CC9/CC14",
+        "sections": [
+          "Serious Incident Reporting",
+          "Governance"
+        ]
+      },
+      {
+        "policy": "Victims’ Code"
+      }
+    ],
+    "status": "active",
+    "proof_needed": [
+      "Board acknowledgment of Veritas letter",
+      "Internal/DSO logs on handling of safeguarding correspondence",
+      "Written confirmation of all requests"
+    ],
+    "notes": "Event includes formal third-party validation, historical timeline, and explicit demands for safeguarding transparency, all of which are core to the master safeguarding timeline.",
+    "source": "DUNCAN_ATTEMPTED_MURDER_IMPORT"
+  },
+  {
+    "id": "EX_PR_DRAFT_PRESS_RELEASE_NOT_APPROVED_2025",
+    "title": "Draft Press Release Misattributed – Not Authorised by Ben Carter or Alice Wright",
+    "date": "2025-05-XX",
+    "participants": [
+      "Drafted by Brighton Fringe PR/SparkAMPM (unknown author)",
+      "Alice Wright (recipient for approval)",
+      "Ben Carter (intended subject/approval)"
+    ],
+    "core_quotes": [
+      "Ben Carter, the founder of Half A Camel said “I set up Puck Rock Comedy (pun-intended)...",
+      "Notes in red are either questions from me, or things I don’t know and need to find out before this is sent.",
+      "Please confirm how many [events]...",
+      "You can read more about the venue and Ben Carter at: https://halfacamel.com/"
+    ],
+    "emotional_tags": [
+      "misrepresentation",
+      "frustration",
+      "inauthentic_voice"
+    ],
+    "vex_tags": [
+      "pr_spin",
+      "not_approved_by_subject",
+      "misattributed_authorship"
+    ],
+    "policy_reference": [],
+    "status": "draft",
+    "proof_needed": [
+      "Email chain confirming this draft was not approved or published as written",
+      "Final approved release (if any) to clarify authorship"
+    ],
+    "notes": "This press release draft was produced for review but not approved by Ben Carter or Alice Wright. Style, puns, and tone do not reflect either party’s actual writing or experience. Use with caution as evidence of misattribution or misrepresentation if published.",
+    "source": "DUNCAN_ATTEMPTED_MURDER_IMPORT"
+  },
+  {
+    "id": "EX_FRINGE_CRIME_REF_OBSTRUCTION_2025",
+    "title": "Crime Reference Number Escalation, Obstruction, and Institutional Gaslighting",
+    "date_range": [
+      "2025-05-04",
+      "2025-05-07"
+    ],
+    "source_file": "Gmail - Crime Reference Number.pdf",
+    "core_quotes": [
+      "Please log the following crime reference number: 47240141246 Let me know if you require any further information.",
+      "What do you want me to do with this crime reference?",
+      "I am required to keep a full record of all communications and actions taken. This includes the voicemail I left on 21st March, which specifically referred to a safeguarding incident involving Alexander Voodoo.",
+      "Who within the Fringe organisation is responsible for ensuring these matters are correctly recorded and acted upon?",
+      "No answer phone message has been received and any messages which were received in that period will now have been overwritten.",
+      "Brighton Fringe is unable to investigate a message which has not been received.",
+      "If you’re unsure how to respond, I suggest you seek advice. But silence or vagueness is no longer acceptable. I need clear answers, on record.",
+      "You want me dead. That's it isn't it.",
+      "What do you want me to do with this crime reference? Log it, you're in it.",
+      "She is back, is that in your log?? Put it in your little log Duncan? ... I have now been assigned a police officer today, I now have to go through everything again, tiering the most traumatic times of my life. ... I will not stop until you talk anyway off to bed now."
+    ],
+    "participants": [
+      "Ben Carter",
+      "Duncan Lustig-Prean",
+      "Amy Keogh",
+      "Alice Wright"
+    ],
+    "emotional_tags": [
+      "distress",
+      "abandonment",
+      "exhaustion",
+      "anger",
+      "gaslighting",
+      "betrayal"
+    ],
+    "vex_tags": [
+      "safeguarding_log_avoided",
+      "failure_to_record",
+      "obstruction_of_justice",
+      "accountability_deflection",
+      "procedural_void",
+      "institutional_gaslighting",
+      "trauma_unacknowledged",
+      "retaliation_against_discloser"
+    ],
+    "policy_reference": [
+      {
+        "policy": "Brighton Fringe Safeguarding Policy",
+        "review_date": "2025-02-17",
+        "sections": [
+          4,
+          5,
+          6,
+          8,
+          9,
+          10,
+          12
+        ]
+      },
+      {
+        "policy": "Charity Commission CC28: Governance",
+        "sections": [
+          "Safeguarding Duties",
+          "Serious Incident Reporting"
+        ]
+      },
+      {
+        "policy": "Obstruction of Justice",
+        "sections": [
+          "Deliberately hiding, destroying, or refusing to hand over evidence",
+          "Lying to police or CPS to mislead an investigation",
+          "Penalty: Up to life imprisonment (usually 3-10 years for civilians in serious cases)"
+        ]
+      }
+    ],
+    "status": "active",
+    "proof_needed": [
+      "Log or record of 21 March safeguarding voicemail",
+      "Formal protocol for safeguarding escalation at Brighton Fringe",
+      "Internal documentation or Board communication"
+    ],
+    "notes": "This email chain documents repeated attempts to report a safeguarding crime reference, with continual deflection by the Chair and Board, contradictory statements about evidence handling, and repeated institutional gaslighting. References to legal and criminal implications of obstruction. Critical for legal, regulatory, and IOPC review.",
+    "source": "DUNCAN_ATTEMPTED_MURDER_IMPORT"
+  },
+  {
+    "id": "EX_FRINGE_ALICE_MEDIATION_CHAIN_2025",
+    "title": "Alice Wright as Safeguarding Proxy and Support — May 2025",
+    "date_range": [
+      "2025-05-06",
+      "2025-05-09"
+    ],
+    "participants": [
+      "Ben Carter",
+      "Alice Wright",
+      "Amy Keogh",
+      "Take Part Team",
+      "Duncan Lustig-Prean"
+    ],
+    "core_quotes": [
+      "I’ve just had a talk with Alice, I never ever wanted to be an enemy of the Brighton Fringe… Thank you for Alice, she saw it straight away and I just came out with it all.",
+      "We’re sorry we’ve not been able to fully understand what you’ve been asking for from us until Alice explained it to us. We acknowledge this now and that is why Alice has stepped in to provide you with support.",
+      "We have also been logging all of your communications with us, including all of the police reports you’ve only sent to Duncan, in this record. Only the senior team at Brighton Fringe (Duncan and Amy) know any of these things as is appropriate for your privacy as an individual with additional needs.",
+      "What has Alice told you then?",
+      "I can't run my venues now, when I go in I get abuse, … when Voodoo, another venue manager, is cooperating with my abuser, I don't get a reply or it even logged. Just more abuse from him."
+    ],
+    "source_files": [
+      "Gmail - Press release and more things I can do to help.pdf",
+      "Who the fuck is alice?.pdf"
+    ],
+    "emotional_tags": [
+      "relief",
+      "clarity",
+      "distress",
+      "betrayal",
+      "support",
+      "abandonment"
+    ],
+    "vex_tags": [
+      "safeguarding_proxy",
+      "systemic_failure",
+      "support_outsourced_to_staff",
+      "privacy_statement",
+      "abuse_log_gap",
+      "institutional_gaslighting"
+    ],
+    "policy_reference": [
+      {
+        "policy": "Brighton Fringe Safeguarding Policy",
+        "review_date": "2025-02-17",
+        "sections": [
+          1,
+          5,
+          6,
+          8,
+          10,
+          12
+        ]
+      }
+    ],
+    "status": "active",
+    "proof_needed": [
+      "Record of safeguarding actions delegated to Alice",
+      "Internal documentation showing limits on Alice's authority",
+      "Board/DSO direct log access and escalation protocols"
+    ],
+    "notes": "Alice appears as a key support and confidante but does not have ultimate authority to address or resolve safeguarding failures. All logs and safeguarding decisions remain with Duncan and Amy as senior management. This email chain is evidence of partial support within a systemically failing safeguarding framework.",
+    "source": "DUNCAN_ATTEMPTED_MURDER_IMPORT"
+  },
+  {
+    "id": "EX_FRINGE_CRIME_REFERENCE_ESCALATION_2025",
+    "title": "Crime Reference Number, Safeguarding Log, and Institutional Deflection",
+    "date_range": [
+      "2025-05-04",
+      "2025-05-07"
+    ],
+    "source_file": "Gmail - Crime Reference Number.pdf",
+    "core_quotes": [
+      "Please log the following crime reference number: 47240141246 Let me know if you require any further information.",
+      "What do you want me to do with this crime reference?",
+      "As part of the ongoing investigation connected to crime reference CIT1201684, I am required to keep a full record of all communications and actions taken. This includes the voicemail I left on 21st March, which specifically referred to a safeguarding incident involving Alexander Voodoo.",
+      "What was recorded under the original crime reference in relation to the 21 March voicemail?",
+      "Brighton Fringe is unable to investigate a message which has not been received.",
+      "If you’re unsure how to respond, I suggest you seek advice. But silence or vagueness is no longer acceptable. I need clear answers, on record.",
+      "You want me dead. That's it isn't it."
+    ],
+    "participants": [
+      "Ben Carter",
+      "Duncan Lustig-Prean",
+      "Amy Keogh",
+      "Alice Wright"
+    ],
+    "emotional_tags": [
+      "distress",
+      "abandonment",
+      "clarity",
+      "gaslighting",
+      "retaliation",
+      "exhaustion",
+      "betrayal"
+    ],
+    "vex_tags": [
+      "safeguarding_log_avoided",
+      "failure_to_record",
+      "accountability_deflection",
+      "institutional_gaslighting",
+      "escalation_to_external",
+      "procedural_void",
+      "trauma_unacknowledged"
+    ],
+    "policy_reference": [
+      {
+        "policy": "Brighton Fringe Safeguarding Policy",
+        "review_date": "2025-02-17",
+        "sections": [
+          4,
+          5,
+          6,
+          8,
+          9,
+          10,
+          12
+        ]
+      }
+    ],
+    "status": "active",
+    "proof_needed": [
+      "Log of 21 March safeguarding voicemail and actions taken",
+      "Formal confirmation of responsibility for safeguarding escalation",
+      "Operational process documentation"
+    ],
+    "notes": "Chain documents repeated attempts to log a crime reference and safeguarding concern, and Duncan's repeated deflection or failure to engage. Includes direct language on trauma, legal escalation, and professional boundaries. Critical for legal and policy audit.",
+    "source": "DUNCAN_ATTEMPTED_MURDER_IMPORT"
+  },
+  {
+    "id": "EX_FRINGE_POLICE_VERITAS_BREACH_2025",
+    "title": "Follow-up: Urgent Safeguarding Breach, Veritas Letter, and Sussex Police Failure",
+    "date": "2025-05-12",
+    "source_file": "Gmail - Follow up on urgent safeguarding breach since April 2nd Brighton Fringe April 6th Sussex Police.pdf",
+    "core_quote": "This letter stands as formal, third-party confirmation of everything I have been stating for months — including the police’s own internal record of Miss O’Hare’s arrest, the seriousness of the allegations, and the ongoing investigation under crime reference 47240141246. ... I expect a written confirmation that the above points have been noted, and that the Fringe will now act with full transparency in response.",
+    "validating_evidence": [
+      {
+        "type": "email",
+        "filename": "Gmail - Follow up on urgent safeguarding breach since April 2nd Brighton Fringe April 6th Sussex Police.pdf"
+      },
+      {
+        "type": "attachment",
+        "filename": "Support letter 12.5.25 1 (1).pdf"
+      }
+    ],
+    "third_party_validation": [
+      {
+        "source": "Veritas Justice CIC",
+        "date": "2025-05-12",
+        "summary": "Letter confirming Veritas advocacy and support since Nov 2024, review by MARAC and Sussex Police Stalking Clinic, and ongoing police investigation with bail conditions against perpetrator."
+      }
+    ],
+    "linked_entities": [
+      "Ben Carter",
+      "Duncan Lustig-Prean",
+      "Brighton Fringe",
+      "Veritas Justice CIC",
+      "Sussex Police",
+      "PC Jon Dixon",
+      "Alanna O’Hare"
+    ],
+    "emotional_tags": [
+      "distress",
+      "abandonment",
+      "clarity",
+      "strength",
+      "betrayal"
+    ],
+    "vex_tags": [
+      "safeguarding_disclosure_ignored",
+      "failure_to_act",
+      "reckless_endangerment",
+      "institutional_gaslighting",
+      "third_party_validation_ignored",
+      "boundary_violation",
+      "narrative_control"
+    ],
+    "policy_reference": [
+      {
+        "policy": "Brighton Fringe Safeguarding Policy",
+        "review_date": "2025-02-17",
+        "sections": [
+          1,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11
+        ]
+      }
+    ],
+    "status": "active",
+    "proof_needed": [
+      "Formal acknowledgment from Brighton Fringe of Veritas letter",
+      "Internal communications on police/safeguarding follow-up",
+      "Board/DSO response to disclosure and third-party validation"
+    ],
+    "notes": "This event includes written confirmation from Veritas Justice, MARAC, and Sussex Police Stalking Clinic. Failure to respond or act is a direct breach of safeguarding policy and Charity Commission rules.",
+    "source": "DUNCAN_ATTEMPTED_MURDER_IMPORT"
+  },
+  {
+    "id": "EX_FRINGE_PRESS_RELEASE_SUPPORT_CHAIN_2025",
+    "title": "Press Release, Marketing Support, and Safeguarding Solicitor Letter – Half a Camel & Brighton Fringe",
+    "date_range": [
+      "2025-05-06",
+      "2025-05-09"
+    ],
+    "source_files": [
+      "Gmail - Press release and more things I can do to help.pdf",
+      "Gmail - PLI for Half a Camel.pdf",
+      "Gmail - Alice is off sick Re_ Give me my reputation back.pdf",
+      "Who the fuck is alice?.pdf"
+    ],
+    "core_quotes": [
+      "I’ve written a draft of a press release for you about Half a Camel with reference to Puck being the new sober space.",
+      "From what you’ve said, it sounds like you also need support ... because you recently tried to kill yourself and you need more time to recover from that.",
+      "Dear Brighton Fringe Team, I am writing on behalf of my client, Mr. Ben Carter, regarding a continued and serious safeguarding failure in your handling of his case.",
+      "Brighton Fringe Ltd. failed to respond to a direct and emotionally significant message from a declared vulnerable individual.",
+      "This silence has had a material and damaging impact on his mental health.",
+      "I was so pleased to receive your email yesterday afternoon and to know that you don't hate us. We really want you to have a good recovery and a successful Fringe.",
+      "Alice has not told Amy or me anything about your private conversations. She has very kindly been helping us to support you through this difficult time for you.",
+      "I'm currently off work sick (8th May 2025)"
+    ],
+    "participants": [
+      "Ben Carter",
+      "Alice Wright",
+      "Duncan Lustig-Prean",
+      "Brighton Fringe Team",
+      "Amy Keogh",
+      "Solicitor"
+    ],
+    "emotional_tags": [
+      "distress",
+      "exhaustion",
+      "relief",
+      "support",
+      "abandonment",
+      "vulnerability",
+      "betrayal"
+    ],
+    "vex_tags": [
+      "support_outsourced_to_subcontractor",
+      "marketing_support_gap",
+      "safeguarding_lead_absent",
+      "failure_to_respond",
+      "trauma_acknowledged_then_ignored",
+      "solicitor_formal_notice",
+      "risk_of_reputational_harm"
+    ],
+    "policy_reference": [
+      {
+        "policy": "Brighton Fringe Safeguarding Policy",
+        "review_date": "2025-02-17",
+        "sections": [
+          1,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          12
+        ]
+      },
+      {
+        "policy": "Care Act 2014, Section 42",
+        "sections": [
+          "Duties to safeguard vulnerable adults"
+        ]
+      },
+      {
+        "policy": "Health and Social Care Act 2008 (Regulated Activities) Regulations, Regulation 13",
+        "sections": [
+          "Safeguarding service users from abuse and improper treatment"
+        ]
+      }
+    ],
+    "status": "active",
+    "proof_needed": [
+      "Formal Board/DSO assignment of safeguarding lead",
+      "Direct Board reply to solicitor's letter",
+      "Internal logs of support/response"
+    ],
+    "notes": "This chain shows strong branding/support for Half a Camel but also formal legal notice of safeguarding failure, lack of internal reply to distress disclosure, and reliance on an external marketer for support. Board-level response remains absent.",
+    "source": "DUNCAN_ATTEMPTED_MURDER_IMPORT"
+  },
+  {
+    "id": "EX_POLICE_SUICIDE_VOICEMAIL_DELEGATION_2025",
+    "title": "Police Voicemail: Suicide Risk Delegated, Not Escalated",
+    "date": "2025-05-27T18:19:00",
+    "participants": [
+      "Sussex Police (unidentified officer)",
+      "Ben Carter"
+    ],
+    "source": "DUNCAN_ATTEMPTED_MURDER_IMPORT",
+    "core_quotes": [
+      "Hello, this is a message for Ben. It's Sussex police Ben as I was trying to explain to you as the officer is aware to contact you.",
+      "I appreciate that you're overwhelmed with everything.",
+      "The officer will be contacting you. ... You mentioned that you were suicidal. I would strongly advise that you contact him."
+    ],
+    "emotional_tags": [
+      "distress",
+      "abandonment",
+      "risk",
+      "delegation"
+    ],
+    "vex_tags": [
+      "suicidal_disclosure_acknowledged",
+      "no_active_escalation",
+      "safeguarding_duty_failed",
+      "trauma_unaddressed"
+    ],
+    "policy_reference": [
+      {
+        "policy": "Care Act 2014, Section 42"
+      },
+      {
+        "policy": "Police Safeguarding Protocols",
+        "sections": [
+          "Immediate escalation required for suicidal disclosures"
+        ]
+      }
+    ],
+    "status": "active",
+    "proof_needed": [
+      "Police log confirming internal handling/escalation",
+      "Follow-up records or action taken",
+      "Formal communication from assigned officer"
+    ],
+    "notes": "Police voicemail acknowledges direct suicidal disclosure but delegates responsibility to victim, with no evidence of immediate safeguarding or mental health escalation. Pattern consistent with previous failures by Sussex Police and Brighton Fringe."
+  },
+  {
+    "id": "EX_FRINGE_SOLICITOR_PLI_COMPLAINT_2025",
+    "title": "Solicitor Letter – Safeguarding Complaint and Failure to Respond (PLI for Half a Camel)",
+    "date": "2025-05-07",
+    "participants": [
+      "Ben Carter",
+      "Alice Wright",
+      "Brighton Fringe Team",
+      "Solicitor"
+    ],
+    "source_file": "Gmail - PLI for Half a Camel.pdf",
+    "core_quotes": [
+      "Brighton Fringe Ltd. failed to appoint a safeguarding lead or trained representative when engaging him.",
+      "Brighton Fringe Ltd. failed to respond to a direct and emotionally significant message from a declared vulnerable individual.",
+      "This silence has had a material and damaging impact on his mental health.",
+      "We are preparing formal documentation for review and escalation. Mr. Carter will reserve the right to pursue legal, civil, and regulatory action."
+    ],
+    "emotional_tags": [
+      "distress",
+      "vulnerability",
+      "abandonment",
+      "relief"
+    ],
+    "vex_tags": [
+      "solicitor_formal_notice",
+      "failure_to_escalate",
+      "safeguarding_lead_absent",
+      "support_outsourced_to_subcontractor",
+      "empathy_misused"
+    ],
+    "policy_reference": [
+      {
+        "policy": "Brighton Fringe Safeguarding Policy",
+        "review_date": "2025-02-17",
+        "sections": [
+          1,
+          4,
+          5,
+          6,
+          8,
+          10
+        ]
+      },
+      {
+        "policy": "Care Act 2014, Section 42"
+      },
+      {
+        "policy": "Health and Social Care Act 2008, Reg. 13"
+      }
+    ],
+    "status": "active",
+    "proof_needed": [
+      "Written Board/DSO response",
+      "Assignment of safeguarding lead",
+      "Internal logs of follow-up"
+    ],
+    "notes": "Formal legal complaint, professional advocate support, organizational non-response and subcontracting safeguarding support.",
+    "source": "DUNCAN_ATTEMPTED_MURDER_IMPORT"
+  },
+  {
+    "id": "EX_ALICE_DIRECT_SUPPORT_MAY_2025",
+    "title": "Alice Wright Offers Direct Support and Advocacy for Half A Camel",
+    "date": "2025-05-06",
+    "participants": [
+      "Alice Wright",
+      "Ben Carter",
+      "Brighton Fringe Team"
+    ],
+    "source_file": "Gmail - Press release and more things I can do to help.pdf",
+    "core_quotes": [
+      "Firstly, I’ve written a draft of a press release for you about Half a Camel with reference to Puck being the new soberspace. I’ve used the information you shared with me, as well as what’s on your website.",
+      "From what you’ve said, it sounds like you also need support with liaising with your Half A Camel artists – and that’s not because you don’t know what you’re doing – from my understanding it’s because you recently tried to kill yourself and you need more time to recover from that.",
+      "You now advocate for [Kimi] by collecting other people’s experiences with Sussex Police on the website you’ve set up. This is an amazing thing to do for your friend.",
+      "I can put together a schedule of all your shows for [your venues] so they know exactly what you’ve booked in so we try to avoid any diary clashes, such as what happened yesterday with the Aoife Dunne show.",
+      "Let me know what you think – via email is best for me if possible. All of this can happen today and as soon as I hear from you I can start it."
+    ],
+    "emotional_tags": [
+      "support",
+      "clarity",
+      "relief",
+      "validation",
+      "practical_help"
+    ],
+    "vex_tags": [
+      "authentic_support",
+      "practical_advocacy",
+      "no_pr_spin",
+      "human_care",
+      "support_gap_in_management"
+    ],
+    "policy_reference": [
+      {
+        "policy": "Brighton Fringe Safeguarding Policy",
+        "review_date": "2025-02-17",
+        "sections": [
+          1,
+          5,
+          6,
+          8,
+          9,
+          10
+        ]
+      }
+    ],
+    "status": "active",
+    "proof_needed": [
+      "Confirmation of Alice's support role from Brighton Fringe",
+      "Evidence that management responded to Alice's support offers"
+    ],
+    "notes": "Alice’s email shows direct, practical, and compassionate support for Ben Carter and Half A Camel, without PR spin or manipulation. Contrasts sharply with organizational deflection and lack of formal safeguarding action.",
+    "source": "DUNCAN_ATTEMPTED_MURDER_IMPORT"
+  },
+  {
+    "id": "EX_FRINGE_INTERNAL_NARRATIVE_DISCLOSURE_2025",
+    "title": "Urgent Safeguarding Breach – Internal Narrative and Third-Party Disclosures",
+    "date": "2025-05-11",
+    "source_file": "Gmail - Urgent Safeguarding Breach – Internal Narrative and Third-Party Disclosures.pdf",
+    "core_quotes": [
+      "I am writing to formally notify you of a serious safeguarding breach, now confirmed through direct communication from an artist.",
+      "Members of the Brighton Fringe team have either directly or indirectly: Shared internal narratives about my mental health and business capacity; Disclosed, reframed, or downplayed private safeguarding information; Justified contact with my ex-partner without informing me, under the guise of 'keeping us apart'.",
+      "This confirms that Brighton Fringe has misrepresented the reality of my situation to third parties, in a manner that directly undermines my safety, credibility, and the business I built.",
+      "Any further misrepresentation — or failure to clarify what has already been shared — will be considered formal grounds for legal action and public complaint."
+    ],
+    "participants": [
+      "Ben Carter",
+      "Alice Wright",
+      "Brighton Fringe Team",
+      "Veritas Justice",
+      "PC Jon Dixon",
+      "Alanna O’Hare"
+    ],
+    "emotional_tags": [
+      "distress",
+      "abandonment",
+      "betrayal",
+      "clarity",
+      "risk",
+      "anger"
+    ],
+    "vex_tags": [
+      "safeguarding_breach",
+      "confidentiality_violation",
+      "internal_narrative_control",
+      "reputational_harm",
+      "misrepresentation",
+      "retaliation_against_discloser",
+      "legal_threat"
+    ],
+    "policy_reference": [
+      {
+        "policy": "Brighton Fringe Safeguarding Policy",
+        "review_date": "2025-02-17",
+        "sections": [
+          5,
+          6,
+          8,
+          9,
+          10,
+          12
+        ]
+      },
+      {
+        "policy": "GDPR/Data Protection",
+        "sections": [
+          "Confidentiality",
+          "Consent",
+          "Lawful disclosure"
+        ]
+      }
+    ],
+    "status": "active",
+    "proof_needed": [
+      "Written confirmation of any internal narrative shared with third parties",
+      "Documentation of contact with Alanna O’Hare after April 2nd",
+      "Internal records describing Ben Carter's role or state of mind"
+    ],
+    "notes": "This event documents a critical safeguarding and data breach, with legal and reputational implications. Involves direct impact on business, safety, and standing of the discloser.",
+    "source": "DUNCAN_ATTEMPTED_MURDER_IMPORT"
+  },
+  {
+    "meta": {
+      "contradiction_id": "CONTRA_CLUSTER_2025-08-30_PALMER_SUPERVISORY_FAILURE_BUNDLE",
+      "title": "Palmer’s Chain of Command – Safeguarding Failures",
+      "created_at": "2025-08-30T23:41:05.480867",
+      "version": "1.0.0",
+      "tags": [
+        "SUPERVISORY_FAILURE",
+        "ACCOUNTABILITY_CHAIN",
+        "SAFEGUARDING_FAILURE",
+        "MISCONDUCT_PUBLIC_OFFICE",
+        "VRR_VPS_SUPPRESSED",
+        "FABRICATED_WELFARE_CONTACTS",
+        "DEATH_BY_SILENCE",
+        "SCHRODINGERS_CASE",
+        "VICTIM_CREDIBILITY_ERASURE",
+        "VICTIMS_CODE_BREACH",
+        "WHATSAPP_VERITAS_ESCALATION",
+        "SUICIDE_DISCLOSURE_NO_CONTACT",
+        "VERITAS_POLICE_SUPERVISOR_LOOP"
+      ]
+    },
+    "description": "This contradiction cluster consolidates all files and narratives linking Inspector David Palmer to a network of institutional failures. These include VRR obstruction, fabricated welfare contact logs, safeguarding neglect, and data protection breaches. The combined evidence places Palmer at the supervisory centre of Sussex Police’s misconduct, through both action and omission.",
+    "linked_files": [
+      "UPDATED_CONTRA_2025-08-30_All_Roads_Lead_to_Palmer.json",
+      "CONTRA_2025-08-14_Holiday_Alibi_Proven.json",
+      "CONTRA_2025-08-26_Schrodingers_Case_Live_vs_NFA.json",
+      "EVID_2025-08-26_VRR_Response_Ben_to_SussexPSD.json",
+      "EVID_2025-08-26_SussexPolice_VRR_Refusal_PublicConfidence.json",
+      "EVID_2025-08-23_VPS_Request_Formal_SussexPolice.json",
+      "EVID_2025-06-22_SussexPolice_NoReply_CAD_0050.pdf",
+      "CONTRA_2025-05-17_Clarke_4am_Call_Fabrication.json",
+      "EVID_2025-04_to_07_Veritas_WhatsApp_Emma_VEX.json"
+    ],
+    "entities_named": [
+      "Inspector David Palmer",
+      "PC Jon Dixon",
+      "PC Clarke",
+      "PC Gasson",
+      "Sergeant Duffy",
+      "DC Mark Butcher",
+      "Public Confidence Team",
+      "Sussex Police PSD"
+    ],
+    "timeline_injection": {
+      "timeline_title": "Palmer’s Chain of Command – Safeguarding Failures",
+      "tags": [
+        "SUPERVISORY_FAILURE",
+        "SAFEGUARDING_FAILURE",
+        "DEATH_BY_SILENCE"
+      ]
+    },
+    "book_entry": {
+      "section_title": "Section 3.X – All Roads Lead to Palmer: Institutional Betrayal by Oversight",
+      "summary": "This section of the book explores how Inspector David Palmer’s inaction—while being repeatedly notified of escalating safeguarding breaches—demonstrates institutional betrayal at the supervisory level. It maps the failures of every officer under his command and shows how silence was weaponized against the victim."
+    }
+  },
+  {
+    "meta": {
+      "contradiction_id": "CONTRA_2025-08-22_SAR_VRR_Loop_Typo_GDPR_Breach",
+      "title": "SAR Blocked as 'Ongoing', VRR Denied as 'Live', Crime-Ref Year Typo, and GDPR Breach — The Loop",
+      "created_at": "2025-08-30T23:34:56",
+      "version": "1.0.0",
+      "tags": [
+        "SAR_AS_ACCESS_BARRIER",
+        "VRR_VPS_SUPPRESSED",
+        "SCHRODINGERS_CASE",
+        "TIMELINE_MANIPULATION",
+        "GDPR_BREACH",
+        "DEATH_BY_SILENCE",
+        "ICO_LINKED"
+      ]
+    },
+    "narrative": {
+      "summary": "Between 20–22 Aug 2025, Sussex Police used 'ongoing investigation' to refuse SAR disclosure while simultaneously denying Victim’s Right to Review (VRR) on the basis that the case was 'live'. The disclosure unit also misstated a crime reference as 47230214305 (2023), later admitting a 'typing error' for 47240214305 (2024). In parallel, Ben reported an unredacted data disclosure by PC Jon Dixon (special category data re: Paul Double), constituting a GDPR breach. The combined pattern forms a procedural loop that blocks both transparency (SAR) and accountability (VRR), while evidencing inaccurate data handling.",
+      "timeline": [
+        "2025-08-20 — SAR refusal: 'ongoing investigation' cited; claim that 47240141246 was 'overtaken by 47230214305'.",
+        "2025-08-21 — Ben challenges: demands VRR for 47240141246, queries 2023 ref; reports GDPR breach by PC Dixon.",
+        "2025-08-22 — Disclosure unit admits typo: corrects to 47240214305; pushes VRR to 'officer in charge'; notes GDPR breach passed to IM team."
+      ],
+      "contradiction_points": [
+        "If the case is live (used to block SAR), evidence and VPS must be accepted; if closed (NFA), VRR must proceed. Both cannot be refused.",
+        "Crime-reference misstatement (2023 vs 2024) shows records are inaccurate while being used to deny rights.",
+        "GDPR breach (unredacted special category data) undermines claims of lawful, careful processing."
+      ],
+      "legal_analysis": [
+        "UK GDPR / DPA 2018 — Art. 5(1)(d) accuracy; Art. 15 access; Art. 32 integrity/confidentiality; breach handling obligations.",
+        "Victims’ Code — Right 4/6 updates; Right 7 VPS; VRR scheme obligations where NFA decisions exist.",
+        "Police Reform Act 2002 & Code of Ethics — honesty, transparency; proper complaint handling.",
+        "Misconduct in Public Office — if loop is used to wilfully obstruct oversight."
+      ],
+      "notes": "Ben’s ability to identify the year encoded in crime references (e.g., 4723…=2023 vs 4724…=2024) demonstrates system literacy and evidences the typo."
+    },
+    "links": {
+      "contradiction_threads": [
+        "SAR_AS_ACCESS_BARRIER",
+        "VRR_VPS_SUPPRESSED",
+        "SCHRODINGERS_CASE",
+        "DEATH_BY_SILENCE",
+        "ICO_LINKED"
+      ],
+      "related_entities": [
+        "Sussex Police Information Access Team",
+        "PC Jon Dixon",
+        "Inspector David Palmer",
+        "ICO",
+        "IOPC"
+      ],
+      "source_evidence": [
+        "EVID_2025-08-20_SAR_Refusal_Live_Case_Claim",
+        "EVID_2025-08-21_Ben_VRR_and_YearTypo_Challenge",
+        "EVID_2025-08-22_Disclosure_Unit_Typo_Admission",
+        "EVID_2025-02-12_Dixon_GDPR_Breach_Unredacted_Email"
+      ],
+      "external_refs": [
+        "ICO Case Reference: IC-386797-G0L4"
+      ]
+    }
+  },
+  {
+    "meta": {
+      "contradiction_id": "CONTRA_2025-05-17_Clarke_4am_Call_Fabrication",
+      "title": "The 4am Call That Never Was — Clarke Silence vs. Screenshot Proof",
+      "created_at": "2025-08-30T23:08:11",
+      "version": "1.0.0",
+      "tags": [
+        "FABRICATED_WELFARE_CONTACTS",
+        "DEATH_BY_SILENCE",
+        "VICTIM_CREDIBILITY_ERASURE",
+        "SAFEGUARDING_FAILURE",
+        "NO_OFFICER_ASSIGNED"
+      ]
+    },
+    "narrative": {
+      "summary": "On 17 May 2025, PC Clarke messaged Ben Carter about welfare concerns. Sussex Police later claimed that welfare contact had taken place at 4am on 18 June 2025. Ben challenged this fabrication directly, asking what the procedure was for false crimes being made up and stating 'I am not having this.' He also asked Clarke 'Are you my officer?', revealing that no officer in charge had been assigned to him at that stage. Clarke failed to respond. Ben’s phone logs/screenshot confirm no 4am call was made by him.",
+      "context": [
+        "Sussex Police falsely claimed that Ben had contacted them at 4am as part of a welfare check log.",
+        "Ben’s contemporaneous screenshot shows no such call was made.",
+        "Ben directly challenged Clarke: 'What’s the procedure for false crimes being made up? I am not having this.'",
+        "Clarke did not respond — a silence that functions as admission by avoidance.",
+        "Ben asked 'Are you my officer?', proving that no officer in charge had been assigned even months into the case."
+      ],
+      "contradiction_points": [
+        "Police fabricated a 4am welfare contact call that did not exist.",
+        "Ben produced timestamped proof (screenshot) contradicting Sussex Police’s narrative.",
+        "Clarke’s silence when challenged underscores avoidance and lack of accountability.",
+        "Lack of an assigned officer undermines claims of continuous safeguarding support."
+      ],
+      "emotional_impact": "The fabrication of a 4am call not only erased Ben’s credibility but compounded his sense of abandonment. By forcing Clarke into silence with evidence and law, Ben reclaimed agency, exposing both dishonesty and lack of officer accountability.",
+      "legal_analysis": [
+        "Protection from Harassment Act 1997 – false attribution of 999 calls risks imputing criminality.",
+        "Data Protection Act 2018 / UK GDPR – accuracy principle breached by maintaining false welfare logs.",
+        "Victims’ Code – failure to assign a clear OIC and provide accurate updates.",
+        "Misconduct in Public Office – knowingly fabricating or maintaining false contact records."
+      ]
+    },
+    "links": {
+      "contradiction_threads": [
+        "DEATH_BY_SILENCE",
+        "FABRICATED_WELFARE_CONTACTS",
+        "IOPC_COMPLAINT_BLOCKED"
+      ],
+      "related_entities": [
+        "Sussex Police",
+        "PC Clarke"
+      ]
+    }
+  },
+  {
+    "meta": {
+      "contradiction_id": "CONTRA_2025-08-14_Holiday_Alibi_Proven",
+      "title": "The Holiday Alibi — Supervisory Silence While Safeguarding Breaches Persist",
+      "created_at": "2025-08-30T23:27:54",
+      "version": "1.0.0",
+      "tags": [
+        "HOLIDAY_ALIBI_PROVEN",
+        "SUPERVISORY_FAILURE",
+        "SAFEGUARDING_FAILURE",
+        "DEATH_BY_SILENCE"
+      ]
+    },
+    "narrative": {
+      "summary": "Across 2024–2025, Sussex Police officers repeatedly invoked 'holiday' or 'away on leave' at critical safeguarding moments to explain delays or non-contact. This pattern culminated on 14–15 August 2025 when Ben Carter placed Inspector David Palmer under formal safeguarding notice. Palmer responded by refusing to engage with the safeguarding points, deflecting to PC Gasson, and stating he would be away until 7 September. This replicated the earlier behaviour of PC Jon Dixon and other officers who claimed to be unavailable during crises, reinforcing the 'holiday alibi' as a systemic tactic of obstruction.",
+      "examples": [
+        "PC Jon Dixon: April–July 2024 WhatsApps showed he was 'away on holiday' while refusing to log suicide disclosure and evidence.",
+        "Other officers: contemporaneous absences or sickness leave used to explain lack of safeguarding or evidence review.",
+        "Inspector David Palmer: 15 August 2025 reply to formal safeguarding notice stated he would be 'away until 7 September' despite being on notice."
+      ],
+      "contradiction_points": [
+        "Officers cannot simultaneously acknowledge high-risk safeguarding disclosures and claim unavailability due to holidays or leave.",
+        "Supervisory oversight (Palmer) should prevent such gaps, but Palmer himself adopted the same tactic.",
+        "The repeated use of absence as justification shows a pattern of institutional obstruction rather than coincidence.",
+        "The 'holiday alibi' is incompatible with statutory safeguarding duties under the Care Act and Victims’ Code."
+      ],
+      "legal_analysis": [
+        "Care Act 2014 s.42 — duty to make safeguarding enquiries; cannot be suspended for leave.",
+        "Victims’ Code 2020 — Right 4 (to be kept informed) and Right 7 (VPS) breached by 'away' responses.",
+        "Police (Conduct) Regulations 2020 — failure to act with diligence and integrity when hiding behind absence.",
+        "Human Rights Act 1998, Articles 2 and 3 — safeguarding duties cannot be deferred by officer holidays."
+      ],
+      "emotional_impact": "For Ben Carter, each officer's 'holiday' or absence reinforced the sense of abandonment. Palmer’s adoption of the same tactic at supervisory level demonstrated that obstruction was institutionalised, escalating distress and eroding all trust in the safeguarding process."
+    },
+    "links": {
+      "contradiction_threads": [
+        "DEATH_BY_SILENCE",
+        "SUPERVISORY_FAILURE",
+        "SAFEGUARDING_FAILURE"
+      ],
+      "related_entities": [
+        "Sussex Police",
+        "Inspector David Palmer",
+        "PC Jon Dixon",
+        "Sergeant Duffy",
+        "PC Gasson"
+      ],
+      "source_evidence": [
+        "EVID_2025-08-14_Ben_SafeguardingNotice_To_Palmer",
+        "EVID_2025-08-15_Palmer_Reply_To_SafeguardingNotice",
+        "EVID_2024-07_Dixon_WhatsApp_HolidayAbsence"
+      ]
+    }
+  }
+]

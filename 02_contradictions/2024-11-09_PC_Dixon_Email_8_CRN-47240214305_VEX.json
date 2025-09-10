@@ -1,0 +1,146 @@
+{
+  "meta": {
+    "filename": "2024-11-09_PC_Dixon_Email_8_CRN-47240214305_VEX.json",
+    "case_reference": "47240214305",
+    "thread_label": "CRIME_REF_47240214305_THREAD",
+    "actor_cluster": [
+      "Sussex Police",
+      "PC Jon Dixon (EA817)",
+      "Ben Carter"
+    ],
+    "date_range": {
+      "start": "2024-11-09T18:47:00",
+      "end": "2024-11-09T18:47:00"
+    },
+    "source_provenance": "Email from Ben Carter to PC Jon Dixon on 9 Nov 2024 at 18:47 (provided by user)",
+    "created_at_utc": "2025-08-24T17:29:47.910770Z",
+    "vex_schema_version": "1.1"
+  },
+  "emails": [
+    {
+      "id": "email-2024-11-09-1847-ben-dixon",
+      "date": "2024-11-09T18:47:00",
+      "from": {
+        "name": "Ben Carter",
+        "email": "benrobcarter@gmail.com"
+      },
+      "to": [
+        {
+          "name": "PC Jon Dixon",
+          "email": "Jon.Dixon@sussex.police.uk",
+          "badge": "EA817"
+        }
+      ],
+      "subject_summary": "Request for multiple NICE links due to upload limits; outlining evidence scope",
+      "body": "Hey Jon, just phoned up to find out how to upload it all, they said you're off until Tuesday, what I'll do is compile all the evidence I have. Everything since I called her out on gaslighting in June has been recorded if she calls as I told her I don't want to speak to her on the phone we can talk via WhatsApp as you twist things, she never wants to message and the fact I've said I don't want talk to her on the phone means all communication is either in screenshots I can send or when I have picked up the phone I have had my laptop recording our conversations. There was a limit to the amount of evidence I could upload on that link so I just provided from when the police had spoke to her to when they arrested her, the build-up messages to her banging on the door and my neighbours (I have the videos of this too) were terrifying.\nWould you be able to send me multiple NICE links so I can just send you it all, or let me know from what dates and what sort of thing you're looking for, apart from physically hurting me she has done everything else you could possibly think to make someone feel the way I did and still do, I'm very confident she will break bail, just because every time I've thought 'finally that'll be the end of it' or with a threat 'she won't actually do it' she has and much more, I'm terrified of the fact she still believes me breaking up with her in June means I deserve all this. That being someone's reality and outlook is so surreal that I have no idea what she will do or is capable of doing.\nThanks Ben",
+      "attachments": [],
+      "labels": [
+        "Victim Cooperation",
+        "Evidence Upload Barriers",
+        "Gaslighting",
+        "Fear of Bail Breach"
+      ]
+    }
+  ],
+  "vex": [
+    {
+      "email_id": "email-2024-11-09-1847-ben-dixon",
+      "sentence_tags": [
+        {
+          "text": "Everything since I called her out on gaslighting in June has been recorded if she calls as I told her I don't want to speak to her on the phone we can talk via WhatsApp as you twist things, she never wants to message.",
+          "tags": [
+            "GASLIGHTING",
+            "BOUNDARY_SETTING",
+            "EVIDENCE_CAPTURE",
+            "WHATSAPP_DISPLACEMENT"
+          ],
+          "notes": "Victim explains consistent recording and refusal of voice contact to avoid manipulation."
+        },
+        {
+          "text": "There was a limit to the amount of evidence I could upload on that link so I just provided from when the police had spoke to her to when they arrested her, the build-up messages to her banging on the door and my neighbours (I have the videos of this too) were terrifying.",
+          "tags": [
+            "EVIDENCE_LIMIT",
+            "VIDEO_EVIDENCE",
+            "THREAT_ESCALATION",
+            "NEIGHBOUR_WITNESS"
+          ],
+          "notes": "Describes terrifying incident, video evidence, and neighbours witnessing abuse."
+        },
+        {
+          "text": "Would you be able to send me multiple NICE links so I can just send you it all, or let me know from what dates and what sort of thing you're looking for.",
+          "tags": [
+            "NICE_LINK_REQUEST",
+            "EVIDENCE_SCOPE_QUERY",
+            "VICTIM_COOPERATION"
+          ],
+          "notes": "Explicit request for more upload capacity."
+        },
+        {
+          "text": "Apart from physically hurting me she has done everything else you could possibly think to make someone feel the way I did and still do, I'm very confident she will break bail.",
+          "tags": [
+            "FEAR_ESCALATION",
+            "PREDICTED_BAIL_BREACH",
+            "ONGOING_THREAT"
+          ],
+          "notes": "Clear expression of fear and anticipation of further breaches."
+        },
+        {
+          "text": "I'm terrified of the fact she still believes me breaking up with her in June means I deserve all this. That being someone's reality and outlook is so surreal that I have no idea what she will do or is capable of doing.",
+          "tags": [
+            "VICTIM_TERROR",
+            "PSYCHOLOGICAL_HARM",
+            "FEAR_OF_ESCALATION"
+          ],
+          "notes": "Vivid statement of fear and harm; highlights coercive control."
+        }
+      ]
+    }
+  ],
+  "contradiction_links": [
+    {
+      "id": "SP-CONTRA-NICE-LINK-MULTIPLE-NEEDED-2024-11",
+      "claim": "Police systems provided adequate capacity to upload all victim evidence.",
+      "reality": "Ben requests multiple NICE links after upload limits prevent full evidence submission.",
+      "laws_breached": [
+        "Victims’ Code 2020 (Right to supply evidence without obstruction)"
+      ],
+      "damages": [
+        "Strategic",
+        "Emotional"
+      ]
+    },
+    {
+      "id": "SP-CONTRA-FEAR-BREACH-IGNORED-2024-11",
+      "claim": "Victim’s safety concerns were addressed through bail conditions.",
+      "reality": "Ben explicitly warns he is terrified and confident perpetrator will breach bail; evidence suggests police inaction.",
+      "laws_breached": [
+        "Care Act 2014 (safeguarding duty)",
+        "Victims’ Code 2020"
+      ],
+      "damages": [
+        "Emotional",
+        "Medical"
+      ]
+    }
+  ],
+  "timeline_hooks": [
+    {
+      "phase": "Investigation Start / Evidence Intake",
+      "date": "2024-11-09",
+      "events": [
+        "Ben requests multiple NICE links to overcome upload limits.",
+        "Describes incidents including gaslighting, door-banging, neighbour witnesses.",
+        "Warns he is terrified and predicts bail will be broken."
+      ],
+      "related_threads": [
+        "CRIME_REF_47240214305_THREAD",
+        "DEATH_BY_SILENCE"
+      ]
+    }
+  ],
+  "damages_summary": {
+    "strategic": "Victim cannot fully provide evidence due to systemic intake barriers.",
+    "emotional": "Clear statements of terror and ongoing fear ignored by police.",
+    "medical": "Fear of escalation exacerbates trauma and mental health risk."
+  }
+}

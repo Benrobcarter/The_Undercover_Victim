@@ -1,0 +1,28 @@
+{
+  "id": "VEX_07-05-2025 at 14-32 Realise I_m being stooled - Press release update_OCR",
+  "type": "evidence",
+  "source": "Smart OCR Ingest",
+  "date": "DATE_NOT_FOUND",
+  "summary": "Auto-ingested from file: 07-05-2025 at 14-32 Realise I_m being stooled - Press release update.pdf",
+  "meta": {
+    "original_filename": "07-05-2025 at 14-32 Realise I_m being stooled - Press release update.pdf",
+    "ocr_pdf_file": "07-05-2025 at 14-32 Realise I_m being stooled - Press release update_ocr.pdf",
+    "ocr_text_file": "07-05-2025 at 14-32 Realise I_m being stooled - Press release update.txt",
+    "sha256": "f2f2153c6b6cfc76aefa833f29f04f50eddfaa78cf66c41a5e2a2eb56f0a969f",
+    "source_folder": ".",
+    "ingested_on": "2025-09-06T14:47:19.720021",
+    "ingest_method": "ocr_smart"
+  },
+  "links": {
+    "source_file_original": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_unprocessed/07-05-2025 at 14-32 Realise I_m being stooled - Press release update.pdf",
+    "ocr_pdf_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_ocrd/07-05-2025 at 14-32 Realise I_m being stooled - Press release update_ocr.pdf",
+    "ocr_text_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/text/07-05-2025 at 14-32 Realise I_m being stooled - Press release update.txt"
+  },
+  "tags": [
+    "auto_ocr",
+    "m being stooled ",
+    " press release update",
+    "32 realise i",
+    "2025 at 14"
+  ]
+}

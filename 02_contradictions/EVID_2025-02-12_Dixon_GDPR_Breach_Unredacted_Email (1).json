@@ -1,0 +1,35 @@
+{
+  "meta": {
+    "evidence_id": "EVID_2025-02-12_Dixon_GDPR_Breach_Unredacted_Email",
+    "title": "Unredacted Special Category Data Emailed by PC Jon Dixon (Paul Double)",
+    "created_at": "2025-08-30T23:37:55",
+    "type": "Email",
+    "from": "PC Jon Dixon <jon.dixon@sussex.police.uk>",
+    "to": [
+      "Ben Carter <benrobcarter@gmail.com>"
+    ],
+    "date": "2025-02-12T00:00:00",
+    "tags": [
+      "GDPR_BREACH",
+      "SPECIAL_CATEGORY_DATA",
+      "LAWFUL_PROCESSING_FAILURE",
+      "ICO_LINKED"
+    ],
+    "version": "1.0.0"
+  },
+  "content": {
+    "subject": "Forwarded email containing unredacted special category data (Paul Double)",
+    "body": "Email from PC Jon Dixon forwarding unredacted information about a registered sex offender. Constitutes unlawful disclosure of special category data without lawful basis or redaction."
+  },
+  "links": {
+    "contradiction_threads": [
+      "GDPR_BREACH",
+      "ICO_LINKED"
+    ],
+    "related_entities": [
+      "PC Jon Dixon",
+      "Sussex Police",
+      "ICO"
+    ]
+  }
+}

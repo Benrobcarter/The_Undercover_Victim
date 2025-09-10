@@ -1,0 +1,17 @@
+{
+  "working_state_name": "working_state",
+  "updated_at": "2025-08-26T01:39:24.571098Z",
+  "notes": [
+    "Use this file for quick edits, flags, and in-progress contradictions/timeline entries.",
+    "The consolidator will merge this into final outputs."
+  ],
+  "edit_queue": [],
+  "overrides": {},
+  "recent_files": [
+    "PROJECT_SHARDED_2025-08-26_v5/shard_contradictions_core.json",
+    "PROJECT_SHARDED_2025-08-26_v5/shard_contradictions_vex.json",
+    "PROJECT_SHARDED_2025-08-26_v5/shard_timelines_core.json",
+    "PROJECT_SHARDED_2025-08-26_v5/shard_evidence_vex.json",
+    "PROJECT_SHARDED_2025-08-26_v5/shard_manifest_meta.json"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "timeline_id": "TIMELINE_2025-08-30_Who_Is_Safeguarding_Me",
+  "title": "Who Is Safeguarding Me?",
+  "date": "2025-08-30",
+  "tags": [
+    "SAFEGUARDING_FAILURE",
+    "SAR_OBSTRUCTION",
+    "SYSTEMIC_NEGLECT",
+    "WHO_IS_SAFEGUARDING_ME",
+    "ICO_VS_IOPC",
+    "INSTITUTIONAL_VOID"
+  ],
+  "related_vex": [
+    "VEX_2025-08-30_Who_Is_Safeguarding_Me"
+  ],
+  "quote": "I have no emergency contact. No assigned officer. No advocate. No backup plan. So again, who is safeguarding me?",
+  "evidence": [
+    "EVID_2025-08-30_ICO_Escalation_Ref_47230214305_Coverup.json",
+    "EVID_2025-07-17_IOPC_ICO_CharityEscalation_SAR_Breach_Deadline.json"
+  ],
+  "summary": "A milestone entry marking the failure of all assigned safeguarding bodies. The IOPC, unlike the ICO, rejected escalation, leaving the complainant without any formal protective framework despite high-risk disclosures."
+}

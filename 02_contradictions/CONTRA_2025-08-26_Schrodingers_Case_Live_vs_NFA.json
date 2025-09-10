@@ -1,0 +1,46 @@
+{
+  "meta": {
+    "contradiction_id": "CONTRA_2025-08-26_Schrodingers_Case_Live_vs_NFA",
+    "title": "Schrödinger’s Case — 'Live investigation' vs NFA used to block VRR",
+    "created_at": "2025-08-30T23:14:14",
+    "version": "1.0.0",
+    "tags": [
+      "SCHRODINGERS_CASE",
+      "VRR_VPS_SUPPRESSED",
+      "GATEKEEPING",
+      "DEATH_BY_SILENCE",
+      "ACCOUNTABILITY_AVOIDANCE"
+    ],
+    "source_evidence": [
+      "EVID_2025-08-26_SussexPolice_VRR_Refusal_PublicConfidence",
+      "EVID_2025-08-26_VRR_Response_Ben_to_SussexPSD"
+    ]
+  },
+  "narrative": {
+    "summary": "Sussex Police deny VRR on the basis that case 47240214305 is 'live and ongoing' while previously communicating NFA on related matters. The 'live vs NFA' stance is used to gatekeep both VRR and evidence submission. If open, they must accept evidence; if closed, VRR applies. The contradiction suppresses Victims’ Code rights and obstructs oversight.",
+    "points": [
+      "Public Confidence states 47240214305 is 'live with a suspect'.",
+      "Ben holds written NFA from PC Dixon for related matters.",
+      "VRR is refused; evidence submission is blocked (no OIC, no NICE link).",
+      "Outcome: victim is denied both VRR and participation (VPS), breaching Victims’ Code."
+    ],
+    "legal_mapping": [
+      "Victims’ Code: Right to review decisions; right to make a VPS; right to updates.",
+      "UK GDPR/DPA 2018: fairness/accuracy/transparency where records conflict.",
+      "Police Reform Act 2002 & Code of Ethics: accountability and honesty."
+    ]
+  },
+  "links": {
+    "contradiction_threads": [
+      "VRR_VPS_SUPPRESSED",
+      "VICTIM_CREDIBILITY_ERASURE",
+      "SAR_AS_ACCESS_BARRIER",
+      "DEATH_BY_SILENCE"
+    ],
+    "related_entities": [
+      "Sussex Police Public Confidence Team",
+      "PSD",
+      "Inspector Palmer"
+    ]
+  }
+}

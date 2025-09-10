@@ -1,0 +1,31 @@
+{
+  "id": "VEX_Logged - Formal Request for Disclosure_ Safeguarding Actions Following Multi-Agency Meeting (29 April 2025) - Case Refs_ 47240141246 _ 47250093423_OCR",
+  "type": "evidence",
+  "source": "Smart OCR Ingest",
+  "date": "DATE_NOT_FOUND",
+  "summary": "Auto-ingested from file: Logged - Formal Request for Disclosure_ Safeguarding Actions Following Multi-Agency Meeting (29 April 2025) - Case Refs_ 47240141246 _ 47250093423.pdf",
+  "meta": {
+    "original_filename": "Logged - Formal Request for Disclosure_ Safeguarding Actions Following Multi-Agency Meeting (29 April 2025) - Case Refs_ 47240141246 _ 47250093423.pdf",
+    "ocr_pdf_file": "Logged - Formal Request for Disclosure_ Safeguarding Actions Following Multi-Agency Meeting (29 April 2025) - Case Refs_ 47240141246 _ 47250093423_ocr.pdf",
+    "ocr_text_file": "Logged - Formal Request for Disclosure_ Safeguarding Actions Following Multi-Agency Meeting (29 April 2025) - Case Refs_ 47240141246 _ 47250093423.txt",
+    "sha256": "b91e45f38adc9e6775818e7d29f13a9980c8dbadba965b755cfe63c4cf54f6c0",
+    "source_folder": ".",
+    "ingested_on": "2025-09-06T14:46:48.554751",
+    "ingest_method": "ocr_smart"
+  },
+  "links": {
+    "source_file_original": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_unprocessed/Logged - Formal Request for Disclosure_ Safeguarding Actions Following Multi-Agency Meeting (29 April 2025) - Case Refs_ 47240141246 _ 47250093423.pdf",
+    "ocr_pdf_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_ocrd/Logged - Formal Request for Disclosure_ Safeguarding Actions Following Multi-Agency Meeting (29 April 2025) - Case Refs_ 47240141246 _ 47250093423_ocr.pdf",
+    "ocr_text_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/text/Logged - Formal Request for Disclosure_ Safeguarding Actions Following Multi-Agency Meeting (29 April 2025) - Case Refs_ 47240141246 _ 47250093423.txt"
+  },
+  "tags": [
+    "auto_ocr",
+    " 47240141246 ",
+    " safeguarding actions following multi",
+    " formal request for disclosure",
+    "logged ",
+    " 47250093423",
+    "agency meeting (29 april 2025) ",
+    " case refs"
+  ]
+}

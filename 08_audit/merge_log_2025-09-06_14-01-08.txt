@@ -1,0 +1,857 @@
+🚀 Starting Undercover Victim Full Merge – 2025-09-06_14-01-08
+📄 Step 0: Smart OCR ingest...
+📥 Processing: CRN-47240214305_Ben_to_PC-Dixon_16-Dec-2024_Email-11.pdf
+Traceback (most recent call last):
+  File "/Users/bencarter/Documents/The_Undercover_Victim/06_scripts/ocr_ingest_smart.py", line 106, in <module>
+    main()
+  File "/Users/bencarter/Documents/The_Undercover_Victim/06_scripts/ocr_ingest_smart.py", line 103, in main
+    build_vex_stub(full_path, rel_folder=rel_folder)
+  File "/Users/bencarter/Documents/The_Undercover_Victim/06_scripts/ocr_ingest_smart.py", line 50, in build_vex_stub
+    subprocess.run(["ocrmypdf", "--force-ocr", "--output-type", "pdf", str(pdf_path), str(ocr_pdf)], check=True)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/subprocess.py", line 505, in run
+    with Popen(*popenargs, **kwargs) as process:
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/subprocess.py", line 951, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/subprocess.py", line 1821, in _execute_child
+    raise child_exception_type(errno_num, err_msg, err_filename)
+FileNotFoundError: [Errno 2] No such file or directory: 'ocrmypdf'
+✂️ Step 0.5: Splitting OCR'd threads into VEX replies...
+🔍 Splitting replies in: QnA_Battle_Cards_2025-08-25 (1).txt
+📎 0 replies injected into shard.
+🔍 Splitting replies in: CRN-47240214305_Ben_to_PC-Dixon_13-Mar-2025_Email-18.txt
+📎 0 replies injected into shard.
+🔍 Splitting replies in: EVID_2025-05-01_BrightonFringe_BoxOffice_ShowChange_Response.txt
+🧾 VEX saved: thread_EVID_2025-05-01_BrightonFringe_BoxOffice_ShowChange_Response_reply_001.json
+📎 1 replies injected into shard.
+🔍 Splitting replies in: EVID_2025-05-01_BrightonFringe_BoxOffice_ShowCancellation_UnTicketed.txt
+🧾 VEX saved: thread_EVID_2025-05-01_BrightonFringe_BoxOffice_ShowCancellation_UnTicketed_reply_001.json
+📎 1 replies injected into shard.
+🔍 Splitting replies in: SAR_Brighton_Fringe_with_AnnexA_and_ExhibitB.txt
+🧾 VEX saved: thread_SAR_Brighton_Fringe_with_AnnexA_and_ExhibitB_reply_001.json
+📎 1 replies injected into shard.
+🔍 Splitting replies in: EVID_2025-04-09_to_04-25_BrightonFringe_ActionPlan_SuicideDisclosure_Response.txt
+🧾 VEX saved: thread_EVID_2025-04-09_to_04-25_BrightonFringe_ActionPlan_SuicideDisclosure_Response_reply_001.json
+📎 1 replies injected into shard.
+🔍 Splitting replies in: CRN-47240214305_DigitalPolicing_to_Ben_2024-11-13_Email-3.txt
+📎 0 replies injected into shard.
+🔍 Splitting replies in: Alice The fake Brighton Fringe, stooling me, I cried for the first time in a year finally thought i_d found friend, I  Brighton Box Office member  sent to get me excited about awareness for liam murphy R.I.P.txt
+📎 0 replies injected into shard.
+🔍 Splitting replies in: Gmail - IOPC Reference_ 2025_007816 (1).txt
+📎 0 replies injected into shard.
+🔍 Splitting replies in: Monthly BarclayCard Statement_07-AUG-25  08035556.txt
+📎 0 replies injected into shard.
+🔍 Splitting replies in: 16 April 2025 giving an act a chance *venue manager responsibilies - Concern raised about a performer.txt
+🧾 VEX saved: thread_16 April 2025 giving an act a chance *venue manager responsibilies - Concern raised about a performer_reply_001.json
+📎 1 replies injected into shard.
+🔍 Splitting replies in: 7 May 2025 at 20-20 - Formal Notification of Breaches, Negligence, and Failure of Duty — Brighton Fringe Ltd_.txt
+📎 0 replies injected into shard.
+🔍 Splitting replies in: 11 February 2025 1 day after deadline of their brochure no leyway - Fwd_ urgent - Print deadline extended, but editing locked before I approved.txt
+🧾 VEX saved: thread_11 February 2025 1 day after deadline of their brochure no leyway - Fwd_ urgent - Print deadline extended, but editing locked before I approved_reply_001.json
+🧾 VEX saved: thread_11 February 2025 1 day after deadline of their brochure no leyway - Fwd_ urgent - Print deadline extended, but editing locked before I approved_reply_002.json
+🧾 VEX saved: thread_11 February 2025 1 day after deadline of their brochure no leyway - Fwd_ urgent - Print deadline extended, but editing locked before I approved_reply_003.json
+📎 3 replies injected into shard.
+🔍 Splitting replies in: 6 March 2023 at 11-54- catch up.txt
+🧾 VEX saved: thread_6 March 2023 at 11-54- catch up_reply_001.json
+📎 1 replies injected into shard.
+🔍 Splitting replies in: 26 May 2025 at 11-06 Suicide discolse *safeguarding  - Re_ Attendees at tonight's cancelled show.txt
+📎 0 replies injected into shard.
+🔍 Splitting replies in: Statement 16-sep-22 ac 20630144.txt
+📎 0 replies injected into shard.
+🔍 Splitting replies in: 2025-02-12_SOR-Requirements.txt
+📎 0 replies injected into shard.
+🔍 Splitting replies in: License_nS5HLR - 2025-2025.txt
+📎 0 replies injected into shard.
+🔍 Splitting replies in: EMAIL_2025-04-22_BoxOffice_Requesting_Private_Booker_Details.txt
+📎 0 replies injected into shard.
+🔍 Splitting replies in: 2024-11-07_PC_Dixon_Email_7_CRN-47240214305_VEX.txt
+📎 0 replies injected into shard.
+🔍 Splitting replies in: 16 May 2025 at 12-37 - Update on your case. Crime Reference Number_ 47250093423.txt
+📎 0 replies injected into shard.
+🔍 Splitting replies in: 09_04_05 Action plan & meeting notes.txt
+🧾 VEX saved: thread_09_04_05 Action plan & meeting notes_reply_001.json
+📎 1 replies injected into shard.
+🔍 Splitting replies in: 28 July 2025 at 06-25 Proving Duncan never insured my venues anyway - Making Me Liable - Truce_.txt
+📎 0 replies injected into shard.
+🔍 Splitting replies in: Subject Access Request (19 Aug 2025) – Brighton Fringe Ltd.txt
+📎 0 replies injected into shard.
+🔍 Splitting replies in: test_ocr_ingest_doc.txt
+📎 0 replies injected into shard.
+🔍 Splitting replies in: 9 March 2023 at 21-44 - Brighton Fringe Board Meeting and AGM 2.txt
+🧾 VEX saved: thread_9 March 2023 at 21-44 - Brighton Fringe Board Meeting and AGM 2_reply_001.json
+🧾 VEX saved: thread_9 March 2023 at 21-44 - Brighton Fringe Board Meeting and AGM 2_reply_002.json
+🧾 VEX saved: thread_9 March 2023 at 21-44 - Brighton Fringe Board Meeting and AGM 2_reply_003.json
+🧾 VEX saved: thread_9 March 2023 at 21-44 - Brighton Fringe Board Meeting and AGM 2_reply_004.json
+🧾 VEX saved: thread_9 March 2023 at 21-44 - Brighton Fringe Board Meeting and AGM 2_reply_005.json
+🧾 VEX saved: thread_9 March 2023 at 21-44 - Brighton Fringe Board Meeting and AGM 2_reply_006.json
+📎 6 replies injected into shard.
+🔍 Splitting replies in: EVID_2025-08-03_SussexPolice_Second_Stalking_CrimeRef_47250152583.txt
+📎 0 replies injected into shard.
+🔍 Splitting replies in: CRN-47240214305_Ben_to_PC-Dixon_07-Nov-2024_Email-7.txt
+📎 0 replies injected into shard.
+🔍 Splitting replies in: EVID_2025-05-08_BrightonFringe_Unauthorised_MedicalDisclosure_to_GP.txt
+🧾 VEX saved: thread_EVID_2025-05-08_BrightonFringe_Unauthorised_MedicalDisclosure_to_GP_reply_001.json
+📎 1 replies injected into shard.
+🔍 Splitting replies in: CRN-47240214305_Ben_to_PC-Dixon_08-Mar-2025_Email-TBD.txt
+📎 0 replies injected into shard.
+🔍 Splitting replies in: EVID_2025-04_HalfACamel_BrightonFringe_ShowBrochure.txt
+🧾 VEX saved: thread_EVID_2025-04_HalfACamel_BrightonFringe_ShowBrochure_reply_001.json
+🧾 VEX saved: thread_EVID_2025-04_HalfACamel_BrightonFringe_ShowBrochure_reply_002.json
+🧾 VEX saved: thread_EVID_2025-04_HalfACamel_BrightonFringe_ShowBrochure_reply_003.json
+🧾 VEX saved: thread_EVID_2025-04_HalfACamel_BrightonFringe_ShowBrochure_reply_004.json
+🧾 VEX saved: thread_EVID_2025-04_HalfACamel_BrightonFringe_ShowBrochure_reply_005.json
+🧾 VEX saved: thread_EVID_2025-04_HalfACamel_BrightonFringe_ShowBrochure_reply_006.json
+🧾 VEX saved: thread_EVID_2025-04_HalfACamel_BrightonFringe_ShowBrochure_reply_007.json
+🧾 VEX saved: thread_EVID_2025-04_HalfACamel_BrightonFringe_ShowBrochure_reply_008.json
+📎 8 replies injected into shard.
+🔍 Splitting replies in: CRN-47240214305_Ben_to_Chris-Horney_05-06-Mar-2025_Thread.txt
+🧾 VEX saved: thread_CRN-47240214305_Ben_to_Chris-Horney_05-06-Mar-2025_Thread_reply_001.json
+📎 1 replies injected into shard.
+🔍 Splitting replies in: 24 June 2025 at 10-01 - Your continuation with Brighton Fringe.txt
+📎 0 replies injected into shard.
+🔍 Splitting replies in: CRN-47240214305_Ben_to_PC-Dixon_06-Feb-2025_Email-12.txt
+📎 0 replies injected into shard.
+🔍 Splitting replies in: Brighton_Fringe_Libel_Email_Weaponising_Health_Data_2025-07-18.txt
+🧾 VEX saved: thread_Brighton_Fringe_Libel_Email_Weaponising_Health_Data_2025-07-18_reply_001.json
+📎 1 replies injected into shard.
+🔍 Splitting replies in: 25 June 2025 at 11-21 - Your Safety Plan.txt
+📎 0 replies injected into shard.
+🔍 Splitting replies in: Exhibit A – “All Communications Logged” Admission (standalone copy).txt
+🧾 VEX saved: thread_Exhibit A – “All Communications Logged” Admission (standalone copy)_reply_001.json
+📎 1 replies injected into shard.
+🔍 Splitting replies in: CRN-47240214305_PC-Dixon_to_Ben_04-Nov-2024_Email-3.txt
+🧾 VEX saved: thread_CRN-47240214305_PC-Dixon_to_Ben_04-Nov-2024_Email-3_reply_001.json
+📎 1 replies injected into shard.
+🔍 Splitting replies in: 20 July 2025 at 15-32 - Board meeting mins.txt
+📎 0 replies injected into shard.
+🔍 Splitting replies in: 6 May 2025 at 15-24 - _3.txt
+🧾 VEX saved: thread_6 May 2025 at 15-24 - _3_reply_001.json
+📎 1 replies injected into shard.
+🔍 Splitting replies in: BF agenda 130323 march 13th.txt
+📎 0 replies injected into shard.
+🔍 Splitting replies in: Exhibit_B_Venue_Observer_Role_Email_Disclosure (1).txt
+📎 0 replies injected into shard.
+🔍 Splitting replies in: CRN-47240214305_DigitalPolicing_to_Ben_2024-11-13_Email-4.txt
+📎 0 replies injected into shard.
+🔍 Splitting replies in: Gmail - An update to your LoveIt CoverIt Direct Debit – no action needed.txt
+📎 0 replies injected into shard.
+🔍 Splitting replies in: CRN-47240214305_Ben_to_PC-Dixon_12-Feb-2025_Email-14.txt
+📎 0 replies injected into shard.
+🔍 Splitting replies in: 10 March 2025 at 14-01 designing posters and fulfilling box office requriements - goodwill Re_ Line up change for 24th_.txt
+🧾 VEX saved: thread_10 March 2025 at 14-01 designing posters and fulfilling box office requriements - goodwill Re_ Line up change for 24th__reply_001.json
+🧾 VEX saved: thread_10 March 2025 at 14-01 designing posters and fulfilling box office requriements - goodwill Re_ Line up change for 24th__reply_002.json
+📎 2 replies injected into shard.
+🔍 Splitting replies in: 2 February 2023 at 14-33 - Venue manager observer to the Board.txt
+📎 0 replies injected into shard.
+🔍 Splitting replies in: 22 August 2025 at 09-11 - ICO Case Reference_ IC-386797-G0L4.txt
+📎 0 replies injected into shard.
+🔍 Splitting replies in: 24 March 2025 at 15-53 care about my acts - Jack's Puns and Friends.txt
+📎 0 replies injected into shard.
+🔍 Splitting replies in: CRN-47240214305_Ben_to_PC-Dixon_12-Feb-2025_Email-16.txt
+📎 0 replies injected into shard.
+🔍 Splitting replies in: UNDERCOVER_VICTIM_SECTION3_READER_EDITION.txt
+📎 0 replies injected into shard.
+🔍 Splitting replies in: I have never refered to my abuser as my ex - Social media.txt
+📎 0 replies injected into shard.
+🔍 Splitting replies in: Section 3.54 - The _Honey Pot_ Email.txt
+📎 0 replies injected into shard.
+🔍 Splitting replies in: 3.3_ The Leadership Vacuum & The Culture of Complicity.txt
+📎 0 replies injected into shard.
+🔍 Splitting replies in: BC Case Notes.txt
+📎 0 replies injected into shard.
+🔍 Splitting replies in: CRN-47240214305_PC-Dixon_to_Ben_04-Nov-2024_Email-1.txt
+📎 0 replies injected into shard.
+🔍 Splitting replies in: CRN-47240214305_DigitalPolicing_to_Ben_2025-03-18_Email-8.txt
+📎 0 replies injected into shard.
+🔍 Splitting replies in: CRN-47240214305_Ben_to_PC-Dixon_06-Mar-2025_Email-TBD.txt
+🧾 VEX saved: thread_CRN-47240214305_Ben_to_PC-Dixon_06-Mar-2025_Email-TBD_reply_001.json
+🧾 VEX saved: thread_CRN-47240214305_Ben_to_PC-Dixon_06-Mar-2025_Email-TBD_reply_002.json
+📎 2 replies injected into shard.
+🔍 Splitting replies in: An Analysis of Information Security Vulnerabilities in the Sussex Police 101 Non-Emergency Call Handling System.txt
+📎 0 replies injected into shard.
+🔍 Splitting replies in: 11th august - BRIGHTON FRINGE LTD - 1116367 CRM_0168305.txt
+📎 0 replies injected into shard.
+🔍 Splitting replies in: 3 May 2025 at 12-32 - Friday (First night summary)!.txt
+📎 0 replies injected into shard.
+🔍 Splitting replies in: CRN-47240214305_DigitalPolicing_to_Ben_2024-12-13_Email-7 (1).txt
+🧾 VEX saved: thread_CRN-47240214305_DigitalPolicing_to_Ben_2024-12-13_Email-7 (1)_reply_001.json
+📎 1 replies injected into shard.
+🔍 Splitting replies in: BC Saftey Plan.txt
+📎 0 replies injected into shard.
+🔍 Splitting replies in: EVID_2025-07-20_BrightonFringe_BoardMinutes_RemovalRequest_Refused.txt
+📎 0 replies injected into shard.
+🔍 Splitting replies in: Sar 24 June 2025 at 10-01 - Board Meeting to discuss Half a Camel Involvement in Brighton Fringe 2025.txt
+🧾 VEX saved: thread_Sar 24 June 2025 at 10-01 - Board Meeting to discuss Half a Camel Involvement in Brighton Fringe 2025_reply_001.json
+📎 1 replies injected into shard.
+🔍 Splitting replies in: Formal Request to Make a Victim Personal Statement – Crime Reference Numbers_ 47240141246, 47240214305, 47250093423, 47250152583, 701211.txt
+📎 0 replies injected into shard.
+🔍 Splitting replies in: CRN-47240214305_PC-Dixon_to_Ben_12-Feb-2025_Email-10.txt
+🧾 VEX saved: thread_CRN-47240214305_PC-Dixon_to_Ben_12-Feb-2025_Email-10_reply_001.json
+📎 1 replies injected into shard.
+🔍 Splitting replies in: CRN-47240214305_DigitalPolicing_to_Ben_2025-04-07_Email-9.txt
+📎 0 replies injected into shard.
+🔍 Splitting replies in: CRN-47240214305_Ben_to_PC-Dixon_16-Dec-2024_Email-11.txt
+📎 0 replies injected into shard.
+🔍 Splitting replies in: 5 May 2025 at 14-45 Happy Venue - Ticketing issues arising Next week locked!.txt
+📎 0 replies injected into shard.
+🔍 Splitting replies in: 5 May 2025 at 15-50 Confirmation acts were confused too- What’s going on URGENT.txt
+📎 0 replies injected into shard.
+🔍 Splitting replies in: 7 May 2025 at 16-22 _3.txt
+🧾 VEX saved: thread_7 May 2025 at 16-22 _3_reply_001.json
+📎 1 replies injected into shard.
+🔍 Splitting replies in: 2 December 2024 at 10-47 - RE_ Re; Brighton fringe May 2025.txt
+📎 0 replies injected into shard.
+🔍 Splitting replies in: MASTER_TIMELINE_v2_2025-08-25_v2-1_CLEAN.txt
+📎 0 replies injected into shard.
+🔍 Splitting replies in: 11th May Subject Access Request - Brighton Fringe.txt
+📎 0 replies injected into shard.
+🔍 Splitting replies in: IC-415467-W5D3 (2).txt
+📎 0 replies injected into shard.
+🔍 Splitting replies in: 1st April 2025 Trying to keep duncan away from safeguarding issues - Venue Bursary winner!.txt
+📎 0 replies injected into shard.
+🔍 Splitting replies in: 18 July 2025  The recent LIbel Email to all clientsa Half a Camel - Brighton Fringe update.txt
+🧾 VEX saved: thread_18 July 2025  The recent LIbel Email to all clientsa Half a Camel - Brighton Fringe update_reply_001.json
+📎 1 replies injected into shard.
+🔍 Splitting replies in: CRN-47240214305_PC-Dixon_to_Ben_12-Feb-2025_Email-17.txt
+📎 0 replies injected into shard.
+🔍 Splitting replies in: Alice_Instagram_I_Told Her_Everthing.txt
+📎 0 replies injected into shard.
+🔍 Splitting replies in: EVID_2025-04-22_BrightonFringe_BoxOffice_ExternalBooking_Requests.txt
+📎 0 replies injected into shard.
+🔍 Splitting replies in: 01_ Complainant’s Foreword.txt
+🧾 VEX saved: thread_01_ Complainant’s Foreword_reply_001.json
+📎 1 replies injected into shard.
+🔍 Splitting replies in: Exhibit A – “All Communications Logged” Admission (standalone copy) (1).txt
+🧾 VEX saved: thread_Exhibit A – “All Communications Logged” Admission (standalone copy) (1)_reply_001.json
+📎 1 replies injected into shard.
+🔍 Splitting replies in: 23 August 2025 at 13-00  - Formal Request to Make a Victim Personal Statement – Crime Reference Numbers_ 47240141246, 47240214305, 47250093423, 47250152583, 701211.txt
+📎 0 replies injected into shard.
+🔍 Splitting replies in: UNDERCOVER_VICTIM_SECTION3_READER_EDITION_VERITAS (1).txt
+📎 0 replies injected into shard.
+🔍 Splitting replies in: 2 April 2025 at 13-02 - Recent disclosure.txt
+🧾 VEX saved: thread_2 April 2025 at 13-02 - Recent disclosure_reply_001.json
+🧾 VEX saved: thread_2 April 2025 at 13-02 - Recent disclosure_reply_002.json
+🧾 VEX saved: thread_2 April 2025 at 13-02 - Recent disclosure_reply_003.json
+📎 3 replies injected into shard.
+🔍 Splitting replies in: UNDERCOVER_VICTIM_SECTION2_3_READER_COMBINED.txt
+📎 0 replies injected into shard.
+🔍 Splitting replies in: CRN-47240214305_PC-Dixon_to_Ben_12-Feb-2025_Email-16.txt
+📎 0 replies injected into shard.
+🔍 Splitting replies in: 2024 Venue managers agreement  broken - Brighton Fringe.txt
+📎 0 replies injected into shard.
+🔍 Splitting replies in: Support letter 12.5.25 1 (1) (2).txt
+📎 0 replies injected into shard.
+🔍 Splitting replies in: UNDERCOVER_VICTIM_SECTION3_FULL_2025-08-26_UPDATED.txt
+📎 0 replies injected into shard.
+🔍 Splitting replies in: Statement 21-AUG-25 AC 70500348  23052649.txt
+📎 0 replies injected into shard.
+🔍 Splitting replies in: 3.39_ The Charity Shield_ How State-Funded Advocacy Was Weaponised for Narrative Control.txt
+📎 0 replies injected into shard.
+🔍 Splitting replies in: EVID_2025-04-22_BrightonFringe_BoxOffice_TicketingConfusion_Response.txt
+🧾 VEX saved: thread_EVID_2025-04-22_BrightonFringe_BoxOffice_TicketingConfusion_Response_reply_001.json
+📎 1 replies injected into shard.
+🔍 Splitting replies in: 12th May Subject Access Request - Brighton Fringe.txt
+📎 0 replies injected into shard.
+🔍 Splitting replies in: CEO and Management Team Reports- March 2023.txt
+📎 0 replies injected into shard.
+🔍 Splitting replies in: 28 April 2025 at 15-06 - NEXT WEEK LOCKED_ HOURS_STAFFING.txt
+📎 0 replies injected into shard.
+🔍 Splitting replies in: Pc Clarke_.txt
+📎 0 replies injected into shard.
+🔍 Splitting replies in: CRN-47240214305_DigitalPolicing_to_Ben_2024-12-13_Email-7.txt
+📎 0 replies injected into shard.
+🔍 Splitting replies in: 2 April 2025 at 09-54 - Akwaaba Dance Group.txt
+🧾 VEX saved: thread_2 April 2025 at 09-54 - Akwaaba Dance Group_reply_001.json
+📎 1 replies injected into shard.
+🔍 Splitting replies in: Safety Plan BC .txt
+📎 0 replies injected into shard.
+🔍 Splitting replies in: Exhibit_ICO_Rapid_Response.txt
+📎 0 replies injected into shard.
+🔍 Splitting replies in: 20 February 2025 at 18-22 box office duties - Fwd_ Name swap.txt
+🧾 VEX saved: thread_20 February 2025 at 18-22 box office duties - Fwd_ Name swap_reply_001.json
+🧾 VEX saved: thread_20 February 2025 at 18-22 box office duties - Fwd_ Name swap_reply_002.json
+🧾 VEX saved: thread_20 February 2025 at 18-22 box office duties - Fwd_ Name swap_reply_003.json
+📎 3 replies injected into shard.
+🔍 Splitting replies in: EVID_2025-05-08_BrightonFringe_VenueManagement_Takeover.txt
+📎 0 replies injected into shard.
+🔍 Splitting replies in: Gmail - Supporting you during Fringe.txt
+📎 0 replies injected into shard.
+🔍 Splitting replies in: 10 April 2025 at 13-04 - Fringe details pls _).txt
+📎 0 replies injected into shard.
+🔍 Splitting replies in: Emma Jones Veritas Whatsapp.txt
+📎 0 replies injected into shard.
+🔍 Splitting replies in: 19 August 2025 at 06-43 - We have received your email. Rydym wedi derbyn eich ebost_.txt
+📎 0 replies injected into shard.
+🔍 Splitting replies in: SAR_Brighton_Fringe_with_AnnexA_and_ExhibitB (1).txt
+🧾 VEX saved: thread_SAR_Brighton_Fringe_with_AnnexA_and_ExhibitB (1)_reply_001.json
+📎 1 replies injected into shard.
+🔍 Splitting replies in: Attachment_Index_IOPC_Ref_2025-007816_v3.txt
+📎 0 replies injected into shard.
+🔍 Splitting replies in: 26 April 2025 at 01-26 - Referral Alert - encoreinsure.com.txt
+📎 0 replies injected into shard.
+🔍 Splitting replies in: 8 March 2023 at 13-38 - board observer status.txt
+📎 0 replies injected into shard.
+🔍 Splitting replies in: EMAIL_ICO_2025-08-22_IC-386797-G0L4_DATA_BREACH.txt
+📎 0 replies injected into shard.
+🔍 Splitting replies in: CRN-47240214305_DigitalPolicing_to_Ben_2025-04-07_THREAD.txt
+📎 0 replies injected into shard.
+🔍 Splitting replies in: EVID_2025-06-22_SussexPolice_NoReply_CAD_0050.txt
+📎 0 replies injected into shard.
+🔍 Splitting replies in: public.rights@sussex.police.uk.txt
+📎 0 replies injected into shard.
+🔍 Splitting replies in: 22 August 2025 at 14-29 - ICO Case Reference_ IC-386797-G0L4.txt
+📎 0 replies injected into shard.
+🔍 Splitting replies in: CRN-47240214305_PC-Dixon_to_Ben_16-Dec-2024_Email-9.txt
+📎 0 replies injected into shard.
+🔍 Splitting replies in: MASTER_TIMELINE_v2_2025-08-25_v2-3.txt
+📎 0 replies injected into shard.
+🔍 Splitting replies in: Statement 21-AUG-25 AC 70500348  23052650.txt
+📎 0 replies injected into shard.
+🔍 Splitting replies in: boaard mins.txt
+📎 0 replies injected into shard.
+🔍 Splitting replies in: 9 May 2025 at 17-36 URGENT – Sussex Police Mishandling, NFA Without Notification, Safeguarding Breakdown Entire Sussex Police Corruption (CIT1201684 _ 47240214305).txt
+📎 0 replies injected into shard.
+🔍 Splitting replies in: Ben_Carter_Stalking_Victim_Mental_Health_Evidence_SevenDials_Mar2025.txt
+🧾 VEX saved: thread_Ben_Carter_Stalking_Victim_Mental_Health_Evidence_SevenDials_Mar2025_reply_001.json
+📎 1 replies injected into shard.
+🔍 Splitting replies in: 26 April 2025 - Show changes.txt
+🧾 VEX saved: thread_26 April 2025 - Show changes_reply_001.json
+🧾 VEX saved: thread_26 April 2025 - Show changes_reply_002.json
+🧾 VEX saved: thread_26 April 2025 - Show changes_reply_003.json
+🧾 VEX saved: thread_26 April 2025 - Show changes_reply_004.json
+📎 4 replies injected into shard.
+🔍 Splitting replies in: 15 May 2025 at 06-29 - Urgent SAR Request and Serious Concerns – Immediate Action Required.txt
+📎 0 replies injected into shard.
+🔍 Splitting replies in: Support letter 12.5.25 1 (1) (1).txt
+📎 0 replies injected into shard.
+🔍 Splitting replies in: 2024-11-04_to_2025-03-13_PC_Dixon_Email_Chain_CRN-47240214305_master.txt
+🧾 VEX saved: thread_2024-11-04_to_2025-03-13_PC_Dixon_Email_Chain_CRN-47240214305_master_reply_001.json
+🧾 VEX saved: thread_2024-11-04_to_2025-03-13_PC_Dixon_Email_Chain_CRN-47240214305_master_reply_002.json
+📎 2 replies injected into shard.
+🔍 Splitting replies in: 26 August 2025 at 13-56 - Sussex Police -IX_619_25.txt
+📎 0 replies injected into shard.
+🔍 Splitting replies in: 17 July 2025 at 11-59 - RE; DEADLINE URGENT_ SAR Breach, Safeguarding Silence, and Deadline for Disclosure (17 July, 5pm).txt
+🧾 VEX saved: thread_17 July 2025 at 11-59 - RE; DEADLINE URGENT_ SAR Breach, Safeguarding Silence, and Deadline for Disclosure (17 July, 5pm)_reply_001.json
+🧾 VEX saved: thread_17 July 2025 at 11-59 - RE; DEADLINE URGENT_ SAR Breach, Safeguarding Silence, and Deadline for Disclosure (17 July, 5pm)_reply_002.json
+🧾 VEX saved: thread_17 July 2025 at 11-59 - RE; DEADLINE URGENT_ SAR Breach, Safeguarding Silence, and Deadline for Disclosure (17 July, 5pm)_reply_003.json
+🧾 VEX saved: thread_17 July 2025 at 11-59 - RE; DEADLINE URGENT_ SAR Breach, Safeguarding Silence, and Deadline for Disclosure (17 July, 5pm)_reply_004.json
+🧾 VEX saved: thread_17 July 2025 at 11-59 - RE; DEADLINE URGENT_ SAR Breach, Safeguarding Silence, and Deadline for Disclosure (17 July, 5pm)_reply_005.json
+📎 5 replies injected into shard.
+🔍 Splitting replies in: CRN-47240214305_DigitalPolicing_to_Ben_2025-04-07_Email-10.txt
+📎 0 replies injected into shard.
+🔍 Splitting replies in: Subject.Access1@sussex.police.uk.txt
+📎 0 replies injected into shard.
+🔍 Splitting replies in: Attachment_Index_IOPC_Ref_2025-007816_v5.txt
+📎 0 replies injected into shard.
+🔍 Splitting replies in: 18-07-25_Mass_Libel_Email.pdf (Fringe mass disclosure to 160+ artists_clients).txt
+🧾 VEX saved: thread_18-07-25_Mass_Libel_Email.pdf (Fringe mass disclosure to 160+ artists_clients)_reply_001.json
+📎 1 replies injected into shard.
+🔍 Splitting replies in: 7 May 2025 at 17-04 - Supporting you during Fringe.txt
+📎 0 replies injected into shard.
+🔍 Splitting replies in: BF agenda 130323.txt
+📎 0 replies injected into shard.
+🔍 Splitting replies in: Attachment_Index_IOPC_Ref_2025-007816_v4.txt
+📎 0 replies injected into shard.
+🔍 Splitting replies in: EVID_2025-04-21_to_04-24_BrightonFringe_BoxOffice_TicketingDispute_Thread.txt
+🧾 VEX saved: thread_EVID_2025-04-21_to_04-24_BrightonFringe_BoxOffice_TicketingDispute_Thread_reply_001.json
+🧾 VEX saved: thread_EVID_2025-04-21_to_04-24_BrightonFringe_BoxOffice_TicketingDispute_Thread_reply_002.json
+🧾 VEX saved: thread_EVID_2025-04-21_to_04-24_BrightonFringe_BoxOffice_TicketingDispute_Thread_reply_003.json
+🧾 VEX saved: thread_EVID_2025-04-21_to_04-24_BrightonFringe_BoxOffice_TicketingDispute_Thread_reply_004.json
+📎 4 replies injected into shard.
+🔍 Splitting replies in: IC-415467-W5D3 (1).txt
+📎 0 replies injected into shard.
+🔍 Splitting replies in: Attachment Index – IOPC Reference_ 2025_007816 .txt
+📎 0 replies injected into shard.
+🔍 Splitting replies in: 24 April 2025 - Subject_ Evidence Submission – Third-Party Digital Interaction (Alexander “Voodoo”) – CIT1201684.txt
+📎 0 replies injected into shard.
+🔍 Splitting replies in: SAR_Brighton_Fringe_with_AnnexA_and_ExhibitB (1) 2.txt
+🧾 VEX saved: thread_SAR_Brighton_Fringe_with_AnnexA_and_ExhibitB (1) 2_reply_001.json
+🧾 VEX saved: thread_SAR_Brighton_Fringe_with_AnnexA_and_ExhibitB (1) 2_reply_002.json
+🧾 VEX saved: thread_SAR_Brighton_Fringe_with_AnnexA_and_ExhibitB (1) 2_reply_003.json
+🧾 VEX saved: thread_SAR_Brighton_Fringe_with_AnnexA_and_ExhibitB (1) 2_reply_004.json
+📎 4 replies injected into shard.
+🔍 Splitting replies in: CRN-47240214305_Ben_to_PC-Dixon_09-Nov-2024_Email-8.txt
+📎 0 replies injected into shard.
+🔍 Splitting replies in: CRN-47240214305_Ben_to_PC-Dixon_06-Mar-2025_Email-19.txt
+📎 0 replies injected into shard.
+🔍 Splitting replies in: 19 August 2025 at 15-56 - Formal Notice – Subject Access Request (19 Aug 2025) – Brighton Fringe Ltd.txt
+📎 0 replies injected into shard.
+🔍 Splitting replies in: Attachment_Index_IOPC_Ref_2025-007816_v7.txt
+📎 0 replies injected into shard.
+🔍 Splitting replies in: 25 June 2025 at 11-07 - Your support.txt
+📎 0 replies injected into shard.
+🔍 Splitting replies in: EVID_2025-05-08_BrightonFringe_VenueManagement_ReliefNotice.txt
+📎 0 replies injected into shard.
+🔍 Splitting replies in: MASTER_TIMELINE_v2_2025-08-25_v2-4.txt
+📎 0 replies injected into shard.
+🔍 Splitting replies in: UNDERCOVER_VICTIM_SECTION3_READER_EDITION_VERITAS.txt
+📎 0 replies injected into shard.
+🔍 Splitting replies in: CRN-47240214305_Ben_to_PC-Dixon_11-Feb-2025_Email-13.txt
+📎 0 replies injected into shard.
+🔍 Splitting replies in: Monday 21 st March 2022.txt
+📎 0 replies injected into shard.
+🔍 Splitting replies in: UNDERCOVER_VICTIM_DRAFT_SCAFFOLD_2025-08-26.txt
+📎 0 replies injected into shard.
+🔍 Splitting replies in: UNDERCOVER_VICTIM_SECTION3.1_FILLED_2025-08-26.txt
+📎 0 replies injected into shard.
+🔍 Splitting replies in: UNDERCOVER_VICTIM_SECTION3_FULL_2025-08-26.txt
+📎 0 replies injected into shard.
+🔍 Splitting replies in: EVID_2025-04-02_to_04-05_BrightonFringe_Disclosure_Response_Thread.txt
+🧾 VEX saved: thread_EVID_2025-04-02_to_04-05_BrightonFringe_Disclosure_Response_Thread_reply_001.json
+🧾 VEX saved: thread_EVID_2025-04-02_to_04-05_BrightonFringe_Disclosure_Response_Thread_reply_002.json
+🧾 VEX saved: thread_EVID_2025-04-02_to_04-05_BrightonFringe_Disclosure_Response_Thread_reply_003.json
+📎 3 replies injected into shard.
+🔍 Splitting replies in: Exhibit_B_Venue_Observer_Role_Email_Disclosure.txt
+📎 0 replies injected into shard.
+🔍 Splitting replies in: CRN-47240214305_DigitalPolicing_to_Ben_2024-11-14_Email-6.txt
+📎 0 replies injected into shard.
+🔍 Splitting replies in: 25 March 2025 at 00-55 fulfilling their box office obligations - venue and date change.txt
+🧾 VEX saved: thread_25 March 2025 at 00-55 fulfilling their box office obligations - venue and date change_reply_001.json
+🧾 VEX saved: thread_25 March 2025 at 00-55 fulfilling their box office obligations - venue and date change_reply_002.json
+🧾 VEX saved: thread_25 March 2025 at 00-55 fulfilling their box office obligations - venue and date change_reply_003.json
+📎 3 replies injected into shard.
+🔍 Splitting replies in: 2024 -2025 Formal Complaint_ A Systematic Breach of the Venue Managers’ Agreement by Brighton Fringe Ltd..txt
+📎 0 replies injected into shard.
+🔍 Splitting replies in: 2 December 2024 at 10-43 RE_ Re; Brighton fringe May 2025.txt
+📎 0 replies injected into shard.
+🔍 Splitting replies in: Brighton_Fringe_Libel_Email_Weaponising_Health_Data_2025-07-18 (1).txt
+🧾 VEX saved: thread_Brighton_Fringe_Libel_Email_Weaponising_Health_Data_2025-07-18 (1)_reply_001.json
+📎 1 replies injected into shard.
+🔍 Splitting replies in: 31 March 2025 at Why am I being contacted? The Fringe Stopped this artist coming from abroad- Sponsorship Verification request for EDNA SARFOWAA APPIAH Web Ref_ GWF081830671_ VAF Number_ 4431094 Post_ CROYDON B.txt
+📎 0 replies injected into shard.
+🔍 Splitting replies in: Annex A- Schedule of Breaches.txt
+📎 0 replies injected into shard.
+🔍 Splitting replies in: 19 August 2025 - ICO Case Reference_ IC-386797-G0L4.txt
+📎 0 replies injected into shard.
+🔍 Splitting replies in: BC SASH.txt
+📎 0 replies injected into shard.
+🔍 Splitting replies in: CRN-47240214305_DigitalPolicing_to_Ben_2024-11-04_Email-2.txt
+📎 0 replies injected into shard.
+🔍 Splitting replies in: CRN-47240214305_DigitalPolicing_to_Ben_2024-11-14_Email-5.txt
+📎 0 replies injected into shard.
+🔍 Splitting replies in: CRN-47240214305_Ben_to_PC-Dixon_04-Nov-2024_Email-2.txt
+📎 0 replies injected into shard.
+🔍 Splitting replies in: 21 April 2025 at 14-24 - Emails from Artists.txt
+🧾 VEX saved: thread_21 April 2025 at 14-24 - Emails from Artists_reply_001.json
+🧾 VEX saved: thread_21 April 2025 at 14-24 - Emails from Artists_reply_002.json
+🧾 VEX saved: thread_21 April 2025 at 14-24 - Emails from Artists_reply_003.json
+🧾 VEX saved: thread_21 April 2025 at 14-24 - Emails from Artists_reply_004.json
+📎 4 replies injected into shard.
+🔍 Splitting replies in: CRN-47240214305_Ben_to_PC-Dixon_06-Apr-2025_Email-TBD.txt
+📎 0 replies injected into shard.
+🔍 Splitting replies in: IC-415467-W5D3.txt
+📎 0 replies injected into shard.
+🔍 Splitting replies in: 1 October 2024 at 10-59 - Re fringe meeting.txt
+🧾 VEX saved: thread_1 October 2024 at 10-59 - Re fringe meeting_reply_001.json
+📎 1 replies injected into shard.
+🔍 Splitting replies in: 9 April 2025 at 11-47 - Action plan & meeting notes.txt
+🧾 VEX saved: thread_9 April 2025 at 11-47 - Action plan & meeting notes_reply_001.json
+📎 1 replies injected into shard.
+🔍 Splitting replies in: 01_ Complainant’s Foreword (1).txt
+🧾 VEX saved: thread_01_ Complainant’s Foreword (1)_reply_001.json
+📎 1 replies injected into shard.
+🔍 Splitting replies in: SAR  7 May 2025, 20-20   - Formal Notification of Breaches, Negligence, and Failure of Duty — Brighton Fringe Ltd_.txt
+📎 0 replies injected into shard.
+🔍 Splitting replies in: Gmail - IOPC Reference_ 2025_007816.txt
+📎 0 replies injected into shard.
+🔍 Splitting replies in: IOPC Master Complaint (Ben Carter August 2025).txt
+📎 0 replies injected into shard.
+🔍 Splitting replies in: SAR 11 May 2025 at 12-38 - Support for Artists at Half a Camel.txt
+📎 0 replies injected into shard.
+🔍 Splitting replies in: IMG_4790.txt
+📎 0 replies injected into shard.
+🔍 Splitting replies in: 2024-12-13_Email_Jonathan_Dixon_Request_Digital_Evidence_NICE_LINK_B.txt
+🧾 VEX saved: thread_2024-12-13_Email_Jonathan_Dixon_Request_Digital_Evidence_NICE_LINK_B_reply_001.json
+📎 1 replies injected into shard.
+🔍 Splitting replies in: SAR 20 July 2025 at 15-32 - Board meeting mins.txt
+📎 0 replies injected into shard.
+🔍 Splitting replies in: Support letter 12.5.25 1 (1).txt
+📎 0 replies injected into shard.
+🔍 Splitting replies in: 25 April 2025 at 15-22 - Venue Boards + Bunting.txt
+📎 0 replies injected into shard.
+🔍 Splitting replies in: QnA_Battle_Cards_2025-08-25.txt
+📎 0 replies injected into shard.
+🔍 Splitting replies in: 2024-11-09_PC_Dixon_Email_8_CRN-47240214305_VEX.txt
+📎 0 replies injected into shard.
+🔍 Splitting replies in: 21st August 2025 IC-415467-W5D3.txt
+📎 0 replies injected into shard.
+🔍 Splitting replies in: 12 May 2025 at 15-14 - Brighton Fringe Email URGENT.txt
+📎 0 replies injected into shard.
+🔍 Splitting replies in: 26 April 2025 at 01-26 - Referral Alert - encoreinsure.com (1).txt
+📎 0 replies injected into shard.
+🔍 Splitting replies in: 24 June 2025 at 10-01  - Board Meeting to discuss Half a Camel Involvement in Brighton Fringe 2025.txt
+🧾 VEX saved: thread_24 June 2025 at 10-01  - Board Meeting to discuss Half a Camel Involvement in Brighton Fringe 2025_reply_001.json
+📎 1 replies injected into shard.
+🔍 Splitting replies in: CRN-47240214305_Digital-Policing_to_Ben_04-Nov-2024_Email-NL1.txt
+📎 0 replies injected into shard.
+🔍 Splitting replies in: 25 June 2025 at 11-07- Your support.txt
+📎 0 replies injected into shard.
+🔍 Splitting replies in: 31 May 2024 at 07-29 Appology for 2024 abuse and venue mangement breaches.txt
+📎 0 replies injected into shard.
+🔍 Splitting replies in: CRN-47240214305_Ben_to_PC-Dixon_04-Nov-2024_Email-4.txt
+📎 0 replies injected into shard.
+🔍 Splitting replies in: Alanna_Evidence_Prior_To Arrest_Google_Drive_iJjhdS3LV4gVbSmjOpB3xfkffmbf08vu?usp=drive_link.txt
+📎 0 replies injected into shard.
+🔍 Splitting replies in: IMG_4779.txt
+📎 0 replies injected into shard.
+🔍 Splitting replies in: alice instagram.txt
+📎 0 replies injected into shard.
+🔍 Splitting replies in: 18 August 2025 at 16-31 - URGENT_ Statutory SAR Breach, Preservation Notice & Final 7-Day Deadline (due 25 August 2025).txt
+📎 0 replies injected into shard.
+🔍 Splitting replies in: UNDERCOVER_VICTIM_SECTION3_READER_EDITION_UPDATED.txt
+📎 0 replies injected into shard.
+🔍 Splitting replies in: CRN-47240214305_Ben_to_PC-Dixon_04-Nov-2024_Email-5.txt
+📎 0 replies injected into shard.
+🔍 Splitting replies in: PC_Dixon_Whatsapp.txt
+🧾 VEX saved: thread_PC_Dixon_Whatsapp_reply_001.json
+🧾 VEX saved: thread_PC_Dixon_Whatsapp_reply_002.json
+📎 2 replies injected into shard.
+📌 Step 1: Patching new VEX and contradictions...
+✅ Shards patched into:
+  • /Users/bencarter/Documents/The_Undercover_Victim/01_evidence/vex/shard_evidence_vex_merged_v3.json
+  • /Users/bencarter/Documents/The_Undercover_Victim/02_contradictions/shard_contradictions_core_merged_v3.json
+  • /Users/bencarter/Documents/The_Undercover_Victim/03_timelines/shard_timelines_core_merged_UPDATED_2025-09-01_v3.json
+  • /Users/bencarter/Documents/The_Undercover_Victim/07_meta/contradiction_cluster_index_2025-09-01.json
+🔐 Step 2: Hashing audio (if any)...
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+SHA-256: fa8d8aebd8bdf0655aedff8b345bfc8ba92eb37a79aedebe6a8e2a3597b366e7
+Updated /Users/bencarter/Documents/The_Undercover_Victim/01_evidence/vex/VEX_2025-06-22_0037_101_Alanna_New_Call_Not_Dead.json with audio_sha256.
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+Traceback (most recent call last):
+  File "/Users/bencarter/Documents/The_Undercover_Victim/06_scripts/hash_audio.py", line 12, in <module>
+    audio_rel = data.get("links", {}).get("audio_local_path")
+AttributeError: 'list' object has no attribute 'get'
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+No links.audio_local_path in JSON
+🧠 Step 3: Merging shards via atlas.json...
+🔍 Loading shard: shard_contradictions_core → /Users/bencarter/Documents/The_Undercover_Victim/02_contradictions/shard_contradictions_core_merged_v3.json
+🔍 Loading shard: shard_evidence_vex → /Users/bencarter/Documents/The_Undercover_Victim/01_evidence/vex/shard_evidence_vex_merged_v3.json
+🔍 Loading shard: shard_timelines_core → /Users/bencarter/Documents/The_Undercover_Victim/03_timelines/shard_timelines_core_merged_UPDATED_2025-09-01_v3.json
+🔍 Loading shard: shard_manifest_meta → /Users/bencarter/Documents/The_Undercover_Victim/07_meta/shard_manifest_meta.json
+🔍 Loading shard: shard_contradictions_vex → /Users/bencarter/Documents/The_Undercover_Victim/07_meta/contradictions_vex.json
+🔍 Loading shard: contradictions_holiday_alibi → /Users/bencarter/Documents/The_Undercover_Victim/07_meta/CONTRADICTION_PACK_HOLIDAY_ALIBI_FULL_BUNDLE.json
+🔍 Loading shard: contradictions_duncan_patch → /Users/bencarter/Documents/The_Undercover_Victim/07_meta/DUNCAN_ATTEMPTED_MURDER_CONTRADICTION_PATCH.json
+🔍 Loading shard: contradictions_veritas_chat → /Users/bencarter/Documents/The_Undercover_Victim/07_meta/EX_VERITAS_CHAT_CONTRADICTION_2025.json
+[ℹ️ dedupe] evidence_vex: 428 → 301
+✅ Wrote consolidated files to: ['08_audit', 'dashboard/data']
+📊 Step 4: Running final audit...
+✅ Status report generated: /Users/bencarter/Documents/the_undercover_victim/08_audit/STATUS_REPORT_2025-09-05.json
+📦 Step 5: Zipping audit report...
+  adding: STATUS_REPORT_2025-09-05.json (deflated 40%)
+📂 Step 6: Opening audit folder...
+✅ Merge + Audit complete – 2025-09-06_14-01-08

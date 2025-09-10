@@ -1,0 +1,70 @@
+{
+  "meta": {
+    "title": "Cherish These Moments, Ben \u2014 101 Call Pairing",
+    "date_created": "2025-06-22",
+    "vex_id": "VEX_2025-06-22_Cherish_Bundle",
+    "related_calls": [
+      "101_2025-06-22_0037_MONOLOGUE.wav"
+    ],
+    "linked_interlude": "Cherish These Moments, Ben",
+    "status": "paired_bundle",
+    "bundle_type": "interlude_call_pairing",
+    "generated_utc": "2025-08-26T19:45:00Z"
+  },
+  "quotes": [
+    {
+      "quote": "And when the sun goes\nover the same skyline \u2014\ndown on the victim,\ndown with the 101 callers,\ndown with the police.\n\nA day of going round in circles.\n\nThis is my life.\nThis is purpose.\nWarped. Surreal. Content.\n\nCherish these moments, Ben.",
+      "source": "SECTION_3_WORKING_DRAFT_v1.1.md",
+      "type": "interlude",
+      "tags": [
+        "DEATH_BY_SILENCE",
+        "LOOPING_RESPONSES",
+        "DISSOCIATION_EFFECT",
+        "RESOLVE_AFTER_ATTEMPT",
+        "INSTITUTIONAL_FAMILIARITY",
+        "SAFEGUARDING_FAILURE"
+      ]
+    },
+    {
+      "quote": "There\u2019s already three crime numbers under my name, all for the same thing, and now there\u2019s another one. [...] So that\u2019s what\u2019s happening. Sussex Police created an extra crime number so that the IOPC can\u2019t see their two crime numbers. That PC Dixon is hiding all the corruption.",
+      "source": "22-06-25 04.30 Just hung up that\u2019s new.docx.txt",
+      "type": "transcript_extracted",
+      "tags": [
+        "CRIME_REFERENCE_MANIPULATION",
+        "IOPC_OBSTRUCTION",
+        "INSTITUTIONAL_GASLIGHTING",
+        "SAFEGUARDING_DUTY_FAILED",
+        "VOICE_SUPPRESSION",
+        "REPEATED_ASSIGNMENT_TO_DIXON"
+      ]
+    }
+  ],
+  "evidence_links": [
+    {
+      "type": "audio",
+      "file": "101_2025-06-22_0037_MONOLOGUE.wav",
+      "summary": "Ben delivers a monologue marking 1 year since his original 101 call ('Police, please'), highlighting the ongoing silence and detachment from Sussex Police."
+    },
+    {
+      "type": "transcript",
+      "file": "22-06-25 04.30 Just hung up that\u2019s new.docx.txt",
+      "summary": "Ben calls 101 to confirm crime numbers and demands a video call under Victims' Code. Call handler confirms PC Dixon is still the officer in charge despite non-contact since April. Ben outlines IOPC obstruction via multiple crime references and confirms systemic safeguarding failure."
+    }
+  ],
+  "contradictions": [
+    "CRIME_REFERENCE_MANIPULATION",
+    "DEATH_BY_SILENCE",
+    "IOPC_OBSTRUCTION",
+    "NO_CASE_OWNERSHIP",
+    "NO_VIDEO_CALL_RIGHTS",
+    "REPEATED_ASSIGNMENT_TO_DIXON",
+    "SAFEGUARDING_DUTY_FAILED",
+    "VOICE_SUPPRESSION"
+  ],
+  "timeline_hooks": [
+    "CrowbarringMyselfJustice",
+    "DeathBySilence",
+    "SussexPolice"
+  ],
+  "emotional_tone": "resigned_clarity"
+}

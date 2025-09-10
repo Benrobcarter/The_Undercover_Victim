@@ -1,0 +1,26 @@
+{
+  "id": "VEX_2025-05-28 NHS Suicidal 16.07_OCR",
+  "type": "evidence",
+  "source": "Smart OCR Ingest",
+  "date": "2025-05-28",
+  "summary": "Auto-ingested from file: 2025-05-28 NHS Suicidal 16.07.pdf",
+  "meta": {
+    "original_filename": "2025-05-28 NHS Suicidal 16.07.pdf",
+    "ocr_pdf_file": "2025-05-28 NHS Suicidal 16.07_ocr.pdf",
+    "ocr_text_file": "2025-05-28 NHS Suicidal 16.07.txt",
+    "sha256": "5ce79828781ca308a2171f172ade26e0d938c942b1f909b8cc433ee06116eb3f",
+    "source_folder": ".",
+    "ingested_on": "2025-09-06T23:11:44.841386",
+    "ingest_method": "ocr_smart"
+  },
+  "links": {
+    "source_file_original": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_unprocessed/2025-05-28 NHS Suicidal 16.07.pdf",
+    "ocr_pdf_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_ocrd/2025-05-28 NHS Suicidal 16.07_ocr.pdf",
+    "ocr_text_file": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/text/2025-05-28 NHS Suicidal 16.07.txt"
+  },
+  "tags": [
+    "auto_ocr",
+    "28 nhs suicidal 16.07",
+    "2025"
+  ]
+}

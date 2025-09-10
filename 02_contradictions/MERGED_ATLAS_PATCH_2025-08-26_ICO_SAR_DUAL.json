@@ -1,0 +1,66 @@
+{
+  "evidence": [
+    {
+      "filename": "EVID_2025-08-21_ICO_CaseUpdate_SussexPolice_BrightonFringe_SAR.json",
+      "path": "01_evidence/ico/",
+      "tags": {
+        "entities": [
+          "ICO",
+          "Sussex Police",
+          "Brighton Fringe"
+        ],
+        "breaches": [
+          "SAR Obstruction",
+          "GDPR Violation"
+        ],
+        "legal": [
+          "UK GDPR Article 15",
+          "ICO Case IC-386797-G0L4",
+          "IC-415467-W5D3"
+        ]
+      },
+      "date": "2025-08-21",
+      "title": "ICO Confirmation: Sussex Police & Brighton Fringe SAR Handling",
+      "source": "ICO (Adam Deane)",
+      "linked_contradictions": [
+        "SAR_OBSTRUCTION",
+        "SAFEGUARDING_FAILURE"
+      ]
+    }
+  ],
+  "contradictions": [
+    {
+      "title": "ICO & Charity Commission Acknowledged Breach",
+      "linked_files": [
+        "EVID_2025-08-21_ICO_CaseUpdate_SussexPolice_BrightonFringe_SAR.json"
+      ],
+      "summary": "Confirms dual investigations into Brighton Fringe and Sussex Police SAR violations. ICO references: IC-386797-G0L4 and IC-415467-W5D3.",
+      "date": "2025-08-21",
+      "type": [
+        "data_protection",
+        "regulatory_complaint"
+      ],
+      "linked_threads": [
+        "SAR_OBSTRUCTION",
+        "SAFEGUARDING_FAILURE"
+      ]
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2025-08-21",
+      "title": "ICO Case References Confirmed: Sussex Police + Brighton Fringe",
+      "summary": "Adam Deane (ICO) confirms SAR case IC-386797-G0L4 for Sussex Police and IC-415467-W5D3 for Brighton Fringe.",
+      "linked_files": [
+        "EVID_2025-08-21_ICO_CaseUpdate_SussexPolice_BrightonFringe_SAR.json"
+      ],
+      "tags": [
+        "ICO",
+        "SAR",
+        "Brighton Fringe",
+        "Sussex Police"
+      ],
+      "type": "regulatory_acknowledgement"
+    }
+  ]
+}

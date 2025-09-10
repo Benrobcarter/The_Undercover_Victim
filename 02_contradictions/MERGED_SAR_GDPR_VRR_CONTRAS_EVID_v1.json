@@ -1,0 +1,390 @@
+[
+  {
+    "meta": {
+      "evidence_id": "EVID_2025-08-22_Disclosure_Unit_Typo_Admission",
+      "title": "Disclosure Unit Admits Year Typo & Pushes VRR to OIC; Notes GDPR Breach Routed to IM Team",
+      "created_at": "2025-08-30T23:37:55",
+      "type": "Email",
+      "from": "Information Access Team <Subject.Access1@sussex.police.uk>",
+      "to": [
+        "Ben Carter <benrobcarter@gmail.com>"
+      ],
+      "date": "2025-08-22T06:34:00",
+      "tags": [
+        "YEAR_TYPO_ADMITTED",
+        "SAR_AS_ACCESS_BARRIER",
+        "VRR_DEFLECTION_TO_OIC",
+        "GDPR_BREACH_ROUTED",
+        "ICO_LINKED"
+      ],
+      "version": "1.0.0"
+    },
+    "content": {
+      "subject": "Re: Right of Access Request 1567/25 — Clarification",
+      "body": "Admits 47230214305 was a typing error; corrects to 47240214305. States initial report 22/07/2024; second report 02/11/2024. Says VRR must be directed to OIC and that Dixon GDPR breach will be passed to Information Management."
+    },
+    "links": {
+      "contradiction_threads": [
+        "SAR_AS_ACCESS_BARRIER",
+        "VRR_VPS_SUPPRESSED",
+        "ICO_LINKED"
+      ],
+      "related_entities": [
+        "Sussex Police Information Access Team",
+        "Information Management Team"
+      ]
+    }
+  },
+  {
+    "meta": {
+      "evidence_id": "EVID_2025-02-12_Dixon_GDPR_Breach_Unredacted_Email",
+      "title": "Unredacted Special Category Data Emailed by PC Jon Dixon (Paul Double)",
+      "created_at": "2025-08-30T23:37:55",
+      "type": "Email",
+      "from": "PC Jon Dixon <jon.dixon@sussex.police.uk>",
+      "to": [
+        "Ben Carter <benrobcarter@gmail.com>"
+      ],
+      "date": "2025-02-12T00:00:00",
+      "tags": [
+        "GDPR_BREACH",
+        "SPECIAL_CATEGORY_DATA",
+        "LAWFUL_PROCESSING_FAILURE",
+        "ICO_LINKED"
+      ],
+      "version": "1.0.0"
+    },
+    "content": {
+      "subject": "Forwarded email containing unredacted special category data (Paul Double)",
+      "body": "Email from PC Jon Dixon forwarding unredacted information about a registered sex offender. Constitutes unlawful disclosure of special category data without lawful basis or redaction."
+    },
+    "links": {
+      "contradiction_threads": [
+        "GDPR_BREACH",
+        "ICO_LINKED"
+      ],
+      "related_entities": [
+        "PC Jon Dixon",
+        "Sussex Police",
+        "ICO"
+      ]
+    }
+  },
+  {
+    "meta": {
+      "evidence_id": "EVID_2025-02-12_Dixon_GDPR_Breach_Unredacted_Email",
+      "title": "Unredacted Special Category Data Emailed by PC Jon Dixon (Paul Double)",
+      "created_at": "2025-08-30T23:37:55",
+      "type": "Email",
+      "from": "PC Jon Dixon <jon.dixon@sussex.police.uk>",
+      "to": [
+        "Ben Carter <benrobcarter@gmail.com>"
+      ],
+      "date": "2025-02-12T00:00:00",
+      "tags": [
+        "GDPR_BREACH",
+        "SPECIAL_CATEGORY_DATA",
+        "LAWFUL_PROCESSING_FAILURE",
+        "ICO_LINKED"
+      ],
+      "version": "1.0.0"
+    },
+    "content": {
+      "subject": "Forwarded email containing unredacted special category data (Paul Double)",
+      "body": "Email from PC Jon Dixon forwarding unredacted information about a registered sex offender. Constitutes unlawful disclosure of special category data without lawful basis or redaction."
+    },
+    "links": {
+      "contradiction_threads": [
+        "GDPR_BREACH",
+        "ICO_LINKED"
+      ],
+      "related_entities": [
+        "PC Jon Dixon",
+        "Sussex Police",
+        "ICO"
+      ]
+    }
+  },
+  {
+    "meta": {
+      "evidence_id": "EVID_2025-08-21_Ben_VRR_and_YearTypo_Challenge",
+      "title": "VRR Demand + Crime-Ref Year Typo Challenge to Disclosure Unit (cc ICO)",
+      "created_at": "2025-08-30T23:37:55",
+      "type": "Email",
+      "from": "Ben Carter <benrobcarter@gmail.com>",
+      "to": [
+        "Information Access Team <Subject.Access1@sussex.police.uk>",
+        "icocasework@ico.org.uk"
+      ],
+      "cc": [
+        "sian.berry.mp@parliament.uk"
+      ],
+      "date": "2025-08-21T15:16:00",
+      "tags": [
+        "VRR_REQUEST",
+        "YEAR_TYP0_CALLED_OUT",
+        "ICO_LINKED",
+        "GDPR_BREACH_FLAGGED"
+      ],
+      "version": "1.0.0"
+    },
+    "content": {
+      "subject": "Re: Right of Access Request 1567/25 — VRR Request and Crime-Ref Query",
+      "body": "Demands VRR for NFA on 47240141246; questions how 47230214305 (2023) could 'overtake' a 2024 case; reports unredacted data disclosure by PC Jon Dixon (Paul Double). Attaches proof of start date."
+    },
+    "links": {
+      "contradiction_threads": [
+        "VRR_VPS_SUPPRESSED",
+        "SAR_AS_ACCESS_BARRIER",
+        "ICO_LINKED"
+      ],
+      "related_entities": [
+        "Sussex Police Information Access Team",
+        "ICO",
+        "PC Jon Dixon"
+      ]
+    }
+  },
+  {
+    "meta": {
+      "evidence_id": "EVID_2025-08-20_SAR_Refusal_Live_Case_Claim",
+      "title": "SAR Refusal — 'Ongoing Investigation' & Misstated Crime Ref (Right of Access Request 1567/25)",
+      "created_at": "2025-08-30T23:37:55",
+      "type": "Email",
+      "from": "Information Access Team <Subject.Access1@sussex.police.uk>",
+      "to": [
+        "Ben Carter <benrobcarter@gmail.com>"
+      ],
+      "date": "2025-08-20T12:58:00",
+      "tags": [
+        "SAR_AS_ACCESS_BARRIER",
+        "SCHRODINGERS_CASE",
+        "TIMELINE_MANIPULATION",
+        "ICO_LINKED"
+      ],
+      "version": "1.0.0"
+    },
+    "content": {
+      "subject": "RE: Article 12 – UK-GDPR – Right of Access Request 1567/25",
+      "body": "SAR refusal citing 'ongoing investigation' and stating the 2024 case 47240141246 was 'overtaken by 47230214305' (a 2023-formatted reference). Indicates material cannot be disclosed until conclusion."
+    },
+    "links": {
+      "contradiction_threads": [
+        "SAR_AS_ACCESS_BARRIER",
+        "SCHRODINGERS_CASE"
+      ],
+      "related_entities": [
+        "Sussex Police Information Access Team",
+        "ICO"
+      ],
+      "external_refs": [
+        "IC-386797-G0L4"
+      ]
+    }
+  },
+  {
+    "meta": {
+      "contradiction_id": "CONTRA_2025-08-22_SAR_VRR_Loop_Typo_GDPR_Breach",
+      "title": "SAR Blocked as 'Ongoing', VRR Denied as 'Live', Crime-Ref Year Typo, and GDPR Breach — The Loop",
+      "created_at": "2025-08-30T23:34:56",
+      "version": "1.0.0",
+      "tags": [
+        "SAR_AS_ACCESS_BARRIER",
+        "VRR_VPS_SUPPRESSED",
+        "SCHRODINGERS_CASE",
+        "TIMELINE_MANIPULATION",
+        "GDPR_BREACH",
+        "DEATH_BY_SILENCE",
+        "ICO_LINKED"
+      ]
+    },
+    "narrative": {
+      "summary": "Between 20–22 Aug 2025, Sussex Police used 'ongoing investigation' to refuse SAR disclosure while simultaneously denying Victim’s Right to Review (VRR) on the basis that the case was 'live'. The disclosure unit also misstated a crime reference as 47230214305 (2023), later admitting a 'typing error' for 47240214305 (2024). In parallel, Ben reported an unredacted data disclosure by PC Jon Dixon (special category data re: Paul Double), constituting a GDPR breach. The combined pattern forms a procedural loop that blocks both transparency (SAR) and accountability (VRR), while evidencing inaccurate data handling.",
+      "timeline": [
+        "2025-08-20 — SAR refusal: 'ongoing investigation' cited; claim that 47240141246 was 'overtaken by 47230214305'.",
+        "2025-08-21 — Ben challenges: demands VRR for 47240141246, queries 2023 ref; reports GDPR breach by PC Dixon.",
+        "2025-08-22 — Disclosure unit admits typo: corrects to 47240214305; pushes VRR to 'officer in charge'; notes GDPR breach passed to IM team."
+      ],
+      "contradiction_points": [
+        "If the case is live (used to block SAR), evidence and VPS must be accepted; if closed (NFA), VRR must proceed. Both cannot be refused.",
+        "Crime-reference misstatement (2023 vs 2024) shows records are inaccurate while being used to deny rights.",
+        "GDPR breach (unredacted special category data) undermines claims of lawful, careful processing."
+      ],
+      "legal_analysis": [
+        "UK GDPR / DPA 2018 — Art. 5(1)(d) accuracy; Art. 15 access; Art. 32 integrity/confidentiality; breach handling obligations.",
+        "Victims’ Code — Right 4/6 updates; Right 7 VPS; VRR scheme obligations where NFA decisions exist.",
+        "Police Reform Act 2002 & Code of Ethics — honesty, transparency; proper complaint handling.",
+        "Misconduct in Public Office — if loop is used to wilfully obstruct oversight."
+      ],
+      "notes": "Ben’s ability to identify the year encoded in crime references (e.g., 4723…=2023 vs 4724…=2024) demonstrates system literacy and evidences the typo."
+    },
+    "links": {
+      "contradiction_threads": [
+        "SAR_AS_ACCESS_BARRIER",
+        "VRR_VPS_SUPPRESSED",
+        "SCHRODINGERS_CASE",
+        "DEATH_BY_SILENCE",
+        "ICO_LINKED"
+      ],
+      "related_entities": [
+        "Sussex Police Information Access Team",
+        "PC Jon Dixon",
+        "Inspector David Palmer",
+        "ICO",
+        "IOPC"
+      ],
+      "source_evidence": [
+        "EVID_2025-08-20_SAR_Refusal_Live_Case_Claim",
+        "EVID_2025-08-21_Ben_VRR_and_YearTypo_Challenge",
+        "EVID_2025-08-22_Disclosure_Unit_Typo_Admission",
+        "EVID_2025-02-12_Dixon_GDPR_Breach_Unredacted_Email"
+      ],
+      "external_refs": [
+        "ICO Case Reference: IC-386797-G0L4"
+      ]
+    }
+  },
+  {
+    "meta": {
+      "contradiction_id": "CONTRA_2025-08-14_Holiday_Alibi_Proven",
+      "title": "The Holiday Alibi — Supervisory Silence While Safeguarding Breaches Persist",
+      "created_at": "2025-08-30T23:27:54",
+      "version": "1.0.0",
+      "tags": [
+        "HOLIDAY_ALIBI_PROVEN",
+        "SUPERVISORY_FAILURE",
+        "SAFEGUARDING_FAILURE",
+        "DEATH_BY_SILENCE"
+      ]
+    },
+    "narrative": {
+      "summary": "Across 2024–2025, Sussex Police officers repeatedly invoked 'holiday' or 'away on leave' at critical safeguarding moments to explain delays or non-contact. This pattern culminated on 14–15 August 2025 when Ben Carter placed Inspector David Palmer under formal safeguarding notice. Palmer responded by refusing to engage with the safeguarding points, deflecting to PC Gasson, and stating he would be away until 7 September. This replicated the earlier behaviour of PC Jon Dixon and other officers who claimed to be unavailable during crises, reinforcing the 'holiday alibi' as a systemic tactic of obstruction.",
+      "examples": [
+        "PC Jon Dixon: April–July 2024 WhatsApps showed he was 'away on holiday' while refusing to log suicide disclosure and evidence.",
+        "Other officers: contemporaneous absences or sickness leave used to explain lack of safeguarding or evidence review.",
+        "Inspector David Palmer: 15 August 2025 reply to formal safeguarding notice stated he would be 'away until 7 September' despite being on notice."
+      ],
+      "contradiction_points": [
+        "Officers cannot simultaneously acknowledge high-risk safeguarding disclosures and claim unavailability due to holidays or leave.",
+        "Supervisory oversight (Palmer) should prevent such gaps, but Palmer himself adopted the same tactic.",
+        "The repeated use of absence as justification shows a pattern of institutional obstruction rather than coincidence.",
+        "The 'holiday alibi' is incompatible with statutory safeguarding duties under the Care Act and Victims’ Code."
+      ],
+      "legal_analysis": [
+        "Care Act 2014 s.42 — duty to make safeguarding enquiries; cannot be suspended for leave.",
+        "Victims’ Code 2020 — Right 4 (to be kept informed) and Right 7 (VPS) breached by 'away' responses.",
+        "Police (Conduct) Regulations 2020 — failure to act with diligence and integrity when hiding behind absence.",
+        "Human Rights Act 1998, Articles 2 and 3 — safeguarding duties cannot be deferred by officer holidays."
+      ],
+      "emotional_impact": "For Ben Carter, each officer's 'holiday' or absence reinforced the sense of abandonment. Palmer’s adoption of the same tactic at supervisory level demonstrated that obstruction was institutionalised, escalating distress and eroding all trust in the safeguarding process."
+    },
+    "links": {
+      "contradiction_threads": [
+        "DEATH_BY_SILENCE",
+        "SUPERVISORY_FAILURE",
+        "SAFEGUARDING_FAILURE"
+      ],
+      "related_entities": [
+        "Sussex Police",
+        "Inspector David Palmer",
+        "PC Jon Dixon",
+        "Sergeant Duffy",
+        "PC Gasson"
+      ],
+      "source_evidence": [
+        "EVID_2024-07_Dixon_WhatsApp_HolidayAbsence",
+        "EVID_2025-08-14_Ben_SafeguardingNotice_To_Palmer",
+        "EVID_2025-08-15_Palmer_Reply_To_SafeguardingNotice",
+        "EVID_2025-08-23_VPS_Request_Formal_SussexPolice"
+      ],
+      "linked_contradictions": [
+        "CONTRA_2025-08-30_All_Roads_Lead_to_Palmer",
+        "CONTRA_DEATH_BY_SILENCE"
+      ]
+    }
+  },
+  {
+    "meta": {
+      "evidence_id": "EVID_2025-08-23_VPS_Request_Formal_SussexPolice",
+      "title": "Formal Request to Make a Victim Personal Statement — Sussex Police",
+      "created_at": "2025-08-30T23:10:33",
+      "type": "Email",
+      "from": "Ben Carter <benrobcarter@gmail.com>",
+      "to": [
+        "PSD.Main@sussex.police.uk",
+        "David.Palmer@sussex.police.uk",
+        "public.rights@sussex.police.uk"
+      ],
+      "cc": [
+        "enquiries@policeconduct.gov.uk",
+        "icocasework@ico.org.uk",
+        "sian.berry.mp@parliament.uk"
+      ],
+      "date": "2025-08-23T13:00:00",
+      "crime_references": [
+        "47240141246",
+        "47240214305",
+        "47250093423",
+        "47250152583",
+        "701211"
+      ],
+      "tags": [
+        "DEATH_BY_SILENCE",
+        "HUMAN_RIGHTS",
+        "ICO_LINKED",
+        "MISCONDUCT_PUBLIC_OFFICE",
+        "SAR_AS_ACCESS_BARRIER",
+        "VICTIMS_CODE_BREACH",
+        "VPS_REQUEST",
+        "VRR_VPS_SUPPRESSED"
+      ],
+      "version": "1.0.0"
+    },
+    "content": {
+      "subject": "Formal Request to Make a Victim Personal Statement – Crime Reference Numbers: 47240141246, 47240214305, 47250093423, 47250152583, 701211",
+      "body": "Dear Sir/Madam,\n\nUnder the Victims’ Code of Practice, I am formally exercising my statutory right to make a Victim Personal Statement (VPS) for the stalking and harassment offences recorded under the crime reference numbers listed above.\n\nThis statement will set out the full physical, emotional, psychological, and financial impact these crimes have had on me since first being reported in July 2024. It will also document the continuing harm caused by prolonged police inaction, contradictory record-keeping, and data-protection breaches already under ICO investigation.\n\nAccordingly, I now require Sussex Police to:\n1. Confirm in writing the name, rank, and contact details of the officer assigned to take my VPS.\n2. Provide a clear timeframe for when that officer will contact me to arrange this.\n\nLegal and Regulatory Framework\nFor absolute clarity, failure to comply with this request would constitute breaches of multiple statutory duties:\n\nVictims’ Code of Practice (Domestic Violence, Crime and Victims Act 2004, s.32)\n– Right 7: to make a Victim Personal Statement\n– Rights 4 & 6: to have needs assessed and be kept informed\n\nPolice Reform Act 2002\n– Schedule 3 & Section 10: duty to handle complaints properly and uphold standards of professional behaviour\n\nData Protection Act 2018 / UK GDPR\n– Articles 5, 12–15, Section 45: rights of access, rectification, fairness, and transparent processing\n\nHuman Rights Act 1998 (ECHR)\n– Article 2 (Right to Life) – positive duty to protect known risks\n– Article 3 (Prohibition of inhuman or degrading treatment)\n– Article 8 (Right to private and family life, dignity, and participation in justice)\n\nEquality Act 2010\n– Section 29: prohibition of discrimination in service delivery\n– Section 149: Public Sector Equality Duty (to consider needs of vulnerable victims)\n\nCollege of Policing – Code of Ethics\n– Binding standards of accountability, fairness, respect, integrity\n\nCommon Law: Misconduct in Public Office\n– Wilful neglect or misconduct serious enough to amount to abuse of public trust\n\nYours faithfully,\nBen Carter\n"
+    },
+    "links": {
+      "contradiction_threads": [
+        "DEATH_BY_SILENCE",
+        "SAR_AS_ACCESS_BARRIER",
+        "VICTIM_CREDIBILITY_ERASURE",
+        "VRR_VPS_SUPPRESSED"
+      ],
+      "related_entities": [
+        "Sussex Police",
+        "IOPC",
+        "ICO",
+        "MP Sian Berry"
+      ]
+    }
+  },
+  {
+    "meta": {
+      "contradiction_id": "CONTRA_DEATH_BY_SILENCE",
+      "title": "Death by Silence — Sussex Police Systemic Non-Contact",
+      "created_at": "2025-06-07T09:30:00",
+      "version": "1.0.0",
+      "tags": [
+        "SAFEGUARDING_FAILURE",
+        "SUPERVISORY_FAILURE",
+        "DEATH_BY_SILENCE"
+      ]
+    },
+    "links": {
+      "contradiction_threads": [
+        "SAFEGUARDING_FAILURE",
+        "SUPERVISORY_FAILURE"
+      ],
+      "related_entities": [
+        "Sussex Police",
+        "Inspector David Palmer",
+        "PC Jon Dixon",
+        "PC Gasson"
+      ],
+      "linked_contradictions": [
+        "CONTRA_2025-08-14_Holiday_Alibi_Proven"
+      ]
+    }
+  }
+]

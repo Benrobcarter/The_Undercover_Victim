@@ -1,0 +1,40 @@
+{
+  "processed_pdfs": [
+    {
+      "source": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_unprocessed/2025-04-23_venues-now-box-offices.pdf",
+      "ocr_pdf": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_ocrd/2025-04-23_venues-now-box-offices.pdf",
+      "text": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/text/2025-04-23_venues-now-box-offices.txt",
+      "vex": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/vex/2025-04-23_venues-now-box-offices.json",
+      "sha256": "93c7b7f2bc80335d878b3cf2d99588011946fc83b6608f3f40e5709f2b370b72"
+    },
+    {
+      "source": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_unprocessed/2025-05-06_brighton-fringe-email-they-dont-hate-me.pdf",
+      "ocr_pdf": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_ocrd/2025-05-06_brighton-fringe-email-they-dont-hate-me.pdf",
+      "text": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/text/2025-05-06_brighton-fringe-email-they-dont-hate-me.txt",
+      "vex": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/vex/2025-05-06_brighton-fringe-email-they-dont-hate-me.json",
+      "sha256": "552c954af79d466f6125c1c728d10cbc0831afb73392abfb0153659cf4d3e4aa"
+    },
+    {
+      "source": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_unprocessed/2025-04-23_venues-now-box-offices-V2.pdf",
+      "ocr_pdf": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_ocrd/2025-04-23_venues-now-box-offices-V2.pdf",
+      "text": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/text/2025-04-23_venues-now-box-offices-V2.txt",
+      "vex": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/vex/2025-04-23_venues-now-box-offices-V2.json",
+      "sha256": "79c1dcf6bab89866cc0cdddc00dac061287b5320a4bd07334bf6ebbc1e60f3c8"
+    },
+    {
+      "source": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_unprocessed/8 September 2025 at 07-51 - COMPLAINT TO SUSSEX POLICE.pdf",
+      "ocr_pdf": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_ocrd/8 September 2025 at 07-51 - COMPLAINT TO SUSSEX POLICE.pdf",
+      "text": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/text/8 September 2025 at 07-51 - COMPLAINT TO SUSSEX POLICE.txt",
+      "vex": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/vex/8 September 2025 at 07-51 - COMPLAINT TO SUSSEX POLICE.json",
+      "sha256": "4540533333bc7a5351617f836f9a59230ce215e10b6078212d63993ecb50701c"
+    },
+    {
+      "source": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_unprocessed/2025-04-23_venues-now-box-offices-FIXED.pdf",
+      "ocr_pdf": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/pdf_ocrd/2025-04-23_venues-now-box-offices-FIXED.pdf",
+      "text": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/text/2025-04-23_venues-now-box-offices-FIXED.txt",
+      "vex": "/Users/bencarter/Documents/the_undercover_victim/01_evidence/vex/2025-04-23_venues-now-box-offices-FIXED.json",
+      "sha256": "58b4f7ed4c5705f52df749a94db2ce432cda28221aef8719d272cae07109fa03"
+    }
+  ],
+  "errors": []
+}

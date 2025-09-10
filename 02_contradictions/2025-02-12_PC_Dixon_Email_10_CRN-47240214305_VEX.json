@@ -1,0 +1,167 @@
+{
+  "meta": {
+    "filename": "2025-02-12_PC_Dixon_Email_10_CRN-47240214305_VEX.json",
+    "case_reference": "47240214305",
+    "thread_label": "CRIME_REF_47240214305_THREAD",
+    "actor_cluster": [
+      "Sussex Police",
+      "PC Jon Dixon (EA817)",
+      "Ben Carter",
+      "Norfolk Constabulary"
+    ],
+    "date_range": {
+      "start": "2025-02-12T14:09:00",
+      "end": "2025-02-12T14:09:00"
+    },
+    "source_provenance": "Email from PC Jon Dixon to Ben Carter on 12 Feb 2025 at 14:09, with forwarded Norfolk Constabulary email (Arran Shave).",
+    "created_at_utc": "2025-08-24T17:50:36.409675Z",
+    "vex_schema_version": "1.1"
+  },
+  "emails": [
+    {
+      "id": "email-2025-02-12-1409-dixon-ben",
+      "date": "2025-02-12T14:09:00",
+      "from": {
+        "name": "PC Jon Dixon",
+        "email": "Jon.Dixon@sussex.police.uk",
+        "badge": "EA817"
+      },
+      "to": [
+        {
+          "name": "Ben Carter",
+          "email": "benrobcarter@gmail.com"
+        }
+      ],
+      "subject_summary": "Bail confirmation and Norfolk Constabulary forwarded message re: Paul Double",
+      "body": "Hi Ben\nIt’s understandable to have concerns and worries, if you need additional support let me know and I can make referrals.\nAs per our conversation yesterday I can confirm that Alanna is still on bail. This was what is called Initial Bail to start with but as of 2 Feb 2025 this bail period has been extended till 4 May 2025. The conditions to not contact you or attend your address remain the same, if she sees you in the street or at a venue for example she must make all reasonable effort to leave as soon as she becomes aware. The bail conditions apply to you as you are the victim and will remain as such while the investigation is ongoing.\nI hope that this answers your query.",
+      "attachments": [
+        "PAUL DOUBLE INTERVIEW PLAN.docx",
+        "SOR (310824).pdf",
+        "Paul DOUBLE.eml"
+      ],
+      "labels": [
+        "Police Communication",
+        "Bail Confirmation",
+        "Safeguarding",
+        "Forwarded Email (Norfolk Constabulary)"
+      ]
+    },
+    {
+      "id": "fwd-2025-02-12-1036-shave-dixon",
+      "date": "2025-02-12T10:36:56",
+      "from": {
+        "name": "DC Arran Shave",
+        "email": "Arran.SHAVE1@norfolk.police.uk",
+        "badge": "DC 2157"
+      },
+      "to": [
+        {
+          "name": "PC Jon Dixon",
+          "email": "Jon.Dixon@sussex.police.uk"
+        }
+      ],
+      "cc": [
+        {
+          "name": "DS Charmaine Morton",
+          "email": "Charmaine.Morton@norfolk.police.uk"
+        },
+        {
+          "name": "Kevin Sagon",
+          "email": "Kevin.SAGON@norfolk.police.uk"
+        }
+      ],
+      "subject_summary": "Paul DOUBLE – registered sex offender, breaches notification requirements",
+      "body": "Thank you for your help with this. DOUBLE is a registered sex offender and subject to the Sex offenders registration conditions, one of which is weekly registration as he is NFA.\nDOUBLE has breached this on 2 occasions:\n1. Failed to register by 25/1/2025.\n2. Had not stayed at his mother’s since 7 Dec 2024, confirmed living NFA in Great Yarmouth but did not register.\n\nWe are happy for you to bail him or release him under investigation and PR later. If released, please ensure he registers immediately at a designated police station. His mother does not want him at her address.\n\nAttachments included: Interview Plan, Sex Offender Requirements, prior email.",
+      "attachments": [
+        "PAUL DOUBLE INTERVIEW PLAN.docx",
+        "SOR (310824).pdf",
+        "Paul DOUBLE.eml"
+      ],
+      "labels": [
+        "Forwarded Communication",
+        "Sex Offender Breach",
+        "Norfolk Constabulary"
+      ]
+    }
+  ],
+  "vex": [
+    {
+      "email_id": "email-2025-02-12-1409-dixon-ben",
+      "sentence_tags": [
+        {
+          "text": "As per our conversation yesterday I can confirm that Alanna is still on bail.",
+          "tags": [
+            "BAIL_CONFIRMATION",
+            "SAFEGUARDING"
+          ],
+          "notes": "Confirms bail status following victim’s concerns."
+        },
+        {
+          "text": "As of 2 Feb 2025 this bail period has been extended till 4 May 2025.",
+          "tags": [
+            "BAIL_EXTENSION",
+            "SAFEGUARDING_DURATION"
+          ],
+          "notes": "Establishes extended timeline of bail conditions."
+        },
+        {
+          "text": "The conditions to not contact you or attend your address remain the same.",
+          "tags": [
+            "CONDITIONS_RESTATED",
+            "VICTIM_PROTECTION"
+          ]
+        },
+        {
+          "text": "If she sees you in the street or at a venue for example she must make all reasonable effort to leave as soon as she becomes aware.",
+          "tags": [
+            "ENFORCEMENT_SCOPE",
+            "PUBLIC_SPACE_CONTACT_RULE"
+          ]
+        },
+        {
+          "text": "The bail conditions apply to you as you are the victim and will remain as such while the investigation is ongoing.",
+          "tags": [
+            "VICTIM_RECOGNITION",
+            "SAFEGUARDING_ACKNOWLEDGED"
+          ]
+        }
+      ]
+    }
+  ],
+  "contradiction_links": [
+    {
+      "id": "SP-CONTRA-BAIL-STATUS-CLARITY-2025-02",
+      "claim": "Police provided clarity on bail and safeguarding protections.",
+      "reality": "Victim had to repeatedly chase confirmation; only after pressure did Dixon confirm bail extension and conditions.",
+      "laws_breached": [
+        "Victims’ Code 2020 (Right to information)",
+        "Care Act 2014 (s.42 – safeguarding duty)"
+      ],
+      "damages": [
+        "Emotional",
+        "Reputational"
+      ]
+    }
+  ],
+  "timeline_hooks": [
+    {
+      "phase": "Investigation – Bail Monitoring",
+      "date": "2025-02-12",
+      "events": [
+        "PC Dixon confirms Alanna’s bail extended to 4 May 2025.",
+        "Conditions reaffirmed: no contact, no attendance at victim’s address.",
+        "Acknowledgement that Ben remains the recognised victim.",
+        "Forwarded Norfolk Constabulary email re: sex offender Paul Double included in chain."
+      ],
+      "related_threads": [
+        "CRIME_REF_47240214305_THREAD",
+        "DEATH_BY_SILENCE"
+      ]
+    }
+  ],
+  "damages_summary": {
+    "emotional": "Delay in bail confirmation prolonged uncertainty and fear.",
+    "reputational": "Victim needed confirmation to reassure venues of his standing.",
+    "strategic": "Cross-force email chain about another offender demonstrates mixed priorities while victim safeguarding queries persisted."
+  }
+}

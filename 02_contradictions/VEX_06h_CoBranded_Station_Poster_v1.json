@@ -1,0 +1,27 @@
+{
+  "vex_evidence": [
+    {
+      "id": "VEX_2025-05-01_CoBranded_Station_Poster",
+      "date": "2025-05-01",
+      "source_path": "06h. Misleading Public Advertising & Breach of Trust/POSTER_ARTWORK_2025-05-01_CoBranded_Station.pdf",
+      "summary": "Brighton Fringe approved and co-branded a Brighton Station poster campaign featuring both the Fringe and Half a Camel logos. The campaign created a false sense of operational safety, even though the advertised venues were uninsurable.",
+      "tags": [
+        "COBRAND_EXPLOITATION",
+        "FRAUDULENT_PUBLIC_REPRESENTATION",
+        "STRUCTURAL_ERASURE",
+        "BREACH_OF_PUBLIC_TRUST"
+      ],
+      "linked_contradictions": [
+        "CONTRA_2025-05-01_CoBranded_Poster_Misled_Public"
+      ],
+      "linked_timelines": [
+        "t2_brighton_fringe_consequences#2025-05-01"
+      ],
+      "quoted_text": [
+        "Official poster artwork submitted and approved by Brighton Fringe.",
+        "Half a Camel and Brighton Fringe logos featured side by side.",
+        "Directing ticket sales to official Brighton Fringe system."
+      ]
+    }
+  ]
+}

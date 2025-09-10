@@ -1,0 +1,234 @@
+{
+  "created": "2025-08-25T03:18:08.640166Z",
+  "timeline_source": "PROJECT_FILE_SYNCED_2025-08-25_v4_FULL_SKELETON/01_evidence/timelines/LIVE_VEX_TIMELINE_LATEST.json",
+  "total_clashes": 3,
+  "links": [
+    {
+      "uid": "part1_0111",
+      "assertion": "All I can tell you. Ben, is that I've got summary in front of me of what they have in their file. I can't tell you what they have in the file. What I've been told is, is that the nice links have not been used.",
+      "entities": "nice links",
+      "clash_type": "NICE usage vs 'not used/lost'",
+      "timeline_matches": [
+        {
+          "confidence": 0.098,
+          "date": "2024-11-04T05:36:00",
+          "title": "Joseph Pearson issued Digital Policing NICE link (originating intake).",
+          "desc": "",
+          "tags": [
+            "EVIDENCE_PROVIDED",
+            "NICE_LINK_EXPIRED"
+          ],
+          "raw": {
+            "date": "2024-11-04T05:36:00",
+            "event": "Joseph Pearson issued Digital Policing NICE link (originating intake).",
+            "handover_flag": "Pearson_originates",
+            "actors": [
+              "Joseph Pearson",
+              "Digital Policing",
+              "Ben Carter"
+            ],
+            "vex_tags": [
+              "EVIDENCE_PROVIDED",
+              "NICE_LINK_EXPIRED"
+            ],
+            "contradiction_ids": [
+              "AUTO_DIGPOL_NICE_20241104_0536"
+            ],
+            "linked_evidence": [
+              {
+                "type": "json",
+                "filename": "2024-11-04_Digital-Policing_to_Ben_Evidence-Portal-Request.json",
+                "status": "injected"
+              }
+            ]
+          }
+        },
+        {
+          "confidence": 0.098,
+          "date": "2024-11-04T15:39:00",
+          "title": "Jonathan Dixon Digital Policing NICE link communication (handover sequence).",
+          "desc": "",
+          "tags": [
+            "EVIDENCE_PROVIDED",
+            "NICE_LINK_EXPIRED"
+          ],
+          "raw": {
+            "date": "2024-11-04T15:39:00",
+            "event": "Jonathan Dixon Digital Policing NICE link communication (handover sequence).",
+            "handover_flag": "Pearson_to_Dixon_sequence",
+            "actors": [
+              "Jonathan Dixon",
+              "Digital Policing",
+              "Ben Carter"
+            ],
+            "vex_tags": [
+              "EVIDENCE_PROVIDED",
+              "NICE_LINK_EXPIRED"
+            ],
+            "contradiction_ids": [
+              "AUTO_DIGPOL_NICE_20241104_1539"
+            ],
+            "linked_evidence": [
+              {
+                "type": "json",
+                "filename": "2024-11-04_Digital-Policing_to_Ben_Jonathan-Dixon-Request.json",
+                "status": "injected"
+              }
+            ]
+          }
+        },
+        {
+          "confidence": 0.098,
+          "date": "2024-11-13T13:39:00",
+          "title": "Jonathan Dixon Digital Policing NICE link communication (handover sequence).",
+          "desc": "",
+          "tags": [
+            "EVIDENCE_PROVIDED",
+            "NICE_LINK_EXPIRED"
+          ],
+          "raw": {
+            "date": "2024-11-13T13:39:00",
+            "event": "Jonathan Dixon Digital Policing NICE link communication (handover sequence).",
+            "handover_flag": "Pearson_to_Dixon_sequence",
+            "actors": [
+              "Jonathan Dixon",
+              "Digital Policing",
+              "Ben Carter"
+            ],
+            "vex_tags": [
+              "EVIDENCE_PROVIDED",
+              "NICE_LINK_EXPIRED"
+            ],
+            "contradiction_ids": [
+              "AUTO_DIGPOL_NICE_20241113_1339"
+            ],
+            "linked_evidence": [
+              {
+                "type": "json",
+                "filename": "2024-11-13_Digital-Policing_to_Ben_Jonathan-Dixon-Request.json",
+                "status": "injected"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "uid": "part1_0113",
+      "assertion": "If you got nice links that are either expired or where you submitted Something perhaps, you can let me have a screenshot of those and I can tell the. The other unit that manage these, forums to locate them.",
+      "entities": "nice links",
+      "clash_type": "NICE usage vs 'not used/lost'",
+      "timeline_matches": [
+        {
+          "confidence": 0.124,
+          "date": "2024-11-04T05:36:00",
+          "title": "Joseph Pearson issued Digital Policing NICE link (originating intake).",
+          "desc": "",
+          "tags": [
+            "EVIDENCE_PROVIDED",
+            "NICE_LINK_EXPIRED"
+          ],
+          "raw": {
+            "date": "2024-11-04T05:36:00",
+            "event": "Joseph Pearson issued Digital Policing NICE link (originating intake).",
+            "handover_flag": "Pearson_originates",
+            "actors": [
+              "Joseph Pearson",
+              "Digital Policing",
+              "Ben Carter"
+            ],
+            "vex_tags": [
+              "EVIDENCE_PROVIDED",
+              "NICE_LINK_EXPIRED"
+            ],
+            "contradiction_ids": [
+              "AUTO_DIGPOL_NICE_20241104_0536"
+            ],
+            "linked_evidence": [
+              {
+                "type": "json",
+                "filename": "2024-11-04_Digital-Policing_to_Ben_Evidence-Portal-Request.json",
+                "status": "injected"
+              }
+            ]
+          }
+        },
+        {
+          "confidence": 0.124,
+          "date": "2024-11-04T15:39:00",
+          "title": "Jonathan Dixon Digital Policing NICE link communication (handover sequence).",
+          "desc": "",
+          "tags": [
+            "EVIDENCE_PROVIDED",
+            "NICE_LINK_EXPIRED"
+          ],
+          "raw": {
+            "date": "2024-11-04T15:39:00",
+            "event": "Jonathan Dixon Digital Policing NICE link communication (handover sequence).",
+            "handover_flag": "Pearson_to_Dixon_sequence",
+            "actors": [
+              "Jonathan Dixon",
+              "Digital Policing",
+              "Ben Carter"
+            ],
+            "vex_tags": [
+              "EVIDENCE_PROVIDED",
+              "NICE_LINK_EXPIRED"
+            ],
+            "contradiction_ids": [
+              "AUTO_DIGPOL_NICE_20241104_1539"
+            ],
+            "linked_evidence": [
+              {
+                "type": "json",
+                "filename": "2024-11-04_Digital-Policing_to_Ben_Jonathan-Dixon-Request.json",
+                "status": "injected"
+              }
+            ]
+          }
+        },
+        {
+          "confidence": 0.124,
+          "date": "2024-11-13T13:39:00",
+          "title": "Jonathan Dixon Digital Policing NICE link communication (handover sequence).",
+          "desc": "",
+          "tags": [
+            "EVIDENCE_PROVIDED",
+            "NICE_LINK_EXPIRED"
+          ],
+          "raw": {
+            "date": "2024-11-13T13:39:00",
+            "event": "Jonathan Dixon Digital Policing NICE link communication (handover sequence).",
+            "handover_flag": "Pearson_to_Dixon_sequence",
+            "actors": [
+              "Jonathan Dixon",
+              "Digital Policing",
+              "Ben Carter"
+            ],
+            "vex_tags": [
+              "EVIDENCE_PROVIDED",
+              "NICE_LINK_EXPIRED"
+            ],
+            "contradiction_ids": [
+              "AUTO_DIGPOL_NICE_20241113_1339"
+            ],
+            "linked_evidence": [
+              {
+                "type": "json",
+                "filename": "2024-11-13_Digital-Policing_to_Ben_Jonathan-Dixon-Request.json",
+                "status": "injected"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "uid": "part2_0613",
+      "assertion": "[28:30.7] that that looks like someone that, still hasn't had contact with the police since. Since the 6th April, not logged suicide and still hasn't had any contact.",
+      "entities": "",
+      "clash_type": "Suicide logging (assert 'not logged' vs NICE shows welfare/ambulance)",
+      "timeline_matches": []
+    }
+  ]
+}
