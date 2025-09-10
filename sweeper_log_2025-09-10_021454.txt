@@ -1,0 +1,6 @@
+➡️ Sorting 01_evidence stray files
+➡️ Sorting 02_contradictions files
+➡️ Sorting 03_timelines files
+➡️ Sorting 04_book files
+➡️ Sorting 07_meta files
+➡️ Moving config/editor junk to 99_misc/
